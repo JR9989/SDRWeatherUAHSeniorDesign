@@ -1,6 +1,6 @@
 #include <iostream>
 
-using namespace standard;
+using namespace std;
 
 int main(void) {
 	cout << "Hello World!\n";
