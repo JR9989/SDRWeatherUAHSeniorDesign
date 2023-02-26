@@ -2,6 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8">
+  <title>Image Gallery</title>
   <link rel="stylesheet" href="style.css">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Hello</title>
@@ -59,6 +60,13 @@
       color: white;
       border-color: rgb(52,133,235);
     }
+    .thumbnail {
+        height: 100px;
+        width: 100px;
+        margin: 10px;
+        border: 1px solid #ccc;
+        float: left;
+      }
   </style>
 </head>
 <body>
@@ -66,12 +74,36 @@
     <img src="images/satellites.png" alt="Satellites" height="200px"><br>
     <a href="calculate.php" class="link">Determine Satellite Azimuth</a>
     <br><br><br>
-    <a href="images.php" class="link">Generated Images</a>
+    <a href="index.php" class="link">Home</a>
     <br><br>
-    <input type="text" id="commandInput" class="inputBox" placeholder="Enter command">
-    <button id="runButton" class="link" onclick="runCommand()">Run</button>
-    <br><br>
-    <p id="output"></p>
+    <?php
+      $image_names = glob("generatedImages/*.{jpg,png,gif}", GLOB_BRACE);
+      foreach ($image_names as $image_name) {
+        echo '<a href="' . $image_name . '">';
+        echo '<img class="thumbnail" src="' . $image_name . '">';
+        echo '</a>';
+      }
+    ?>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+      // script to display full size image on thumbnail click
+      $(document).ready(function() {
+        $('img.thumbnail').on('click', function() {
+          var src = $(this).attr('src');
+          var img = '<img src="' + src + '">';
+          // start AJAX request
+          $.ajax({
+            url: 'display_image.php',
+            data: {image: src},
+            type: 'post',
+            success: function(response) {
+              $('#image-display').html(response);
+            }
+          });
+        });
+      });
+    </script>
+    <div id="image-display"></div>
   </div>
 </body>
 </html>
