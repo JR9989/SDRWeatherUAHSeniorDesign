@@ -3,19 +3,6 @@ body {
       text-align: center;
       font-family: Arial, Helvetica, sans-serif;
     }
-a {
-  background-color: gray;
-  color: white;
-  font-weight: bold;
-  font-size: 24px;
-  padding: 10px;
-}
-a:hover {
-  background-color: silver;
-}
-a:visted {
-  color: white;
-}
 h1 {
   color: white;
 }

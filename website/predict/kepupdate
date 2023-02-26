@@ -1,0 +1,23 @@
+#!/bin/bash
+#
+# Invoke as kepupdate -q in crontab scripts to keep the update "quiet".
+#
+ 
+dir=$HOME/.predict
+
+wget -qr https://www.amsat.org/tle/current/nasabare.txt -O $dir/amateur.txt
+wget -qr https://www.celestrak.com/NORAD/elements/visual.txt -O $dir/visual.txt
+wget -qr https://www.celestrak.com/NORAD/elements/weather.txt -O $dir/weather.txt
+
+cat $dir/amateur.txt $dir/visual.txt $dir/weather.txt > $dir/keps.tle
+
+if [ -e $dir/keps.tle ]; then
+	predict -u $dir/keps.tle
+
+	if [[ $1 != "-q" ]] && [[ $1 != "-quiet" ]] && [[ $1 != "--quiet" ]]; then
+		echo "PREDICT's keps have been updated!"
+	fi
+fi
+
+rm $dir/amateur.txt $dir/visual.txt $dir/weather.txt
+  

@@ -8,7 +8,9 @@
   <script>
     function runCommand() {
       // Get the command entered by the user
-      var command = document.getElementById("commandInput").value;
+      var latitude = document.getElementById("latInput").value;
+      var longitude = document.getElementById("longInput").value;
+      var echo = "echo " + latitude + " " + longitude;
 
       // Get the element where the output will be displayed
       var outputElement = document.getElementById("output");
@@ -17,7 +19,7 @@
       var xhr = new XMLHttpRequest();
 
       // Set up the request
-      xhr.open("POST", "runCommand.php");
+      xhr.open("POST", "azimuthCalculate.php");
       xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
 
       // Define what happens when the response is received
@@ -63,10 +65,11 @@
 </head>
 <body>
   <div>
-    <img src="images/satellites.png" alt="Satellites" height="200px"><br>
-    <a href="calculate.php" class="link">Determine Satellite Azimuth</a>
+    <img src="images/azimuth.png" alt="Satellites" height="100px"><br><br>
+    <a href="index.php" class="link">Home</a>
     <br><br><br>
-    <input type="text" id="commandInput" class="inputBox" placeholder="Enter command">
+    <input type="text" id="latInput" class="inputBox" placeholder="Latitude">
+    <input type="text" id="longInput" class="inputBox" placeholder="Longitude">
     <button id="runButton" class="link" onclick="runCommand()">Run</button>
     <br><br>
     <p id="output"></p>
