@@ -31,12 +31,40 @@
       xhr.send("command=" + encodeURIComponent(command));
     }
   </script>
+  <style>
+    .inputBox {
+      font-size: 18px;
+      padding: 10px;
+      background-color: rgba(0,0,0,0.75);
+      border: 5px solid azure;
+      color: white;
+    }
+    #output {
+      padding: 10px;
+      background-color: rgba(255,255,255,0.75);
+      color: rgb(52,113,235);
+      border: solid 10px rgb(52,113,235);
+    }
+    #runButton {
+      font-size: 24px;
+      padding: 5px;
+      background-color: rgba(52,133,235,0.75);
+      border: white solid 5px;
+      color: white;
+      font-weight: bold;
+    }
+    #runButton:hover {
+      background-color: rgba(0,0,0,0.75);
+      color: white;
+      border-color: rgb(52,133,235);
+    }
+  </style>
 </head>
 <body>
   <div>
     <img src="images/satellites.png" alt="Satellites" height="200px"><br>
-    <input type="text" id="commandInput">
-    <button onclick="runCommand()">Run</button>
+    <input type="text" id="commandInput" class="inputBox" placeholder="Enter command">
+    <button id="runButton" onclick="runCommand()">Run</button>
     <br><br>
     <p id="output"></p>
   </div>

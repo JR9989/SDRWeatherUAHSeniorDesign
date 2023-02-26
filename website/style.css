@@ -19,12 +19,19 @@ a:visted {
 h1 {
   color: white;
 }
-p {
+#output {
   margin: auto;
   width: 800px;
   height: 1200px;
   position: relative;
-  background-color: white;
+  margin-bottom: 50px;
+  padding: 50px;
+  background-color: rgba(255,255,255,0.75) !important;
+}
+#commandInput {
+  padding: 15px;
+  border: solid 2px azure;
+  text-size: 18px;
 }
 div {
   margin: auto;
