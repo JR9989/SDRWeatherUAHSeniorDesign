@@ -1,0 +1,33 @@
+body {
+      background:url('images/space_bg.gif') repeat fixed center;
+      text-align: center;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+a {
+  background-color: gray;
+  color: white;
+  font-weight: bold;
+  font-size: 24px;
+  padding: 10px;
+}
+a:hover {
+  background-color: silver;
+}
+a:visted {
+  color: white;
+}
+h1 {
+  color: white;
+}
+p {
+  margin: auto;
+  width: 800px;
+  height: 1200px;
+  position: relative;
+  background-color: white;
+}
+div {
+  margin: auto;
+  text-align: center;
+  position: relative;
+}

@@ -1,102 +1,44 @@
-<?php
-/**
- * Execute the given command by displaying console output live to the user.
- *  @param  string  cmd          :  command to be executed
- *  @return array   exit_status  :  exit status of the executed command
- *                  output       :  console output of the executed command
- */
-function liveExecuteCommand($cmd)
-{
-
-    while (@ ob_end_flush()); // end all output buffers if any
-
-    $proc = popen("$cmd 2>&1 ; echo Exit status : $?", 'r');
-
-    $live_output     = "";
-    $complete_output = "";
-
-    while (!feof($proc))
-    {
-        $live_output     = fread($proc, 4096);
-        $complete_output = $complete_output . $live_output;
-        echo $live_output;
-        @ flush();
-    }
-
-    pclose($proc);
-
-    // get exit status
-    preg_match('/[0-9]+$/', $complete_output, $matches);
-
-    // return exit status and intended output
-    return array (
-                    'exit_status'  => intval($matches[0]),
-                    'output'       => str_replace("Exit status : " . $matches[0], '', $complete_output)
-                 );
-}
-?>
-<?php 
-if ($_GET['run']) {
-		$result = liveExecuteCommand('ping google.com');
-
-		if($result['exit_status'] === 0){
-		   // do something if command execution succeeds
-		} else {
-		    // do something on failure
-		}
-}
-?>
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Hello</title>
-	<style>
-		body {
-			background:url('images/space_bg.gif') repeat fixed center;
-			text-align: center;
-			font-family: Arial, Helvetica, sans-serif;
-		}
-		a {
-			background-color: gray;
-			color: white;
-			font-weight: bold;
-			font-size: 24px;
-			padding: 10px;
-		}
-		a:hover {
-			background-color: silver;
-		}
-		a:visted {
-			color: white;
-		}
-		h1 {
-			color: white;
-		}
-		p {
-			margin: auto;
-			width: 800px;
-			height: 1200px;
-			position: relative;
-			background-color: white;
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hello</title>
+  <script>
+    function runCommand() {
+      // Get the command entered by the user
+      var command = document.getElementById("commandInput").value;
 
-		}
-		div {
-			margin: auto;
-			text-align: center;
-			position: relative;
-		}
-	</style>
+      // Get the element where the output will be displayed
+      var outputElement = document.getElementById("output");
+
+      // Create a new XMLHttpRequest object
+      var xhr = new XMLHttpRequest();
+
+      // Set up the request
+      xhr.open("POST", "runCommand.php");
+      xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+
+      // Define what happens when the response is received
+      xhr.onreadystatechange = function() {
+        if (xhr.readyState == XMLHttpRequest.DONE) {
+          outputElement.innerHTML = xhr.responseText;
+        }
+      }
+
+      // Send the request with the command as a parameter
+      xhr.send("command=" + encodeURIComponent(command));
+    }
+  </script>
 </head>
 <body>
-	<div>
-		<h1>Satellites</h1>
-		<a href="?run=true">Click me</a><br>
-		<br>
-		<p><?= $error; ?>
-			<?php echo nl2br($live_output) ?></p>
-	</div>
-
+  <div>
+    <img src="images/satellites.png" alt="Satellites" height="200px"><br>
+    <input type="text" id="commandInput">
+    <button onclick="runCommand()">Run</button>
+    <br><br>
+    <p id="output"></p>
+  </div>
 </body>
 </html>
