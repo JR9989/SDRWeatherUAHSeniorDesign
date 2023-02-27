@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <title>Image Gallery</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css?version=2">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Hello</title>
   <script>
@@ -61,17 +61,34 @@
       border-color: rgb(52,133,235);
     }
     .thumbnail {
-        height: 100px;
-        width: 100px;
+        height: 250px;
+        display: block;
+        width: 250px;
         margin: 10px;
-        border: 1px solid #ccc;
-        float: left;
+        border: 5px solid #ccc;
       }
+    .imageLink {
+      background: none;
+    }
+    .thumbnailName {
+      color: white;
+      display: inline;
+    }
+    .thumbnailName:hover {
+      color: red;
+    }
+    .thumbNailContainer {
+      display: inline-block;
+      width: 300px !important;
+    }
+    .thumbNailContainer img:hover {
+      border: 5px solid blue;
+    }
   </style>
 </head>
 <body>
-  <div>
-    <img src="images/satellites.png" alt="Satellites" height="200px"><br>
+  <div style="margin-top: 25px;">
+    <img src="images/imags.gif" alt="Satellites" height="150px"><br>
     <a href="calculate.php" class="link">Determine Satellite Azimuth</a>
     <br><br><br>
     <a href="index.php" class="link">Home</a>
@@ -79,9 +96,13 @@
     <?php
       $image_names = glob("generatedImages/*.{jpg,png,gif}", GLOB_BRACE);
       foreach ($image_names as $image_name) {
-        echo '<a href="' . $image_name . '">';
+        $image_title = str_replace('generatedImages/', '', $image_name);
+        echo '<div class="thumbNailContainer">';
+        echo '<a class="imageLink" href="displayImage.php?image=' . $image_name . '">';
         echo '<img class="thumbnail" src="' . $image_name . '">';
+        echo '<p class="thumbnailName">' . $image_title . ' </p>';
         echo '</a>';
+        echo '</div>';
       }
     ?>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>

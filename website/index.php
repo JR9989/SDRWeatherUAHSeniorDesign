@@ -59,6 +59,11 @@
       color: white;
       border-color: rgb(52,133,235);
     }
+    div {
+      margin: auto;
+      text-align: center;
+      position: relative;
+    }
   </style>
 </head>
 <body>
