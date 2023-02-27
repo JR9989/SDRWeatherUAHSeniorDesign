@@ -1,10 +1,15 @@
+<!-- style.php -->
+<!-- Author: J.R. Stooksbury, Date: 2/26/23 -->
+<!-- Substitution for CSS stylesheet implemented via php and style due to browsers being stupid and caching the stylesheet and refusing to update it without having to change the sheet's version number on every single page -->
 <style>
+
 /* Global Styles */
 
 body {
       background:url('images/space_bg.gif') repeat fixed center;
       text-align: center;
       font-family: Arial, Helvetica, sans-serif;
+      padding: 10px;
 }
 .link {
       font-size: 24px;
@@ -24,7 +29,7 @@ h1 {
   font-size: 48px;
 }
 
-/* Home Page */
+/* Home Page (index.php) */
 
 #output {
   margin: auto;
@@ -56,9 +61,9 @@ h1 {
   position: relative;
 }
 
-/* Azimuth Calculation Page */
+/* Azimuth Calculation Page (calculation.php) */
 
-/* Gallery Page */
+/* Gallery Page (images.php) */
 
 .thumbnail {
         height: 250px;
@@ -85,7 +90,7 @@ h1 {
   border: 5px solid blue;
 }
 
-/* Individual Image Viewer Page */
+/* Individual Image Viewer Page (displayImage.php) */
 
 .fullSizeImage {
   margin-top: 20px;
@@ -97,6 +102,11 @@ h1 {
   display: block;
   border: white solid 5px;
   margin-bottom: 25px;
+}
+.full-size {
+        max-width: 100%;
+        max-height: 100%;
+        margin: 0 auto;
 }
 
 </style>

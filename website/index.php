@@ -1,10 +1,13 @@
+<!-- index.php -->
+<!-- Author: J.R. Stooksbury, Date: 2/26/23 -->
+<!-- Main landing page for web server -->
 <!DOCTYPE html>
 <html>
 <head>
   <meta charset="utf-8">
   <?php include 'style.php'; ?>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Hello</title>
+  <title>Home</title>
   <script>
     function runCommand() {
       // Get the command entered by the user

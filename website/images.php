@@ -1,3 +1,6 @@
+<!-- images.php -->
+<!-- Author: J.R. Stooksbury, Date: 2/26/23 -->
+<!-- Dynamically looks at specified directory and generates image thumbnail gallery based upon its contents -->
 <!DOCTYPE html>
 <html>
 <head>
@@ -5,7 +8,7 @@
   <title>Image Gallery</title>
   <?php include 'style.php'; ?>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Hello</title>
+  <title>Images</title>
   <script>
     function runCommand() {
       // Get the command entered by the user

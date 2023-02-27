@@ -1,7 +1,0 @@
-#!/bin/bash
-# Script to prepare for a clean distribution.
-#
-rm -f predict predict.h
-cp -p $HOME/.predict/predict.tle default/predict.tle
-cp -p $HOME/.predict/predict.db default/predict.db
-echo "Done!"

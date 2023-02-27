@@ -1,3 +1,6 @@
+<!-- azimuthCalculate.php -->
+<!-- Author: J.R. Stooksbury, Date: 2/26/23 -->
+<!-- Returns Azimuth Value of satellite based upon users coordinates, not presently functional, not a page for direct viewing -->
 <?php
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $command = $_POST['command'];
