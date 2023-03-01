@@ -39,7 +39,7 @@
 </head>
 <body>
   <div>
-    <img src="images/azimuth.gif" alt="Satellites" height="100px"><br><br>
+    <img src="images/azimuth.gif" alt="Azimuth Calculate" class="imageTitle"><br><br>
     <a href="index.php" class="link">Home</a>
     <br><br><br>
     <input type="text" id="latInput" class="inputBox" placeholder="Latitude">

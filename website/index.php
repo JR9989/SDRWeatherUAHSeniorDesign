@@ -37,7 +37,7 @@
 </head>
 <body>
   <div class="homeDiv">
-    <img src="images/satellites.png" alt="Satellites" height="200px"><br>
+    <img src="images/satellites.png" alt="Satellites" class="imageTitle"><br>
     <a href="calculate.php" class="link">Determine Satellite Azimuth</a>
     <br><br><br>
     <a href="images.php" class="link">Generated Images</a>

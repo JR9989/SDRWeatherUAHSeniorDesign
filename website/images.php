@@ -62,7 +62,7 @@
 </head>
 <body>
   <div style="margin-top: 25px;">
-    <img src="images/imags.gif" alt="Satellites" height="150px"><br>
+    <img src="images/imags.gif" alt="Generated Images" class="imageTitle"><br>
     <a href="calculate.php" class="link">Determine Satellite Azimuth</a>
     <br><br><br>
     <a href="index.php" class="link">Home</a>

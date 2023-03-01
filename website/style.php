@@ -12,12 +12,13 @@ body {
       padding: 10px;
 }
 .link {
-      font-size: 24px;
+      font-size: 22px;
       padding: 5px;
       background-color: rgba(52,133,235,0.75);
       border: white solid 5px;
       color: white;
       font-weight: bold;
+      margin: 2px;
 }
 .link:hover {
   background-color: rgba(0,0,0,0.75);
@@ -28,16 +29,22 @@ h1 {
   color: white;
   font-size: 48px;
 }
+.imageTitle {
+  max-width: 100%;
+  padding: 10px;
+  max-height: 150px;
+}
 
 /* Home Page (index.php) */
 
 #output {
   margin: auto;
-  width: 800px;
-  height: 1200px;
+  width: 100%;
+  max-width: 800px;
+  min-height: 1200px;
   position: relative;
   margin-bottom: 50px;
-  padding: 50px;
+  padding: 5px;
   background-color: rgba(255,255,255,0.75);
   color: rgb(52,113,235);
   border: solid 10px rgb(52,113,235);
