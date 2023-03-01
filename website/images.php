@@ -13,9 +13,7 @@
 <body>
   <div style="margin-top: 25px;">
     <img src="images/imags.gif" alt="Generated Images" class="imageTitle"><br>
-    <a href="calculate.php" class="link">Determine Satellite Azimuth</a>
-    <br><br>
-    <a href="index.php" class="link">Home</a>
+    <?php include 'header.php'; ?>
     <?php
     if(isset($_POST['clearImages'])) { // check if the button is pressed
         $command = escapeshellcmd('./removeImages.sh');

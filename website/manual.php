@@ -37,17 +37,8 @@
 </head>
 <body>
   <div class="homeDiv">
-    <h1>Manual</h1>
-    <img src="images/satellites.png" alt="Satellites" class="imageTitle">
-    <br>
-    <a href="downloadImages.php" class="link">Download Images</a>
-    <br>
-    <a href="index.php" class="link">Home</a>
-    <br>
-    <a href="calculate.php" class="link">Determine Satellite Azimuth</a>
-    <br>
-    <a href="images.php" class="link">Generated Images</a>
-    <br><br>
+    <img src="images/manual.gif" alt="User Manual" class="imageTitle">
+    <?php include 'header.php'; ?>
     <p class="notice">Is simple, point antenna at satellite, satellite go brrr. Boom, radar image.</p>
   </div>
 </body>

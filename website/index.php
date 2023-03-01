@@ -39,18 +39,12 @@
   <div class="homeDiv">
     <img src="images/satellites.png" alt="Satellites" class="imageTitle">
     <br>
-    <a href="downloadImages.php" class="link">Download Images</a>
-    <br>
-    <a href="manual.php" class="link">User Manual</a>
-    <br>
-    <a href="calculate.php" class="link">Determine Satellite Azimuth</a>
-    <br>
-    <a href="images.php" class="link">Generated Images</a>
-    <br><br>
+    <?php include 'header.php'; ?>
     <input type="text" id="commandInput" class="inputBox" placeholder="Enter command">
     <button id="runButton" class="link" onclick="runCommand()">Run</button>
     <br><br>
     <p id="output"></p>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   </div>
 </body>
 </html>

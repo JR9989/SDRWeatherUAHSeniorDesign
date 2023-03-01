@@ -37,17 +37,8 @@
 </head>
 <body>
   <div class="homeDiv">
-    <h1>Download Images</h1>
-    <img src="images/satellites.png" alt="Satellites" class="imageTitle">
-    <br>
-    <a href="index.php" class="link">Home</a>
-    <br>
-    <a href="manual.php" class="link">User Manual</a>
-    <br>
-    <a href="calculate.php" class="link">Determine Satellite Azimuth</a>
-    <br>
-    <a href="images.php" class="link">Generated Images</a>
-    <br><br>
+    <img src="images/download.gif" alt="Downloaded Images" class="imageTitle">
+    <?php include 'header.php'; ?>
     <input type="text" id="commandInput" class="inputBox" placeholder="Enter command">
     <button id="runButton" class="link" onclick="runCommand()">Run</button>
     <br><br>

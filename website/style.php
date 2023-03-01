@@ -12,6 +12,38 @@ body {
       padding: 10px;
       overflow: scroll;
 }
+header {
+  width: 100%;
+  display: block;
+}
+header ul {
+  list-style-type: none;
+}
+header ul li {
+  display: inline-block;
+  margin-bottom: 24px;
+}
+header ul li a {
+  background-color: rgba(52,133,235,0.75);
+  color: white;
+  border: white solid 5px;
+  margin: 0 auto;
+  font-size: 22px;
+  font-weight: bold;
+  margin: 3px;
+  padding: 5px;
+}
+header ul li a:hover {
+  background-color: rgba(0,0,0,0.75);
+  border-color: rgb(52,133,235);
+}
+header ul li a:active {
+  background-color: rgba(250, 133, 235, 1.0);
+}
+.active-link {
+  color: red;
+  background-color: red;
+}
 .link {
       font-size: 22px;
       padding: 5px;
