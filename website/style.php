@@ -10,6 +10,7 @@ body {
       text-align: center;
       font-family: Arial, Helvetica, sans-serif;
       padding: 10px;
+      overflow: scroll;
 }
 .link {
       font-size: 22px;
@@ -17,8 +18,11 @@ body {
       background-color: rgba(52,133,235,0.75);
       border: white solid 5px;
       color: white;
+      margin: 0 auto;
       font-weight: bold;
       margin: 2px;
+      margin-top: 10px;
+      display: inline-block;
 }
 .link:hover {
   background-color: rgba(0,0,0,0.75);
@@ -49,6 +53,7 @@ h1 {
   color: rgb(52,113,235);
   border: solid 10px rgb(52,113,235);
   margin-bottom: 25px;
+  box-sizing: border-box;  
 }
 #commandInput {
   padding: 15px;

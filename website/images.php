@@ -64,10 +64,12 @@
   <div style="margin-top: 25px;">
     <img src="images/imags.gif" alt="Generated Images" class="imageTitle"><br>
     <a href="calculate.php" class="link">Determine Satellite Azimuth</a>
-    <br><br><br>
+    <br><br>
     <a href="index.php" class="link">Home</a>
-    <button id="runButton" class="link" onclick="clearImages()">Clear Images</button>
-    <button id="runButton" class="link" onclick="addImages()">Add Images</button>
+    <div>
+      <button id="runButton" class="link" onclick="clearImages()">Clear Images</button>
+      <button id="runButton" class="link" onclick="addImages()">Add Images</button>
+    </div>
     <br><br>
     <?php
       $image_names = glob("generatedImages/*.{jpg,png,gif}", GLOB_BRACE);
