@@ -101,6 +101,11 @@ h1 {
 .thumbNailContainer img:hover {
   border: 5px solid blue;
 }
+.notice {
+  color: white;
+  font-weight: bold;
+  font-size: 24px;
+}
 
 /* Individual Image Viewer Page (displayImage.php) */
 
@@ -116,9 +121,7 @@ h1 {
   margin-bottom: 25px;
 }
 .full-size {
-        max-width: 100%;
-        max-height: 100%;
-        margin: 0 auto;
+  margin: 0 auto;
 }
 
 </style>

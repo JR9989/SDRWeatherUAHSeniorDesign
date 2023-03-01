@@ -9,56 +9,6 @@
   <?php include 'style.php'; ?>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Images</title>
-  <script>
-    function clearImages() {
-      // Get the command entered by the user
-      var command = "./removeImages.sh"
-
-      // Get the element where the output will be displayed
-      var outputElement = document.getElementById("output");
-
-      // Create a new XMLHttpRequest object
-      var xhr = new XMLHttpRequest();
-
-      // Set up the request
-      xhr.open("POST", "runCommand.php");
-      xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
-
-      // Define what happens when the response is received
-      xhr.onreadystatechange = function() {
-        if (xhr.readyState == XMLHttpRequest.DONE) {
-          outputElement.innerHTML = xhr.responseText;
-        }
-      }
-
-      // Send the request with the command as a parameter
-      xhr.send("command=" + encodeURIComponent(command));
-    }
-    function addImages() {
-      // Get the command entered by the user
-      var command = "./addImages.sh"
-
-      // Get the element where the output will be displayed
-      var outputElement = document.getElementById("output");
-
-      // Create a new XMLHttpRequest object
-      var xhr = new XMLHttpRequest();
-
-      // Set up the request
-      xhr.open("POST", "runCommand.php");
-      xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
-
-      // Define what happens when the response is received
-      xhr.onreadystatechange = function() {
-        if (xhr.readyState == XMLHttpRequest.DONE) {
-          outputElement.innerHTML = xhr.responseText;
-        }
-      }
-
-      // Send the request with the command as a parameter
-      xhr.send("command=" + encodeURIComponent(command));
-    }
-  </script>
 </head>
 <body>
   <div style="margin-top: 25px;">
@@ -66,13 +16,27 @@
     <a href="calculate.php" class="link">Determine Satellite Azimuth</a>
     <br><br>
     <a href="index.php" class="link">Home</a>
-    <div>
-      <button id="runButton" class="link" onclick="clearImages()">Clear Images</button>
-      <button id="runButton" class="link" onclick="addImages()">Add Images</button>
-    </div>
+    <?php
+    if(isset($_POST['clearImages'])) { // check if the button is pressed
+        $command = escapeshellcmd('./removeImages.sh');
+        $output = shell_exec($command); // execute the command
+    }
+    if(isset($_POST['addImages'])) { // check if the button is pressed
+        $command = escapeshellcmd('./addImages.sh'); 
+        $output = shell_exec($command); // execute the command
+    }
+    ?>
+    <form method="post">
+      <input type="submit" name="clearImages" class="link" value="Clear Images">
+      <input type="submit" name="addImages" class="link" value="Add Images">
+    </form>
     <br><br>
     <?php
-      $image_names = glob("generatedImages/*.{jpg,png,gif}", GLOB_BRACE);
+    $image_names = glob("generatedImages/*.{jpg,png,gif}", GLOB_BRACE);
+
+    if(empty($image_names)){
+      echo '<p class="notice">No images found in the directory.</p>';
+    } else {
       foreach ($image_names as $image_name) {
         $image_title = str_replace('generatedImages/', '', $image_name);
         echo '<div class="thumbNailContainer">';
@@ -82,6 +46,7 @@
         echo '</a>';
         echo '</div>';
       }
+    }
     ?>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script>
