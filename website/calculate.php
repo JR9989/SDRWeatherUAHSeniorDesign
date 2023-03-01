@@ -1,13 +1,7 @@
 <!-- calculate.php -->
 <!-- Author: J.R. Stooksbury, Date: 2/26/23 -->
 <!-- Allows user to calculate satellite's azimuth, not presently functional -->
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <?php include 'style.php'; ?>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Calculate</title>
+<?php $title="Calculate Azimuth"; $logo="azimuth.gif"; $altText="Calculate Azimuth"; include 'header.php'; ?>
   <script>
     function runCommand() {
       // Get the command entered by the user
@@ -36,16 +30,11 @@
       xhr.send("command=" + encodeURIComponent(command));
     }
   </script>
-</head>
-<body>
   <div>
-    <img src="images/azimuth.gif" alt="Azimuth Calculate" class="imageTitle"><br><br>
-    <?php include 'header.php'; ?>
     <input type="text" id="latInput" class="inputBox" placeholder="Latitude">
     <input type="text" id="longInput" class="inputBox" placeholder="Longitude">
     <button id="runButton" class="link" onclick="runCommand()">Run</button>
     <br><br>
     <p id="output"></p>
   </div>
-</body>
-</html>
+<?php include 'footer.php'; ?>

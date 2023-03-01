@@ -1,13 +1,7 @@
 <!-- index.php -->
-<!-- Author: J.R. Stooksbury, Date: 2/26/23 -->
-<!-- Main landing page for web server -->
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <?php include 'style.php'; ?>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Home</title>
+<!-- Author: J.R. Stooksbury, Date: 3/1/23 -->
+<!-- Page for downloading the images -->
+<?php $title="Download Images"; $logo="download.gif"; $altText="Download Images"; include 'header.php'; ?>
   <script>
     function runCommand() {
       // Get the command entered by the user
@@ -34,15 +28,10 @@
       xhr.send("command=" + encodeURIComponent(command));
     }
   </script>
-</head>
-<body>
   <div class="homeDiv">
-    <img src="images/download.gif" alt="Downloaded Images" class="imageTitle">
-    <?php include 'header.php'; ?>
     <input type="text" id="commandInput" class="inputBox" placeholder="Enter command">
     <button id="runButton" class="link" onclick="runCommand()">Run</button>
     <br><br>
     <p id="output"></p>
   </div>
-</body>
-</html>
+<?php include 'footer.php'; ?>

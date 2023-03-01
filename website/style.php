@@ -66,9 +66,26 @@ h1 {
   font-size: 48px;
 }
 .imageTitle {
+  box-sizing: border-box;
   max-width: 100%;
   padding: 10px;
   max-height: 150px;
+}
+footer {
+  width: 100%;
+  position: relative;
+  bottom: 0px;
+  display: block;
+  text-align: center;
+  margin: 0 auto;
+}
+footer p {
+  box-sizing: border-box;
+  padding: 10px;
+  margin-right: 5px;
+  display: inline-block;
+  background-color: rgba(0,0,0,0.5);
+  color: white;
 }
 
 /* Home Page (index.php) */

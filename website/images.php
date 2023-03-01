@@ -1,19 +1,8 @@
 <!-- images.php -->
 <!-- Author: J.R. Stooksbury, Date: 2/26/23 -->
 <!-- Dynamically looks at specified directory and generates image thumbnail gallery based upon its contents -->
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <title>Image Gallery</title>
-  <?php include 'style.php'; ?>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Images</title>
-</head>
-<body>
+<?php $title="Generated Images"; $logo="images.gif"; $altText="Generated Images"; include 'header.php'; ?>
   <div style="margin-top: 25px;">
-    <img src="images/imags.gif" alt="Generated Images" class="imageTitle"><br>
-    <?php include 'header.php'; ?>
     <?php
     if(isset($_POST['clearImages'])) { // check if the button is pressed
         $command = escapeshellcmd('./removeImages.sh');
@@ -68,5 +57,4 @@
     </script>
     <div id="image-display"></div>
   </div>
-</body>
-</html>
+<?php include 'footer.php' ?>
