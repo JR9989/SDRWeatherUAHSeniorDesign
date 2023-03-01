@@ -10,9 +10,33 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Images</title>
   <script>
-    function runCommand() {
+    function clearImages() {
       // Get the command entered by the user
-      var command = document.getElementById("commandInput").value;
+      var command = "./removeImages.sh"
+
+      // Get the element where the output will be displayed
+      var outputElement = document.getElementById("output");
+
+      // Create a new XMLHttpRequest object
+      var xhr = new XMLHttpRequest();
+
+      // Set up the request
+      xhr.open("POST", "runCommand.php");
+      xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+
+      // Define what happens when the response is received
+      xhr.onreadystatechange = function() {
+        if (xhr.readyState == XMLHttpRequest.DONE) {
+          outputElement.innerHTML = xhr.responseText;
+        }
+      }
+
+      // Send the request with the command as a parameter
+      xhr.send("command=" + encodeURIComponent(command));
+    }
+    function addImages() {
+      // Get the command entered by the user
+      var command = "./addImages.sh"
 
       // Get the element where the output will be displayed
       var outputElement = document.getElementById("output");
@@ -42,6 +66,8 @@
     <a href="calculate.php" class="link">Determine Satellite Azimuth</a>
     <br><br><br>
     <a href="index.php" class="link">Home</a>
+    <button id="runButton" class="link" onclick="clearImages()">Clear Images</button>
+    <button id="runButton" class="link" onclick="addImages()">Add Images</button>
     <br><br>
     <?php
       $image_names = glob("generatedImages/*.{jpg,png,gif}", GLOB_BRACE);
