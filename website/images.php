@@ -36,7 +36,8 @@
 
     if(empty($image_names)){
       echo '<p class="notice">No images found in the directory.</p>';
-    } else {
+    }
+    else {
       foreach ($image_names as $image_name) {
         $image_title = str_replace('generatedImages/', '', $image_name);
         echo '<div class="thumbNailContainer">';

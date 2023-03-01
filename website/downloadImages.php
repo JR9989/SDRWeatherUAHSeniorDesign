@@ -37,9 +37,10 @@
 </head>
 <body>
   <div class="homeDiv">
+    <h1>Download Images</h1>
     <img src="images/satellites.png" alt="Satellites" class="imageTitle">
     <br>
-    <a href="downloadImages.php" class="link">Download Images</a>
+    <a href="index.php" class="link">Home</a>
     <br>
     <a href="manual.php" class="link">User Manual</a>
     <br>

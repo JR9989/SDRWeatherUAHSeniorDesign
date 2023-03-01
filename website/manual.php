@@ -37,20 +37,18 @@
 </head>
 <body>
   <div class="homeDiv">
+    <h1>Manual</h1>
     <img src="images/satellites.png" alt="Satellites" class="imageTitle">
     <br>
     <a href="downloadImages.php" class="link">Download Images</a>
     <br>
-    <a href="manual.php" class="link">User Manual</a>
+    <a href="index.php" class="link">Home</a>
     <br>
     <a href="calculate.php" class="link">Determine Satellite Azimuth</a>
     <br>
     <a href="images.php" class="link">Generated Images</a>
     <br><br>
-    <input type="text" id="commandInput" class="inputBox" placeholder="Enter command">
-    <button id="runButton" class="link" onclick="runCommand()">Run</button>
-    <br><br>
-    <p id="output"></p>
+    <p class="notice">Is simple, point antenna at satellite, satellite go brrr. Boom, radar image.</p>
   </div>
 </body>
 </html>
