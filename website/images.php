@@ -1,15 +1,15 @@
 <!-- images.php -->
 <!-- Author: J.R. Stooksbury, Date: 2/26/23 -->
 <!-- Dynamically looks at specified directory and generates image thumbnail gallery based upon its contents -->
-<?php $title="Generated Images"; $logo="images.gif"; $altText="Generated Images"; include 'header.php'; ?>
+<?php $title="Generated Images"; $logo="images.gif"; $altText="Generated Images"; include 'php/header.php'; ?>
   <div style="margin-top: 25px;">
     <?php
     if(isset($_POST['clearImages'])) { // check if the button is pressed
-        $command = escapeshellcmd('./removeImages.sh');
+        $command = escapeshellcmd('sh/removeImages.sh');
         $output = shell_exec($command); // execute the command
     }
     if(isset($_POST['addImages'])) { // check if the button is pressed
-        $command = escapeshellcmd('./addImages.sh'); 
+        $command = escapeshellcmd('sh/addImages.sh'); 
         $output = shell_exec($command); // execute the command
     }
     ?>
@@ -57,4 +57,4 @@
     </script>
     <div id="image-display"></div>
   </div>
-<?php include 'footer.php' ?>
+<?php include 'php/footer.php' ?>

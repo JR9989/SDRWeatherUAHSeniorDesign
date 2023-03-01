@@ -1,7 +1,7 @@
 <!-- calculate.php -->
 <!-- Author: J.R. Stooksbury, Date: 2/26/23 -->
 <!-- Allows user to calculate satellite's azimuth, not presently functional -->
-<?php $title="Calculate Azimuth"; $logo="azimuth.gif"; $altText="Calculate Azimuth"; include 'header.php'; ?>
+<?php $title="Calculate Azimuth"; $logo="azimuth.gif"; $altText="Calculate Azimuth"; include 'php/header.php'; ?>
   <script>
     function runCommand() {
       // Get the command entered by the user
@@ -16,7 +16,7 @@
       var xhr = new XMLHttpRequest();
 
       // Set up the request
-      xhr.open("POST", "azimuthCalculate.php");
+      xhr.open("POST", "php/azimuthCalculate.php");
       xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
 
       // Define what happens when the response is received
@@ -37,4 +37,4 @@
     <br><br>
     <p id="output"></p>
   </div>
-<?php include 'footer.php'; ?>
+<?php include 'php/footer.php'; ?>

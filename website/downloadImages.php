@@ -1,7 +1,7 @@
-<!-- index.php -->
+<!-- downloadImages.php -->
 <!-- Author: J.R. Stooksbury, Date: 3/1/23 -->
 <!-- Page for downloading the images -->
-<?php $title="Download Images"; $logo="download.gif"; $altText="Download Images"; include 'header.php'; ?>
+<?php $title="Download Images"; $logo="download.gif"; $altText="Download Images"; include 'php/header.php'; ?>
   <script>
     function runCommand() {
       // Get the command entered by the user
@@ -14,7 +14,7 @@
       var xhr = new XMLHttpRequest();
 
       // Set up the request
-      xhr.open("POST", "runCommand.php");
+      xhr.open("POST", "php/runCommand.php");
       xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
 
       // Define what happens when the response is received
@@ -34,4 +34,4 @@
     <br><br>
     <p id="output"></p>
   </div>
-<?php include 'footer.php'; ?>
+<?php include 'php/footer.php'; ?>

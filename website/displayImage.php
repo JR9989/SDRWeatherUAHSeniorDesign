@@ -5,7 +5,7 @@
 <html>
   <head>
     <title>Image Viewer</title>
-    <?php include 'style.php'; ?>
+    <?php include 'php/style.php'; ?>
   </head>
   <body>
     <div class="fullSizeImage">

@@ -5,8 +5,8 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <link rel="stylesheet" type="text/css" href="normalize.css">
-  <?php include 'style.php'; ?>
+  <link rel="stylesheet" type="text/css" href="css/normalize.css">
+  <?php include 'css/style.php'; ?>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title><?php echo $title; ?></title>
 </head>
