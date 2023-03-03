@@ -38,11 +38,10 @@ header ul li a:hover {
   border-color: rgb(52,133,235);
 }
 header ul li a:active {
-  background-color: rgba(250, 133, 235, 1.0);
+  background-color: rgba(255, 179, 0, 0.75);
 }
-.active-link {
-  color: red;
-  background-color: red;
+.active {
+  background-color: rgba(186, 34, 17, 0.75);
 }
 .link {
       font-size: 22px;
