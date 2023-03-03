@@ -25,17 +25,13 @@
   <script>
     // Get the current URL
     var currentUrl = window.location.href;
-
-    // Select all <a> elements with an href attribute
     var links = document.querySelectorAll("a[href]");
 
     // Loop through the links and modify their color if the href matches the current URL
     for (var i = 0; i < links.length; i++) {
       var link = links[i];
-      
       // Check if the link's href matches the current URL
       if (link.href === currentUrl) {
-        // Set the link's color to red
         link.classList.add("active");
       }
     }
