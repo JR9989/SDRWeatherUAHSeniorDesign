@@ -4,9 +4,15 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <?php include 'css/background.php'; ?>
+    <?php include 'css/style.php';?>
     <title>Image Viewer</title>
-    <?php include 'php/style.php'; ?>
   </head>
+  <!-- star background -->
+  <div id="stars"></div>
+  <div id="stars2"></div>
+  <div id="stars3"></div>
+  <!-- end star background -->
   <body>
     <div class="fullSizeImage">
       <?php

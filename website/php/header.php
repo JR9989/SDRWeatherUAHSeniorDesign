@@ -6,13 +6,20 @@
 <head>
   <meta charset="utf-8">
   <link rel="stylesheet" type="text/css" href="css/normalize.css">
+  <link href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet'>
   <?php include 'css/style.php'; ?>
+  <?php include 'css/background.php'; ?>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title><?php echo $title; ?></title>
   
 </head>
+<!-- star background -->
+<div id="stars"></div>
+<div id="stars2"></div>
+<div id="stars3"></div>
+<!-- end star background -->
   <body>
-  <img src="images/<?php echo $logo; ?>" alt="<?php echo $altText; ?>" class="imageTitle"><br>
+  <h1><?php echo $header; ?></h1><br>
   <header>
     <ul class="navigation">
       <li><a href="index.php">Home</a></li>

@@ -6,11 +6,15 @@
 /* Global Styles */
 
 body {
-      background:url('images/space_bg.gif') repeat fixed center;
-      text-align: center;
-      font-family: Arial, Helvetica, sans-serif;
-      padding: 10px;
-      overflow: scroll;
+  text-align: center;
+  padding: 10px;
+  padding-bottom: 75px;
+  min-height: 100vh;
+  z-index: 1;
+  box-sizing: border-box;
+  font-family: Oswald;
+  color: white;
+  font-weight: bold;
 }
 header {
   width: 100%;
@@ -18,51 +22,70 @@ header {
 }
 header ul {
   list-style-type: none;
+  padding: 0;
 }
 header ul li {
   display: inline-block;
   margin-bottom: 24px;
 }
 header ul li a {
-  background-color: rgba(52,133,235,0.75);
+  display: block;
   color: white;
-  border: white solid 5px;
-  margin: 0 auto;
-  font-size: 22px;
-  font-weight: bold;
-  margin: 3px;
-  padding: 5px;
+  box-sizing: border-box;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  font-size: 1.5em;
+  background: rgba(255, 255, 255, 0.36);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(1px);
+  -webkit-backdrop-filter: blur(1px);
 }
 header ul li a:hover {
-  background-color: rgba(0,0,0,0.75);
+  background: rgba(170, 170, 170, 0.36);
   border-color: rgb(52,133,235);
+  text-decoration: underline;
 }
 header ul li a:active {
-  background-color: rgba(255, 179, 0, 0.75);
+  background: rgba(120, 120, 120, 0.36);
 }
 .active {
-  background-color: rgba(186, 34, 17, 0.75);
+  background: rgba(120, 120, 120, 0.36);
 }
 .link {
-      font-size: 22px;
-      padding: 5px;
-      background-color: rgba(52,133,235,0.75);
-      border: white solid 5px;
-      color: white;
-      margin: 0 auto;
-      font-weight: bold;
-      margin: 2px;
-      margin-top: 10px;
-      display: inline-block;
+  display: inline-block;
+  color: white;
+  box-sizing: border-box;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  font-size: 1.5em;
+  border: 0px;
+  margin: 5px;
+  background: rgba(255, 255, 255, 0.36);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(1px);
+  -webkit-backdrop-filter: blur(1px);
 }
 .link:hover {
-  background-color: rgba(0,0,0,0.75);
-  color: white;
-  border-color: rgb(52,133,235);
+  background: rgba(170, 170, 170, 0.36);
+  text-decoration: underline;
 }
 h1 {
+  font-size: 4em;
+  font-weight: 600;
   color: white;
-  font-size: 48px;
+  text-transform: uppercase;
+  text-shadow: 1px 1px 0px rgba(50,50,50,1),
+               1px 2px 0px rgba(50,50,50,1),
+               1px 3px 0px rgba(50,50,50,1),
+               1px 4px 0px rgba(50,50,50,1),
+               1px 5px 0px rgba(50,50,50,1),
+               1px 6px 0px rgba(50,50,50,1),
+               1px 10px 5px rgba(16, 16, 16, 0.5),
+               1px 15px 10px rgba(16, 16, 16, 0.4),
+               1px 20px 30px rgba(16, 16, 16, 0.3),
+               1px 25px 50px rgba(16, 16, 16, 0.2);
 }
 .imageTitle {
   box-sizing: border-box;
@@ -72,19 +95,19 @@ h1 {
 }
 footer {
   width: 100%;
-  position: relative;
-  bottom: 0px;
-  display: block;
+  position: fixed;
   text-align: center;
-  margin: 0 auto;
-}
-footer p {
-  box-sizing: border-box;
-  padding: 10px;
-  margin-right: 5px;
-  display: inline-block;
+  display: block;
+  bottom: 0;
+  left: 0;
+  margin: 0;
   background-color: rgba(0,0,0,0.5);
-  color: white;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+}
+img {
+  display: block;
+  z-index: 1;
 }
 
 /* Home Page (index.php) */
@@ -97,23 +120,32 @@ footer p {
   position: relative;
   margin-bottom: 50px;
   padding: 5px;
-  background-color: rgba(255,255,255,0.75);
-  color: rgb(52,113,235);
-  border: solid 10px rgb(52,113,235);
-  margin-bottom: 25px;
-  box-sizing: border-box;  
+  background: rgba(255, 255, 255, 0.36);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
 }
 #commandInput {
   padding: 15px;
-  border: solid 2px azure;
+  border: 0px;
   text-size: 18px;
+  background: rgba(255, 255, 255, 0.36);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(1px);
+  -webkit-backdrop-filter: blur(1px);
 }
 .inputBox {
-      font-size: 18px;
-      padding: 10px;
-      background-color: rgba(0,0,0,0.75);
-      border: 5px solid azure;
-      color: white;
+  padding: 15px;
+  border: 0px;
+  color: white;
+  text-size: 18px;
+  background: rgba(255, 255, 255, 0.36);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(1px);
+  -webkit-backdrop-filter: blur(1px);
 }
 .homeDiv {
   margin: auto;
@@ -126,28 +158,43 @@ footer p {
 /* Gallery Page (images.php) */
 
 .thumbnail {
-        height: 250px;
-        display: block;
-        width: 250px;
-        margin: 10px;
-        border: 5px solid #ccc;
+  height: 250px;
+  width: 250px;
+  margin: 0 auto;
+  border-radius: 50px;
+  box-shadow: -4px -4px 10px rgba(67, 67, 67, 0.5),
+        inset 4px 4px 10px rgba(0, 0, 0, 0.5),
+        inset -4px -4px 10px rgba(67, 67, 67, 0.3),
+        4px 4px 10px rgba(0, 0, 0, 0.3);
 }
 .imageLink {
   background: none;
 }
+.imageLink:hover {
+  text-decoration: underline;
+}
 .thumbnailName {
   color: white;
-  display: inline;
-}
-.thumbnailName:hover {
-  color: red;
+  display: inline-block;
 }
 .thumbNailContainer {
   display: inline-block;
-  width: 300px !important;
+  box-sizing: border-box;
+  padding: 5px;
+  padding-top: 15px;
+  margin: 5px;
+  background: rgba(255, 255, 255, 0.36);
+  border-radius: 50px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(1px);
+  -webkit-backdrop-filter: blur(1px);
+  width: 300px;
+  height: 100%;
 }
-.thumbNailContainer img:hover {
-  border: 5px solid blue;
+.thumbNailContainer:hover {
+  background: rgba(120, 120, 120, 0.36);
+  color: red;
+  text-decoration: underline;
 }
 .notice {
   color: white;
@@ -165,8 +212,11 @@ footer p {
 }
 .fullSizeImage img {
   display: block;
-  border: white solid 5px;
+  border: white solid 1px;
   margin-bottom: 25px;
+  z-index: 5;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
 }
 .full-size {
   margin: 0 auto;

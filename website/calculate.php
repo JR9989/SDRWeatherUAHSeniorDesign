@@ -1,7 +1,7 @@
 <!-- calculate.php -->
 <!-- Author: J.R. Stooksbury, Date: 2/26/23 -->
 <!-- Allows user to calculate satellite's azimuth, not presently functional -->
-<?php $title="Calculate Azimuth"; $logo="azimuth.gif"; $altText="Calculate Azimuth"; include 'php/header.php'; ?>
+<?php $title="Calculate Azimuth"; $header="Calculate Azimuth"; include 'php/header.php'; ?>
   <script>
     function runCommand() {
       // Get the command entered by the user

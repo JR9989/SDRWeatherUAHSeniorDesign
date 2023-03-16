@@ -1,7 +1,7 @@
 <!-- images.php -->
 <!-- Author: J.R. Stooksbury, Date: 2/26/23 -->
 <!-- Dynamically looks at specified directory and generates image thumbnail gallery based upon its contents -->
-<?php $title="Generated Images"; $logo="images.gif"; $altText="Generated Images"; include 'php/header.php'; ?>
+<?php $title="Generated Images"; $header="Generated Images"; include 'php/header.php'; ?>
   <div style="margin-top: 25px;">
     <?php
     if(isset($_POST['clearImages'])) { // check if the button is pressed
@@ -27,12 +27,12 @@
     else {
       foreach ($image_names as $image_name) {
         $image_title = str_replace('generatedImages/', '', $image_name);
-        echo '<div class="thumbNailContainer">';
         echo '<a class="imageLink" href="displayImage.php?image=' . $image_name . '">';
+        echo '<div class="thumbNailContainer">';
         echo '<img class="thumbnail" src="' . $image_name . '">';
         echo '<p class="thumbnailName">' . $image_title . ' </p>';
-        echo '</a>';
         echo '</div>';
+        echo '</a>';
       }
     }
     ?>
