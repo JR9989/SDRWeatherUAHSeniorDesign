@@ -21,9 +21,10 @@
           $image_title = str_replace('generatedImages/', '', $image);
           echo '<h1>' .$image_title . '</h1>';
           echo '<img class="full-size" src="' . $image . '">';
-          echo '<br><a class="link" href="images.php">Back</a>';
+          echo '<br>';
         }
       ?>
     </div>
+    <a class="link" href="images.php">Back</a>
   </body>
 </html>

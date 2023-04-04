@@ -24,9 +24,10 @@
           echo '<div class="textDisplay">';
           echo '<pre class="full-size">' . $text_file_contents . '</pre>';
           echo '</div>';
-          echo '<br><a class="link" href="text.php">Back</a>';
+          echo '<br>';
         }
       ?>
     </div>
+    <a class="link" href="text.php">Back</a>
   </body>
 </html>
