@@ -15,7 +15,7 @@
     ?>
     <form method="post">
       <input type="submit" name="clearImages" class="link" value="Clear Images">
-      <input type="submit" name="addImages" class="link" value="Add Images">
+      <input type="submit" name="addImages" class="link" value="Add Sample Images">
     </form>
     <br><br>
     <?php

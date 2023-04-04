@@ -3,6 +3,6 @@
 <!-- Main landing page for web server -->
 <?php $title="User Manual"; $header="User Manual"; include 'php/header.php'; ?>
   <div class="homeDiv">
-    <p class="notice">Is simple, point antenna at satellite, satellite go brrr. Boom, radar image.</p>
+    <p class="notice">Insert user guide here</p>
   </div>
 <?php include 'php/footer.php' ?>

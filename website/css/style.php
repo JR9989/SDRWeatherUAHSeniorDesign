@@ -110,7 +110,7 @@ img {
   z-index: 1;
 }
 
-/* Home Page (index.php) */
+/* Image Download Page (downloadImages.php) */
 
 #output {
   margin: auto;
@@ -154,6 +154,21 @@ img {
 }
 
 /* Azimuth Calculation Page (calculation.php) */
+
+#result {
+  margin: auto;
+  width: 100%;
+  max-width: 800px;
+  position: relative;
+  margin-bottom: 50px;
+  padding: 25px;
+  background: rgba(255, 255, 255, 0.36);
+  border-radius: 16px;
+  font-size: 2em;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+}
 
 /* Gallery Page (images.php) */
 
@@ -222,4 +237,43 @@ img {
   margin: 0 auto;
 }
 
+/* Text Gallery Page (text.php) */
+
+.textFileLink {
+  display: inline-block;
+  box-sizing: border-box;
+  padding: 5px;
+  margin: 5px;
+  background: rgba(255, 255, 255, 0.36);
+  border-radius: 50px;
+  font-size: 2em;
+  color: white;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(1px);
+  -webkit-backdrop-filter: blur(1px);
+  width: 300px;
+  height: 100%;
+}
+.textFileLink:hover {
+  background: rgba(120, 120, 120, 0.36);
+  color: red;
+  text-decoration: underline;
+}
+
+/* Individual Text File Content Viewer Page (displayText.php) */
+.textDisplay {
+  display: inline-block;
+  box-sizing: border-box;
+  padding: 5px;
+  margin: 5px;
+  background: rgba(255, 255, 255, 0.36);
+  border-radius: 50px;
+  font-size: 2em;
+  color: white;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(1px);
+  -webkit-backdrop-filter: blur(1px);
+  min-width: 300px;
+  height: 100%;
+}
 </style>

@@ -26,6 +26,7 @@
       <li><a href="downloadImages.php">Download Images</a></li>
       <li><a href="calculate.php">Determine Azimuth</a></li>
       <li><a href="images.php">Generated Images</a></li>
+      <li><a href="text.php">Generated Text</a></li>
       <li><a href="manual.php">User Manual</a></li>
     </ul>
   </header>
