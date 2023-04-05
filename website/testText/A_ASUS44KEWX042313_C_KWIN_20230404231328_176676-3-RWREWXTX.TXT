@@ -1,0 +1,143 @@
+ASUS44 KEWX 042313
+RWREWX
+SOUTH TEXAS REGIONAL WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE AUSTIN/SAN ANTONIO TX
+600 PM CDT TUE APR 04 2023
+
+NOTE: "FAIR" INDICATED FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+* - THESE STATIONS ARE NOT NWS OR FAA STATIONS...AND ARE NOT SUBJECT
+    TO NWS AND FAA QUALITY CONTROL.
+ 
+TXZ171-172-183>190-050000-
+TEXAS HILL COUNTRY AND EDWARDS PLATEAU
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+JUNCTION       CLOUDY    90  37  15 SW9G20    29.57F                  
+*LLANO         CLOUDY    86  66  51 S8        29.55R                  
+BURNET         CLOUDY    86  67  52 S7G17     29.58F                  
+*HORSESHOE BAY CLOUDY    87  65  47 S8        29.56F HAZE             
+*LAGO VISTA    PTSUNNY   83  68  59 S13G21    29.59S                  
+*KERRVILLE     CLOUDY    85  65  50 S10       29.59S                  
+*FREDERICKSBRG CLOUDY    84  64  51 S7        29.56F                  
+*ROCKSPRINGS   CLOUDY    82  61  47 S7        29.67S                  
+*BOERNE        CLOUDY    82  64  54 S8        29.59F                  
+HONDO          CLOUDY    89  68  49 SE15      29.55F HX  93           
+*UVALDE        CLOUDY    90  65  43 SE6       29.57R HX  92           
+DEL RIO        CLOUDY    91  59  33 E5        29.54R HX  90           
+*LAUGHLIN AFB  CLOUDY    89  56  32 E3        29.52S                  
+*SPOFFORD      CLOUDY    92  64  40 E8        29.51S HAZE    HX  93   
+CARRIZO SPRGS  PTSUNNY   97  63  32 SE10G18   29.50S HX  98           
+*FAITH RANCH   SUNNY    100  59  25 E10G20    29.52R HX 100           
+$$
+
+TXZ173-191>194-202-209-217>225-228-050000-
+CENTRAL AND SOUTH CENTRAL TEXAS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+GEORGETOWN     PTSUNNY   84  68  58 S15G22    29.59S                  
+*TAYLOR        PTSUNNY   82  70  66 S16       29.59R                  
+AUSTIN/BERGSTM PTSUNNY   83  70  64 SE16      29.57S                  
+AUSTIN/MABRY   PTSUNNY   85  68  56 VRB5G20   29.58S                  
+*PFLUGERVILLE  PTSUNNY   82  72  69 S14       29.58R                  
+SAN MARCOS     PTSUNNY   85  72  65 SE16      29.59S HX  91           
+NEW BRAUNFELS  CLOUDY    87  70  56 S9        29.57R HAZE    HX  92   
+*RANDOLPH AFB  CLOUDY    86  68  54 S10       29.54S                  
+*SEGUIN        CLOUDY    83  72  69 SE12      29.55S                  
+SAN ANTONIO    CLOUDY    86  67  52 S6        29.58S                  
+STINSON FIELD  CLOUDY    88  69  53 SE8       29.54S HX  92           
+*KELLY FIELD   PTSUNNY   87  67  51 SE12      29.53F HX  90           
+*PLEASANTON    CLOUDY    91  70  49 SE9       29.55S HX  96           
+*KENEDY        CLOUDY   N/A N/A N/A SE14      29.57F                  
+*LA GRANGE     CLOUDY    79  75  89 S15G23    29.61R                  
+*GIDDINGS      CLOUDY    79  71  77 S13G18    29.62S                  
+*GONZALES      CLOUDY    81  73  77 SE12G17   29.59S                  
+$$
+
+TXZ163>164-176>182-195>201-210>213-226-227-235-050000-
+SOUTHEAST TEXAS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+COLLEGE STN    CLOUDY    80  71  74 S15G26    29.62R                  
+*BRYAN         CLOUDY    79  71  76 SE14G24   29.64R                  
+*CALDWELL      CLOUDY    78  71  78 S15G21    29.62S                  
+*CROCKETT        N/A     77  75  94 SE13G20   29.64S                  
+*BRENHAM       NOT AVBL                                               
+HUNTSVILLE     CLOUDY    82  71  69 VRB7G17   29.65R                  
+CONROE         CLOUDY    79  71  76 S15G28    29.66S                  
+HOUSTON BUSH   CLOUDY    81  72  74 S16G25    29.66S                  
+HOUSTON HOBBY  CLOUDY    81  72  74 S14G26    29.67S                  
+*HOUSTON SW AP CLOUDY    81  73  78 S14G20    29.68R                  
+PEARLAND       CLOUDY    80  73  79 S16G26    29.69S                  
+HOUSTON HOOKS  CLOUDY    81  70  69 S12G30    29.66R                  
+ELLINGTON FLD  NOT AVBL                                               
+SUGAR LAND     CLOUDY    81  72  74 S17G31    29.65R                  
+*HOUSTON EXEC  NOT AVBL                                               
+*CLEVELAND MUN CLOUDY    80  73  81 MISG      29.68S                  
+*WHARTON       CLOUDY    78  77  96 S21G28    29.65S                  
+*COLUMBUS      CLOUDY    78  72  82 S9G17     29.64R                  
+*EAGLE LAKE    CLOUDY    79  73  81 S13G24    29.64R                  
+$$
+
+TXZ214>216-236>238-050000-
+THE UPPER TEXAS COAST
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+*ORANGE        CLOUDY    81  73  76 S15G22    29.77S HAZE             
+PORT ARTHUR    CLOUDY    78  73  84 S22G31    29.73S                  
+GALVESTON      CLOUDY    77  73  87 SE16      29.71R FOG              
+ANGLETON       CLOUDY    79  72  79 S17G25    29.68R                  
+*BAY CITY        N/A     78  73  84 S16G23    29.66S                  
+PALACIOS       CLOUDY    78  75  90 S17G28    29.63R                  
+$$
+
+TXZ229>234-239>247-050000-
+TEXAS COASTAL BEND AND RIO GRANDE PLAINS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+VICTORIA       CLOUDY    80  74  81 S15G30    29.61R                  
+*BEEVILLE      CLOUDY    82  72  70 SE12G18   29.57R                  
+ROCKPORT       CLOUDY    77  74  90 S15G36    29.58R FOG              
+*PORT ARANSAS  CLOUDY    76  73  90 S20G26    29.60S FOG              
+*PORT LAVACA   CLOUDY    81  74  81 S18G29    29.61R                  
+*INGLESIDE     NOT AVBL                                               
+CORPUS CHRISTI CLOUDY    82  74  76 S23G32    29.57R                  
+CORPUS NAS     CLOUDY    81  74  79 S26G37    29.58S                  
+*ROBSTOWN      CLOUDY    83  74  74 SE20      29.57S HX  90           
+ALICE          CLOUDY    90  71  53 S16G28    29.54S HX  96           
+KINGSVILLE NAS CLOUDY    90  72  55 S26G32    29.55R HX  97           
+COTULLA        PTSUNNY   97  64  33 SE17      29.51R HX  99           
+LAREDO         PTSUNNY   92  66  42 SE16      29.52S HX  94           
+$$
+
+TXZ248>255-050000-
+DEEP SOUTH TEXAS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BROWNSVILLE    MOSUNNY   85  74  69 S29G38    29.60R HX  92           
+PORT ISABEL    MOSUNNY   83  74  74 S20G37    29.59R                  
+HARLINGEN      PTSUNNY   86  72  62 S28G38    29.58R HX  92           
+*HEBBRONVILLE  CLOUDY    89  70  53 S13G18    29.56S HAZE    HX  95   
+MCALLEN        CLOUDY    86  73  65 SE17      29.57R HX  93           
+*WESLACO       PTSUNNY   85  71  64 S20G30    29.59R HX  90           
+FALFURRIAS     CLOUDY    89  74  62 S17       29.56R HX  97           
+EDINBURG       MOSUNNY   85  73  67 S23G29    29.58R HX  92           
+*ZAPATA        MOSUNNY   93  66  40 SE8       29.53S HX  96           
+$$
+
+TXZ213>215-236>238-242>244-246-247-251-254-255-050000-
+CMAN STATIONS
+  
+STATION/POSITION TIME  TEMP    WIND        PRES    WAVE
+                       AIR SEA DIR/SP/G            HT/PER
+                 (UTC) (F)     (DEG/KT/KT) (MB)    (FT/S)
+NORTH JETTY/GLS  2242   76 74  170/ 17/ 19 1004.8
+EAGLE POINT      2248   77 77  160/ 15/ 19 1005.2
+MORGANS POINT    2248      73              1004.9
+PORT O'CONNOR    2248   75     120/ 16/ 18 1002.4
+PORT ARANSAS     2300   74     150/ 25/ 28   N/A
+BAFFIN BAY       2248   76 80  130/ 20/ 26 1001.9
+PORT ISABEL      2248   80 75  160/ 19/ 26 1001.8
+$$
+  

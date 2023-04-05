@@ -1,0 +1,48 @@
+WOUS64 KWNS 042314
+WOU6  
+
+BULLETIN - IMMEDIATE BROADCAST REQUESTED
+SEVERE THUNDERSTORM WATCH OUTLINE UPDATE FOR WS 116
+NWS STORM PREDICTION CENTER NORMAN OK
+615 PM CDT TUE APR 4 2023
+
+SEVERE THUNDERSTORM WATCH 116 IS IN EFFECT UNTIL 1200 AM CDT
+FOR THE FOLLOWING LOCATIONS
+
+KSC003-005-013-031-043-045-059-085-087-091-103-107-111-121-131-
+139-149-177-197-209-050500-
+/O.NEW.KWNS.SV.A.0116.230404T2315Z-230405T0500Z/
+
+KS 
+.    KANSAS COUNTIES INCLUDED ARE
+
+ANDERSON             ATCHISON            BROWN               
+COFFEY               DONIPHAN            DOUGLAS             
+FRANKLIN             JACKSON             JEFFERSON           
+JOHNSON              LEAVENWORTH         LINN                
+LYON                 MIAMI               NEMAHA              
+OSAGE                POTTAWATOMIE        SHAWNEE             
+WABAUNSEE            WYANDOTTE           
+$$
+
+
+MOC003-021-025-037-047-049-061-063-075-081-087-095-147-165-177-
+227-050500-
+/O.NEW.KWNS.SV.A.0116.230404T2315Z-230405T0500Z/
+
+MO 
+.    MISSOURI COUNTIES INCLUDED ARE
+
+ANDREW               BUCHANAN            CALDWELL            
+CASS                 CLAY                CLINTON             
+DAVIESS              DEKALB              GENTRY              
+HARRISON             HOLT                JACKSON             
+NODAWAY              PLATTE              RAY                 
+WORTH                
+$$
+
+
+ATTN...WFO...TOP...EAX...
+
+
+

@@ -1,0 +1,201 @@
+FXUS63 KAPX 042313
+AFDAPX
+
+Area Forecast Discussion
+National Weather Service Gaylord MI
+713 PM EDT Tue Apr 4 2023
+
+.NEAR TERM...(Through Tonight)
+Issued at 348 PM EDT Tue Apr 4 2023
+
+...Icy mix north and heavy rain elsewhere...
+
+High Impact Weather Potential...Snow/sleet/freezing rain mix
+northern areas, especially eastern upper MI. Heavy rain much of
+northern lower MI. 
+
+991mb low pressure is in eastern KS. A nearly stationary front
+extends e and ene from the low across central IL/IN and northern
+OH. An initial push of showers and embedded TSRA has reached MBL,
+though it is tending to weaken/diminish in coverage. But this is
+just the beginning, as increasing warm/moist advection aloft
+continues north of the front to our south. PWAT values rise to
+about 1.25", well above normal for early April, along with MuCape
+values of circa 1k j/kg. This is riding southerly 1km winds of
+50-55kt by overnight.
+
+We will see a smattering of convection, mainly in western
+sections, thru about 01-02Z. As southerly flow increase, pops ramp
+up thru the rest of the evening, and into the overnight.
+Widespread liquid precip amounts of 0.5-1.5" are expected across
+the area, with the highest amounts in northern lower MI, closer to
+the front to our south. 
+
+Early April is having an impact on expected p-type tonight. The
+sun was able to thin out the lower clouds, especially over
+northern sections. This has boosted temps and wet-bulb temps in 
+this area. As a consequence, the surface temp curve is a bit 
+warmer across most of northern MI. Southern sections remain just
+liquid. For APN-GLR, just a very brief window of ZR/PL mixing in
+is expected, before we turn over to rain. PLN-SLH will do a
+gradual snow to sleet to ZR to rain transition, with snow/sleet
+accums of 1-2". The UP remains worst off; even with some surface
+heating up there, dew points have lowered to around 20f. They are
+still well established for a lengthy period of PL/ZR late evening
+and overnight, after some initial snow. 1-3" of snow/sleet, and
+about 0.30" of ice, are expected.
+
+Rivers in the region are fairly high, and soils have above-average
+moisture, after the rains of Fri-Sat. Localized 2-3" rains are
+likely in northern lower MI, as cells train for a period north of
+the stationary front. We aren't usually flood-prone around here,
+but some areas that can have more problems are greater TC 
+(urban), and the far se (where our soils are somewhat less sandy).
+Per coord with WPC/GRR/DTX, a flood watch has been issued for 
+M-72 and south (including Leelanau) tonight into Wed morning. 
+
+We have plenty of shear and increasing MuCape values later
+tonight, though TSRA will be firmly elevated. An isolated severe 
+hail threat remains possible tonight, especially overnight. 
+
+By dawn, temps will be near freezing in the St Marys Valley, while
+in the lower 50s at MBL/Frankfort.
+
+&&
+
+.SHORT TERM...(Wednesday through Friday)
+Issued at 348 PM EDT Tue Apr 4 2023
+
+Wednesday through Friday:
+
+High Impact Weather Potential: Severe thunderstorm threat with 
+damaging wind, hail, tornadoes, and heavy rain all possible. Heavy 
+rain may cause ponding of water over roadways and low lying areas. 
+Minor flooding of local streams and rivers also possible. Strong 
+winds Thursday.
+
+Short term forecast period begins with a deepening area of low 
+pressure over western Wisconsin with the associated warm front 
+extending through the Straits area and cold front eastern Wisconsin 
+and extending as far south as Brownsville, Texas. While in the warm 
+sector of this system there will be a risk of heavy rainfall and 
+strong winds with embedded thunderstorms. Any elevated thunderstorms 
+or stronger showers have the potential to bring down 45-50kt winds 
+to the surface as they reside on a southwesterly low-level jet at 
+850mb. These storms will have the means to sustain themselves with 
+200-500 J/kg MUCAPE, SRH around 150 m^2/s^2, and 0-6km bulk shear 
+near 60kt. Forecast sounding PWATs are in excess of 1.00" throughout 
+the day. The severe threat really kicks in between 15-18Z when CINH 
+diminishes and MLCAPE nears 1000 J/kg and MUCAPE is around 1500 
+J/kg, SRH around 200 m^2/s^2, 0-6km bulk shear still around 60kt, 
+and sfc-3km lapse rates around 6C/km and 7C/km lapse rates above 
+3km, just ahead and along the cold front. 15-21Z will be the most 
+likely timeframe for severe thunderstorms...mainly south of the M-68 
+corridor of northern lower Michigan. SPC still has an enhanced risk 
+over much of northern lower Michigan. These storm parameters will 
+include the risk of tornadoes (10% SPC area highlighted) as well as 
+the damaging wind and hail potential as right curving hodographs 
+also suggest. The aforementioned cold front will exit the area 
+Wednesday evening with winds veering to south-southwesterly and 
+intensifying, with gusts of 40-50mph possible early Thursday morning 
+and last throughout the afternoon hours before diminishing in 
+intensity during the evening hours Thursday. High pressure and drier 
+air centered over the central CONUS will build into northern 
+Michigan late Wednesday night into Thursday morning providing mostly 
+precipitation-free weather, with the exception of some wrap-around 
+moisture producing some light snow showers over Chippewa County 
+Thursday.
+
+With heavy rainfall throughout Tuesday night along with snow melt 
+there may be ponding of water on roadways and low-lying areas as 
+well as minor flooding of localized streams and rivers with QPF 
+amounts of 1.00" to 2.00" possible tonight across northern Michigan.
+
+The south to southwesterly winds Wednesday will advect warmer 
+temperatures for the day with afternoon highs reaching into the 
+upper 50s to upper 60s, with the potential of some areas reaching 
+the 70 degree mark over northern lower Michigan. Eastern upper will 
+most likely remain north of the warm front, meaning highs will be 
+much lower than northern lower...only reaching into the mid to upper 
+40s. Thursday and Friday will be much cooler, with daytime highs 
+only reaching into the upper 30s to mid 40s across all of northern 
+Michigan behind the departing cold front mentioned above.
+
+.LONG TERM...(Friday night through Tuesday)
+Issued at 348 PM EDT Tue Apr 4 2023
+
+High Impact Weather Potential: Minimal at this time.
+
+High pressure over the Great Lakes region will dominate northern 
+Michigan's weather through the long term period for the time being, 
+with the exception of an inverted trough possibly producing some 
+light rain showers Sunday into Monday. High temperatures will 
+moderate throughout the long term period beginning in the mid 40s to 
+low 50s Saturday, warming a bit each day, then reaching into the mid 
+50s to upper 60s by Tuesday.
+
+&&
+
+.AVIATION...(For the 00Z TAFS through 00Z Wednesday evening)
+Issued at 713 PM EDT Tue Apr 4 2023
+
+Strong low pressure over the Central Plains will continue to 
+become better organized as it lifts NE into the Western Great
+Lakes region over the next 24 hours. Warm moist air surging
+northward combined with strong dynamics and increasing instability
+will lead to the development of widespread precip across the
+entire Western Great Lakes region.
+
+Precip will fall as mixed precip during the onset across Eastern 
+Upper and far Northern Lower Michigan...and the switch over the 
+all rain later this evening. Surface temps will be cold enough for
+this rain to freeze across Eastern Upper Michigan tonight into 
+Wednesday morning before temps warm enough by around midday for 
+precip to switch to plain rain. Precip across far Northern Lower 
+Michigan will switch to plain rain late tonight and will continue 
+in this form thru Wednesday as WAA continues.
+
+Thunderstorms are certainly possible throughout the entire 24 
+hour forecast...with the best chance likely Wednesday morning thru
+mid afternoon. Strong to severe storms are possible...especially
+during this time frame.
+
+LLWS will also develop at all TAF sites late tonight into 
+Wednesday. Surface winds will remain from the E/SE at 20 to 30 kts
+with gusts to 40 kts expected. Winds will begin to shift to the
+W/SW around TVC and MBL during Wednesday afternoon as the
+associated cold front arrives.
+
+&&
+
+.MARINE...
+Issued at 348 PM EDT Tue Apr 4 2023
+
+Gusty east winds tonight, with gales on many waters. Winds veer s
+and then w on Wednesday, increasing further late Wed into early
+Thu behind a strong cold front. Gales and again expected, and a
+few storm-gusts remain possible.
+
+&&
+
+.APX WATCHES/WARNINGS/ADVISORIES...
+MI...Winter Weather Advisory until 2 AM EDT Wednesday for MIZ016>018-
+     022-023-098.
+     Flood Watch through Wednesday morning for MIZ020-025>036-041-042.
+     Ice Storm Warning until 10 AM EDT Wednesday for MIZ086>088-
+     095>097.
+LH...Gale Warning until 10 AM EDT Wednesday for LHZ345>348.
+     Small Craft Advisory until 10 AM EDT Wednesday for LHZ349.
+LM...Gale Warning until 8 AM EDT Wednesday for LMZ323-341-342-344.
+     Small Craft Advisory until 5 PM EDT Wednesday for LMZ345-346.
+LS...Gale Warning from 11 PM this evening to 5 PM EDT Wednesday for 
+     LSZ321-322.
+&&
+
+$$
+
+NEAR TERM...JZ
+SHORT TERM...TJL
+LONG TERM...TJL
+AVIATION...MLR
+MARINE...JZ

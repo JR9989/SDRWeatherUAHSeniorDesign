@@ -251,7 +251,7 @@ img {
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
   backdrop-filter: blur(1px);
   -webkit-backdrop-filter: blur(1px);
-  width: 300px;
+  min-width: 300px;
   height: 100%;
 }
 .textFileLink:hover {

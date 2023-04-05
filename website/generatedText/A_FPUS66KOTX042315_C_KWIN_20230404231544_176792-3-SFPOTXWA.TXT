@@ -1,0 +1,68 @@
+FPUS66 KOTX 042315
+SFPOTX
+
+State Forecast for Washington
+National Weather Service Spokane WA
+415 PM PDT Tue Apr 4 2023
+
+WAZ001-503-504-506-507-509>517-555-556-558-559-567>569-051300-
+San Juan County-Western Whatcom County-Southwest Interior-
+Western Skagit County-Everett and Vicinity-Tacoma Area-
+Admiralty Inlet Area-Hood Canal Area-Lower Chehalis Valley Area-
+Olympics-Eastern Strait of Juan de Fuca-
+Western Strait of Juan De Fuca-North Coast-Central Coast-
+East Puget Sound Lowlands-Bellevue and Vicinity-
+Seattle and Vicinity-Bremerton and Vicinity-
+West Slopes North Cascades and Passes-
+West Slopes North Central Cascades and Passes-
+West Slopes South Central Cascades and Passes-
+415 PM PDT Tue Apr 4 2023
+
+.Tonight...Partly cloudy. Lows in the lower to mid 30s. 
+.WEDNESDAY...A chance of rain. Highs in the mid 40s to lower 50s.
+.WEDNESDAY NIGHT...Rain. Lows in the lower 40s. 
+.THURSDAY...Rain. Highs in the lower 50s. 
+.FRIDAY...Rain. Highs in the upper 40s to mid 50s. Lows in the
+lower to mid 40s. 
+.SATURDAY...Rain likely. Highs in the upper 40s to mid 50s. Lows
+in the lower 40s. 
+.SUNDAY...Rain. Highs in the upper 40s to mid 50s. Lows in the
+mid 40s. 
+.MONDAY...Rain. Highs in the upper 40s to mid 50s. Lows in the
+lower 40s. 
+.TUESDAY...Rain. Highs in the mid 40s to lower 50s. Lows in the
+upper 30s. 
+
+$$
+
+WAZ024-026>038-041-043-044-047>049-521>523-051300-
+East Columbia River Gorge-Kittitas Valley-Yakima Valley-
+Lower Columbia Basin-Foothills of the Blue Mountains-
+Northwest Blue Mountains-Northeast Blue Mountains-
+Lower Garfield and Asotin Counties-Washington Palouse-
+Moses Lake Area-Upper Columbia Basin-Spokane Area-
+Northeast Mountains-Okanogan Highlands-Wenatchee Area-
+Okanogan Valley-Waterville Plateau-Central Chelan County-
+Western Chelan County-Western Okanogan County-Simcoe Highlands-
+Upper Slopes of the Eastern Washington Cascades Crest-
+Lower Slopes of the Eastern Washington Cascades Crest-
+415 PM PDT Tue Apr 4 2023
+
+.Tonight...Mostly clear. Lows in the mid 20s to lower 30s. 
+.WEDNESDAY...Sunny. Highs in the upper 40s to mid 50s. 
+.WEDNESDAY NIGHT...Mostly cloudy. Lows in the 30s. 
+.THURSDAY...A chance of rain showers. Highs in the mid 40s to
+lower 60s. 
+.FRIDAY...A chance of rain showers. Highs in the upper 40s to
+lower 60s. Lows in the upper 30s to mid 40s. 
+.SATURDAY...A chance of rain showers. Highs in the upper 40s to
+lower 60s. Lows in the mid 30s to lower 40s. 
+.SUNDAY...A chance of rain showers. Highs in the lower 50s to
+lower 60s. Lows in the upper 30s to mid 40s. 
+.MONDAY...A chance of rain showers. Highs in the lower 50s to
+lower 60s. Lows in the upper 30s to mid 40s. 
+.TUESDAY...A chance of rain showers. Highs in the upper 40s to
+upper 50s. Lows in the mid 30s to lower 40s. 
+
+$$
+

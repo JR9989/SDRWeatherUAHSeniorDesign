@@ -1,0 +1,53 @@
+NZUS99 KTBW 042311
+RWRTBW
+Regional Weather Roundup National Weather Service Ruskin Florida
+700 PM EDT TUE APR 04 2023
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+Cross City     SUNNY     82  64  54 W6        30.03S                  
+Williston      FAIR      84  62  47 MISG        N/A                   
+Gainesville    PTCLDY    86  63  45 E9        30.04S                  
+Ocala          PTCLDY    86  65  49 E10       30.02S                  
+Crystal River  FAIR     N/A N/A N/A W5        30.02F                  
+Inverness      FAIR      84  70  61 CALM      30.01F                  
+Leesburg       CLEAR     86  63  45 NE13      30.03R                  
+Orlando        PTCLDY    85  66  53 E13       30.02S                  
+Brooksville    CLEAR     83  68  60 NW10      30.02S                  
+Zephyrhills    CLEAR     89  61  39 E5        30.01F                  
+Lakeland Intl  PTCLDY    90  63  40 E9        30.01S                  
+Winter Haven   CLEAR     85  68  56 E18       30.03R                  
+
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+Tampa Intl     MOSUNNY   83  68  60 W12       30.01S                  
+Tampa Exec     MOCLDY    88  72  58 NW8       30.01S                  
+MacDill AFB    SUNNY     82  67  61 NW7       29.97S                  
+Peter O Knight CLEAR     84  70  61 W8        30.01S                  
+Clearwater     SUNNY     81  67  62 NW10      30.01S                  
+St Petersburg  SUNNY     82  69  64 VRB7      29.99S                  
+Sarasota       MOSUNNY   81  70  69 W8        29.99F                  
+Sebring        MOCLDY    84  67  56 E12       30.03S                  
+Punta Gorda    MOCLDY    85  69  58 W10       30.01                   
+Ft Myers       CLEAR     85  68  56 SW9       30.00R                  
+Ft Myers-RSW   PTCLDY    82  68  62 SW10      30.00S                  
+Naples         PTCLDY    83  69  62 S7        30.01R                  
+
+STATION/POSITION SKY/WX   TEMP WIND        PRES    VSBY
+                          AIR  DIR/SP/G
+                          (F)  (DEG/KT/KT) (MB)    (MI)
+Keaton Beach               76  250/  4/  5 1017.1S
+039 Panama City            76  140/ 14/ 17 1016.5R
+036 Bayport                75  130/  8/ 10 1015.3R
+Venice                     79  280/  9/  9 1015.9S
+Cedar Key                  79  280/  5/  7 1017.2S
+
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+Tallahassee    MOSUNNY   82  60  47 S10       30.02S                  
+Daytona Beach  PTCLDY    78  70  76 E7        30.06R                  
+W Palm Beach   MOCLDY    81  70  69 E12       30.05S                  
+Miami          PTCLDY    82  68  62 E12       30.03S                  
+Key West       PTCLDY    81  72  74 E12       30.01S                  
+San Juan, PR   MOCLDY    77  72  83 E10       30.00R                  
+Cancun, MX     MOSUNNY   82  72  69 SE15      29.89                   
+
+  
