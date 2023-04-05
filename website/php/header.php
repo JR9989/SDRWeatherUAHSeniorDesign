@@ -23,7 +23,7 @@
   <header>
     <ul class="navigation">
       <li><a href="index.php">Home</a></li>
-      <li><a href="downloadImages.php">Download Images</a></li>
+      <li><a href="downloadImages.php">Download Data</a></li>
       <li><a href="calculate.php">Determine Azimuth</a></li>
       <li><a href="images.php">Generated Images</a></li>
       <li><a href="text.php">Generated Text</a></li>
