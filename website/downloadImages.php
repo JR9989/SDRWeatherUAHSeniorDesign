@@ -1,7 +1,7 @@
 <!-- downloadImages.php -->
 <!-- Author: J.R. Stooksbury, Date: 3/1/23 -->
 <!-- Page for downloading the images -->
-<?php $title="Download Images"; $header="Download Images"; include 'php/header.php'; ?>
+<?php $title="Download Data"; $header="Download Data"; include 'php/header.php'; ?>
   <script>
     function runCommand() {
       // Get the command entered by the user
@@ -29,9 +29,13 @@
     }
   </script>
   <div class="homeDiv">
-    <input type="text" id="commandInput" class="inputBox" placeholder="Enter command">
-    <button id="runButton" class="link" onclick="runCommand()">Run</button>
-    <br><br>
-    <p id="output"></p>
+    <h2>Use the embedded terminal to enter the commands to download data.  These commands are located in the user manual.</h2>
+    <button class="link" onclick="openPopup()">Open additional shell</button>
+    <script>
+    function openPopup() {
+      window.open("http://192.168.42.1:4200", "_blank", "width=500,height=500");
+    }
+    </script>
+    <iframe id="output" style="margin-top: 25px;" src="http://192.168.42.1:4200"></iframe>
   </div>
 <?php include 'php/footer.php'; ?>
