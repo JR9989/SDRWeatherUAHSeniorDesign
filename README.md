@@ -17,3 +17,6 @@ The Raspberry Pi will then be able to broadcast a server when configured properl
 
 ## Using it
 The webserver contains a manual page that will help the users use the software.  The default SSID is SatelliteSDR with a passphrase of Satellite!.  The default username and password for the os image is jr with a password of Rasp1234!.
+
+## Current Project Status
+This project is in ongoing development.
