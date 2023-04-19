@@ -30,7 +30,7 @@
   </script>
   <div class="homeDiv">
     <h2>Use the embedded terminal to enter the commands to download data.  These commands are located in the user manual.</h2>
-    <button class="link" onclick="openPopup()">Open additional shell</button>
+    <button class="link" onclick="openPopup()">Open additional shell</button><br>
     <script>
     function openPopup() {
       window.open("http://192.168.42.1:4200", "_blank", "width=500,height=500");
