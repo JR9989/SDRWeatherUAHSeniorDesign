@@ -19,7 +19,6 @@ The Raspberry Pi will then be able to broadcast a server when configured properl
 The webserver contains a manual page that will help the users use the software.  The default SSID is SatelliteSDR with a passphrase of Satellite!.  The default username and password for the os image is jr with a password of Rasp1234!.
 
 ## Antenna and SDR
-The antenna used for this project is https://www.amazon.com/dp/B08NLDTDM7/.  The SDR that was used was https://www.walmart.com/ip/Full-Band-Receiver-RTL-SDR-0-1MHz-1-7GHz-Stable-For-Intercom-Talk/1063624970
-
+The antenna used for this project is https://www.amazon.com/dp/B08NLDTDM7/.  The SDR that was used was https://www.nooelec.com/store/sdr/sdr-receivers/nesdr-smart-xtr-sdr.html
 ## Current Project Status
 This project is in ongoing development.
