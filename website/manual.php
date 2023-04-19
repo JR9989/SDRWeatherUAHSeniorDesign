@@ -4,7 +4,7 @@
 <?php $title="User Manual"; $header="User Manual"; include 'php/header.php'; ?>
   <div class="homeDiv">
     <p class="notice">
-      <br><br>Click on the links above to perform the various functions of the SDR.  Command can be inputted on the download data page. <br><br>Commands to run ghost tools<br><br>goesrecv -v -i 1 -c goesrecv.conf<br>Downloads data<br><br>SSH Username: jr  Password: Rasp1234!<br<br>Software installation guide
+      <br><br>Click on the links above to perform the various functions of the SDR.  Command can be inputted on the download data page. <br><br>Home - This is a simple home page that doesn't contain anytools or data<br>Download Data - This page contains an embedded terminal that allows you to enter the commands necessary to download the satellite data<br>Determine Azimuth - This page contains a tool that helps the user determine the correct satellite azimuth which is the direction needed to point the antenna<br>Generated Images - This page contains all of the images downloaded from the satellite<br>Generated Text - This page contains all of the text files downloaded from the satellite<br>User Manual - The page you are own right now that explains things<br><br>Command to run ghost tools to download data<br><br>goesrecv -v -i 1 -c goesrecv.conf<br><br>SSH Username: jr  Password: Rasp1234!<br><br>Wifi Network SSID: SatelliteSDR<br>Password: Satellite!<br><br><br>Ghost tools software installation guide
 <br><br>
 Add dependencies to be able to install goestools from github
 <br><br>
@@ -27,13 +27,11 @@ sudo cp ../rtl-sdr.rules /etc/udev/rules.d/<br>
 sudo ldconfig<br>
 echo ‘blacklist dvb_usb_rtl28xxu’ | sudo tee –append /etc/modprobe.d/<br>blacklist-dvb_usb_rtl28xxu.conf<br>
 sudo reboot<br>
-<br><br>
+<br>
 Installing goestools<br>
-<br><br>
+<br>
 git clone https://github.com/pietern/goestools.git<br>
-<br><br>
-      * If you plan to use hackrf sdr run this command instead
-git clone https://github.com/nqbit/goestools.git
+Use this command instead for the hackrf: git clone https://github.com/nqbit/goestools.git
 <br><br>
 cd goestools<br>
 git submodule init<br>
@@ -42,8 +40,6 @@ mkdir build<br>
 cd build<br>
 cmake -DCMAKE_INSTALL_PREFIX:PATH=/usr ..<br>
 sudo make -j2 install <br>
-<br><br>
-* You should have now successfully installed goestools
 </p>
   </div>
 <?php include 'php/footer.php' ?>
