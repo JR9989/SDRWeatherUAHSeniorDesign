@@ -12,6 +12,7 @@ To setup this product on your own, you will need to download the following deped
 - ShellInABox: https://github.com/shellinabox/shellinabox
 - Apache: https://www.apache.org
 - Raspberry Pi OS: https://www.raspberrypi.com/software/
+ShellInABox must be configured to your instance settings if you run this on your own computer in the website files.  In this instance, it was programed to the ip address of 192.168.42.1:4200.  This tool is used in all pages with a terminal output.
 
 The Raspberry Pi will then be able to broadcast a server when configured properly using the files provided in the website folder.
 
