@@ -239,6 +239,10 @@ img {
 
 /* Text Gallery Page (text.php) */
 
+form label {
+  font-size: 36px;
+}
+
 .textFileLink {
   display: inline-block;
   box-sizing: border-box;
