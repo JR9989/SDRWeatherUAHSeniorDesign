@@ -21,5 +21,8 @@ The webserver contains a manual page that will help the users use the software. 
 
 ## Antenna and SDR
 The antenna used for this project is https://www.amazon.com/dp/B08NLDTDM7/.  The SDR that was used was https://www.nooelec.com/store/sdr/sdr-receivers/nesdr-smart-xtr-sdr.html
+
+## Goes Tool Configuration
+The configuration files for the Goes Tools can be found in the goestoolconfig directory.
 ## Current Project Status
 This project is in ongoing development.
