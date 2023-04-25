@@ -8,7 +8,7 @@ The easiest way to install this is by using the pre-imaged Raspberry Pi img that
 
 ## Setup
 To setup this product on your own, you will need to download the following depedencies.
-- GEOS Tools: https://github.com/pietern/goestools
+- GOES Tools: https://github.com/pietern/goestools
 - ShellInABox: https://github.com/shellinabox/shellinabox
 - Apache: https://www.apache.org
 - Raspberry Pi OS: https://www.raspberrypi.com/software/
