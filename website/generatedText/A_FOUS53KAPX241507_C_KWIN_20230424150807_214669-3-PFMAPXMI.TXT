@@ -1,0 +1,230 @@
+FOUS53 KAPX 241507
+PFMAPX
+
+Point Forecast Matrices
+National Weather Service Gaylord MI
+1107 AM EDT Mon Apr 24 2023
+
+MIZ087-242100-
+Sault Ste Marie-Chippewa MI
+46.48N  84.35W Elev. 722 ft
+1107 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      42          32          42          30          42
+Temp                   39 41 38 35 34 33 33 38 41 41 38 34 32 31 32 38 40 41 37
+Dewpt                  31 30 30 31 30 29 28 28 28 27 28 29 28 27 27 27 26 25 26
+RH                     73 65 73 85 85 85 82 67 59 57 67 82 85 85 81 64 57 52 64
+Wind dir               NW NW NW NW  N  N  N  N NW NW NW NW  N NW NW NW NW NW NW
+Wind spd                9 10  9  6  5  5  5  6 10 11 10  9  5  5  5 10 11 11 10
+Clouds                 OV OV OV B2 OV OV OV B2 B2 B1 B1 B1 B2 B1 B1 B1 B1 B1 SC
+PoP 12hr                     50          50          20           0           5
+QPF 12hr                   0.05        0.02           0           0           0
+Snow 12hr                     T           T       00-00                        
+Rain shwrs              C  C  C  C  C  C     S  S                              
+Snowshwrs               C  C     C  C  C  S  S  S  S                           
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          27    47      36    55      41    53      41    49
+Temp          29 32 45 43   37 38 52 51   42 43 51 49   44 42 48 46
+Dewpt         25 26 31 32   31 33 36 36   37 38 41 41   40 39 40 39
+PWind dir        NW    SE      SE    SE       E     E       E     E
+Wind char        LT    GN      GN    GN      GN    BZ      GN    GN
+Avg clouds    SC SC B1 B2   B2 B2 B2 B1   B1 B2 B2 B2   B2 OV B2 B2
+PoP 12hr          0    10      20    20      30    50      60    60
+Rain shwrs                      S  S  S    S  C  C  C    L  L  L  L
+
+$$
+MIZ016-242100-
+Pellston-Emmet MI
+45.57N  84.80W Elev. 722 ft
+1107 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      44          31          44          29          46
+Temp                   41 42 39 34 33 33 33 39 42 43 40 33 32 31 31 40 44 46 42
+Dewpt                  27 27 29 30 30 30 31 30 30 28 27 27 27 28 29 28 27 26 28
+RH                     57 55 67 85 89 89 92 70 62 55 59 78 81 88 92 62 51 45 57
+Wind dir                W  W NW NW NW NW  N  N NW NW  N NW NW NW NW NW NW  W  W
+Wind spd               11 10 10  6  5  5  4  5  8  9 10  9  8  5  5  9 10 10  9
+Clouds                 B2 B2 B2 B2 B2 OV OV B2 B2 B1 B1 B1 B1 B1 B1 B1 B1 SC FW
+PoP 12hr                     10          50          10           0           0
+QPF 12hr                      0        0.03           0           0           0
+Snow 12hr                 00-00           T       00-00                        
+Rain shwrs                    S  C  C  C                                       
+Snowshwrs                        C  C  C                                       
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          27    52      37    59      41    54      40    50
+Temp          30 33 50 47   39 39 57 53   43 43 52 50   43 42 48 47
+Dewpt         27 26 31 34   32 34 38 38   37 39 42 41   40 39 39 40
+PWind dir        SW    SE      SE     E       E     E      NE    NE
+Wind char        LT    GN      GN    GN      GN    GN      GN    GN
+Avg clouds    FW FW B1 B2   B2 B2 B1 B1   B1 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0    10      20    20      40    60      60    70
+Rain shwrs                      S  S  S    C  C  C  L    L  L  L  L
+
+$$
+MIZ022-242100-
+Gaylord-Otsego MI
+45.02N  84.68W Elev. 1329 ft
+1107 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      42          28          44          27          45
+Temp                   41 42 39 32 30 29 30 37 43 44 39 31 29 28 29 38 43 45 40
+Dewpt                  21 21 23 25 26 26 27 26 26 26 24 24 24 25 26 25 24 23 23
+RH                     44 43 52 75 85 88 88 64 51 49 54 75 81 88 88 59 47 41 50
+Wind dir               NW NW NW NW NW NW NW NW NW NW NW  N NW NW NW NW NW NW NW
+Wind spd               13 12 10  6  6  6  6  8  9 10 10  8  6  8  9 10 10 10  8
+Clouds                 B1 B1 SC B2 B2 B2 OV B2 B2 B2 B1 SC B1 B1 B1 B1 B1 SC FW
+PoP 12hr                     10          30          20           5          10
+QPF 12hr                      0        0.01           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                      S                              
+Snowshwrs                           S  C        S  S                           
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          26    54      37    61      42    54      40    49
+Temp          28 31 52 49   39 38 58 54   43 43 53 51   42 41 47 46
+Dewpt         23 25 27 31   30 31 34 35   37 39 40 41   39 39 38 37
+PWind dir         S     S      SE    SE       E     E      NE    NE
+Wind char        LT    GN      GN    GN      GN    BZ      GN    GN
+Avg clouds    FW FW SC B2   B2 B2 B1 B1   B1 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     5      20    30      50    70      70    70
+Rain shwrs                      S  S  C    C  C  L  L    L  L  L  L
+
+$$
+MIZ024-242100-
+Alpena-Alpena MI
+45.08N  83.53W Elev. 692 ft
+1107 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      46          31          44          29          46
+Temp                   44 45 41 35 34 33 33 38 42 43 40 34 32 31 32 40 44 45 41
+Dewpt                  26 26 29 30 30 30 31 31 30 28 28 28 28 28 29 28 27 27 28
+RH                     49 47 62 82 85 89 92 76 62 55 62 78 85 88 88 62 51 49 59
+Wind dir               NW NW NW NW  W NW NW  N  N  N  N NW NW NW NW NW  N  N  N
+Wind spd               10 10  9  8  8  8  6  6  8  6  8  8  9  9  9 10  9  8  6
+Clouds                 OV OV B2 B2 B2 OV OV B2 B2 B1 B1 B1 B1 B2 B2 B1 B1 B1 SC
+PoP 12hr                     10          50          20           5           5
+QPF 12hr                      0        0.02           0           0           0
+Snow 12hr                 00-00           T       00-00                        
+Rain shwrs                       S  C  C        S  S                           
+Snowshwrs                        S  C  C           S                           
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          28    50      36    55      40    51      40    50
+Temp          31 33 49 42   38 39 54 48   43 42 51 47   43 42 49 46
+Dewpt         27 28 29 31   32 34 35 36   37 39 40 41   40 40 39 38
+PWind dir         W    SE      SE     E       E     E      SE     E
+Wind char        LT    GN      GN    GN      GN    BZ      GN    GN
+Avg clouds    SC FW SC B1   B2 B2 B1 B1   B1 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     0      10    20      40    60      60    70
+Rain shwrs                         S  S    C  C  C  L    L  L  L  L
+
+$$
+MIZ026-242100-
+Traverse City-Grand Traverse MI
+44.73N  85.57W Elev. 623 ft
+1107 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      46          31          43          31          47
+Temp                   44 44 41 34 33 32 33 38 42 42 39 35 33 32 33 40 44 46 43
+Dewpt                  20 20 23 26 27 27 28 28 29 28 27 27 26 27 27 27 26 25 25
+RH                     38 38 48 72 78 81 82 67 60 57 62 72 75 81 78 59 49 43 49
+Wind dir               NW NW  N NW  N NW  N  N  N  N  N  N  N NW NW  N  N  N  N
+Wind spd               11 11  6  4  5  4  5  5 10 10 10 10  8  6  8 10 10 10  6
+Clouds                 FW FW FW FW SC B2 B2 B2 B1 B1 FW SC B1 B1 B1 B1 SC FW FW
+PoP 12hr                     10           5          10           0           5
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                      S  S                           
+Wind chill                                              26                     
+Min chill              30    35    25    24    27    29    24    23    26    37
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          31    56      41    64      45    56      42    51
+Temp          32 35 54 51   43 43 61 57   47 45 55 51   44 42 49 48
+Dewpt         25 26 29 33   32 33 36 37   39 40 41 41   39 39 39 37
+PWind dir         E     S      SE    SE       E     E      NE     N
+Wind char        LT    GN      GN    GN      GN    GN      GN    GN
+Avg clouds    FW SC B1 B2   B2 B2 B1 B1   B1 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     5      20    30      50    60      70    70
+Rain shwrs                      S  S  C    C  C  L  L    L  L  L  L
+
+$$
+MIZ034-242100-
+Houghton Lake-Roscommon MI
+44.35N  84.67W Elev. 1152 ft
+1107 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      45          26          45          25          47
+Temp                   44 44 40 32 28 28 29 39 43 44 39 33 29 26 28 38 44 46 42
+Dewpt                  20 18 18 22 24 24 25 26 26 26 25 25 25 24 25 26 25 24 23
+RH                     38 35 41 66 85 85 85 59 51 49 57 72 85 92 88 62 47 42 46
+Wind dir               NW NW NW NW NW NW NW NW NW NW  N  N  N NW NW  N NW NW NW
+Wind spd               12 12 10  5  5  5  5  5  6  8  9  6  5  6  8  9  9  9  6
+Clouds                 B1 SC CL FW SC SC B1 B1 B1 B1 B1 B1 B1 SC B1 SC B1 SC SC
+PoP 12hr                      5           0          40           5          10
+QPF 12hr                      0           0        0.01           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                      C  C                           
+Snowshwrs                                 S  S  C                              
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          25    54      36    59      41    54      38    48
+Temp          28 31 52 49   38 38 57 53   44 43 52 51   43 41 46 45
+Dewpt         24 26 27 30   30 32 35 35   38 40 41 40   40 39 39 37
+PWind dir        NE    SE      SE    SE       E     E       E     N
+Wind char        LT    GN      GN    GN      GN    GN      GN    GN
+Avg clouds    FW FW SC B1   B2 B2 B2 B1   B1 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     0      20    20      50    60      70    70
+Rain shwrs                      S  S  S    C  C  L  L    L  L  L  L
+
+$$

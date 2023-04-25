@@ -1,0 +1,106 @@
+WWUS72 KGSP 241443
+NPWGSP
+
+URGENT - WEATHER MESSAGE
+National Weather Service Greenville-Spartanburg SC
+1043 AM EDT Mon Apr 24 2023
+
+NCZ033-048>052-058-059-062-250000-
+/O.UPG.KGSP.FZ.A.0009.230425T0600Z-230425T1300Z/
+/O.NEW.KGSP.FZ.W.0009.230425T0600Z-230425T1300Z/
+Avery-Madison-Yancey-Mitchell-Swain-Haywood-Graham-
+Northern Jackson-Macon-
+Including the cities of Ingalls, Banner Elk, Newland, Faust, 
+Mars Hill, Marshall, Walnut, Allenstand, Hot Springs, Luck, 
+Swiss, Burnsville, Celo, Micaville, Ramseytown, Busick, 
+Spruce Pine, Poplar, Alarka, Almond, Bryson City, Luada, Wesser, 
+Waynesville, Waterville, Canton, Cruso, Cove Creek, Robbinsville,
+Stecoah, Cullowhee, Tuckasegee, Sylva, Franklin, Rainbow Springs,
+Kyle, and Highlands
+1043 AM EDT Mon Apr 24 2023
+
+...FREEZE WARNING IN EFFECT FROM 2 AM TO 9 AM EDT TUESDAY...
+
+* WHAT...Sub-freezing temperatures as low as 30 expected.
+
+* WHERE...Avery, Madison, Yancey, Mitchell, Swain, Haywood, 
+  Graham, Northern Jackson and Macon Counties.
+
+* WHEN...From 2 AM to 9 AM EDT Tuesday.
+
+* IMPACTS...Frost and freeze conditions will kill crops, other
+  sensitive vegetation and possibly damage unprotected outdoor
+  plumbing.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Take steps now to protect tender plants from the cold. To prevent
+freezing and possible bursting of outdoor water pipes they should
+be wrapped, drained, or allowed to drip slowly. Those that have
+in-ground sprinkler systems should drain them and cover above-
+ground pipes to protect them from freezing.
+
+&&
+
+$$
+
+NCZ053-063>065-250000-
+/O.UPG.KGSP.FZ.A.0009.230425T0600Z-230425T1300Z/
+/O.NEW.KGSP.FR.Y.0004.230425T0600Z-230425T1300Z/
+Buncombe-Southern Jackson-Transylvania-Henderson-
+Including the cities of Asheville, Black Mountain, Candler, 
+Wolf Mountain, Cashiers, Brevard, Cedar Mountain, Little River, 
+Hendersonville, Fletcher, Dana, East Flat Rock, Tuxedo, 
+and Etowah
+1043 AM EDT Mon Apr 24 2023
+
+...FROST ADVISORY IN EFFECT FROM 2 AM TO 9 AM EDT TUESDAY...
+
+* WHAT...Temperatures as low as 33 will result in frost 
+  formation.
+
+* WHERE...Buncombe, Southern Jackson, Transylvania and Henderson
+  Counties.
+
+* WHEN...From 2 AM to 9 AM EDT Tuesday.
+
+* IMPACTS...Frost could kill sensitive outdoor vegetation if left
+  uncovered.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Take steps now to protect tender plants from the cold.
+
+&&
+
+$$
+
+NCZ501-503-505-250000-
+/O.NEW.KGSP.FR.Y.0004.230425T0600Z-230425T1300Z/
+Caldwell Mountains-Burke Mountains-McDowell Mountains-
+Including the cities of Jonas Ridge, Ashford, Woodlawn, 
+and Old Fort
+1043 AM EDT Mon Apr 24 2023
+
+...FROST ADVISORY IN EFFECT FROM 2 AM TO 9 AM EDT TUESDAY...
+
+* WHAT...Temperatures as low as 33 will result in frost 
+  formation.
+
+* WHERE...Caldwell Mountains, Burke Mountains and McDowell 
+  Mountains Counties.
+
+* WHEN...From 2 AM to 9 AM EDT Tuesday.
+
+* IMPACTS...Frost could kill sensitive outdoor vegetation if left
+  uncovered.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Take steps now to protect tender plants from the cold.
+
+&&
+
+$$
+
+ARK

@@ -1,0 +1,55 @@
+SXUS83 KAPX 241508
+OMRAPX
+
+Marine Observations
+National Weather Service Gaylord MI
+1108 AM EDT Mon Apr 24 2023
+
+                    WIND  DATA (KTS)   WAVES  WATER          
+SITE   DATE/TIME   DIR   SPEED   GUST  (FT)  TEMP(F) SITE NAME
+-------------------------------------------------------------
+
+Lake Superior/St Marys River
+
+GRMM4   241440Z    290     17     21                 Grand Marais
+WFPM4   241440Z    310      1      5                 Whitefish Point
+PTIM4   241430Z    260      5     10                 Point Iroquois
+CYAM    241400Z    270      8                        SOO (Canada)
+KANJ    241455Z    280      6                        Sault Ste Marie
+SWPM4   241430Z    270      7      9           37.21    S.W. Pier
+LTRM4   241430Z    280      5      8                 Little Rapids
+RCKM4   241430Z    280      4      7                 Rock Cut
+WNEM4   241430Z    290      5      6                 West Nebish Island
+
+Lake Huron
+
+DTLM4   241430Z    290      5      8           38.47    DeTour Village
+KDRM    241455Z    300      5                        Drummond Island
+KMCD    241455Z    270     11                        Mackinac Island
+MACM4   241430Z    300     10     17           38.47    Mackinac City
+KSLH    241455Z    270      9                        Cheboygan Airport
+CYGM4   241350Z    240      1      7                 Cheboygan Marina
+KPZQ    241455Z    270      7                        Rogers City
+PRIM4   241350Z    290     11     20                 Presque Isle Light
+KAPN    241454Z    280      8     17                 Alpena Guard Base
+SPTM4   241350Z    310      3     11                 Sturgeon Point Light
+KOSC    241455Z    290     10                        Oscoda
+TAWM4   241440Z    260      6     11                 Tawas Point
+GSLM4   241440Z    240      9     10                 Gravelly Shoals
+
+Lake Michigan
+
+KISQ    241455Z    320      7                        Manistique
+PNLM4   241430Z    320      9     14                 Port Inland
+NABM4   241440Z    320      6     12                 Naubinway
+KSJX    241455Z    260     10                        St James
+KPLN    241454Z    270      8                        Pellston
+KMGN    241455Z    250      9                        Harbor Springs
+KCVX    241455Z    280      9                        Charlevoix
+NMIM4   241428Z    340      5     10                 North Manitou Island
+GTLM4   241440Z    290     10     12                 Grand Traverse Light
+KTVC    241453Z    320      6                        Traverse City
+KFKS    241455Z    360      3                        Frankfort
+MEEM4   241440Z    340      4      6                 Manistee Harbor
+LDTM4   241430Z    290      3      5                 Ludington
+KLDM    241455Z   CALM                               Ludington Airport

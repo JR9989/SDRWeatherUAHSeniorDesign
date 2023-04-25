@@ -1,0 +1,25 @@
+FGUS86 KHNX 241637
+RVSUSJ
+CAC047-099-251700-
+
+Hydrologic Statement
+National Weather Service Hanford CA
+937 AM PDT Mon Apr 24 2023
+
+High Flows along the Merced River at Stevinson and the San Joaquin 
+River at Newman are expected to continue into the foreseeable future.
+
+Location            Fld   Observed             Forecasts (10 am PDT)
+--------            Stg   Stg   Day/Time       Tue   Wed   Thu
+
+Merced River
+Stevinson           71.0  70.6  Mon 9 am PDT   70.6  70.6  70.6
+
+San Joaquin River
+Newman              69.4  64.3  Mon 8 am PDT   64.1  64.2  64.3
+
+High flows continue to occur along the Merced River at Stevinson and
+ the San Joaquin River at Newman. Both forecast points are expected 
+ to stay above monitor stage but remain below flood stage for at 
+ least the next few days.
+$$

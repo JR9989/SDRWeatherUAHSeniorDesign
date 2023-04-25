@@ -1,0 +1,81 @@
+ASUS62 KMFL 241504
+RTPMFL
+ 
+Mainland South Florida Temperature and Precipitation Table
+National Weather Service Miami FL
+1104 AM EDT Mon Apr 24 2023
+
+Note: Data is for the 24-Hour Period Ending at 7 am(EST)/8 am(EDT) Today.
+
+:                                   High           Low       24 Hour
+:                                 Yesterday     Overnight    Rainfall
+:   Airport Observations                      7 PM TO 7 AM   TO 7 AM
+:
+.B MFL 0424 E DH00/TAIRZX/DH07/TAIRZP/PPDRZZ
+:
+FLL : Fort Lauderdale Intl        :     M     /      M    /       M    
+FXE : Fort Lauderdale Exec        :    87     /     72    /       M    
+HST : Homestead AFB               :    84     /     71    /    0.11    
+MIA : Miami                       :    87     /     75    /    0.03    
+APF : Naples                      :    89     /     73    /    0.00    
+OPF : Opa-locka                   :    87     /     73    /      T     
+HWO : Pembroke Pines              :    86     /     73    /    0.08    
+PMP : Pompano Beach               :    85     /     74    /    0.00    
+TMB : West Kendall-Tamiami        :    89     /     72    /      T     
+PBI : West Palm Beach             :    87     /     74    /    0.06    
+:
+.END
+:
+:Cooperative                                            24 Hour
+:Observations                   Report Time      High     Low     Rainfall
+:
+.B MFL 0424 E DH07/TAIRZX/TAIRZN/PPDRZZ
+:
+CNLF1: Canal Point              M             :    M   /    M   /      M   
+FLBF1: Fort Lauderdale Beach    Mon 06:44 AM  :   85   /   72   /   0.00   
+FTLF1: Fort Lauderdale Dixie WP Mon 07:00 AM  :   85   /   71   /   0.00   
+HIAF1: Hialeah                  M             :    M   /    M   /      M   
+HLWF1: Hollywood                Mon 06:00 AM  :   82   /   70   /   0.00   
+HAPF1: Homestead General AP     Mon 06:00 AM  :   89   /   66   /   0.00   
+JUBF1: Juno Beach               M             :    M   /    M   /      M   
+CAFF1: Key Biscayne             Mon 08:00 AM  :   87   /   73   /   0.00   
+MCIF1: Marco Island             Mon 07:00 AM  :   87   /   70   /   0.00   
+MHVF1: Moore Haven              Mon 06:00 AM  :   86   /   66   /   0.00   
+MUSF1: Muse                     Mon 08:00 AM  :    M   /    M   /   0.00   
+NPLF1: Naples East              Mon 07:00 AM  :   89   /   71   /   0.00   
+NMBF1: North Miami Beach        M             :    M   /    M   /      M   
+ORTF1: Ortona                   M             :    M   /    M   /      M   
+PBGF1: Palm Beach Gardens       Mon 07:00 AM  :   85   /   70   /      M   
+PRRF1: Perrine                  M             :    M   /    M   /      M   
+SBYF1: South Bay 15S            M             :    M   /    M   /      M   
+MFL  : Sweetwater NWS Miami     Mon 07:00 AM  :   88   /   71   /     T    
+.END
+
+
+:Other South Florida Gages...Last 24 Hour Precipitation...Data as of 1200 UTC
+.B MFL 0424 E DH07/PPDRZZ
+:
+ADYF1: Andytown 5W          :     0.23
+ANDF1: Andytown 18W         :     0.00
+BOYF1: Boynton Beach 17W    :     0.00
+CRLF1: Coopertown 14N       :     0.00
+DLRF1: Delray Beach 8W      :     0.00
+DLBF1: Delray Beach 10W     :        M
+LPIF1: Long Pine Key/Cache  :     0.00
+RKIF1: Miles City           :     0.00
+OASF1: Oasis Ranger Station :     0.00
+OCOF1: Ochopee              :     0.00
+RACF1: Racoon Point         :     0.04
+SWEF1: Sweetwater 14NW      :        M
+.END
+
+
+These data are preliminary and have not undergone final quality
+control by the National Climatic Data Center (NCDC). Therefore 
+these data are subject to revision. Final and certified climate
+data can be accessed at WWW.NCDC.NOAA.GOV.
+
+
+$$
+
+

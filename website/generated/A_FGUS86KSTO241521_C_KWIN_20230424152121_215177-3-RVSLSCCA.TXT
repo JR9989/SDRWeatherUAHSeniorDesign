@@ -1,0 +1,40 @@
+FGUS86 KSTO 241521
+RVSLSC
+Hydrologic Statement
+National Weather Service Sacramento CA
+821 AM PDT Mon Apr 24 2023
+
+...Minor Fluctuations on Lower Sacramento River System...
+
+Forecasts are based on present and forecasted meteorological and 
+hydrologic conditions at time of issuance.
+
+Unlisted forecast points are expected to remain below monitor stage. 
+All those affected by river conditions should remain alert for rapid 
+changes and for possible forecast revisions.
+
+For more hydrologic information and stage definitions refer to the 
+following web site: http://www.wrh.noaa.gov/sto/hydro_data.php
+
+CAC113-101-067-251530-
+821 AM PDT Mon Apr 24 2023
+
+Sacramento River At
+ Verona 4/24 7:45 stage 23.1 ft
+Forecast to fluctuate near 23.0 FT into this afternoon then forecast 
+to rise to near 24.0 FT tomorrow afternoon.
+ Monitor stage MSG ft, Flood stage 41.3
+
+
+$$
+
+CAC113-067-251530-
+821 AM PDT Mon Apr 24 2023
+
+Sacramento River At
+ I Street Bridge 4/24 8:00 stage 14.8 ft
+ Forecast to rise to near 15.5 FT tomorrow evening.
+ Monitor stage 27.5 ft, Flood stage 33.5
+
+
+$$

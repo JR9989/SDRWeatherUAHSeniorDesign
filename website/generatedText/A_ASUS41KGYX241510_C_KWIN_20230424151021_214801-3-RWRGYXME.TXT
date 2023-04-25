@@ -1,0 +1,91 @@
+ASUS41 KGYX 241510
+RWRGYX
+WEATHER ROUNDUP FOR MAINE AND NEW HAMPSHIRE
+NATIONAL WEATHER SERVICE GRAY ME
+1100 AM EDT MON APR 24 2023
+
+MEZ002-005-006-010-012-015-018-020-021-024-026-027-029-241600-
+MAINE
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PORTLAND       LGT RAIN  43  43 100 E15       30.07R VSB 3/4          
+SANFORD        LGT RAIN  46  45  96 E12       30.03S FOG              
+BAR HARBOR     CLOUDY    42  39  89 E13       30.15S                  
+WISCASSET      LGT RAIN  43  40  89 E10G18    30.10R FOG              
+ROCKLAND       LGT RAIN  42  41  96 E17G24    30.12R                  
+FRYEBURG       LGT RAIN  44  43  96 VRB3      30.06R FOG              
+LEWISTONAUBURN LGT RAIN  43  43 100 E9        30.08R FOG              
+AUGUSTA        CLOUDY    43  40  89 E8G16     30.09S FOG              
+WATERVILLE     LGT RAIN  42  41  96 VRB7      30.08S                  
+BANGOR         LGT RAIN  44  40  85 E12       30.14S                  
+GREENVILLE       N/A     39  37  92 SE12G20   30.07S                  
+MILLINOCKET    CLOUDY    41  39  93 E9        30.17S                  
+HOULTON        CLOUDY    41  34  76 E7        30.18S                  
+PRESQUE ISLE   CLOUDY    45  37  73 SE8       30.19S                  
+FRENCHVILLE    CLOUDY    44  34  67 E7        30.17S                  
+CARIBOU        CLOUDY    46  37  71 SE9       30.17F                  
+$$
+
+NHZ002-005-008-009-011-012-014-241600-
+NEW HAMPSHIRE
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PORTSMOUTH     CLOUDY    48  47  97 E5        30.01S FOG              
+ROCHESTER      FOG       47  46  97 E7        30.00S VSB 1            
+NASHUA         PTSUNNY   52  44  74 CALM      30.01F                  
+MANCHESTER     PTSUNNY   51  42  71 CALM      29.99F                  
+CONCORD        PTSUNNY   49  47  93 E3        30.01S                  
+LACONIA        LGT RAIN  44 N/A N/A NE8       30.01S                  
+BERLIN         CLOUDY    46  38  73 SE12      30.02S                  
+WHITEFIELD     CLOUDY    47  37  68 CALM      30.00R                  
+JAFFREY        CLOUDY    51  40  65 NW3       29.99S                  
+KEENE          PTSUNNY   50  39  66 VRB3        N/A                   
+LEBANON        CLOUDY    50  43  77 NE8       30.00S                  
+MT WASHINGTON  FRZ DRZL  25  25 100 SE33        N/A  VSB 1/16WCI   7  
+$$
+
+VTZ005-007-008-241600-
+VERMONT
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ST JOHNSBURY     N/A     45  40  82 MISG      29.99S                  
+MONTPELIER     LGT RAIN  44  41  89 CALM      30.03S FOG              
+BURLINGTON     CLOUDY    49  37  63 NW6       30.01S                  
+$$
+
+MAZ007-012-024-CTZ003-RIZ002-NYZ038-NYZ072-241600-
+SOUTHERN NEW ENGLAND AND NY
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BOSTON         PTSUNNY   51  43  74 CALM      30.03R                  
+WORCESTER      PTSUNNY   50  36  58 W6        29.99R                  
+NANTUCKET      CLOUDY    50  46  86 N6        30.03R                  
+PROVIDENCE     PTSUNNY   51  45  79 CALM      30.03R                  
+HARTFORD       PTSUNNY   52  38  58 NW13      30.03R                  
+ALBANY         CLOUDY    49  37  63 NW5       30.06S                  
+NEW YORK CITY  MOSUNNY   54  35  48 CALM      30.05F                  
+$$
+
+ANZ081-ANZ082-ANZ150-NHZ014-MEZ023>029-241600-
+COASTAL MARINE OBSERVATIONS
+  
+STATION/POSITION TIME  TEMP    WIND        PRES    WAVE
+                       AIR SEA DIR/SP/G            HT/PER
+                 (UTC) (F)     (DEG/KT/KT) (MB)    (FT/S)
+MOUNT DESERT ROC 1500   41      80/ 26/ 28 1019.5F
+MATINICUS ROCK   1400   41      90/ 28/ 29 1018.8R
+ISLE OF SHOALS   1400   45     160/ 10/ 10 1015.8R
+JEFFREYS LEDGE   1456      44                N/A     7/ 8
+CASHES LEDGE BUO 1450   42 43  110/ 19/ 23 1017.7R   8/ 7
+$$
+
+.............KEY..............
+   WCI - WIND CHILL
+   TC  - TEMPERATURE IN CELSIUS
+   VSB - VISIBILITY IN MILES
+   HX  - HEAT INDEX
+   FAIR- INDICATES FEW OR NO CLOUDS BELOW 12,000 FT, WITH NO 
+         SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+
+  

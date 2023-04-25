@@ -1,0 +1,177 @@
+SHUS44 KLZK 241515
+AGOLZK
+
+
+SUPPLEMENTAL ARKANSAS TEMPERATURES AND PRECIPITATION TABLE
+NATIONAL WEATHER SERVICE LITTLE ROCK AR
+1015 AM CDT Mon Apr 24 2023
+
+.B LZK  C DH07/TAIRZX/TAIRZN/TAIRZZ/PPDRZZ
+:
+:Cooperative Observer Network Data
+:
+:                                    Temperature                Snow
+:Id  : Location               :Time/ Max/ Min/ Obs/ Rain/ Snow/ depth
+ALCA4: Alicia                 :0746/  60/  41/  42/ 0.00/ 0.0/  0
+ALFA4: Alum Fork              : M  /   M/   M/   M/    M/   M/  M
+ARKA4: Arkadelphia 2 N        : M  /   M/   M/   M/    M/   M/  M
+ASHA4: Ashdown                :1300/  53/  44/  44/ 0.00/   M/  M
+BTSA4: Batesville Livestock   :0800/  60/  32/  36/ 0.00/   M/  M
+BATA4: Batesville L&D         :0600/  63/  38/  38/ 0.00/ 0.0/  0
+BDVA4: Beedeville 4 NE        :0700/  58/  43/  43/ 0.00/   M/  M
+BENA4: Benton                 :0700/  55/  40/  40/ 0.00/ 0.0/  0
+BGFA4: Big Fork 1 SSE         :0800/  51/  37/  40/ 0.00/   M/  M
+BVLA4: Booneville 3 SSE       : M  /   M/   M/   M/    M/   M/  M
+BMDA4: Blakely Mtn Dam        :0500/  54/  38/  38/ 0.08/   M/  M
+BMOA4: Blue Mtn Dam           :0800/  71/  36/  63/ 0.00/   M/  M
+CABA4: Cabot                  : M  /   M/   M/   M/    M/   M/  M
+CARA4: Calico Rock 2 WSW      :0700/  62/  32/  32/ 0.00/   M/  M
+CALA4: Thatcher L&D           :0500/  73/  46/  48/    M/   M/  M
+CADA4: Camden 1               :0800/  51/  41/  44/ 0.00/   M/  M
+STAA4: Cane Creek State Park  :0800/  55/  42/  52/ 0.00/ 0.0/  0
+CKVA4: Clarksville 6 NE       :0700/  63/  21/  42/ 0.00/   M/  M
+CNYA4: Conway                 :0800/  59/  37/  40/    T/   M/  M
+CRNA4: Corning                : M  /   M/   M/   M/    M/   M/  M
+CRSA4: Crossett               : M  /   M/   M/   M/    M/   M/  M
+DDLA4: Dardanelle             : M  /   M/   M/   M/    M/   M/  M
+DQEA4: DeQueen                : M  /   M/   M/   M/    M/   M/  M
+DRMA4: Dermott                : M  /   M/   M/   M/    M/   M/  M
+DGYA4: DeGray Lake State Park : M  /   M/   M/   M/    M/   M/  M
+DESA4: Des Arc                : M  /   M/   M/   M/    M/   M/  M
+EDAA4: Eudora                 : M  /   M/   M/   M/    M/   M/  M
+EVSA4: Evening Shade 1 NNE    : M  /   M/   M/   M/    M/   M/  M
+FYVA4: Fayetteville Exp Sta   : M  /   M/   M/   M/    M/   M/  M
+FRDA4: Fordyce                :0720/  52/  41/  43/ 0.01/   M/  M
+GLBA4: Gilbert                :0800/  60/  38/  45/ 0.00/   M/  M
+GFOA4: Greers Ferry Dam       :0800/  67/  38/  45/ 0.00/ 0.0/  0
+HRDA4: Hardy                  :0500/  61/  36/  39/ 0.00/ 0.0/  0
+HOPA4: Hope                   : M  /   M/   M/   M/    M/   M/  M
+HOTA4: Hot Springs 1 NNE      : M  /   M/   M/   M/    M/   M/  M
+JBRA4: Jonesboro              :0600/  59/  37/  37/ 0.00/ 0.0/  0
+KEIA4: Keiser NE AR Exp Stn   : M  /   M/   M/   M/    M/   M/  M
+KEOA4: Keo                    : M  /   M/   M/   M/    M/   M/  M
+PSPA4: POINSETT STATE PARK    : M  /   M/   M/   M/    M/   M/  M
+LDHA4: Lead Hill              :0800/  60/  31/  36/ 0.00/   M/  M
+LEWA4: Lewisville             : M  /   M/   M/   M/    M/   M/  M
+MADA4: Madison                : M  /   M/   M/   M/    M/   M/  M
+MCHA4: Marche                 :0700/  59/  35/  39/ 0.00/ 0.0/  0
+MLVA4: Malvern                :0700/  52/  39/  39/ 0.00/   M/  M
+MMMA4: Mammoth Spring         : M  /   M/   M/   M/    M/   M/  M
+MRNA4: MARIANNA               :0800/  56/  41/  47/ 0.00/   M/  M
+MSHA4: Marshall               :0630/  59/  29/  29/ 0.00/ 0.0/  0
+MENA4: Mena                   :0657/  55/  36/  36/ 0.00/   M/  M
+MRLA4: Morrilton              :1320/  63/  37/  40/ 0.00/   M/  M
+MHMA4: Mountain Home          :0700/  59/  34/  34/ 0.00/   M/  M
+MTBA4: MOUNTAINBURG           : M  /   M/   M/   M/    M/   M/  M
+MTVA4: Mountain View          :0800/  62/  32/  37/ 0.00/ 0.0/  0
+MRFA4: Murfreesboro 1 W       :0750/  51/  34/  36/    T/   M/  M
+NSVA4: Nashville              :0700/  55/  40/  40/ 0.05/ 0.0/  0
+NPRA4: Newport                :0800/  59/  40/  44/ 0.00/ 0.0/  0
+NROA4: Nimrod Dam Observer    : M  /   M/   M/   M/ 0.00/   M/  M
+LZK  : North Little Rock      :0700/  55/  40/  41/ 0.00/ 0.0/  0
+OZAA4: Ozark Obs.             :0700/  64/  38/  38/ 0.00/   M/  M
+PGLA4: Paragould              :0700/  59/  38/  41/ 0.00/ 0.0/  0
+PBOA4: Pine Bluff             :0645/  52/  39/  40/ 0.00/   M/  M
+PCHA4: Pocahontas             :0700/  62/  37/  41/ 0.00/   M/  M
+PORA4: Portland               :1400/  54/  46/  54/ 0.00/   M/  M
+PRSA4: Prescott               : M  /   M/   M/   M/    M/   M/  M
+RHWA4: Rohwer                 : M  /   M/   M/   M/    M/   M/  M
+SCHA4: St. Charles            : M  /   M/   M/   M/    M/   M/  M
+SLMA4: Salem                  :0600/  61/  32/  32/ 0.00/   M/  M
+SRCA4: Searcy                 : M  /   M/   M/   M/    M/   M/  M
+SHDA4: Sheridan               :0500/  53/  38/  38/ 0.03/   M/  M
+STOA4: Stuttgart 9 ESE        : M  /   M/   M/   M/    M/   M/  M
+SUBA4: Subiaco                : M  /   M/   M/   M/    M/   M/  M
+WDNA4: Waldron                :0700/  64/  35/  35/ 0.00/   M/  M
+WMPA4: West Memphis           :0800/  58/  40/  53/ 0.00/ 0.0/  0
+WINA4: Winslow 7NE            :0701/  58/  40/  40/ 0.00/   M/  M
+WYYA4: Wynne                  : M  /   M/   M/   M/    M/   M/  M
+:
+: Soil Temperatures. All Locations Under Bare Ground Except 
+: Newport...Which Is Under Sod.
+:
+:Id  : Location               :Time/ Max/ Min/
+KEIA4: Keiser NE AR Exp Stn   : M  /   M/   M/ 
+MRNA4: MARIANNA               :0800/  67/  52/ 
+NPRA4: Newport                :0800/  66/  60/ 
+RHWA4: Rohwer                 : M  /   M/   M/ 
+STOA4: Stuttgart 9 ESE        : M  /   M/   M/ 
+:
+:Cooperative Observer Network
+:Precipitation-only Stations
+:
+:Id  : Location               :Time/ Rain/ Snow/ Snow Depth
+ABBA4: Abbott                 : M  /    M/   M/  M
+ANTA4: Antoine 1 SW           : M  /    M/   M/  M
+AUGA4: Augusta                : M  /    M/   M/  M
+BEVA4: Beaver Dam Observer    :1200/ 0.00/   M/  M
+BRYA4: Berryville             : M  /    M/   M/  M
+BLKA4: Black Rock             : M  /    M/   M/  M
+BOGA4: Bogg Springs           : M  /    M/   M/  M
+BTKA4: Botkinburg 3 NE        : M  /    M/   M/  M
+BSHA4: Bull Shoals 1 S        : M  /    M/   M/  M
+CTRA4: Center Ridge 3 S       : M  /    M/   M/  M
+CMPA4: Compton                : M  /    M/   M/  M
+CYVA4: Crystal Valley         :0700/ 0.00/   M/  M
+DMSA4: Damascus 2 NNE         :0700/ 0.00/   M/  M
+DNVA4: Danville               : M  /    M/   M/  M
+FELA4: Felsenthal L&D         :0600/ 0.09/ 0.0/  0
+GEOA4: Georgetown             : M  /    M/   M/  M
+GVLA4: Gravelly               : M  /    M/   M/  M
+HATA4: Hattieville 5 NW       : M  /    M/   M/  M
+HDVA4: HINDSVILLE 10NNE       : M  /    M/   M/  M
+HRTA4: Horatio                : M  /    M/   M/  M
+JASA4: Jasper                 :0500/ 0.00/ 0.0/  0
+JESA4: Jessieville            : M  /    M/   M/  M
+JORA4: Jordan 3 NNW           : M  /    M/   M/  M
+KELA4: Kelso                  : M  /    M/   M/  M
+KGSA4: Kingston 5NW           : M  /    M/   M/  M
+LNGA4: Langley                : M  /    M/   M/  M
+LKSA4: Lockesburg             : M  /    M/   M/  M
+LGPA4: Long Pool              : M  /    M/   M/  M
+MELA4: Melbourne              : M  /    M/   M/  M
+MWOA4: Millwood Dam Observer  :0700/ 0.03/   M/  M
+MOBA4: Moro Bay State Park    : M  /    M/   M/  M
+MOUA4: Mount Ida 4 S          :0600/ 0.00/ 0.0/  0
+NADA4: Lake Greeson-Narrows Da: M  /    M/   M/  M
+OMHA4: Omaha 2 S              :0800/ 0.00/ 0.0/  0
+PNRA4: Pine Ridge             :0700/ 0.00/   M/  M
+TILA4: Witts Spring           : M  /    M/   M/  M
+UMOA4: Univ of AR Monticello  : M  /    M/   M/  M
+VVOA4: Vandervoort 1 ENE      : M  /    M/   M/  M
+WSHA4: Washita                : M  /    M/   M/  M
+:
+:
+:Remote Automated Weather Stations (RAWS) Network. 
+:
+:                                    Temperature         
+:Id  : Location               :Time/ Max/ Min/ Obs/ Rain/
+AMAA4: Armstead Mountain RAWS :0700/  62/  36/  36/ 0.00
+BSCA4: Blanchard Spring RAWS  :0700/  62/  34/  36/ 0.00
+BLRA4: Bluff City RAWS        :0700/   M/   M/   M/    M
+CMTA4: Compton RAWS           :0700/  57/  34/  38/ 0.00
+DKBA4: Devils Knob RAWS       :0700/  57/  40/  43/ 0.00
+ESDA4: Evening Shade RAWS     :0700/  61/  38/  38/ 0.00
+LRRA4: Felsenthal RAWS        :0700/  58/  48/  50/ 0.00
+GYAA4: Guy RAWS               :0700/  65/  40/  40/ 0.00
+JVLA4: Jessieville RAWS       :0700/  56/  31/  32/ 0.00
+LPSA4: Lake Poinsett RAWS Near:0700/  60/  39/  44/ 0.00
+BNVA4: Booneville NFS Climate :0700/  66/  36/  36/ 0.00
+SFFA4: Saint Francis National :0700/  59/  40/  40/ 0.01
+SDNA4: Sheridan RAWS          :0700/  54/  38/  38/ 0.00
+SVHA4: Silver Hill RAWS       :0700/  63/  32/  33/ 0.00
+STKA4: Strickler - RAWS       :0700/  60/  34/  34/ 0.00
+ODEA4: Oden RAWS              :0700/  57/  35/  37/ 0.01
+AMOA4: UAM RAWS               :0700/  56/  45/  47/ 0.00
+:
+:Corps of Engineers and USGS DCP Network
+:
+:                                    Temperature         
+:Id  : Location               :Time/ Max/ Min/ Obs/ Rain/
+PRCA4: Lake Maumelle DCP      :0700/   M/   M/   M/    M
+QUTA4: Quitman DCP            :0700/   M/   M/   M/    M
+YEGA4: Yellville DCP          :0700/  63/  34/  34/ 0.00
+:.End
+:
+$$
+

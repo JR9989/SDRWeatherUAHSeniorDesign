@@ -1,0 +1,50 @@
+FZNT25 KWNM 241534
+OFFN03
+
+NAVTEX Marine Forecast for southeast U.S. waters
+NWS Ocean Prediction Center Washington DC
+1134 AM EDT Mon Apr 24 2023
+
+Conditions given represent the highest within that period.
+
+...Please refer to Coastal Waters Forecasts (CWF) available
+through NOAA Weather Radio and other means for detailed coastal
+waters forecasts...
+
+.SYNOPSIS...A cold front will move into the waters today, then 
+stall and weaken tonight into Wed. High pressure will build N of
+the waters Mon into Tue night, then will shift NE Wed. A series 
+of low pressures will develop and track NE along the stalled 
+front Wed night through Fri night.
+
+Murrells Inlet to 31N
+
+.TODAY...N to NE winds 5 to 15 kt, becoming 5 to 10 kt. Seas
+3 to 4 ft. 
+.TONIGHT...NE winds 10 to 20 kt. Seas 3 to 5 ft. Scattered
+showers and tstms. 
+.TUE...NE winds 15 to 25 kt. Seas 4 to 7 ft. Scattered showers
+and tstms. 
+.TUE NIGHT...E winds 20 to 30 kt. Seas 5 to 9 ft. Scattered
+showers and tstms. 
+.WED...E winds 20 to 30 kt. Seas 6 to 10 ft. 
+.WED NIGHT...SE winds 5 to 15 kt. Seas 5 to 7 ft. 
+.THU...E winds 5 to 15 kt. Seas 3 to 6 ft. 
+.THU NIGHT...S to SE winds 10 to 20 kt. Seas 4 to 6 ft. 
+.FRI...S to SW winds 15 to 25 kt. Seas 5 to 8 ft. 
+.FRI NIGHT...W to SW winds 10 to 20 kt. Seas 6 to 9 ft. 
+
+South of 31N
+
+.TODAY...E to NE winds 5 to 15 kt. Seas 3 to 4 ft. 
+.TONIGHT...E to SE winds 5 to 15 kt. Seas 3 to 4 ft. Scattered
+showers. 
+.TUE...E winds 5 to 15 kt. Seas 3 to 5 ft. Scattered showers and
+tstms. 
+.TUE NIGHT...E winds 5 to 15 kt. Seas 3 to 6 ft. 
+.WED...E to SE winds 5 to 15 kt. Seas 4 to 6 ft. 
+.WED NIGHT...S to SE winds 5 to 15 kt. Seas 4 to 6 ft. 
+.THU...E winds 5 to 15 kt. Seas 4 to 6 ft. 
+.THU NIGHT...S winds 10 to 20 kt. Seas 4 to 6 ft. 
+.FRI...S to SW winds 15 to 25 kt. Seas 4 to 7 ft. 
+.FRI NIGHT...W winds 15 to 25 kt. Seas 5 to 8 ft. 

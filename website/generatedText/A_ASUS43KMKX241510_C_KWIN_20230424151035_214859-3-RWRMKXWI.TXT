@@ -1,0 +1,147 @@
+ASUS43 KMKX 241510
+RWRWI 
+
+WISCONSIN REGIONAL WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE MILWAUKEE/SULLIVAN WI
+1000 AM CDT MON APR 24 2023
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+WIZ001-002-006>008-014>016-023>028-241600-
+NORTHWEST WISCONSIN
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+SUPERIOR ARPT  CLOUDY    37  30  74 NE9       30.18S WCI  31 TC   3   
+ASHLAND        CLOUDY    39  29  67 N10       30.16S WCI  32 TC   4   
+HAYWARD        MOSUNNY   39  24  55 VRB6      30.13S WCI  35 TC   4   
+SIREN          SUNNY     39  26  58 CALM      30.14S TC   4           
+CUMBERLAND     PTSUNNY   41  30  65 NE7       30.13S TC   5           
+RICE LAKE      MOSUNNY   40  31  69 NE3       30.14S TC   5           
+CHETEK         MOSUNNY   41  29  61 NW3       30.14S TC   5           
+LADYSMITH      CLOUDY    38  31  74 CALM      30.15S TC   4           
+EAU CLAIRE     CLOUDY    40  26  57 NE3       30.14S TC   4           
+MENOMONIE      PTSUNNY   41  26  54 CALM      30.15R TC   5           
+NEW RICHMOND   MOSUNNY   39  32  76 CALM      30.15S TC   4           
+OSCEOLA        PTSUNNY   38  32  77 CALM      30.18S TC   4           
+$$
+ 
+WIZ003>005-009-010-017-018-241600-
+NORTH CENTRAL WISCONSIN
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MANITOWISH WTR PTSUNNY   36  21  53 CALM      30.12S TC   2           
+ARBOR VITAE    PTSUNNY   37  21  53 CALM      30.11F TC   3           
+WOODRUFF       PTSUNNY   37  21  53 CALM      30.11F TC   3           
+RHINELANDER    MOSUNNY   35  23  61 CALM      30.12F TC   2           
+EAGLE RIVER    CLOUDY    38  19  45 NW7       30.11F WCI  33 TC   4   
+LAND O LAKES   PTSUNNY   38  17  43 CALM      30.13F TC   3           
+PHILLIPS       CLOUDY    37  24  61 CALM      30.11S TC   3           
+TOMAHAWK       MOSUNNY   40  23  52 E3        30.12F TC   4           
+MEDFORD        PTSUNNY   37  27  66 SW5       30.12S WCI  34 TC   3   
+MERRILL        SUNNY     40  23  50 SW6       30.11F TC   4           
+$$
+ 
+WIZ029-030-035-036-043>047-241600-
+CENTRAL WISCONSIN
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+WAUSAU         PTSUNNY   41  23  48 W8        30.11F TC   5           
+MOSINEE        MOSUNNY   41  25  52 SW7       30.14S TC   5           
+MARSHFIELD     CLOUDY    38  26  62 CALM      30.13S TC   3           
+STEVENS POINT  MOSUNNY   42  16  35 W5        30.14F TC   6           
+WAUPACA        MOSUNNY   44  20  38 NW6       30.15F TC   7           
+WAUTOMA        PTSUNNY   42  24  49 VRB3      30.16F TC   6           
+WISC RAPIDS    CLOUDY    42  22  44 SW7       30.15S TC   6           
+CAMP DOUGLAS   CLOUDY    41  27  57 CALM      30.14F TC   5           
+$$
+ 
+WIZ011>013-019>022-031-037>040-048>050-241600-
+NORTHEAST WISCONSIN
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ANTIGO         PTSUNNY   36  25  64 NE3       30.13S TC   2           
+SHAWANO        SUNNY     41  33  72 NE5       30.16S TC   5           
+OCONTO         SUNNY     39  26  61 NE3       30.17S TC   4           
+STURGEON BAY   PTSUNNY   37  26  64 NE6       30.17S WCI  32 TC   3   
+GREEN BAY      SUNNY     43  27  53 CALM      30.16R TC   6           
+MANITOWOC      SUNNY     43  25  49 VRB3      30.16S TC   6           
+APPLETON       MOSUNNY   43  25  49 NW5       30.14R TC   6           
+CLINTONVILLE   SUNNY     41  27  57 W3        30.16S TC   5           
+OSHKOSH        PTSUNNY   44  26  49 W7        30.15S TC   7           
+$$
+ 
+WIZ032>034-041-042-053>061-241600-
+SOUTHWEST WISCONSIN
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+LA CROSSE      CLOUDY    43  28  56 CALM      30.16F TC   6           
+SPARTA         PTSUNNY   38  35  89 CALM      30.16S TC   3           
+VIROQUA        PTSUNNY   40  30  67 W5        30.15S TC   4           
+BOSCOBEL       CLOUDY    43  27  53 SW7       30.19S TC   6           
+PRAIRIE DU CHI PTSUNNY   42  28  56 CALM      30.19R TC   6           
+PLATTEVILLE    CLOUDY    43  23  44 SW7       30.19S TC   6           
+$$
+
+WIZ056-057-062-063-064-067-068-241600-
+SOUTH CENTRAL WISCONSIN
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+REEDSBURG      CLOUDY    42  24  48 SW8       30.17S TC   6           
+BARABOO/DELLS  CLOUDY    43  24  45 W7        30.17S TC   6           
+LONE ROCK      CLOUDY    41  26  55 SW3       30.19S TC   5           
+MINERAL POINT  PTSUNNY   41  21  45 W7        30.20S TC   5           
+MADISON        MOSUNNY   43  21  41 W7        30.18S TC   6           
+MIDDLETON      CLOUDY    44  24  44 W7        30.19R TC   7           
+WATERTOWN      NOT AVBL                                               
+MONROE         PTSUNNY   43  22  44 W10       30.18S TC   6           
+JANESVILLE     MOSUNNY   46  21  36 W9        30.19R TC   8           
+$$
+ 
+WIZ051-052-058>065-066-070>072-241600-
+SOUTHEAST WISCONSIN
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MILWAUKEE      MOSUNNY   46  21  37 VRB5      30.17R TC   8           
+WAUKESHA       PTSUNNY   41  21  45 NW7       30.18S TC   5           
+MILWAUKEE/TIMM PTSUNNY   45  23  42 W5        30.17S TC   7           
+RACINE         SUNNY     46  23  40 W6        30.19S TC   8           
+KENOSHA        MOSUNNY   46  23  40 NW9       30.18S TC   8           
+FOND DU LAC    PTSUNNY   44  23  43 W7        30.16S TC   7           
+SHEBOYGAN      SUNNY     46  25  43 NW9       30.15S TC   8           
+WEST BEND      MOSUNNY   41  21  45 W6        30.17R TC   5           
+JUNEAU         MOSUNNY   41  24  52 W5        30.17S TC   5           
+$$
+
+LSZ147-162-241600-
+LAKE SUPERIOR
+  
+STATION/POSITION TIME  TEMP    WIND        PRES    WAVE
+                       AIR SEA DIR/SP/G            HT/PER
+                 (UTC) (F)     (DEG/KT/KT) (MB)    (FT/S)
+W MID LAKE BUOY  1450   33 35   30/  8/ 10 1024.0R   1
+DEVILS ISLAND    1500   33      60/ 12/ 13 1023.4R
+PORT WING        1440   35      30/ 13/ 15 1021.3S
+SAXON HARBOR     1430   36      40/  8/  9 1021.0S
+$$
+ 
+LMZ867-665-643>646-241600-
+LAKE MICHIGAN
+  
+STATION/POSITION TIME  TEMP    WIND        PRES    WAVE
+                       AIR SEA DIR/SP/G            HT/PER
+                 (UTC) (F)     (DEG/KT/KT) (MB)    (FT/S)
+CHAMBERS ISLAND  1440   37     320/  4/  5   N/A
+NORTHPORT PIER   1400          290/  8/ 10   N/A
+KEWAUNEE LAKESHO 1424   37      50/  6/  9 1020.6
+SHEBOYGAN LAKESH 1500   43     240/  6/  7 1021.8R
+PORT WASHINGTON  1440   44     280/  7/ 11 1022.7S
+KENOSHA   LAKESH 1500   43                 1022.4
+$$
+
+TC  - TEMPERATURE IN CELSIUS
+VSB - VISIBILITY IN STATUTE MILES
+WCI - WIND CHILL INDEX
+HX  - HEAT INDEX
+
+  

@@ -1,0 +1,225 @@
+FNUS51 KBGM 241503
+FWFBGM
+
+Fire Weather Planning Forecast for Central NY/Northeast PA
+National Weather Service Binghamton NY
+1102 AM EDT Mon Apr 24 2023
+
+.SYNOPSIS...
+A nearly stationary upper level low pressure system will remain
+over the region through midweek, bringing chilly conditions and
+scattered showers. After brief high pressure and drier 
+conditions towards the end of the week, another upper level 
+disturbance will bring showers back into the region this 
+weekend.
+
+
+NYZ210-242100-
+Leatherstocking-
+1102 AM EDT Mon Apr 24 2023
+
+                      Today        Tonight      Tue          
+
+Cloud Cover           Mcldy        Pcldy        Pcldy        
+Precip Type           Showers      Showers      Showers      
+Chance Precip (%)     30           20           30           
+Temp (24h trend)      51 (-1)      30 (-4)      52           
+RH % (24h trend)      42 (-10)     100 (0)      35           
+20ft Wnd-Val/AM(mph)  W 3-7                     W 3-7        
+20ft Wnd-Rdg/PM(mph)  NW 5-9       Lgt/Var      W 6-10       
+Precip Amount         0.01         0.01         0.01         
+Precip Duration       1            1            1            
+Precip Begin          9 AM         Continuing   12 PM        
+Precip End            Continuing   12 AM        Continuing   
+Mixing Hgt(ft-agl/msl)5210                      6510         
+Transport Wnd (mph)   W 12                      W 12         
+Vent Rate (kt-ft)     62230                     90340        
+DSI                   2            2            2            
+Sunshine Hours        5                         6            
+LAL                   No tstms     No tstms     No tstms     
+Haines Index          3            4            4            
+ADI early             39 Fair      31 Fair      42 Gen Good  
+ADI late              48 Gen Good  4 Very Poor  61 Good      
+Max LVORI early       5            4            6            
+Max LVORI late        1            6            1            
+
+Remarks: ADI is Atmospheric Dispersion Index by Lavdas.
+         LVORI is Low Visibility Occurrence Risk Index.
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+
+.WEDNESDAY...Mostly cloudy. A 50 percent chance of rain showers.
+Lows in the lower 30s. Highs in the lower 50s. South winds 5 to
+10 mph. 
+.THURSDAY...Partly cloudy. A slight chance of rain showers. Lows
+in the lower 30s. Highs in the mid 50s. West winds 5 to 10 mph. 
+.FRIDAY...Partly cloudy. A slight chance of rain showers. Lows in
+the mid 30s. Highs in the upper 50s. Southeast winds 5 to 10 mph.
+.SATURDAY...Mostly cloudy with a 40 percent chance of showers.
+Lows around 40. Highs in the mid 50s. Southeast winds 10 to
+15 mph. 
+.SUNDAY...Mostly cloudy with showers likely. Lows in the lower
+40s. Highs in the mid 50s. Chance of showers 70 percent.
+Southeast winds 15 to 20 mph. 
+
+$$
+
+PAZ038-039-043-242100-
+Bradford-Susquehanna-Wyoming-
+Including the cities of Sayre, Towanda, Hallstead, Montrose, 
+and Tunkhannock
+1102 AM EDT Mon Apr 24 2023
+
+                      Today        Tonight      Tue          
+
+Cloud Cover           Pcldy        Mcldy        Pcldy        
+Precip Type           Showers      Showers      Showers      
+Chance Precip (%)     40           40           20           
+Temp (24h trend)      53 (-1)      30 (-2)      54           
+RH % (24h trend)      41 (-8)      100 (0)      35           
+20ft Wnd-Val/AM(mph)  Lgt/Var                   NW 3-7       
+20ft Wnd-Rdg/PM(mph)  NW 4-8       NW 3-7       W 6-10       
+Precip Amount         0.03         0.03         0.00         
+Precip Duration       1            1            1            
+Precip Begin          1 PM         Continuing   1 PM         
+Precip End            Continuing   2 AM         Continuing   
+Mixing Hgt(ft-agl/msl)6270                      7170         
+Transport Wnd (mph)   W 10                      W 12         
+Vent Rate (kt-ft)     75170                     81870        
+DSI                   2            3            3            
+Sunshine Hours        5                         7            
+LAL                   No tstms     No tstms     No tstms     
+Haines Index          4            4            4            
+ADI early             61 Good      28 Fair      57 Gen Good  
+ADI late              60 Gen Good  4 Very Poor  78 Good      
+Max LVORI early       5            6            7            
+Max LVORI late        1            8            1            
+
+Remarks: ADI is Atmospheric Dispersion Index by Lavdas.
+         LVORI is Low Visibility Occurrence Risk Index.
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+
+.WEDNESDAY...Mostly cloudy. A 50 percent chance of rain showers.
+Lows in the mid 30s. Highs in the lower 50s. South winds 5 to
+10 mph. 
+.THURSDAY...Partly cloudy. A slight chance of rain showers. Lows
+in the lower 30s. Highs in the upper 50s. North winds 5 to
+10 mph. 
+.FRIDAY...Partly cloudy. A 40 percent chance of rain showers.
+Lows in the mid 30s. Highs in the upper 50s. East winds 10 to
+15 mph. 
+.SATURDAY...Mostly cloudy with a 40 percent chance of showers.
+Lows around 40. Highs in the mid 50s. East winds around 15 mph. 
+.SUNDAY...Showers. Lows in the lower 40s. Highs in the upper 50s.
+Chance of showers 80 percent. Southeast winds 15 to 20 mph. 
+
+$$
+
+PAZ044-047-242100-
+Lackawanna-Luzerne-
+Including the cities of Scranton, Hazleton, and Wilkes-Barre
+1102 AM EDT Mon Apr 24 2023
+
+                      Today        Tonight      Tue          
+
+Cloud Cover           Pcldy        Pcldy        Pcldy        
+Precip Type           Showers      Showers      None         
+Chance Precip (%)     20           20           0            
+Temp (24h trend)      56 (-1)      32 (-2)      57           
+RH % (24h trend)      35 (-7)      100 (+4)     30           
+20ft Wnd-Val/AM(mph)  NW 3-7                    NW 3-7       
+20ft Wnd-Rdg/PM(mph)  W 6-10       NW 3-7       W 7-11       
+Precip Amount         0.01         0.01         0.00         
+Precip Duration       1            1                         
+Precip Begin          1 PM         Continuing                
+Precip End            Continuing   11 PM                     
+Mixing Hgt(ft-agl/msl)7220                      8030         
+Transport Wnd (mph)   W 13                      W 12         
+Vent Rate (kt-ft)     100430                    97650        
+DSI                   3            3            3            
+Sunshine Hours        7                         8            
+LAL                   No tstms     No tstms     No tstms     
+Haines Index          4            3            4            
+ADI early             85 Good      37 Fair      55 Gen Good  
+ADI late              81 Good      4 Very Poor  89 Good      
+Max LVORI early       5            4            6            
+Max LVORI late        1            7            1            
+
+Remarks: ADI is Atmospheric Dispersion Index by Lavdas.
+         LVORI is Low Visibility Occurrence Risk Index.
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+
+.WEDNESDAY...Mostly cloudy. Patchy frost through the night. A
+50 percent chance of rain showers. Lows in the mid 30s. Highs in
+the upper 50s. South winds 5 to 10 mph. 
+.THURSDAY...Partly cloudy. A slight chance of rain showers. Lows
+in the mid 30s. Highs around 60. North winds 5 to 10 mph. 
+.FRIDAY...Mostly cloudy. A 30 percent chance of showers. Lows in
+the upper 30s. Highs in the upper 50s. East winds 10 to 15 mph. 
+.SATURDAY...Mostly cloudy with a 40 percent chance of showers.
+Lows in the lower 40s. Highs in the mid 50s. East winds around
+15 mph. 
+.SUNDAY...Mostly cloudy with showers likely. Lows in the mid 40s.
+Highs in the upper 50s. Chance of showers 70 percent. Southeast
+winds 15 to 20 mph. 
+
+$$
+
+PAZ040-048-072-242100-
+Northern Wayne-Pike-Southern Wayne-
+Including the cities of Damascus, Equinunk, Milford, 
+and Honesdale
+1102 AM EDT Mon Apr 24 2023
+
+                      Today        Tonight      Tue          
+
+Cloud Cover           Pcldy        Pcldy        Pcldy        
+Precip Type           None         Showers      None         
+Chance Precip (%)     0            10           0            
+Temp (24h trend)      54 (-3)      33 (-1)      54           
+RH % (24h trend)      32 (-3)      100 (0)      28           
+20ft Wnd-Val/AM(mph)  NW 3-7                    NW 4-8       
+20ft Wnd-Rdg/PM(mph)  NW 5-9       Lgt/Var      NW 6-10      
+Precip Amount         0.00         0.00         0.00         
+Precip Duration                    1                         
+Precip Begin                       6 PM                      
+Precip End                         11 PM                     
+Mixing Hgt(ft-agl/msl)7400                      7920         
+Transport Wnd (mph)   W 14                      W 10         
+Vent Rate (kt-ft)     102720                    87930        
+DSI                   2            2            2            
+Sunshine Hours        7                         7            
+LAL                   No tstms     No tstms     No tstms     
+Haines Index          4            4            4            
+ADI early             83 Good      44 Gen Good  46 Gen Good  
+ADI late              83 Good      4 Very Poor  83 Good      
+Max LVORI early       5            4            6            
+Max LVORI late        1            6            1            
+
+Remarks: ADI is Atmospheric Dispersion Index by Lavdas.
+         LVORI is Low Visibility Occurrence Risk Index.
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+
+.WEDNESDAY...Mostly cloudy. A 50 percent chance of rain showers.
+Lows in the mid 30s. Highs in the mid 50s. South winds 5 to
+10 mph. 
+.THURSDAY...Partly cloudy. A 50 percent chance of rain showers.
+Lows in the mid 30s. Highs in the upper 50s. North winds 5 to
+10 mph. 
+.FRIDAY...Partly cloudy. A slight chance of showers. Lows in the
+upper 30s. Highs in the upper 50s. East winds 5 to 15 mph. 
+.SATURDAY...Mostly cloudy with a 40 percent chance of showers.
+Lows around 40. Highs in the mid 50s. East winds around 15 mph. 
+.SUNDAY...Mostly cloudy with showers likely. Lows in the lower
+40s. Highs in the upper 50s. Chance of showers 70 percent.
+Southeast winds 15 to 20 mph. 
+
+$$
+
+.OUTLOOK 8 TO 14 DAYS...
+Temperatures below normal.  Precipitation near normal.
+
+$$

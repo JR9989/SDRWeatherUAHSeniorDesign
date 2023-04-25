@@ -1,0 +1,26 @@
+ASUS43 KGLD 241459
+RWRGLD
+
+GOODLAND FORECAST AREA HOURLY WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE GOODLAND KS
+900 AM MDT MON APR 24 2023
+
+...OFFICIAL OBSERVATIONS...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+GOODLAND KS    PTSUNNY   50  34  54 S15       29.93F                  
+HILL CITY KS   MOSUNNY   56  32  40 SW14G22   30.01S                  
+IMPERIAL NEB   PTSUNNY   53  33  46 S9        29.93F                  
+MCCOOK NEB     MOSUNNY   52  32  46 CALM      29.96S                  
+AKRON CO       PTSUNNY   49  28  44 W7        29.90F                  
+BURLINGTON CO  PTSUNNY   49  35  58 S10       29.93S                  
+LIMON CO       NOT AVBL                                               
+$$
+
+...UNOFFICIAL OBSERVATIONS...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+OBERLIN KS     FAIR      58  33  39 SW24      30.00S                  
+SHARON SPRINGS   N/A     50  33  53 S20         N/A                   
+$$
+  

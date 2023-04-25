@@ -1,0 +1,116 @@
+FLUS74 KTSA 241445
+AWUTSA
+Area Weather Update
+National Weather Service Tulsa OK
+945 AM CDT Mon Apr 24 2023
+
+OKZ059-060-061-064-067-068-241515-
+Pawnee-Tulsa-Rogers-Creek-Wagoner-Cherokee-
+Including the cities of Pawnee, Tulsa, Claremore, Bristow, Wagoner,
+Tahlequah
+945 AM CDT Mon Apr 24 2023
+
+At 942 AM, no significant precipitation was detected in Eastern 
+Oklahoma or Northwest Arkansas. The Tulsa area forecast for late 
+this morning and into this afternoon, sunny, temperatures 50 to 59 
+increasing to 61 to 63 degrees with south winds 5 to 10 mph. 
+$$
+This is an experimental automated product.
+
+ARZ029-OKZ072-076-241515-
+Sebastian-Sequoyah-Le Flore-
+Including the cities of Fort Smith, Sallisaw, Poteau
+945 AM CDT Mon Apr 24 2023
+
+At 942 AM, no significant precipitation was detected in Eastern 
+Oklahoma or Northwest Arkansas. The Fort Smith area forecast for 
+late this morning and into this afternoon, sunny, temperatures 46 to 
+57 increasing to 57 to 61 degrees with southeast winds up to 10 mph. 
+$$
+This is an experimental automated product.
+
+ARZ010-011-019-020-OKZ069-241515-
+Washington AR-Madison-Crawford-Franklin-Adair-
+Including the cities of Fayetteville, Huntsville, Mountainburg,
+Ozark, Stilwell
+945 AM CDT Mon Apr 24 2023
+
+At 942 AM, no significant precipitation was detected in Eastern 
+Oklahoma or Northwest Arkansas. The Fayetteville area forecast for 
+late this morning and into this afternoon, sunny, temperatures 46 to 
+57 increasing to 56 to 61 degrees with southeast winds up to 10 mph. 
+$$
+This is an experimental automated product.
+
+OKZ065-073-074-075-241515-
+Okfuskee-Pittsburg-Haskell-Latimer-
+Including the cities of Okemah, McAlester, Stigler, Wilburton
+945 AM CDT Mon Apr 24 2023
+
+At 942 AM, no significant precipitation was detected in Eastern 
+Oklahoma or Northwest Arkansas. The McAlester area forecast for late 
+this morning and into this afternoon, sunny, temperatures 45 to 58 
+increasing to 59 to 62 degrees with southeast winds up to 10 mph. 
+$$
+This is an experimental automated product.
+
+ARZ001-002-241515-
+Benton-Carroll-
+Including the cities of Springdale, Eureka Springs
+945 AM CDT Mon Apr 24 2023
+
+At 942 AM, no significant precipitation was detected in Eastern 
+Oklahoma or Northwest Arkansas. The Springdale area forecast for 
+late this morning and into this afternoon, sunny, temperatures 45 to 
+56 increasing to 56 to 59 degrees with southeast winds up to 10 mph. 
+$$
+This is an experimental automated product.
+
+OKZ066-070-071-241515-
+Okmulgee-Muskogee-McIntosh-
+Including the cities of Okmulgee, Muskogee, Eufaula
+945 AM CDT Mon Apr 24 2023
+
+At 942 AM, no significant precipitation was detected in Eastern 
+Oklahoma or Northwest Arkansas. The Muskogee area forecast for late 
+this morning and into this afternoon, sunny, temperatures 50 to 58 
+increasing to 60 to 62 degrees with southeast winds 5 to 10 mph. 
+$$
+This is an experimental automated product.
+
+OKZ057-058-062-063-241515-
+Craig-Ottawa-Mayes-Delaware-
+Including the cities of Vinita, Miami, Pryor, Grove
+945 AM CDT Mon Apr 24 2023
+
+At 942 AM, no significant precipitation was detected in Eastern 
+Oklahoma or Northwest Arkansas. The Grove area forecast for late 
+this morning and into this afternoon, sunny, temperatures 48 to 58 
+increasing to 59 to 61 degrees with south winds 5 to 10 mph. 
+$$
+This is an experimental automated product.
+
+OKZ054-055-056-241515-
+Osage-Washington OK-Nowata-
+Including the cities of Pawhuska, Bartlesville, Nowata
+945 AM CDT Mon Apr 24 2023
+
+At 942 AM, no significant precipitation was detected in Eastern 
+Oklahoma or Northwest Arkansas. The Bartlesville area forecast for 
+late this morning and into this afternoon, sunny, temperatures 50 to 
+59 increasing to 61 to 63 degrees with south winds 5 to 15 mph. 
+$$
+This is an experimental automated product.
+
+OKZ049-053-241515-
+Choctaw-Pushmataha-
+Including the cities of Antlers, Clayton, Hugo
+945 AM CDT Mon Apr 24 2023
+
+At 942 AM, no significant precipitation was detected in Eastern 
+Oklahoma or Northwest Arkansas. The Antlers area forecast for late 
+this morning and into this afternoon, sunny, temperatures 45 to 57 
+increasing to 58 to 61 degrees with southeast winds up to 10 mph. 
+$$
+This is an experimental automated product.
+

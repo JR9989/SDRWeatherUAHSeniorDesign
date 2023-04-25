@@ -1,0 +1,123 @@
+FXUS64 KTSA 241523
+AFDTSA
+
+Area Forecast Discussion
+National Weather Service Tulsa OK
+1023 AM CDT Mon Apr 24 2023
+
+...New SHORT TERM...
+
+.SHORT TERM...
+(The rest of today)
+Issued at 1023 AM CDT Mon Apr 24 2023
+
+After another frosty start to the day across the region,
+temperatures should rebound nicely this afternoon into the mid to
+upper 60s. Surface ridging that allowed for the last couple of 
+cold nights will shift to the east today as a surface low deepens
+in southeast Colorado. This will lead to increasingly gusty 
+southerly winds this afternoon. Gusts of 25-30 mph will be likely
+across much of northeastern Oklahoma this afternoon as vertical
+mixing deepens throughout the afternoon. Increasing cloud cover
+associated with an approaching shortwave will also spread over the
+area this afternoon. A few light showers could also spread into
+areas along and west of Highway 75 later this afternoon and
+evening, but heavier more widespread precip chances will hold off
+until overnight tonight into tomorrow. The going forecast for 
+this afternoon is in good shape, with no major updates planned.
+
+Bowlan
+
+&&
+
+.LONG TERM...
+(Tonight through Sunday)
+Issued at 255 AM CDT Mon Apr 24 2023
+
+The main concerns with this forecast package center around the
+high chances for widespread rainfall primarily during the Tuesday
+to Wednesday night time frame. Heavy rainfall and localized 
+flooding will be possible. The good news is some of this rain is 
+expected to fall in areas to the northwest of I-44 that remain in 
+severe drought.
+
+As mentioned above, a shortwave moving through the flow aloft will
+lead to showers this evening, focused across northeast Oklahoma. 
+More isolated to scattered showers will be possible through the
+night even into southeast Oklahoma and western Arkansas in
+response to an increasing low level jet. Overnight lows tonight
+will be noticeably warmer than this morning's due to the
+increasing cloud cover and increasing low level moisture.
+
+Tuesday will just be a raw day for late April, with highs across
+much of the area running 15 to 20 degrees below normal given the
+widespread rainfall expected during the day. Another shortwave 
+and resulting warm advection will move through the area, causing 
+the additional rainfall. Elevated instability will increase 
+through the day, especially across southern portions of the area, 
+which could lead to a few strong to severe storms featuring a hail
+threat.
+
+The main upper level system will make its approach Wednesday and
+into Wednesday night. As the system swings into the Texas
+Panhandle, a front to our south will begin to move northward as a
+warm front, but at this time, it appears that it will stay south 
+of the area. However, with its approach, elevated instability
+looks to increase further across areas south of I-40 by Wednesday
+afternoon, leading to a slightly higher potential for strong to
+severe storms, especially along the Red River. Hail remains the
+main threat. The heavier rains Wednesday and Wednesday night will
+focus along and north of the front, as well as following the track
+of the upper low. With some uncertainty remaining in the locations
+of both features, expect there to be some fine tuning of amounts
+in the next day or so, including potential for increasing amounts
+within the expected maxima as depicted in much of the
+deterministic guidance.
+
+The rains will taper off from west to east Thursday as the upper
+low sweeps east of the area. Temperatures will remain below normal
+Thursday, albeit a bit warmer than Tuesday and Wednesday due to
+a bit more sun and less rain. Another storm system will move into
+the Plains, dragging another cold front through the area Friday
+and Friday night. Isolated to scattered showers and thunderstorms
+will also accompany this front. After a post-frontal cooldown
+Saturday, warmer but still below normal conditions can be expected
+to close out the weekend and begin the next work week.
+
+&&
+
+.AVIATION...
+(12Z TAFS)
+Issued at 534 AM CDT Mon Apr 24 2023
+
+VFR conditions are expected to prevail through the valid period 
+at all area sites. However, ceilings will begin to lower this 
+evening and into the overnight hours. Scattered showers will also 
+have the potential to impact area sites late in the period. 
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+TUL   69  47  54  47 /  10  60  90  70 
+FSM   70  49  55  49 /   0  40  80  70 
+MLC   68  48  58  49 /   0  50  80  70 
+BVO   69  43  55  42 /  10  60  80  50 
+FYV   68  44  54  44 /   0  40  70  60 
+BYV   65  45  55  44 /   0  30  60  50 
+MKO   68  47  54  47 /   0  50  80  70 
+MIO   67  47  56  45 /   0  40  60  50 
+F10   68  48  54  47 /  10  50  90  80 
+HHW   65  50  60  50 /   0  40  70  70 
+
+&&
+
+.TSA WATCHES/WARNINGS/ADVISORIES...
+OK...None.
+AR...None.
+&&
+
+$$
+
+SHORT TERM...04
+LONG TERM....22
+AVIATION...10

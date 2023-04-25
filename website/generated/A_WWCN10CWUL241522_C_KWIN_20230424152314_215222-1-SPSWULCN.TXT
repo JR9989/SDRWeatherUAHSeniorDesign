@@ -1,0 +1,19 @@
+WWCN10 CWUL 241522
+RAINFALL WARNING
+FOR QUEBEC
+ENDED BY ENVIRONMENT CANADA
+AT 11:22 A.M. EDT MONDAY 24 APRIL 2023.
+---------------------------------------------------------------------
+RAINFALL WARNING ENDED FOR:
+      LANAUDIERE
+      MONT-TREMBLANT PARK - SAINT-MICHEL-DES-SAINTS
+      MAURICIE.
+
+---------------------------------------------------------------------
+==DISCUSSION==
+
+SIGNIFICANT RAINFALL IS NO LONGER EXPECTED.
+
+HTTP://WEATHER.GC.CA
+
+END/QSPC

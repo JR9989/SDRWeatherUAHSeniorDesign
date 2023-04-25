@@ -1,0 +1,143 @@
+FNUS73 KARX 241511
+FWSARX
+
+Spot Forecast for PR 28A...US FISH AND WILDLIFE SERVICE
+National Weather Service La Crosse WI
+1011 AM CDT Mon Apr 24 2023
+
+Forecast is based on ignition time of 1100 CDT on April 24. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office at (608) 784-8292 if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...Scattered light rain or snow showers are possible
+through the afternoon. Winds will generally be northwest to west 
+up to 10 mph but with increasing mixing heights through the 
+afternoon, a few higher gusts exceeding 20 mph are possible. With 
+unseasonably cool temperatures only in the 40s to near 50, RH 
+will fall to around 40 percent.
+
+Tomorrow will be slightly warmer and drier, with a high
+temperature near 50 and a minimum afternoon RH in the mid 30s.
+Northeasterly winds blowing 5 to 10 mph with gusts up to 15 mph
+are expected. 
+
+.TODAY...
+
+Sky/weather.........Partly sunny (60-70 percent) then becoming 
+                    mostly cloudy (80-90 percent). Scattered snow 
+                    showers and chance of light freezing rain in 
+                    the morning. Scattered rain showers through the 
+                    day. Isolated snow showers in the afternoon. 
+CWR.................10 percent increasing to 30 percent early in 
+                    the morning, then increasing to 40 percent late 
+                    in the morning decreasing to 30 percent late in 
+                    the morning decreasing to 20 percent increasing 
+                    to 30 percent in the afternoon. 
+Temperature.........41 at ignition...Max 47. 
+RH..................53 percent at ignition...Min 51 percent. 
+Wind (20 ft)........Winds west at 6 mph at ignition...otherwise 
+                    Light winds becoming west 5 to 9 mph in the 
+                    late morning and afternoon. 
+Mixing height.......5200 ft AGL at ignition...otherwise 5800 ft 
+                    AGL. 
+Transport winds.....West 5 to 14 mph increasing to 13 to 15 mph 
+                    late in the afternoon. 
+Smoke dispersal.....Good /51800 knot-ft/ at ignition. 
+                    Max...excellent /69900 knot-ft/. 
+Haines Index........4 or low potential for large plume dominated 
+                    fire growth at ignition...max 4. 
+
+TIME (CDT)      11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........84  87  90  91  85  80  78  
+Weather cov.....SCT ISO SCT SCT SCT SCT SCT 
+Weather type....RS  RS  RW  RW  RW  RW  RW  
+Tstm cov........                            
+CWR.............30  20  30  30  30  30  30  
+Temp............41  42  43  44  45  46  46  
+RH..............53  53  51  51  51  51  51  
+20 FT wind dir..W   W   W   W   W   W   NW  
+20 FT wind spd..6   8   9   9   9   9   8   
+20 FT wind gust.9   11  12  13  14  14  14  
+Mix hgt (kft)...5.2 5.3 5.8 5.7 4.6 4.9 4.0 
+Transp wind dir.W   W   W   W   W   W   NW  
+Transp wind spd.12  13  14  14  15  14  13  
+Haines index....4   4   4   4   4   4   4   
+SDspl kt-ft/100052  58  70  69  59  59  44  
+
+.TONIGHT...
+
+Sky/weather.........Mostly cloudy (70-80 percent). Slight chance of 
+                    rain showers early in the evening. 
+CWR.................20 percent decreasing to 10 percent early in 
+                    the evening. 
+Temperature.........Min 30. 
+RH..................Max 92 percent. 
+Wind (20 ft)........Northwest winds 5 to 7 mph early in the evening 
+                    becoming light, then becoming northeast around 
+                    5 mph overnight becoming light becoming 
+                    northeast around 5 mph overnight. 
+Mixing height.......300 ft AGL. 
+Transport winds.....Northwest 6 to 12 mph shifting to the northeast 
+                    7 to 9 mph in the late evening and overnight. 
+Smoke dispersal.....Good (38300 knot-ft) early in the evening 
+                    decreasing to poor (2100 knot-ft) late in the 
+                    night. 
+Haines Index........3 to 4 or very low to low potential for large 
+                    plume dominated fire growth. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........75     74     80     84     81     69     
+Weather cov.....ISOLTD                                    
+Weather type....RNSHWR NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............20     10     10     10     10     10     
+Temp............45     40     36     35     33     32     
+RH..............55     67     82     82     89     92     
+20 ft wind......NW 7   N 5    NE 4   NE 5   NE 5   NE 5   
+20 ft wind gust.12     7      7      7      7      9      
+Mix hgt (ft)....3800   500    600    400    400    600    
+Transport wind..W 12   N 6    NE 8   N 9    NE 8   NE 8   
+Haines index....4      3      3      3      3      3      
+SDspl kt-ft/100038     3      4      3      3      4      
+
+.TUESDAY...
+
+Sky/weather.........Partly sunny (60-70 percent). 
+CWR.................10 percent. 
+Temperature.........Max 49. 
+RH..................Min 40 percent. 
+Wind (20 ft)........Northeast winds 6 to 8 mph. 
+Mixing height.......5400 ft AGL. 
+Transport winds.....Northeast 8 to 13 mph. 
+Smoke dispersal.....Poor (7100 knot-ft) early in the morning 
+                    increasing to good (41400 knot-ft) in the 
+                    afternoon. 
+Haines Index........3 or very low potential for large plume 
+                    dominated fire growth. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........72     76     74     70     60     49     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............10     10     10     10     10     10     
+Temp............31     34     39     44     47     49     
+RH..............96     89     70     55     45     40     
+20 ft wind......NE 6   NE 7   NE 8   NE 8   NE 8   NE 7   
+20 ft wind gust.11     12     12     11     12     12     
+Mix hgt (ft)....900    1400   2500   3800   4900   5400   
+Transport wind..NE 9   NE 13  E 13   NE 10  NE 9   NE 8   
+Haines index....3      3      3      3      3      3      
+SDspl kt-ft/10007      15     27     34     39     38     
+
+$$
+Forecaster...KAA
+Requested by...Ben Halverson
+Type of request...PRESCRIBED
+.TAG 2310487.0/ARX
+.DELDT 04/24/23
+.FormatterVersion 2.0.0
+.EMAIL benjamin_halverson@fws.gov

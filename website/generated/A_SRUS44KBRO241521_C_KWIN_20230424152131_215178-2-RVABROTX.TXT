@@ -1,0 +1,44 @@
+SRUS44 KBRO 241521
+RVABRO
+TXC047-061-427-251521-
+Hydrologic Summary
+National Weather Service Brownsville Tx
+1021 AM CDT Mon Apr 24 2023
+
+          ...Deep South Texas River and Reservoir Summary...
+
+
+                   Normal    Todays    24 HR     7 Day    Release
+                    Pool      Pool     Change    Change   CFS
+
+Anzalduas          104.00    103.18    -0.01      -1.27      720
+Falcon Lake        301.20    262.79     0.52       2.19     3580
+Lake Amistad      1117.00   1066.17    -0.36      -2.67     1843
+
+
+                                  Flood     Latest    24 HR
+                                  Stage     Stage     Change
+
+Rio Grande River
+   Below Falcon Dam                N/A      3.57     -0.26
+   Rio Grande City                 50      27.21     -0.05
+   San Benito                      55      34.70     -0.09
+   Lower Brownsville               27       6.59      0.83
+
+Los Olmos Creek
+   Falfurrias                      11       1.36      0.16
+
+Arroyo Colorado
+   Harlingen                       N/A      5.81      0.13
+
+
+ All heights are in feet unless otherwise specified. For the latest
+ river and reservoir levels in deep South Texas visit our web site
+ at www.weather.gov/rgv. Choose "Rivers and Lakes" above 
+ the tabs for the daily graphics which takes you to our AHPS web 
+ page. You may also click on the "Rivers-Flooding" icon at the bottom 
+ of our main web site to access our local AHPS web page. 
+
+
+$$
+

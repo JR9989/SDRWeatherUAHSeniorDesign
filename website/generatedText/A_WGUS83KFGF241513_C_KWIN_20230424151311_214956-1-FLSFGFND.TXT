@@ -1,0 +1,66 @@
+WGUS83 KFGF 241513
+FLSFGF
+
+Flood Statement
+National Weather Service Grand Forks ND
+1013 AM CDT Mon Apr 24 2023
+
+...The Flood Warning continues for the following rivers in 
+Minnesota...
+
+  Sand Hill River at Climax affecting Polk County.
+
+.Red River basin river flooding to continue. Recent snowmelt will 
+result in a slower gradual recession of the Sand Hill River at 
+Climax. The river is expected to remain within Minor Flood stage 
+throughout the week, before potentially dipping into Action stage by 
+the weekend.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Please report observed flooding to local emergency services or law 
+enforcement and request they pass this information to the National 
+Weather Service when you can do so safely.
+
+Safety message - Turn around, don't drown. Don't travel through 
+flooded areas. Most flood deaths occur in vehicles.
+
+&&
+
+Additional information is available at www.weather.gov.
+
+
+MNC119-252115-
+/O.EXT.KFGF.FL.W.0033.000000T0000Z-230430T1800Z/
+/CLXM5.1.SM.230422T1645Z.230424T0715Z.230429T1200Z.NO/
+1013 AM CDT Mon Apr 24 2023
+
+...FLOOD WARNING FOR SNOWMELT NOW IN EFFECT UNTIL EARLY SUNDAY 
+AFTERNOON...
+
+* WHAT...Minor flooding is occurring and minor flooding is forecast.
+
+* WHERE...Sand Hill River at Climax.
+
+* WHEN...Until early Sunday afternoon.
+
+* IMPACTS...At 20.0 feet, MINOR FLOOD STAGE.
+
+* ADDITIONAL DETAILS...
+  - At 9:45 AM CDT Monday the stage was 20.6 feet.
+  - Recent Activity...The maximum river stage in the 24 hours
+    ending at 9:45 AM CDT Monday was 20.7 feet.
+  - Forecast...The river is expected to fall below flood stage
+    Saturday morning and continue falling to 18.8 feet Monday
+    morning.
+  - Flood stage is 20.0 feet.
+
+
+&&
+
+LAT...LON 4764 9676 4753 9664 4754 9683 4764 9686
+
+
+$$
+
+NR

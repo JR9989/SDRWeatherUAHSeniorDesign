@@ -1,0 +1,82 @@
+ASUS43 KGRB 241459
+RWRGRB
+
+NORTH-CENTRAL AND NORTHEAST WISCONSIN REGIONAL WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE GREEN BAY WI
+1000 AM CDT MON APR 24 2023
+
+WIZ005-009-010>012-018-019-241600-
+NORTH CENTRAL WISCONSIN
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+IRONWOOD       NOT AVBL                                               
+MANITOWISH WTR NOT AVBL                                               
+ARBOR VITAE    PTSUNNY   37  21  53 CALM      30.11F                  
+EAGLE RIVER    NOT AVBL                                               
+LAND O LAKES   PTSUNNY   38  17  43 CALM      30.13F                  
+RHINELANDER    MOSUNNY   35  23  61 CALM      30.12F                  
+PHILLIPS       CLOUDY    37  24  61 CALM      30.11S                  
+ANTIGO         NOT AVBL                                               
+TOMAHAWK       NOT AVBL                                               
+MERRILL        SUNNY     38  24  56 W3        30.12S                  
+$$
+
+WIZ013-073-241600-
+NORTHEAST WISCONSIN
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+IRON MOUNTAIN  NOT AVBL                                               
+MARINETTE      NOT AVBL                                               
+$$
+
+WIZ017-030-035>037-045-241600-
+CENTRAL WISCONSIN
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MEDFORD        PTSUNNY   37  27  66 SW5       30.12S                  
+WAUSAU         NOT AVBL                                               
+MOSINEE        MOSUNNY   41  25  52 SW7       30.14S                  
+MARSHFIELD     NOT AVBL                                               
+WISC RAPIDS    NOT AVBL                                               
+STEVENS POINT  NOT AVBL                                               
+WAUPACA        MOSUNNY   44  20  38 NW6       30.15F                  
+SHAWANO        SUNNY     41  33  72 NE5       30.16S                  
+CLINTONVILLE   SUNNY     41  27  57 W3        30.16S                  
+WAUTOMA        NOT AVBL                                               
+$$
+
+WIZ038-039-048-051-241600-
+FOX VALLEY
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+NWS GREEN BAY  SUNNY     43  27  53 CALM      30.16R                  
+APPLETON       MOSUNNY   43  25  49 NW5       30.14R                  
+OSHKOSH        PTSUNNY   44  26  49 W7        30.15S                  
+FOND DU LAC    PTSUNNY   44  23  43 W7        30.16S                  
+$$
+
+WIZ022-050-052-241600-
+EAST CENTRAL WISCONSIN
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+EPHRAIM        NOT AVBL                                               
+WASHINGTON ISL NOT AVBL                                               
+STURGEON BAY   NOT AVBL                                               
+MANITOWOC      NOT AVBL                                               
+SHEBOYGAN      SUNNY     46  25  43 NW9       30.15S                  
+$$
+
+LMZ563-521-522-541>543-241600-
+LAKESHORE
+  
+STATION/POSITION TIME  TEMP    WIND        PRES    VSBY  WAVE
+                       AIR SEA DIR/SP/G                  HT/PER
+                 (UTC) (F)     (DEG/KT/KT) (MB)    (MI)  (FT/S)
+SHEBOYGAN LKSHOR 1400   41     270/  5/  7 1021.7R
+KEWAUNEE LKSHORE 1406   37      50/  7/  9 1020.6
+NORTHPORT PIER   1400          290/  8/ 10   N/A
+CHAMBERS ISLAND  1440   37     320/  4/  5   N/A
+GREEN BAY WEST   1406   37      20/  2/  4 1020.1
+MENOMINEE LKSHOR 1406   33 42   20/  7/  8 1020.4
+$$
+  

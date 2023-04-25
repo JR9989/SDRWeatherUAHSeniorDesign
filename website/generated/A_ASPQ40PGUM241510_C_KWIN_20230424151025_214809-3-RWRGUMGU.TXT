@@ -1,0 +1,50 @@
+ASPQ40 PGUM 241510
+RWRPQ 
+WEATHER ROUNDUP FOR THE MARIANAS AND MICRONESIA
+NATIONAL WEATHER SERVICE TIYAN GU
+100 AM CHST TUE APR 25 2023
+
+GUZ001>004-241600-
+MARIANA ISLANDS-
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+GUAM AIRPORT   NOT AVBL                                               
+ANDERSEN AFB   MOCLDY    79  75  89 NE14      29.84F                  
+ROTA AIRPORT   NOT AVBL                                               
+TINIAN AP      NOT AVBL                                               
+SAIPAN AP      MOCLDY    81 N/A N/A E14       29.85F                  
+
+$$
+
+PMZ161-241600-
+REPUBLIC OF PALAU-
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+KOROR AP       MOCLDY    75  73  94 CALM      29.80S                  
+KOROR WSO      NOT AVBL                                               
+
+$$
+
+PMZ171>174-241600-
+FEDERATED STATES OF MICRONESIA-
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+YAP AIRPORT    PTCLDY    77  75  94 CALM      29.78F                  
+CHUUK AP       CLOUDY    79  79 100 CALM      29.77F                  
+POHNPEI AP     NOT AVBL                                               
+POHNPEI WSO    NOT AVBL                                               
+KOSRAE AP      NOT AVBL                                               
+
+$$
+
+PMZ181-241600-
+REPUBLIC OF THE MARSHALL ISLANDS-
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+KWAJALEIN AP   PTCLDY    79  75  89 E13       29.79F                  
+MAJURO AP      NOT AVBL                                               
+MAJURO WSO     MOCLDY    79  75  89 E8        29.75F                  
+
+$$
+
+  

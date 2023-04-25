@@ -1,0 +1,58 @@
+ASUS43 KLSX 241457
+RWRMO 
+
+WEATHER SUMMARY FOR MISSOURI
+NATIONAL WEATHER SERVICE SPRINGFIELD MO
+1000 AM CDT MON APR 24 2023
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+       SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+       CURRENT SKY AND/OR WEATHER CONDITIONS ARE NOT AVAILABLE FOR
+       CHILLICOTHE AND FARMINGTON.
+
+MOZ001>031-035>038-043-044-053-054-241600-
+...NORTHERN AND WESTERN MISSOURI...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+KANSAS CTY INT CLOUDY    54  32  43 S16G23    30.14S                  
+LEE'S SUMMIT   MOSUNNY   52  29  41 S12       30.17S                  
+ST JOSEPH      MOSUNNY   54  29  38 S14       30.12F                  
+CHILLICOTHE      N/A     52  29  41 SE9       30.18F                  
+     
+$$
+MOZ066>068-077>081-088>096-101>105-241600-
+...SOUTHWEST MISSOURI...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+SPRINGFIELD    SUNNY     52  29  41 S12       30.19R                  
+JOPLIN         SUNNY     56  29  35 S8        30.19R                  
+BRANSON        SUNNY     52  25  35 SE8       30.22S                  
+               
+$$
+MOZ032>034-039>042-045>050-055>058-069>072-241600-
+...CENTRAL MISSOURI...  
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+COLUMBIA       NOT AVBL                                               
+JEFFERSON CITY MOSUNNY   53  28  38 SE7       30.23S                  
+ROLLA          SUNNY     51  26  37 SE9       30.23R                  
+SEDALIA        MOSUNNY   54  27  35 S10       30.20S                  
+               
+$$
+MOZ051-052-059>065-241600-
+...EAST CENTRAL MISSOURI...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ST LOUIS INTL  MOSUNNY   52  28  39 SW6       30.25S                  
+                   
+$$
+MOZ072>076-082>087-097>100-106>115-241600-
+...SOUTH CENTRAL AND SOUTHEAST MISSOURI...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CAPE GIRARDEAU SUNNY     52  38  58 CALM      30.26R                  
+POPLAR BLUFF   SUNNY     52  38  58 N3        30.26R                  
+WEST PLAINS    SUNNY     52  24  33 E8        30.24R                  
+                                       
+$$
+  

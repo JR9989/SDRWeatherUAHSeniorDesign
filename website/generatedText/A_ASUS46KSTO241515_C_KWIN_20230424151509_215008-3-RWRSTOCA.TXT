@@ -1,0 +1,99 @@
+ASUS46 KSTO 241515
+RWRCA 
+
+NORTHERN AND CENTRAL CA REGIONAL WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE SACRAMENTO CA 
+800 AM PDT MON APR 24 2023
+
+NOTE: FAIR INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+CAZ001-003-241600-
+NORTHWEST AREA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CRESCENT CITY  CLOUDY    50  46  86 NE7       30.16R FOG              
+UKIAH          SUNNY     49  41  74 N5        30.05R                  
+$$
+
+CAZ006-505>513-241600-
+BAY AREA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+SANTA ROSA     SUNNY     48  44  86 S3        29.98R                  
+CONCORD        SUNNY     54  43  66 S12       29.97R                  
+OAKLAND CITY   N/A       49  MM  MM MISG
+OAKLAND        MOSUNNY   52  48  86 SW8       30.01R                  
+SAN FRAN CITY  N/A       50  MM  75 MISG
+SAN FRAN ARPT  MOSUNNY   53  45  74 W15       30.00R                  
+LIVERMORE      SUNNY     51  45  79 NW6       29.98R                  
+HAYWARD        SUNNY     53  45  74 SW7       29.99R                  
+REDWOOD CITY   N/A       51  MM  84 MISG
+MOFFETT ARPT   SUNNY     54  46  76 CALM      30.00R                  
+SAN JOSE ARPT  PTSUNNY   51  46  83 CALM      30.00R                  
+$$
+CAZ034-037-514>518-241600-
+CENTRAL COAST
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+WATSONVILLE    CLOUDY    49  47  93 VRB3      30.01R                  
+SALINAS        MOSUNNY   52  46  80 W6        30.01R                  
+MONTEREY       MOSUNNY   50  46  86 SW7       30.02R                  
+SAN LUIS OBISP SUNNY     51  48  89 NW9       29.95R                  
+SANTA MARIA    FOG       48  48 100 NW3       29.96R VSB 1/2          
+HALF MOON BAY  FAIR      50  45  81 N10G16    30.02R HAZE             
+$$
+CAZ015-016-241600-
+NORTHERN SACRAMENTO VALLEY
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+REDDING        SUNNY     55  41  59 N6        29.95R                  
+RED BLUFF      SUNNY     56  34  43 NW7       29.97R                  
+OROVILLE       SUNNY     62  53  72 CALM      29.95R                  
+$$
+CAZ016>018-241600-
+SOUTHERN SACRAMENTO VALLEY
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+AUBURN         SUNNY     59  45  58 CALM      29.95R                  
+BEALE AFB      SUNNY     59  52  77 CALM      29.93R                  
+LINCOLN        FAIR      55  54  94 CALM      29.93R                  
+MARYSVILLE     SUNNY     59  50  72 CALM      29.94R                  
+SAC INTL ARPT  MOSUNNY   57  46  66 SE5       29.93R                  
+MATHER AIRPORT SUNNY     55  50  82 SE5       29.93R                  
+DOWNTOWN SAC   N/A       57  MM  MM MISG
+SAC EXEC ARPT  SUNNY     54  44  69 SW3       29.93R                  
+VACAVILLE      SUNNY     56  46  69 CALM      29.94R                  
+TRAVIS AFB     SUNNY     53  43  68 SW13      29.92R                  
+$$
+CAZ019>021-241600-
+SAN JOAQUIN VALLEY
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+STOCKTON       SUNNY     57  46  66 NW5       29.93R                  
+MODESTO        SUNNY     59  42  53 N7        29.93R                  
+MERCED         SUNNY     54  48  80 W5        29.92R                  
+LEMOORE        PTSUNNY   59  47  64 NW5       29.95R                  
+FRESNO         MOSUNNY   60  50  69 W5        29.93R                  
+HANFORD        SUNNY     62  50  64 NW6       29.95R                  
+PORTERVILLE    SUNNY     60  54  80 S5        29.96R                  
+BAKERSFIELD    SUNNY     63  54  72 CALM      29.95R                  
+$$
+CAZ011-012-071-241600-
+NORTHERN MOUNTAINS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+YREKA          SUNNY     44  33  65 N10       30.10R                  
+MOUNT SHASTA   SUNNY     39  30  70 NW10G24   30.03R WCI  32          
+ALTURAS        SUNNY     39  30  70 SW6       30.03R WCI  35          
+$$
+CAZ011-012-071-241600-
+SIERRA NEVADA MTNS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BLUE CANYON    SUNNY     50  38  63 S3        30.04R                  
+TRUCKEE        MOSUNNY   34  30  86 CALM      30.06R                  
+TAHOE VLY ARPT SUNNY     35  26  69 S5        30.04R WCI  31          
+MAMMOTH LAKES  FAIR      35  27  72 SE3       30.07S                  
+$$
+  

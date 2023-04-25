@@ -1,0 +1,199 @@
+ASUS63 KMPX 241452
+RTPMPX
+Max/min Temperature And Precipitation Table For
+Central And South Central Minnesota And West Central Wisconsin
+National Weather Service Twin Cities/Chanhassen MN
+952 AM CDT Mon Apr 24 2023
+
+ Values represent highs yesterday...lows over the last 12 hours
+ for ASOS and AWOS stations and lows over the last 24 hours for 
+ Cooperative weather observating sites...and precipitation
+ over the last 24 hours. 
+
+
+ ASOS airports - West Central/Central/Southern MN/West Central WI
+ with precipitation/snowfall/snow depth reports
+:
+.BR MSP 0424 C DH00/TAIRZX/DH06/TAIRZP/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:                               Max    Min              Snow   Snow 
+:ID         Location            Temp   Temp     Pcpn    fall   depth
+EAU  : Eau Claire             :  44 /  28 /     0.00/   0.0/     0
+MSP  : Minneapolis/St. Paul   :  45 /  34 /     0.00/   0.0/     0
+STC  : St. Cloud              :  45 /  29 /     0.00/   0.0/     0
+:
+:
+.BR MSP 0424 C DH00/TAIRZX/DH06/TAIRZP/PPDRZZ
+:
+: ASOS airports - west central/central/southern MN 
+: with or without precipitation/snowfall/snow depth reports
+
+AXN  : Alexandria             :  42 /  26 /    
+MIC  : Crystal                :  44 /  31 /    
+FRM  : Fairmont               :  43 /  26 /    
+FCM  : Flying Cloud           :  44 /  32 /    
+MKT  : Mankato                :  42 /  31 /    
+RWF  : Redwood Falls          :  45 /  31 /    
+STP  : St. Paul               :  44 /  34 /    
+:
+:
+: AWOS airports - West Central/Central/Southern MN/West Central WI
+:
+AEL  : Albert Lea             :  43 /  28 /    
+AQP  : Appleton               :  46 /  30 /    
+BBB  : Benson                 :  46 /  19 /    
+ANE  : Blaine                 :  45 /  30 /    
+CFE  : Buffalo                :  43 /  30 /    
+CBG  : Cambridge              :  45 /  30 /    
+RYM  : Camp Ripley            :  42 /  26 /    
+CNB  : Canby                  :  49 /  27 /    
+FBL  : Faribault              :  43 /  30 /    
+GYL  : Glencoe                :  44 /  30 /    
+GHW  : Glenwood               :  45 /  27 /    
+GDB  : Granite Falls          :  48 /  30 /    
+HCD  : Hutchinson             :  45 /  30 /    
+21D  : Lake Elmo              :  41 /  28 /    
+LVN  : Lakeville              :  43 /  32 /    
+LJF  : Litchfield             :  45 /  28 /    
+LXL  : Little Falls           :  41 /  27 /    
+14Y  : Long Prairie           :  41 /  25 /    
+DXX  : Madison                :  48 /  28 /    
+MGG  : Maple Lake             :  44 /  29 /    
+MVE  : Montevideo             :  46 /  28 /    
+JMR  : Mora                   :  43 /  30 /    
+MOX  : Morris                 :  45 /  27 /    
+ULM  : New Ulm                :  45 /  28 /    
+OVL  : Olivia                 :  45 /  32 /    
+OWA  : Owatonna               :  43 /  28 /    
+PEX  : Paynesville            :  43 /  23 /    
+PNM  : Princeton              :  45 /  27 /    
+RGK  : Red Wing               :  43 /  28 /    
+ROS  : Rush City              :  49 /  33 /    
+D39  : Sauk Centre            :  43 /  26 /    
+SAZ  : Staples                :  41 /  25 /    
+JYG  : St James               :  45 /  27 /    
+SGS  : South St. Paul         :  43 /  33 /    
+ACQ  : Waseca                 :  43 /  28 /    
+BDH  : Willmar                :  46 /  27 /    
+RCX  : Ladysmith              :  43 /  27 /    
+Y23  : Chetek                 :  46 /  28 /    
+UBE  : Cumberland             :  41 /  30 /    
+LUM  : Menomonie              :  46 /  31 /    
+RNH  : New Richmond           :  42 /  28 /    
+OEO  : Osceola                :  44 /  30 /    
+RPD  : Rice Lake              :  43 /  27 /    
+.End
+
+:            Cooperative Weather Observation Sites
+.BR MSP 0424 C DH06/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:                          Obs     Max   Min           Snow  Snow 
+:ID        Location        Time    Temp  Temp   Pcpn   Fall  Depth
+:
+: in Minnesota   /temps and precip are for the last 24 hours/
+:
+ALBM5: Albert Lea MN     : DH0800/  43 /  27 /  0.00/   0.0/    0
+BDIM5: Bird Island 7SSE  : DH0800/   M /   M /    T /    T /    0
+BTHM5: Blue Earth 1S MN  : DH0800/   M /   M /  0.00/   0.0/    0
+MPXM5: Chanhassen NWS    : DH0700/   M /   M /  0.00/   0.0/    0
+ELKM5: Elk River MN      : DH0700/  45 /  26 /     M/     M/    0
+GLWM5: Glenwood 1N       : DH0730/  45 /  25 /     M/     M/    0
+HSTM5: Hastings L/D2     : DH0530/  44 /  33 /  0.00/     M/    M
+JORM5: Jordan MN         : DH0530/  43 /  27 /  0.00/   0.0/    0
+KIMM5: Kimball MN        : DH0600/  45 /  26 /  0.00/   0.0/    0
+LAMM5: Lamberton MN      : DH0800/  45 /  25 /  0.00/   0.0/    0
+LNGM5: Long Prairie MN   : DH0600/  44 /  18 /  0.01/   0.1/    T
+MLRM5: Melrose MN        : DH0700/   M /   M /  0.00/   0.0/    0
+MLCM5: Milaca MN         : DH0730/  44 /  27 /  0.00/   0.0/    0
+LSAM5: Lwr St Anthony MN : DH0600/  44 /  30 /  0.00/   0.0/    M
+MRAM5: Mora MN           : DH0700/  44 /  27 /  0.00/   0.0/    0
+RWGM5: Red Wing MN       : DH0800/   M /   M /  0.00/   0.0/    0
+RDWM5: Red Wing L/D3     : DH0600/  43 /  33 /  0.00/   0.0/    M
+RCEM5: Rice MN           : DH0700/  44 /  24 /  0.00/   0.0/    0
+RSMM5: Rosemount         : DHM   /  43 /  31 /     M/     M/    0
+SCSM5: St Cloud ST MN    : DH0600/   M /   M /    T /    T /    0
+WTSM5: Watson 1NE MN     : DH0630/   M /   M /  0.00/   0.0/    0
+WELM5: Wells MN          : DH0800/  44 /  26 /  0.00/   0.0/    0
+ZBRM5: Zumbrota, MN      : DH0700/  43 /  25 /  0.01/     M/    M
+:
+: In Wisconsin   /temps and precip are for the last 24 hours/
+:
+BMRW3: Bloomer WI        : DH0800/  44 /  27 /  0.05/   0.0/    0
+BALW3: Baldwin WI        : DH0630/  41 /  27 /  0.00/   0.0/    0
+CBLW3: Cumberland WI     : DH0700/  40 /  28 /    T /    T /    0
+ELWW3: Ellsworth WI      : DH0700/  44 /  27 /  0.00/   0.0/    0
+HOLW3: Holcombe WI       : DH0700/  43 /  29 /     M/     M/    0
+JIMW3: Jim Falls WI      : DH0530/  43 /  28 /  0.00/   0.0/    0
+SCRW3: St Croix Falls WI : DH0700/  44 /  29 /  0.00/   0.0/    0
+
+
+.End
+
+
+ These data are preliminary and have not undergone final quality
+ control by the National Centers for Environmental Information 
+ /NCEI/. Therefore these data are subject to revision. Final
+ and certified climate data can be accessed at www.ncdc.noaa.gov.
+ 
+&& 
+
+
+          CoCoRaHS - MN/WI observer reports 
+
+
+
+
+
+
+.BR MSP  0424  C DH06/PP/SF/SD
+:
+:
+:                                     Obs           Snow   Snow 
+:ID        Location                   Time   Pcpn   fall   depth
+:
+
+
+: in Minnesota
+:
+MNG0GYSN : Lonsdale 1 SSW          : DHM   /     M /    M /    0/
+MN228YHJ : Rice 3 WNW              : DHM   /     M /    M /    0/
+:
+: In Wisconsin
+:
+
+
+.BR MSP 0424 C DH0952/DC2304240952/GDIRVZ/GTIRVZ
+
+: ...Frost Depth...
+ 
+: This information is normally produced during the cool seasons.
+: The most recent information is provided for each location. 
+: The data and time of each observation are in Central Time. 
+: Frost Depth refers to the depth of frost penetration into the 
+: ground in inches.
+: Frost Top refers to the depth of the top of the frost layer...
+: in inches. 
+: For Frost Top... A value of zero means frost exists from the 
+: ground surface to the frost depth.
+
+
+:                                     Obs    Frost  Frost 
+:ID        Location                   Time   Depth    Top
+:
+BMRW3: Bloomer Wi                : DD240800/     0 /     0
+ROBW3: Roberts Wi                : DD230800/     0 /     0
+:
+.END
+
+ These data are preliminary and have not undergone final quality
+ control by the National Centers for Environmental Information 
+ /NCEI/. Therefore these data are subject to revision. Final
+ and certified climate data can be accessed at www.ncdc.noaa.gov.
+
+
+ In addition snowfall and snow depth are not reported between June 1 
+ and September 30th.
+
+
+ $$
+

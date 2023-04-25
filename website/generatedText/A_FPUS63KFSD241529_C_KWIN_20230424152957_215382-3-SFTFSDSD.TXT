@@ -1,0 +1,111 @@
+FPUS63 KFSD 241529
+SFTSD 
+STZ000-242300-
+
+Tabular State Forecast for South Dakota
+National Weather Service Sioux Falls SD
+1029 AM CDT Mon Apr 24 2023
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Today    Tue      Wed      Thu      Fri      Sat      Sun      
+   Apr 24   Apr 25   Apr 26   Apr 27   Apr 28   Apr 29   Apr 30   
+
+...WESTERN SOUTH DAKOTA...
+   Buffalo
+   Ptcldy   Mocldy   Mocldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+     /57    31/48    37/61    38/61    33/49    31/55    33/57    
+      /00    10/20    20/10    10/40    40/30    20/10    10/10   
+
+   Custer
+   Ptcldy   Snoshwr  Shwrs    Shwrs    Snoshwr  Ptcldy   Sunny    
+     /52    29/38    33/55    34/57    30/43    27/50    31/53    
+      /00    40/80    80/50    50/50    70/60    60/20    20/20   
+
+   Faith
+   Ptcldy   Mocldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+     /54    32/49    36/63    38/62    35/47    32/53    34/54    
+      /00    20/20    20/30    30/30    40/30    10/10    10/10   
+
+   Philip
+   Ptcldy   Mocldy   Ptcldy   Ptcldy   Mocldy   Ptcldy   Ptcldy   
+     /59    34/51    37/66    38/66    36/50    32/55    34/58    
+      /00    20/30    20/30    30/30    60/40    20/10    10/10   
+
+   Pine Ridge
+   Ptcldy   Shwrs    Ptcldy   Ptcldy   Mocldy   Ptcldy   Ptcldy   
+     /63    37/49    36/62    36/65    33/47    29/52    32/56    
+      /10    30/60    60/30    30/30    60/40    30/20    10/10   
+
+   Rapid City
+   Ptcldy   Snoshwr  Ptcldy   Ptcldy   Ptcldy   Ptcldy   Sunny    
+     /59    33/46    36/63    37/64    35/49    31/55    34/57    
+      /00    30/50    50/40    40/40    60/40    30/20    20/10   
+
+...CENTRAL SOUTH DAKOTA...
+   Chamberlain
+   Sunny    Mocldy   Ptcldy   Ptcldy   Shwrs    Ptcldy   Ptcldy   
+     /61    35/55    37/65    41/68    38/51    34/55    35/57    
+      /00    10/10    10/10    30/20    50/50    20/10    10/10   
+
+   Mobridge
+   Sunny    Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+     /55    29/53    37/64    36/63    35/49    32/54    33/55    
+      /00    00/00    10/50    50/30    40/30    20/10    10/10   
+
+   Pierre
+   Sunny    Mocldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+     /58    35/52    38/67    39/66    38/50    33/54    35/56    
+      /00    20/20    10/30    30/20    50/40    10/10    10/10   
+
+   Winner
+   Ptcldy   Mocldy   Ptcldy   Ptcldy   Shwrs    Ptcldy   Ptcldy   
+     /60    35/52    38/65    42/70    38/50    33/55    35/57    
+      /00    10/20    10/10    30/20    50/50    30/10    10/10   
+
+...EASTERN SOUTH DAKOTA...
+   Aberdeen
+   Sunny    Sunny    Mocldy   Ptcldy   Mocldy   Ptcldy   Ptcldy   
+     /51    25/53    30/61    34/60    33/47    32/52    32/53    
+      /00    00/00    00/30    50/30    50/30    20/20    20/20   
+
+   Huron
+   Sunny    Ptcldy   Ptcldy   Ptcldy   Shwrs    Ptcldy   Ptcldy   
+     /59    31/58    34/64    40/67    38/50    34/53    35/56    
+      /00    00/00    00/10    50/30    50/50    30/20    20/20   
+
+   Mitchell
+   Sunny    Ptcldy   Ptcldy   Ptcldy   Shwrs    Ptcldy   Ptcldy   
+     /60    34/58    34/65    43/68    39/51    34/54    35/57    
+      /00    10/10    00/10    30/20    50/50    30/20    20/20   
+
+   Sioux Falls
+   Sunny    Ptcldy   Ptcldy   Ptcldy   Shwrs    Mocldy   Ptcldy   
+     /58    32/57    32/62    45/67    42/52    36/51    36/54    
+      /00    10/00    00/00    30/30    50/50    50/20    20/20   
+
+   Sisseton
+   Sunny    Sunny    Ptcldy   Ptcldy   Mocldy   Ptcldy   Ptcldy   
+     /48    27/50    29/58    38/59    36/47    34/49    34/51    
+      /00    00/00    00/20    70/30    50/40    30/30    30/20   
+
+   Watertown
+   Sunny    Sunny    Ptcldy   Ptcldy   Mocldy   Ptcldy   Ptcldy   
+     /49    27/50    29/58    37/61    35/47    31/47    32/50    
+      /00    00/00    00/10    60/30    50/40    40/30    30/20   
+
+   Yankton
+   Ptcldy   Mocldy   Ptcldy   Ptcldy   Shwrs    Ptcldy   Ptcldy   
+     /61    36/57    35/63    45/69    42/52    35/53    37/57    
+      /00    20/10    10/00    20/20    50/50    40/20    20/20   
+
+
+$$
+

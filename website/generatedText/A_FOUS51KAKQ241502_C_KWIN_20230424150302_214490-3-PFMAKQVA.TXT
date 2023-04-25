@@ -1,0 +1,1022 @@
+FOUS51 KAKQ 241502
+PFMAKQ
+
+FOUS51 KAKQ 241502
+PFMAKQ
+
+Point Forecast Matrices
+National Weather Service Wakefield VA
+1102 AM EDT Mon Apr 24 2023
+
+MDZ021-242100-
+Cambridge/Dorchester airport-Dorchester MD
+38.54N  76.03W Elev. 20 ft
+1102 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      61          45          62          45          66
+Temp                   58 60 54 50 48 46 49 56 60 61 55 51 48 46 49 58 64 65 59
+Dewpt                  33 33 35 36 36 37 38 36 31 30 34 36 37 37 41 39 40 41 44
+RH                     39 36 48 58 63 71 66 47 33 31 45 56 65 71 74 49 41 41 57
+Wind dir               NW NW  N  N  N  N  N NW NW NW SW  S SE SE SE  S  S  S  S
+Wind spd                9  8  4  4  4  4  6  9  9  6  2  2  2  3  3  9 11 12  6
+Clouds                 FW FW FW SC SC SC SC FW FW SC SC FW FW SC SC SC B1 B1 B1
+PoP 12hr                      0           0           0           0          20
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                                           
+Rain shwrs                                                              S  S  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          49    65      49    65      52    65      55    71
+Temp          52 52 63 59   52 52 63 60   55 54 64 61   57 58 69 64
+Dewpt         48 47 45 46   48 49 47 49   51 51 53 54   55 56 57 57
+PWind dir        SE    NE       E     E       E     E      SE    SE
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B1 B1 SC SC   SC B1 B1 B2   B2 B2 B2 B2   B2 B2 B1 B1
+PoP 12hr         30    20      30    40      50    50      50    50
+Rain                 S  S    S  C  C  C    C  C  C  C    C  C  C   
+Rain shwrs     C  S                                               C
+Tstms                                                             S
+
+$$
+MDZ022-242100-
+Salisbury/Ocean City Wicomico regional airport-Wicomico MD
+38.35N  75.50W Elev. 52 ft
+1102 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      62          41          62          42          66
+Temp                   59 60 54 48 45 42 46 54 60 61 54 49 46 44 46 57 63 65 59
+Dewpt                  32 33 34 35 35 34 37 35 33 31 33 34 35 35 39 36 38 39 42
+RH                     36 36 46 60 68 73 71 48 36 32 45 56 65 70 76 45 39 38 53
+Wind dir               NW NW  N NW NW NW NW NW NW NW NW  S  S SE SE  S  S  S  S
+Wind spd                6 10  4  3  4  3  5  8  8  8  2  1  1  0  1  6  9 11  5
+Clouds                 SC FW CL FW SC SC SC FW SC SC SC FW FW SC SC SC SC B1 B1
+PoP 12hr                      5           0           0           0          10
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                                           
+Rain shwrs                                                                    S
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          47    64      48    64      52    64      53    70
+Temp          51 50 62 58   51 51 62 59   54 54 63 60   55 56 68 62
+Dewpt         46 47 45 47   48 48 47 48   50 50 52 53   54 55 56 56
+PWind dir        SE     E       E     E       E     E      SE    SE
+Wind char        LT    LT      GN    GN      GN    GN      GN    BZ
+Avg clouds    B1 B1 B1 SC   SC B1 B1 B1   B2 B2 B2 B1   B2 B2 B1 B1
+PoP 12hr         20    20      20    40      40    40      50    50
+Rain                 S  S    S  S  C  C    C  C  C  C    C  C  C   
+Rain shwrs     S  S                                               C
+Tstms                                                             S
+
+$$
+MDZ025-242100-
+Ocean City Oceanfront-Maryland Beaches MD
+38.34N  75.08W Elev. 3 ft
+1102 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      57          47          59          48          59
+Temp                   54 56 54 51 49 48 49 55 58 58 55 52 51 49 50 55 58 58 56
+Dewpt                  37 39 39 39 39 38 39 37 37 38 40 40 40 40 42 41 42 44 46
+RH                     52 53 57 63 68 68 68 51 45 47 57 63 66 71 74 59 55 59 69
+Wind dir                E SE  S  N  N NW NW NW NE SE  S SW SW SW  E SE SE  S  S
+Wind spd                4  6  4  5  9 10 10 10  6  4  5  4  4  4  5  9 12 14 10
+Clouds                 B1 FW FW FW SC SC FW FW SC SC SC FW FW FW SC SC SC SC B1
+PoP 12hr                     10           0           0           0          10
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                                           
+Rain shwrs                                                                    S
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          52    60      52    61      54    61      55    65
+Temp          53 53 58 57   54 54 60 58   56 56 60 59   57 57 64 61
+Dewpt         49 49 48 49   49 50 50 51   51 52 53 54   55 56 56 57
+PWind dir        SE     E       E     E       E     E      SE    SE
+Wind char        GN    GN      GN    BZ      BZ    BZ      BZ    BZ
+Avg clouds    B1 B1 B1 SC   B1 B1 B1 B1   B2 B2 B2 B1   B2 B2 B2 B1
+PoP 12hr         30    20      20    40      40    40      50    50
+Rain                 S       S  S  C  C    C  C  C  C    C  C  C   
+Rain shwrs     S  C                                               C
+Tstms                                                             S
+
+$$
+MDZ025-242100-
+Ocean City municipal airport-Maryland Beaches MD
+38.31N  75.12W Elev. 11 ft
+1102 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      58          45          60          47          60
+Temp                   55 57 53 50 48 46 47 55 58 59 55 52 50 48 49 55 58 59 56
+Dewpt                  37 38 38 38 38 37 38 36 36 37 39 39 39 39 41 41 41 43 45
+RH                     51 49 57 63 68 71 71 49 44 44 55 61 66 71 74 59 53 55 66
+Wind dir                E SE  S NW NW NW NW NW  N SE  S SW SW SW  E SE  S  S  S
+Wind spd                3  5  3  4  8  8  9  9  5  4  4  3  3  3  4  9 11 13  9
+Clouds                 B1 FW CL FW SC SC FW FW SC SC SC FW FW FW SC SC SC SC B1
+PoP 12hr                     10           0           0           0          10
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                                           
+Rain shwrs                                                                    S
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          50    61      51    61      53    62      54    67
+Temp          52 52 59 57   53 53 60 58   55 55 61 59   56 57 66 61
+Dewpt         48 48 48 48   48 49 49 50   50 50 53 54   54 55 56 57
+PWind dir        SE     E       E     E       E     E      SE    SE
+Wind char        LT    GN      GN    BZ      BZ    BZ      BZ    BZ
+Avg clouds    B1 B1 B1 SC   B1 B1 B1 B1   B2 B2 B2 B1   B2 B2 B2 B1
+PoP 12hr         30    20      20    40      40    40      50    50
+Rain                 S       S  S  C  C    C  C  C  C    C  C  C   
+Rain shwrs     S  C                                               C
+Tstms                                                             S
+
+$$
+VAZ099-242100-
+Wallops Island/wallops flight facility airport-Accomack VA
+37.94N  75.47W Elev. 40 ft
+1102 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      61          45          63          48          63
+Temp                   56 60 54 50 48 46 49 57 61 62 57 53 51 49 51 58 61 62 58
+Dewpt                  36 37 38 39 38 37 38 37 35 35 36 37 39 39 41 41 41 43 45
+RH                     47 42 54 66 68 71 66 47 38 36 45 54 63 68 68 53 48 50 62
+Wind dir                N SW NE  E  N  N  N NW  W NW NW  S SE  E SE SE SE SE  S
+Wind spd                2  5  5  3  4  6  8  8  8  8  3  2  2  3  4  8 11 12  9
+Clouds                 B1 FW CL FW SC SC SC SC SC SC SC SC FW FW SC SC SC B1 B1
+PoP 12hr                      5           0           0           0          10
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                                           
+Rain shwrs                                                                    C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          51    65      51    66      54    66      55    71
+Temp          53 53 63 60   54 54 64 61   56 56 65 62   57 58 69 64
+Dewpt         48 49 48 48   49 50 50 50   51 52 53 54   54 56 57 56
+PWind dir        SE     E       E     E       E     E      SE    SE
+Wind char        LT    GN      GN    BZ      BZ    BZ      GN    BZ
+Avg clouds    B1 B1 B1 SC   B1 B1 B1 B2   B2 B2 B2 B1   B1 B2 B1 B1
+PoP 12hr         30    20      30    40      50    40      50    50
+Rain                 S  S    S  C  C  C    C  C  C  C    C  C  C   
+Rain shwrs     C  C                                               C
+Tstms                                                             S
+
+$$
+VAZ521-242100-
+Tappahannock-Essex VA
+37.87N  76.89W Elev. 135 ft
+1102 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      64          43          65          42          68
+Temp                   61 62 55 49 47 44 46 56 62 63 56 50 47 44 47 59 65 66 60
+Dewpt                  29 31 33 37 35 33 35 33 31 31 35 38 39 39 43 42 41 42 45
+RH                     29 31 43 63 63 65 65 42 31 30 45 63 74 82 86 53 41 42 58
+Wind dir               NW NW NE NE  N  N  N  N NW NW  E SE  S  S  S  S  S  S SE
+Wind spd                3  5  4  3  5  5  5  6  4  3  1  1  2  1  2  6  8  8  4
+Clouds                 FW SC FW B1 B1 SC SC SC SC SC SC SC SC SC SC SC B1 B1 B2
+PoP 12hr                      0           0           0           0          20
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                                           
+Rain shwrs                                                              S  S  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          47    66      49    66      50    67      53    73
+Temp          51 50 64 59   52 52 64 60   53 53 65 62   56 57 71 63
+Dewpt         48 47 45 45   49 50 49 50   52 52 54 54   55 56 56 54
+PWind dir         E    NE       E     E       E     E       E    SE
+Wind char        LT    LT      LT    GN      GN    GN      LT    GN
+Avg clouds    B1 B1 B1 SC   SC B1 B1 B2   B2 B2 B2 B2   B1 B2 B1 B1
+PoP 12hr         30    20      30    50      50    50      50    50
+Rain                 S  S    S  C  C  C    C  C  C  C    C  C  C   
+Rain shwrs     C  S                                               C
+Tstms                                                             S
+
+$$
+VAZ048-242100-
+Louisa County airport-Louisa VA
+38.01N  77.97W Elev. 493 ft
+1102 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      63          37          64          39          68
+Temp                   59 62 54 47 43 39 42 54 61 62 54 47 44 41 44 58 65 66 59
+Dewpt                  29 30 33 32 30 29 31 30 29 29 32 32 33 34 37 41 40 41 44
+RH                     32 30 45 56 60 67 65 40 29 28 43 56 65 76 76 53 40 40 57
+Wind dir                W  W NE  N  N  N  N  N NW SW SE SE  S  S  S  S  S  S SW
+Wind spd                3  4  4  6  5  4  4  5  4  3  1  1  2  1  2  8  8  8  2
+Clouds                 FW SC B1 B1 SC SC FW FW SC SC SC SC SC SC SC SC B1 B1 B2
+PoP 12hr                      0           0           0           0          30
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                              C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          44    65      46    64      48    65      50    69
+Temp          49 48 63 58   50 49 62 58   51 51 63 60   53 53 67 60
+Dewpt         45 41 42 41   45 46 48 50   48 49 52 52   51 51 54 50
+PWind dir         E    NE       E     E       E     E       E     S
+Wind char        LT    LT      LT    GN      GN    GN      LT    GN
+Avg clouds    B2 B1 SC SC   B1 B1 B2 B2   B2 B2 B2 B2   B2 B1 B1 B1
+PoP 12hr         30    20      40    50      50    50      50    50
+Rain                 S  S    C  C  C  C    C  C  C  C    C  C  C   
+Rain shwrs     C  S                                               C
+Tstms                                                             S
+
+$$
+VAZ512-242100-
+Hanover County municipal airport-Hanover VA
+37.71N  77.44W Elev. 207 ft
+1102 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      64          42          65          43          69
+Temp                   61 62 56 49 47 44 46 56 62 63 56 50 47 45 47 60 66 67 61
+Dewpt                  29 31 33 35 33 31 33 31 30 30 33 36 38 39 41 42 41 42 44
+RH                     29 31 42 58 58 60 60 38 30 29 42 58 71 79 79 51 40 40 53
+Wind dir               NW  W NE NE  N  N  N  N NW NW  E SE  S  S  S  S  S  S  S
+Wind spd                4  5  3  4  5  5  5  6  4  3  1  1  1  1  2  6  6  8  3
+Clouds                 FW SC SC B1 SC SC SC FW SC SC SC FW SC SC SC SC B1 B1 B2
+PoP 12hr                      0           0           0           5          30
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                                           
+Rain shwrs                                                              C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          48    67      49    66      51    68      53    72
+Temp          52 51 65 60   53 52 64 60   54 54 66 62   56 56 70 63
+Dewpt         47 45 44 44   47 49 49 51   50 51 53 54   54 54 55 53
+PWind dir         E    NE       E     E       E     E       E     S
+Wind char        LT    LT      LT    GN      GN    GN      LT    GN
+Avg clouds    B1 B1 B1 SC   SC B1 B1 B2   B2 B2 B2 B2   B2 B1 B1 B1
+PoP 12hr         30    20      40    50      50    50      50    50
+Rain                 S  S    C  C  C  C    C  C  C  C    C  C  C   
+Rain shwrs     C  S                                               C
+Tstms                                                             S
+
+$$
+VAZ071-242100-
+Richmond Intl airport-Henrico VA
+37.51N  77.31W Elev. 167 ft
+1102 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      65          43          65          44          69
+Temp                   62 63 57 50 47 45 47 57 62 63 57 51 48 46 48 60 66 67 61
+Dewpt                  30 31 33 36 35 33 33 32 32 31 34 37 38 39 42 42 41 43 44
+RH                     30 30 40 58 63 62 58 38 32 30 42 59 68 76 80 51 40 42 53
+Wind dir               NW NW  N  E  N  N  N  N NW  N  E SE SE SE  S  S  S SE  S
+Wind spd                4  6  4  5  4  5  6  8  5  4  4  2  2  1  3  6  6  9  4
+Clouds                 FW FW FW SC SC SC SC SC SC SC SC FW SC SC SC SC B1 B1 B1
+PoP 12hr                      0           0           0           5          30
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                                           
+Rain shwrs                                                              C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          49    67      50    67      52    68      54    73
+Temp          53 52 65 60   53 53 65 61   55 55 66 63   57 57 71 64
+Dewpt         47 46 45 45   48 50 50 51   51 52 54 54   54 55 56 53
+PWind dir         E    NE       E     E       E     E       E     S
+Wind char        LT    LT      LT    GN      GN    GN      GN    GN
+Avg clouds    B1 B1 B1 SC   SC B1 B1 B2   B2 B2 B2 B2   B1 B1 B1 B1
+PoP 12hr         30    20      40    50      50    50      50    50
+Rain                 S  S    C  C  C  C    C  C  C  C    C  C  C   
+Rain shwrs     C  S                                               C
+Tstms                                                             S
+
+$$
+VAZ514-242100-
+Richmond Executive-Chesterfield county airport-Chesterfield VA
+37.41N  77.52W Elev. 236 ft
+1102 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      65          43          65          43          69
+Temp                   62 63 57 50 47 44 47 57 62 63 56 50 47 45 47 60 66 67 61
+Dewpt                  30 31 33 35 34 33 33 33 32 31 35 37 39 40 42 44 42 43 45
+RH                     30 30 40 56 60 65 58 40 32 30 45 61 74 82 83 55 42 42 56
+Wind dir                W  W  N  E  N  N  N  N NW NW  E SE SE  S  S  S  S SE  S
+Wind spd                3  5  4  6  4  5  6  8  4  4  3  2  2  1  2  5  6  8  3
+Clouds                 FW FW FW SC SC SC SC FW SC SC SC FW SC SC SC SC B1 B1 B1
+PoP 12hr                      0           0           0           5          30
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                                           
+Rain shwrs                                                              C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          48    67      50    66      52    68      53    72
+Temp          52 52 65 60   53 53 64 61   55 55 66 62   56 56 70 63
+Dewpt         47 46 46 47   48 51 52 52   52 52 55 55   55 56 56 53
+PWind dir         E    NE       E     E       E     E       E     S
+Wind char        LT    LT      LT    GN      GN    GN      GN    GN
+Avg clouds    B1 B1 B1 SC   SC B1 B1 B2   B2 B2 B2 B2   B1 B1 B1 B1
+PoP 12hr         30    20      40    50      50    50      50    50
+Rain                 S  S    C  C  C  C    C  C  C  C    C  C  C   
+Rain shwrs     C  S                                               C
+Tstms                                                             S
+
+$$
+VAZ080-242100-
+Petersburg/Dinwiddie county airport-Dinwiddie VA
+37.18N  77.50W Elev. 193 ft
+1102 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      66          42          65          43          69
+Temp                   61 64 56 49 46 43 46 56 62 63 56 50 47 45 47 60 66 67 60
+Dewpt                  31 32 35 36 36 34 34 33 33 32 36 37 39 39 43 43 41 42 45
+RH                     32 30 45 61 68 70 63 42 33 31 47 61 74 79 86 53 40 40 58
+Wind dir                S  W  S  E  N  N  N  N  N NW  E SE SE SE  S  S  S SE  S
+Wind spd                3  3  3  3  5  5  5  6  4  3  1  2  1  1  1  5  5  6  3
+Clouds                 FW FW FW FW SC SC SC FW SC SC SC FW SC SC SC SC B1 B1 B1
+PoP 12hr                      0           0           0           5          30
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                                           
+Rain shwrs                                                              C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          47    67      49    67      51    69      52    73
+Temp          51 50 65 60   53 52 65 61   54 54 67 62   55 56 71 63
+Dewpt         47 46 45 47   48 50 50 51   51 52 54 54   54 55 56 52
+PWind dir        NE    NE       E     E       E     E       E     S
+Wind char        LT    LT      LT    GN      GN    GN      LT    GN
+Avg clouds    B1 B1 B1 SC   SC B1 B1 B2   B2 B2 B2 B1   B1 B1 B1 B1
+PoP 12hr         30    20      40    50      50    50      50    50
+Rain                 S  S    C  C  C  C    C  C  C  C    C  C  C   
+Rain shwrs     C  S                                               C
+Tstms                                                             S
+
+$$
+VAZ060-242100-
+Farmville regional airport-Prince Edward VA
+37.35N  78.43W Elev. 417 ft
+1102 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      65          39          64          40          67
+Temp                   62 63 55 47 44 40 43 54 61 62 55 48 45 42 45 57 64 65 59
+Dewpt                  29 30 31 31 31 30 31 30 30 30 33 33 34 36 39 43 42 43 45
+RH                     28 29 40 53 60 67 62 40 31 30 43 56 65 79 79 59 45 45 60
+Wind dir                W  W  W  N  N  N  N  N  N SE SE SE  S SW  S  S  S SE  S
+Wind spd                4  6  3  5  6  4  3  4  2  2  1  1  0  1  1  5  6  6  2
+Clouds                 FW FW FW FW FW FW FW FW SC SC SC SC FW SC SC SC B1 B1 B1
+PoP 12hr                      0           0           0           5          30
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                              C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          46    66      48    65      49    68      50    69
+Temp          50 49 64 59   52 51 63 59   52 52 66 61   54 53 67 60
+Dewpt         46 44 44 45   46 48 49 51   49 50 54 54   51 52 56 50
+PWind dir        NE    NE       E     E      NE     E       E     S
+Wind char        LT    LT      LT    GN      GN    GN      LT    GN
+Avg clouds    B1 B1 SC SC   B1 B1 B2 B2   B2 B2 B2 B1   B1 B1 B1 B1
+PoP 12hr         30    20      40    50      50    50      50    50
+Rain                 S  S    C  C  C  C    C  C  C  C    C  C  C   
+Rain shwrs     C  S                                               C
+Tstms                                                             S
+
+$$
+VAZ065-242100-
+Mecklenburg-Brunswick regional aiport-Mecklenburg VA
+36.70N  78.05W Elev. 441 ft
+1102 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      65          42          66          43          67
+Temp                   61 63 56 49 46 43 46 57 63 64 57 51 48 45 47 58 64 66 60
+Dewpt                  33 34 36 36 35 34 34 34 34 34 38 38 39 40 43 45 44 45 47
+RH                     35 34 47 61 65 70 63 42 34 32 49 61 71 82 86 62 48 47 62
+Wind dir                N SW SW  S  N NE  N  N  N NW  E  E SE SE SE SE SE  E  S
+Wind spd                1  4  2  3  3  4  5  6  3  2  1  1  1  1  2  4  3  4  2
+Clouds                 FW FW FW FW FW FW FW FW SC B1 SC FW FW SC SC SC B2 B2 B2
+PoP 12hr                      0           0           0           5          30
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                                           
+Rain shwrs                                                              C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          49    67      51    67      52    70      53    72
+Temp          53 52 65 61   54 54 65 61   55 55 68 63   56 56 70 63
+Dewpt         48 48 47 48   48 52 53 53   52 54 56 56   55 55 58 53
+PWind dir         E    NE       E     E       E     E       E     S
+Wind char        LT    LT      LT    GN      GN    GN      LT    GN
+Avg clouds    B1 B1 B1 B1   B1 B1 B2 B2   B2 B2 B2 B1   B1 B1 B1 B1
+PoP 12hr         30    30      40    50      50    40      40    40
+Rain                 C  C    C  C  C  C    C  C  C  C    C  C  C   
+Rain shwrs     C  S                                               C
+Tstms                                                             S
+
+$$
+VAZ088-242100-
+Wakefield municipal airport-Sussex VA
+36.99N  77.00W Elev. 113 ft
+1102 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      64          43          65          43          68
+Temp                   60 62 55 49 46 44 47 57 62 63 56 50 47 45 47 59 65 66 60
+Dewpt                  34 36 39 41 40 38 37 36 36 36 39 40 41 41 43 44 42 44 46
+RH                     37 38 55 74 79 79 68 45 38 36 53 68 79 86 86 57 43 45 60
+Wind dir               NE  W SE SE NE  N  N  N  N  N  E SE SE SE SE SE SE SE  S
+Wind spd                2  2  3  4  3  4  5  6  3  3  1  1  1  1  1  4  3  5  3
+Clouds                 SC FW FW FW FW SC SC SC SC B1 SC SC SC SC SC SC B1 B1 B1
+PoP 12hr                      0           0           0           5          30
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                                           
+Rain shwrs                                                              C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          48    67      50    68      52    69      54    74
+Temp          52 52 65 60   53 53 66 62   55 55 67 63   57 58 72 64
+Dewpt         48 49 49 49   50 52 53 53   53 54 56 56   57 57 57 55
+PWind dir         E    NE       E     E       E     E       E     S
+Wind char        LT    LT      LT    GN      GN    GN      LT    GN
+Avg clouds    B1 B1 B1 B1   SC B1 B1 B2   B2 B2 B2 B1   B1 B1 B1 B1
+PoP 12hr         30    30      40    50      50    50      40    50
+Rain                 C  S    C  C  C  C    C  C  C  C    C  C  C   
+Rain shwrs     C  C                                               C
+Tstms                                                             S
+
+$$
+VAZ087-242100-
+Emporia-Greensville regional airport-Greensville VA
+36.69N  77.48W Elev. 127 ft
+1102 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      64          41          66          42          67
+Temp                   60 62 55 48 44 42 45 57 63 64 57 50 47 44 46 58 64 65 59
+Dewpt                  34 37 38 38 38 36 37 36 36 36 39 39 41 41 43 45 43 44 47
+RH                     37 39 53 68 79 79 73 45 36 35 51 66 79 89 89 62 46 46 64
+Wind dir                N  W  S  S NE  N  N  N  N  N  E  E SE SE SE SE SE  E SE
+Wind spd                2  2  3  3  2  3  6  6  3  3  1  2  1  0  2  4  3  5  3
+Clouds                 FW FW FW FW FW FW FW FW SC B1 SC FW SC SC SC SC B1 B2 B2
+PoP 12hr                      0           0           0           5          30
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                                           
+Rain shwrs                                                              C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          46    67      48    68      51    70      52    74
+Temp          50 50 65 60   52 51 66 61   54 54 68 63   56 56 71 63
+Dewpt         48 48 47 49   49 51 52 53   52 53 56 56   56 56 57 54
+PWind dir         E    NE       E     E       E     E       E     S
+Wind char        LT    LT      LT    GN      GN    GN      LT    GN
+Avg clouds    B1 B1 B1 B1   SC B1 B1 B2   B2 B2 B2 B1   B1 B1 B1 B1
+PoP 12hr         30    30      40    50      50    40      40    40
+Rain                 C  S    C  C  C  C    C  C  C  C    C  C  C   
+Rain shwrs     C  C                                               C
+Tstms                                                             S
+
+$$
+VAZ092-242100-
+Franklin regional airport-Southampton VA
+36.70N  76.90W Elev. 40 ft
+1102 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      63          41          66          43          69
+Temp                   58 61 55 48 45 43 46 57 63 64 57 51 48 45 47 60 66 67 61
+Dewpt                  38 39 41 41 41 40 40 39 38 38 41 41 42 41 44 44 42 43 46
+RH                     47 44 59 77 86 89 79 51 39 38 55 68 80 86 89 55 42 42 58
+Wind dir               NE  N  S SE  E  N  N  N  N  N  E  E  E  E SE SE SE  E SE
+Wind spd                3  2  3  4  2  3  5  8  4  3  2  2  1  1  1  4  3  5  4
+Clouds                 B1 FW FW FW FW FW FW FW SC B1 SC SC SC SC SC SC B1 B2 B2
+PoP 12hr                      0           0           0           5          30
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                                           
+Rain shwrs                                                              C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          48    67      49    69      52    70      53    74
+Temp          52 52 65 60   53 52 67 62   55 55 68 63   56 57 72 64
+Dewpt         49 49 48 49   50 52 52 53   53 55 56 56   56 57 57 56
+PWind dir         E    NE       E     E       E     E       E     S
+Wind char        LT    LT      LT    GN      GN    GN      LT    GN
+Avg clouds    B1 B1 B1 B1   SC B1 B1 B2   B2 B2 B2 B1   B1 B1 B1 SC
+PoP 12hr         30    30      40    50      50    40      40    40
+Rain                 C  S    S  C  C  C    C  C  C  C    C  C  C   
+Rain shwrs     C  C                                               C
+Tstms                                                             S
+
+$$
+VAZ090-242100-
+Williamsburg/Jamestown airport-James City VA
+37.14N  76.42W Elev. 49 ft
+1102 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      63          46          64          47          69
+Temp                   59 62 56 52 49 47 49 57 62 63 57 53 51 49 51 61 66 68 62
+Dewpt                  36 38 41 43 43 39 38 38 38 38 41 42 43 44 45 44 44 45 47
+RH                     42 41 57 71 80 74 66 49 41 39 55 66 74 83 80 53 45 43 58
+Wind dir               NE SW  E SE  N  N  N  N  N NE  E SE SE SE SE SE SE SE SE
+Wind spd                3  3  6  5  4  6  8  8  5  4  3  3  4  4  4  6  6  9  6
+Clouds                 SC FW FW SC SC SC SC SC SC SC SC SC SC FW SC SC B1 B1 B1
+PoP 12hr                      0           0           0           5          30
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                                           
+Rain shwrs                                                              C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          50    65      53    67      54    67      56    73
+Temp          54 53 63 60   55 55 65 62   56 56 65 63   58 59 71 64
+Dewpt         49 50 51 50   51 53 54 54   54 55 57 57   58 59 59 56
+PWind dir         E     E       E     E       E     E       E     S
+Wind char        LT    GN      GN    GN      GN    GN      GN    GN
+Avg clouds    B1 B1 B1 B1   SC B1 B1 B2   B2 B2 B2 B1   B1 B1 B1 B1
+PoP 12hr         30    20      30    50      50    50      40    50
+Rain                 S  S    C  C  C  C    C  C  C  C    C  C  C   
+Rain shwrs     C  C                                               C
+Tstms                                                             S
+
+$$
+VAZ094-242100-
+Newport News/Williamsburg Intl airport-Newport News VA
+37.14N  76.50W Elev. 43 ft
+1102 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      62          47          65          49          67
+Temp                   57 61 56 52 50 48 51 59 63 64 59 54 52 50 52 61 65 66 61
+Dewpt                  37 38 40 42 42 40 39 38 38 38 40 42 43 44 45 43 43 44 45
+RH                     47 42 55 69 74 74 63 45 39 38 49 64 71 80 77 51 45 45 56
+Wind dir               NE  E  E  S  N  N  N  N  N NE  E SE SE SE SE SE SE SE SE
+Wind spd                3  2  4  3  2  5  8  8  5  5  4  2  2  2  3  6  8 10  8
+Clouds                 B1 FW FW FW SC SC SC SC SC B1 SC SC SC FW SC SC B1 B1 B1
+PoP 12hr                      0           0           0           0          30
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                                           
+Rain shwrs                                                              C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          52    65      54    68      55    68      57    74
+Temp          55 54 64 61   56 57 66 63   58 57 67 64   59 60 72 65
+Dewpt         50 51 50 49   52 53 54 53   54 55 56 56   58 59 58 56
+PWind dir         E     E       E     E       E     E      SE     S
+Wind char        LT    GN      GN    GN      BZ    GN      GN    GN
+Avg clouds    B1 B1 B1 SC   SC B1 B1 B2   B2 B2 B2 B1   B1 B1 B1 B1
+PoP 12hr         30    20      30    50      50    50      40    50
+Rain                 S  S    S  C  C  C    C  C  C  C    C  C  C   
+Rain shwrs     C  C                                               C
+Tstms                                                             S
+
+$$
+VAZ094-242100-
+Langley AFB-Hampton VA
+37.07N  76.37W Elev. 10 ft
+1102 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      61          49          65          50          66
+Temp                   57 60 56 53 51 50 52 59 63 64 59 55 53 51 53 61 64 65 61
+Dewpt                  38 39 42 43 43 41 41 40 38 39 40 42 43 44 45 44 43 45 45
+RH                     49 46 59 69 74 71 66 49 39 40 49 61 69 77 74 53 46 48 56
+Wind dir               NE NE  E  S  N  N  N  N NE  E  E SE SE SE SE SE SE SE SE
+Wind spd                5  3  4  3  3  5  9  9  6  6  4  3  3  3  5  6 10 11  9
+Clouds                 B1 FW FW FW FW SC SC SC SC B1 B1 SC SC SC SC SC B1 B1 B1
+PoP 12hr                      0           0           0           5          30
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                                           
+Rain shwrs                                                              C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          54    66      55    70      56    68      58    75
+Temp          56 56 65 62   57 58 68 65   59 58 67 64   60 61 73 66
+Dewpt         51 52 50 50   53 54 54 53   55 55 56 56   58 59 58 57
+PWind dir         E     E       E     E       E     E      SE    SE
+Wind char        LT    GN      GN    GN      BZ    GN      GN    BZ
+Avg clouds    B1 B1 B1 SC   SC B1 B1 B1   B2 B2 B2 B1   B1 B1 B1 B1
+PoP 12hr         30    30      30    50      50    50      40    50
+Rain                 C  S    S  C  C  C    C  C  C  C    C  C  C   
+Rain shwrs     C  C                                               C
+Tstms                                                             S
+
+$$
+VAZ095-242100-
+Norfolk Intl airport-Norfolk/Portsmouth VA
+36.91N  76.20W Elev. 26 ft
+1102 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      60          50          63          51          66
+Temp                   56 59 56 53 52 51 53 59 61 62 58 55 54 52 54 61 64 65 62
+Dewpt                  41 41 41 42 43 42 42 41 40 40 40 42 43 44 44 43 43 44 45
+RH                     57 51 57 66 71 71 66 51 46 44 51 61 66 74 69 51 46 46 54
+Wind dir                N NE  E  S  N NE  N  N NE NE  E SE SE  E SE SE SE SE SE
+Wind spd                6  4  3  4  5  8 10 10  8  6  4  3  3  3  5  8 10 11  9
+Clouds                 B2 FW FW FW FW FW SC SC SC B1 B1 SC SC SC SC SC B1 B1 B1
+PoP 12hr                      0           0           0           5          30
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                                           
+Rain shwrs                                                              C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          55    66      57    69      58    68      60    74
+Temp          57 57 65 62   59 59 68 65   60 60 67 65   61 62 73 67
+Dewpt         50 52 51 50   53 54 54 53   55 56 56 57   58 59 59 57
+PWind dir         E     E       E     E       E     E      SE     S
+Wind char        LT    GN      GN    GN      BZ    BZ      GN    BZ
+Avg clouds    B1 B1 B1 SC   SC B1 B1 B1   B2 B2 B2 B1   B1 B1 B1 B1
+PoP 12hr         30    30      30    50      50    40      40    40
+Rain                 C  S    S  C  C  C    C  C  C  C    C  C  C   
+Rain shwrs     C  C                                               C
+Tstms                                                             S
+
+$$
+VAZ098-242100-
+Oceana NAS-Virginia Beach VA
+36.82N  76.02W Elev. 23 ft
+1102 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      60          50          64          51          66
+Temp                   57 59 55 52 51 51 53 59 62 63 59 55 54 52 54 60 64 65 61
+Dewpt                  40 40 41 42 42 42 42 41 41 40 41 42 42 43 44 43 43 44 46
+RH                     53 49 59 69 71 71 66 51 46 43 51 61 64 71 69 53 46 46 58
+Wind dir                N  N  E SE NE NE  N  N NE NE  E  E  E  E  E SE SE  E SE
+Wind spd                6  5  3  3  3  5  8  9  9  6  4  3  2  3  5  9 11 12  8
+Clouds                 B2 SC FW FW FW FW FW SC SC B1 B1 SC SC SC SC SC B1 B1 B1
+PoP 12hr                      5           0           0           5          30
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                                           
+Rain shwrs                                                              C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          54    67      56    70      57    69      59    75
+Temp          56 57 66 63   58 58 68 65   60 59 68 65   61 62 73 67
+Dewpt         51 52 51 50   53 54 54 53   54 56 56 57   58 59 59 57
+PWind dir         E    NE       E     E       E     E      SE     S
+Wind char        LT    GN      GN    BZ      BZ    BZ      GN    BZ
+Avg clouds    B1 B1 B1 SC   SC B1 B1 B2   B2 B2 B1 B1   B1 B1 B1 B1
+PoP 12hr         30    30      30    50      50    40      40    40
+Rain                 C  S    S  C  C  C    C  C  C  C    C  C  C   
+Rain shwrs     C  C                                               C
+Tstms                                                             S
+
+$$
+VAZ098-242100-
+Virginia Beach Oceanfront-Virginia Beach VA
+36.85N  75.97W Elev. 13 ft
+1102 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      59          52          62          53          64
+Temp                   56 58 56 54 54 54 54 58 61 61 58 56 55 54 55 60 63 63 61
+Dewpt                  41 41 41 43 43 42 42 42 41 41 41 43 43 44 44 44 45 46 47
+RH                     57 53 57 66 66 64 64 55 48 48 53 62 64 69 66 55 52 54 60
+Wind dir                N  N NE  E NE NE  N  N NE NE  E  E  E  E  E SE SE SE SE
+Wind spd                9  6  4  4  6  9 10 11  9  8  5  5  4  5  9  9 11 12 10
+Clouds                 B2 SC FW FW FW FW FW SC SC SC B1 SC SC SC SC SC B1 B1 B1
+PoP 12hr                      5           0           0           5          30
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                                           
+Rain shwrs                                                              C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          56    64      58    68      59    67      60    72
+Temp          58 57 63 62   59 60 67 64   61 60 66 64   61 62 71 66
+Dewpt         51 52 52 51   53 54 54 54   55 56 56 58   59 59 59 58
+PWind dir         E    NE       E     E       E     E      SE     S
+Wind char        GN    GN      GN    BZ      BZ    BZ      GN    BZ
+Avg clouds    B1 B1 B1 SC   SC B1 B1 B2   B2 B2 B1 B1   B1 B1 B1 B1
+PoP 12hr         30    30      30    50      50    40      40    40
+Rain                 C  S    S  C  C  C    C  C  C  C    C  C  C   
+Rain shwrs     C  C                                               C
+Tstms                                                             S
+
+$$
+NCZ015-242100-
+Elizabeth City CG air station/regional airport-Elizabeth City NC
+36.26N  76.17W Elev. 12 ft
+1102 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      61          47          65          51          66
+Temp                   59 60 55 52 50 48 51 59 63 64 59 55 54 52 54 61 64 65 61
+Dewpt                  43 43 43 44 44 43 44 43 42 42 43 44 44 45 46 45 44 45 48
+RH                     55 53 64 74 80 83 77 55 46 45 55 66 69 77 74 56 48 48 62
+Wind dir                N NE NE NE NE NE  N NE NE  E  E  E  E  E  E  E  E  E SE
+Wind spd                9  8  6  5  5  6  6  6  9  9  6  5  5  5  5  8  9  9  8
+Clouds                 B2 B1 SC FW FW FW FW SC SC SC B1 SC SC SC SC B1 B1 B1 B2
+PoP 12hr                      0           0           0           5          30
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                                           
+Rain shwrs                                                              C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          54    66      56    69      57    69      59    73
+Temp          56 56 64 62   58 58 67 64   60 59 68 65   61 61 71 65
+Dewpt         52 52 51 51   53 54 54 54   55 56 57 57   59 59 59 57
+PWind dir         E    NE       E     E       E     E      SE     S
+Wind char        LT    GN      GN    GN      BZ    BZ      GN    BZ
+Avg clouds    B2 B1 B1 SC   SC B1 B1 B1   B2 B2 B1 B1   B1 B1 B1 SC
+PoP 12hr         40    30      40    50      50    40      40    40
+Rain                 C  S    S  C  C  C    C  C  C  C    C  C  C   
+Rain shwrs     C  C                                               C
+Tstms                                                             S
+
+$$
+NCZ015-242100-
+Corolla NC-Outer Banks Currituck
+36.38N  75.83W Elev. 7 ft
+1102 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      59          54          61          54          64
+Temp                   55 58 57 56 55 55 55 58 60 60 58 56 55 55 56 60 63 63 61
+Dewpt                  44 43 43 44 43 43 43 43 43 42 43 44 44 44 45 45 45 47 48
+RH                     66 57 59 64 64 64 64 57 53 51 57 64 66 66 66 58 52 56 62
+Wind dir                N  N NE NE NE NE  N NE NE NE  E  E  E  E  E  E  E  E SE
+Wind spd               14 12  8  8  9 11  9 11 10 10  8  8  6  9  8  9  9  9  9
+Clouds                 B2 B1 SC FW FW FW FW SC SC SC B1 SC SC SC SC B1 B1 B1 B2
+PoP 12hr                      5           0           0           5          30
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                                           
+Rain shwrs                                                              C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          56    64      59    67      59    66      60    70
+Temp          58 57 63 62   60 60 66 64   61 60 65 64   61 62 69 65
+Dewpt         52 51 52 51   53 54 54 54   55 56 56 56   59 59 59 56
+PWind dir         E    NE       E     E       E     E       E     S
+Wind char        GN    BZ      GN    BZ      BZ    BZ      GN    BZ
+Avg clouds    B2 B1 B1 SC   SC B1 B1 B1   B2 B2 B1 B1   B1 B1 B1 B1
+PoP 12hr         40    30      30    50      50    40      40    40
+Rain                 C  S    S  C  C  C    C  C  C  C    C  C  C   
+Rain shwrs     C  C                                               C
+Tstms                                                             S
+
+$$
+VAZ080-242100-
+Chesdin Reservoir
+37.22N  77.53W Elev. 108 ft
+1102 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      65          42          65          43          69
+Temp                   62 63 56 48 46 43 46 56 62 63 56 50 47 45 47 60 66 67 60
+Dewpt                  30 31 34 35 35 34 33 33 32 32 35 37 39 39 43 43 41 42 45
+RH                     30 30 43 60 65 70 60 42 32 31 45 61 74 79 86 53 40 40 58
+Wind dir                W  W NE  E  N  N  N  N  N NW  E SE SE SE  S  S  S SE  S
+Wind spd                2  4  3  3  5  5  5  6  4  4  1  2  1  1  1  5  5  6  3
+Clouds                 FW FW FW FW SC SC SC FW SC SC SC FW SC SC SC SC B1 B1 B1
+PoP 12hr                      0           0           0           5          30
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                                           
+Rain shwrs                                                              C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          47    67      49    67      51    68      52    72
+Temp          51 50 65 60   53 52 65 61   54 54 66 62   55 56 70 63
+Dewpt         47 46 45 46   48 50 50 51   51 52 54 54   54 55 56 52
+PWind dir        NE    NE       E     E       E     E       E     S
+Wind char        LT    LT      LT    GN      GN    GN      LT    GN
+Avg clouds    B1 B1 B1 SC   SC B1 B1 B2   B2 B2 B2 B1   B1 B1 B1 B1
+PoP 12hr         30    20      40    50      50    50      50    50
+Rain                 S  S    C  C  C  C    C  C  C  C    C  C  C   
+Rain shwrs     C  S                                               C
+Tstms                                                             S
+
+$$
+VAZ065-242100-
+John Kerr Reservoir
+36.60N  78.28W Elev. 250 ft
+1102 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      65          42          65          44          67
+Temp                   61 63 56 49 46 43 46 56 62 63 56 51 48 46 48 58 64 65 59
+Dewpt                  32 34 36 37 35 34 35 34 34 35 38 38 40 41 44 45 44 45 48
+RH                     33 34 47 63 65 70 65 43 35 35 51 61 74 83 86 62 48 48 67
+Wind dir               SW SW  W  S  N  N  N  N  N NW NE  E SE SE SE SE  E  E  S
+Wind spd                2  5  3  4  4  5  5  6  2  2  2  1  2  1  2  4  3  4  2
+Clouds                 FW FW FW FW FW FW FW FW SC B1 SC SC FW SC SC B1 B2 B2 B2
+PoP 12hr                      0           0           0           5          30
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                              C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          47    67      51    66      52    70      53    71
+Temp          51 52 65 60   54 53 65 61   55 55 68 63   56 56 69 62
+Dewpt         49 47 47 49   49 51 53 53   52 53 56 56   54 55 57 53
+PWind dir         E    NE       E     E       E     E       E     S
+Wind char        LT    LT      LT    GN      GN    GN      LT    GN
+Avg clouds    B1 B1 B1 B1   B1 B1 B2 B2   B2 B2 B2 B1   B1 B1 B1 B1
+PoP 12hr         30    30      50    50      50    40      40    40
+Rain                 S  C    C  C  C  C    C  C  C  C    C  C  C   
+Rain shwrs     C  S                                               C
+Tstms                                                             S
+
+$$
+

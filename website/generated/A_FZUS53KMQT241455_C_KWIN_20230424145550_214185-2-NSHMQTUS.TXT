@@ -1,0 +1,201 @@
+FZUS53 KMQT 241455
+NSHMQT
+
+Nearshore Marine Forecast
+National Weather Service Marquette MI
+1055 AM EDT Mon Apr 24 2023
+
+For waters within five nautical miles of shore
+
+Waves are the significant wave height - the average of the
+highest 1/3 of the wave spectrum. Occasional wave height is the
+average of the highest 1/10 of the wave spectrum.
+
+LMZ221-248-250-242000-
+Green Bay North of line from Cedar River MI to Rock Island
+Passage-
+Seul Choix Point to Point Detour MI-
+5NM East of a line from Fairport MI to Rock Island Passage-
+1055 AM EDT Mon Apr 24 2023
+
+.REST OF TODAY...Northwest wind less than 10 knots backing west
+by late morning. Partly cloudy. A slight chance of rain showers
+and snow showers late. Waves calm to 1 foot. 
+.TONIGHT...North wind less than 10 knots. Partly cloudy with a
+slight chance of rain showers through late evening, then mostly
+cloudy by midnight. Waves calm to 1 foot. 
+.TUESDAY...North wind less than 10 knots. Mostly cloudy. Waves
+calm to 1 foot. 
+.TUESDAY NIGHT...North wind 5 to 15 knots. Partly cloudy. Waves
+building to 1 to 2 feet. 
+
+$$
+
+LSZ240-241-242000-
+Saxon Harbor WI to Black River MI-
+Black River to Ontonagon MI-
+1055 AM EDT Mon Apr 24 2023 /955 AM CDT Mon Apr 24 2023/
+
+.REST OF TODAY...Northeast wind 5 to 15 knots. Partly cloudy.
+Waves calm to 1 foot building to 1 to 2 feet. 
+.TONIGHT...East wind less than 10 knots backing northeast late.
+Partly cloudy. Waves 1 to 2 feet. 
+.TUESDAY...Northeast wind 5 to 15 knots. Mostly cloudy with a
+slight chance of snow showers in the morning, then mostly sunny
+in the afternoon. Waves building to 2 to 3 feet, then subsiding
+to 1 to 2 feet. 
+.TUESDAY NIGHT...Variable wind less than 10 knots becoming west
+less than 10 knots after midnight. Mostly clear. Waves 1 to
+2 feet. 
+
+$$
+
+LSZ242-243-242000-
+Ontonagon to Upper Entrance of Portage Canal MI-
+Upper Entrance of Portage Canal to Eagle River MI-
+1055 AM EDT Mon Apr 24 2023
+
+.REST OF TODAY...Northeast wind less than 10 knots. Partly
+cloudy. Waves 1 to 2 feet. 
+.TONIGHT...North wind 5 to 15 knots. Partly cloudy through
+midnight then becoming mostly cloudy. Waves 1 to 2 feet. 
+.TUESDAY...Northeast wind 10 to 15 knots. Mostly cloudy. A slight
+chance of snow showers in the morning. Waves building to 2 to
+3 feet, then subsiding to 1 to 2 feet. 
+.TUESDAY NIGHT...Northwest wind less than 10 knots. Partly
+cloudy. Waves 1 to 2 feet. 
+
+$$
+
+LSZ244-245-242000-
+Eagle River to Manitou Island MI-
+Manitou Island to Point Isabelle MI-
+1055 AM EDT Mon Apr 24 2023
+
+.REST OF TODAY...North wind 10 to 15 knots. Mostly cloudy. A
+slight chance of rain showers and snow showers late in the
+morning. Waves 2 to 3 feet subsiding to 1 to 2 feet. 
+.TONIGHT...North wind 10 to 15 knots veering northeast late.
+Mostly cloudy. Waves building to 2 to 3 feet. 
+.TUESDAY...Northeast wind 10 to 15 knots backing north in the
+afternoon. Cloudy with a slight chance of snow showers in the
+morning, then partly cloudy in the afternoon. Waves subsiding to
+1 to 2 feet. 
+.TUESDAY NIGHT...North wind less than 10 knots. Partly cloudy in
+the evening then becoming mostly cloudy. Waves 1 to 2 feet. 
+
+$$
+
+LSZ246-242000-
+Point Isabelle to Lower Entrance of Portage Canal MI-
+1055 AM EDT Mon Apr 24 2023
+
+.REST OF TODAY...North wind less than 10 knots veering northeast
+by late morning. Partly cloudy. Waves calm to 1 foot. 
+.TONIGHT...North wind less than 10 knots. Partly cloudy through
+late evening then becoming mostly cloudy. Waves calm to 1 foot. 
+.TUESDAY...North wind less than 10 knots. Cloudy with a slight
+chance of snow showers in the morning, then partly cloudy in the
+afternoon. Waves building to 1 to 2 feet. 
+.TUESDAY NIGHT...Northwest wind less than 10 knots. Partly
+cloudy. Waves calm to 1 foot. 
+
+$$
+
+LSZ247-242000-
+Lower Entrance of Portage Canal To Huron Islands MI Including
+Keweenaw and Huron Bays-
+1055 AM EDT Mon Apr 24 2023
+
+.REST OF TODAY...Northwest wind less than 10 knots veering
+northeast late. Partly cloudy. Waves calm to 1 foot building to
+1 to 2 feet. 
+.TONIGHT...Northeast wind less than 10 knots backing northwest by
+midnight. Mostly clear through late evening then becoming mostly
+cloudy. Waves 1 to 2 feet. 
+.TUESDAY...Northeast wind 5 to 15 knots. Mostly cloudy. A slight
+chance of snow showers in the morning. Waves 1 to 2 feet. 
+.TUESDAY NIGHT...Northwest wind less than 10 knots. Partly
+cloudy. Waves 1 to 2 feet. 
+
+$$
+
+LSZ248-242000-
+Huron Islands to Marquette MI-
+1055 AM EDT Mon Apr 24 2023
+
+.REST OF TODAY...Northwest wind 10 to 15 knots veering north
+late. Partly cloudy. Waves 2 to 3 feet. 
+.TONIGHT...North wind 10 to 15 knots backing northwest by
+midnight. Partly cloudy through late evening then becoming
+cloudy. A slight chance of snow showers by midnight. Waves
+subsiding to 1 to 2 feet, then building to 2 to 3 feet. 
+.TUESDAY...North wind 5 to 15 knots. Mostly cloudy. A slight
+chance of snow showers in the morning. Waves subsiding to 1 to
+2 feet. 
+.TUESDAY NIGHT...Northwest wind less than 10 knots. Partly cloudy
+in the evening then becoming mostly cloudy. Waves 1 to 2 feet. 
+
+$$
+
+LSZ249-242000-
+Marquette to Munising MI-
+1055 AM EDT Mon Apr 24 2023
+
+.REST OF TODAY...Northwest wind 10 to 15 knots veering north
+late. Mostly cloudy. A slight chance of rain showers and snow
+showers by late morning. Waves 2 to 4 feet subsiding to 2 to
+3 feet. 
+.TONIGHT...North wind 10 to 15 knots backing northwest by
+midnight, then veering north late. Cloudy. A slight chance of
+snow showers by midnight. A chance of snow showers late. Waves
+2 to 3 feet. 
+.TUESDAY...North wind 10 to 15 knots. Cloudy. A slight chance of
+snow showers in the morning. Waves subsiding to 1 to 2 feet, then
+building to 2 to 3 feet. 
+.TUESDAY NIGHT...North wind 10 to 15 knots. Mostly cloudy. Waves
+building to 2 to 3 feet. 
+
+$$
+
+LSZ250-242000-
+Munising to Grand Marais MI-
+1055 AM EDT Mon Apr 24 2023
+
+.REST OF TODAY...Northwest wind 10 to 15 knots veering north
+late. Cloudy with a chance of snow showers possibly mixed with
+rain showers. Waves 2 to 4 feet subsiding to 2 to 3 feet. 
+.TONIGHT...North wind 10 to 15 knots veering northeast late.
+Cloudy. A slight chance of rain showers and snow showers through
+late evening, then a slight chance of snow showers by midnight.
+Waves 2 to 3 feet. 
+.TUESDAY...North wind 10 to 15 knots. Mostly cloudy. A slight
+chance of snow showers in the morning. Waves subsiding to 1 to
+2 feet. 
+.TUESDAY NIGHT...North wind 10 to 15 knots. Mostly cloudy in the
+evening then becoming partly cloudy. Waves building to 2 to
+3 feet. 
+
+$$
+
+LSZ251-242000-
+Grand Marais to Whitefish Point MI-
+1055 AM EDT Mon Apr 24 2023
+
+.REST OF TODAY...Northwest wind 10 to 15 knots. Cloudy with a
+chance of snow showers possibly mixed with rain showers. Waves
+2 to 3 feet subsiding to 1 to 2 feet, then building to 2 to
+3 feet. 
+.TONIGHT...Northwest wind 15 to 20 knots veering northeast 10 to
+15 knots late. Cloudy. A chance of snow showers through late
+evening, then a slight chance of snow showers by midnight. Waves
+2 to 3 feet. 
+.TUESDAY...North wind 10 to 15 knots backing northwest 15 to
+20 knots in the afternoon. Mostly cloudy. A slight chance of snow
+showers in the morning. Waves 2 to 3 feet. 
+.TUESDAY NIGHT...Northwest wind 10 to 15 knots veering north
+after midnight. Mostly cloudy. Waves subsiding to 1 to 2 feet. 
+
+$$
+
+WFO MQT

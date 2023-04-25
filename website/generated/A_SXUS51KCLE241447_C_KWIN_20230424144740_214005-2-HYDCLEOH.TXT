@@ -1,0 +1,68 @@
+SXUS51 KCLE 241447
+HYDCLE
+Ohz003-006>014-017>023-027>033-036>038-047-089-paz001>003-251046 
+
+Daily Hydrometeorological Data Summary
+National Weather Service Cleveland OH
+1047 AM EDT Mon Apr 24 2023
+
+
+
+        Summary of Observations from Cooperative Observers
+  ...All data is for the 24 hour period ending at 8AM EDT/7AM EST...
+
+
+                         -Temperature--  Total-  ---Snow---
+  Station                Max   Min  7AM  Precip  New  Depth
+____________________________________________________________
+...Northwest Ohio...
+  Findlay                  -    -    -       -       -     -
+  Grand Rapids             -    -    -    0.04       -     -
+
+
+...North Central Ohio...
+  Bucyrus                 48   35   35    0.14       T      
+  Elyria                   -    -    -       -       -     -
+  Fitchville               -    -    -       -       -     -
+  Fremont                  -    -    -       -       -     -
+  Galion Water Works      45   33   35    0.03       -     -
+  Milan                    -    -    -       -       -     -
+  Norwalk WWTP             -    -    -       -       -     -
+  Oberlin                  -    -    -    0.10     0.0     0
+  Penfield                 -    -    -       -       -     -
+
+
+...Ohio Central...
+  Marion                   -    -    -       -       -     -
+
+
+...Ohio Central Highlands...
+  Centerburg 2SE           -    -    -       -       -     -
+  Congress LARC            -    -    -       -       -     -
+  Wooster OARDC            -    -    -       -       -     -
+
+
+...Northeast Ohio...
+  Berlin Lake              -    -   39    0.06       -     0
+  Chardon                  -    -    -       -       -     -
+  Chardon LARC             -    -    -       -       -     -
+  Kirwan Dam              47   37   38    0.01       -     0
+  Mosquito Creek LK       46   36   38    0.01       -     -
+  Munroe Falls            45   36   37    0.05       -     0
+  Old Portage              -    -    -    0.00       -     -
+  Ravenna LARC             -    -    -       -       -     -
+  Warren 3S                -    -    -       -       -     -
+
+
+...Northwest Pennsylvania...
+  Edinboro                 -    -    -       -       -     -
+  Erie Intl Apt           45   38   39    0.03       -     -
+  Port Meadville Apt      43   36   37    0.00       -     -
+  Springboro              42   36   37    0.08     0.0     0
+  Titusville Water Wr     44   36   37    0.01     0.0     0
+
+
+
+
+$$
+

@@ -1,0 +1,39 @@
+FPPQ61 PGUM 241641
+SFTPQ1
+FMZ013-001-MHZ002-250745-
+
+Tabular State Forecast for Eastern Micronesia
+National Weather Service Tiyan GU
+241 AM ChST Tue Apr 25 2023
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Today    Wed      Thu      Fri      Sat      Sun      Mon      
+   Apr 25   Apr 26   Apr 27   Apr 28   Apr 29   Apr 30   May 01   
+
+...FEDERATED STATES OF MICRONESIA...
+   Pohnpei Airport
+   Shwrs    Shwrs    Shwrs    Shwrs    Shwrs    Shwrs    Ptsunny  
+     /87    79/87    79/86    79/86    79/87    79/87    79/87    
+      /70    60/50    50/60    60/60    50/50    40/50    40/40   
+
+   Kosrae Airport
+   Shwrs    Mocldy   Shwrs    Shwrs    Shwrs    Mocldy   Mocldy   
+     /86    79/85    79/85    78/85    78/86    78/86    79/85    
+      /50    40/40    40/50    50/60    40/50    50/40    40/40   
+
+...REPUBLIC OF THE MARSHALL ISLANDS...
+   Majuro Airport
+   Mocldy   Shwrs    Mocldy   Ptsunny  Ptsunny  Ptsunny  Shwrs    
+     /86    79/86    79/86    80/86    80/86    80/86    78/84    
+      /40    40/50    50/40    40/40    40/40    40/40    50/50   
+
+
+$$

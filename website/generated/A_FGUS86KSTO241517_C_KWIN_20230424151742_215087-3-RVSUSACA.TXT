@@ -1,0 +1,81 @@
+FGUS86 KSTO 241517
+RVSUSA
+Hydrologic Statement
+National Weather Service Sacramento CA
+817 AM PDT Mon Apr 24 2023
+
+...Minor Fluctuations on the Upper Sacramento River...
+
+Forecasts are based on present and forecasted meteorological and 
+hydrologic conditions at time of issuance.
+
+Unlisted forecast points are expected to remain below monitor stage. 
+All those affected by river conditions should remain alert for rapid 
+changes and for possible forecast revisions.
+
+For more hydrologic information and stage definitions refer to the 
+following web site: http://www.wrh.noaa.gov/sto/hydro_data.php
+
+CAC103-251530-
+817 AM PDT Mon Apr 24 2023
+
+Sacramento River Above
+ Bend Bridge 4/24 7:45 stage 3.1 ft
+Forecast to fluctuate near 3.0 FT into this afternoon then forecast 
+to rise to near 5.5 FT late tonight.
+ Monitor stage 22.0 ft, Flood stage 27.0
+
+
+$$
+
+CAC103-251530-
+817 AM PDT Mon Apr 24 2023
+
+Sacramento River At
+ Tehama Bridge 4/24 8:00 stage 198.4 ft
+Forecast to fluctuate near 198.5 FT into this evening then forecast 
+to rise to near 199.5 FT late tonight then forecast to fluctuate 
+near 199.5 FT into tomorrow morning.
+ Monitor stage 206.5 ft, Flood stage 209.5
+
+
+$$
+
+CAC103-251530-
+817 AM PDT Mon Apr 24 2023
+
+Sacramento River At
+ Vina Woodson Bridge 4/24 7:45 stage 168.3 ft
+Forecast to fluctuate near 168.5 FT into late this evening then 
+forecast to rise to near 169.5 FT tomorrow morning then forecast to 
+fluctuate near 169.5 FT into tomorrow morning.
+ Monitor stage 180.0 ft, Flood stage 183.0
+
+
+$$
+
+CAC007-021-251530-
+817 AM PDT Mon Apr 24 2023
+
+Sacramento River At
+ Ord Ferry 4/24 7:45 stage 98.3 ft
+Forecast to fluctuate near 98.5 FT into late tonight then forecast 
+to rise to near 99.0 FT tomorrow morning with continued rise 
+expected.
+ Monitor stage 110.0 ft, Flood stage 114.0
+
+
+$$
+
+CAC101-011-251530-
+817 AM PDT Mon Apr 24 2023
+
+Sacramento River At
+ Colusa Bridge 4/24 7:45 stage 47.3 ft
+Forecast to fluctuate near 47.5 FT into tomorrow morning then 
+forecast to rise to near 50.0 FT Wednesday morning with continued 
+rise expected.
+ Monitor stage 63.0 ft, Flood stage 70.0
+
+
+$$

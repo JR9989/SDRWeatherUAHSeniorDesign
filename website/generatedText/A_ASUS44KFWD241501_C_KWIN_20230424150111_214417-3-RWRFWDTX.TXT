@@ -1,0 +1,118 @@
+ASUS44 KFWD 241501
+RWRTX 
+NORTH TEXAS HOURLY WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE FORT WORTH TX
+1000 AM CDT MON APR 24 2023
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+TXZ118-119-241600-
+DALLAS/FORT WORTH METROPLEX
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+DFW AIRPORT    PTSUNNY   56  39  53 SE5       30.16S                  
+DALLAS LOVE    PTSUNNY   56  37  49 VRB7      30.16F                  
+FTW MEACHAM    CLOUDY    54  41  61 E8        30.16S                  
+DAL-EXECUTIVE  PTSUNNY   53  39  59 E9        30.15F                  
+FTW-ALLIANCE   PTSUNNY   54  38  54 E7        30.16S                  
+FTW-NAS-JRB    CLOUDY    54  40  59 E7        30.17S                  
+FTW-SPINKS     PTSUNNY   55  41  58 SE5       30.19R                  
+ARLINGTON      CLOUDY    55  37  50 E7        30.17S                  
+GRAND PRAIRIE    N/A     54  39  58 E5        30.18S                  
+ADDISON        PTSUNNY   57  30  35 E13       30.17                   
+MESQUITE       CLOUDY    55  45  67 E7        30.18R                  
+$$
+
+TXZ091>094-102>105-117-120-121-131>134-241600-
+NORTH CENTRAL TEXAS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+SHRMAN/DENISON MOSUNNY   55  41  58 SE12      30.19F                  
+BOWIE          CLOUDY    53  38  56 MISG      30.16F                  
+DECATUR        FAIR      53  41  64 E9        30.16F                  
+DENTON         FAIR      55  40  56 E8        30.17S                  
+MCKINNEY       CLOUDY    55  43  63 E8        30.18S                  
+ROCKWALL       FAIR      53  40  59 E8        30.18S                  
+TERRELL        PTSUNNY   54  36  50 E10       30.17S                  
+CLEBURNE       MOSUNNY   54  43  66 E7        30.18R                  
+$$
+
+TXZ083>090-098>101-113>116-127>130-139>142-154-155-241600-
+WESTERN NORTH TEXAS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+WICHITA FALLS  CLOUDY    53  41  63 S9        30.16S                  
+WF-KICKAPOO    CLOUDY    52  38  58 S10       30.17S                  
+ABILENE        CLOUDY    51  44  77 SE6       30.14R                  
+ABILENE-DYESS  CLOUDY    50  40  68 E3        30.10S                  
+GRAHAM         CLOUDY    54  44  70 VRB3      30.14F                  
+BRECKENRIDGE   CLOUDY    53  45  75 S6        30.15S                  
+MINERAL WELLS  PTSUNNY   55  42  61 SE7       30.14F                  
+STEPHENVILLE   CLOUDY    51  45  79 SE6       30.17F                  
+$$
+
+TXZ143>147-156>162-174-175-241600-
+CENTRAL TEXAS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+WACO           FAIR      53  47  79 NE6       30.16S                  
+WACO-TSTC      SUNNY     55  46  71 N6        30.16R                  
+WACO-MCGREGOR  FAIR      54  47  77 NE6       30.16S                  
+CORSICANA      CLOUDY    53  43  68 E6        30.17S                  
+TEMPLE         CLOUDY    53  47  79 NE7       30.15S                  
+KILLEEN        CLOUDY    51  45  79 E5        30.14R                  
+KILLEEN-SKYLRK CLOUDY    53  45  74 NE6       30.15S                  
+FORT HOOD      CLOUDY    53  46  77 NE5       30.14S                  
+$$
+
+TXZ095>097-106>112-122>126-135>138-148>153-164>167-241600-
+EAST TEXAS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PARIS          LGT RAIN  56  39  53 E10       30.19R                  
+GILMER         FAIR      52  40  63 NE5       30.17F                  
+TYLER          CLOUDY    54  39  57 E9        30.16R                  
+LONGVIEW       CLOUDY    55  41  59 E9        30.16S                  
+MARSHALL       FAIR      58  41  52 E9        30.16R                  
+JACKSONVILLE   CLOUDY    54  43  66 E9        30.16S                  
+NACOGDOCHES    FAIR      56  44  64 NE6       30.16R                  
+LUFKIN         CLOUDY    56  45  66 E10G16    30.14R                  
+$$
+
+SUPPLEMENTAL OBSERVATIONS (NWS FORT WORTH AREA)
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+$$
+
+SUPPLEMENTAL OBSERVATIONS (NWS NORMAN AREA)
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+GOODLETT         N/A     50  40  67 S7        30.15                   
+ODELL            N/A     50  41  70 S7        30.17S                  
+CROWELL          N/A     51  43  73 S7        30.16F                  
+KNOX CITY        N/A     51  42  73 S7        30.16                   
+SEYMOUR          N/A     51  43  73 S6        30.17R                  
+$$
+
+SUPPLEMENTAL OBSERVATIONS (NWS SAN ANGELO AREA)
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+WEINERT          N/A     51  41  68 S7        30.16F                  
+HASKELL          N/A     51  43  75 SE5       30.14                   
+THROCKMORTON     N/A     51  44  76 CALM      30.17                   
+STAMFORD         N/A     51  44  76 SE3       30.16                   
+CLYDE            N/A     50  44  80 SE6       30.15S                  
+$$
+
+SUPPLEMENTAL OBSERVATIONS (NWS SHREVEPORT AREA)
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+$$
+
+SUPPLEMENTAL OBSERVATIONS ARE A COLLECTION OF AUTOMATED INSTRUMENTS
+THAT ARE MAINTAINED BY A VARIETY OF FEDERAL AND STATE AGENCIES. 
+CERTAIN ELEMENTS...SUCH AS HUMIDITY VALUES AND SUSTAINED WIND 
+SPEEDS...MAY BE APPROXIMATED.
+
+  

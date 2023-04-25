@@ -1,0 +1,145 @@
+FZNT21 KWBC 241444
+OFFNT1
+
+Offshore Waters Forecast
+NWS Ocean Prediction Center Washington DC
+1044 AM EDT Mon Apr 24 2023
+
+New England continental shelf and slope waters from 25 nm
+offshore to the Hague Line, except to 1000 fm south of New
+England.
+
+Seas given as significant wave height, which is the average
+height of the highest 1/3 of the waves. Individual waves may be
+more than twice the significant wave height.
+
+ANZ898-250300-
+1044 AM EDT Mon Apr 24 2023
+
+.SYNOPSIS FOR NEW ENGLAND WATERS...Low pressure will persist 
+near the SE coast of Maine today into tonight, and then dissipate
+Tue. High pressure will build over southern New England Tue 
+night, overspread most of the waters Wed into Thu, and then 
+prevail from the northern waters northward Thu night through Fri 
+night as low pressure slowly organizes to the S of the region. 
+
+$$
+
+ANZ800-250300-
+Gulf of Maine to the Hague Line-
+1044 AM EDT Mon Apr 24 2023
+
+.TODAY...E to SE winds 10 to 20 kt. Seas 5 to 9 ft. Showers
+likely with vsby 1 nm or less. 
+.TONIGHT...SE winds 10 to 20 kt. Seas 4 to 7 ft. Showers likely.
+.TUE...SE winds 5 to 15 kt. Seas 3 to 5 ft. Chance of showers. 
+.TUE NIGHT...SE winds 5 to 15 kt, becoming variable. Seas 3 to
+5 ft. Chance of showers. 
+.WED...E to NE winds less than 10 kt, becoming E to SE. Seas
+3 to 4 ft. 
+.WED NIGHT...S to SE winds 5 to 10 kt, becoming variable. Seas
+3 to 4 ft. 
+.THU...Variable winds less than 10 kt, becoming S to SW. Seas
+3 to 4 ft. 
+.THU NIGHT...W winds 5 to 15 kt, becoming 5 to 10 kt. Seas 3 to
+4 ft. 
+.FRI...N to NE winds 5 to 10 kt. Seas 3 to 5 ft. 
+.FRI NIGHT...E to NE winds 10 to 15 kt. Seas 3 to 6 ft. 
+
+$$
+
+ANZ805-250300-
+Georges Bank between Cape Cod and 68W north of 1000 FM-
+1044 AM EDT Mon Apr 24 2023
+
+.TODAY...SE winds 10 to 20 kt. Seas 4 to 8 ft. Scattered
+showers. Areas of fog with vsby 1 NM or less. 
+.TONIGHT...S to SE winds 5 to 15 kt, becoming 5 to 10 kt. Seas
+4 to 6 ft. Chance of showers with vsby 1 nm or less. 
+.TUE...Variable winds less than 10 kt. Seas 4 to 6 ft. Chance of
+showers. 
+.TUE NIGHT...Variable winds less than 10 kt. Seas 3 to 6 ft.
+Chance of showers. 
+.WED...E to NE winds 5 to 10 kt. Seas 3 to 6 ft. 
+.WED NIGHT...E to NE winds 5 to 10 kt, becoming variable. Seas
+3 to 5 ft. 
+.THU...E to NE winds 5 to 10 kt. Seas 3 to 5 ft. 
+.THU NIGHT...Variable winds less than 10 kt, becoming N to NW.
+Seas 3 to 4 ft. 
+.FRI...N to NE winds less than 10 kt, becoming NE. Seas 3 to
+6 ft. 
+.FRI NIGHT...E to NE winds 10 to 20 kt. Seas 5 to 9 ft. 
+
+$$
+
+ANZ900-250300-
+Georges Bank between 68W and the Hague Line-
+1044 AM EDT Mon Apr 24 2023
+
+.TODAY...E winds 10 to 20 kt. Seas 5 to 9 ft. Scattered showers
+with vsby 1 nm or less. 
+.TONIGHT...E to SE winds 5 to 15 kt. Seas 5 to 6 ft. Scattered
+showers. 
+.TUE...E winds less than 10 kt, becoming E to SE. Seas 4 to
+6 ft. Chance of showers. 
+.TUE NIGHT...E to SE winds less than 10 kt, becoming E to NE.
+Seas 4 to 6 ft. Chance of showers.
+.WED...E to NE winds 5 to 10 kt. Seas 3 to 6 ft. 
+.WED NIGHT...E to NE winds 5 to 10 kt. Seas 3 to 5 ft. 
+.THU...N to NE winds 5 to 10 kt. Seas 3 to 5 ft. 
+.THU NIGHT...N to NE winds less than 10 kt, becoming N to NW.
+Seas 3 to 4 ft. 
+.FRI...N to NW winds 5 to 10 kt, becoming N to NE 5 to 15 kt.
+Seas 4 to 7 ft. 
+.FRI NIGHT...E to NE winds 15 to 20 kt. Seas 5 to 9 ft. 
+
+$$
+
+ANZ810-250300-
+South of New England between the Great South Channel and Montauk
+Point to 1000 FM-
+1044 AM EDT Mon Apr 24 2023
+
+.TODAY...W to NW winds 5 to 10 kt. Seas 4 to 6 ft. Areas of fog
+with vsby 1 nm or less. 
+.TONIGHT...W to SW winds 5 to 10 kt, becoming variable. Seas
+3 to 5 ft. 
+.TUE...W to SW winds less than 10 kt. Seas 3 to 5 ft. 
+.TUE NIGHT...W to NW winds less than 10 kt, becoming N to NW.
+Seas 3 to 5 ft. 
+.WED...N winds 5 to 10 kt, becoming E to NE. Seas 3 to 5 ft. 
+.WED NIGHT...Variable winds 5 to 10 kt. Seas 3 to 5 ft. 
+.THU...E to NE winds 5 to 10 kt. Seas 3 to 5 ft. 
+.THU NIGHT...E to SE winds 5 to 10 kt, becoming E to NE. Seas
+3 to 4 ft. 
+.FRI...E winds 5 to 15 kt, increasing to 10 to 20 kt. Seas 4 to
+7 ft. 
+.FRI NIGHT...E winds 15 to 20 kt. Seas 5 to 9 ft. 
+
+$$
+
+ANZ815-250300-
+South of Long Island between Montauk Point and Sandy Hook to
+1000 FM-
+1044 AM EDT Mon Apr 24 2023
+
+.TODAY...W winds 5 to 10 kt, becoming W to SW 5 to 15 kt. Seas
+3 to 5 ft. 
+.TONIGHT...W to SW winds 5 to 15 kt, becoming W to NW 5 to
+10 kt. Seas 3 to 4 ft. 
+.TUE...W winds 5 to 15 kt. Seas 3 to 4 ft. 
+.TUE NIGHT...W winds less than 10 kt, becoming N to NW. Seas
+3 to 5 ft. 
+.WED...E to SE winds 5 to 10 kt, becoming S to SE. Seas 3 to
+4 ft. 
+.WED NIGHT...S winds 5 to 10 kt, becoming SW. Seas 3 to 4 ft. 
+.THU...S winds 5 to 10 kt, becoming E to SE. Seas 3 to 4 ft. 
+.THU NIGHT...E winds 5 to 10 kt, becoming 5 to 15 kt. Seas 3 to
+4 ft. 
+.FRI...E winds 10 to 15 kt, increasing to 15 to 20 kt. Seas 5 to
+8 ft. 
+.FRI NIGHT...E winds 15 to 20 kt. Seas 6 to 10 ft. 
+
+$$
+
+.Forecaster Collins. Ocean Prediction Center.

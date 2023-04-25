@@ -1,0 +1,141 @@
+ASUS43 KLOT 241510
+RWRIL 
+
+ILLINOIS REGIONAL WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE CHICAGO/ROMEOVILLE IL
+1000 AM CDT MON APR 24 2023
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+* THESE STATIONS ARE NOT UNDER NWS QUALITY CONTROL. THEY ALSO MAY NOT
+  REPORT WEATHER SUCH AS PRECIPITATION OR FOG.
+
+ILZ001-002-007-009-015-016-024-241600-
+NORTHWEST ILLINOIS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MOLINE         SUNNY     52  25  35 CALM      30.21S TC  11           
+STERLING*      SUNNY     47  26  44 W8        30.23S TC   8           
+$$
+
+ILZ003-004-008-010-011-017-018-241600-
+NORTH CENTRAL ILLINOIS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ROCKFORD       MOSUNNY   46  24  42 W9        30.22R TC   8           
+FREEPORT*      SUNNY     45  30  54 NW7       30.22S TC   7           
+ROCHELLE*      SUNNY     44  29  56 W8        30.22S TC   7           
+PERU*          SUNNY     48  24  38 W9        30.23S TC   9           
+$$
+
+ILZ005-006-012>014-019>023-241600-
+NORTHEAST ILLINOIS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CHICAGO-OHARE  MOSUNNY   44  22  41 W6        30.19S TC   7           
+CHICAGO-MIDWAY MOSUNNY   46  25  43 W7        30.20S TC   8           
+AURORA         MOSUNNY   44  26  49 W9G20     30.20S TC   7           
+JOLIET*        SUNNY     46  29  51 W9        30.22S TC   8           
+WAUKEGAN       MOSUNNY   45  21  38 W9        30.18S TC   7           
+DUPAGE AIRPORT SUNNY     44  27  51 VRB6      30.19S TC   7           
+KANKAKEE*      SUNNY     47  25  42 W14       30.23S TC   8           
+WHEELING       PTSUNNY   47  24  40 NW7       30.20S TC   8           
+MORRIS*          N/A     47  27  45 NW13      30.21S TC   8           
+ROMEOVILLE*    SUNNY     45  28  53 SW8       30.22S TC   7           
+LANSING*       PTSUNNY   46  27  48 W6        30.21S TC   8           
+NORTHERLY ISL*   N/A     44  21  40 SW7         N/A  TC   7           
+$$
+
+LMZ740>746-241600-
+SOUTHERN LAKE MICHIGAN
+  
+STATION/POSITION SKY/WX   TEMP    WIND        PRES    VSBY  WAVE
+                          AIR SEA DIR/SP/G                  HT/PER
+                          (F)     (DEG/KT/KT) (MB)    (MI)  (FT/S)
+WINTHROP HARBOR            45 44                N/A           0
+WAUKEGAN HARBOR            44 44                N/A           0
+NORTHERLY ISL              44     300/  3/ 12   N/A
+CALUMET HARBOR                    280/  2/  9 1022.1
+BURNS HARBOR               42     290/  4/  7 1023.4R
+ST. JOSEPH BUOY            40 44  270/ 10/ 12 1023.9R         2/ 3
+$$
+
+ILZ025>027-034>036-040-047-049-050-058-095>099-241600-
+WEST-CENTRAL ILLINOIS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+QUINCY         MOSUNNY   50  26  39 CALM      30.22F TC  10           
+GALESBURG*     SUNNY     51  32  49 SW7       30.23S TC  10           
+MACOMB*        MOSUNNY   49  25  39 SW8       30.25F TC  10           
+JACKSONVILLE*  SUNNY     50  26  40 SW7       30.24S TC  10           
+PITTSFIELD*    SUNNY     51  30  45 CALM      30.24S TC  10           
+$$
+
+ILZ028>032-037-038-041>044-048-051>054-059>061-241600-
+CENTRAL ILLINOIS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PONTIAC        SUNNY     47  23  38 W14       30.24S TC   9           
+BLOOMINGTON    SUNNY     48  27  44 W9        30.25R TC   9           
+DECATUR        SUNNY     48  29  47 SW10      30.25S TC   9           
+PEORIA         SUNNY     48  29  47 VRB3      30.24S TC   9           
+LINCOLN*       SUNNY     48  28  46 SW5       30.25S TC   9           
+SPRINGFIELD    SUNNY     49  30  48 VRB6      30.25S TC   9           
+TAYLORVILLE    SUNNY     48  26  41 CALM      30.25F TC   9           
+$$
+
+ILZ033-039-045-046-055>057-062-063-241600-
+EAST-CENTRAL ILLINOIS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CHAMPAIGN      SUNNY     48  25  40 SW14      30.25S TC   9           
+DANVILLE*      MOSUNNY   46  27  48 SW9       30.25S TC   8           
+RANTOUL*       SUNNY     46  25  43 CALM      30.24S TC   8           
+MATTOON        SUNNY     47  26  44 VRB5      30.25S TC   8           
+PARIS*         SUNNY     47  32  56 W9        30.27S TC   8           
+$$
+
+ILZ079-100>102-241600-
+SOUTHWEST ILLINOIS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ALTON          SUNNY     48  30  49 S5        30.25F TC   9           
+BELLEVILLE     MOSUNNY   49  32  51 S8        30.25S TC  10           
+CAHOKIA*       SUNNY     51  31  46 VRB6      30.26R TC  11           
+SPARTA*        SUNNY     48  32  52 SE7       30.27S TC   9           
+$$
+
+ILZ064>066-069>071-074>076-080>082-084>086-088>090-092>094-241600-
+SOUTH-CENTRAL ILLINOIS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CARBONDALE     SUNNY     50  34  54 S7        30.27S TC  10           
+CAIRO*         SUNNY     50  38  61 E3        30.27R TC  10           
+EFFINGHAM*     SUNNY     48  28  44 CALM      30.27F TC   9           
+MARION         SUNNY     48  32  53 SE7       30.27S TC   9           
+MT. VERNON     SUNNY     50  30  46 VRB3      30.27S TC  10           
+CENTRALIA*     SUNNY     50  33  52 CALM      30.26S TC  10           
+SALEM*         SUNNY     51  30  46 CALM      30.26S TC  10           
+METROPOLIS*    SUNNY     49  32  52 E3        30.28R TC  10           
+$$
+
+ILZ067-068-072-073-078-083-087-091-241600-
+SOUTHEAST ILLINOIS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+LAWRENCEVILLE  SUNNY     48  27  44 CALM      30.27S TC   9           
+FLORA*         SUNNY     48  28  46 SE5       30.27S TC   9           
+FAIRFIELD*     SUNNY     47  27  44 CALM      30.27R TC   9           
+HARRISBURG*    SUNNY     48  37  64 CALM      30.28S TC   9           
+CARMI*         SUNNY     50  27  40 S3        30.27S TC  10           
+$$
+
+ABBREVIATIONS USED IN REMARKS
+   TC - TEMPERATURE IN CELSIUS
+  WCI - WIND CHILL INDEX
+   HX - HEAT INDEX
+  VSB - VISIBILITY
+$$
+
+  

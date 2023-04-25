@@ -1,0 +1,203 @@
+ASUS44 KSJT 241500
+RWRSJT
+WEST CENTRAL TEXAS REGIONAL WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE SAN ANGELO TX
+1000 AM CDT MON APR 24 2023
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+TXZ049-054-064>066-071>073-076>078-098-099-113-114-127-128-139-140-
+154-155-168>170-241600-
+...LOCATIONS ACROSS WEST CENTRAL TEXAS...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+SAN ANGELO     CLOUDY    50  49  96 E7        30.11S TC  10           
+ABILENE        CLOUDY    51  44  77 SE6       30.14R TC  11           
+DYESS AFB      CLOUDY    50  40  68 E3        30.10S TC  10           
+JUNCTION       CLOUDY    51  50  96 E5        30.12F TC  11           
+SWEETWATER     NOT AVBL                                               
+BROWNWOOD      NOT AVBL                                               
+COLEMAN        NOT AVBL                                               
+SAN SABA       NOT AVBL                                               
+SONORA         NOT AVBL                                               
+OZONA          NOT AVBL                                               
+BRADY          NOT AVBL                                               
+$$
+
+TXZ001-004-007-008-010-012-014-016-OKZ002-241600-
+TEXAS PANHANDLE/OKLAHOMA PANHANDLE
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+AMARILLO       CLOUDY    45  37  73 S21G26    30.05R WCI  37 TC   7   
+BORGER         CLOUDY    49  36  61 SE13G24   30.08S TC   9           
+CANADIAN       NOT AVBL                                               
+DALHART        CLOUDY    47  36  65 S21       30.00F WCI  39 TC   8   
+DUMAS          NOT AVBL                                               
+GUYMON         NOT AVBL                                               
+HEREFORD       NOT AVBL                                               
+PAMPA          NOT AVBL                                               
+PERRYTON       CLOUDY    42  29  61 S18       30.05F WCI  33 TC   6   
+$$
+
+TXZ035-026-045-048-241600-
+SOUTHERN PANHANDLE/SOUTH PLAINS/ROLLING PLAINS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+LUBBOCK        CLOUDY    45  40  82 SE13      30.07S WCI  39 TC   7   
+SNYDER         CLOUDY    47  44  89 S7        30.13R TC   8           
+CHILDRESS      CLOUDY    49  38  65 S9        30.14F TC   9           
+SEMINOLE       NOT AVBL                                               
+$$
+
+TXZ060>062-241600-
+PERMIAN BASIN
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MIDLAND        CLOUDY    47  47 100 SE13      30.08F TC   8           
+ODESSA         CLOUDY    47  45  93 SE10      30.08F FOG     TC   8   
+WINK           NOT AVBL                                               
+$$
+
+TXZ075-082-271-274-277-419-241600-
+FAR WEST/SOUTHWEST MOUNTAINS/TRANS PECOS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ALPINE         NOT AVBL                                               
+DRYDEN         NOT AVBL                                               
+EL PASO        MOSUNNY   56  36  47 SE7       29.97S TC  13           
+FORT STOCKTON  CLOUDY    49  44  83 SE9       30.06F TC   9           
+GUADALUPE PASS   N/A    N/A N/A N/A MISG        N/A                   
+MARFA          CLOUDY    48  40  73 SE9       30.08S TC   9           
+PECOS          NOT AVBL                                               
+$$
+
+TXZ118-119-241600-
+DALLAS/FORT WORTH METROPLEX
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+DFW AIRPORT    PTSUNNY   56  39  53 SE5       30.16S TC  13           
+FTW MEACHAM    CLOUDY    54  41  61 E8        30.16S TC  12           
+DAL-EXECUTIVE  PTSUNNY   53  39  59 E9        30.15F TC  12           
+GRAND PRAIRIE    N/A     54  39  58 E5        30.18S TC  12           
+ADDISON        PTSUNNY   57  30  35 E13       30.17  TC  14           
+MESQUITE       CLOUDY    55  45  67 E7        30.18R TC  13           
+LANCASTER      NOT AVBL                                               
+$$
+
+TXZ092-093-103-131-134-241600-
+NORTH CENTRAL TEXAS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+SHRMAN/DENISON MOSUNNY   55  41  58 SE12      30.19F TC  13           
+GAINESVILLE    NOT AVBL                                               
+BRIDGEPORT     NOT AVBL                                               
+DENTON         MOSUNNY   55  40  56 E8        30.17S TC  13           
+WAXAHACHIE     NOT AVBL                                               
+GRANBURY       NOT AVBL                                               
+$$
+
+TXZ085-086-115-141-241600-
+WESTERN NORTH TEXAS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+WICHITA FALLS  CLOUDY    53  41  63 S9        30.16S TC  12           
+VERNON         NOT AVBL                                               
+BRECKENRIDGE   CLOUDY    53  45  75 S6        30.15S TC  12           
+COMANCHE       NOT AVBL                                               
+$$
+
+TXZ145-158-159-173-191-192-194-205-207-220-223-241600-
+CENTRAL AND SOUTH CENTRAL TEXAS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+AUSTIN/BERGSTM CLOUDY    55  49  80 N9        30.11F TC  13           
+WACO           SUNNY     53  47  79 NE6       30.16S TC  12           
+HILLSBORO      NOT AVBL                                               
+TEMPLE         CLOUDY    53  47  79 NE7       30.15S TC  12           
+KILLEEN-GRAY   CLOUDY    51  45  79 E5        30.14R TC  11           
+FORT HOOD      CLOUDY    53  46  77 NE5       30.14S TC  12           
+GEORGETOWN     CLOUDY    52  45  77 N8        30.15S TC  11           
+LAGO VISTA     CLOUDY    52  47  84 N6        30.13S TC  11           
+SAN MARCOS     PTSUNNY   58  51  78 NE9       30.12F TC  14           
+NEW BRAUNFELS  CLOUDY    60  51  72 NE8       30.09F TC  16           
+RANDOLPH AFB   CLOUDY    57  51  82 NE8       30.08S TC  14           
+SAN ANTONIO    CLOUDY    58  51  78 NE7       30.10F TC  14           
+STINSON        CLOUDY    60  51  72 NE6       30.08F TC  16           
+PLEASANTON     NOT AVBL                                               
+LA GRANGE      CLOUDY    56  53  89 NE5       30.11S TC  13           
+GIDDINGS       CLOUDY    54  47  77 CALM      30.12F TC  12           
+$$
+
+TXZ095-096-136-137-148-152-241600-
+EAST TEXAS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PARIS          LGT RAIN  56  39  53 E10       30.19R TC  13           
+CLARKSVILLE    NOT AVBL                                               
+TYLER          CLOUDY    54  39  57 E9        30.16R TC  12           
+LONGVIEW       CLOUDY    55  41  59 E9        30.16S TC  13           
+PALESTINE      NOT AVBL                                               
+NACOGDOCHES    MOSUNNY   56  44  64 NE6       30.16R TC  13           
+$$
+
+TXZ171-183-184-186-188-203-204-241600-
+TEXAS HILL COUNTRY AND EDWARDS PLATEAU
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+LLANO          NOT AVBL                                               
+HORSESHOE BAY  NOT AVBL                                               
+KERRVILLE      NOT AVBL                                               
+FREDERICKSBRG  CLOUDY    52  48  87 CALM      30.12S TC  11           
+ROCKSPRINGS    NOT AVBL                                               
+HONDO          CLOUDY    59  52  77 NE12      30.09F TC  15           
+UVALDE         CLOUDY    55  55 100 NE10      30.10F TC  13           
+DEL RIO        CLOUDY    59  51  75 VRB6      30.08S TC  15           
+$$
+
+TXZ163-177-195>197-199-213-226-237-241600-
+SOUTHEAST TEXAS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+COLLEGE STN    CLOUDY    57  47  69 NE7       30.12S TC  14           
+CALDWELL       NOT AVBL                                               
+CROCKETT       NOT AVBL                                               
+BRENHAM        NOT AVBL                                               
+HUNTSVILLE     CLOUDY    57  46  66 E5        30.12S TC  14           
+CONROE         CLOUDY    55  48  77 NE8       30.12S TC  13           
+HOUSTON BUSH   CLOUDY    57  48  72 NE12      30.10S TC  14           
+HOUSTON HOBBY  CLOUDY    59  48  67 NE12      30.09S TC  15           
+PERLAND        CLOUDY    60  49  66 NE10      30.10S TC  16           
+WHARTON        CLOUDY    55  55 100 N6        30.11S TC  13           
+$$
+
+TXZ215-216-236-237-438-241600-
+THE UPPER TEXAS COAST
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ORANGE         NOT AVBL                                               
+PORT ARTHUR    CLOUDY    60  48  64 NE12      30.10R TC  16           
+GALVESTON      CLOUDY    58  53  84 N15       30.09R TC  14           
+ANGLETON       CLOUDY    55  52  89 N8        30.09S TC  13           
+BAY CITY       NOT AVBL                                               
+$$
+
+TXZ229-232-234-239-242-243-245-247-249-250-
+253-255-257-343-347-443-241600-
+TEXAS COASTAL BEND, RIO GRANDE PLAINS DEEP SOUTH TEXAS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+VICTORIA       CLOUDY    60  54  80 NE9       30.09F TC  16           
+BEEVILLE       PTSUNNY   59  55  86 NE14      30.05F TC  15           
+ROCKPORT       MOSUNNY   64  55  72 NE17      30.04F TC  18           
+PORT ARANSAS   NOT AVBL                                               
+PORT LAVACA    CLOUDY    63  55  76 NE10      30.09S TC  17           
+CORPUS CHRISTI PTSUNNY   65  56  72 NE13      30.05S TC  18           
+KINGSVILLE NAS NOT AVBL                                               
+COTULLA        CLOUDY    60  52  74 NE9       30.08R TC  16           
+LAREDO         CLOUDY    59  54  83 NE12      30.07S TC  15           
+BROWNSVILLE    CLOUDY    66  62  87 N13G20    30.00S TC  19           
+PORT ISABEL    CLOUDY    68  64  87 N17G25    30.00R TC  20           
+HEBBRONVILLE   NOT AVBL                                               
+MCALLEN        CLOUDY    64  58  80 N9        30.04S TC  18           
+WESLACO        NOT AVBL                                         

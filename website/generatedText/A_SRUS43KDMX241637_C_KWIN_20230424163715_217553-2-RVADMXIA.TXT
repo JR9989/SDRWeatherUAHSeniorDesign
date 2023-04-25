@@ -1,0 +1,252 @@
+SRUS43 KDMX 241637
+RVADMX
+IAC007-013-015-017-023-029-033-049-053-063-067-073-077-079-091-
+099-109-117-121-123-125-127-147-153-169-173-179-181-185-187-
+195-251636-
+
+Hydrologic Summary
+National Weather Service Des Moines IA
+1137 AM CDT Mon Apr 24 2023
+
+Hourly river stages. Time is in Central Time.
+
+                                Cur   6hr   24hr    Est  Water Obs
+Location                  FS    Stg   Chg    Chg   Flow   Temp Time
+--------------------------------------------------------------------
+
+...Mississippi River Basin...
+
+Wapsipinicon River
+ Tripoli                15.0  11.83  0.02  -0.20   1040        10:45
+
+West Main Drainage Ditch 1-2
+ Britt                        75.56  0.00  -0.15               11:15
+
+Iowa River
+ Rowan                  12.5   5.96 -0.09  -0.71    492        11:00
+ Steamboat Rock         11.0   6.56 -0.01  -0.01    922        11:00
+ Marshalltown           19.0  11.52 -0.01   0.02   1320        11:00
+ Tama US 63             20.0  10.17  0.03   0.13               11:00
+
+S Fk Iowa River
+ Blairsburg                    4.33 -0.01  -0.03               11:00
+ New Providence                3.34 -0.02  -0.14    152        10:45
+
+Timber Creek
+ Marshalltown           14.0   2.74 -0.01  -0.09     45        11:00
+
+Deer Creek
+ Toledo                        4.53  0.04   0.06               11:00
+
+Richland Creek
+ Haven                        10.53  0.01  -0.01      6        11:00
+
+Salt Creek
+ Elberon                16.0   6.00 -0.01  -0.05     36        11:00
+
+Walnut Creek
+ Hartwick               14.0   1.67  0.01  -0.01     17        11:00
+
+Cedar River
+ Waverly                12.0   5.04 -0.01  -0.07   3730     45 11:15
+ Janesville             13.0   3.97 -0.15  -0.50   3210        10:45
+ Cedar Falls            89.0  82.94 -0.18  -0.48   7010        10:45
+ Waterloo               13.0   7.95 -0.11  -0.24   8530        11:00
+
+W Fk Cedar River
+ Finchford              17.0   8.41 -0.10  -0.38    956        10:45
+
+Shell Rock River
+ Nora Springs                                                   M   
+ IFC--Rockford Foothill                                         M   
+ Shell Rock             12.0   9.60 -0.05  -0.25   2540        10:45
+
+Winnebago River
+ Mason City             10.0   6.79 -0.04  -0.20    715        10:30
+ Rockford                                                       M   
+
+Clear Lake
+ Clear Lake                    4.94 -0.01  -0.02               11:00
+
+Beaver Creek...Northeast Iowa
+ New Hartford           12.5   3.43 -0.04  -0.26    294        11:00
+
+Black Hawk Creek
+ Hudson                 14.0   5.76 -0.02  -0.08     49        10:45
+
+Wolf Creek
+ Dysart                 12.0   2.76 -0.05  -0.07    146        11:15
+
+S Skunk River
+ Ames Hwy E18--Skunk Ri        1.99 -0.06  -0.15    281        11:00
+ Ames McFarland Park 18        2.12 -0.04  -0.14    116        11:00
+ Ames W Riverside Rd    12.5   3.86 -0.04  -0.11    209        11:00
+ Ames US 30             21.5  10.94 -0.05  -0.18    303        11:00
+ Colfax                 18.0   8.53 -0.03  -0.25    552        10:45
+ Oskaloosa              24.5  10.26 -0.09  -0.46   1110        10:30
+
+Ioway Creek
+ Ames Cameron School Rd        1.56 -0.02  -0.10      9        11:00
+ Ames Hwy E18--Ioway Cr                                         M   
+ Ames Lincoln Way       10.0   1.83 -0.01  -0.08    107        11:00
+
+Indian Creek
+ Mingo                         4.45 -0.02  -0.19    223        11:15
+
+W Fk Des Moines River
+ Estherville            10.0   7.90 -0.08  -0.42               11:00
+ Emmetsburg             11.0   7.54 -0.10  -0.43   3510        11:15
+ Humboldt               10.0   8.03  0.00   0.03   4010        11:15
+
+Pilot Creek
+ Rolfe                         2.22  0.00  -0.06               11:15
+
+E Fk Des Moines River
+ Algona                 17.0  10.74 -0.14  -0.46    893        11:15
+ Dakota City            20.0  10.31 -0.02   0.02   1280        11:00
+
+Lizard Creek
+ Fort Dodge                    4.99 -0.02  -0.07               11:15
+
+Des Moines River
+ Fort Dodge             10.5   6.53  0.02   0.01   5280        11:00
+ Stratford              19.0   9.64 -0.04  -0.08   6040        11:00
+
+ Saylorville Reservoir
+  Pool/Est Inflow      884.0 834.79 -0.03  -0.06   6040        11:00
+  Tail/Est Outflow             7.80 -0.01  -0.01   6900        11:00
+  Normal Pool...836.0
+ 
+ Des Moines 2nd Ave     23.0  15.99  0.00  -0.03   7210     32 11:15
+ Des Moines SE 6th St   24.0  15.07 -0.05  -0.19   8350        11:00
+ Swan                         47.25 -0.04  -0.25   9480        11:15
+
+ Red Rock Reservoir
+  Pool/Est Inflow      780.0 743.25 -0.04  -0.18   9480        11:15
+  Tail/Est Outflow            89.11 -0.37  -0.35  10200     53 11:15
+  Normal Pool...742.0
+ 
+ Tracy                  14.0   6.06 -0.06  -0.06  11000        11:15
+ Eddyville              63.0  53.27  0.01   0.03  11400        11:15
+ Ottumwa                11.5   5.13  0.00   0.05  12100     53 11:20
+
+Boone River
+ Goldfield                     9.21 -0.07  -0.37    292        11:15
+ Webster City           14.0   3.24 -0.10  -0.35    604     44 11:00
+
+Big Creek Ponding Area
+ Polk City                    35.17 -0.01  -0.08               11:15
+
+Big Creek Lake
+ Polk City                    20.16 -0.02  -0.05               11:15
+
+Beaver Creek...Central Iowa
+ Woodward                     11.30 -0.04  -0.19               11:15
+ Grimes                 14.0   4.47 -0.07  -0.34    278        11:15
+
+N Raccoon River
+ Sac City                      7.59 -0.03  -0.10    132        11:15
+ Lanesboro                     8.44 -0.04  -0.16               11:15
+ Jefferson              19.0   5.49 -0.01  -0.07    462     23 11:15
+ Perry                  15.0   4.45 -0.02  -0.02               11:15
+
+Black Hawk Lake
+ Lake View                     7.24  0.00   0.03               11:15
+
+Buttrick Creek
+ Grand Junction         13.0   5.42  0.01  -0.10               11:15
+
+Middle Raccoon River
+ Bayard                        9.41 -0.04  -0.14     84        11:15
+ Panora                 11.0   4.30  0.01  -0.13     94        11:15
+
+Lake Panorama
+ Panora                       45.59  0.02  -0.04               11:15
+
+S Raccoon River
+ Redfield               20.0   3.06 -0.05  -0.15    381     32 10:45
+
+Raccoon River
+ Van Meter R Ave        17.0   4.00 -0.02  -0.12   1270        11:00
+ West Des Moines              27.97 -0.03  -0.20   1160        10:45
+ Des Moines IA 28       36.0  21.70 -0.04  -0.16   1260        11:15
+ Des Moines Fleur Dr    12.0   2.23 -0.06  -0.25   1590        10:45
+
+Jordan Creek
+ West Des Moines                                                M   
+
+Walnut Creek
+ Waukee 156th St         9.0                                    M   
+ Clive I-80/35           9.0   3.40  0.00   0.00    356        06:30
+ Des Moines 63rd St     14.0   3.60 -0.03  -0.13     76        10:45
+
+Fourmile Creek
+ Ankeny NE 86th Ave     11.0   2.07 -0.03  -0.15     52        11:15
+ Altoona I-80                                                   M   
+ Des Moines Easton Blvd 12.5   4.18 -0.02  -0.10     84        10:30
+
+North River
+ Norwalk Hwy R57        22.0   9.30 -0.19  -0.90    465        11:15
+
+Middle River
+ Indianola              23.0   8.41 -0.07  -0.38    373        11:15
+
+South River
+ Ackworth               29.0   6.15 -0.05  -0.18     54        11:15
+
+White Breast Creek
+ Melcher-Dallas         23.0   6.38  0.00  -0.08     47        11:15
+
+English Creek
+ Knoxville              21.0   8.09  0.01   0.01      8        11:15
+
+Cedar Creek
+ Bussey                 25.0   4.75 -0.01  -0.03     40        11:15
+
+Bear Creek
+ Ottumwa US 34                79.49 -0.02  -0.04               10:45
+
+
+...Missouri River Basin...
+
+E Nishnabotna River
+ Atlantic               19.0   2.86  0.00  -0.05    128        11:00
+
+E Fk 102 River
+ Bedford                24.0  11.13 -0.02  -0.10     50        10:45
+
+Thompson River
+ Davis City             12.0   1.93 -0.05  -0.31    361        11:00
+
+Chariton River
+ Chariton               19.5   4.40  0.00  -0.03     20        10:45
+ Moulton                36.0  18.67 -0.02  -0.12     49        10:45
+
+S Fk Chariton River
+ Promise City           25.0   2.91  0.00  -0.03     28        10:45
+
+ Rathbun Reservoir
+  Pool                 926.0 904.82 -0.01  -0.05               
+  Tail/Est Outflow             2.18  0.01   0.00     14        11:00
+  Normal Pool...904.0
+
+
+
+--------------------------------------------------------------------
+
+Key: FS=Flood Stage (feet)
+     Cur Stg=Current Stage (feet)
+     6hr Chg=6 hour change (feet)
+     12hr Chg=12 hour change (feet)
+     24hr Chg=24 hour change (feet)
+     Est Flow=Estimated flow/discharge (cubic feet per second)
+     Water Temp=Water Temperature (degrees F)
+     Obs Time=Time observation was taken (local time)
+
+This product is computer generated and is not monitored directly for
+quality control. Data sources include the U.S. Geological Survey, 
+U.S. Army Corps of Engineers, state agencies and the National
+Weather Service.
+
+$$
+

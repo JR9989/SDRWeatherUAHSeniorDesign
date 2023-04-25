@@ -1,0 +1,53 @@
+ASUS44 KOHX 241510
+RWROHX
+MIDDLE TENNESSEE HOURLY WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE NASHVILLE TN
+1000 AM CDT MON APR 24 2023
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH
+NO SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+* THESE REPORTS ARE NOT UNDER NWS QUALITY CONTROL AND MAY NOT
+  REPORT WEATHER SUCH AS PRECIPITATION AND FOG.
+
+
+TNZ005>011-023>034-057-059-062>066-078-080-241600
+...NORTHERN MIDDLE TENNESSEE...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CLARKSVILLE    SUNNY     52  34  50 NW5       30.25R                  
+CROSSVILLE     SUNNY     48  25  40 N8        30.20S                  
+DICKSON        SUNNY     52  27  37 CALM      30.23R                  
+GALLATIN       SUNNY     54  30  40 CALM      30.27S                  
+LEBANON        SUNNY     52  30  43 NE7       30.22R                  
+LIVINGSTON     SUNNY     48  25  40 VRB6      30.21R                  
+NASHVILLE      MOSUNNY   55  31  39 NE6       30.26R                  
+ROCKWOOD       SUNNY     48  23  37 VRB7G17   30.19F                  
+SMYRNA         SUNNY     53  31  42 N5        30.26R                  
+SPARTA         FAIR      52  25  35 VRB7G14   30.22S                  
+SPRINGFIELD    SUNNY     48  34  57 VRB3      30.24R                  
+WEST NASHVILLE SUNNY     52  32  46 E3        30.23R                  
+$$
+TNZ056-058-060-061-075>077-079-093>097-241600
+...SOUTHERN MIDDLE TENNESSEE...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+COLUMBIA       SUNNY     52  32  46 NE8       30.22R                  
+FAYETTEVILLE   SUNNY     52  30  43 N8G17     30.23R                  
+LAWRENCEBURG   SUNNY     52  30  43 NE6G15    30.21S                  
+LEWISBURG      SUNNY     54  32  43 NE7       30.23R                  
+MCMINNVILLE    SUNNY     50  28  43 NE9G15    30.22R                  
+MURFREESBORO   SUNNY     52  30  43 N9        30.22R                  
+PULASKI        SUNNY     54  36  50 VRB3      30.22S                  
+SHELBYVILLE    SUNNY     54  28  37 N7G15     30.22R                  
+TULLAHOMA      SUNNY     52  27  37 N9        30.21R                  
+WINCHESTER     SUNNY     52  28  40 NE8G14    30.21R                  
+$$
+
+
+...KEY TO REMARKS...
+VSB - VISIBILITY IN MILES
+WCI - WIND CHILL INDEX
+HX  - HEAT INDEX
+
+  

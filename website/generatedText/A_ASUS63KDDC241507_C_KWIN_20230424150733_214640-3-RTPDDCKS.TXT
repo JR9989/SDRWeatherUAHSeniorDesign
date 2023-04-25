@@ -1,0 +1,112 @@
+ASUS63 KDDC 241507
+RTPDDC
+Max/Min Temperature and Precipitation Table For
+Southwest...West Central...South Central Kansas
+National Weather Service -- Dodge City Kansas
+1007 AM CDT Mon Apr 24 2023
+
+.BR DDC  0424  CS DH00/TAIRZX/DH06/TAIRZP/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:Values represent yesterday's highs....lows over the last 12 hours 
+:precipitation over the last 24 hours ending at 6 AM CST / 7 AM CDT
+:
+:.............................................................
+: ID    Station             Max  / Min  /    24 Hr    / Snow
+:        Name               Temp / Temp / Pcpn / Snow / Depth
+:.............................................................
+:
+: First order /ASOS/ sites
+ DDC : Dodge City Airport :  62  /  40  / 0.00 /  0.0 /     0
+ GCK : Garden City Airport:  61  /  39  / 0.00 /      /     
+ P28 : Medicine Lodge     :  64  /  37  / 0.00 /      /     
+:
+: AWOS SITES
+ EHA : Elkhart Airport    :  62  /  35  / 0.00 /      /     
+ HYS : Hays Airport       :  64  /  37  / 0.00 /      /     
+ LBL : Liberal Airport    :  63  /  36  / 0.00 /      /     
+ PTT : Pratt Airport      :  64  /  35  / 0.00 /      /     
+:
+.END
+ 
+.BR DDC  0424  C DH07/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:Cooperative temperature and precipitation observations 
+:for the previous 24 hours ending around 7 AM Local Time
+:
+:...................................................................
+: ID    Station           Obs   / Max  / Min  / 24Hr / Snow / Snow
+:        Name             Time  / Temp / Temp / Pcpn / Fall / Depth
+:...................................................................
+:
+ASHK1: Ashland          : DH0800/  65  /  31  / 0.00 /  0.0 /   0
+ELSK1: Cedar Bluff Dam  : DH0700/  90  /  23  /      /      /   0
+CIMK1: Cimarron         : DH0800/  64  /  36  / 0.00 /  0.0 /   0
+GESK1: Garden City Ext  : DH0800/  63  /  41  / 0.00 /      /    
+GEEK1: Greensburg       : DH0612/  62  /  35  / 0.00 /      /    
+HWPK1: Hays Water Plant : DH0700/  64  /  30  / 0.00 /      /    
+HUGK1: Hugoton          : DH2359/  60  /      /      /      /       
+LADK1: Larned           : DH0840/  65  /  35  / 0.00 /      /    
+MTZK1: Montezuma        : DH0700/  62  /  39  / 0.00 /  0.0 /   0
+RIFK1: Richfield        : DH0700/  63  /  37  / 0.00 /  0.0 /   0
+ULYK1: Ulysses 3NE      : DH0700/  63  /  38  / 0.00 /  0.0 /   0
+WKYK1: Wakeeney         : DH0800/  63  /  33  / 0.00 /      /    
+:
+:Other COOP precipitation observations
+:for the previous 24 hours ending around 7 AM Local Time
+:
+BLFK1: Bellefont 3S     : DH0640/      /      / 0.00 /  0.0 /   0
+BUCK1: Bucklin 1SE      : DH0800/      /      / 0.00 /  0.0 /   0
+:
+.END
+ 
+&&
+ 
+:Unofficial cooperative precipitation observations 
+:for the previous 24 hours ending around 7 AM Local Time
+:
+:...................................................................
+: ID    Station                                 24hr / Snow / Snow
+:        Name                                   Pcpn / Fall / Depth
+:...................................................................
+:
+ 
+These data are preliminary and have not undergone final quality 
+control by the National Centers for Environmental Information /NCEI/.
+Therefore...these data are subject to revision.  Final and certified 
+climate data can be accessed at www.ncei.noaa.gov.
+
+
+:Automated Raingage Reports for the 
+:previous 24 hours ending at 7 AM 
+:
+:....................................
+:       Station              Rainfall
+:        Name                 Totals
+:....................................
+:
+:
+BTTK1:  Burdett 6W        :    0.00
+COOK1:  Coolidge 1S       :    0.00
+DDCK1:  Dodge City        :    0.00
+RIGK1:  Ellis 5W          :    0.00
+FRGO2:  Forgan 8N         :    0.00
+GCKK1:  Garden City       :    0.00
+HSNK1:  Hanston           :    0.00
+HYSK1:  Hays 1S           :    0.00
+HTAK1:  Horse Thief Rsvr  :    0.00
+JTRK1:  Jetmore 1W        :    0.00
+KENK1:  Kendall 1S        :    0.00
+KIOK1:  Kiowa 2NE         :    0.00
+LRDK1:  Larned 6ENE       :    0.00
+MACK1:  Macksville 8SE    :    0.00
+RCNK1:  Nekoma            :    0.00
+PTTK1:  Pratt             :    0.00
+ROZK1:  Rozel 1N          :    0.00
+SCNK1:  Schoenchen 1W     :    0.00
+SCSK1:  Schoenchen 2E     :    0.00
+SYRK1:  Syracuse 1S       :    0.00
+WAAK1:  Wakeeney 5N       :    0.00
+ZENK1:  Zenith 11NNW      :    0.00
+     
+$$ 
+

@@ -1,0 +1,80 @@
+ASUS44 KJAN 241510
+RWRMS 
+
+MISSISSIPPI HOURLY WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE JACKSON MS
+1000 AM CDT MON APR 24 2023
+
+NOTE: "FAIR: INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+MSZ001>002-007>008-010>013-018>021-025>028-034>036-241600-
+NORTHWEST MISSISSIPPI
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BATESVILLE       N/A     57  37  47 CALM      30.22S                  
+CLARKSDALE     SUNNY     57  39  51 E7        30.23R                  
+GREENWOOD      SUNNY     61  38  42 NE9       30.19S                  
+GREENVILLE     SUNNY     58  41  53 NE13      30.19S                  
+OLIVE BRANCH   SUNNY     55  32  41 NE8       30.22S                  
+OXFORD         SUNNY     55  36  47 E10       30.23S                  
+TUNICA         SUNNY     57  41  55 NE9       30.23S                  
+WINONA           N/A     57  38  48 NE8       30.18F                  
+$$
+
+MSZ003>006-009-014>017-022>024-029>033-037>039-241600-
+NORTHEAST MISSISSIPPI
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ABERDEEN       FAIR      59  37  44 N10       30.21S                  
+COLUMBUS AFB   SUNNY     57  36  44 NE13      30.16S                  
+CORINTH        SUNNY     55  34  44 NE6G12    30.23R                  
+GOLDN TRIANGLE SUNNY     57  39  51 VRB7      30.20S                  
+IUKA           FAIR      54  35  48 NE7       30.22S                  
+LOUISVILLE     FAIR      57  39  51 NE14      30.20S                  
+STARKVILLE     FAIR      57  41  54 NE10      30.17S                  
+TUPELO         SUNNY     58  36  43 NE13      30.21S                  
+$$
+
+MSZ040-058-241600-
+CENTRAL MISSISSIPPI
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+JACKSON INTL   PTSUNNY   59  37  44 NE12G20   30.16R                  
+JACKSON HAWKNS   N/A     57  38  48 E12G20    30.16R                  
+MADISON        FAIR      57  37  47 E9        30.15S                  
+MERIDIAN KEY     N/A    N/A N/A N/A MISG      30.16R                  
+MERIDIAN NAS   PTSUNNY   56  39  53 NE13      30.17R                  
+VICKSBURG VKS  MOSUNNY   57  41  54 NE8G15    30.15S                  
+$$
+
+MSZ059>079-241600-
+SOUTH MISSISSIPPI
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BROOKHAVEN     PTSUNNY   55  46  71 NE12      30.15S                  
+HATTIESBURG    CLOUDY    59  40  49 NE7       30.14R                  
+LAUREL         MOSUNNY   57  39  50 NE13      30.14S                  
+MCCOMB         CLOUDY    55  38  52 NE7       30.12R                  
+NATCHEZ        CLOUDY    57  40  52 NE9       30.15R                  
+PINE BELT      CLOUDY    57  41  55 NE12      30.15R                  
+$$
+
+MSZ080>082-241600-
+COASTAL MISSISSIPPI
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BAY ST LOUIS   PTSUNNY   59  45  58 NE9G15    30.09R                  
+BILOXI         CLOUDY    62  47  58 NE13      30.07R                  
+GULFPORT       PTSUNNY   63  47  55 NE9       30.09R                  
+PASCAGOULA     CLOUDY    63  48  58 NE10G17   30.08S                  
+$$
+
+LAZ007>009-015>016-023>026-241600-
+NORTHEAST LOUISIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BASTROP        CLOUDY    55  40  56 NE9       30.19R                  
+TALLULAH/VBURG CLOUDY    58  40  51 NE13      30.17S                  
+$$
+  

@@ -1,0 +1,2071 @@
+FOUS54 KMEG 241456
+AFMMEG
+
+Area Forecast Matrices
+National Weather Service Memphis TN
+956 AM CDT Mon Apr 24 2023
+
+TNZ088-242200-
+Shelby-
+Including the cities of Bartlett, Germantown, Collierville, 
+Memphis, and Millington
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      65          45          64          50          67
+Temp                56 62 63 60 51 47 47 46 56 62 63 61 54 52 51 50 56 64 66 64
+Dewpt               38 34 33 35 36 35 35 36 38 38 39 42 44 44 46 47 49 50 50 50
+RH                  51 35 32 39 56 63 63 68 51 41 41 49 69 74 83 89 77 60 56 60
+Wind dir             E NE NE NE  E  E  E  E  E  E  E  E NE  E NE NE NE  E  E  E
+Wind spd             4  8  9  6  5  5  4  4  8  6  6  5  6  9  9  9 10 12 12 12
+Clouds              FW CL CL FW SC B1 B2 B2 B1 B2 B2 B2 OV OV OV OV B2 B1 B1 B2
+PoP 12hr                      0           5          20          50          40
+QPF 12hr                      0           0   0.00-0.06   0.11-0.21   0.11-0.23
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                      S  S  C  C  C  C  C  C  C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          53    67      53    69      50    64      46    65
+Temp          56 54 65 64   57 53 66 67   56 51 63 62   52 47 62 63
+Dewpt         51 52 56 56   55 53 54 53   52 50 50 48   45 43 41 41
+PWind dir         E     E       N    NW       W     W       W     W
+Wind char        GN    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B2 B2 B2 B2   B2 B2 B1 SC   SC B1 B2 B1   B1 SC SC SC
+PoP 12hr         50    70      40    20      30    30      10    10
+Rain shwrs     C  C  L  L    C  S     S    C  C  C  C    S         
+Tstms          S        S    S                                     
+
+$$
+MSZ001-242200-
+DeSoto-
+Including the cities of Southaven and Olive Branch
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      65          45          64          50          67
+Temp                56 62 64 60 50 47 47 46 56 62 63 60 54 52 51 50 56 64 67 64
+Dewpt               39 35 34 37 37 35 35 36 39 39 41 43 45 45 46 48 50 52 52 52
+RH                  53 36 32 42 61 63 63 68 53 43 44 53 71 77 83 93 80 65 59 65
+Wind dir            NE NE NE NE NE  E  E  E  E  E  E NE NE  E NE NE NE  E  E NE
+Wind spd             5  9 10  8  6  6  5  5  8  6  8  5  8  9 10 10 11 12 12 12
+Clouds              FW FW CL FW SC SC B2 B2 B2 B2 B2 B2 OV OV OV OV B2 B1 B1 B1
+PoP 12hr                      0           5          20          50          40
+QPF 12hr                      0           0        0.01   0.09-0.19   0.06-0.12
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                S  S  S  S  C  C  C  C  C  C  C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          54    68      53    69      50    64      46    65
+Temp          56 55 65 65   57 54 66 67   56 51 64 62   51 47 62 63
+Dewpt         52 52 58 56   56 53 55 54   52 50 51 48   45 43 42 42
+PWind dir         E     E       N    NW       W     W       W     W
+Wind char        GN    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B2 B2 B2 B2   B2 B2 B1 SC   SC B1 B1 B1   B1 SC SC SC
+PoP 12hr         50    70      40    10      30    30      10    10
+Rain shwrs     C  C  L  L    C  S     S    C  C  C  C              
+Tstms          S        C    S                                     
+
+$$
+ARZ026-242200-
+Craighead-
+Including the city of Jonesboro
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      64          47          63          50          65
+Temp                55 61 63 61 52 50 48 47 56 61 63 61 54 52 51 50 56 62 65 64
+Dewpt               38 33 33 34 36 36 36 37 38 37 37 40 42 44 45 45 46 46 46 47
+RH                  53 35 32 36 54 58 63 68 51 41 38 46 64 74 80 83 69 56 50 54
+Wind dir             E  E  E  E  E  E  E  E SE SE  E SE  E NE NE NE NE NE  E NE
+Wind spd             5  9  9  6  4  4  3  4  9  8  9  6  6  8  9 10 13 14 13 13
+Clouds              FW CL CL FW SC B2 B2 B1 B2 B1 B1 B2 OV OV OV OV B1 B1 B2 B2
+PoP 12hr                      0           5          20          40          30
+QPF 12hr                      0           0   0.04-0.13   0.25-0.36   0.14-0.23
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                S  S  S  S  C  C  C  C  C  C  C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          52    65      51    69      50    63      45    65
+Temp          56 53 61 62   55 52 66 67   56 51 60 61   51 46 61 63
+Dewpt         49 49 52 53   53 51 52 53   52 50 48 45   44 41 40 40
+PWind dir        NE    NE       N    NW      SW     W       W     W
+Wind char        GN    GN      GN    GN      GN    GN      BZ    BZ
+Avg clouds    B2 B2 B2 B2   B2 B1 B1 SC   SC B1 B1 B1   SC SC SC SC
+PoP 12hr         50    60      30    10      30    30      10    10
+Rain shwrs     C  C  L  C    C        S    C  C  C  C              
+Tstms                   S                                          
+
+$$
+TNZ052-242200-
+Madison-
+Including the city of Jackson
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      63          41          66          48          66
+Temp                54 61 63 59 48 43 43 43 56 64 66 62 54 50 50 48 55 63 66 63
+Dewpt               36 32 31 32 33 32 31 33 35 34 35 38 40 42 43 44 47 48 47 47
+RH                  50 33 30 36 56 65 62 67 45 32 32 41 59 74 77 86 74 58 50 56
+Wind dir            NE NE NE NE NE  E  E  E  E  E  E  E  E  E NE NE NE  E  E  E
+Wind spd             4  8  8  5  4  4  3  3  8  6  8  5  5  6  8  8 10 12 12 10
+Clouds              CL CL CL FW FW SC B2 B2 SC SC B1 B1 B2 OV OV OV B2 B1 B1 B1
+PoP 12hr                      0           5          10          40          30
+QPF 12hr                      0           0        0.01        0.13   0.18-0.24
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                            C  C  C  C  C  C  C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          50    68      52    68      49    64      45    64
+Temp          52 52 65 65   55 52 65 66   54 50 64 62   50 46 61 61
+Dewpt         48 49 53 53   53 52 54 51   51 50 50 47   44 42 41 39
+PWind dir         E     E       N    NW       W     W       W     W
+Wind char        GN    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B2 B2 B2 B2   B2 B2 B2 B1   SC B1 B1 B1   B1 SC SC SC
+PoP 12hr         40    60      40    20      30    40      20    20
+Rain shwrs     C  C  L  L    C  S  S  S    C  S  C  C    S        S
+Tstms                   S    S                                     
+
+$$
+MSZ016-242200-
+Lee MS-
+Including the city of Tupelo
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      67          43          69          51          69
+Temp                57 63 66 62 50 47 45 45 57 66 68 65 56 54 53 52 58 65 68 66
+Dewpt               37 33 31 34 36 35 33 34 37 36 38 40 42 43 46 48 52 53 54 52
+RH                  47 32 27 35 58 63 62 65 47 33 33 40 59 66 77 86 80 65 61 61
+Wind dir            NE NE NE NE NE NE NE NE  E NE NE NE NE NE NE NE NE  E NE NE
+Wind spd            10  9  9  8  5  5  5  5  6  5  6  6  8  8  8 10 10 10 10 11
+Clouds              FW FW CL FW FW SC SC B2 B1 SC B2 B2 B2 B2 OV B2 B2 B2 B1 B1
+PoP 12hr                      0           5          10          40          40
+QPF 12hr                      0           0           0        0.04        0.07
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                            S  S  C  C  C  C  C  C  S
+Tstms                                                                         S
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          53    73      56    73      52    69      46    67
+Temp          56 55 70 70   60 56 70 70   56 53 67 66   53 47 64 64
+Dewpt         52 53 57 57   57 55 55 53   52 52 51 50   47 44 41 41
+PWind dir         E    SE       W     W       W     W       W     W
+Wind char        GN    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B1 B2 B2 B2   B2 B2 B1 SC   FW SC B1 B1   B1 SC SC SC
+PoP 12hr         30    70      50    20      20    30      20    10
+Rain shwrs     S  C  C  L    C  C  S  S    S  S  C  C    S         
+Tstms          S        C    C                                     
+
+$$
+TNZ049-242200-
+Tipton-
+Including the city of Covington
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      64          44          64          50          66
+Temp                55 61 63 60 49 46 46 45 56 62 64 61 54 52 51 50 56 63 66 64
+Dewpt               38 34 33 35 36 34 34 35 38 37 37 41 43 44 45 46 47 49 48 49
+RH                  53 36 32 39 61 63 63 68 51 39 37 48 66 74 80 86 72 60 52 58
+Wind dir             E NE NE NE  E  E  E  E  E  E  E  E  E  E NE NE NE  E  E NE
+Wind spd             4  6  9  6  5  5  4  4  9  6  8  5  5  8  9 10 11 12 12 12
+Clouds              FW CL CL FW FW SC B2 B2 B1 B1 B1 B2 OV OV OV OV B2 B1 B1 B2
+PoP 12hr                      0           5          20          50          40
+QPF 12hr                      0           0        0.04   0.17-0.24        0.22
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                      S  S  C  C  C  C  C  C  C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          52    66      52    69      50    64      45    64
+Temp          55 53 63 64   56 53 66 67   56 51 62 62   50 46 61 62
+Dewpt         49 51 55 55   54 52 54 53   52 50 50 48   45 42 42 41
+PWind dir         E    NE       N    NW      SW     W       W     W
+Wind char        GN    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B2 B2 B2 B2   B2 B2 B1 B1   SC B1 B2 B1   B1 SC SC SC
+PoP 12hr         50    60      40    20      30    30      20    10
+Rain shwrs     C  C  L  L    C  S     S    C  C  C  C    S         
+Tstms          S        S    S                                     
+
+$$
+ARZ036-242200-
+Crittenden-
+Including the city of West Memphis
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      63          46          62          50          66
+Temp                56 61 63 61 51 49 48 47 55 59 61 59 54 52 52 50 56 63 65 64
+Dewpt               39 35 34 35 36 35 35 36 38 38 40 42 44 45 46 47 48 50 50 49
+RH                  53 38 34 38 56 58 60 65 53 45 46 53 69 77 80 89 74 62 58 58
+Wind dir             E NE NE NE  E  E  E  E  E  E  E  E  E  E NE NE NE  E NE NE
+Wind spd             5  9 10  8  5  5  4  4  8  6  8  5  8  9 10 10 12 13 12 13
+Clouds              FW CL CL FW SC B1 B2 B2 B2 B2 B2 B2 OV OV OV OV B2 B1 B1 B2
+PoP 12hr                      0           5          30          50          40
+QPF 12hr                      0           0   0.01-0.10   0.17-0.28   0.07-0.21
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                S  S  C  C  C  C  C  C  C  C  C  C  C
+Tstms                                                                         S
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          53    65      52    68      50    63      46    64
+Temp          57 54 61 64   57 53 65 67   56 51 61 61   51 47 61 62
+Dewpt         50 51 55 55   54 52 54 53   52 50 50 47   44 42 41 41
+PWind dir         E    NE       N    NW      SW     W       W     W
+Wind char        GN    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B2 OV B2 B2   B2 B1 B1 SC   SC B1 B2 B1   B1 SC SC SC
+PoP 12hr         50    70      40    10      30    30      10    10
+Rain shwrs     C  C  L  L    C  S          C  C  C  C              
+Tstms          S        S    S                                     
+
+$$
+TNZ020-242200-
+Gibson-
+Including the cities of Humboldt and Milan
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      64          42          66          48          66
+Temp                54 61 63 59 48 44 44 44 56 64 66 63 54 51 50 48 56 63 66 63
+Dewpt               37 32 30 32 33 33 32 33 36 35 36 39 40 41 42 43 45 46 46 45
+RH                  52 33 29 36 56 65 62 65 47 34 33 41 59 68 74 83 66 54 48 52
+Wind dir             E NE NE NE  E  E  E  E  E  E  E  E  E  E NE NE NE  E  E  E
+Wind spd             3  6  8  5  4  4  3  4  8  8  9  5  5  6  6  8 10 12 12 11
+Clouds              CL CL CL FW FW SC B2 B2 B1 SC B1 B1 B2 OV OV OV B2 B1 B1 B1
+PoP 12hr                      0           5          10          30          30
+QPF 12hr                      0           0           0        0.17   0.10-0.22
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                            S  S  C  C  C  C  C  C  S
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          50    67      51    69      50    64      45    64
+Temp          53 51 65 63   55 52 66 67   54 51 63 62   50 46 61 61
+Dewpt         46 47 52 52   52 51 53 51   50 49 49 46   44 42 41 39
+PWind dir        NE     E       N    NW       W     W       W     W
+Wind char        GN    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B2 B2 B2 B2   B2 B2 B1 B1   SC B1 B2 B1   B1 SC SC SC
+PoP 12hr         40    60      40    20      30    40      20    20
+Rain shwrs     S  C  L  L    C  S  S  S    C  C  C  C    S        S
+Tstms                   S    S                                     
+
+$$
+MSZ013-242200-
+Lafayette-
+Including the city of Oxford
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      66    43 44 49          66          49          68
+Temp                56 63 65 61 50 47 46 46 56 64 65 62 54 52 51 50 56 65 68 65
+Dewpt               39 33 31 35 36 35 35 34 38 38 40 41 43 43 46 47 51 52 53 52
+RH                  53 32 28 38 58 63 65 63 51 38 40 46 66 71 83 89 83 63 59 63
+Wind dir            NE NE NE NE NE  E  E  E  E  E  E NE NE  E  E  E  E  E  E NE
+Wind spd             8  8  8  5  4  5  5  5  8  6  8  6  8  8  9  9 10 10 10 11
+Clouds              FW FW CL FW FW SC B1 B1 B1 B1 B2 B2 B2 B2 OV B2 B2 B2 B2 B1
+PoP 12hr                      0           5          20          40          30
+QPF 12hr                      0           0           0        0.07        0.06
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                      S  S  C  C  C  C  C  C  C  C  S
+Tstms                                                                         S
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          53    71      54    71      51    67      45    66
+Temp          55 54 69 68   58 55 68 69   56 52 65 64   51 46 63 63
+Dewpt         53 53 57 56   56 54 54 53   53 51 50 49   46 43 40 41
+PWind dir         E    SE       W    NW       W     W       W     W
+Wind char        GN    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B1 B2 B2 B2   B2 B2 B1 SC   FW SC B1 B1   B1 SC SC SC
+PoP 12hr         40    60      40    10      20    30      10    10
+Rain shwrs     S  C  L  L    C  S          S  S  C  C              
+Tstms          S        C    S                                     
+
+$$
+ARZ028-242200-
+Mississippi-
+Including the city of Blytheville
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      64          45          65          50          66
+Temp                56 61 63 62 51 48 47 46 57 62 65 63 54 53 51 50 56 63 65 65
+Dewpt               37 32 31 32 35 34 34 35 36 35 35 38 42 43 44 44 45 46 46 46
+RH                  49 33 30 32 54 58 60 65 45 36 33 39 64 69 77 80 66 54 50 50
+Wind dir            NE NE NE  E  E  E  E  E SE SE  E  E  E  E NE NE NE  E  E NE
+Wind spd             4  8  9  6  5  5  4  5  9  8  9  5  6  8  9 10 12 13 13 13
+Clouds              CL CL CL FW FW B1 B2 B2 B1 B1 B1 B2 OV OV OV OV B2 B1 B1 B2
+PoP 12hr                      0           5          20          40          30
+QPF 12hr                      0           0   0.01-0.08   0.19-0.29   0.15-0.22
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                      S  S  C  C  C  C  C  C  C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          53    66      52    69      50    63      46    65
+Temp          56 53 63 64   57 53 66 67   56 51 61 61   51 47 61 63
+Dewpt         48 49 52 52   52 51 52 52   51 49 49 46   43 41 40 39
+PWind dir        NE    NE       N    NW      SW     W       W     W
+Wind char        GN    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B2 B2 B2 B2   B2 B1 B1 SC   SC B1 B2 B1   SC SC SC SC
+PoP 12hr         40    60      30    20      30    30      10    10
+Rain shwrs     C  C  L  C    C  S     S    C  C  C  C    S         
+Tstms                   S                                          
+
+$$
+ARZ018-242200-
+Greene-
+Including the city of Paragould
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      64          46          64          50          66
+Temp                55 61 63 61 52 49 48 47 56 62 64 62 54 52 50 50 56 63 66 64
+Dewpt               37 33 33 34 35 36 36 36 38 36 36 39 42 43 44 45 46 45 45 45
+RH                  51 35 32 36 52 61 63 65 51 38 35 43 64 71 80 83 69 52 47 50
+Wind dir             E  E  E  E  E  E  E  E SE SE SE  E  E NE NE NE NE NE  E NE
+Wind spd             5  9  9  6  5  4  3  4  8  8  9  6  8  6  8 10 13 14 14 13
+Clouds              CL CL FW FW SC B2 B2 B2 B1 SC B1 B2 OV OV OV B2 B1 B1 B1 B2
+PoP 12hr                      0           5          20          40          30
+QPF 12hr                      0           0   0.00-0.08   0.28-0.37   0.08-0.16
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                      S  S  C  C  C  C  C  C  C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          51    65      51    69      50    63      45    65
+Temp          56 52 61 62   55 52 66 67   56 51 60 61   50 46 62 63
+Dewpt         48 47 51 52   52 50 52 53   52 50 48 45   44 41 41 40
+PWind dir        NE    NE       N    NW      SW     W       W     W
+Wind char        GN    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B2 B2 B2 B2   B2 B1 SC SC   B1 B1 B1 B1   SC SC SC SC
+PoP 12hr         40    60      30    20      30    30      10    10
+Rain shwrs     C  C  L  C    C        S    C  C  C  C              
+Tstms                   S                                          
+
+$$
+TNZ089-242200-
+Fayette-
+Including the cities of Somerville and Oakland
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      65          43          65          48          67
+Temp                56 62 63 59 48 45 44 45 56 63 65 61 53 51 50 49 56 64 67 64
+Dewpt               37 33 32 34 35 33 33 34 37 36 37 40 42 44 45 47 49 50 50 49
+RH                  49 33 31 39 60 62 65 65 49 36 35 46 66 77 83 93 77 60 54 58
+Wind dir            NE NE NE NE NE  E  E  E  E  E  E  E NE  E NE NE NE  E  E  E
+Wind spd             4  8  9  6  4  5  4  4  8  6  8  5  5  8  9  9 10 12 11 12
+Clouds              FW CL CL FW SC SC B2 B2 SC B1 B1 B2 OV OV OV OV B2 B1 B1 B2
+PoP 12hr                      0           5          20          50          40
+QPF 12hr                      0           0        0.01   0.07-0.18   0.09-0.23
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                      S  S  C  C  C  C  C  C  C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          52    69      52    69      50    65      45    65
+Temp          54 53 67 65   56 52 66 67   54 51 64 62   50 46 61 62
+Dewpt         50 51 55 55   55 52 54 52   52 50 50 48   45 42 41 40
+PWind dir         E     E       N    NW       W     W       W     W
+Wind char        GN    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B2 B2 B2 B2   B2 B2 B2 SC   SC B1 B2 B1   B1 SC SC SC
+PoP 12hr         40    70      40    20      30    30      20    10
+Rain shwrs     C  C  L  L    C  S     S    C  C  C  C    S         
+Tstms          S        S    S                                     
+
+$$
+TNZ019-242200-
+Dyer-
+Including the city of Dyersburg
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      64          44          66          49          66
+Temp                54 60 63 60 49 46 46 45 56 64 66 63 54 52 50 49 56 63 66 64
+Dewpt               38 31 30 32 34 33 33 34 36 34 34 38 40 42 42 43 44 45 44 45
+RH                  54 33 29 35 56 60 60 65 47 32 30 39 59 69 74 80 64 52 45 50
+Wind dir             E NE NE  E  E  E  E  E SE  E  E  E  E  E NE NE NE  E  E NE
+Wind spd             3  8  9  5  4  4  4  4  9  9  9  5  6  6  8  9 11 13 13 12
+Clouds              FW CL CL FW FW SC B2 B2 B1 SC B1 B1 B2 OV OV OV B2 B1 B1 B2
+PoP 12hr                      0           5          10          30          30
+QPF 12hr                      0           0           0   0.16-0.23   0.09-0.20
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                            C  C  C  C  C  C  S  S  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          51    67      52    69      50    63      46    64
+Temp          55 52 64 63   56 52 66 67   56 51 62 61   51 47 61 62
+Dewpt         47 47 50 51   52 51 52 51   51 49 48 46   44 41 40 39
+PWind dir        NE    NE       N    NW      SW     W       W     W
+Wind char        GN    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B2 B2 B2 B2   B2 B2 B1 SC   B1 B1 B2 B1   B1 SC SC SC
+PoP 12hr         40    60      40    20      30    30      20    10
+Rain shwrs     C  C  L  L    C  S     S    C  C  C  C    S         
+Tstms                   S    S                                     
+
+$$
+MSZ005-242200-
+Alcorn-
+Including the city of Corinth
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      65          42          66          49          66
+Temp                55 62 63 59 48 45 43 43 56 64 66 62 54 52 50 49 56 63 66 63
+Dewpt               36 31 30 33 34 34 33 33 35 34 35 39 41 44 46 47 50 50 50 50
+RH                  49 31 29 37 58 65 67 67 45 32 32 43 61 74 86 93 80 62 56 62
+Wind dir            NE NE NE NE NE  E NE  E  E  E  E  E NE NE NE NE NE  E  E NE
+Wind spd             5  8  8  6  4  4  4  4  8  5  6  5  5  6  8  9 10 11 11 11
+Clouds              FW FW CL FW FW FW B1 B2 SC B1 B1 B2 B2 B2 B2 B2 B2 B2 B2 B1
+PoP 12hr                      0           0          10          40          40
+QPF 12hr                      0           0           0        0.05        0.06
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                            C  C  C  C  C  C  C  C  S
+Tstms                                                                         S
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          52    71      54    71      50    67      45    65
+Temp          54 53 68 67   58 55 68 68   55 51 65 63   52 46 62 61
+Dewpt         51 52 55 56   56 54 53 52   52 51 50 48   46 44 39 40
+PWind dir         E    SE      SW    NW       W     W       W     W
+Wind char        GN    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B1 B2 B2 B2   B2 B2 B2 SC   FW SC B1 B1   B1 SC SC SC
+PoP 12hr         30    70      50    20      20    30      20    10
+Rain shwrs     S  C  L  L    C  C  S  S    S  S  C  C    S         
+Tstms          S        C    S                                     
+
+$$
+MSZ002-242200-
+Marshall-
+Including the city of Holly Springs
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      66          44          66          49          67
+Temp                57 63 65 61 49 46 45 45 56 63 65 61 54 51 50 49 56 64 67 64
+Dewpt               37 32 31 34 35 34 33 34 37 37 38 40 42 44 45 46 50 51 51 50
+RH                  47 31 28 36 58 63 62 65 49 38 37 46 64 77 83 89 80 63 56 60
+Wind dir            NE NE NE NE NE  E  E  E  E  E  E  E NE  E  E NE NE  E  E NE
+Wind spd             6  9  9  6  4  5  5  4  8  6  8  5  6  9  9  9 10 12 11 11
+Clouds              FW FW CL FW FW SC B2 B2 B1 B1 B2 B2 B2 OV B2 OV B2 B1 B2 B1
+PoP 12hr                      0           5          20          40          40
+QPF 12hr                      0           0        0.01   0.06-0.11   0.05-0.10
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                      S  S  C  C  C  C  C  C  C  C  S
+Tstms                                                                         S
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          53    70      53    70      50    66      45    66
+Temp          55 54 69 66   57 54 67 68   55 51 65 63   50 46 63 63
+Dewpt         51 52 56 55   55 53 54 52   52 50 50 48   45 42 40 40
+PWind dir         E    SE      NW    NW       W     W       W     W
+Wind char        GN    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B1 B2 B2 B2   B2 B2 B1 SC   SC B1 B1 B1   B1 SC SC SC
+PoP 12hr         40    60      40    10      20    30      10    10
+Rain shwrs     S  C  L  L    C  S     S    S  S  C  C              
+Tstms          S        C    S                                     
+
+$$
+MSZ024-242200-
+Monroe-
+Including the cities of Amory and Aberdeen
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      68          44          71          52          72
+Temp                58 65 67 63 51 48 45 46 58 68 70 66 57 55 53 52 59 68 71 68
+Dewpt               39 34 33 36 37 36 34 34 38 38 40 42 44 44 46 48 53 55 56 55
+RH                  49 31 28 36 59 63 65 63 47 33 33 42 62 66 77 86 80 63 59 63
+Wind dir            NE NE NE NE NE NE NE NE  E NE NE NE NE NE NE NE  E  E NE NE
+Wind spd             9  8  8  6  5  5  4  4  6  4  5  6  8  6  6  9  9  8  9 11
+Clouds              FW FW CL FW FW SC SC B1 SC SC B1 B1 B2 B2 B2 B2 B2 B2 B1 B1
+PoP 12hr                      0           5          10          30          40
+QPF 12hr                      0           0           0        0.02        0.06
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                            S  S  C  C  C  C  C  C  S
+Tstms                                                                         S
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          54    75      57    74      52    71      46    68
+Temp          57 55 71 71   60 57 71 71   56 53 70 67   53 47 65 64
+Dewpt         54 54 59 59   58 57 57 56   54 53 53 52   49 46 42 43
+PWind dir         E    SE       W     W       W     W       W     W
+Wind char        GN    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B1 B2 B2 B2   B1 B2 B1 SC   FW SC SC B1   B1 SC SC FW
+PoP 12hr         30    60      50    20      10    30      20    10
+Rain shwrs     S  C  C  L    C  C  S  S       S  C  C    S         
+Tstms          S        C    C                                     
+
+$$
+TNZ003-242200-
+Weakley-
+Including the cities of Martin and Dresden
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      63          41          66          47          66
+Temp                54 60 62 58 47 43 43 43 56 64 66 62 53 50 49 47 56 63 66 63
+Dewpt               36 32 30 31 32 32 31 32 35 35 36 39 38 40 41 42 44 45 44 45
+RH                  50 35 30 36 56 65 62 65 45 34 33 43 57 68 74 83 64 52 45 52
+Wind dir             E NE NE NE  E  E  E  E  E  E  E  E  E  E NE NE  E  E  E NE
+Wind spd             3  6  6  4  3  3  3  3  8  8  9  5  5  5  5  6 10 11 11 10
+Clouds              CL CL CL FW FW SC B2 B2 B1 SC SC B1 B2 B2 B2 B2 B1 B1 B1 B1
+PoP 12hr                      0           5          10          30          30
+QPF 12hr                      0           0           0   0.10-0.16   0.04-0.15
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                            S  S  C  C  C  C  C  C  S
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          48    66      51    68      49    63      45    64
+Temp          53 49 64 62   54 52 65 66   53 50 63 61   49 45 60 60
+Dewpt         45 45 50 51   51 50 53 51   50 49 49 46   44 42 41 39
+PWind dir        NE     E      NE    NW      SW     W       W     W
+Wind char        GN    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B1 B2 B2 B2   B2 B2 B1 B1   SC B1 B2 B1   B1 SC SC SC
+PoP 12hr         30    60      40    20      30    40      20    20
+Rain shwrs     S  C  C  L    C  C  S  S    C  C  C  C    S        S
+Tstms                   S    S                                     
+
+$$
+MSZ012-242200-
+Panola-
+Including the city of Batesville
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      66          46          65          50          69
+Temp                57 63 65 62 50 48 47 47 56 63 64 61 55 53 52 51 58 66 69 66
+Dewpt               41 36 34 39 39 37 37 37 40 41 42 45 45 46 46 48 53 54 55 55
+RH                  55 36 31 43 66 65 68 68 55 44 45 56 69 77 80 89 83 65 61 68
+Wind dir            NE NE NE NE NE  E  E  E  E  E  E NE NE  E  E NE NE  E  E NE
+Wind spd             5  9  8  5  4  5  5  5  9  6  9  8  9  9 10 10 10 11 10 11
+Clouds              FW FW CL FW SC SC B2 B1 B1 B2 B2 B2 B2 OV B2 B2 B2 B2 B1 B1
+PoP 12hr                      0           5          20          40          40
+QPF 12hr                      0           0           0   0.07-0.15        0.06
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                      S  S  C  C  C  C  C  C  S  S  S
+Tstms                                                                         S
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          54    70      54    70      50    66      45    66
+Temp          56 55 67 67   58 54 67 68   56 51 65 64   52 46 63 64
+Dewpt         54 54 59 58   57 54 56 55   54 51 52 51   47 44 43 43
+PWind dir         E    SE      NW    NW       W     W       W     W
+Wind char        GN    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B2 B2 B2 B2   B2 B2 B1 SC   SC SC B1 B1   B1 SC SC SC
+PoP 12hr         40    70      40    10      20    20      10    10
+Rain shwrs     S  C  L  L    C  S          S  S  S  S              
+Tstms          S  S  S  C    S                                     
+
+$$
+TNZ004-242200-
+Henry-
+Including the city of Paris
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      62          40          66          47          65
+Temp                54 60 61 57 47 43 42 43 56 64 66 62 53 50 48 47 56 63 65 63
+Dewpt               34 31 29 30 31 31 31 32 34 33 34 38 38 39 39 41 43 43 43 44
+RH                  46 33 29 35 53 62 65 65 43 31 30 41 57 66 71 79 62 48 45 50
+Wind dir             N  N NE NE  E  E  E  E  E  E  E  E NE  E NE NE NE  E  E NE
+Wind spd             3  6  6  4  3  3  3  3  8  6  8  5  6  5  5  6  9 10 11 10
+Clouds              CL CL CL FW FW SC B2 B2 B1 SC SC B1 B2 B2 B2 B2 B1 B1 B1 B1
+PoP 12hr                      0           5           5          30          30
+QPF 12hr                      0           0           0   0.06-0.15   0.04-0.13
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                            S  S  C  C  C  C  C  C  S
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          48    67      51    68      49    64      44    63
+Temp          52 49 65 63   54 52 65 65   53 51 64 61   49 45 60 59
+Dewpt         44 45 49 50   51 51 53 50   50 50 49 46   44 42 40 39
+PWind dir        NE     E       N    NW      SW    SW       W     W
+Wind char        GN    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B1 B2 B2 B2   B2 B2 B2 B1   SC B1 B1 B1   B1 SC SC SC
+PoP 12hr         30    60      50    20      30    40      20    20
+Rain shwrs     S  C  C  L    C  C  S  S    C  C  C  C    S     S  S
+Tstms                   S    S                                     
+
+$$
+MOZ113-242200-
+Dunklin-
+Including the city of Kennett
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      63          45          65          49          66
+Temp                54 60 63 61 51 48 47 46 56 62 65 63 54 52 50 49 56 63 66 64
+Dewpt               38 31 31 32 35 35 35 35 36 34 34 37 41 42 43 44 45 44 44 45
+RH                  54 33 30 33 54 60 63 65 47 35 31 38 61 69 77 83 66 50 45 50
+Wind dir             E NE  E  E  E SE  E  E SE SE  E  E  E NE NE NE NE NE  E NE
+Wind spd             5  8  9  6  5  5  4  4  9  8  9  6  8  8  8 10 13 14 14 13
+Clouds              CL CL FW FW SC B1 B2 B2 B1 SC SC B1 B2 B2 B2 B2 B1 B1 B1 B2
+PoP 12hr                      0           5          20          30          30
+QPF 12hr                      0           0        0.01   0.18-0.30   0.01-0.15
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                      S  S  C  C  C  C  C  C  S  S  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          51    66      50    69      49    63      46    64
+Temp          55 51 62 62   55 51 65 67   55 50 60 60   50 46 61 62
+Dewpt         47 46 49 51   51 50 52 52   51 49 47 45   44 41 40 39
+PWind dir        NE    NE       N    NW      SW     W       W     W
+Wind char        GN    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B2 B2 B2 B2   B2 B1 B1 SC   B1 B1 B2 B1   SC SC SC SC
+PoP 12hr         40    50      30    20      30    30      10    10
+Rain shwrs     C  C  C  C    C  S     S    C  C  C  C    S        S
+Tstms                   S                                          
+
+$$
+TNZ002-242200-
+Obion-
+Including the city of Union City
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      63    41 43 47          66          48          66
+Temp                54 60 62 59 48 45 44 44 56 64 66 63 54 51 49 48 56 63 66 63
+Dewpt               37 32 30 32 33 32 32 33 36 35 36 39 39 40 41 42 44 45 44 45
+RH                  52 35 30 36 56 60 62 65 47 34 33 41 57 66 74 80 64 52 45 52
+Wind dir            SE NE NE  E  E  E  E  E SE  E  E  E  E  E NE NE  E  E  E  E
+Wind spd             4  6  8  4  3  3  3  3  8  8  9  5  5  5  5  8 11 12 12 11
+Clouds              CL CL CL FW FW SC B2 B2 B1 SC SC B1 B2 B2 B2 B2 B1 B1 B1 B1
+PoP 12hr                      0           5          10          30          30
+QPF 12hr                      0           0           0   0.10-0.19   0.03-0.10
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                            S  S  C  C  C  C  S  S  S
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          49    66      51    68      50    63      45    64
+Temp          54 50 64 62   54 52 65 66   54 51 62 60   50 46 60 60
+Dewpt         45 45 50 50   51 49 53 51   50 49 48 46   44 41 41 39
+PWind dir        NE    NE      NE    NW      SW     W       W     W
+Wind char        GN    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B2 B2 B2 B2   B2 B1 B1 B1   SC B1 B2 B1   B1 SC SC SC
+PoP 12hr         30    60      40    20      30    40      20    20
+Rain shwrs     S  C  C  L    C  S  S  S    C  C  C  C    S        S
+Tstms                   S                                          
+
+$$
+MSZ015-242200-
+Pontotoc-
+Including the city of Pontotoc
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      67          43          68          50          69
+Temp                56 63 65 61 50 47 45 45 56 65 67 63 55 53 52 51 57 65 68 66
+Dewpt               38 33 32 34 36 35 34 34 38 37 39 41 42 43 46 47 51 52 54 52
+RH                  51 32 29 36 58 63 65 65 51 35 36 44 61 69 80 86 80 63 61 61
+Wind dir            NE NE NE NE NE NE NE NE  E  E NE NE NE NE NE NE  E  E NE NE
+Wind spd            10  9  9  8  5  5  5  5  6  5  6  6  8  8  8  9 10 10 10 12
+Clouds              FW FW CL FW FW SC B1 B1 B1 B1 B2 B2 B2 B2 OV B2 B2 B2 B1 B1
+PoP 12hr                      0           5          10          40          40
+QPF 12hr                      0           0           0        0.05        0.07
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                            S  S  C  C  C  C  C  C  S
+Tstms                                                                         S
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          53    73      55    73      52    69      46    67
+Temp          56 55 70 69   59 55 70 69   56 53 66 64   53 47 64 63
+Dewpt         52 53 57 57   56 54 54 53   52 52 51 49   47 44 40 40
+PWind dir         E    SE       W     W       W     W       W     W
+Wind char        GN    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B1 B2 B2 B2   B1 B2 B1 SC   FW SC B1 B1   B1 SC SC SC
+PoP 12hr         30    60      40    20      20    30      10    10
+Rain shwrs     S  C  L  L    C  S  S  S    S  S  C  C    S         
+Tstms          S        C    S                                     
+
+$$
+MSZ008-242200-
+Tate-
+Including the city of Senatobia
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      66          45          64          50          68
+Temp                56 63 65 61 50 47 47 47 56 62 63 60 54 52 51 51 56 65 68 65
+Dewpt               40 36 34 38 38 36 35 36 40 40 42 44 44 45 46 48 52 53 53 53
+RH                  55 36 31 42 63 65 63 65 55 44 46 55 69 77 83 89 86 65 59 65
+Wind dir            NE NE NE NE NE  E  E  E  E  E  E NE NE  E NE NE NE  E  E NE
+Wind spd             5  9  9  6  5  5  5  5  9  6  8  6  8  9 10 10 11 12 11 12
+Clouds              FW FW CL FW SC SC B2 B1 B1 B2 B2 B2 B2 OV B2 B2 B2 B2 B1 B1
+PoP 12hr                      0           5          20          40          40
+QPF 12hr                      0           0           0   0.07-0.13        0.07
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                S  S  S  S  C  C  C  C  C  C  S  S  S
+Tstms                                                                         S
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          54    69      53    70      50    65      45    66
+Temp          56 55 66 66   57 54 67 68   56 51 65 63   51 46 63 63
+Dewpt         53 53 59 57   56 54 55 55   53 51 52 49   46 43 43 43
+PWind dir         E     E      NW    NW       W     W       W     W
+Wind char        GN    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B2 B2 B2 B2   B2 B2 B1 SC   SC B1 B1 B1   SC SC SC SC
+PoP 12hr         40    70      40    10      20    30      10    10
+Rain shwrs     S  C  L  L    C  S          S  S  C  S              
+Tstms          S     S  C    S                                     
+
+$$
+TNZ021-242200-
+Carroll-
+Including the city of Huntingdon
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      63          41          67          47          66
+Temp                54 61 63 58 47 43 42 43 56 65 67 63 54 50 49 47 55 63 66 63
+Dewpt               36 32 30 31 32 32 31 33 35 34 35 38 39 40 41 43 45 46 46 45
+RH                  50 33 29 36 56 65 65 67 45 31 30 39 57 68 74 86 69 54 48 52
+Wind dir            NE  N NE NE NE  E  E  E  E  E  E  E  E  E NE NE NE  E  E  E
+Wind spd             3  6  8  5  4  4  3  3  9  8  8  5  5  6  6  8 10 12 11 10
+Clouds              CL CL CL FW FW SC B2 B2 B1 SC SC B1 B2 OV OV OV B1 B1 B1 B1
+PoP 12hr                      0           5          10          30          30
+QPF 12hr                      0           0           0   0.14-0.20   0.12-0.23
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                            S  S  C  C  C  C  C  C  S
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          49    68      51    69      50    65      45    64
+Temp          52 50 66 64   55 52 66 66   53 51 65 62   50 46 61 60
+Dewpt         46 47 52 52   53 52 54 51   51 50 50 47   45 43 41 39
+PWind dir        NE     E       N    NW      SW     W       W     W
+Wind char        GN    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B2 B2 B2 B2   B2 B2 B2 B1   SC B1 B1 B1   B1 SC SC SC
+PoP 12hr         30    60      50    20      30    40      20    20
+Rain shwrs     S  C  C  L    C  C  S  S    S  C  C  C    S     S  S
+Tstms                   S    S                                     
+
+$$
+TNZ054-242200-
+Henderson-
+Including the city of Lexington
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      64          40          67          47          66
+Temp                54 61 63 58 47 43 42 42 55 64 67 63 54 50 49 47 55 63 66 63
+Dewpt               36 32 30 32 33 31 31 32 34 34 35 39 40 41 42 44 47 48 48 47
+RH                  50 33 29 37 58 62 65 67 45 32 30 41 59 71 77 89 74 58 52 56
+Wind dir            NE  N NE NE NE  E  E  E  E  E  E  E  E  E NE NE NE  E  E  E
+Wind spd             3  6  8  5  4  4  3  4  8  6  8  5  5  6  6  8 10 12 12 10
+Clouds              FW CL CL FW FW SC B1 B2 SC SC SC B1 B2 OV OV OV B2 B1 B1 B1
+PoP 12hr                      0           5          10          40          40
+QPF 12hr                      0           0           0   0.09-0.19   0.13-0.22
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                            C  C  C  C  C  C  C  C  S
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          49    69      52    69      49    65      44    64
+Temp          52 51 67 65   55 52 66 67   53 51 64 62   50 45 61 60
+Dewpt         47 49 53 54   53 52 54 52   51 50 50 48   45 43 41 40
+PWind dir         E     E       N    NW      SW    SW       W     W
+Wind char        GN    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B1 B2 B2 B2   B2 B2 B2 SC   SC B1 B1 B1   B1 SC SC SC
+PoP 12hr         30    60      50    20      20    40      20    20
+Rain shwrs     S  C  C  L    C  C  S  S    S  S  C  C    S     S  S
+Tstms                   S    S                                     
+
+$$
+ARZ048-242200-
+St. Francis-
+Including the city of Forrest City
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      64          46          60          49          65
+Temp                55 60 63 61 51 49 48 47 54 58 59 58 53 52 51 50 55 62 65 63
+Dewpt               42 36 35 37 37 37 37 38 40 40 41 43 45 46 47 48 49 50 51 51
+RH                  61 41 35 41 59 63 65 71 59 51 51 57 74 80 86 93 80 65 60 65
+Wind dir            NE NE NE NE  E  E NE  E  E  E  E NE NE NE NE NE NE  E NE NE
+Wind spd             5  8  9  8  6  6  5  5  8  8  8  5  9 10 10 10 12 13 12 13
+Clouds              FW CL CL FW SC B2 B2 B2 B2 B2 B2 B2 OV OV B2 OV B2 B1 B2 B2
+PoP 12hr                      0          10          30          50          40
+QPF 12hr                      0           0   0.00-0.09   0.20-0.26   0.09-0.19
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                S  S  C  C  C  C  C  C  C  C  C  C  C
+Tstms                                                                         S
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          53    65      51    69      50    63      45    65
+Temp          57 54 60 64   56 52 65 67   56 51 61 61   50 46 61 63
+Dewpt         52 52 55 55   54 52 54 54   53 51 50 47   44 42 42 41
+PWind dir         E    NE       N    NW      SW     W       W     W
+Wind char        GN    GN      GN    GN      GN    GN      BZ    BZ
+Avg clouds    B2 OV B2 B2   B2 B1 B1 SC   SC B1 B2 B1   SC SC SC SC
+PoP 12hr         60    60      30    10      30    30      10    10
+Rain shwrs     C  L  L  C    C             C  C  C  S              
+Tstms          S        S    S                                     
+
+$$
+TNZ048-242200-
+Lauderdale-
+Including the city of Ripley TN
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      64          45          65          50          66
+Temp                55 61 63 60 50 47 46 46 56 63 65 62 54 52 51 50 56 63 66 64
+Dewpt               37 32 31 33 35 33 34 34 36 35 35 39 42 43 44 44 45 47 46 46
+RH                  51 33 30 36 56 58 63 63 47 35 33 43 64 71 77 80 66 56 48 52
+Wind dir            NE NE NE NE  E  E  E  E  E  E  E  E  E  E NE NE NE  E  E  E
+Wind spd             4  8  9  6  5  5  4  5  9  8  9  5  6  8  9 10 11 13 12 12
+Clouds              FW CL CL FW FW SC B2 B2 B1 SC B1 B1 B2 OV OV OV B2 B1 B2 B2
+PoP 12hr                      0           5          20          40          30
+QPF 12hr                      0           0   0.00-0.05   0.17-0.22        0.21
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                      S  S  C  C  C  C  C  C  C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          52    67      52    69      50    63      46    64
+Temp          55 53 64 64   56 53 66 67   56 51 62 61   51 47 61 62
+Dewpt         48 49 52 53   53 52 53 52   51 50 49 46   44 42 41 40
+PWind dir        NE    NE       N    NW      SW     W       W     W
+Wind char        GN    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B2 B2 B2 B2   B2 B2 B1 B1   SC B1 B2 B1   B1 SC SC SC
+PoP 12hr         40    60      40    20      30    30      20    10
+Rain shwrs     C  C  L  L    C  S     S    C  C  C  C    S         
+Tstms                   S    S                                     
+
+$$
+MSZ014-242200-
+Union-
+Including the city of New Albany
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      66          43          67          50          67
+Temp                56 63 65 61 50 46 45 45 56 64 66 62 55 52 51 50 57 64 67 65
+Dewpt               37 32 30 33 35 34 33 34 37 36 38 40 41 43 46 47 51 51 52 51
+RH                  49 31 27 35 56 63 62 65 49 35 36 44 59 71 83 89 80 63 59 60
+Wind dir            NE NE NE NE NE NE NE NE  E  E  E NE NE NE NE NE NE  E  E NE
+Wind spd             9  9  9  6  5  5  5  5  8  5  6  6  6  8  8  9 10 11 10 12
+Clouds              FW FW CL FW FW SC B1 B1 B1 B1 B2 B2 B2 OV OV B2 B2 B2 B2 B1
+PoP 12hr                      0           5          10          40          40
+QPF 12hr                      0           0           0        0.05        0.06
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                            C  C  C  C  C  C  C  C  S
+Tstms                                                                         S
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          53    71      54    72      51    68      45    66
+Temp          55 55 69 68   59 55 69 69   56 52 66 64   52 46 63 63
+Dewpt         51 52 55 56   56 54 54 52   52 52 50 48   46 44 39 40
+PWind dir         E    SE      NW    NW       W     W       W     W
+Wind char        GN    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B1 B2 B2 B2   B2 B2 B1 SC   FW SC B1 B1   B1 SC SC SC
+PoP 12hr         40    60      40    20      20    30      10    10
+Rain shwrs     S  C  L  L    C  S  S  S    S  S  C  C              
+Tstms          S        C    S                                     
+
+$$
+TNZ090-242200-
+Hardeman-
+Including the city of Bolivar
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      64          42          65          47          66
+Temp                56 61 63 59 48 44 43 43 56 63 65 61 53 50 49 48 56 63 66 63
+Dewpt               35 31 30 32 33 33 32 33 35 34 34 38 41 43 44 46 49 49 49 48
+RH                  45 32 29 36 56 65 65 67 45 34 31 42 64 77 83 93 77 60 54 58
+Wind dir            NE NE NE NE NE  E  E  E  E  E  E  E NE  E NE NE NE  E  E  E
+Wind spd             4  8  8  6  4  4  3  3  6  6  6  5  5  6  6  8  9 11 11 11
+Clouds              FW CL CL FW FW SC B2 B2 B1 B1 B1 B2 OV OV OV OV B2 B1 B1 B1
+PoP 12hr                      0           0          10          40          40
+QPF 12hr                      0           0           0   0.06-0.14   0.07-0.22
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                            C  C  C  C  C  C  C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          50    69      52    69      49    65      45    64
+Temp          53 51 67 65   56 53 66 67   54 50 64 62   50 45 61 61
+Dewpt         49 50 54 54   55 52 53 51   52 50 49 47   45 42 40 39
+PWind dir         E    SE      NW    NW       W     W       W     W
+Wind char        GN    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B1 B2 B2 B2   B2 B2 B2 SC   SC B1 B1 B1   B1 SC SC SC
+PoP 12hr         40    70      40    20      30    30      20    10
+Rain shwrs     C  C  L  L    C  S  S  S    C  C  C  C    S         
+Tstms          S        C    S                                     
+
+$$
+TNZ091-242200-
+McNairy-
+Including the city of Selmer
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      64          41          66          48          66
+Temp                55 61 63 59 48 43 42 43 56 64 66 62 54 51 50 48 56 63 66 63
+Dewpt               35 31 30 32 33 33 32 33 35 34 34 39 40 43 45 46 49 49 49 49
+RH                  47 32 29 36 56 67 67 67 45 32 30 43 59 74 83 93 77 60 54 60
+Wind dir             E NE NE NE NE NE NE NE  E  E  E  E NE NE NE NE NE  E  E NE
+Wind spd             4  8  8  5  4  4  3  3  8  6  6  5  5  6  6  8  9 11 11 10
+Clouds              FW CL CL FW FW SC B1 B2 SC B1 B1 B1 B2 OV OV OV B2 B1 B1 B1
+PoP 12hr                      0           0          10          40          40
+QPF 12hr                      0           0           0        0.06   0.07-0.16
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                            C  C  C  C  C  C  C  C  S
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          50    70      53    70      50    66      45    64
+Temp          53 51 67 66   57 53 67 67   54 51 64 62   51 46 61 61
+Dewpt         49 50 54 55   55 53 53 52   52 50 50 48   46 43 40 40
+PWind dir         E    SE      NW    NW       W     W       W     W
+Wind char        GN    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B1 B2 B2 B2   B2 B2 B2 SC   SC B1 B1 B1   B1 SC SC SC
+PoP 12hr         40    60      50    20      20    30      20    10
+Rain shwrs     S  C  L  L    C  C  S  S    S  S  C  C    S         
+Tstms          S        C    S                                     
+
+$$
+TNZ092-242200-
+Hardin-
+Including the city of Savannah
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      65          41          67          48          66
+Temp                55 62 64 59 48 44 42 43 56 65 67 63 54 51 50 49 56 63 66 63
+Dewpt               36 32 30 32 34 32 31 32 34 33 34 39 40 42 44 46 49 50 49 49
+RH                  49 32 28 36 58 62 65 65 43 30 29 41 59 71 80 89 77 62 54 60
+Wind dir            NE  N  N NE NE  E NE  E  E  E  E  E NE NE NE NE NE  E  E NE
+Wind spd             4  6  6  4  4  4  3  3  6  5  5  5  5  5  6  8 10 11 11 10
+Clouds              FW CL CL FW FW SC SC B2 SC SC B1 B1 B2 OV OV B2 B2 B2 B1 B1
+PoP 12hr                      0           0          10          40          40
+QPF 12hr                      0           0           0   0.04-0.09   0.07-0.13
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                            C  C  C  C  C  C  C  C  S
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          51    71      54    70      50    68      45    65
+Temp          53 52 69 67   57 54 67 68   55 51 65 64   52 46 62 61
+Dewpt         49 50 54 56   55 54 54 52   52 51 50 49   46 44 40 40
+PWind dir         E    SE       S     W       W     W       W     W
+Wind char        GN    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B1 B2 B2 B2   B2 B2 B2 SC   SC SC B1 B1   B1 SC SC SC
+PoP 12hr         30    60      50    20      20    30      20    10
+Rain shwrs     S  C  L  L    C  C  S  S    S  S  C  C    S     S   
+Tstms                   C    S                                     
+
+$$
+MSZ010-242200-
+Coahoma-
+Including the city of Clarksdale
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      66          48          65          52          69
+Temp                57 63 65 63 53 51 50 49 56 62 64 62 56 55 53 52 59 66 69 67
+Dewpt               43 38 37 40 41 40 39 40 41 43 43 45 47 47 48 50 53 55 56 55
+RH                  59 39 35 43 64 66 66 71 57 50 46 54 72 74 83 93 80 68 63 65
+Wind dir            NE NE NE NE NE  E NE  E  E  E NE NE NE NE NE NE NE  E NE NE
+Wind spd             9 10 10  8  6  6  5  6  9  8 10  9 11 10 10 10 12 10 11 12
+Clouds              FW FW CL FW SC B1 B2 B2 B2 B2 B2 B2 B2 OV B2 B2 B2 B2 B1 B1
+PoP 12hr                      0          20          30          50          40
+QPF 12hr                      0           0           0   0.17-0.26        0.04
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                S  S  C  C  C  C  C  C  C  C  S  S  C
+Tstms                                                                         S
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          57    70      54    71      52    66      48    67
+Temp          59 57 65 68   59 55 68 69   58 53 64 64   53 48 64 65
+Dewpt         57 57 60 59   58 55 57 57   56 52 53 51   48 45 44 44
+PWind dir         E     E      NW    NW       W    NW      NW     W
+Wind char        GN    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B2 B2 B2 B2   B2 B1 B1 SC   SC B1 B1 B1   SC SC SC SC
+PoP 12hr         50    70      30    10      20    20      10    10
+Rain shwrs     C  C  L  C    C             S  S  S  S              
+Tstms          S  S  S  C    S                                     
+
+$$
+MSZ009-242200-
+Prentiss-
+Including the city of Booneville
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      65          42          67          50          66
+Temp                55 62 64 60 50 46 44 44 56 64 66 63 55 53 51 50 56 63 66 64
+Dewpt               35 33 31 34 35 34 33 34 36 35 36 40 41 44 46 48 51 52 51 51
+RH                  47 33 29 37 56 63 65 68 47 34 33 43 59 71 83 93 83 67 58 63
+Wind dir            NE NE NE NE NE NE NE NE  E  E  E NE NE NE NE NE NE  E NE NE
+Wind spd             8  9  8  6  5  5  5  4  8  5  5  5  6  8  8 10 10 11 11 11
+Clouds              FW FW CL FW FW FW SC B2 B1 SC B2 B2 B2 OV OV B2 B2 B2 B2 B1
+PoP 12hr                      0           0          10          40          40
+QPF 12hr                      0           0           0        0.04        0.06
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                            S  S  C  C  C  C  C  C  S
+Tstms                                                                         S
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          53    71      55    71      51    68      45    65
+Temp          55 54 69 68   59 55 68 69   56 52 65 64   53 46 62 62
+Dewpt         51 52 55 57   56 54 54 53   52 52 51 49   47 44 40 40
+PWind dir         E    SE       W     W       W     W       W     W
+Wind char        GN    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B1 B2 B2 B2   B2 B2 B1 SC   FW SC B1 B1   B1 SC SC SC
+PoP 12hr         30    60      50    20      20    30      20    10
+Rain shwrs     S  C  L  L    C  C  S  S    S  S  C  C    S         
+Tstms          S        C    S                                     
+
+$$
+ARZ027-242200-
+Poinsett-
+Including the city of Harrisburg
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      64          47          62          50          65
+Temp                55 61 63 62 52 50 49 47 55 60 62 60 54 52 52 50 55 62 65 64
+Dewpt               39 34 33 34 36 36 35 37 38 37 38 40 43 44 45 46 46 47 47 47
+RH                  55 36 32 35 54 58 58 68 53 42 41 47 66 74 77 86 72 58 52 54
+Wind dir             E NE  E  E  E  E  E  E SE  E  E SE  E NE NE NE NE  E  E NE
+Wind spd             5  8  9  6  5  5  4  5  8  8  8  5  6  9 10 10 12 13 13 13
+Clouds              FW CL CL FW SC B1 B2 B2 B2 B1 B1 B2 OV OV OV OV B2 B1 B2 B2
+PoP 12hr                      0          10          30          50          40
+QPF 12hr                      0           0   0.06-0.14   0.25-0.35        0.22
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                S  S  C  C  C  C  C  C  C  C  C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          53    64      51    69      50    63      46    65
+Temp          57 54 60 64   56 52 66 67   57 51 60 61   51 47 61 63
+Dewpt         49 50 53 53   53 51 52 53   52 50 48 45   43 41 40 40
+PWind dir        NE    NE       N    NW      SW     W       W     W
+Wind char        GN    GN      GN    GN      GN    GN      BZ    BZ
+Avg clouds    B2 OV B2 B2   B2 B1 B1 SC   SC B1 B1 B1   SC SC SC SC
+PoP 12hr         50    60      30    10      30    30      10    10
+Rain shwrs     C  C  L  C    C        S    C  C  C  C              
+Tstms                   S    S                                     
+
+$$
+MSZ017-242200-
+Itawamba-
+Including the city of Fulton
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      67          43          69          51          69
+Temp                56 63 66 62 51 48 45 45 57 66 69 66 57 54 53 52 57 65 68 66
+Dewpt               36 33 32 34 36 34 33 33 36 36 37 40 42 43 46 48 52 54 54 52
+RH                  47 32 28 35 56 58 62 62 45 33 31 38 57 66 77 86 83 68 61 61
+Wind dir            NE NE NE NE NE NE NE NE  E NE NE NE NE NE NE NE  E  E NE NE
+Wind spd             9  9  8  6  5  5  5  5  6  4  5  5  8  8  8 10 10  9  9 11
+Clouds              FW FW FW FW FW SC SC B2 SC SC B1 B2 B2 B2 OV B2 B2 B2 B1 B1
+PoP 12hr                      0           0          10          40          40
+QPF 12hr                      0           0           0        0.04        0.06
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                            S  S  C  C  C  C  C  C  S
+Tstms                                                                         S
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          53    73      56    73      52    69      46    67
+Temp          56 55 69 70   60 57 70 71   56 53 68 67   53 47 64 64
+Dewpt         52 53 57 57   57 56 56 53   52 52 52 50   47 45 41 41
+PWind dir         E    SE       W     W       W     W       W     W
+Wind char        GN    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B1 B2 B2 B2   B2 B2 B1 SC   FW SC B1 B1   B1 SC SC SC
+PoP 12hr         30    60      50    20      20    30      20    10
+Rain shwrs     S  C  C  L    C  C  S  S       S  C  C    S         
+Tstms          S        C    C                                     
+
+$$
+MSZ004-242200-
+Tippah-
+Including the city of Ripley MS
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      65          42          66          49          66
+Temp                55 62 64 59 49 45 44 44 56 63 65 62 54 51 50 49 56 63 66 63
+Dewpt               36 31 29 33 34 34 33 33 36 35 36 39 41 44 46 47 50 50 50 50
+RH                  49 31 27 37 56 65 65 65 47 35 34 43 61 77 86 93 80 62 56 62
+Wind dir            NE NE NE NE NE  E  E  E  E  E  E NE NE NE NE NE NE  E  E NE
+Wind spd             6  9  9  6  5  5  4  4  8  5  6  5  6  8  8  9 10 11 11 12
+Clouds              FW FW CL FW FW SC B1 B1 B1 B1 B2 B2 B2 OV B2 OV B2 B1 B2 B1
+PoP 12hr                      0           0          10          40          40
+QPF 12hr                      0           0           0        0.06        0.06
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                            C  C  C  C  C  C  C  C  S
+Tstms                                                                         S
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          53    70      54    70      50    66      45    65
+Temp          54 53 68 67   58 54 68 68   55 51 65 63   51 46 62 61
+Dewpt         51 52 55 55   56 54 53 51   52 51 49 48   46 43 39 39
+PWind dir         E    SE      NW    NW       W     W       W     W
+Wind char        GN    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B1 B2 B2 B2   B2 B2 B1 SC   FW SC B1 B1   B1 SC SC SC
+PoP 12hr         40    60      40    20      20    30      10    10
+Rain shwrs     S  C  L  L    C  S  S  S    S  S  C  C    S         
+Tstms          S        C    S                                     
+
+$$
+ARZ058-242200-
+Phillips-
+Including the cities of Helena and West Helena
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      65          48          63          51          67
+Temp                56 62 64 62 53 50 50 49 55 60 62 60 55 53 53 52 57 64 67 65
+Dewpt               44 39 38 41 41 40 40 40 42 43 44 46 47 48 49 50 52 55 56 56
+RH                  64 43 38 46 64 68 68 71 61 53 52 60 74 83 86 93 83 73 68 73
+Wind dir            NE NE NE NE NE  E NE  E  E  E  E NE NE NE NE NE NE  E NE NE
+Wind spd             8 10  9  6  6  6  5  6  9  8  9  8 10 10 10 10 12 11 11 12
+Clouds              FW FW CL FW SC B1 B2 B2 B2 B2 B2 B2 B2 OV B2 B2 B2 B2 B2 B1
+PoP 12hr                      0          20          30          50          40
+QPF 12hr                      0           0           0   0.19-0.28        0.04
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                S  S  C  C  C  C  C  C  C  C  S  S  C
+Tstms                                                                         S
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          56    68      53    70      52    65      47    67
+Temp          59 56 63 66   58 54 67 69   57 53 62 63   52 48 63 64
+Dewpt         57 56 59 59   58 54 57 58   55 52 53 51   48 44 44 45
+PWind dir         E     E       N    NW       W     W      NW     W
+Wind char        GN    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B2 B2 B2 B2   B2 B1 B1 SC   SC B1 B1 B1   SC SC SC SC
+PoP 12hr         50    70      30    10      30    20      10    10
+Rain shwrs     C  C  L  C    C             S  C  S  S              
+Tstms          S  S  S  C    S                                     
+
+$$
+MSZ006-242200-
+Tishomingo-
+Including the city of Iuka
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      65          42          67          49          66
+Temp                55 62 64 59 49 46 43 44 56 64 67 63 55 52 50 50 56 62 66 63
+Dewpt               34 32 31 33 35 33 33 33 35 34 35 39 41 44 46 48 51 51 51 51
+RH                  45 32 29 37 58 60 67 65 45 32 30 41 59 74 86 93 83 67 58 65
+Wind dir            NE NE NE NE NE  E  E  E  E  E  E  E NE NE  E NE  E  E  E NE
+Wind spd             6  8  8  5  4  5  4  4  8  5  5  5  5  8  8 10 10 11 11 11
+Clouds              FW FW CL FW FW FW SC B2 SC SC B1 B1 B2 OV OV B2 B2 B2 B2 B1
+PoP 12hr                      0           0          10          40          40
+QPF 12hr                      0           0           0        0.04        0.06
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                            S  S  C  C  C  C  C  C  S
+Tstms                                                                         S
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          52    71      54    71      51    68      45    65
+Temp          54 53 69 68   58 55 68 68   55 52 65 64   53 46 62 61
+Dewpt         51 52 55 57   56 54 54 53   52 52 51 49   47 44 40 40
+PWind dir         E    SE      SW     W       W     W       W     W
+Wind char        GN    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B1 B2 B2 B2   B2 B2 B2 SC   FW SC B1 B1   B1 SC SC SC
+PoP 12hr         30    60      50    20      20    30      20    10
+Rain shwrs     S  C  L  L    C  C  S  S    S  S  C  C    S         
+Tstms          S        C    C                                     
+
+$$
+TNZ050-242200-
+Haywood-
+Including the city of Brownsville
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      64          42          66          49          66
+Temp                55 60 63 59 48 45 44 44 56 63 65 62 53 51 50 49 56 63 66 64
+Dewpt               37 32 31 33 34 33 33 34 36 35 36 39 41 43 44 44 47 48 47 47
+RH                  51 35 30 37 58 62 65 68 47 35 34 43 64 74 80 83 72 58 50 54
+Wind dir             E NE NE NE  E  E  E  E  E  E  E  E  E  E NE NE NE  E  E  E
+Wind spd             4  8  8  5  4  5  3  3  8  6  8  5  5  6  9  9 10 12 12 11
+Clouds              FW CL CL FW FW SC B2 B2 B1 B1 B1 B1 B2 OV OV OV B2 B1 B1 B2
+PoP 12hr                      0           5          10          40          30
+QPF 12hr                      0           0        0.02        0.16        0.23
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                      S  S  C  C  C  C  C  C  C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          51    67      52    69      50    64      45    64
+Temp          54 52 64 64   56 52 66 67   54 51 63 62   50 46 61 61
+Dewpt         49 49 53 54   54 52 53 52   51 50 49 47   45 42 41 40
+PWind dir         E     E       N    NW       W     W       W     W
+Wind char        GN    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B2 B2 B2 B2   B2 B2 B2 B1   SC B1 B2 B1   B1 SC SC SC
+PoP 12hr         40    60      40    20      30    30      20    10
+Rain shwrs     C  C  L  L    C  S  S  S    C  C  C  C    S         
+Tstms                   S    S                                     
+
+$$
+MOZ115-242200-
+Pemiscot-
+Including the city of Caruthersville
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      63          45          66          50          66
+Temp                54 60 62 60 50 48 47 46 56 63 66 63 54 52 50 50 56 63 66 64
+Dewpt               38 31 30 32 35 34 34 34 36 34 34 38 41 42 42 43 45 44 44 45
+RH                  54 33 30 35 56 58 60 63 47 34 30 39 61 69 74 77 66 50 45 50
+Wind dir            NE NE NE  E  E  E  E  E SE SE  E  E  E  E NE NE NE  E  E NE
+Wind spd             4  8  9  6  4  5  4  4  9  9  9  6  8  8  8 10 13 14 14 13
+Clouds              CL CL CL FW SC B1 B2 B2 B1 SC SC B1 B2 OV B2 B2 B1 B1 B1 B2
+PoP 12hr                      0           5          10          30          30
+QPF 12hr                      0           0           0   0.19-0.28   0.05-0.16
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                            C  C  C  C  C  C  S  S  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          51    66      51    68      50    63      46    64
+Temp          55 51 62 63   55 52 65 66   56 51 60 61   51 47 60 62
+Dewpt         47 46 50 52   52 50 52 52   51 49 48 46   44 41 40 40
+PWind dir        NE    NE       N    NW      SW     W       W     W
+Wind char        GN    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B2 B2 B2 B2   B2 B1 B1 SC   B1 B1 B2 B1   SC SC SC SC
+PoP 12hr         40    60      30    20      30    30      20    10
+Rain shwrs     C  C  L  C    C  S     S    C  C  C  C    S         
+Tstms                   S                                          
+
+$$
+ARZ035-242200-
+Cross-
+Including the city of Wynne
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      63          47          60          49          65
+Temp                55 60 63 61 52 50 49 47 54 58 60 58 54 52 51 50 55 62 65 63
+Dewpt               40 35 34 35 37 36 37 37 39 39 40 42 44 45 46 47 48 49 49 49
+RH                  57 39 34 38 56 58 63 68 57 49 47 55 69 77 83 89 77 62 56 60
+Wind dir             E NE  E  E  E  E NE  E  E  E  E  E  E  E NE NE NE  E  E NE
+Wind spd             5  8  9  8  5  5  4  5  6  8  8  5  6  9 10 11 12 13 13 13
+Clouds              CL CL CL FW SC B2 B2 B2 B2 B1 B2 B2 OV OV OV OV B2 B1 B1 B2
+PoP 12hr                      0          10          30          50          40
+QPF 12hr                      0           0   0.03-0.13   0.22-0.32        0.19
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                S  S  C  C  C  C  C  C  C  C  C  C  C
+Tstms                                                                         S
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          53    63      51    68      50    63      45    64
+Temp          57 54 59 63   56 52 65 67   56 51 60 61   50 46 61 63
+Dewpt         50 51 55 54   53 52 53 54   52 50 49 46   44 41 41 41
+PWind dir        NE    NE       N    NW      SW     W       W     W
+Wind char        GN    GN      GN    GN      GN    GN      BZ    BZ
+Avg clouds    B2 OV B2 B2   B2 B1 B1 SC   SC B1 B2 B1   SC SC SC SC
+PoP 12hr         60    60      30    10      30    30      10    10
+Rain shwrs     C  L  L  C    C             C  C  C  S              
+Tstms          S        S    S                                     
+
+$$
+MSZ023-242200-
+Chickasaw-
+Including the cities of Houston and Okolona
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      68          44          70          51          71
+Temp                57 64 67 62 51 48 45 46 58 67 69 65 56 54 53 52 59 67 71 67
+Dewpt               39 34 33 36 37 36 35 35 39 39 41 42 44 44 46 48 53 54 55 54
+RH                  51 32 28 38 59 63 68 65 49 36 36 43 64 69 77 86 80 63 57 63
+Wind dir            NE NE NE NE NE NE NE NE  E  E NE NE NE NE NE NE  E  E  E NE
+Wind spd            10  9  8  6  5  5  5  4  6  5  5  6  8  6  6  8  9  9  9 11
+Clouds              FW FW CL FW FW SC SC B1 B1 B1 B1 B2 B2 B2 OV B2 B2 B2 B1 B1
+PoP 12hr                      0           5          10          40          40
+QPF 12hr                      0           0           0        0.04        0.07
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                            S  S  C  C  C  C  C  C  S
+Tstms                                                                         S
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          54    75      56    74      52    70      46    69
+Temp          57 55 71 70   60 56 71 70   56 53 69 66   53 47 65 64
+Dewpt         54 54 59 58   58 56 56 55   54 53 53 52   49 45 42 42
+PWind dir         E    SE       W     W       W     W       W     W
+Wind char        GN    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B1 B2 B2 B2   B1 B2 B1 FW   FW SC B1 B1   B1 SC SC FW
+PoP 12hr         30    60      40    20      20    30      10    10
+Rain shwrs     S  C  C  L    C  S  S  S       S  C  C    S         
+Tstms          S        C    C                                     
+
+$$
+TNZ053-242200-
+Chester-
+Including the city of Henderson
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      64          40          66          47          66
+Temp                55 61 63 59 47 43 42 42 56 64 66 62 53 50 49 48 55 63 66 63
+Dewpt               35 32 31 32 33 32 31 32 34 34 35 38 40 42 44 45 48 48 49 47
+RH                  47 33 30 36 58 65 65 67 43 32 32 41 61 74 83 89 77 58 54 56
+Wind dir            NE NE NE NE NE  E  E  E  E  E  E  E NE  E NE NE NE  E  E  E
+Wind spd             4  8  8  5  4  4  3  3  8  6  6  5  5  6  6  8 10 11 11 10
+Clouds              FW CL CL FW FW SC B1 B2 B1 B1 B1 B1 B2 OV OV OV B2 B1 B1 B1
+PoP 12hr                      0           5          10          40          40
+QPF 12hr                      0           0           0        0.10   0.13-0.19
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                            C  C  C  C  C  C  C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          50    69      52    69      49    65      44    64
+Temp          52 52 66 65   56 53 66 67   54 50 64 62   50 45 61 61
+Dewpt         48 49 54 55   54 52 54 52   51 50 50 48   45 43 40 39
+PWind dir         E     E       N    NW       W     W       W     W
+Wind char        GN    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B1 B2 B2 B2   B2 B2 B2 SC   SC B1 B1 B1   B1 SC SC SC
+PoP 12hr         40    60      50    20      30    40      20    10
+Rain shwrs     C  C  L  L    C  S  S  S    C  S  C  C    S        S
+Tstms                   S    S                                     
+
+$$
+TNZ022-242200-
+Benton TN-
+Including the city of Camden
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      63          40          67          47          65
+Temp                54 60 62 58 47 43 42 43 55 65 67 63 54 50 49 47 55 63 65 63
+Dewpt               34 31 29 30 32 31 30 32 33 32 33 37 38 38 39 42 44 45 44 44
+RH                  46 33 28 34 56 62 62 65 43 29 28 38 54 63 68 83 66 52 46 50
+Wind dir             N  N  N NE NE  E  E  E  E  E  E  E NE  E NE NE NE  E  E  E
+Wind spd             3  6  6  5  4  4  3  3  8  6  8  6  5  5  5  6  9 11 11 10
+Clouds              CL CL CL FW FW SC B2 B2 B1 SC SC B1 B2 B2 OV B2 B1 B1 B1 B1
+PoP 12hr                      0           0          10          30          30
+QPF 12hr                      0           0           0   0.09-0.20   0.06-0.23
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                            S  S  C  C  C  C  C  C  S
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          48    68      51    69      50    65      44    64
+Temp          52 49 66 65   54 52 66 66   53 51 65 62   49 45 61 60
+Dewpt         45 46 50 52   52 52 53 50   50 50 49 46   45 43 40 39
+PWind dir        NE     E       N    NW      SW    SW       W     W
+Wind char        GN    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B1 B2 B2 B2   B2 B2 B2 B1   SC B1 B1 B1   B1 SC SC SC
+PoP 12hr         30    60      50    30      20    40      20    20
+Rain shwrs     S  C  C  L    C  C  S  C    S  S  C  C    S     S  S
+Tstms                   S    S                                     
+
+$$
+ARZ009-242200-
+Clay-
+Including the cities of Piggott and Corning
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      64          45          65          49          66
+Temp                54 60 63 61 51 49 47 46 56 62 65 63 54 52 50 49 56 63 66 64
+Dewpt               37 32 32 34 36 36 36 36 38 36 36 39 41 43 44 45 46 45 45 45
+RH                  52 35 31 36 56 61 65 68 51 38 34 41 61 71 80 86 69 52 47 50
+Wind dir             E  E  E  E  E SE  E  E SE SE SE  E  E NE NE NE NE NE  E NE
+Wind spd             5  8  8  6  5  4  3  4  8  8  9  6  8  5  6  9 13 14 14 13
+Clouds              CL CL FW FW SC B2 B2 B2 B1 SC B1 B1 B2 B2 B2 B2 B1 B1 B1 B2
+PoP 12hr                      0           5          20          30          30
+QPF 12hr                      0           0        0.01   0.22-0.35   0.04-0.10
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                      S  S  C  C  C  C  C  C  C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          50    66      49    69      49    63      45    65
+Temp          55 51 61 62   54 50 66 67   55 50 60 60   50 46 61 62
+Dewpt         48 46 50 52   51 50 52 53   52 49 48 46   44 41 40 40
+PWind dir        NE    NE       N    NW      SW     W       W     W
+Wind char        GN    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B2 B2 B2 B2   B2 B1 SC SC   B1 B1 B2 B1   SC SC SC SC
+PoP 12hr         40    50      30    20      30    30      10    10
+Rain shwrs     C  C  C  C    C  S     S    C  C  C  C              
+Tstms                   S                                          
+
+$$
+MSZ020-242200-
+Tallahatchie-
+Including the city of Charleston
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      67          47          67          52          71
+Temp                58 64 66 63 53 50 49 49 58 64 66 64 57 55 54 52 59 68 71 68
+Dewpt               41 36 36 39 40 39 38 37 40 42 43 46 46 46 46 48 53 55 56 56
+RH                  53 35 33 41 61 66 66 63 51 45 43 52 67 72 74 86 80 63 59 65
+Wind dir            NE NE NE NE NE NE  E  E  E  E  E NE NE  E  E  E  E  E  E NE
+Wind spd             9  9  8  6  5  5  5  5  9  8  9  9 10 10 10 10 11 10 11 12
+Clouds              FW FW CL FW SC B1 B2 B2 B2 B1 B2 B2 B2 B2 B2 B2 B2 B1 B1 B1
+PoP 12hr                      0          10          20          40          30
+QPF 12hr                      0           0           0   0.12-0.23        0.03
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                      S  S  S  S  C  C  C  C  S  S  S
+Tstms                                                                         S
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          56    71      55    72      52    67      47    68
+Temp          59 57 68 68   59 55 69 70   57 53 66 65   54 48 64 65
+Dewpt         56 56 60 59   58 55 57 56   55 52 53 52   49 44 44 44
+PWind dir         E     S      NW    NW       W     W      NW     W
+Wind char        GN    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B1 B2 B2 B2   B2 B1 B1 SC   FW SC B1 B1   B1 SC SC SC
+PoP 12hr         40    70      30    10      20    20      10    10
+Rain shwrs     S  C  L  L    C  S          S  S  S  S              
+Tstms          S  S  S  C    S                                     
+
+$$
+MSZ022-242200-
+Calhoun-
+Including the cities of Bruce and Calhoun City
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      68          44          69          50          71
+Temp                57 64 67 62 50 47 45 46 57 66 68 64 56 52 52 51 58 67 71 66
+Dewpt               39 34 33 36 37 36 35 35 38 39 41 42 43 44 46 47 52 53 55 54
+RH                  51 32 28 38 61 65 68 65 49 37 37 45 62 74 80 86 80 61 57 65
+Wind dir            NE NE NE NE NE NE NE NE  E  E NE NE NE  E  E NE  E  E  E NE
+Wind spd             9  8  8  5  5  5  5  4  8  5  6  8  8  8  8  8  9  9 10 11
+Clouds              FW FW CL FW FW SC B1 B1 B1 B1 B2 B2 B2 B1 B2 B2 B2 B1 B1 B1
+PoP 12hr                      0           5          10          40          40
+QPF 12hr                      0           0           0        0.08        0.06
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                      S  S  S  S  C  C  C  C  C  C  S
+Tstms                                                                         S
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          54    73      55    74      52    69      45    68
+Temp          56 55 71 69   59 55 71 70   56 53 68 65   53 46 65 64
+Dewpt         54 54 58 57   57 55 55 54   53 52 51 50   48 44 41 41
+PWind dir         E     S       W     W       W     W       W     W
+Wind char        GN    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B1 B2 B2 B2   B1 B2 B1 FW   FW SC B1 B1   B1 SC SC SC
+PoP 12hr         30    60      40    10      20    30      10    10
+Rain shwrs     S  C  L  L    C  S             S  S  C              
+Tstms          S        C    S                                     
+
+$$
+TNZ051-242200-
+Crockett-
+Including the city of Alamo
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      64          42          66          49          66
+Temp                54 60 63 59 48 44 44 44 56 64 66 63 54 51 50 49 56 63 66 64
+Dewpt               38 32 31 33 33 33 32 33 36 35 35 39 40 42 43 43 46 47 46 46
+RH                  54 35 30 37 56 65 62 65 47 34 32 41 59 71 77 80 69 56 48 52
+Wind dir            NE NE NE NE  E  E  E  E  E  E  E  E  E  E NE NE NE  E  E  E
+Wind spd             3  6  8  5  4  4  4  4  9  8  9  5  5  6  8  9 10 12 12 12
+Clouds              CL CL CL FW FW SC B2 B2 B1 SC B1 B1 OV OV OV OV B2 B1 B1 B2
+PoP 12hr                      0           5          10          40          30
+QPF 12hr                      0           0           0        0.16        0.22
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                            C  C  C  C  C  C  C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          50    67      52    69      50    64      45    64
+Temp          53 52 65 64   56 52 66 67   55 51 63 62   50 46 61 61
+Dewpt         47 48 52 53   53 52 53 51   51 49 49 47   44 42 41 39
+PWind dir        NE     E       N    NW       W     W       W     W
+Wind char        GN    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B2 B2 B2 B2   B2 B2 B2 B1   SC B1 B2 B1   B1 SC SC SC
+PoP 12hr         40    60      40    20      30    40      20    10
+Rain shwrs     C  C  L  L    C  S  S  S    C  C  C  C    S        S
+Tstms                   S    S                                     
+
+$$
+MSZ021-242200-
+Yalobusha-
+Including the cities of Water Valley and Coffeeville
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      67          45          67          50          71
+Temp                57 63 66 62 51 48 47 46 56 65 66 63 56 53 52 51 58 67 70 66
+Dewpt               39 34 33 37 38 37 36 35 38 39 41 44 44 44 45 47 52 53 54 54
+RH                  51 34 29 39 61 65 65 65 51 38 40 50 64 71 77 86 80 61 57 65
+Wind dir            NE NE NE NE NE  E  E  E  E  E  E NE NE  E  E  E  E  E  E NE
+Wind spd             8  8  8  5  4  5  5  5  8  6  8  8  9  9  9  9 10 10 10 11
+Clouds              FW FW CL FW SC SC B1 B1 B1 B1 B2 B2 B2 B2 B2 B2 B2 B2 B1 B1
+PoP 12hr                      0           5          20          40          40
+QPF 12hr                      0           0           0   0.08-0.14        0.05
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                      S  S  S  S  C  C  C  C  S  S  S
+Tstms                                                                         S
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          54    72      54    72      51    68      45    67
+Temp          57 55 69 68   58 55 69 69   56 52 66 64   52 46 64 64
+Dewpt         54 54 58 57   57 54 55 54   53 52 51 50   47 44 41 42
+PWind dir         E     S       W    NW       W     W       W     W
+Wind char        GN    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B1 B2 B2 B2   B2 B2 B1 SC   FW SC B1 B1   B1 SC SC SC
+PoP 12hr         40    70      40    10      20    30      10    10
+Rain shwrs     S  C  L  L    C  S          S  S  C  S              
+Tstms          S  S  S  C    S                                     
+
+$$
+TNZ055-242200-
+Decatur-
+Including the cities of Parsons and Decaturville
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      64          40          68          47          66
+Temp                55 62 63 58 47 42 41 42 56 65 68 63 54 51 49 47 56 63 66 63
+Dewpt               35 32 30 32 33 31 30 31 33 33 35 39 39 40 42 44 47 48 48 47
+RH                  47 32 29 37 58 65 65 65 42 30 29 41 57 66 77 89 72 58 52 56
+Wind dir             N  N  N NE NE  E  E  E  E  E  E  E  E  E NE NE NE  E  E  E
+Wind spd             3  6  6  5  4  4  3  3  8  6  6  5  5  5  6  6  9 11 11 10
+Clouds              FW CL CL FW FW SC B1 B2 SC SC SC B1 B2 OV OV OV B2 B1 B1 B1
+PoP 12hr                      0           0          10          40          40
+QPF 12hr                      0           0           0   0.07-0.19   0.11-0.21
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                            S  S  C  C  C  C  C  C  S
+Wind chill                            39                                       
+Min chill                          39    37                                    
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          49    71      52    70      50    67      44    64
+Temp          52 51 68 66   56 53 67 67   54 51 65 63   50 45 61 61
+Dewpt         47 49 53 54   54 53 54 52   51 50 51 48   45 44 41 40
+PWind dir         E    SE       N    NW      SW    SW       W     W
+Wind char        GN    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B1 B2 B2 B2   B2 B2 B2 SC   SC B1 B1 B1   B1 B1 SC SC
+PoP 12hr         30    60      50    20      20    40      20    20
+Rain shwrs     S  C  C  L    C  C  S  S    S  S  C  C    S     S  S
+Tstms                   S    S                                     
+
+$$
+MSZ007-242200-
+Tunica-
+Including the city of Tunica
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      66          46          63          50          68
+Temp                56 62 64 62 51 49 48 48 56 61 62 60 54 53 52 52 57 65 68 66
+Dewpt               42 37 36 39 39 38 37 38 40 41 43 44 46 47 48 49 51 53 54 53
+RH                  59 39 35 43 63 66 65 68 55 48 50 55 74 80 86 89 80 65 61 63
+Wind dir            NE NE NE NE NE  E NE  E  E  E  E NE NE NE NE NE NE  E NE NE
+Wind spd             6  9 10  8  6  6  5  5  8  6  8  6 10 10 10 10 12 11 11 12
+Clouds              FW FW CL FW SC SC B2 B2 B2 B2 B2 B2 OV OV OV B2 B2 B2 B1 B1
+PoP 12hr                      0          10          30          50          40
+QPF 12hr                      0           0           0   0.13-0.20        0.06
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                S  S  C  C  C  C  C  C  C  C  S  S  C
+Tstms                                                                         S
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          55    69      53    70      51    65      46    67
+Temp          58 56 65 66   58 54 67 68   57 52 64 63   52 47 63 64
+Dewpt         54 54 59 58   57 54 55 55   54 52 52 49   47 44 44 43
+PWind dir         E     E       N    NW       W     W       W     W
+Wind char        GN    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B2 B2 B2 B2   B2 B1 B1 SC   SC B1 B2 B1   SC SC SC SC
+PoP 12hr         50    70      30    10      30    30      10    10
+Rain shwrs     C  C  L  C    C             S  C  C  S              
+Tstms          S  S  S  C    S                                     
+
+$$
+ARZ049-242200-
+Lee AR-
+Including the city of Marianna
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      64          47          61          50          66
+Temp                56 61 63 61 51 49 49 47 54 58 60 59 53 52 51 51 56 63 66 64
+Dewpt               43 38 36 40 39 39 39 39 41 42 43 45 46 47 48 49 51 52 53 53
+RH                  62 42 36 46 63 68 68 74 61 55 53 60 77 83 89 93 83 67 63 67
+Wind dir            NE NE NE NE NE  E NE NE  E  E NE NE NE NE NE NE NE  E NE NE
+Wind spd             6  8  9  6  6  6  5  5  8  8  8  6 10 10 10 10 12 12 11 13
+Clouds              FW FW CL FW SC B1 OV B2 B2 B2 B2 B2 OV OV OV B2 B2 B2 B2 B2
+PoP 12hr                      0          20          30          50          40
+QPF 12hr                      0           0   0.00-0.07   0.17-0.24   0.04-0.12
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                S  S  C  C  C  C  C  C  C  C  C  C  C
+Tstms                                                                         S
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          54    66      52    70      51    64      46    66
+Temp          57 55 62 64   57 53 66 68   56 52 61 62   51 47 62 63
+Dewpt         54 54 57 57   56 53 55 56   54 51 51 48   46 43 43 43
+PWind dir         E    NE       N    NW      SW     W       W     W
+Wind char        GN    GN      GN    GN      LT    GN      BZ    BZ
+Avg clouds    B2 B2 B2 B2   B2 B1 B1 SC   SC B1 B2 B1   SC SC SC SC
+PoP 12hr         50    70      30    10      30    30      10    10
+Rain shwrs     C  C  L  C    C             C  C  C  S              
+Tstms          S  S  S  S    S                                     
+
+$$
+MSZ003-242200-
+Benton MS-
+Including the city of Ashland
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      65          43          66          48          66
+Temp                56 63 64 60 49 45 45 44 56 63 65 61 53 51 50 49 56 64 66 63
+Dewpt               35 31 29 33 34 33 33 33 36 35 36 39 42 43 45 46 49 50 50 50
+RH                  45 30 27 36 56 62 62 65 47 35 34 44 66 74 83 89 77 60 56 62
+Wind dir            NE NE NE NE NE  E  E  E  E  E  E  E NE  E NE NE NE  E  E NE
+Wind spd             6  8  8  6  4  5  4  4  8  5  6  5  6  8  8  9 10 11 11 11
+Clouds              FW FW CL FW FW SC B1 B1 B1 B1 B2 B2 OV OV B2 OV B2 B1 B2 B1
+PoP 12hr                      0           5          10          40          40
+QPF 12hr                      0           0           0        0.06   0.04-0.09
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                      S  S  C  C  C  C  C  C  C  C  S
+Tstms                                                                         S
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          53    70      53    70      50    66      45    65
+Temp          54 53 69 66   57 53 67 68   55 51 65 63   50 46 62 62
+Dewpt         51 52 55 55   55 53 53 51   52 50 49 48   46 43 39 39
+PWind dir         E    SE      NW    NW       W     W       W     W
+Wind char        GN    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B1 B2 B2 B2   B2 B2 B2 SC   SC B1 B1 B1   B1 SC SC SC
+PoP 12hr         40    70      40    20      20    30      10    10
+Rain shwrs     S  C  L  L    C  S  S  S    S  S  C  C              
+Tstms          S        C    S                                     
+
+$$
+MSZ011-242200-
+Quitman-
+Including the city of Marks
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      67          47          66          52          71
+Temp                57 64 66 63 52 49 49 49 57 63 65 62 56 54 53 52 59 67 70 67
+Dewpt               42 37 36 40 40 39 38 38 41 42 43 45 47 47 48 49 53 55 55 55
+RH                  57 37 33 43 63 68 66 66 55 46 45 54 72 77 83 89 80 65 59 65
+Wind dir            NE NE NE NE NE NE NE  E  E NE NE NE NE NE  E NE NE  E  E NE
+Wind spd             8 10  9  6  5  5  5  5  9  8  9  9 10 10 10 10 11 11 11 12
+Clouds              FW FW CL FW SC B1 B2 B2 B2 B2 B2 B2 B2 OV B2 B2 B2 B1 B1 B1
+PoP 12hr                      0          10          20          40          30
+QPF 12hr                      0           0           0   0.13-0.20        0.05
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                S  S  S  S  C  C  C  C  C  C  S  S  S
+Tstms                                                                         S
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          56    71      54    71      52    67      47    67
+Temp          58 57 67 68   59 55 68 69   57 53 65 65   53 48 64 65
+Dewpt         56 56 60 59   58 55 57 56   55 52 53 51   48 44 44 44
+PWind dir         E    SE      NW    NW       W     W       W     W
+Wind char        GN    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B2 B2 B2 B2   B2 B1 B1 SC   SC B1 B1 B1   SC SC SC SC
+PoP 12hr         50    70      30    10      20    20      10    10
+Rain shwrs     S  C  L  C    C  S          S  S  S  S              
+Tstms          S  S  S  C    S                                     
+
+$$
+TNZ001-242200-
+Lake-
+Including the city of Tiptonville
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      63          45          66          49          66
+Temp                54 59 62 60 50 47 46 46 56 63 66 63 54 52 50 49 56 63 66 64
+Dewpt               38 31 30 32 34 34 33 34 36 34 35 38 40 41 42 43 44 44 44 45
+RH                  54 34 30 35 54 60 60 63 47 34 32 39 59 66 74 80 64 50 45 50
+Wind dir             E NE NE  E  E  E  E SE SE SE  E  E  E  E NE NE NE  E  E NE
+Wind spd             3  8  8  5  4  4  4  4  9  8  9  5  6  6  6  8 12 13 13 13
+Clouds              CL CL CL FW FW B1 B2 B2 B1 SC SC B1 B2 OV B2 B2 B1 B1 B1 B2
+PoP 12hr                      0           5          10          30          30
+QPF 12hr                      0           0           0   0.16-0.23   0.03-0.11
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                            S  S  C  C  C  C  S  S  S
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          50    66      51    68      50    63      46    64
+Temp          55 51 62 62   55 52 65 66   55 51 61 60   51 47 59 61
+Dewpt         46 45 49 51   51 50 52 52   51 49 48 46   44 42 41 40
+PWind dir        NE    NE       N    NW       W     W       W     W
+Wind char        GN    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B2 B2 B2 B2   B2 B1 B1 B1   B1 B1 B2 B1   B1 SC SC SC
+PoP 12hr         30    50      40    20      30    40      20    10
+Rain shwrs     S  C  C  C    C  S     S    C  C  C  C    S        S
+Tstms                   S                                          
+
+$$

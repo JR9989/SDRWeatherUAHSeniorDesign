@@ -1,0 +1,598 @@
+FPUS55 KPIH 241505
+ZFPPIH
+
+Zone Forecast Product FOR Idaho
+National Weather Service Pocatello ID
+905 AM MDT Mon Apr 24 2023
+
+This forecast may not be representative of the exact location you 
+are interested in. For a site-specific forecast, please visit
+weather.gov/Pocatello and click the map on the main page.
+
+IDZ072-242200-
+Sawtooth/Stanley Basin-
+Including Stanley
+905 AM MDT Mon Apr 24 2023
+
+.TODAY...Snow showers and rain showers in the morning...then snow
+showers and a slight chance of thunderstorms in the afternoon.
+Snow accumulation of 2 to 4 inches. Highs 37 to 47. 
+.TONIGHT...Mostly cloudy. A chance of snow showers and a slight
+chance of thunderstorms in the evening...then a slight chance of
+snow showers after midnight. Colder. Snow accumulation up to
+2 inches. Lows 18 to 28. 
+.TUESDAY...Sunny. Not as cool. Highs 43 to 53. 
+.TUESDAY NIGHT...Mostly clear. Lows 16 to 26. 
+.WEDNESDAY...Sunny. Highs 49 to 59. 
+.WEDNESDAY NIGHT...Mostly clear. Lows 22 to 32. 
+.THURSDAY AND THURSDAY NIGHT...Partly cloudy. Highs 52 to 62.
+Lows 25 to 35. 
+.FRIDAY AND FRIDAY NIGHT...Mostly clear. Highs 54 to 64. Lows
+27 to 37. 
+.SATURDAY THROUGH SUNDAY...Mostly clear. Highs 61 to 71. Lows
+30 to 40. 
+
+$$
+
+IDZ073-242200-
+Sun Valley Region-
+Including Ketchum, Sun Valley, and Galena
+905 AM MDT Mon Apr 24 2023
+
+.TODAY...Patchy fog in the morning. A chance of snow showers and
+rain showers in the morning...then snow showers with possible
+showers and thunderstorms likely in the afternoon. Snow
+accumulation up to 2 inches. Highs 40 to 50. 
+.TONIGHT...Mostly cloudy. A chance of snow showers and a slight
+chance of thunderstorms in the evening...then a chance of snow
+showers after midnight. Patchy blowing snow through the night.
+Breezy, colder. Snow accumulation of 1 to 3 inches. Lows 21 to
+28. 
+.TUESDAY...Sunny. Highs 45 to 55. 
+.TUESDAY NIGHT...Mostly clear. Lows 24 to 31. 
+.WEDNESDAY...Sunny. Highs 49 to 59. 
+.WEDNESDAY NIGHT...Mostly clear. Lows 29 to 36. 
+.THURSDAY AND THURSDAY NIGHT...Partly cloudy. Highs 55 to 65.
+Lows 29 to 36. 
+.FRIDAY AND FRIDAY NIGHT...Mostly clear. Highs 52 to 62. Lows
+around 33. 
+.SATURDAY THROUGH SUNDAY...Mostly clear. Highs 58 to 68. Lows
+33 to 40. 
+
+$$
+
+IDZ052-053-242200-
+Arco/Mud Lake Desert-Upper Snake River Plain-
+Including Mud Lake, INL, Craters of the Moon NM, 
+Idaho Falls, Rexburg, and St. Anthony
+905 AM MDT Mon Apr 24 2023
+
+.TODAY...Patchy fog in the morning. A chance of rain showers and
+snow showers in the morning...then rain showers and a slight
+chance of thunderstorms in the afternoon. Little or no snow
+accumulation. Highs 44 to 54. Southeast winds around 10 mph...
+shifting to southwest in the afternoon. 
+.TONIGHT...Rain showers likely, a chance of thunderstorms and
+snow showers in the evening...then a slight chance of rain
+showers and snow showers after midnight. Little or no snow
+accumulation. Lows 26 to 33. West winds 10 to 15 mph...shifting
+to north after midnight. Chance of precipitation 70 percent. 
+.TUESDAY...Mostly sunny. Highs 48 to 58. Northwest winds 10 to
+15 mph. 
+.TUESDAY NIGHT...Mostly clear. Lows 25 to 33. West winds 10 to
+15 mph. 
+.WEDNESDAY...Sunny. Highs 50 to 60. Southwest winds around
+10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Lows 28 to 36. 
+.THURSDAY THROUGH FRIDAY...Partly cloudy. Highs 54 to 64. Lows
+28 to 38. 
+.FRIDAY NIGHT THROUGH SUNDAY...Mostly clear. Lows 29 to 39. Highs
+58 to 68. 
+
+$$
+
+IDZ051-055-242200-
+Shoshone/Lava Beds-Eastern Magic Valley-
+Including Shoshone, Richfield, Carey, Burley, 
+Rupert, Heyburn, and Oakley
+905 AM MDT Mon Apr 24 2023
+
+...WIND ADVISORY IN EFFECT FROM 2 PM THIS AFTERNOON TO 3 AM MDT
+TUESDAY...
+
+.TODAY...Cloudy. Patchy fog in the morning. A chance of rain
+showers in the morning...then a chance of rain showers and a
+slight chance of thunderstorms in the afternoon. Windy. Highs
+48 to 58. Southwest winds around 10 mph...increasing to west
+20 to 30 mph in the afternoon. 
+.TONIGHT...Mostly cloudy. A chance of snow showers, a slight
+chance of showers and thunderstorms in the evening...then a
+chance of snow showers and rain showers after midnight. Windy.
+Snow accumulation up to 1 inch. Lows 29 to 36. West winds 20 to
+30 mph...decreasing to 10 to 15 mph after midnight. Chance of
+precipitation 50 percent. 
+.TUESDAY...Sunny. Highs 50 to 60. West winds 10 to 15 mph. 
+.TUESDAY NIGHT...Clear. Lows 29 to 36. West winds 10 to 15 mph. 
+.WEDNESDAY...Sunny. Highs 54 to 64. West winds around 10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Lows 32 to 40. 
+.THURSDAY AND THURSDAY NIGHT...Partly cloudy. Highs 61 to 71.
+Lows 36 to 44. 
+.FRIDAY AND FRIDAY NIGHT...Mostly clear. Highs 59 to 69. Lows
+34 to 44. 
+.SATURDAY...Sunny. Highs 64 to 74. 
+.SATURDAY NIGHT AND SUNDAY...Mostly clear. Lows 39 to 47. Highs
+69 to 79. 
+
+$$
+
+IDZ056-057-242200-
+Southern Hills/Albion Mountains-Raft River Region-
+Including Albion, Almo, Malta, Rockland, 
+and Holbrook
+905 AM MDT Mon Apr 24 2023
+
+...WIND ADVISORY IN EFFECT FROM 2 PM THIS AFTERNOON TO 3 AM MDT
+TUESDAY...
+
+.TODAY...A chance of rain showers in the morning...then rain
+showers likely and a chance of thunderstorms in the afternoon.
+Breezy. Highs 51 to 61. Southwest winds around 10 mph...
+increasing to west 15 to 25 mph in the afternoon. 
+.TONIGHT...Mostly cloudy. A chance of rain showers, snow showers
+and a slight chance of thunderstorms in the evening...then a
+chance of snow showers after midnight. Patchy blowing snow after
+midnight. Windy, colder. Snow accumulation of 2 to 4 inches. Lows
+29 to 36. Northwest winds 20 to 30 mph. 
+.TUESDAY...Sunny. Highs 52 to 62. Northwest winds 10 to 20 mph. 
+.TUESDAY NIGHT...Clear. Lows 30 to 37. West winds around 10 mph. 
+.WEDNESDAY...Sunny. Not as cool. Highs 58 to 68. West winds
+around 10 mph. 
+.WEDNESDAY NIGHT...Clear. Lows 33 to 41. 
+.THURSDAY...Sunny. Highs 62 to 72. 
+.THURSDAY NIGHT...Partly cloudy. Lows 38 to 45. 
+.FRIDAY AND FRIDAY NIGHT...Mostly clear. Highs 58 to 68. Lows
+35 to 43. 
+.SATURDAY...Sunny. Highs 64 to 74. 
+.SATURDAY NIGHT AND SUNDAY...Mostly clear. Lows 40 to 47. Highs
+69 to 79. 
+
+$$
+
+IDZ058-059-242200-
+Marsh and Arbon Highlands-Franklin/Eastern Oneida Region-
+Including Inkom, McCammon, Downey, 
+Lava Hot Springs, Malad, Preston, and Thatcher
+905 AM MDT Mon Apr 24 2023
+
+.TODAY...A chance of rain showers and snow showers in the
+morning...then rain showers and a chance of thunderstorms in the
+afternoon. Snow accumulation of 2 to 4 inches. Highs 43 to 53. 
+.TONIGHT...Mostly cloudy. A chance of rain showers, thunderstorms
+and snow showers in the evening...then a chance of snow showers
+after midnight. Areas of fog after midnight. Snow accumulation of
+2 to 4 inches. Lows 26 to 34. 
+.TUESDAY...Partly sunny. A slight chance of snow showers in the
+morning. Highs 43 to 53. 
+.TUESDAY NIGHT...Clear. Lows 24 to 34. 
+.WEDNESDAY...Sunny. Not as cool. Highs 48 to 58. 
+.WEDNESDAY NIGHT...Mostly clear. Lows 28 to 38. 
+.THURSDAY AND THURSDAY NIGHT...Partly cloudy. Highs 54 to 64.
+Lows 31 to 41. 
+.FRIDAY AND FRIDAY NIGHT...Mostly clear. Highs 51 to 61. Lows
+28 to 38. 
+.SATURDAY...Sunny. Highs 56 to 66. 
+.SATURDAY NIGHT AND SUNDAY...Mostly clear. Lows 33 to 43. Highs
+60 to 70. 
+
+$$
+
+IDZ054-242200-
+Lower Snake River Plain-
+Including Pocatello, Blackfoot, American Falls, 
+Shelley, and Fort Hall
+905 AM MDT Mon Apr 24 2023
+
+.TODAY...A chance of rain showers in the morning...then rain
+showers and a chance of thunderstorms in the afternoon. Breezy.
+Highs 52 to 59. South winds around 10 mph...increasing to
+southwest 15 to 25 mph in the afternoon. 
+.TONIGHT...Mostly cloudy. A chance of rain showers, thunderstorms
+and snow showers in the evening...then a chance of rain showers
+and snow showers after midnight. Breezy. Snow accumulation up to
+1 inch. Lows 31 to 38. West winds 15 to 25 mph...shifting to
+northwest 10 to 15 mph after midnight. Chance of precipitation
+50 percent. 
+.TUESDAY...Mostly sunny. Highs 54 to 61. West winds 10 to 15 mph.
+.TUESDAY NIGHT...Mostly clear. Lows 30 to 37. Southwest winds
+around 10 mph. 
+.WEDNESDAY...Sunny. Highs 57 to 66. Southwest winds around
+10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Lows 34 to 41. 
+.THURSDAY AND THURSDAY NIGHT...Partly cloudy. Highs 62 to 69.
+Lows 36 to 43. 
+.FRIDAY...Sunny. Highs 59 to 66. 
+.FRIDAY NIGHT...Clear. Lows 33 to 40. 
+.SATURDAY THROUGH SUNDAY...Mostly clear. Highs 65 to 75. Lows
+39 to 46. 
+
+$$
+
+IDZ075-242200-
+Wood River Foothills-
+Including Hailey, Bellevue, and Picabo
+905 AM MDT Mon Apr 24 2023
+
+.TODAY...Cloudy. Patchy fog in the morning. A chance of rain
+showers and snow showers in the morning...then a chance of rain
+showers, snow showers and a slight chance of thunderstorms in the
+afternoon. Breezy. Little or no snow accumulation. Highs 41 to
+51. West winds up to 10 mph...increasing to 15 to 25 mph in the
+afternoon. 
+.TONIGHT...Cloudy with a chance of snow showers, rain showers and
+a slight chance of thunderstorms in the evening...then partly
+cloudy with a slight chance of snow showers after midnight.
+Breezy, colder. Little or no snow accumulation. Lows 24 to 32.
+Northwest winds 15 to 25 mph...shifting to north 10 to 15 mph
+after midnight. 
+.TUESDAY...Sunny. Highs 45 to 55. North winds around 10 mph...
+shifting to west in the afternoon. 
+.TUESDAY NIGHT...Clear. Lows 28 to 35. Northwest winds up to
+10 mph. 
+.WEDNESDAY...Sunny. Highs 48 to 58. West winds up to 10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Lows 32 to 39. 
+.THURSDAY AND THURSDAY NIGHT...Partly cloudy. Highs 55 to 65.
+Lows 31 to 39. 
+.FRIDAY AND FRIDAY NIGHT...Mostly clear. Highs 52 to 62. Lows
+32 to 39. 
+.SATURDAY...Sunny. Highs 57 to 67. 
+.SATURDAY NIGHT...Mostly clear. Lows 36 to 43. 
+.SUNDAY...Sunny. Highs 60 to 70. 
+
+$$
+
+IDZ069-242200-
+Lost River Range-
+Including Borah Peak
+905 AM MDT Mon Apr 24 2023
+
+...WINTER WEATHER ADVISORY IN EFFECT UNTIL 9 AM MDT TUESDAY...
+
+.TODAY...A chance of snow showers and rain showers in the
+morning...then snow showers, rain showers and a slight chance of
+thunderstorms in the afternoon. Snow accumulation of 1 to
+3 inches. Highs 39 to 49. 
+.TONIGHT...Snow showers likely and a chance of thunderstorms in
+the evening...then a chance of snow showers after midnight.
+Patchy blowing snow through the night. Breezy. Snow accumulation
+of 2 to 4 inches. Lows 25 to 32. 
+.TUESDAY...Sunny. Patchy blowing snow in the morning. Highs 42 to
+52. 
+.TUESDAY NIGHT...Mostly clear. Lows 27 to 34. 
+.WEDNESDAY...Sunny. Highs 46 to 56. 
+.WEDNESDAY NIGHT...Mostly clear. Lows 31 to 38. 
+.THURSDAY AND THURSDAY NIGHT...Partly cloudy. Highs 50 to 60.
+Lows 31 to 38. 
+.FRIDAY AND FRIDAY NIGHT...Mostly clear. Highs 48 to 58. Lows
+32 to 39. 
+.SATURDAY THROUGH SUNDAY...Mostly clear. Highs 53 to 63. Lows
+35 to 42. 
+
+$$
+
+IDZ063-064-242200-
+Caribou Range-Big Hole Mountains-
+Including Wayan, Swan Valley, and Victor
+905 AM MDT Mon Apr 24 2023
+
+.TODAY...Snow showers and rain showers likely in the morning...
+then rain showers, snow showers and a slight chance of
+thunderstorms in the afternoon. Snow accumulation of 2 to
+6 inches. Snow level 6900 feet. Highs 40 to 50. 
+.TONIGHT...Snow showers, rain showers likely and a chance of
+thunderstorms in the evening...then a chance of snow showers
+after midnight. Patchy fog after midnight. Snow accumulation of
+1 to 3 inches. Lows 23 to 30. 
+.TUESDAY...Mostly cloudy. A chance of snow showers in the
+morning...then a slight chance of snow showers in the afternoon.
+Snow accumulation up to 1 inch. Highs 41 to 51. 
+.TUESDAY NIGHT...Partly cloudy. Lows 22 to 31. 
+.WEDNESDAY...Sunny. Highs 46 to 56. 
+.WEDNESDAY NIGHT...Mostly clear. Lows 24 to 33. 
+.THURSDAY...Mostly sunny. Highs 52 to 59. 
+.THURSDAY NIGHT...Partly cloudy with a slight chance of rain.
+Lows 26 to 33. 
+.FRIDAY...Mostly sunny. Highs 49 to 57. 
+.FRIDAY NIGHT...Clear. Lows 25 to 32. 
+.SATURDAY...Sunny. Highs 53 to 61. 
+.SATURDAY NIGHT...Clear. Lows 29 to 37. 
+.SUNDAY...Sunny. Highs 55 to 63. 
+
+$$
+
+IDZ068-242200-
+Lost River Valley-
+Including Howe, Arco, Mackay, and Chilly
+905 AM MDT Mon Apr 24 2023
+
+...WIND ADVISORY IN EFFECT FROM 6 PM THIS EVENING TO 6 AM MDT
+TUESDAY...
+
+.TODAY...A chance of rain showers and snow showers in the
+morning...then rain showers likely with pockets of snow showers
+and thunderstorms in the afternoon. Snow accumulation up to
+2 inches. Highs 43 to 53. Light and variable winds...becoming
+west 10 to 15 mph in the afternoon. 
+.TONIGHT...Snow showers, rain showers likely and a chance of
+thunderstorms in the evening...then a chance of snow showers
+after midnight. Breezy. Snow accumulation up to 2 inches. Lows
+24 to 32. Northwest winds 15 to 25 mph. 
+.TUESDAY...Sunny. Highs 46 to 56. Northwest winds 10 to 20 mph. 
+.TUESDAY NIGHT...Mostly clear. Lows 26 to 34. Northwest winds up
+to 10 mph. 
+.WEDNESDAY...Sunny. Highs 50 to 60. Northwest winds up to 10 mph.
+.WEDNESDAY NIGHT...Mostly clear. Lows 28 to 38. 
+.THURSDAY AND THURSDAY NIGHT...Partly cloudy. Highs 52 to 62.
+Lows 30 to 37. 
+.FRIDAY THROUGH SATURDAY NIGHT...Mostly clear. Highs 52 to 62.
+Lows 31 to 41. 
+.SUNDAY...Sunny. Highs 56 to 66. 
+
+$$
+
+IDZ070-242200-
+Challis/Pahsimeroi Valleys-
+Including Challis
+905 AM MDT Mon Apr 24 2023
+
+.TODAY...A chance of rain showers and snow showers in the
+morning...then rain showers, snow showers and a slight chance of
+thunderstorms in the afternoon. Snow accumulation up to 2 inches.
+Highs 44 to 54. 
+.TONIGHT...Snow showers likely and a chance of thunderstorms in
+the evening...then a chance of snow showers after midnight.
+Colder. Snow accumulation of 1 to 3 inches. Lows 25 to 32. 
+.TUESDAY...Sunny. Highs 46 to 56. 
+.TUESDAY NIGHT...Mostly clear. Lows 25 to 32. 
+.WEDNESDAY...Sunny. Not as cool. Highs 51 to 61. 
+.WEDNESDAY NIGHT...Mostly clear. Lows 30 to 38. 
+.THURSDAY THROUGH FRIDAY...Partly cloudy. Highs 53 to 63. Lows
+32 to 39. 
+.FRIDAY NIGHT THROUGH SUNDAY...Mostly clear. Lows 33 to 43. Highs
+58 to 68. 
+
+$$
+
+IDZ066-242200-
+Centennial Mountains - Island Park-
+Including Island Park and Kilgore
+905 AM MDT Mon Apr 24 2023
+
+.TODAY...Snow showers and rain showers likely in the morning...
+then rain showers, snow showers and a slight chance of
+thunderstorms in the afternoon. Patchy fog through the day. Snow
+accumulation of 1 to 3 inches. Snow level 6600 feet. Highs 39 to
+46. 
+.TONIGHT...Snow showers, rain showers likely and a slight chance
+of thunderstorms in the evening...then a chance of snow showers
+after midnight. Patchy fog through the night. Snow accumulation
+of 2 to 4 inches. Lows 22 to 29. 
+.TUESDAY...Partly sunny. A slight chance of snow showers in the
+morning. Not as cool. Highs 46 to 53. 
+.TUESDAY NIGHT...Partly cloudy. Lows 19 to 28. 
+.WEDNESDAY...Sunny. Highs 48 to 55. 
+.WEDNESDAY NIGHT...Mostly clear. Lows 21 to 31. 
+.THURSDAY...Mostly sunny with a slight chance of rain. Highs
+51 to 58. 
+.THURSDAY NIGHT...Partly cloudy with a slight chance of rain and
+snow. Lows 22 to 29. 
+.FRIDAY...Mostly sunny. Highs 49 to 56. 
+.FRIDAY NIGHT...Mostly clear. Lows 22 to 29. 
+.SATURDAY...Sunny. Highs 52 to 59. 
+.SATURDAY NIGHT AND SUNDAY...Mostly clear. Lows 26 to 34. Highs
+56 to 63. 
+
+$$
+
+IDZ067-242200-
+Beaverhead - Lemhi Highlands-
+Including Dubois, Spencer, Edie School, and Small
+905 AM MDT Mon Apr 24 2023
+
+...WINTER WEATHER ADVISORY IN EFFECT UNTIL 9 AM MDT TUESDAY...
+
+.TODAY...A chance of snow showers and rain showers in the
+morning...then rain showers, snow showers and a slight chance of
+thunderstorms in the afternoon. Snow accumulation of 1 to
+3 inches. Snow level 6600 feet. Highs 40 to 49. 
+.TONIGHT...Snow showers, rain showers likely and a chance of
+thunderstorms in the evening...then a chance of snow showers
+after midnight. Patchy blowing snow through the night. Windy.
+Snow accumulation of 4 to 5 inches. Lows 24 to 32. Northwest
+winds around 30 mph after midnight. 
+.TUESDAY...Partly sunny. Windy. Patchy blowing snow in the
+morning. Highs 44 to 54. Northwest winds around 30 mph in the
+morning. 
+.TUESDAY NIGHT...Mostly clear. Lows 22 to 32. 
+.WEDNESDAY...Sunny. Highs 48 to 58. 
+.WEDNESDAY NIGHT...Mostly clear. Lows 25 to 35. 
+.THURSDAY AND THURSDAY NIGHT...Partly cloudy. Highs 51 to 60.
+Lows 25 to 35. 
+.FRIDAY AND FRIDAY NIGHT...Mostly clear. Highs 49 to 57. Lows
+26 to 36. 
+.SATURDAY THROUGH SUNDAY...Mostly clear. Highs 53 to 63. Lows
+30 to 40. 
+
+$$
+
+IDZ065-242200-
+Teton Valley-
+Including Ashton, Tetonia, and Driggs
+905 AM MDT Mon Apr 24 2023
+
+.TODAY...Rain showers and snow showers likely in the morning...
+then rain showers and a slight chance of thunderstorms in the
+afternoon. Patchy fog through the day. Little or no snow
+accumulation. Highs 39 to 46. 
+.TONIGHT...Rain showers, snow showers likely and a chance of
+thunderstorms in the evening...then a chance of snow showers
+after midnight. Patchy fog after midnight. Little or no snow
+accumulation. Snow level 5700 feet. Lows 22 to 29. 
+.TUESDAY...Partly sunny. Patchy fog in the morning. A slight
+chance of snow showers in the morning...then a slight chance of
+rain showers in the afternoon. Highs 43 to 50. 
+.TUESDAY NIGHT...Partly cloudy. Lows 21 to 28. 
+.WEDNESDAY...Sunny. Highs 46 to 53. 
+.WEDNESDAY NIGHT...Mostly clear. Lows 26 to 33. 
+.THURSDAY THROUGH FRIDAY...Partly cloudy. Highs 51 to 58. Lows
+23 to 30. 
+.FRIDAY NIGHT...Mostly clear. Lows 24 to 31. 
+.SATURDAY...Sunny. Highs 52 to 59. 
+.SATURDAY NIGHT AND SUNDAY...Mostly clear. Lows 28 to 35. Highs
+55 to 62. 
+
+$$
+
+IDZ062-242200-
+Blackfoot Mountains-
+Including Grace, Soda Springs, Henry, and Bone
+905 AM MDT Mon Apr 24 2023
+
+.TODAY...Snow showers likely and a chance of rain showers in the
+morning...then rain showers and a chance of thunderstorms in the
+afternoon. Snow accumulation up to 1 inch. Highs 39 to 49. 
+.TONIGHT...Rain showers likely, a chance of snow showers and
+thunderstorms in the evening...then a chance of snow showers
+after midnight. Patchy fog after midnight. Snow accumulation up
+to 2 inches. Lows 23 to 33. 
+.TUESDAY...Partly sunny. A slight chance of snow showers in the
+morning. Highs 40 to 50. 
+.TUESDAY NIGHT...Mostly clear. Lows 22 to 32. 
+.WEDNESDAY...Sunny. Highs 44 to 54. 
+.WEDNESDAY NIGHT...Mostly clear. Lows 24 to 34. 
+.THURSDAY THROUGH FRIDAY...Partly cloudy. Highs 50 to 60. Lows
+27 to 37. 
+.FRIDAY NIGHT...Clear. Lows 25 to 35. 
+.SATURDAY...Sunny. Highs 52 to 62. 
+.SATURDAY NIGHT...Clear. Lows 30 to 40. 
+.SUNDAY...Sunny. Highs 56 to 66. 
+
+$$
+
+IDZ060-242200-
+Bear River Range-
+Including Emigration Summit
+905 AM MDT Mon Apr 24 2023
+
+.TODAY...A chance of snow showers and rain showers in the
+morning...then rain showers, snow showers and a chance of
+thunderstorms in the afternoon. Snow may be heavy at times in the
+afternoon. Snow accumulation of 4 to 5 inches. Snow level
+7300 feet. Highs 40 to 48. 
+.TONIGHT...Snow showers, rain showers likely and a chance of
+thunderstorms in the evening...then snow showers likely after
+midnight. Snow may be heavy at times in the evening. Snow
+accumulation of 2 to 6 inches. Lows around 29. 
+.TUESDAY...Mostly cloudy. A chance of snow showers in the
+morning...then a slight chance of snow showers in the afternoon.
+Patchy blowing snow in the afternoon. Snow accumulation up to
+2 inches. Highs 39 to 46. 
+.TUESDAY NIGHT...Partly cloudy. Lows around 29. 
+.WEDNESDAY...Sunny. Not as cool. Highs 46 to 53. 
+.WEDNESDAY NIGHT AND THURSDAY...Mostly clear. Lows 28 to 35.
+Highs 51 to 58. 
+.THURSDAY NIGHT AND FRIDAY...Partly cloudy. Lows 31 to 38. Highs
+48 to 55. 
+.FRIDAY NIGHT AND SATURDAY...Mostly clear. Lows 30 to 37. Highs
+52 to 59. 
+.SATURDAY NIGHT...Clear. Lows 34 to 41. 
+.SUNDAY...Sunny. Highs 56 to 63. 
+
+$$
+
+IDZ061-242200-
+Bear Lake Valley-
+Including St. Charles, Montpelier, and Georgetown
+905 AM MDT Mon Apr 24 2023
+
+.TODAY...Patchy fog in the morning. A chance of snow showers and
+rain showers in the morning...then rain showers, snow showers and
+a chance of thunderstorms in the afternoon. Snow accumulation of
+1 to 3 inches. Snow level 6700 feet. Highs around 41. 
+.TONIGHT...Snow showers, rain showers likely and a chance of
+thunderstorms in the evening...then a chance of snow showers
+after midnight. Patchy fog through the night. Snow accumulation
+of 1 to 3 inches. Lows 18 to 28. 
+.TUESDAY...Mostly cloudy. A chance of snow showers in the
+morning...then a slight chance of snow showers in the afternoon.
+Highs 36 to 43. 
+.TUESDAY NIGHT...Partly cloudy. Patchy fog. Lows 17 to 25. 
+.WEDNESDAY...Sunny. Patchy fog. Highs around 44. 
+.WEDNESDAY NIGHT...Mostly clear. Lows 21 to 29. 
+.THURSDAY THROUGH FRIDAY...Partly cloudy. Highs around 51. Lows
+23 to 33. 
+.FRIDAY NIGHT AND SATURDAY...Mostly clear. Lows 21 to 30. Highs
+50 to 57. 
+.SATURDAY NIGHT...Clear. Lows 25 to 34. 
+.SUNDAY...Sunny. Highs around 56. 
+
+$$
+
+IDZ071-242200-
+Frank Church Wilderness-
+Including Clayton
+905 AM MDT Mon Apr 24 2023
+
+.TODAY...Snow showers and rain showers likely in the morning...
+then snow showers, rain showers and a slight chance of
+thunderstorms in the afternoon. Snow accumulation of 2 to
+4 inches. Highs 40 to 50. 
+.TONIGHT...Mostly cloudy. A chance of snow showers and a slight
+chance of thunderstorms in the evening...then a chance of snow
+showers after midnight. Colder. Snow accumulation up to 2 inches.
+Lows 19 to 29. 
+.TUESDAY...Mostly sunny. Highs 44 to 54. 
+.TUESDAY NIGHT...Mostly clear. Lows 18 to 28. 
+.WEDNESDAY...Sunny. Not as cool. Highs 51 to 61. 
+.WEDNESDAY NIGHT...Mostly clear. Lows 25 to 34. 
+.THURSDAY AND THURSDAY NIGHT...Partly cloudy. Highs 53 to 63.
+Lows 27 to 36. 
+.FRIDAY AND FRIDAY NIGHT...Mostly clear. Highs 54 to 64. Lows
+29 to 37. 
+.SATURDAY THROUGH SUNDAY...Mostly clear. Highs 59 to 69. Lows
+32 to 41. 
+
+$$
+
+IDZ074-242200-
+Big Lost Highlands/Copper Basin-
+Including Copper Basin
+905 AM MDT Mon Apr 24 2023
+
+...WIND ADVISORY IN EFFECT FROM 6 PM THIS EVENING TO 6 AM MDT
+TUESDAY...
+
+.TODAY...A chance of snow showers in the morning...then snow
+showers and a slight chance of thunderstorms in the afternoon.
+Snow accumulation up to 2 inches. Highs 38 to 46. 
+.TONIGHT...Snow showers likely and a slight chance of
+thunderstorms in the evening...then a chance of snow showers
+after midnight. Patchy blowing snow through the night. Breezy,
+colder. Snow accumulation of 1 to 3 inches. Lows 20 to 30. 
+.TUESDAY...Sunny. Highs 39 to 49. 
+.TUESDAY NIGHT...Mostly clear. Lows 24 to 34. 
+.WEDNESDAY...Sunny. Highs 44 to 54. 
+.WEDNESDAY NIGHT...Mostly clear. Lows 28 to 38. 
+.THURSDAY AND THURSDAY NIGHT...Partly cloudy. Highs 49 to 58.
+Lows 29 to 36. 
+.FRIDAY AND FRIDAY NIGHT...Mostly clear. Highs 47 to 55. Lows
+29 to 37. 
+.SATURDAY THROUGH SUNDAY...Mostly clear. Highs 53 to 62. Lows
+34 to 42. 
+
+$$
+
+
+
+weather information on-line 24-hours a day
+www.weather.gov/pocatello
+

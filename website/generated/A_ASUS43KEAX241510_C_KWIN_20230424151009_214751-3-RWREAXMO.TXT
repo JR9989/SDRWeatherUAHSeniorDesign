@@ -1,0 +1,78 @@
+ASUS43 KEAX 241510
+RWREAX
+
+WEATHER ROUNDUP FOR EASTERN KANSAS AND NORTHWEST MISSOURI
+NATIONAL WEATHER SERVICE KANSAS CITY/PLEASANT HILL MO
+1000 AM CDT MON APR 24 2023
+
+KSZ040-057-103>105-MOZ028-029-037-043-241600-
+...KANSAS CITY METROPOLITAN AREA...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+K.C. INTL      CLOUDY    54  32  43 S16G23    30.14S                  
+K.C. DOWNTOWN  PTSUNNY   54  27  35 SW13      30.16S                  
+LEES SUMMIT    MOSUNNY   52  29  41 S12       30.17S                  
+OLATHE - IXD   MOSUNNY   52  31  44 S15G23    30.16F                  
+OLATHE - OJC   MOSUNNY   51  29  42 SW12      30.16S                  
+LAWRENCE       PTSUNNY   53  31  42 MISG      30.15F                  
+
+$$
+ 
+MOZ001>008-011>017-020>025-030>033-038>040-044>046-053-054-241600-
+...NORTHERN AND CENTRAL MISSOURI...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ST. JOSEPH     PTSUNNY   54  29  38 S14       30.12F                  
+MOSBY            N/A     48  30  49 S7        30.17F                  
+HARRISONVILLE  MOSUNNY   52  30  43 SW5       30.20S                  
+WHITEMAN AFB   MOSUNNY   53  28  38 S10       30.18R                  
+CLINTON        MOSUNNY   55  28  35 S9        30.19R                  
+SEDALIA        SUNNY     54  27  35 S10       30.20S                  
+MARSHALL       MOSUNNY   52  28  40 S9        30.21S                  
+CHILLICOTHE      N/A     52  29  41 SE9       30.18F                  
+MOBERLY        MOSUNNY   54  23  30 SE8       30.21R                  
+KIRKSVILLE     PTSUNNY   51  28  41 S8        30.20S                  
+
+$$
+
+MOZ041-047>049-056>058-063>065-088>090-097-241600-
+...EASTERN AND SOUTHERN MISSOURI...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ST. LOUIS INTL MOSUNNY   52  28  39 SW6       30.25S                  
+SPIRIT OF STL  SUNNY     51  27  39 SE8       30.25R                  
+COLUMBIA       MOSUNNY   52  25  35 SE13      30.22R                  
+JEFFERSON CITY SUNNY     53  28  38 SE7       30.23S                  
+MEXICO         SUNNY     50  28  43 SE8       30.22S                  
+HANNIBAL       SUNNY     52  25  35 CALM      30.23S                  
+ROLLA          SUNNY     51  26  37 SE9       30.23R                  
+LEBANON        SUNNY     52  23  32 SE8       30.22S                  
+OSAGE BEACH    SUNNY     52  27  38 S9          N/A                   
+SPRINGFIELD    SUNNY     52  29  41 S12       30.19R                  
+BRANSON        SUNNY     52  25  35 SE8       30.22S                  
+JOPLIN         SUNNY     56  29  35 S8        30.19R                  
+WEST PLAINS    SUNNY     52  24  33 E8        30.24R                  
+SIKESTON       SUNNY     52  37  58 CALM      30.27R                  
+
+$$
+
+IAZ060-094-KSZ022-034>040-054-083-096-NEZ052-066-093-241600- 
+...KANSAS...SOUTHEAST NEBRASKA AND IOWA...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+TOPEKA         PTSUNNY   54  32  43 S7        30.13S                  
+MANHATTAN      MOSUNNY   57  31  37 SW14      30.10R                  
+EMPORIA        MOSUNNY   57  34  41 S12G21    30.12S                  
+OTTAWA         FAIR      57  30  35 SW16G24   30.14F                  
+CHANUTE        SUNNY     56  30  37 SW15G23   30.18R                  
+SALINA         PTSUNNY   54  32  43 SW14      30.09S                  
+WICHITA        PTSUNNY   56  32  40 SW14G23   30.12S                  
+OMAHA          PTSUNNY   46  29  51 S5        30.08S                  
+LINCOLN        PTSUNNY   51  29  42 S13       30.06S                  
+FALLS CITY     CLOUDY    52  33  48 SW12      30.09S                  
+LAMONI         CLOUDY    47  28  47 S12       30.13F                  
+DES MOINES     PTSUNNY   47  26  44 S13       30.15F                  
+
+$$
+
+  

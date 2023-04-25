@@ -1,0 +1,79 @@
+FNUS73 KMPX 241446
+FWSMPX
+
+Spot Forecast for Osmundson Prairie SNA...MN DNR
+National Weather Service Twin Cities/Chanhassen MN
+946 AM CDT Mon Apr 24 2023
+
+Forecast is based on ignition time of 1000 CDT on April 24. 
+IF CONDITIONS BECOME UNREPRESENTATIVE...CONTACT THE NATIONAL WEATHER
+SERVICE.
+
+Please contact our office if you have questions or concerns with 
+this forecast.
+
+.DISCUSSION...
+For the Osmundson Prairie SNA burn, dry weather is expected today
+with mostly clear skies becoming partly cloudy this afternoon, and
+temperatures nearing 50. Winds will be light and variable early, 
+becoming primarily out of the northwest to north at 5-10mph, with 
+RH values dropping to around 40 percent at their lowest this 
+afternoon. For any questions, please contact NWS Twin Cities at
+952-361-6671.
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly sunny (25-35 percent). 
+Temperature.........44 at ignition...Max 52. 
+RH..................53 percent at ignition...Min 39 percent. 
+Wind (20 ft)........Winds west at 6 mph at ignition...otherwise 
+                    Northwest winds 6 to 8 mph increasing to 8 to 9 
+                    mph late in the afternoon. 
+Smoke dispersal.....Fair /26700 knot-ft/ at ignition. 
+                    Max...excellent /79600 knot-ft/. 
+Mixing height.......3000 ft AGL at ignition...otherwise 7400 ft 
+                    AGL. 
+Transport winds.....West 10 to 13 mph. 
+Haines Index........5 or moderate potential for large plume 
+                    dominated fire growth at ignition...max 5. 
+
+TIME (CDT)      10A 11A 12P 1PM 2PM 3PM 4PM 5PM 6PM 7PM 8PM 9PM 
+Sky cover.......MCR MCR PC  PC  PC  PC  PC  PC  PC  PC  PC  PC  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+Temp............44  46  47  49  50  51  52  52  51  50  45  43  
+RH..............53  49  45  42  41  39  39  39  39  42  53  55  
+20 FT wind dir..W   NW  NW  NW  NW  NW  NW  N   N   N   N   NE  
+20 FT wind spd..6   6   7   8   8   8   9   8   8   8   9   9   
+20 FT wind gust.9   10  12  14  14  13  13  13  13  13  15  17  
+Mix hgt (kft)...3.0 3.9 6.0 7.2 7.2 7.4 7.2 6.7 6.0 3.8 0.7 0.6 
+Transp wind dir.W   W   W   W   W   W   NW  NW  NW  N   N   N   
+Transp wind spd.10  10  10  13  12  12  12  12  10  12  14  15  
+Haines index....5   5   5   4   4   4   4   4   4   4   4   4   
+
+.TONIGHT...
+
+Sky/weather.........Mostly clear (20-30 percent). 
+Temperature.........Min 31. 
+RH..................Max 88 percent. 
+Wind (20 ft)........North winds 8 to 9 mph shifting to the 
+                    northeast 8 to 10 mph in the late evening and 
+                    overnight. 
+Smoke dispersal.....Good (53900 knot-ft) early in the evening 
+                    decreasing to poor (3800 knot-ft) late in the 
+                    night. 
+Mixing height.......400 ft AGL. 
+Transport winds.....North 10 to 15 mph shifting to the northeast 12 
+                    to 16 mph in the late evening and overnight. 
+Haines Index........4 or low potential for large plume dominated 
+                    fire growth. 
+
+$$
+Forecaster...Dunleavy
+Requested by...Brad Bolduan
+Type of request...PRESCRIBED
+.TAG 2310478.0/MPX
+.DELDT 04/24/23
+.FormatterVersion 2.0.0
+.EMAIL Brad.Bolduan@state.mn.us

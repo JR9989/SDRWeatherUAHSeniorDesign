@@ -1,0 +1,1422 @@
+FOUS56 KHNX 241502
+AFMHNX
+
+Area Forecast Matrices
+National Weather Service San Joaquin Valley - Hanford CA
+802 AM PDT Mon Apr 24 2023
+
+CAZ300-250000-
+West Side Mountains north of 198-
+Including the city of San Luis Reservoir
+802 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                61 75 82    44 51 55    68 77 83    50 56 62    72 83 88
+Temp                   68 74 74 64 58 55 52 57 68 75 77 69 61 59 57 62 74 81 82
+Dewpt                  42 44 43 43 38 36 36 39 41 42 42 44 43 42 41 43 45 46 46
+RH                     39 34 33 46 47 49 54 51 37 31 29 40 51 53 55 50 35 29 28
+Wind dir                N NW NW  W  W  W  W NW  N  N  N NW  W  W  W NW NE NE NW
+Wind spd                9 11 13 13 12 10  9  6  9 10 11  9  9  6  5  5  6  8  9
+Wind gust              19    26 27 26 21 21 17    20 21 21             17 18   
+Clouds                 CL CL FW FW FW FW CL CL CL CL CL CL CL CL CL SC CL FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            60    86      62    86      59    85      58    83
+Temp          66   61 78 84 68   62 77 83 66   59 74 81 64   58 74 81
+Dewpt         46   45 47 47 46   45 47 47 44   41 43 45 44   41 44 45
+PWind dir          NW     N       W    NW       W    NW       W    NW
+Wind char          GN    LT      GN    GN      GN    GN      GN    GN
+Avg clouds    FW   FW FW SC SC   FW FW FW FW   FW FW CL CL   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ301-250000-
+Los Banos - Dos Palos-
+Including the city of Los Banos
+802 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                77 81 83    49 51 55          83    53 56 59          89
+Temp                   71 79 80 70 60 55 51 56 71 80 83 73 64 59 56 62 76 86 89
+Dewpt                  46 47 46 47 43 41 41 44 47 46 44 48 48 47 46 48 50 49 48
+RH                     41 32 30 44 53 59 68 64 42 30 25 41 56 64 69 60 40 28 24
+Wind dir               NW NW NW  W  W  W  W NW  N  N  N NW  W  W  W NW  N NE  N
+Wind spd                9 10 12 11 10  9  6  6 10 10 11  5  6  5  5  4  6  6  8
+Wind gust                    23 23 20                                          
+Clouds                 CL FW FW FW FW FW CL FW FW CL CL CL CL CL CL CL CL CL FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            60    92      61    92      58    90      57    89
+Temp          68   60 80 91 71   61 80 90 69   58 76 88 67   57 76 87
+Dewpt         52   50 53 49 50   49 51 49 48   45 48 47 49   45 48 47
+PWind dir          NW    NW      NW    NW      NW    NW      NW    NW
+Wind char          LT    LT      GN    GN      GN    GN      GN    GN
+Avg clouds    FW   FW FW FW FW   FW FW FW FW   FW CL CL CL   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ302-250000-
+Merced - Madera - Mendota-
+Including the cities of Merced, Madera, and Atwater
+802 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      81          49          82          53          89
+Temp                   70 79 81 71 60 54 50 54 69 79 82 73 63 57 54 59 76 86 89
+Dewpt                  48 48 46 48 46 44 44 46 49 48 46 49 50 49 48 49 51 49 47
+RH                     45 34 29 44 60 69 80 74 49 34 28 43 62 75 80 69 42 28 23
+Wind dir               NW NW NW NW NW NW NW NW NW NW NW NW NW NW NW  N NW NW NW
+Wind spd                9 10 12 10  9  8  6  8  9  9 10  5  5  4  4  4  5  6  6
+Clouds                 CL CL FW FW FW FW FW FW FW FW CL CL CL CL CL CL CL CL FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            57    92      59    91      57    90      56    89
+Temp          67   57 79 91 70   59 79 90 69   57 76 88 67   56 76 88
+Dewpt         53   51 54 48 53   50 51 48 49   46 48 47 50   47 50 46
+PWind dir          NW    NW      NW    NW      NW    NW      NW    NW
+Wind char          LT    LT      GN    GN      GN    GN      GN    GN
+Avg clouds    FW   FW FW FW FW   FW FW FW FW   FW CL CL CL   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ303-250000-
+Planada - Le Grand - Snelling-
+Including the cities of Planada, Lake Mcclure, and Le Grand
+802 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      79          50          80    52 54 58          88
+Temp                   69 77 79 70 61 54 50 55 69 78 80 73 64 58 55 60 76 85 87
+Dewpt                  50 50 47 50 48 47 46 48 51 50 48 51 52 50 47 49 52 51 48
+RH                     51 39 32 49 62 77 86 77 53 37 33 46 65 75 74 67 43 31 26
+Wind dir               NW NW NW NW NW NW NW NW  W  W NW NW  N NE NE NE SW SW NW
+Wind spd                9 11 12 10  9  8  6  5  8  8  9  5  4  4  5  4  5  8  6
+Clouds                 CL CL CL FW FW FW CL FW CL FW CL CL CL CL CL CL CL CL FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            58    91      60    90      59    88      57    88
+Temp          67   58 79 89 70   60 79 88 69   59 76 86 68   57 76 87
+Dewpt         53   50 54 49 53   50 53 48 51   48 51 48 52   49 52 47
+PWind dir           N    NW      NW    NW      NW    NW      NW    NW
+Wind char          LT    LT      LT    GN      GN    GN      GN    GN
+Avg clouds    FW   FW FW FW FW   FW FW FW FW   FW CL CL CL   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ304-250000-
+Coalinga - Avenal-
+Including the cities of Avenal and Coalinga
+802 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                78 82 84          54    78 83 85          58    84 89 91
+Temp                   72 80 82 72 64 59 54 60 72 80 82 73 65 61 58 64 78 86 88
+Dewpt                  47 45 43 43 42 39 37 39 43 42 40 42 42 41 41 43 45 43 41
+RH                     41 29 25 35 45 47 52 46 35 26 22 33 43 48 53 46 31 22 19
+Wind dir               NE  N  N  N NW NW NW  N NE  N  N  N NW NW NW NW NE  E  N
+Wind spd                6 10 12 12  9  8  5  5  9 10 11 10  6  5  4  4  6  8  8
+Wind gust                       24 21 18             21    17 16               
+Clouds                 CL CL FW FW FW FW CL CL CL CL CL CL CL CL CL CL CL FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            62    92      64    92      63    91      62    91
+Temp          70   62 82 90 72   64 82 90 72   63 79 89 71   62 80 89
+Dewpt         47   46 48 43 49   48 48 45 47   45 45 43 46   44 46 43
+PWind dir          NW     N       W     N      NW     N      NW     N
+Wind char          LT    LT      GN    GN      GN    GN      GN    GN
+Avg clouds    FW   FW FW SC SC   SC FW FW FW   FW FW CL CL   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ305-250000-
+West Side of Fresno and Kings Counties-
+Including the cities of Lemoore Station, Five Points, 
+and Kettleman City
+802 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      83    48 52 55          84    52 55 59          91
+Temp                   72 81 83 73 64 57 52 57 72 81 84 74 64 59 56 61 78 88 90
+Dewpt                  47 47 44 45 44 40 39 42 46 45 43 45 44 43 43 45 48 46 43
+RH                     41 30 25 37 48 53 61 57 39 28 24 35 48 55 62 56 35 23 20
+Wind dir                N  N  N NW NW NW NW NW  N  N  N  N NW NW NW NW NE NE  N
+Wind spd                9 11 14 12 12  9  6  6 11 10 12  9  6  5  5  4  6  8  8
+Wind gust                          25                                          
+Clouds                 FW CL CL FW FW FW CL CL CL FW CL CL CL CL CL CL CL CL FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            60    94      62    94      61    93      60    92
+Temp          70   60 81 92 72   62 82 92 72   61 79 91 71   60 80 91
+Dewpt         48   48 51 44 50   48 49 45 48   45 46 43 47   44 47 44
+PWind dir          NW     N      NW    NW      NW     N      NW     N
+Wind char          LT    LT      GN    GN      GN    GN      GN    GN
+Avg clouds    FW   FW FW FW SC   SC FW FW FW   FW FW CL CL   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ306-250000-
+Caruthers - San Joaquin - Selma-
+Including the cities of Selma, Sanger, Parlier, Kingsburg, 
+and Kerman
+802 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      83          51          83          54          91
+Temp                   70 80 82 73 63 56 52 56 70 80 83 75 64 58 54 60 77 88 90
+Dewpt                  49 49 45 46 46 43 42 45 49 48 46 47 48 47 46 48 51 48 45
+RH                     47 34 27 38 54 62 69 66 47 33 27 37 56 67 74 64 40 25 21
+Wind dir               NW NW NW NW NW NW NW NW NW NW NW NW NW NW  N  N  W NW NW
+Wind spd                9 11 14 11 12 10  8  8  9  9 10  8  5  5  4  4  5  6  8
+Clouds                 CL CL CL FW FW FW CL CL FW FW FW CL CL CL CL CL CL CL FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            58    94      60    93      59    92      59    92
+Temp          68   58 80 92 71   61 80 92 72   60 78 90 70   59 78 91
+Dewpt         49   49 52 46 51   49 51 46 49   46 48 45 49   46 49 45
+PWind dir          NW    NW      NW    NW      NW    NW      NW    NW
+Wind char          LT    LT      GN    GN      GN    GN      GN    GN
+Avg clouds    FW   FW FW FW FW   FW FW FW FW   FW FW CL CL   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ307-250000-
+Fresno-Clovis-
+Including the city of Fresno
+802 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      82          52          82          56          90
+Temp                   70 80 82 74 64 57 53 56 70 79 82 75 65 60 56 62 78 87 90
+Dewpt                  52 51 47 48 48 46 45 47 51 50 48 50 51 50 47 49 52 49 45
+RH                     53 36 29 40 56 67 74 72 51 36 31 41 60 69 72 62 40 27 21
+Wind dir                W NW NW NW NW NW NW  W SW  W NW NW  N  N NE  E SW  W NW
+Wind spd                6 10 12 10 10  9  5  5  6  6  8  5  4  4  4  4  5  6  8
+Clouds                 CL CL CL FW FW FW CL CL CL FW CL CL CL CL CL CL CL CL CL
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            59    93      61    92      61    91      60    91
+Temp          69   60 81 92 72   62 81 91 72   61 79 89 71   60 78 90
+Dewpt         51   48 52 46 51   50 53 47 51   48 51 47 51   49 52 47
+PWind dir          NW    NW      NW    NW      NW    NW      NW    NW
+Wind char          LT    LT      LT    LT      GN    GN      GN    GN
+Avg clouds    FW   FW FW FW FW   FW FW FW FW   FW FW CL CL   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ308-250000-
+West Side Mountains South of 198-
+Including the cities of Blackwells Corner and McKittrick
+802 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                66 79 84    47 53 57    65 79 84    50 56 61    71 85 91
+Temp                   69 76 78 71 63 58 54 58 68 76 79 71 64 60 57 63 75 83 84
+Dewpt                  48 46 44 43 42 41 40 40 42 41 39 41 41 41 41 43 43 42 41
+RH                     47 34 30 36 46 53 59 51 39 28 24 34 43 49 55 48 32 24 22
+Wind dir               NE  N  N  N NW  W SE  E NE  N  N  N NW NW NW NE  E NE NW
+Wind spd                6  9 10 10  9  6  5  5  9  9 10  9  6  5  5  5  8  8  9
+Wind gust                 19 20 21 24 19 18 18 19 19 21    18 16       19      
+Clouds                 CL CL FW FW FW FW FW CL CL CL CL CL CL CL CL FW CL FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            61    88      63    88      62    88      61    87
+Temp          67   62 78 86 69   63 79 86 69   62 77 85 69   61 77 85
+Dewpt         46   44 48 44 47   45 47 45 46   45 44 43 45   44 45 43
+PWind dir           W    NE       W    NW       W     N      NW    NE
+Wind char          GN    LT      GN    GN      GN    GN      GN    GN
+Avg clouds    FW   FW SC SC SC   FW FW FW FW   FW FW CL FW   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ309-250000-
+Buttonwillow - Lost Hills - I5-
+Including the cities of Lost Hills and Buttonwillow
+802 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      84    49 52 56          84    52 55 58          91
+Temp                   73 81 84 75 65 58 53 59 72 81 84 75 65 59 55 62 79 88 90
+Dewpt                  49 49 45 46 46 45 44 44 46 44 41 45 46 45 44 45 46 44 42
+RH                     43 33 26 36 50 62 71 57 39 27 22 34 50 60 66 54 31 22 19
+Wind dir                N  N  N  N NW NW  W  N  N  N  N  N NW NW  W  W  N  N  N
+Wind spd                5  9 10 10  9  5  4  4  6  6  9  6  5  4  3  4  5  6  6
+Wind gust                          19                                          
+Clouds                 FW CL CL CL FW FW FW CL CL CL CL CL CL CL CL CL CL FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            59    94      62    94      61    93      61    93
+Temp          70   60 82 92 72   62 82 92 72   61 80 91 71   61 80 91
+Dewpt         48   47 50 43 49   47 50 45 49   47 46 43 47   47 47 43
+PWind dir          NW    NW      NW    NW      NW    NW      NW     N
+Wind char          LT    LT      GN    LT      GN    GN      GN    GN
+Avg clouds    FW   FW FW SC SC   FW FW FW FW   FW FW CL FW   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ310-250000-
+Delano-Wasco-Shafter-
+Including the cities of Delano, Wasco, Alpaugh, and Shafter
+802 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      82          51          83          53          91
+Temp                   71 80 82 73 63 56 52 57 72 80 83 74 63 57 53 60 78 88 90
+Dewpt                  51 51 48 49 47 47 45 47 49 48 45 48 49 48 46 48 49 46 44
+RH                     49 36 31 43 56 72 77 69 44 33 26 40 60 72 77 64 36 23 20
+Wind dir               NW NW  N  N NW NW  W  W NW NW  N  N  N  N SE  S NW  N  N
+Wind spd                6  9 10  8  8  5  3  4  5  5  8  5  4  3  2  3  5  6  6
+Wind gust                       19 18                                          
+Clouds                 CL CL CL CL FW FW FW FW CL FW CL CL CL CL CL CL CL FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            57    93      59    93      59    92      59    92
+Temp          68   58 81 92 71   60 81 92 70   59 79 90 70   59 80 91
+Dewpt         49   47 52 45 49   49 52 47 50   48 48 47 49   48 50 46
+PWind dir           N     W      NW    NW      NW    NW      NW    NW
+Wind char          LT    LT      LT    LT      GN    LT      GN    LT
+Avg clouds    FW   FW FW SC SC   FW FW FW FW   FW FW CL FW   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ311-250000-
+Hanford - Corcoran - Lemoore-
+Including the cities of Hanford, Lemoore, and Corcoran
+802 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      83          51          83          53          91
+Temp                   71 80 83 73 63 56 51 56 71 80 83 73 63 57 53 59 77 88 90
+Dewpt                  51 51 47 47 47 45 43 46 50 49 46 48 48 48 47 49 52 48 45
+RH                     49 36 28 40 56 66 74 69 47 34 27 41 58 72 80 69 42 25 21
+Wind dir               NW NW NW NW NW NW NW NW NW NW NW NW NW  N  N  W  W NW  N
+Wind spd                8 10 12 11 12  9  6  5  6  6  8  6  5  4  3  3  5  5  5
+Wind gust                          25                                          
+Clouds                 CL CL CL FW FW FW FW CL FW FW FW CL CL CL CL CL CL CL FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            57    94      59    93      59    92      58    92
+Temp          68   57 81 92 71   59 81 92 71   59 78 90 70   58 79 91
+Dewpt         49   49 53 46 50   50 52 47 50   47 49 47 49   48 51 47
+PWind dir           N    NW      NW    NW      NW    NW      NW    NW
+Wind char          LT    LT      LT    LT      GN    LT      GN    GN
+Avg clouds    FW   FW FW FW SC   SC FW FW FW   FW FW FW FW   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ312-250000-
+Visalia - Porterville - Reedley-
+Including the cities of Goshen, Visalia, Tulare, and Porterville
+802 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      82          52          82          56          90
+Temp                   70 79 82 74 64 57 53 57 71 80 82 75 65 59 56 62 78 87 89
+Dewpt                  55 54 51 51 50 49 47 49 52 51 50 52 52 50 48 50 53 50 48
+RH                     59 42 34 44 60 75 80 75 51 36 33 45 63 72 74 65 42 28 24
+Wind dir               SW NW NW  N  N NW SW  S SW  W NW  N NE  E  E SE SW  W NW
+Wind spd                5  6 10  8  6  5  3  4  5  4  5  4  3  4  5  4  5  5  6
+Clouds                 FW CL CL FW FW FW FW FW FW FW FW CL CL CL CL CL CL CL FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            58    92      61    92      61    91      60    91
+Temp          68   59 81 91 71   61 80 91 71   61 79 89 71   60 79 90
+Dewpt         52   48 53 49 52   50 54 50 53   50 53 51 52   50 54 50
+PWind dir           N     S       N    SW       N    SW       N    SW
+Wind char          LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW   FW FW FW FW   FW FW FW FW   FW FW FW FW   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ313-250000-
+Buena Vista-
+Including the city of Taft
+802 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                72 81 85    50 56 57    73 82 86    53 58 60    80 89 93
+Temp                   71 79 81 74 67 60 56 61 71 79 82 74 66 61 59 64 78 86 89
+Dewpt                  49 47 43 44 42 42 42 43 44 43 38 41 41 41 40 41 41 40 39
+RH                     46 32 26 34 40 51 59 51 38 28 21 30 40 48 49 43 27 20 17
+Wind dir               NE  N  N  N NW NW  W NW  N  N  N  N  W  W  S  S NE NE  N
+Wind spd                5 10 11 10 10  8  5  5  6  9 10  8  6  5  5  5  8 10  9
+Wind gust                          24 18       17 19    18                     
+Clouds                 FW CL CL CL FW FW FW FW CL CL CL CL CL CL CL FW CL FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            63    91      65    91      65    91      64    90
+Temp          71   63 81 90 73   65 82 90 74   65 80 89 72   64 81 89
+Dewpt         44   43 46 41 45   44 47 42 46   46 44 41 45   45 44 40
+PWind dir           W    NW       W    NW      NW     N      NW     N
+Wind char          GN    LT      GN    LT      GN    GN      GN    GN
+Avg clouds    FW   FW FW SC SC   FW SC FW SC   FW FW CL FW   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ314-250000-
+Bakersfield-
+Including the city of Bakersfield
+802 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                76 81 83          55    78 83 85    55 57 61    85 91 92
+Temp                   71 79 81 75 66 59 55 60 72 80 83 76 66 61 58 63 79 88 90
+Dewpt                  53 51 47 49 49 48 47 48 48 47 44 46 48 47 45 45 44 43 42
+RH                     53 38 30 40 54 67 74 64 42 31 25 34 52 60 62 52 29 21 19
+Wind dir                W NW NW  N NW NW  W  S  W NW NW  N  E  E  E SE NW NW  N
+Wind spd                5 10 12  8  6  6  4  4  5  8 10  6  5  4  5  4  8 10  9
+Wind gust                       19                                             
+Clouds                 FW CL CL CL FW FW FW FW CL CL CL CL CL CL CL CL CL FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            62    93      64    93      63    92      63    92
+Temp          71   62 81 92 73   64 82 92 73   63 80 91 73   63 80 91
+Dewpt         48   47 48 44 49   49 50 47 52   51 48 45 50   49 49 45
+PWind dir          NE    SW       N    NW      NW    NW      NW    NW
+Wind char          GN    LT      GN    LT      GN    LT      GN    LT
+Avg clouds    FW   FW FW SC SC   FW FW FW FW   FW FW FW FW   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ315-250000-
+Southeast San Joaquin Valley-
+Including the city of Richgrove
+802 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      80          53          81    53 56 59          89
+Temp                   70 77 80 73 64 58 54 58 70 78 81 73 64 60 57 62 77 86 88
+Dewpt                  54 52 50 51 50 48 47 49 50 49 47 49 50 48 45 47 48 47 46
+RH                     57 42 35 46 60 69 77 72 49 36 30 43 60 64 64 58 36 26 23
+Wind dir                W NW NW  N NE  W  S  S  W NW NW  N  E  E  E SE  W NW  N
+Wind spd                6  9 11  8  4  4  3  5  5  5  8  4  4  4  5  5  5  8  8
+Clouds                 FW CL CL FW FW FW FW FW FW FW CL CL CL CL CL CL CL FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            60    91      62    91      61    90      61    90
+Temp          69   61 81 90 71   62 80 89 71   61 79 88 70   61 79 89
+Dewpt         49   46 50 46 50   48 51 49 52   50 50 48 51   49 51 48
+PWind dir          NE    SW       N    SW       N    SW       N    SW
+Wind char          LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW   FW FW FW SC   FW FW FW FW   FW FW FW FW   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ316-250000-
+South End San Joaquin Valley-
+Including the cities of Lamont and Arvin
+802 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                70 80 84    51 55 57    73 82 85    54 58 61    80 90 93
+Temp                   71 78 80 74 66 60 56 60 72 79 82 75 66 61 58 64 79 87 89
+Dewpt                  52 50 46 48 47 47 46 46 47 46 44 45 44 43 42 42 42 40 40
+RH                     51 37 30 40 50 62 69 60 41 31 26 34 45 51 55 45 27 19 18
+Wind dir               NW NW NW  N  W SW SW SW NW NW NW NW  S SE SE SE NE  N  N
+Wind spd                5 10 12  8  8  6  5  4  5  8  8  5  5  5  5  5 10 10  9
+Wind gust                    23 20 19 18                               21      
+Clouds                 FW FW CL CL FW FW FW FW CL CL CL CL CL CL FW CL CL FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            62    92      64    91      63    91      63    90
+Temp          71   62 81 90 72   64 81 90 73   63 80 90 72   63 80 90
+Dewpt         46   46 48 43 47   47 49 45 50   50 48 44 48   48 47 43
+PWind dir          NW    NE       W     W       W    NW       W    NW
+Wind char          GN    LT      GN    LT      GN    LT      GN    GN
+Avg clouds    FW   FW FW SC SC   FW SC FW FW   FW FW FW FW   FW FW FW
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ317-250000-
+Mariposa Madera Foothills-
+Including the cities of El Portal and Mariposa
+802 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                70 76 81    47 52 54    72 77 83    51 56 59    78 84 88
+Temp                   68 74 75 68 60 55 52 56 67 74 77 70 63 59 57 62 75 82 83
+Dewpt                  50 50 48 49 48 46 42 45 50 51 50 50 50 46 42 45 49 50 47
+RH                     52 43 38 51 64 72 69 66 54 44 39 49 62 62 57 54 40 33 28
+Wind dir                W  W NW NW  N  N NE NE SW SW  W NW NE NE NE NE SW SW NW
+Wind spd                6 10 11  8  5  4  4  3  8  8  8  4  4  5  6  5  8  9  6
+Wind gust                                                                    17
+Clouds                 CL CL CL FW FW FW CL FW CL FW FW CL CL CL CL CL CL CL FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            60    87      61    86      61    85      59    85
+Temp          66   60 78 85 68   61 78 85 68   61 76 83 67   59 76 83
+Dewpt         50   45 50 48 51   48 52 48 50   47 51 48 50   46 50 47
+PWind dir           N    SE       N    NW      NW    NW      NW    NW
+Wind char          LT    LT      LT    GN      GN    LT      GN    LT
+Avg clouds    FW   FW FW FW FW   FW FW FW FW   FW CL CL CL   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ318-250000-
+Mariposa-Madera Lower Sierra-
+Including the cities of Bass Lake, Coarsegold, Fish Camp, 
+Oakhurst, and North Fork
+802 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                54 70 79    39 48 54    56 71 80    42 52 58    62 77 86
+Temp                   65 68 68 60 54 51 49 53 65 69 70 63 56 54 52 57 71 76 76
+Dewpt                  42 46 46 45 42 37 32 36 42 47 48 47 42 37 33 37 41 44 44
+RH                     43 45 45 58 64 59 52 52 43 45 45 56 59 52 48 47 34 32 32
+Wind dir                W  W  W  N NE NE NE  E SW SW  W  N NE NE NE NE SW SW  W
+Wind spd                6 10 10  6  5  5  4  3  6  8  8  4  5  6  8  6  8 10  8
+Wind gust                                                  17 18 21 18 18    18
+Clouds                 CL CL FW FW FW FW FW FW CL FW SC CL CL CL CL CL CL CL FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            55    80      56    80      56    79      55    79
+Temp          60   55 74 78 61   56 74 77 61   56 73 76 60   55 73 76
+Dewpt         43   37 42 45 45   41 46 46 46   40 44 46 45   39 43 45
+PWind dir           N    SE       N    NW       N    NW       N    NW
+Wind char          LT    GN      LT    GN      GN    GN      GN    GN
+Avg clouds    FW   FW FW FW FW   FW FW FW FW   FW CL CL FW   FW CL CL
+PoP 12hr            0     0       0     0       0     0       0     5
+
+$$
+CAZ319-250000-
+Fresno-Tulare Foothills-
+Including the city of Millerton Lake
+802 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                66 77 83    49 54 57    67 78 84    53 58 61    74 85 91
+Temp                   68 74 77 70 62 57 54 59 68 75 78 71 64 60 58 63 76 83 85
+Dewpt                  54 54 52 51 50 47 45 47 51 52 51 51 51 47 43 47 50 50 47
+RH                     61 50 42 51 65 69 71 64 54 45 39 49 63 62 57 56 40 32 27
+Wind dir               SW  W NW  N NE  E  E SE SW SW  W  N NE NE  E  E SW  W NW
+Wind spd                6  8 10  6  4  3  3  4  6  6  5  4  4  4  6  5  6  8  6
+Clouds                 FW FW FW FW FW FW CL FW CL FW FW CL CL CL CL CL CL CL FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            60    88      62    88      62    87      61    87
+Temp          67   61 78 86 69   62 78 86 69   62 77 85 69   61 77 85
+Dewpt         49   44 50 48 50   47 52 51 52   49 53 51 52   47 52 50
+PWind dir           N     S       N     S       N     S       N     S
+Wind char          LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW   FW FW FW FW   FW FW FW FW   FW FW FW FW   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ320-250000-
+Fresno-Tulare Lower Sierra-
+Including the city of Auberry
+802 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                55 68 79    32 51 56    57 70 81    35 54 58    62 76 87
+Temp                   63 67 67 60 56 53 51 55 64 68 69 62 58 56 54 59 70 74 75
+Dewpt                  48 51 50 47 44 39 34 37 46 49 50 48 43 37 34 39 45 46 44
+RH                     58 56 54 62 64 59 52 51 52 51 51 60 57 49 46 47 41 37 33
+Wind dir               SW  W  W  N NE NE  E  E SW SW  W  N NE NE NE  E SW  W NW
+Wind spd                5  8  9  5  4  4  4  3  5  6  5  3  4  5  8  5  6  9  6
+Wind gust                       17                               18            
+Clouds                 FW FW FW FW FW FW CL FW FW FW SC FW CL CL CL CL CL FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            57    78      58    79      58    78      57    78
+Temp          60   57 72 76 62   58 72 76 62   58 71 76 61   57 72 75
+Dewpt         42   36 45 46 45   40 47 50 47   42 48 49 46   39 47 49
+PWind dir           N    NW       N    NW       N    SW       N     S
+Wind char          LT    LT      LT    LT      LT    LT      LT    GN
+Avg clouds    FW   FW FW FW FW   FW FW FW SC   FW FW FW FW   FW FW FW
+PoP 12hr            0     0       0     0       0     0       0     5
+
+$$
+CAZ321-250000-
+South End Sierra Foothills-
+802 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                72 76 80          54    74 78 81          57    81 85 88
+Temp                   67 73 76 70 63 58 55 59 68 75 78 71 64 61 58 64 76 83 85
+Dewpt                  54 52 51 51 50 48 47 48 49 49 48 49 48 46 43 44 46 46 46
+RH                     63 48 42 51 62 69 74 67 51 40 35 46 56 58 57 48 34 27 26
+Wind dir               SW NW NW  N NE  E SE  S  W  W NW  N  E  E  E  E  W NW  N
+Wind spd                8  9 11  8  5  4  3  4  5  6  8  4  4  5  6  5  8  9  8
+Wind gust                       18 18                                          
+Clouds                 FW CL CL FW FW FW FW FW FW FW CL CL CL CL CL CL CL FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            62    88      63    87      63    87      63    86
+Temp          69   62 78 86 70   63 78 86 71   63 77 85 70   63 77 85
+Dewpt         48   44 48 46 48   47 50 49 51   49 50 48 50   48 50 48
+PWind dir          NE     S      NE     S       N    SW      NE    SW
+Wind char          LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW   FW FW SC SC   FW FW FW FW   FW FW FW FW   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ322-250000-
+South End of the Lower Sierra-
+Including the city of Camp Nelson
+802 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                57 67 79    41 50 58    58 69 80    45 53 62    63 76 86
+Temp                   61 65 66 60 56 52 50 55 63 68 69 63 58 56 54 59 70 74 75
+Dewpt                  51 52 50 49 46 43 40 41 47 50 49 47 44 40 36 38 42 45 45
+RH                     70 63 56 67 69 71 68 59 56 52 49 56 59 55 50 45 36 35 34
+Wind dir                W  W NW  N NE NE  E SE SW  W  W  N  E  E  E  E SW  W  N
+Wind spd                8  9 10  9  6  4  4  3  5  6  6  4  4  5  8  6  8  9  8
+Wind gust              20 27 28 31 26 20             18 16          19 21 20 20
+Clouds                 FW FW FW FW FW FW FW FW FW SC FW FW CL CL CL CL CL FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            57    78      58    78      58    78      57    77
+Temp          61   57 72 76 62   58 72 76 63   58 71 76 62   57 71 75
+Dewpt         43   38 44 46 44   41 47 49 47   43 47 48 46   41 46 48
+PWind dir          NE     N       N     W       N    SW       N    SW
+Wind char          LT    LT      LT    LT      GN    LT      GN    GN
+Avg clouds    FW   FW FW SC SC   SC FW FW SC   FW FW FW FW   FW FW FW
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ323-250000-
+Yosemite NP outside of the valley-
+Including the cities of Tuolumne Meadows and Wawona
+802 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                32 49 72    20 31 47    35 53 75    20 34 50    38 56 79
+Temp                   46 48 46 38 35 34 32 38 49 52 51 42 37 36 35 39 52 55 53
+Dewpt                  23 30 35 31 19 11  7 17 24 31 35 29 19 15 13 19 26 33 35
+RH                     40 49 65 76 52 38 34 42 37 44 54 60 48 42 40 44 36 43 50
+Wind dir                W  W  W  N NE NE NE NE  N NW NW NE NE  E  E  E  S  W NW
+Wind spd               10 11 10  5  6  8  8  6  6  8  6  6 10 10 10  9  6  9  8
+Wind gust              34 34 33 24 21 21 23 21 19       19 21    21    17 19 20
+Clouds                 CL CL FW FW FW FW FW FW FW FW SC FW CL FW FW FW CL CL FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Wind chill                         29 28 25 32             30 29 27            
+Min chill               9    16     8     5     7    23    11    10    12    28
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            37    58      38    59      39    59      38    58
+Temp          40   38 53 54 41   38 54 54 42   39 54 54 41   38 54 53
+Dewpt         24   18 29 36 27   22 30 37 27   21 30 37 26   21 30 37
+PWind dir           N     N       N    NW       N     N       N    NW
+Wind char          GN    GN      GN    GN      GN    GN      GN    GN
+Avg clouds    FW   FW FW FW FW   FW FW FW FW   FW FW FW FW   FW FW FW
+PoP 12hr            0     0       0     0       0     5       5     5
+
+$$
+CAZ324-250000-
+Yosemite Valley-
+Including the city of Yosemite Valley
+802 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                55 65 71    37 43 51    59 68 76    40 46 54    62 72 79
+Temp                   61 64 62 52 47 45 44 49 64 68 66 56 51 48 47 51 68 71 69
+Dewpt                  35 42 45 40 30 20 13 24 35 44 48 42 29 24 21 28 36 43 45
+RH                     38 45 54 63 51 36 28 37 34 42 52 59 42 39 35 41 31 36 42
+Wind dir               SW  W  W NE NE NE NE NE  W  W  W NE  E  E  E  E SW SW NW
+Wind spd                5  8  6  4  4  4  4  3  4  5  5  4  6  6  8  6  5  8  6
+Clouds                 CL CL FW FW FW FW FW FW CL FW SC FW CL CL CL FW CL CL FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            49    74      50    75      51    75      50    73
+Temp          53   50 69 70 54   51 69 70 54   51 69 70 54   50 69 69
+Dewpt         34   26 38 46 37   30 41 47 37   29 39 47 36   28 39 46
+PWind dir           N    SE       N     N       N    NW       N    NW
+Wind char          LT    LT      LT    GN      GN    GN      LT    GN
+Avg clouds    FW   FW FW FW FW   FW FW FW FW   FW FW CL FW   FW FW FW
+PoP 12hr            0     0       0     0       0     0       0     5
+
+$$
+CAZ325-250000-
+San Joaquin River Canyon-
+802 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                56 64 78    31 44 56    59 67 79    33 46 58    61 70 85
+Temp                   61 64 62 54 49 46 45 49 62 66 65 56 51 48 47 52 66 70 68
+Dewpt                  36 44 46 43 36 29 22 27 36 43 47 42 33 27 25 29 36 41 43
+RH                     39 48 56 66 61 51 40 42 38 43 52 59 50 44 42 41 33 35 40
+Wind dir               SW SW SW NE NE NE NE NE SW SW  W NE NE NE NE NE SW SW  W
+Wind spd                5  9  9  4  5  5  5  4  4  6  8  4  8  9  9  8  5  8  6
+Wind gust                                                  18                17
+Clouds                 CL CL FW SC FW FW FW FW FW FW SC FW FW CL CL FW CL CL FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            49    73      50    74      51    74      50    73
+Temp          53   50 68 70 55   51 69 71 56   51 68 70 55   50 68 69
+Dewpt         36   29 37 44 39   33 40 48 41   33 39 46 40   32 38 47
+PWind dir           N    NW       N    NW       N    NW       N    NW
+Wind char          LT    LT      LT    GN      GN    GN      GN    GN
+Avg clouds    FW   FW FW FW FW   FW FW FW FW   FW FW FW FW   FW FW FW
+PoP 12hr            0     0       0     0       0     0       0     5
+
+$$
+CAZ326-250000-
+Upper San Joaquin River-
+Including the cities of Devils Postpile, Florence Lake, 
+and Lake Thomas Edison
+802 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                31 47 61    20 30 44    33 50 64    19 31 45    35 52 66
+Temp                   44 46 44 36 33 32 31 35 47 49 48 39 35 33 32 37 49 52 50
+Dewpt                  22 29 34 30 19 11  5 15 23 29 32 26 17 14 11 17 24 30 32
+RH                     41 51 68 79 56 41 32 43 38 46 54 59 47 45 41 44 37 43 50
+Wind dir                W  W  W NW  N  N  N NE  N NW NW NE NE NE NE NE NE  W NW
+Wind spd               11 13 12  6  6  8  8  8  8  8  8  8  9  9  9  8  6  9  8
+Wind gust              36 39 34 25 21 19 20 21 20    18 18 19                18
+Clouds                 CL CL FW FW FW FW FW FW FW SC SC FW FW FW FW FW CL CL FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Wind chill                         27 25 23 29          33 27 26 24 31         
+Min chill               9    14     8     5     7    22    13     9    10    26
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            34    55      36    56      36    56      36    55
+Temp          37   35 51 52 39   36 52 52 40   37 52 52 39   36 52 50
+Dewpt         22   16 27 34 26   21 28 36 26   20 28 35 25   20 28 36
+PWind dir           N    NW      NW     W      NW    NW      NW    NW
+Wind char          GN    GN      GN    GN      GN    GN      GN    GN
+Avg clouds    FW   FW FW FW FW   FW FW FW FW   FW FW FW FW   FW FW FW
+PoP 12hr            0     0       0     0       0     0       0     5
+
+$$
+CAZ327-250000-
+Kaiser to Rodgers Ridge-
+Including the cities of Lake Wishon, Huntington Lake, 
+and Shaver Lake
+802 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                37 51 71    24 33 54    41 54 72    25 35 56    43 57 79
+Temp                   48 50 48 40 37 35 34 39 50 53 51 43 39 37 36 41 53 56 54
+Dewpt                  25 34 37 33 22 14  7 17 27 35 38 31 21 17 14 20 27 33 35
+RH                     40 54 65 76 54 41 32 40 41 50 61 62 48 44 40 42 36 42 48
+Wind dir                W  W  W  N NE  N NE NE  W  W  W NE NE NE NE NE SW SW NW
+Wind spd                9 10  9  5  6  8  8  5  6  6  6  5  8  9  9  6  6  9  8
+Wind gust              24 24 20          19                                  18
+Clouds                 CL FW FW SC FW FW FW FW FW FW SC FW FW FW CL FW CL CL FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Wind chill                         31    28                33 31 29            
+Min chill              19    24    17    14    16    31    21    16    18    34
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            38    59      39    60      40    60      39    59
+Temp          41   39 55 56 43   40 56 56 44   40 56 56 43   40 55 55
+Dewpt         24   18 29 36 28   22 31 39 29   22 31 38 27   21 30 38
+PWind dir           N    NW      NW    NW       N    NW       N    NW
+Wind char          GN    GN      GN    GN      GN    GN      GN    GN
+Avg clouds    FW   FW FW FW FW   FW FW FW SC   FW FW FW SC   FW FW FW
+PoP 12hr            0     0       0     0       0     0       5     5
+
+$$
+CAZ328-250000-
+Kings Canyon NP-
+Including the city of Cedar Grove
+802 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                31 43 73    19 27 42    32 45 75    20 28 44    34 47 76
+Temp                   41 42 40 33 30 29 27 31 43 45 44 35 32 30 29 32 44 47 45
+Dewpt                  17 25 30 26 14  7  0  9 18 26 29 22 13 10  7 11 20 26 28
+RH                     37 50 67 75 51 39 30 39 36 47 55 59 45 42 39 41 38 43 51
+Wind dir                W  W  W  W NW NW NW  N NW NW NW  N  N  N  N NE SW SW NW
+Wind spd               14 17 16 10  9  9  9  6  8  8  6  6  8  9  8  6  6  8  8
+Wind gust              43 50 46 35 36 35 28 21 21 19 17 19 21 20 18 17 21 24 23
+Clouds                 FW CL FW FW FW FW FW FW FW FW SC FW FW FW FW FW CL FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Wind chill             33 34 32 26 22 20 18 25             25 22 21 26         
+Min chill               6    14     4     1     4    20    11     7     9    23
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            31    49      33    51      34    51      33    50
+Temp          33   31 46 47 35   33 47 47 36   34 47 46 35   33 47 46
+Dewpt         18   10 22 30 21   15 24 31 22   15 23 31 20   14 24 32
+PWind dir           N    NW      NW     W      NW    NW      NW     W
+Wind char          GN    GN      GN    GN      GN    GN      GN    GN
+Avg clouds    FW   FW FW FW FW   FW FW FW SC   FW FW FW SC   FW FW FW
+PoP 12hr            0     0       0     0       0     0       0     5
+
+$$
+CAZ329-250000-
+Grant Grove Area-
+Including the cities of Grant Grove and Hume Lake
+802 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                41 57 79    29 41 57    43 58 79    31 43 59    46 62 85
+Temp                   54 55 54 47 44 43 41 45 55 58 57 49 46 44 43 48 59 62 60
+Dewpt                  34 42 44 41 33 25 17 23 35 43 45 40 30 24 21 26 35 41 41
+RH                     46 61 69 79 65 49 37 41 47 57 64 71 53 45 41 42 40 46 49
+Wind dir                W  W  W NE NE NE NE NE SW  W  W NE NE NE NE  E SW  W NW
+Wind spd                6  8  8  4  5  5  5  4  4  5  5  4  6  9 10  6  5  8  6
+Wind gust              18 18                                                   
+Clouds                 CL FW FW FW FW FW FW FW FW FW SC FW FW FW CL FW CL FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            45    65      47    65      47    66      47    65
+Temp          48   46 60 62 49   47 61 62 50   47 61 61 49   47 61 61
+Dewpt         32   23 35 42 35   28 38 45 37   28 38 44 35   27 37 45
+PWind dir           N     N       N    NW       N    NW       N    NW
+Wind char          LT    GN      LT    GN      LT    LT      LT    GN
+Avg clouds    FW   FW FW FW SC   FW FW FW SC   FW FW FW SC   FW FW FW
+PoP 12hr            0     0       0     0       0     5       0     5
+
+$$
+CAZ330-250000-
+Sequoia NP-
+Including the cities of Giant Forest and Lodgepole
+802 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                32 48 73    16 32 55    34 50 75    17 33 58    35 52 80
+Temp                   46 47 45 38 35 34 33 37 47 49 48 41 37 35 33 39 49 52 50
+Dewpt                  25 32 34 29 18 12  6 14 25 33 36 29 20 15 12 17 25 32 33
+RH                     43 56 65 70 49 39 31 38 42 54 63 62 50 43 41 40 39 46 52
+Wind dir               NW  W NW  N  N  N  N  N SW  W  W NE NE NE NE NE SW SW  N
+Wind spd               16 17 16 11 11 11 10  6  8  8  6  6  8  9 10  8  8  9  8
+Wind gust              40 42 42 33 34 33 31 21 21 21 19 18 20 20    18 21 24 21
+Clouds                 FW FW FW FW FW FW FW FW FW FW SC FW FW CL CL FW CL FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Obvis                     BD                                                   
+Wind chill                   39 31 27 26 24 31             30 28 26 33         
+Min chill              10    13     3    -1     5    20    10     4     7    21
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            35    54      37    55      37    55      37    55
+Temp          38   35 50 52 39   37 51 52 40   37 51 51 39   37 51 50
+Dewpt         22   14 26 33 24   18 28 35 25   19 29 35 24   17 29 36
+PWind dir           N    NW      NW    NW      NW    NW      NW     W
+Wind char          GN    GN      GN    GN      GN    GN      GN    GN
+Avg clouds    FW   FW FW FW SC   FW FW FW SC   FW FW FW SC   FW FW FW
+PoP 12hr            0     0       0     0       0     0       0     5
+
+$$
+CAZ331-250000-
+South End of the Upper Sierra-
+Including the city of Johnsondale
+802 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                36 59 75    21 38 51    39 60 76    20 40 54    41 62 81
+Temp                   55 58 56 47 43 41 39 44 55 59 59 50 46 43 41 46 58 62 61
+Dewpt                  31 34 35 35 29 24 19 22 28 32 34 32 27 22 18 20 24 28 30
+RH                     40 40 45 63 57 50 44 41 35 36 39 50 47 43 39 35 27 27 31
+Wind dir                W  W NW NW NW NW NW  N  S  S SW NW  N  N  N NE  E  S NW
+Wind spd               11 17 20 18 13 11  9  6  8  9  8  6  8  9 11 11 10 10  9
+Wind gust              36 39 54 55 44 35 27 18 19 19 19 18 26 28 29 29 31 24 21
+Clouds                 CL FW FW FW FW FW FW FW CL FW FW FW CL CL CL CL CL FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Obvis                        BD BD                                             
+Wind chill                         37 34 33                      35            
+Min chill              13    21    10     7    11    31    16    10    12    31
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            43    65      44    66      45    66      44    66
+Temp          47   43 61 63 48   44 62 64 49   45 62 63 48   44 62 63
+Dewpt         28   22 27 33 30   25 31 36 33   26 30 35 31   25 30 35
+PWind dir          NW    NW      NW     W      NW    NW      NW     W
+Wind char          GN    GN      GN    GN      GN    GN      GN    GN
+Avg clouds    FW   FW FW FW FW   FW FW FW SC   FW FW FW FW   FW FW FW
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ332-250000-
+Kern River Valley-
+Including the cities of Lake Isabella and Kernville
+802 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                64 74 80    46 50 55    68 77 81    48 53 59    74 81 87
+Temp                   67 73 72 64 59 54 50 55 69 76 76 68 61 56 53 59 73 80 80
+Dewpt                  45 44 43 45 44 41 39 39 39 38 41 43 41 37 33 33 31 31 35
+RH                     45 35 35 50 57 61 66 55 33 25 28 40 48 49 46 37 21 17 20
+Wind dir                W  W  W  W  W  W  W  N  S SW  W  W  N NE NE NE  E  S  W
+Wind spd               11 19 20 17 13  9  8  5  8  9 11  9  6  6  8 10 12 11 11
+Wind gust                 33 39 35 29 20                                     21
+Clouds                 CL CL FW FW FW FW FW FW CL FW FW CL CL CL CL CL CL CL CL
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Obvis                        BD                                                
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            56    84      57    84      58    84      58    84
+Temp          64   56 76 82 65   58 76 82 66   58 76 82 65   58 76 82
+Dewpt         40   38 37 38 41   40 41 43 45   43 40 40 43   41 39 39
+PWind dir          NW    NW      NW     W      NW     W      NW     W
+Wind char          GN    GN      GN    GN      GN    GN      GN    GN
+Avg clouds    FW   FW FW FW FW   FW FW FW FW   FW FW CL FW   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ333-250000-
+Piute Walker Basin-
+802 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                51 66 79    35 46 56    57 70 83    38 50 60    60 74 89
+Temp                   61 65 64 57 53 49 47 52 64 69 68 61 55 52 51 57 68 73 73
+Dewpt                  43 43 39 40 39 37 34 35 35 36 39 39 37 32 29 28 26 27 31
+RH                     51 45 40 53 59 63 60 52 34 30 34 44 51 46 42 33 20 18 21
+Wind dir                W  W  W NW NW NW NW NW  S SW  W  W NW NE NE  E  E SE  W
+Wind spd               11 18 21 20 17 12 10  6  8  9  9  8  6  6  9 11 14 11 10
+Wind gust              24 35 47 49 40 32 25                21 20 23 25 27    20
+Clouds                 FW CL FW FW FW FW FW FW CL FW FW CL CL CL CL CL CL FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Obvis                        BD BD BD                                          
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            53    77      55    77      55    77      54    77
+Temp          58   54 72 75 60   55 71 75 61   55 71 75 60   54 71 74
+Dewpt         34   33 33 34 35   36 38 39 40   39 36 37 38   38 35 35
+PWind dir          NW    NW      NW     W      NW     W       W     W
+Wind char          GN    GN      GN    GN      GN    GN      GN    GN
+Avg clouds    FW   FW FW FW SC   SC FW FW FW   FW FW FW FW   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ334-250000-
+Tehachapi-
+Including the city of Tehachapi
+802 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                54 66 81    39 48 57    59 71 83    43 52 60    62 76 91
+Temp                   61 65 65 59 55 51 49 53 64 69 69 62 57 54 52 58 69 74 75
+Dewpt                  46 45 42 43 42 41 38 39 37 38 41 40 39 35 31 31 28 29 32
+RH                     58 48 43 55 61 68 66 59 37 32 36 44 51 48 44 36 21 19 21
+Wind dir                W NW NW NW  W  W  W NW  N NW NW NW NW NE  E  E  E  E NW
+Wind spd               12 18 23 21 18 14 11  6  8  9 10  8  6  8  9 12 17 12 10
+Wind gust              27 36 48 52 46 39 33 20 18 19    18 18       26 35 27 21
+Clouds                 FW FW CL FW FW FW SC FW FW FW CL FW CL CL FW FW CL FW FW
+PoP 12hr                      5           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Obvis                        BD BD BD                                          
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            55    78      57    78      56    79      56    78
+Temp          61   55 73 77 63   57 72 76 64   56 72 76 63   56 72 76
+Dewpt         37   37 36 36 38   39 41 41 42   42 39 39 41   40 38 37
+PWind dir          NW    NW       W     W       W    NW       W     W
+Wind char          GN    GN      GN    GN      GN    GN      GN    GN
+Avg clouds    FW   FW FW SC SC   SC SC SC SC   FW FW FW FW   FW CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ335-250000-
+Grapevine-
+Including the cities of Grapevine and Lebec
+802 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                62 68 76          49    65 71 78          52    72 78 86
+Temp                   61 66 67 62 59 54 50 54 64 69 70 63 58 55 53 59 70 76 76
+Dewpt                  46 45 41 41 42 41 40 39 40 41 42 41 37 35 32 33 33 33 35
+RH                     58 47 39 46 53 61 68 57 41 36 36 44 45 47 44 37 25 21 22
+Wind dir               NW NW NW NW NW NW NW NW  N  N  N NW  W SW SE  E  E  E  N
+Wind spd               10 13 14 13 12 12 10  8  8 10  9  8  8  8  9 10 16 13 10
+Wind gust              21 26 27 26 25 28 25 18 18                      26 24   
+Clouds                 FW FW CL FW FW SC SC SC SC CL CL FW CL CL SC SC FW FW FW
+PoP 12hr                      5           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            56    79      58    78      58    79      57    78
+Temp          63   56 73 77 65   58 72 76 65   58 71 77 64   57 71 76
+Dewpt         39   39 40 40 40   41 43 43 43   44 41 41 42   42 40 40
+PWind dir          NW    NW       W    NW      NW    NW       W    NW
+Wind char          GN    GN      GN    GN      GN    GN      GN    GN
+Avg clouds    FW   FW SC SC SC   FW SC SC SC   FW FW FW FW   FW CL FW
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ336-250000-
+Frazier Mountain Communities-
+Including the city of Frazier Park
+802 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                52 68 81    36 48 57    56 70 82    38 52 60    61 77 89
+Temp                   62 67 67 61 56 52 49 53 63 68 69 62 56 54 52 59 70 75 75
+Dewpt                  43 42 39 40 39 39 37 37 38 41 39 38 34 32 31 31 34 35 36
+RH                     50 40 36 46 53 61 63 54 39 37 33 41 43 43 44 34 26 23 24
+Wind dir                N  N  N  N NW NW  W  N  N  N  N NW  S  S SE SE NE NE  N
+Wind spd                9 12 12 11 11  9  8  6  8  9  9  8  8  6  8  9 12 12 10
+Wind gust              25 26 31 29 29 26 26 20    23 19 19 18 18 19 24 27 24 24
+Clouds                 FW FW CL FW FW B1 SC SC SC CL CL CL CL CL SC B1 FW FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            56    79      58    78      57    78      56    78
+Temp          61   56 72 77 63   58 72 76 64   57 71 76 63   56 71 76
+Dewpt         38   37 40 39 39   39 42 41 41   41 40 39 40   39 39 39
+PWind dir          NW     N       W    NW      NW     N       W    NW
+Wind char          GN    GN      GN    GN      GN    GN      GN    GN
+Avg clouds    FW   FW SC SC SC   SC SC SC SC   FW FW FW FW   CL CL FW
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ337-250000-
+Indian Wells Valley-
+Including the cities of Inyokern and Ridgecrest
+802 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                74 86 90    50 54 56    73 83 85          55    74 85 87
+Temp                   76 84 84 72 65 59 55 61 74 81 83 75 66 61 56 62 76 83 85
+Dewpt                  31 32 32 36 37 35 33 31 28 27 23 25 27 27 26 24 22 20 19
+RH                     19 15 15 27 35 40 43 32 18 14 11 15 23 27 31 23 13 10  9
+Wind dir               SW SW  W  W  W  W NW  N NE NE NE NW NW NW  N  N NE NE  S
+Wind spd                5 11 25 26 20 14 12 10 11  8  6  9 10 12 11 11 13 10 10
+Wind gust                 21 40 48 42 31 26 23                                 
+Clouds                 CL CL CL FW FW FW FW FW CL FW FW FW FW CL CL CL CL CL FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Obvis                        BD BD BD                                          
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            59    90      61    92      62    91      61    92
+Temp          68   60 81 89 71   61 83 90 72   62 82 89 71   61 82 90
+Dewpt         25   31 27 22 34   35 32 27 38   38 32 26 34   36 33 27
+PWind dir          SW    SW       W    SW       W     S      SW    SW
+Wind char          GN    GN      GN    GN      GN    GN      GN    GN
+Avg clouds    FW   FW FW FW FW   FW FW FW FW   FW FW FW FW   FW FW CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ338-250000-
+Mojave Desert Slopes-
+Including the city of Mojave
+802 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                56 75 87    43 52 58    62 76 85    46 54 60    66 79 87
+Temp                   70 74 72 63 60 57 53 58 68 74 76 68 61 57 55 60 71 77 78
+Dewpt                  37 38 36 38 38 36 33 33 29 28 29 32 33 30 26 26 23 22 22
+RH                     30 27 27 39 44 45 46 39 23 18 18 26 35 35 32 27 16 13 12
+Wind dir               NW  W  W  W NW NW NW NW NE  E  W  W NW NW  N NE  E  E  S
+Wind spd               13 25 32 33 33 25 19 10 11  9  9 10 12 11 11 13 19 13 11
+Wind gust              31 39 55 59 58 44 41 20 21 19 19 20 37 26 29 27 35 26 21
+Clouds                 CL CL FW FW FW FW FW FW FW FW FW FW CL CL FW FW CL CL FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Obvis                     BD BD BD BD BD                                       
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            57    83      59    84      60    84      58    84
+Temp          64   57 76 81 66   59 77 81 67   60 76 81 66   58 76 81
+Dewpt         30   32 29 28 34   36 35 34 39   39 33 31 36   37 33 31
+PWind dir           W     W       W     W       W    NW       W    SW
+Wind char          GN    GN      GN    GN      GN    GN      GN    GN
+Avg clouds    FW   FW FW FW SC   FW FW FW FW   FW FW FW FW   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ339-250000-
+Mojave Desert-
+Including the cities of Rosamond, California City, Randsburg, 
+and Edwards AFB
+802 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                73 83 89    49 52 57    73 83 86    48 53 59    75 85 88
+Temp                   75 82 80 68 63 58 53 58 73 80 82 74 63 57 53 59 76 83 84
+Dewpt                  39 34 34 37 38 37 36 36 31 28 25 28 31 30 28 27 24 21 20
+RH                     27 18 19 32 39 45 52 44 21 15 12 18 30 35 38 29 14 10  9
+Wind dir                W  W  W  W  W  W  W  N NE NE  N NW NW NW NE NE NE NE NW
+Wind spd                9 19 27 26 24 18 11  8 10  9  8 10  8  6  6  9 17 12 10
+Wind gust              27 35 42 51 54 37 29 21             18       21 27 24   
+Clouds                 CL CL CL FW FW FW FW CL CL FW FW FW CL CL CL CL CL CL FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Obvis                        BD BD BD                                          
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            56    89      59    90      59    90      58    90
+Temp          65   56 80 88 68   59 81 88 69   59 80 88 68   58 81 88
+Dewpt         28   32 31 25 35   37 36 32 41   41 35 30 36   38 35 31
+PWind dir           W     W      SW     W       W    SW      SW    SW
+Wind char          GN    GN      GN    GN      GN    GN      GN    GN
+Avg clouds    FW   FW FW FW SC   SC FW FW FW   FW FW FW FW   FW CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$

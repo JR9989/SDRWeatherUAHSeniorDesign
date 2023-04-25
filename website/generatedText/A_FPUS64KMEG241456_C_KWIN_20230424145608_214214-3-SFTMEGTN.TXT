@@ -1,0 +1,124 @@
+FPUS64 KMEG 241456
+SFTMEG
+
+ARZ008-009-017-018-026>028-035-036-048-049-058-MOZ113-115-MSZ001>017-
+020>024-TNZ001>004-019>021-048>055-088>092-242300-
+
+Tabular State Forecast for The Mid South
+National Weather Service Memphis TN
+955 AM CDT Mon Apr 24 2023
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Today    Tue      Wed      Thu      Fri      Sat      Sun      
+   Apr 24   Apr 25   Apr 26   Apr 27   Apr 28   Apr 29   Apr 30   
+
+...WEST TENNESSEE...
+   Dyersburg
+   Sunny    Ptcldy   Mocldy   Shwrs    Ptcldy   Mocldy   Ptcldy   
+     /64    45/66    50/66    52/66    53/69    51/63    47/64    
+      /00    00/10    30/30    40/60    40/20    30/30    20/10   
+
+   Jackson
+   Sunny    Ptcldy   Mocldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   
+     /63    41/66    48/66    50/68    52/68    49/64    45/64    
+      /00    00/10    40/30    40/60    40/20    30/40    20/10   
+
+   Memphis
+   Sunny    Mocldy   Mocldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   
+     /65    46/64    50/66    54/68    54/70    51/64    47/65    
+      /00    00/20    50/40    50/70    40/20    30/30    10/10   
+
+   Paris
+   Sunny    Ptcldy   Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   
+     /62    40/66    47/65    48/66    51/67    49/63    44/62    
+      /00    00/10    30/30    30/60    50/20    30/40    20/20   
+
+   Savannah
+   Sunny    Ptcldy   Mocldy   Tstrms   Ptcldy   Ptcldy   Ptcldy   
+     /65    40/67    48/66    51/71    54/70    50/68    45/65    
+      /00    00/10    40/40    30/60    50/20    20/30    20/10   
+
+   Union City
+   Sunny    Ptcldy   Ptcldy   Shwrs    Ptcldy   Mocldy   Ptcldy   
+     /63    41/66    47/66    48/66    50/68    49/63    45/64    
+      /00    00/10    30/30    30/60    40/20    30/40    20/20   
+
+...EAST ARKANSAS...
+   Forrest City
+   Sunny    Mocldy   Mocldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   
+     /63    46/59    49/64    53/63    51/68    50/63    45/64    
+      /00    10/30    50/40    60/60    30/10    30/30    10/10   
+
+   Jonesboro
+   Sunny    Ptcldy   Mocldy   Shwrs    Ptcldy   Ptcldy   Sunny    
+     /64    46/63    50/65    52/64    51/69    50/63    45/65    
+      /00    10/20    40/30    50/60    30/10    30/30    10/10   
+
+   Paragould
+   Sunny    Ptcldy   Mocldy   Shwrs    Ptcldy   Ptcldy   Sunny    
+     /64    45/64    49/66    51/65    51/69    50/63    45/65    
+      /00    10/20    40/30    40/50    30/10    30/30    10/10   
+
+   West Helena
+   Sunny    Mocldy   Mocldy   Tstrms   Ptcldy   Ptcldy   Ptcldy   
+     /64    48/61    51/66    56/68    53/70    52/64    47/66    
+      /00    10/30    50/40    50/70    30/10    30/20    10/10   
+
+...MISSOURI BOOTHEEL...
+   Caruthersville
+   Sunny    Ptcldy   Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   
+     /62    45/65    50/65    50/66    51/68    50/62    46/64    
+      /00    00/10    30/30    40/60    30/20    30/30    20/10   
+
+   Kennett
+   Sunny    Ptcldy   Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   
+     /63    45/65    49/65    50/65    50/68    50/63    45/64    
+      /00    10/10    30/30    40/50    30/20    30/30    10/10   
+
+   Malden
+   Sunny    Ptcldy   Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   
+     /63    45/66    48/66    49/66    49/68    49/62    45/64    
+      /00    10/10    30/30    40/50    30/20    30/40    20/20   
+
+...NORTH MISSISSIPPI...
+   Aberdeen
+   Sunny    Ptcldy   Mocldy   Tstrms   Ptcldy   Ptcldy   Ptcldy   
+     /69    45/72    52/73    54/76    57/75    52/72    46/69    
+      /00    00/10    30/40    30/60    50/20    10/30    20/10   
+
+   Clarksdale
+   Sunny    Mocldy   Mocldy   Tstrms   Ptcldy   Ptcldy   Sunny    
+     /66    47/64    52/69    56/70    54/71    52/66    47/67    
+      /00    10/30    50/40    50/70    30/10    20/20    10/10   
+
+   Corinth
+   Sunny    Ptcldy   Mocldy   Tstrms   Ptcldy   Ptcldy   Ptcldy   
+     /65    41/66    48/66    51/71    54/71    50/67    45/65    
+      /00    00/10    40/40    30/70    50/20    20/30    20/10   
+
+   Oxford
+   Sunny    Mocldy   Mocldy   Tstrms   Ptcldy   Ptcldy   Ptcldy   
+     /66    45/65    49/68    53/71    54/71    51/67    45/66    
+      /00    00/10    40/30    40/60    40/10    20/30    10/10   
+
+   Southaven
+   Sunny    Mocldy   Mocldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   
+     /65    46/64    50/67    54/68    53/69    51/64    47/65    
+      /00    00/20    50/40    50/70    40/20    30/30    10/10   
+
+   Tupelo
+   Sunny    Ptcldy   Mocldy   Tstrms   Ptcldy   Ptcldy   Ptcldy   
+     /67    43/69    51/69    53/73    56/73    52/69    46/67    
+      /00    00/10    40/40    30/70    50/20    20/30    20/10   
+
+
+$$
+

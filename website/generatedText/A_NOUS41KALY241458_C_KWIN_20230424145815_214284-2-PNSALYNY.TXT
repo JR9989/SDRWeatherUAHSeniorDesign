@@ -1,0 +1,631 @@
+NOUS41 KALY 241458
+PNSALY
+CTZ001-013-MAZ001-025-NYZ032-033-038>043-047>054-058>061-063>066-082>084-
+VTZ013>015-250223-
+
+Public Information Statement
+Spotter Reports
+National Weather Service Albany NY
+1058 AM EDT Mon Apr 24 2023
+
+The following are unofficial observations taken during the past 52
+hours for the storm that has been affecting our region. Appreciation
+is extended to highway departments, cooperative observers, Skywarn
+spotters and media for these reports. This summary also is available
+on our home page at weather.gov/albany
+
+********************STORM TOTAL RAINFALL********************
+
+LOCATION                TOTAL      TIME/DATE  COMMENTS               
+                     RAINFALL       MEASURED
+                     (inches)               
+
+CONNECTICUT
+
+...Litchfield County...
+  2 N New Hartford Cen   3.16   700 AM  4/24  CoCoRaHS               
+  4 ESE Winsted          3.13   700 AM  4/24  CoCoRaHS               
+  Plymouth               3.07   745 PM  4/23  CWOP                   
+  3 SW New Hartford Ce   2.93   700 AM  4/24  CoCoRaHS               
+  Bakersville            2.93   700 AM  4/24  Co-Op Observer         
+  New Hartford           2.89   759 PM  4/23  CWOP                   
+  Oakville               2.86   816 AM  4/24  CWOP                   
+  THOMASTON              2.54   818 AM  4/24  CWOP                   
+  Watertown              2.54   745 PM  4/23  CWOP                   
+  Colebrook              2.35   745 PM  4/23  CWOP                   
+  3 NNW Winsted          2.32   750 PM  4/23  AWS                    
+  Oxford                 2.20   753 AM  4/24  CWOP                   
+  Winsted                2.19   755 PM  4/23  CWOP                   
+  Bantam                 2.19   745 PM  4/23  CWOP                   
+  3 N Watertown          2.13   800 AM  4/24  CoCoRaHS               
+  Barkhamsted            2.01   755 AM  4/24  CWOP                   
+  2 NE Thomaston         1.96   730 PM  4/23  HADS                   
+  4 ESE Canaan           1.88   700 AM  4/24  CoCoRaHS               
+  SE South Kent          1.72   600 AM  4/24  CoCoRaHS               
+  3 WNW New Milford      1.65   700 AM  4/24  CoCoRaHS               
+  Litchfield             1.64   145 PM  4/23  AWS                    
+  4 NE Salisbury         1.53   700 AM  4/24  CoCoRaHS               
+  2 WNW Warren           1.31   700 AM  4/24  CoCoRaHS               
+  New Milford            1.08   745 PM  4/23  CWOP                   
+  1 NW Woodbury Center   0.92   715 AM  4/24  HADS                   
+
+MASSACHUSETTS
+
+...Berkshire County...
+  4 SSE Becket           2.53   700 AM  4/24  CoCoRaHS               
+  3 S Sandisfield        2.49   435 PM  4/23  Twitter                
+  Becket                 2.44   757 PM  4/23  CWOP                   
+  6 SSW Becket           2.16   711 AM  4/24  CoCoRaHS               
+  East Otis              2.11   745 PM  4/23  CWOP                   
+  4 SE Lee               1.95   700 AM  4/24  CoCoRaHS               
+  Savoy                  1.95  1153 PM  4/23  WeatherNet6            
+  3 N Cheshire           1.90   700 AM  4/24  CoCoRaHS               
+  3 SW Dalton            1.82   700 AM  4/24  CoCoRaHS               
+  1 NNW Cheshire         1.82   700 AM  4/24  CoCoRaHS               
+  2 NW Sheffield         1.78   700 AM  4/24  CoCoRaHS               
+  Harriman Airport       1.77   803 AM  4/24  ASOS                   
+  Pittsfield             1.73   758 PM  4/23  CWOP                   
+  N Great Barrington     1.71  1159 PM  4/23  CoCoRaHS               
+  1 ENE Clarksburg       1.62   800 AM  4/24  CoCoRaHS               
+  Great Barrington       1.59   745 PM  4/23  CWOP                   
+  3 N Great Barrington   1.59   700 AM  4/24  CoCoRaHS               
+  Pittsfield Municipal   1.58   754 AM  4/24  ASOS                   
+  Adams                  1.58   145 AM  4/24  CWOP                   
+  Clarksburg             1.57   725 AM  4/24  WeatherNet6            
+  Peru                   1.54   755 PM  4/23  CWOP                   
+  Stockbridge            1.52   647 PM  4/23  WeatherNet6            
+  NNE Stockbridge        1.49   600 AM  4/24  CoCoRaHS               
+  1 NW Pittsfield        1.37   754 PM  4/23  AWS                    
+  Monterey               1.36   805 PM  4/23  AWS                    
+  3 WSW Lee              1.23   755 PM  4/23  AWS                    
+  1 N Williamstown       1.19   155 AM  4/24  AWS                    
+  NEW ASHFORD            1.06   740 PM  4/23  CWOP                   
+  Williamstown           1.06   745 AM  4/24  CWOP                   
+  Lanesborough           0.99  1202 AM  4/24  WeatherNet6            
+
+NEW YORK
+
+...Albany County...
+  Alcove Reservoir       2.55   745 AM  4/24  Co-Op Observer         
+  Colonie                2.32   746 AM  4/24  CWOP                   
+  2 W Guilderland        2.28   115 AM  4/24  RAWS                   
+  South Berne            2.28   708 AM  4/24  WeatherNet6            
+  Glenmont               2.25   149 AM  4/24  CWOP                   
+  1 S Delmar             2.19   700 AM  4/24  CoCoRaHS               
+  4 WNW Colonie          2.19   800 AM  4/24  CoCoRaHS               
+  Rensselaer             2.18   800 AM  4/24  CWOP                   
+  1 SW Albany            2.06   700 AM  4/24  CoCoRaHS               
+  1 SSE Albany           2.04   700 AM  4/24  CoCoRaHS               
+  Delmar                 2.04  1153 PM  4/23  WeatherNet6            
+  East Berne             2.03   754 AM  4/24  CWOP                   
+  Albany                 2.03   759 AM  4/24  CWOP                   
+  3 SSW Altamont         2.02   636 AM  4/24  CoCoRaHS               
+  NWS Albany             2.02   800 AM  4/24  CoCoRaHS               
+  ESE Albany             2.00   746 AM  4/24  CoCoRaHS               
+  Albany Intl Ap         1.95   751 AM  4/24  ASOS                   
+  2 W Albany             1.91   322 PM  4/23  Trained Spotter        
+  Berne                  1.89   150 AM  4/24  AWS                    
+  4 NW Altamont          1.85   700 AM  4/24  CoCoRaHS               
+  4 SSW Voorheesville    1.80   754 AM  4/24  AWS                    
+  Voorheesville          1.77   757 AM  4/24  CWOP                   
+  Loudonville            1.71   754 AM  4/24  AWS                    
+  3 SW Glenmont          1.50   700 AM  4/24  CoCoRaHS               
+
+...Columbia County...
+  1 E Germantown         2.07   700 AM  4/24  CoCoRaHS               
+  Hudson                 2.00   745 AM  4/24  CWOP                   
+  Germantown             1.73   145 AM  4/24  CWOP                   
+  Kinderhook             1.65   545 PM  4/23  Village of Kinderhook  
+  ENE Mellenville        1.55   700 AM  4/24  CoCoRaHS               
+  1 S Valatie            1.48   700 AM  4/24  CoCoRaHS               
+  3 N Valatie            1.48   700 AM  4/24  CoCoRaHS               
+  N Ancramdale           1.44   700 AM  4/24  CoCoRaHS               
+  Hillsdale              1.43   745 AM  4/24  CWOP                   
+  3 NE Valatie           1.39   540 AM  4/24  CoCoRaHS               
+  1 ESE Ancram           1.38   150 AM  4/24  AWS                    
+  Chatham                1.38   817 AM  4/24  CWOP                   
+  1 SW Chatham           1.23   700 AM  4/24  CoCoRaHS               
+
+...Dutchess County...
+  2 S Poughkeepsie       2.14   700 AM  4/24  CoCoRaHS               
+  Wappingers Falls       2.13   148 AM  4/24  CWOP                   
+  Red Hook               2.09   413 PM  4/23  WeatherNet6            
+  1 SE Beacon            2.06   700 AM  4/24  CoCoRaHS               
+  3 N Rhinebeck          2.03   700 AM  4/24  CoCoRaHS               
+  3 NNE Beacon           2.01   748 AM  4/24  RAWS                   
+  2 N Red Hook           1.96   900 AM  4/24  CoCoRaHS               
+  3 S Tivoli             1.90   730 AM  4/24  HADS                   
+  1 NNE Red Hook         1.86   700 AM  4/24  CoCoRaHS               
+  Hopewell Junction      1.85   145 AM  4/24  CWOP                   
+  5 S Poughkeepsie       1.84   900 AM  4/24  CoCoRaHS               
+  Fairview               1.83   130 AM  4/24  CWOP                   
+  Stormville             1.82   145 AM  4/24  CWOP                   
+  3 NE Hopewell Juncti   1.76   600 AM  4/24  CoCoRaHS               
+  2 E Hyde Park          1.75   800 AM  4/24  CoCoRaHS               
+  STANFORDVILLE          1.73   755 PM  4/23  CWOP                   
+  2 S Pleasant Valley    1.67  1200 AM  4/24  CoCoRaHS               
+  3 SE Millbrook         1.66   700 AM  4/24  CoCoRaHS               
+  Poughkeepsie           1.64   817 AM  4/24  CWOP                   
+  1 SW Red Oaks Mill     1.63  1155 AM  4/23  Trained Spotter        
+  2 SW Staatsburg        1.60   730 AM  4/24  HADS                   
+  3 NE Lagrangeville     1.56   700 AM  4/24  CoCoRaHS               
+  1 N Hillside Lake      1.56   700 AM  4/24  CoCoRaHS               
+  3 NE Millbrook         1.53   600 AM  4/24  CoCoRaHS               
+  Hudson Valley Region   1.49   753 AM  4/24  ASOS                   
+  Lagrangeville          1.45   751 AM  4/24  CWOP                   
+  Rhinebeck              1.42   155 AM  4/24  AWS                    
+  3 WNW Pawling          1.36   150 AM  4/24  AWS                    
+  2 NE Pleasant Valley   1.35   150 AM  4/24  AWS                    
+  Salt Point             1.35   755 AM  4/24  CWOP                   
+  Pleasant Valley        1.23   800 AM  4/24  CWOP                   
+
+...Fulton County...
+  Perth                  2.14   745 PM  4/23  CWOP                   
+  1 NE Northville        2.04   652 AM  4/24  CoCoRaHS               
+  1 N Northville         1.93   615 AM  4/24  CoCoRaHS               
+  2 S Broadalbin         1.83   805 AM  4/24  AWS                    
+  Gloversville 7nw       1.80   700 AM  4/24  Co-Op Observer         
+
+...Greene County...
+  Freehold               2.72  1254 PM  4/23  WeatherNet6            
+  3 E Freehold           2.62   530 AM  4/24  CoCoRaHS               
+  Catskill               2.24   745 AM  4/24  CWOP                   
+  2 N Lexington          2.22   700 AM  4/24  CoCoRaHS               
+  EAST DURHAM            2.18   759 AM  4/24  CWOP                   
+  1 E Greenville         2.14   530 AM  4/24  CoCoRaHS               
+  Greenville Center      2.12   621 AM  4/24  WeatherNet6            
+  WNW Athens             1.93   700 AM  4/24  CoCoRaHS               
+  Athens                 1.65   754 AM  4/24  AWS                    
+  Halcott Center         1.58   820 AM  4/24  CWOP                   
+
+...Hamilton County...
+  Wells                  2.27   636 PM  4/23  WeatherNet6            
+  2 WNW Hoffmeister      1.95   800 AM  4/24  CoCoRaHS               
+  1 N Long Lake          1.83   700 AM  4/24  CoCoRaHS               
+  2 WSW Lake Pleasant    1.81   655 AM  4/24  CoCoRaHS               
+  6 ENE Piseco           1.79   800 AM  4/24  RAWS                   
+  Indian Lake            1.56   700 AM  4/24  Co-Op Observer         
+
+...Herkimer County...
+  2 NW Salisbury Cente   2.13   515 AM  4/24  CoCoRaHS               
+  Dolgeville             2.10   816 AM  4/24  CWOP                   
+  Little Falls           1.93   749 PM  4/23  CWOP                   
+  2 SSW Salisbury        1.90   800 AM  4/24  Storm Total.           
+  1 SW Dolgeville        1.71   330 PM  4/23  Trained Spotter        
+  3 NNE East Springfie   1.39   155 AM  4/24  AWS                    
+  Herkimer               1.19   900 AM  4/24  CoCoRaHS               
+  3 NE Schuyler          1.16   700 AM  4/24  CoCoRaHS               
+  1 WSW Ilion            1.05   700 AM  4/24  CoCoRaHS               
+  Poland                 0.99   805 AM  4/24  AWS                    
+  West Winfield          0.89   155 AM  4/24  AWS                    
+
+...Montgomery County...
+  Amsterdam              2.27  1201 AM  4/24  WeatherNet6            
+  1 NNW Amsterdam        2.27   851 AM  4/24  CoCoRaHS               
+  Hagaman                1.92   752 AM  4/24  CWOP                   
+  Fort Plain             1.92   756 AM  4/24  CWOP                   
+  SE Fort Plain          1.74   700 AM  4/24  CoCoRaHS               
+  Fonda                  1.47  1200 AM  4/24  WeatherNet6            
+  Palatine Bridge        1.44   615 AM  4/24  WeatherNet6            
+
+...Rensselaer County...
+  Castleton              1.76   145 AM  4/24  CWOP                   
+  East Greenbush         1.74   758 AM  4/24  CWOP                   
+  Brunswick              1.61   759 AM  4/24  CWOP                   
+  Speigletown            1.60   534 PM  4/23  WeatherNet6            
+  1 E Troy               1.58   700 AM  4/24  CoCoRaHS               
+  2 NNE Troy             1.57   600 AM  4/24  CoCoRaHS               
+  Troy                   1.55   755 AM  4/24  CWOP                   
+  Castleton-on-Hudso     1.53   805 AM  4/24  AWS                    
+  3 SW Wyantskill        1.51   700 AM  4/24  CoCoRaHS               
+  Eagle Mills            1.41   757 AM  4/24  CWOP                   
+  1 ESE Poestenkill      1.29   700 AM  4/24  CoCoRaHS               
+  3 SW Stephentown       1.27   700 AM  4/24  CoCoRaHS               
+  7 NE Troy              1.20   700 AM  4/24  CoCoRaHS               
+  Hoosick Falls          1.14   730 AM  4/24  WeatherNet6            
+  1 NW Wyantskill        1.08   155 AM  4/24  AWS                    
+  Buskirk                0.99   700 AM  4/24  Co-Op Observer         
+
+...Saratoga County...
+  Saratoga Springs       2.28   756 PM  4/23  CWOP                   
+  1 S Saratoga Springs   2.11   600 AM  4/24  CoCoRaHS               
+  3 ESE Ballston Spa     2.09   745 AM  4/24  CoCoRaHS               
+  Mechanicvile           2.07   745 AM  4/24  CWOP                   
+  Clifton Park           2.06   638 AM  4/24  WeatherNet6            
+  Ballston Lake          2.06   800 PM  4/23  CWOP                   
+  Malta                  1.97   856 PM  4/23  WeatherNet6            
+  Halfmoon               1.88   758 PM  4/23  CWOP                   
+  4 WNW Gansevoort       1.87   728 AM  4/24  CoCoRaHS               
+  Corinth                1.86  1137 PM  4/23  WeatherNet6            
+  3 S Clifton Park       1.86   600 AM  4/24  CoCoRaHS               
+  Galway                 1.84   724 PM  4/23  WeatherNet6            
+  3 WSW Mechanicville    1.82   800 AM  4/24  CoCoRaHS               
+  Ballston Spa           1.81   800 PM  4/23  CWOP                   
+  Gansevoort             1.72   745 AM  4/24  CWOP                   
+  1 NW The Saratoga Ba   1.68   638 PM  4/23  RAWS                   
+  Sacandaga Lake         1.68   800 AM  4/24  Co-Op Observer         
+  Lake Desolation        1.42   712 PM  4/23  WeatherNet6            
+  Stillwater             1.05   755 PM  4/23  AWS                    
+
+...Schenectady County...
+  4 NNW Rotterdam Junc   2.32   800 AM  4/24  AWS                    
+  2 ENE Schenectady      2.28   640 AM  4/24  CoCoRaHS               
+  3 SSE Niskayuna        2.26   700 AM  4/24  CoCoRaHS               
+  Schenectady            2.25   755 PM  4/23  CWOP                   
+  1 NNE Hawthorne Hill   2.24   445 PM  4/23  NWS Employee           
+  1 NE Niskayuna         2.22   700 AM  4/24  CoCoRaHS               
+  S Niskayuna            2.12   700 AM  4/24  CoCoRaHS               
+  DELANSON               2.01   756 AM  4/24  CWOP                   
+  1 NW Scotia            1.92   600 AM  4/24  CoCoRaHS               
+  Niskayuna              1.85   754 PM  4/23  CWOP                   
+
+...Schoharie County...
+  Cobleskill             2.00   145 AM  4/24  CWOP                   
+  Lansing Manor          1.62   830 AM  4/24  Co-Op Observer         
+  3 WSW Central Bridge   1.55   155 AM  4/24  AWS                    
+  Richmondville          1.38  1126 PM  4/23  WeatherNet6            
+  Schoharie              1.30   804 AM  4/24  AWS                    
+
+...Ulster County...
+  New Paltz              2.89   745 AM  4/24  CWOP                   
+  5 NW Saugerties        2.74   900 AM  4/24  CoCoRaHS               
+  4 E Wallkill           2.65   700 AM  4/24  CoCoRaHS               
+  Catskill Center        2.56   748 PM  4/23  RAWS                   
+  East Ashokan           2.46   730 AM  4/24  UCOOP                  
+  2 S Hurley             2.43   700 AM  4/24  CoCoRaHS               
+  Phoenicia              2.40   700 AM  4/24  Co-Op Observer         
+  NNW Hurley             2.39   700 AM  4/24  CoCoRaHS               
+  Gardiner               2.35   745 PM  4/23  CWOP                   
+  2 WNW Rosendale Vill   2.29   800 AM  4/24  CoCoRaHS               
+  Kingston               2.29   759 PM  4/23  CWOP                   
+  Olivebridge            2.23   652 PM  4/23  WeatherNet6            
+  SW Highland            2.16   645 AM  4/24  CoCoRaHS               
+  1 NNW Ulster Park      2.15   730 AM  4/24  CoCoRaHS               
+  1 WNW Stone Ridge      2.05   700 AM  4/24  CoCoRaHS               
+  Woodstock              2.03   155 AM  4/24  AWS                    
+  3 NNE Highland         2.01   700 AM  4/24  CoCoRaHS               
+  2 NW Highland          1.92   700 AM  4/24  CoCoRaHS               
+
+...Warren County...
+  3 S Lake Luzerne       2.15   600 AM  4/24  Co-Op Observer         
+  Glen Falls             1.89   755 PM  4/23  CWOP                   
+  1 N Lake George        1.84   600 AM  4/24  CoCoRaHS               
+  Warrensburg            1.70   604 PM  4/23  WeatherNet6            
+  2 WNW Warrensburg      1.69   800 AM  4/24  CoCoRaHS               
+  Lake Luzerne           1.56   745 PM  4/23  CWOP                   
+  5 ESE Lake George      1.51   530 AM  4/24  CoCoRaHS               
+  Queensbury             1.48   755 PM  4/23  CWOP                   
+  1 N Lake Luzerne-Had   1.41   805 PM  4/23  AWS                    
+  Hartford               1.25   747 AM  4/24  CWOP                   
+  Floyd Bennett Memori   1.24   753 AM  4/24  ASOS                   
+  Silver Bay             1.23   745 AM  4/24  CWOP                   
+  Cleverdale             1.08   800 AM  4/24  CWOP                   
+  Bolton Landing         0.85   815 AM  4/24  CWOP                   
+
+...Washington County...
+  Whitehall              1.25   800 AM  4/24  Co-Op Observer         
+  Granville              1.23   758 AM  4/24  CWOP                   
+  Greenwich              1.17   150 AM  4/24  CWOP                   
+  2 SSE Salem            0.96   600 AM  4/24  CoCoRaHS               
+  Cambridge              0.89   800 AM  4/24  CWOP                   
+  Brooklyn               0.88   755 AM  4/24  CWOP                   
+  Hebron                 0.74   720 AM  4/24  WeatherNet6            
+  Salem                  0.67   749 PM  4/23  CWOP                   
+
+VERMONT
+
+...Bennington County...
+  Stamford               1.69   800 AM  4/24  CWOP                   
+  5 NNE Stamford         1.58   400 PM  4/23  CoCoRaHS               
+  Peru                   1.48   700 AM  4/24  Co-Op Observer         
+  Arlington              1.45   755 AM  4/24  CWOP                   
+  Landgrove              1.25   730 AM  4/24  WeatherNet6            
+  WNW Shaftsbury         1.21   632 AM  4/24  CoCoRaHS               
+  3 ENE Manchester       1.18   700 AM  4/24  CoCoRaHS               
+  4 E Woodford State P   1.03   800 AM  4/24  HADS                   
+
+...Windham County...
+  2 WNW Putney           2.75   700 AM  4/24  CoCoRaHS               
+  1 S Brattleboro        2.71   700 AM  4/24  CoCoRaHS               
+  E.Dummerston           2.62   800 AM  4/24  CWOP                   
+  1 NNE West Brattlebo   2.42   800 AM  4/24  AWS                    
+  Westminster            2.35   759 AM  4/24  CWOP                   
+  1 NE Putney            2.33   800 AM  4/24  CoCoRaHS               
+  6 W West Brattleboro   2.31   800 AM  4/24  Co-Op Observer         
+  2 NNE Marlboro         2.31   800 AM  4/24  CoCoRaHS               
+  1 NNE Rockingham       2.11   600 AM  4/24  CoCoRaHS               
+  SE West Halifax        2.00   751 AM  4/24  CoCoRaHS               
+  4 NE Jacksonville      1.92   800 AM  4/24  AWS                    
+  Rockingham             1.89   800 AM  4/24  CWOP                   
+  2 N East Dover         1.87   656 AM  4/24  CoCoRaHS               
+  5 SSE West Wardsboro   1.86   150 AM  4/24  AWS                    
+  1 WNW Wilmington       1.84   546 AM  4/24  CoCoRaHS               
+  West Dover             1.83   145 AM  4/24  CWOP                   
+  Wilmington             1.81   800 AM  4/24  CWOP                   
+  Bellows Falls          1.70   154 AM  4/24  AWS                    
+
+&&
+
+*****METADATA*****
+:4/24/2023,  700 AM, CT, Litchfield, New Hartford Center, 2, N, 41.90160, -72.97830, RAIN, 3.16, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  700 AM, CT, Litchfield, Winsted, 4, ESE, 41.90040, -73.00260, RAIN, 3.13, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/23/2023,  745 PM, CT, Litchfield, Plymouth, , , 41.70080, -73.03520, RAIN, 3.07, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  700 AM, CT, Litchfield, New Hartford Center, 3, SW, 41.84170, -73.00920, RAIN, 2.93, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  700 AM, CT, Litchfield, Bakersville, , , 41.84170, -73.01030, RAIN, 2.93, Inch, Co-Op Observer, Storm Total Rainfall,
+:4/23/2023,  759 PM, CT, Litchfield, New Hartford, , , 41.87150, -73.01490, RAIN, 2.89, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  816 AM, CT, Litchfield, Oakville, , , 41.58400, -73.09620, RAIN, 2.86, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  818 AM, CT, Litchfield, THOMASTON, , , 41.65980, -73.09350, RAIN, 2.54, Inch, CWOP, Storm Total Rainfall,
+:4/23/2023,  745 PM, CT, Litchfield, Watertown, , , 41.57200, -73.09390, RAIN, 2.54, Inch, CWOP, Storm Total Rainfall,
+:4/23/2023,  745 PM, CT, Litchfield, Colebrook, , , 42.00180, -73.08250, RAIN, 2.35, Inch, CWOP, Storm Total Rainfall,
+:4/23/2023,  750 PM, CT, Litchfield, Winsted, 3, NNW, 41.97190, -73.07690, RAIN, 2.32, Inch, AWS, Storm Total Rainfall,
+:4/24/2023,  753 AM, CT, Litchfield, Oxford, , , 41.80000, -73.21670, RAIN, 2.20, Inch, CWOP, Storm Total Rainfall,
+:4/23/2023,  755 PM, CT, Litchfield, Winsted, , , 41.92470, -73.15380, RAIN, 2.19, Inch, CWOP, Storm Total Rainfall,
+:4/23/2023,  745 PM, CT, Litchfield, Bantam, , , 41.73020, -73.27770, RAIN, 2.19, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  800 AM, CT, Litchfield, Watertown, 3, N, 41.65400, -73.12290, RAIN, 2.13, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  755 AM, CT, Litchfield, Barkhamsted, , , 41.96130, -72.91750, RAIN, 2.01, Inch, CWOP, Storm Total Rainfall,
+:4/23/2023,  730 PM, CT, Litchfield, Thomaston, 2, NE, 41.69470, -73.06220, RAIN, 1.96, Inch, HADS, Storm Total Rainfall,
+:4/24/2023,  700 AM, CT, Litchfield, Canaan, 4, ESE, 42.00960, -73.25600, RAIN, 1.88, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  600 AM, CT, Litchfield, South Kent, , SE, 41.67870, -73.46930, RAIN, 1.72, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  700 AM, CT, Litchfield, New Milford, 3, WNW, 41.59780, -73.46570, RAIN, 1.65, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/23/2023,  145 PM, CT, Litchfield, Litchfield, , , 41.74110, -73.20470, RAIN, 1.64, Inch, AWS, Storm Total Rainfall,
+:4/24/2023,  700 AM, CT, Litchfield, Salisbury, 4, NE, 42.01720, -73.36380, RAIN, 1.53, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  700 AM, CT, Litchfield, Warren, 2, WNW, 41.75490, -73.39280, RAIN, 1.31, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/23/2023,  745 PM, CT, Litchfield, New Milford, , , 41.52220, -73.40770, RAIN, 1.08, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  715 AM, CT, Litchfield, Woodbury Center, 1, NW, 41.55750, -73.21560, RAIN, 0.92, Inch, HADS, Storm Total Rainfall,
+:4/24/2023,  700 AM, MA, Berkshire, Becket, 4, SSE, 42.27640, -73.03540, RAIN, 2.53, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/23/2023,  435 PM, MA, Berkshire, Sandisfield, 3, S, 42.06976, -73.13770, RAIN, 2.49, Inch, Twitter, Storm Total Rainfall,
+:4/23/2023,  757 PM, MA, Berkshire, Becket, , , 42.25910, -73.13210, RAIN, 2.44, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  711 AM, MA, Berkshire, Becket, 6, SSW, 42.25910, -73.13210, RAIN, 2.16, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/23/2023,  745 PM, MA, Berkshire, East Otis, , , 42.15430, -73.04630, RAIN, 2.11, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  700 AM, MA, Berkshire, Lee, 4, SE, 42.27240, -73.19760, RAIN, 1.95, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/23/2023, 1153 PM, MA, Berkshire, Savoy, , , 42.59784, -73.04357, RAIN, 1.95, Inch, WeatherNet6, Storm Total Rainfall,
+:4/24/2023,  700 AM, MA, Berkshire, Cheshire, 3, N, 42.59390, -73.15060, RAIN, 1.90, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  700 AM, MA, Berkshire, Dalton, 3, SW, 42.44070, -73.19390, RAIN, 1.82, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  700 AM, MA, Berkshire, Cheshire, 1, NNW, 42.56320, -73.15700, RAIN, 1.82, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  700 AM, MA, Berkshire, Sheffield, 2, NW, 42.12320, -73.37260, RAIN, 1.78, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  803 AM, MA, Berkshire, Harriman Airport, , , 42.70000, -73.16670, RAIN, 1.77, Inch, ASOS, Storm Total Rainfall,
+:4/23/2023,  758 PM, MA, Berkshire, Pittsfield, , , 42.41800, -73.20320, RAIN, 1.73, Inch, CWOP, Storm Total Rainfall,
+:4/23/2023, 1159 PM, MA, Berkshire, Great Barrington, , N, 42.19980, -73.35520, RAIN, 1.71, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  800 AM, MA, Berkshire, Clarksburg, 1, ENE, 42.72100, -73.06960, RAIN, 1.62, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/23/2023,  745 PM, MA, Berkshire, Great Barrington, , , 42.20020, -73.35510, RAIN, 1.59, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  700 AM, MA, Berkshire, Great Barrington, 3, N, 42.23790, -73.35030, RAIN, 1.59, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  754 AM, MA, Berkshire, Pittsfield Municipal Airpor, , , 42.43330, -73.28330, RAIN, 1.58, Inch, ASOS, Storm Total Rainfall,
+:4/24/2023,  145 AM, MA, Berkshire, Adams, , , 42.60000, -73.10000, RAIN, 1.58, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  725 AM, MA, Berkshire, Clarksburg, , , 42.73341, -73.07248, RAIN, 1.57, Inch, WeatherNet6, Storm Total Rainfall,
+:4/23/2023,  755 PM, MA, Berkshire, Peru, , , 42.46720, -73.02250, RAIN, 1.54, Inch, CWOP, Storm Total Rainfall,
+:4/23/2023,  647 PM, MA, Berkshire, Stockbridge, , , 42.29069, -73.32138, RAIN, 1.52, Inch, WeatherNet6, Storm Total Rainfall,
+:4/24/2023,  600 AM, MA, Berkshire, Stockbridge, , NNE, 42.28980, -73.31950, RAIN, 1.49, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/23/2023,  754 PM, MA, Berkshire, Pittsfield, 1, NW, 42.47130, -73.28770, RAIN, 1.37, Inch, AWS, Storm Total Rainfall,
+:4/23/2023,  805 PM, MA, Berkshire, Monterey, , , 42.17970, -73.21360, RAIN, 1.36, Inch, AWS, Storm Total Rainfall,
+:4/23/2023,  755 PM, MA, Berkshire, Lee, 3, WSW, 42.28170, -73.30560, RAIN, 1.23, Inch, AWS, Storm Total Rainfall,
+:4/24/2023,  155 AM, MA, Berkshire, Williamstown, 1, N, 42.73030, -73.20470, RAIN, 1.19, Inch, AWS, Storm Total Rainfall,
+:4/23/2023,  740 PM, MA, Berkshire, NEW ASHFORD, , , 42.59100, -73.24700, RAIN, 1.06, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  745 AM, MA, Berkshire, Williamstown, , , 42.67100, -73.24210, RAIN, 1.06, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023, 1202 AM, MA, Berkshire, Lanesborough, , , 42.50815, -73.23734, RAIN, 0.99, Inch, WeatherNet6, Storm Total Rainfall,
+:4/24/2023,  745 AM, NY, Albany, Alcove Reservoir, , , 42.46970, -73.92670, RAIN, 2.55, Inch, Co-Op Observer, Storm Total Rainfall,
+:4/24/2023,  746 AM, NY, Albany, Colonie, , , 42.73300, -73.84310, RAIN, 2.32, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  115 AM, NY, Albany, Guilderland, 2, W, 42.70140, -73.93360, RAIN, 2.28, Inch, RAWS, Storm Total Rainfall,
+:4/24/2023,  708 AM, NY, Albany, South Berne, , , 42.55806, -74.09384, RAIN, 2.28, Inch, WeatherNet6, Storm Total Rainfall,
+:4/24/2023,  149 AM, NY, Albany, Glenmont, , , 42.57760, -73.81660, RAIN, 2.25, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  700 AM, NY, Albany, Delmar, 1, S, 42.61010, -73.83170, RAIN, 2.19, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  800 AM, NY, Albany, Colonie, 4, WNW, 42.74940, -73.89430, RAIN, 2.19, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  800 AM, NY, Albany, Rensselaer, , , 42.71480, -73.77420, RAIN, 2.18, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  700 AM, NY, Albany, Albany, 1, SW, 42.66020, -73.81030, RAIN, 2.06, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  700 AM, NY, Albany, Albany, 1, SSE, 42.65480, -73.78980, RAIN, 2.04, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/23/2023, 1153 PM, NY, Albany, Delmar, , , 42.63071, -73.82104, RAIN, 2.04, Inch, WeatherNet6, Storm Total Rainfall,
+:4/24/2023,  754 AM, NY, Albany, East Berne, , , 42.64330, -74.03720, RAIN, 2.03, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  759 AM, NY, Albany, Albany, , , 42.66000, -73.80220, RAIN, 2.03, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  636 AM, NY, Albany, Altamont, 3, SSW, 42.66700, -74.05090, RAIN, 2.02, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  800 AM, NY, Albany, NWS Albany, , , 42.69180, -73.83110, RAIN, 2.02, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  746 AM, NY, Albany, Albany, , ESE, 42.66410, -73.79350, RAIN, 2.00, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  751 AM, NY, Albany, Albany Intl Ap, , , 42.75000, -73.80000, RAIN, 1.95, Inch, ASOS, Storm Total Rainfall,
+:4/23/2023,  322 PM, NY, Albany, Albany, 2, W, 42.66000, -73.81000, RAIN, 1.91, Inch, Trained Spotter, Storm Total Rainfall,
+:4/24/2023,  150 AM, NY, Albany, Berne, , , 42.62440, -74.13420, RAIN, 1.89, Inch, AWS, Storm Total Rainfall,
+:4/24/2023,  700 AM, NY, Albany, Altamont, 4, NW, 42.73790, -74.08940, RAIN, 1.85, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  754 AM, NY, Albany, Voorheesville, 4, SSW, 42.57720, -73.95420, RAIN, 1.80, Inch, AWS, Storm Total Rainfall,
+:4/24/2023,  757 AM, NY, Albany, Voorheesville, , , 42.61830, -73.96630, RAIN, 1.77, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  754 AM, NY, Albany, Loudonville, , , 42.70720, -73.77830, RAIN, 1.71, Inch, AWS, Storm Total Rainfall,
+:4/24/2023,  700 AM, NY, Albany, Glenmont, 3, SW, 42.57540, -73.79950, RAIN, 1.50, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  700 AM, NY, Columbia, Germantown, 1, E, 42.13350, -73.88100, RAIN, 2.07, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  745 AM, NY, Columbia, Hudson, , , 42.21030, -73.81030, RAIN, 2.00, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  145 AM, NY, Columbia, Germantown, , , 42.07650, -73.81580, RAIN, 1.73, Inch, CWOP, Storm Total Rainfall,
+:4/23/2023,  545 PM, NY, Columbia, Kinderhook, , , 42.39460, -73.70410, RAIN, 1.65, Inch, Trained Spotter, Storm Total Rainfall, Village of Kinderhook
+:4/24/2023,  700 AM, NY, Columbia, Mellenville, , ENE, 42.25420, -73.66220, RAIN, 1.55, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  700 AM, NY, Columbia, Valatie, 1, S, 42.40730, -73.67480, RAIN, 1.48, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  700 AM, NY, Columbia, Valatie, 3, N, 42.45660, -73.66810, RAIN, 1.48, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  700 AM, NY, Columbia, Ancramdale, , N, 42.02080, -73.59250, RAIN, 1.44, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  745 AM, NY, Columbia, Hillsdale, , , 42.21480, -73.55100, RAIN, 1.43, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  540 AM, NY, Columbia, Valatie, 3, NE, 42.45300, -73.64040, RAIN, 1.39, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  150 AM, NY, Columbia, Ancram, 1, ESE, 42.04360, -73.61580, RAIN, 1.38, Inch, AWS, Storm Total Rainfall,
+:4/24/2023,  817 AM, NY, Columbia, Chatham, , , 42.32370, -73.60300, RAIN, 1.38, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  700 AM, NY, Columbia, Chatham, 1, SW, 42.35590, -73.60840, RAIN, 1.23, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  700 AM, NY, Dutchess, Poughkeepsie, 2, S, 41.66150, -73.91940, RAIN, 2.14, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  148 AM, NY, Dutchess, Wappingers Falls, , , 41.61780, -73.92420, RAIN, 2.13, Inch, CWOP, Storm Total Rainfall,
+:4/23/2023,  413 PM, NY, Dutchess, Red Hook, , , 42.01819, -73.88329, RAIN, 2.09, Inch, WeatherNet6, Storm Total Rainfall,
+:4/24/2023,  700 AM, NY, Dutchess, Beacon, 1, SE, 41.49700, -73.95590, RAIN, 2.06, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  700 AM, NY, Dutchess, Rhinebeck, 3, N, 41.97740, -73.90560, RAIN, 2.03, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  748 AM, NY, Dutchess, Beacon, 3, NNE, 41.54140, -73.95000, RAIN, 2.01, Inch, RAWS, Storm Total Rainfall,
+:4/24/2023,  900 AM, NY, Dutchess, Red Hook, 2, N, 42.02080, -73.87620, RAIN, 1.96, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  730 AM, NY, Dutchess, Tivoli, 3, S, 42.01830, -73.91690, RAIN, 1.90, Inch, HADS, Storm Total Rainfall,
+:4/24/2023,  700 AM, NY, Dutchess, Red Hook, 1, NNE, 42.00970, -73.86420, RAIN, 1.86, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  145 AM, NY, Dutchess, Hopewell Junction, , , 41.58450, -73.83170, RAIN, 1.85, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  900 AM, NY, Dutchess, Poughkeepsie, 5, S, 41.61960, -73.91310, RAIN, 1.84, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  130 AM, NY, Dutchess, Fairview, , , 41.72550, -73.91200, RAIN, 1.83, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  145 AM, NY, Dutchess, Stormville, , , 41.53350, -73.71900, RAIN, 1.82, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  600 AM, NY, Dutchess, Hopewell Junction, 3, NE, 41.61020, -73.75860, RAIN, 1.76, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  800 AM, NY, Dutchess, Hyde Park, 2, E, 41.76350, -73.87250, RAIN, 1.75, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/23/2023,  755 PM, NY, Dutchess, STANFORDVILLE, , , 41.86970, -73.74360, RAIN, 1.73, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023, 1200 AM, NY, Dutchess, Pleasant Valley, 2, S, 41.72370, -73.82100, RAIN, 1.67, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  700 AM, NY, Dutchess, Millbrook, 3, SE, 41.75230, -73.64880, RAIN, 1.66, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  817 AM, NY, Dutchess, Poughkeepsie, , , 41.64680, -73.89700, RAIN, 1.64, Inch, CWOP, Storm Total Rainfall,
+:4/23/2023, 1155 AM, NY, Dutchess, Red Oaks Mill, 1, SW, 41.64546, -73.88730, RAIN, 1.63, Inch, Trained Spotter, Storm Total Rainfall,
+:4/24/2023,  730 AM, NY, Dutchess, Staatsburg, 2, SW, 41.83140, -73.94220, RAIN, 1.60, Inch, HADS, Storm Total Rainfall,
+:4/24/2023,  700 AM, NY, Dutchess, Lagrangeville, 3, NE, 41.68460, -73.72050, RAIN, 1.56, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  700 AM, NY, Dutchess, Hillside Lake, 1, N, 41.62770, -73.80000, RAIN, 1.56, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  600 AM, NY, Dutchess, Millbrook, 3, NE, 41.80950, -73.65880, RAIN, 1.53, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  753 AM, NY, Dutchess, Hudson Valley Regional Airp, , , 41.63330, -73.88330, RAIN, 1.49, Inch, ASOS, Storm Total Rainfall,
+:4/24/2023,  751 AM, NY, Dutchess, Lagrangeville, , , 41.68460, -73.72060, RAIN, 1.45, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  155 AM, NY, Dutchess, Rhinebeck, , , 41.92500, -73.90110, RAIN, 1.42, Inch, AWS, Storm Total Rainfall,
+:4/24/2023,  150 AM, NY, Dutchess, Pawling, 3, WNW, 41.58000, -73.67310, RAIN, 1.36, Inch, AWS, Storm Total Rainfall,
+:4/24/2023,  150 AM, NY, Dutchess, Pleasant Valley, 2, NE, 41.77500, -73.80170, RAIN, 1.35, Inch, AWS, Storm Total Rainfall,
+:4/24/2023,  755 AM, NY, Dutchess, Salt Point, , , 41.77480, -73.80230, RAIN, 1.35, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  800 AM, NY, Dutchess, Pleasant Valley, , , 41.75850, -73.83600, RAIN, 1.23, Inch, CWOP, Storm Total Rainfall,
+:4/23/2023,  745 PM, NY, Fulton, Perth, , , 43.02920, -74.17950, RAIN, 2.14, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  652 AM, NY, Fulton, Northville, 1, NE, 43.22770, -74.16290, RAIN, 2.04, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  615 AM, NY, Fulton, Northville, 1, N, 43.23030, -74.17220, RAIN, 1.93, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  805 AM, NY, Fulton, Broadalbin, 2, S, 43.02190, -74.19610, RAIN, 1.83, Inch, AWS, Storm Total Rainfall,
+:4/24/2023,  700 AM, NY, Fulton, Gloversville 7nw, , , 43.11500, -74.42360, RAIN, 1.80, Inch, Co-Op Observer, Storm Total Rainfall,
+:4/23/2023, 1254 PM, NY, Greene, Freehold, , , 42.36254, -74.04475, RAIN, 2.72, Inch, WeatherNet6, Storm Total Rainfall,
+:4/24/2023,  530 AM, NY, Greene, Freehold, 3, E, 42.36050, -73.98350, RAIN, 2.62, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  745 AM, NY, Greene, Catskill, , , 42.24680, -73.85020, RAIN, 2.24, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  700 AM, NY, Greene, Lexington, 2, N, 42.26020, -74.35880, RAIN, 2.22, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  759 AM, NY, Greene, EAST DURHAM, , , 42.37250, -74.09570, RAIN, 2.18, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  530 AM, NY, Greene, Greenville, 1, E, 42.41400, -74.00900, RAIN, 2.14, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  621 AM, NY, Greene, Greenville Center, , , 42.41500, -74.00928, RAIN, 2.12, Inch, WeatherNet6, Storm Total Rainfall,
+:4/24/2023,  700 AM, NY, Greene, Athens, , WNW, 42.26800, -73.81800, RAIN, 1.93, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  754 AM, NY, Greene, Athens, , , 42.26250, -73.81630, RAIN, 1.65, Inch, AWS, Storm Total Rainfall,
+:4/24/2023,  820 AM, NY, Greene, Halcott Center, , , 42.21270, -74.48460, RAIN, 1.58, Inch, CWOP, Storm Total Rainfall,
+:4/23/2023,  636 PM, NY, Hamilton, Wells, , , 43.43943, -74.31615, RAIN, 2.27, Inch, WeatherNet6, Storm Total Rainfall,
+:4/24/2023,  800 AM, NY, Hamilton, Hoffmeister, 2, WNW, 43.39780, -74.76460, RAIN, 1.95, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  700 AM, NY, Hamilton, Long Lake, 1, N, 43.99070, -74.41880, RAIN, 1.83, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  655 AM, NY, Hamilton, Lake Pleasant, 2, WSW, 43.45490, -74.45290, RAIN, 1.81, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  800 AM, NY, Hamilton, Piseco, 6, ENE, 43.47020, -74.41310, RAIN, 1.79, Inch, RAWS, Storm Total Rainfall,
+:4/24/2023,  700 AM, NY, Hamilton, Indian Lake, , , 43.75500, -74.27560, RAIN, 1.56, Inch, Co-Op Observer, Storm Total Rainfall,
+:4/24/2023,  515 AM, NY, Herkimer, Salisbury Center, 2, NW, 43.16260, -74.80880, RAIN, 2.13, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  816 AM, NY, Herkimer, Dolgeville, , , 43.10640, -74.77230, RAIN, 2.10, Inch, CWOP, Storm Total Rainfall,
+:4/23/2023,  749 PM, NY, Herkimer, Little Falls, , , 43.05270, -74.77170, RAIN, 1.93, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  800 AM, NY, Herkimer, Salisbury, 2, SSW, 43.10400, -74.86300, RAIN, 1.90, Inch, Trained Spotter, Storm Total Rainfall, Storm Total.
+:4/23/2023,  330 PM, NY, Herkimer, Dolgeville, 1, SW, 43.09400, -74.78300, RAIN, 1.71, Inch, Trained Spotter, Storm Total Rainfall,
+:4/24/2023,  155 AM, NY, Herkimer, East Springfield, 3, NNE, 42.87880, -74.78490, RAIN, 1.39, Inch, AWS, Storm Total Rainfall,
+:4/24/2023,  900 AM, NY, Herkimer, Herkimer, , , 43.02160, -74.98660, RAIN, 1.19, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  700 AM, NY, Herkimer, Schuyler, 3, NE, 43.13020, -75.04940, RAIN, 1.16, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  700 AM, NY, Herkimer, Ilion, 1, WSW, 43.00880, -75.05390, RAIN, 1.05, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  805 AM, NY, Herkimer, Poland, , , 43.22890, -75.05670, RAIN, 0.99, Inch, AWS, Storm Total Rainfall,
+:4/24/2023,  155 AM, NY, Herkimer, West Winfield, , , 42.88720, -75.18440, RAIN, 0.89, Inch, AWS, Storm Total Rainfall,
+:4/24/2023, 1201 AM, NY, Montgomery, Amsterdam, , , 42.95468, -74.20085, RAIN, 2.27, Inch, WeatherNet6, Storm Total Rainfall,
+:4/24/2023,  851 AM, NY, Montgomery, Amsterdam, 1, NNW, 42.95470, -74.20090, RAIN, 2.27, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  752 AM, NY, Montgomery, Hagaman, , , 42.96070, -74.12680, RAIN, 1.92, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  756 AM, NY, Montgomery, Fort Plain, , , 42.90820, -74.66530, RAIN, 1.92, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  700 AM, NY, Montgomery, Fort Plain, , SE, 42.93000, -74.62640, RAIN, 1.74, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023, 1200 AM, NY, Montgomery, Fonda, , , 42.96961, -74.37194, RAIN, 1.47, Inch, WeatherNet6, Storm Total Rainfall,
+:4/24/2023,  615 AM, NY, Montgomery, Palatine Bridge, , , 42.90080, -74.52665, RAIN, 1.44, Inch, WeatherNet6, Storm Total Rainfall,
+:4/24/2023,  145 AM, NY, Rensselaer, Castleton, , , 42.52200, -73.69520, RAIN, 1.76, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  758 AM, NY, Rensselaer, East Greenbush, , , 42.59700, -73.69230, RAIN, 1.74, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  759 AM, NY, Rensselaer, Brunswick, , , 42.77330, -73.63740, RAIN, 1.61, Inch, CWOP, Storm Total Rainfall,
+:4/23/2023,  534 PM, NY, Rensselaer, Speigletown, , , 42.79431, -73.65217, RAIN, 1.60, Inch, WeatherNet6, Storm Total Rainfall,
+:4/24/2023,  700 AM, NY, Rensselaer, Troy, 1, E, 42.73560, -73.66250, RAIN, 1.58, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  600 AM, NY, Rensselaer, Troy, 2, NNE, 42.75930, -73.65280, RAIN, 1.57, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  755 AM, NY, Rensselaer, Troy, , , 42.67600, -73.68900, RAIN, 1.55, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  805 AM, NY, Rensselaer, Castleton-on-Hudso, , , 42.52940, -73.74690, RAIN, 1.53, Inch, AWS, Storm Total Rainfall,
+:4/24/2023,  700 AM, NY, Rensselaer, Wyantskill, 3, SW, 42.66370, -73.68770, RAIN, 1.51, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  757 AM, NY, Rensselaer, Eagle Mills, , , 42.71350, -73.61150, RAIN, 1.41, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  700 AM, NY, Rensselaer, Poestenkill, 1, ESE, 42.68760, -73.54730, RAIN, 1.29, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  700 AM, NY, Rensselaer, Stephentown, 3, SW, 42.51610, -73.42320, RAIN, 1.27, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  700 AM, NY, Rensselaer, Troy, 7, NE, 42.79040, -73.56230, RAIN, 1.20, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  730 AM, NY, Rensselaer, Hoosick Falls, , , 42.90500, -73.34850, RAIN, 1.14, Inch, WeatherNet6, Storm Total Rainfall,
+:4/24/2023,  155 AM, NY, Rensselaer, Wyantskill, 1, NW, 42.70810, -73.66220, RAIN, 1.08, Inch, AWS, Storm Total Rainfall,
+:4/24/2023,  700 AM, NY, Rensselaer, Buskirk, , , 42.93610, -73.43250, RAIN, 0.99, Inch, Co-Op Observer, Storm Total Rainfall,
+:4/23/2023,  756 PM, NY, Saratoga, Saratoga Springs, , , 43.07730, -73.79820, RAIN, 2.28, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  600 AM, NY, Saratoga, Saratoga Springs, 1, S, 43.06030, -73.78010, RAIN, 2.11, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  745 AM, NY, Saratoga, Ballston Spa, 3, ESE, 42.99000, -73.80000, RAIN, 2.09, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  745 AM, NY, Saratoga, Mechanicvile, , , 42.90120, -73.74800, RAIN, 2.07, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  638 AM, NY, Saratoga, Clifton Park, , , 42.84274, -73.77696, RAIN, 2.06, Inch, WeatherNet6, Storm Total Rainfall,
+:4/23/2023,  800 PM, NY, Saratoga, Ballston Lake, , , 42.91250, -73.87870, RAIN, 2.06, Inch, CWOP, Storm Total Rainfall,
+:4/23/2023,  856 PM, NY, Saratoga, Malta, , , 42.97524, -73.79354, RAIN, 1.97, Inch, WeatherNet6, Storm Total Rainfall,
+:4/23/2023,  758 PM, NY, Saratoga, Halfmoon, , , 42.87420, -73.75530, RAIN, 1.88, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  728 AM, NY, Saratoga, Gansevoort, 4, WNW, 43.22420, -73.71480, RAIN, 1.87, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/23/2023, 1137 PM, NY, Saratoga, Corinth, , , 43.23563, -73.83334, RAIN, 1.86, Inch, WeatherNet6, Storm Total Rainfall,
+:4/24/2023,  600 AM, NY, Saratoga, Clifton Park, 3, S, 42.82130, -73.78550, RAIN, 1.86, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/23/2023,  724 PM, NY, Saratoga, Galway, , , 43.01337, -74.07842, RAIN, 1.84, Inch, WeatherNet6, Storm Total Rainfall,
+:4/24/2023,  800 AM, NY, Saratoga, Mechanicville, 3, WSW, 42.88880, -73.75470, RAIN, 1.82, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/23/2023,  800 PM, NY, Saratoga, Ballston Spa, , , 42.97030, -73.86440, RAIN, 1.81, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  745 AM, NY, Saratoga, Gansevoort, , , 43.16020, -73.68100, RAIN, 1.72, Inch, CWOP, Storm Total Rainfall,
+:4/23/2023,  638 PM, NY, Saratoga, The Saratoga Battllefield, 1, NW, 43.00970, -73.65070, RAIN, 1.68, Inch, RAWS, Storm Total Rainfall,
+:4/24/2023,  800 AM, NY, Saratoga, Sacandaga Lake, , , 43.32030, -73.92560, RAIN, 1.68, Inch, Co-Op Observer, Storm Total Rainfall,
+:4/23/2023,  712 PM, NY, Saratoga, Lake Desolation, , , 43.13741, -73.97612, RAIN, 1.42, Inch, WeatherNet6, Storm Total Rainfall,
+:4/23/2023,  755 PM, NY, Saratoga, Stillwater, , , 42.93830, -73.65330, RAIN, 1.05, Inch, AWS, Storm Total Rainfall,
+:4/24/2023,  800 AM, NY, Schenectady, Rotterdam Junction, 4, NNW, 42.93440, -74.06530, RAIN, 2.32, Inch, AWS, Storm Total Rainfall,
+:4/24/2023,  640 AM, NY, Schenectady, Schenectady, 2, ENE, 42.81350, -73.90270, RAIN, 2.28, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  700 AM, NY, Schenectady, Niskayuna, 3, SSE, 42.77910, -73.87240, RAIN, 2.26, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/23/2023,  755 PM, NY, Schenectady, Schenectady, , , 42.81760, -73.92800, RAIN, 2.25, Inch, CWOP, Storm Total Rainfall,
+:4/23/2023,  445 PM, NY, Schenectady, Hawthorne Hill, 1, NNE, 42.80000, -73.88000, RAIN, 2.24, Inch, NWS Employee, Storm Total Rainfall,
+:4/24/2023,  700 AM, NY, Schenectady, Niskayuna, 1, NE, 42.82450, -73.88720, RAIN, 2.22, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  700 AM, NY, Schenectady, Niskayuna, , S, 42.81080, -73.89760, RAIN, 2.12, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  756 AM, NY, Schenectady, DELANSON, , , 42.76200, -74.13370, RAIN, 2.01, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  600 AM, NY, Schenectady, Scotia, 1, NW, 42.84470, -73.97480, RAIN, 1.92, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/23/2023,  754 PM, NY, Schenectady, Niskayuna, , , 42.77080, -73.88130, RAIN, 1.85, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  145 AM, NY, Schoharie, Cobleskill, , , 42.66380, -74.43130, RAIN, 2.00, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  830 AM, NY, Schoharie, Lansing Manor, , , 42.44860, -74.46530, RAIN, 1.62, Inch, Co-Op Observer, Storm Total Rainfall,
+:4/24/2023,  155 AM, NY, Schoharie, Central Bridge, 3, WSW, 42.68220, -74.40530, RAIN, 1.55, Inch, AWS, Storm Total Rainfall,
+:4/23/2023, 1126 PM, NY, Schoharie, Richmondville, , , 42.62709, -74.58513, RAIN, 1.38, Inch, WeatherNet6, Storm Total Rainfall,
+:4/24/2023,  804 AM, NY, Schoharie, Schoharie, , , 42.66580, -74.30720, RAIN, 1.30, Inch, AWS, Storm Total Rainfall,
+:4/24/2023,  745 AM, NY, Ulster, New Paltz, , , 41.72730, -74.10400, RAIN, 2.89, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  900 AM, NY, Ulster, Saugerties, 5, NW, 42.12170, -74.01410, RAIN, 2.74, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  700 AM, NY, Ulster, Wallkill, 4, E, 41.61840, -74.09380, RAIN, 2.65, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/23/2023,  748 PM, NY, Ulster, Catskill Center, , , 42.02750, -74.26890, RAIN, 2.56, Inch, RAWS, Storm Total Rainfall,
+:4/24/2023,  730 AM, NY, Ulster, East Ashokan, , , 41.95000, -74.16670, RAIN, 2.46, Inch, UCOOP, Storm Total Rainfall,
+:4/24/2023,  700 AM, NY, Ulster, Hurley, 2, S, 41.88150, -74.05630, RAIN, 2.43, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  700 AM, NY, Ulster, Phoenicia, , , 42.06420, -74.34080, RAIN, 2.40, Inch, Co-Op Observer, Storm Total Rainfall,
+:4/24/2023,  700 AM, NY, Ulster, Hurley, , NNW, 41.91480, -74.05850, RAIN, 2.39, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/23/2023,  745 PM, NY, Ulster, Gardiner, , , 41.65920, -74.20570, RAIN, 2.35, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  800 AM, NY, Ulster, Rosendale Village, 2, WNW, 41.86080, -74.10750, RAIN, 2.29, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/23/2023,  759 PM, NY, Ulster, Kingston, , , 41.88140, -74.05670, RAIN, 2.29, Inch, CWOP, Storm Total Rainfall,
+:4/23/2023,  652 PM, NY, Ulster, Olivebridge, , , 41.95644, -74.19640, RAIN, 2.23, Inch, WeatherNet6, Storm Total Rainfall,
+:4/24/2023,  645 AM, NY, Ulster, Highland, , SW, 41.71490, -73.96840, RAIN, 2.16, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  730 AM, NY, Ulster, Ulster Park, 1, NNW, 41.86770, -73.98800, RAIN, 2.15, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  700 AM, NY, Ulster, Stone Ridge, 1, WNW, 41.84300, -74.16100, RAIN, 2.05, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  155 AM, NY, Ulster, Woodstock, , , 42.03500, -74.11170, RAIN, 2.03, Inch, AWS, Storm Total Rainfall,
+:4/24/2023,  700 AM, NY, Ulster, Highland, 3, NNE, 41.75260, -73.94850, RAIN, 2.01, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  700 AM, NY, Ulster, Highland, 2, NW, 41.73880, -73.99950, RAIN, 1.92, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  600 AM, NY, Warren, Lake Luzerne, 3, S, 43.26660, -73.81660, RAIN, 2.15, Inch, Co-Op Observer, Storm Total Rainfall,
+:4/23/2023,  755 PM, NY, Warren, Glen Falls, , , 43.30880, -73.65380, RAIN, 1.89, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  600 AM, NY, Warren, Lake George, 1, N, 43.44030, -73.71260, RAIN, 1.84, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/23/2023,  604 PM, NY, Warren, Warrensburg, , , 43.49005, -73.78656, RAIN, 1.70, Inch, WeatherNet6, Storm Total Rainfall,
+:4/24/2023,  800 AM, NY, Warren, Warrensburg, 2, WNW, 43.51790, -73.81070, RAIN, 1.69, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/23/2023,  745 PM, NY, Warren, Lake Luzerne, , , 43.32620, -73.68980, RAIN, 1.56, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  530 AM, NY, Warren, Lake George, 5, ESE, 43.40040, -73.62270, RAIN, 1.51, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/23/2023,  755 PM, NY, Warren, Queensbury, , , 43.34580, -73.62450, RAIN, 1.48, Inch, CWOP, Storm Total Rainfall,
+:4/23/2023,  805 PM, NY, Warren, Lake Luzerne-Hadle, 1, N, 43.34390, -73.84030, RAIN, 1.41, Inch, AWS, Storm Total Rainfall,
+:4/24/2023,  747 AM, NY, Warren, Hartford, , , 43.62020, -73.57970, RAIN, 1.25, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  753 AM, NY, Warren, Floyd Bennett Memorial Airp, , , 43.33330, -73.61670, RAIN, 1.24, Inch, ASOS, Storm Total Rainfall,
+:4/24/2023,  745 AM, NY, Warren, Silver Bay, , , 43.66520, -73.51600, RAIN, 1.23, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  800 AM, NY, Warren, Cleverdale, , , 43.47000, -73.63520, RAIN, 1.08, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  815 AM, NY, Warren, Bolton Landing, , , 43.59250, -73.63880, RAIN, 0.85, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  800 AM, NY, Washington, Whitehall, , , 43.55000, -73.40000, RAIN, 1.25, Inch, Co-Op Observer, Storm Total Rainfall,
+:4/24/2023,  758 AM, NY, Washington, Granville, , , 43.38790, -73.26930, RAIN, 1.23, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  150 AM, NY, Washington, Greenwich, , , 43.09870, -73.51560, RAIN, 1.17, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  600 AM, NY, Washington, Salem, 2, SSE, 43.14400, -73.30790, RAIN, 0.96, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  800 AM, NY, Washington, Cambridge, , , 43.02200, -73.37670, RAIN, 0.89, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  755 AM, NY, Washington, Brooklyn, , , 43.22380, -73.41930, RAIN, 0.88, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  720 AM, NY, Washington, Hebron, , , 43.29663, -73.39906, RAIN, 0.74, Inch, WeatherNet6, Storm Total Rainfall,
+:4/23/2023,  749 PM, NY, Washington, Salem, , , 43.15880, -73.36380, RAIN, 0.67, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  800 AM, VT, Bennington, Stamford, , , 42.82000, -73.02000, RAIN, 1.69, Inch, CWOP, Storm Total Rainfall,
+:4/23/2023,  400 PM, VT, Bennington, Stamford, 5, NNE, 42.82000, -73.02000, RAIN, 1.58, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  700 AM, VT, Bennington, Peru, , , 43.26670, -72.90000, RAIN, 1.48, Inch, Co-Op Observer, Storm Total Rainfall,
+:4/24/2023,  755 AM, VT, Bennington, Arlington, , , 43.10620, -73.13900, RAIN, 1.45, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  730 AM, VT, Bennington, Landgrove, , , 43.29158, -72.83854, RAIN, 1.25, Inch, WeatherNet6, Storm Total Rainfall,
+:4/24/2023,  632 AM, VT, Bennington, Shaftsbury, , WNW, 43.00650, -73.20210, RAIN, 1.21, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  700 AM, VT, Bennington, Manchester, 3, ENE, 43.17280, -73.01810, RAIN, 1.18, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  800 AM, VT, Bennington, Woodford State Park, 4, E, 42.90640, -72.95000, RAIN, 1.03, Inch, HADS, Storm Total Rainfall,
+:4/24/2023,  700 AM, VT, Windham, Putney, 2, WNW, 43.00340, -72.53340, RAIN, 2.75, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  700 AM, VT, Windham, Brattleboro, 1, S, 42.84030, -72.55580, RAIN, 2.71, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  800 AM, VT, Windham, E.Dummerston, , , 42.93500, -72.53400, RAIN, 2.62, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  800 AM, VT, Windham, West Brattleboro, 1, NNE, 42.87390, -72.59970, RAIN, 2.42, Inch, AWS, Storm Total Rainfall,
+:4/24/2023,  759 AM, VT, Windham, Westminster, , , 43.10600, -72.51300, RAIN, 2.35, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  800 AM, VT, Windham, Putney, 1, NE, 42.98330, -72.51220, RAIN, 2.33, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  800 AM, VT, Windham, West Brattleboro, 6, W, 42.86000, -72.72000, RAIN, 2.31, Inch, Co-Op Observer, Storm Total Rainfall,
+:4/24/2023,  800 AM, VT, Windham, Marlboro, 2, NNE, 42.88480, -72.70940, RAIN, 2.31, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  600 AM, VT, Windham, Rockingham, 1, NNE, 43.20390, -72.48220, RAIN, 2.11, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  751 AM, VT, Windham, West Halifax, , SE, 42.78560, -72.76950, RAIN, 2.00, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  800 AM, VT, Windham, Jacksonville, 4, NE, 42.85690, -72.77970, RAIN, 1.92, Inch, AWS, Storm Total Rainfall,
+:4/24/2023,  800 AM, VT, Windham, Rockingham, , , 43.20020, -72.47600, RAIN, 1.89, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  656 AM, VT, Windham, East Dover, 2, N, 42.97660, -72.77640, RAIN, 1.87, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  150 AM, VT, Windham, West Wardsboro, 5, SSE, 42.95530, -72.82060, RAIN, 1.86, Inch, AWS, Storm Total Rainfall,
+:4/24/2023,  546 AM, VT, Windham, Wilmington, 1, WNW, 42.87060, -72.88180, RAIN, 1.84, Inch, CoCoRaHS, Storm Total Rainfall,
+:4/24/2023,  145 AM, VT, Windham, West Dover, , , 42.95550, -72.82030, RAIN, 1.83, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  800 AM, VT, Windham, Wilmington, , , 42.87250, -72.88750, RAIN, 1.81, Inch, CWOP, Storm Total Rainfall,
+:4/24/2023,  154 AM, VT, Windham, Bellows Falls, , , 43.13300, -72.44660, RAIN, 1.70, Inch, AWS, Storm Total Rainfall,
+
+$$
+
+KL

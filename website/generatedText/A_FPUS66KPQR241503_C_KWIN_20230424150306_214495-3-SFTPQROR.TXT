@@ -1,0 +1,73 @@
+FPUS66 KPQR 241503
+SFTPQR
+ORZ001>013-WAZ019>023-039-040-250100-
+
+Tabular State Forecast for Northwest Oregon and Southwest Washington
+National Weather Service Portland Oregon
+802 AM PDT Mon Apr 24 2023
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Today    Tue      Wed      Thu      Fri      Sat      Sun      
+   Apr 24   Apr 25   Apr 26   Apr 27   Apr 28   Apr 29   Apr 30   
+
+...WASHINGTON...
+   Kelso-Longview
+   Shwrs    Ptcldy   Ptcldy   Ptcldy   Sunny    Sunny    Ptcldy   
+     /57    40/64    44/73    49/75    51/84    54/80    50/68    
+      /50    10/00    00/00    00/00    00/00    00/00    10/10   
+
+...OREGON...
+   Astoria
+   Mocldy   Ptcldy   Ptcldy   Ptcldy   Sunny    Sunny    Ptcldy   
+     /52    43/55    43/63    48/65    51/75    50/62    48/56    
+      /40    00/00    00/00    00/00    00/00    00/00    10/10   
+
+   Newport
+   Ptcldy   Ptcldy   Ptcldy   Sunny    Sunny    Ptcldy   Ptcldy   
+     /51    38/55    43/61    48/64    49/67    47/58    46/54    
+      /30    00/00    00/00    00/00    00/00    00/00    00/00   
+
+   Portland
+   Shwrs    Ptcldy   Ptcldy   Ptcldy   Sunny    Sunny    Ptcldy   
+     /57    40/64    44/74    48/77    53/85    55/80    52/69    
+      /50    10/00    00/00    00/00    00/00    00/00    00/10   
+
+   Salem
+   Mocldy   Sunny    Ptcldy   Ptcldy   Sunny    Sunny    Ptcldy   
+     /57    40/63    44/73    49/76    51/83    53/78    50/69    
+      /40    00/00    00/00    00/00    00/00    00/00    00/10   
+
+   Eugene
+   Mocldy   Sunny    Ptcldy   Sunny    Sunny    Sunny    Ptcldy   
+     /57    37/64    42/74    48/77    50/83    50/78    48/68    
+      /30    00/00    00/00    00/00    00/00    00/00    00/10   
+
+   Cascade Locks
+   Shwrs    Sunny    Ptcldy   Ptcldy   Sunny    Sunny    Sunny    
+     /53    42/64    46/75    52/78    56/80    57/81    55/70    
+      /80    10/00    00/00    00/00    00/00    00/10    10/10   
+
+   Government Camp
+   Snoshwr  Ptcldy   Ptcldy   Ptcldy   Sunny    Sunny    Sunny    
+     /40    31/53    37/64    43/67    48/70    48/73    46/61    
+      /90    20/00    00/00    00/00    00/00    00/10    10/20   
+
+   Willamette Pass
+   Snoshwr  Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+     /38    25/54    34/63    39/68    42/72    43/71    42/62    
+      /50    00/00    00/00    00/00    00/00    00/10    10/20   
+
+
+$$
+
+
+
+weather.gov/portland

@@ -1,0 +1,550 @@
+FOUS53 KARX 241527
+PFMARX
+
+Point Forecast Matrices
+National Weather Service La Crosse WI
+1026 AM CDT Mon Apr 24 2023
+
+WIZ017-242200-
+Medford-Taylor WI
+45.10N  90.30W Elev. 1430 ft
+1026 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      45          27          46          24          50
+Temp                   42 44 41 34 31 29 28 37 43 46 44 33 29 25 26 39 46 49 47
+Dewpt                  26 26 29 28 26 25 25 26 24 23 26 24 23 20 21 26 26 26 29
+RH                     53 49 62 78 81 85 88 64 47 40 49 69 78 81 81 59 45 40 49
+Wind dir                W NW  N NE NE NE NE NE NE  N  N NE NE NE NE  E SW SW SW
+Wind spd                6  6  8 10 10 10 10  9  8  8  9  9  6  5  6  5  6  8  8
+Clouds                 OV B2 B2 B2 B2 SC SC FW SC SC SC FW FW FW FW FW SC SC B1
+PoP 12hr                     50          30          10           0           0
+QPF 12hr                   0.07        0.04           0           0           0
+Snow 12hr                 00-00           T       00-00                        
+Rain shwrs              C  C  C                                                
+Snowshwrs               C  C  C  S                                             
+Tstms                         S                                                
+Wind chill                      27 22 20 18 30          25 22 18 19            
+Min chill              33    36    22    17    21    38    22    16    23      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          34    52      39    54      37    48      34    46
+Temp          37 37 47 48   42 40 49 49   40 38 45 45   38 36 45 44
+Dewpt         28 31 35 38   38 37 40 39   37 36 37 36   34 34 35 33
+PWind dir         S     S      SE    SE      NE     N       N     N
+Wind char        GN    BZ      GN    GN      GN    BZ      GN    BZ
+Avg clouds    B1 B2 B2 B2   B2 B2 B2 B2   B2 B2 B2 B2   B1 B1 B1 B2
+PoP 12hr         20    50      40    50      50    60      50    60
+Rain shwrs        S  C  C    C  C  C  C    C  C  C  L    C  C  C  L
+
+$$
+WIZ061-242200-
+Boscobel-Grant WI
+43.10N  90.70W Elev. 646 ft
+1026 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      53          31          51          30          56
+Temp                   50 53 50 41 37 33 32 42 48 51 48 39 35 32 32 44 51 54 52
+Dewpt                  24 25 27 29 29 29 30 32 29 27 27 27 26 26 27 27 27 27 28
+RH                     36 33 41 62 72 85 92 67 47 39 44 62 69 78 81 51 39 35 39
+Wind dir                W  W NW  E  E NE NE  N NE NE NE NE  E NE  E  E  E  E SE
+Wind spd               10 10  6  6  5  4  6  9  9  9  9  5  4  3  3  5  5  5  6
+Clouds                 B2 B2 B2 B2 B2 B1 B1 B1 SC SC SC FW FW FW FW FW SC SC SC
+PoP 12hr                     20          20          10           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                    S                                                
+Wind chill                               26 36                                 
+Min chill              38          32    25    27          30    25    31      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          36    62      44    62      41    53      38    53
+Temp          39 38 55 58   48 45 58 54   46 42 49 50   43 41 49 50
+Dewpt         27 28 33 37   36 37 40 40   39 39 38 37   36 36 35 33
+PWind dir        SE     S       S    SE       N     N      NW    NW
+Wind char        GN    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    SC B1 B2 B2   B2 B1 B2 B2   B2 B2 B2 B2   B2 B1 B2 B2
+PoP 12hr          0    20      30    50      50    60      50    60
+Rain shwrs              S    S  C  C  C    C  C  C  L    C  C  C  L
+
+$$
+IAZ018-242200-
+Charles City-Floyd IA
+43.10N  92.70W Elev. 1099 ft
+1026 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      54          31          53          30          57
+Temp                   51 54 51 40 36 33 31 42 50 53 49 39 34 31 31 44 52 55 54
+Dewpt                  28 27 30 30 29 28 29 31 29 27 28 29 28 27 27 29 30 29 30
+RH                     41 35 44 67 75 82 92 65 44 36 44 67 78 85 85 55 43 37 40
+Wind dir                W  W  N NE NE NE NE NE NE NE NE NE NE  E  E  E SE SE SE
+Wind spd               10 10  8 10  9  8  8 10 10 10 10  9  6  5  5  5  5  6  6
+Clouds                 B1 B1 B1 B1 B1 SC SC FW FW FW FW FW FW FW FW FW SC FW FW
+PoP 12hr                      0          10           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Wind chill                      34 29 26 24 36          33 28 25 25            
+Min chill              38          28    23    25          27    23    29      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          39    64      45    56      39    51      37    53
+Temp          42 40 58 58   49 45 53 50   43 39 47 48   40 38 49 50
+Dewpt         30 31 40 41   41 41 42 40   38 36 38 36   36 35 36 35
+PWind dir        SE     S       S     E       N     N      NW    NW
+Wind char        GN    BZ      GN    GN      GN    BZ      BZ    BZ
+Avg clouds    SC B1 B2 B2   B2 B2 B2 B2   B2 B2 B2 B2   B1 B1 B1 B1
+PoP 12hr          5    20      40    50      40    40      30    40
+Rain shwrs           S  S    S  C  C  C    C  C  C  C    C  S  C  C
+Tstms                   S    S                                     
+
+$$
+MNZ087-242200-
+Rochester-Olmsted MN
+44.00N  92.50W Elev. 1296 ft
+1026 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      50          29          49          29          55
+Temp                   48 49 47 37 32 29 30 40 47 49 48 39 34 30 30 43 50 53 52
+Dewpt                  26 26 25 26 26 25 25 27 25 24 24 26 25 24 25 27 27 28 29
+RH                     42 40 42 64 78 85 81 59 42 37 39 59 69 78 81 53 41 38 41
+Wind dir               NW NW  N  N NE  N NE NE NE NE NE NE NE NE  E  E SE  S  S
+Wind spd               10 10  9  8  6  5  6  9 10  9  8  5  4  5  5  5  5  5  8
+Clouds                 B2 B2 SC SC SC FW FW CL FW SC SC FW FW FW FW CL SC SC SC
+PoP 12hr                     20           5           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                                     
+Snowshwrs                                                                      
+Wind chill                      31    23 23 33                24               
+Min chill              33          26    21    24          28    23    28      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          42    60      45    53      39    50      37    51
+Temp          43 43 53 56   47 45 51 50   43 39 46 47   40 38 47 48
+Dewpt         29 32 38 40   40 40 40 36   37 35 35 33   34 34 34 32
+PWind dir         S     S       S    NE       N     N       N    NW
+Wind char        GN    BZ      GN    GN      GN    BZ      BZ    BZ
+Avg clouds    SC B2 B2 B2   B2 B2 B2 B2   B2 B2 B2 B2   B1 B1 B1 B1
+PoP 12hr         20    40      40    60      50    50      40    50
+Rain shwrs        S  C  C    C  C  C  L    C  C  C  C    C  C  C  C
+Tstms                   S    S                                     
+
+$$
+WIZ041-242200-
+La Crosse-La Crosse WI
+43.80N  91.30W Elev. 643 ft
+1026 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      51          31          51          30          56
+Temp                   48 50 47 39 35 32 31 39 47 50 49 41 36 32 32 43 51 55 53
+Dewpt                  27 28 29 28 29 29 29 30 28 27 27 27 27 26 27 28 27 28 29
+RH                     44 42 49 64 78 88 92 70 47 41 42 57 69 78 81 55 39 35 39
+Wind dir                W NW  N  N  N  N  N NE NE NE NE NE NE NE NE  E SE  S SE
+Wind spd               10  9  6  5  4  5  5  8  8  6  5  4  2  3  3  5  4  5  5
+Clouds                 B2 B2 B2 B2 B2 SC SC SC SC SC SC FW FW FW FW FW SC SC SC
+PoP 12hr                     40           5           5           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                 S                                                   
+Snowshwrs                                                                      
+Wind chill                               25 33                                 
+Min chill              38          30    24    26          33    26    31      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          39    62      46    58      42    53      39    53
+Temp          42 42 54 56   49 46 54 52   46 42 49 50   43 41 49 50
+Dewpt         29 30 36 40   40 40 42 39   39 38 37 36   36 36 35 33
+PWind dir         S     S      SE    SE       N     N      NW    NW
+Wind char        GN    BZ      GN    GN      GN    GN      GN    BZ
+Avg clouds    SC B1 B2 B2   B2 B2 B2 B2   B2 B2 B2 B2   B1 B1 B1 B1
+PoP 12hr         10    30      40    50      50    60      50    50
+Rain shwrs           C  C    C  C  C  C    C  C  C  L    C  C  C  C
+
+$$
+WIZ034-242200-
+Black River Falls-Jackson WI
+44.30N  90.80W Elev. 850 ft
+1026 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      48          28          50          26          55
+Temp                   42 47 44 35 32 30 30 40 47 49 48 39 34 29 29 43 50 53 52
+Dewpt                  27 26 27 28 27 26 27 28 25 23 24 25 24 23 24 27 25 25 27
+RH                     55 43 51 75 81 85 88 62 42 36 39 57 66 78 81 53 37 33 38
+Wind dir                W  W  N  N NE NE NE NE NE NE NE NE NE NE NE  E SW SW  S
+Wind spd                9  9  6  5  5  5  9  9  8  5  5  4  5  4  5  4  5  5  5
+Clouds                 OV B2 B1 B2 B2 SC SC SC SC B1 SC SC SC FW SC FW SC SC SC
+PoP 12hr                     40           5          10           0           0
+QPF 12hr                   0.01           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Flurries                                                                       
+Rain shwrs              C  S                                                   
+Snowshwrs                                                                      
+Wind chill             36          26 24 21 34                   23            
+Min chill              31    37    26    19    25          29    22    28      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          35    60      41    59      38    53      35    51
+Temp          40 39 53 54   45 43 54 52   43 39 49 49   41 38 48 47
+Dewpt         26 28 34 38   38 37 39 37   37 36 36 34   34 34 33 31
+PWind dir         S     S      SE    SE      NE     N       N    NW
+Wind char        GN    BZ      GN    GN      GN    BZ      GN    BZ
+Avg clouds    SC B1 B2 B2   B2 B2 B2 B2   B2 B2 B2 B2   B1 B1 B1 B1
+PoP 12hr         20    40      40    60      50    60      50    60
+Rain shwrs        S  C  C    C  C  C  L    C  C  L  L    C  C  L  L
+
+$$
+MNZ094-242200-
+Austin-Mower MN
+43.70N  93.00W Elev. 1210 ft
+1026 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      52          29          51          29          55
+Temp                   48 51 48 38 34 31 30 40 48 50 48 39 34 31 30 43 51 54 52
+Dewpt                  27 28 28 27 27 27 26 28 26 25 26 27 26 26 26 28 30 30 32
+RH                     44 41 46 64 75 85 85 62 42 37 42 62 72 81 85 55 44 40 46
+Wind dir                W NW  N NE NE NE NE NE NE NE NE NE  E  E  E SE SE  S  S
+Wind spd               10 10  9  9  8  6  8 10 10 10  9  6  5  5  5  6  5  6  8
+Clouds                 B1 B1 SC SC FW FW FW CL CL FW SC FW CL CL FW CL SC FW SC
+PoP 12hr                      5           5           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Wind chill                      32 27 24 22 33                25 24            
+Min chill              36          27    21    24          29    23    28      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          41    62      44    53      38    50      37    51
+Temp          42 42 54 56   47 44 50 49   42 39 46 47   40 38 48 48
+Dewpt         31 33 40 42   41 41 41 38   37 35 36 35   35 35 36 34
+PWind dir         S     S       S     N       N     N      NW    NW
+Wind char        GN    BZ      GN    GN      GN    BZ      BZ    BZ
+Avg clouds    SC B2 B2 B1   B2 B2 B2 B2   B2 B2 B1 B2   B1 B1 B1 B1
+PoP 12hr         20    30      40    50      50    40      30    40
+Rain shwrs        S  C  C    C  C  C  C    C  C  C  C    C  S  C  C
+Tstms                   S    S                                     
+
+$$
+MNZ088-242200-
+Winona-Winona MN
+44.00N  91.60W Elev. 663 ft
+1026 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      50          29          49          29          54
+Temp                   46 49 46 38 33 31 30 38 46 48 47 39 34 31 31 42 50 53 52
+Dewpt                  25 26 26 27 27 26 26 28 25 24 25 25 25 24 25 26 25 26 28
+RH                     43 40 45 64 78 81 85 67 43 39 42 57 69 75 78 53 37 35 39
+Wind dir                W NW NW  N  N  N  N NE NE NE NE NE  N NE NE  E SE  S SE
+Wind spd                9 10  8  5  5  5  6  9  9  8  6  4  4  4  4  4  4  5  6
+Clouds                 OV B2 B1 B1 B1 SC FW FW SC SC SC SC FW FW SC FW SC SC SC
+PoP 12hr                     40           5           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              S                                                      
+Wind chill                            25 23 32                                 
+Min chill              34          26    21    23          29    23    28      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          38    60      45    55      41    50      38    50
+Temp          41 41 53 55   47 45 52 50   44 41 47 48   42 40 47 48
+Dewpt         28 30 35 38   39 39 40 37   37 36 35 34   34 34 33 32
+PWind dir         S     S       S    SE       N     N      NW    NW
+Wind char        GN    BZ      GN    GN      GN    BZ      GN    BZ
+Avg clouds    SC B2 B2 B2   B2 B2 B2 B2   B2 B2 B2 B2   B2 B1 B1 B1
+PoP 12hr         20    40      40    60      50    60      40    60
+Rain shwrs        S  C  C    C  C  C  L    C  C  C  L    C  C  C  L
+
+$$
+IAZ029-242200-
+Oelwein-Fayette IA
+42.70N  91.90W Elev. 1056 ft
+1026 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      52          32          52          29          55
+Temp                   50 52 49 41 37 34 32 42 49 52 49 39 34 31 31 43 51 55 52
+Dewpt                  26 26 30 31 31 30 30 32 30 28 28 28 28 28 27 28 29 28 30
+RH                     39 36 48 67 79 85 92 67 48 39 44 64 78 88 85 55 42 35 43
+Wind dir                W  W  N NE NE NE NE NE NE NE NE NE NE  E  E  E  E SE SE
+Wind spd               10 10  6  9  9  8  9 10 10 10 10 10  8  6  5  6  6  6  8
+Clouds                 B1 B1 B1 B2 B2 B1 SC FW SC FW FW FW CL FW FW FW SC FW FW
+PoP 12hr                      5          10           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Wind chill                      35 30 27 24 36          32 27 24 25            
+Min chill              36          30    23    26          27    23    28      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          37    62      44    57      40    51      37    51
+Temp          40 38 56 58   49 44 54 51   43 40 48 47   41 38 48 49
+Dewpt         29 28 36 38   38 40 42 41   39 37 38 36   36 35 37 35
+PWind dir        SE     S       S     S       N     N      NW    NW
+Wind char        GN    GN      GN    GN      GN    BZ      BZ    BZ
+Avg clouds    SC B1 B1 B1   B2 B2 B2 B2   B2 B2 B2 B2   B1 B1 B2 B1
+PoP 12hr          0    20      30    50      50    50      40    40
+Rain shwrs              S    S  C  C  C    C  C  C  C    C  C  C  C
+
+$$
+IAZ010-242200-
+Decorah-Winneshiek IA
+43.30N  91.80W Elev. 1128 ft
+1026 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      52          29          50          29          55
+Temp                   50 52 49 39 34 31 30 40 48 50 49 39 34 31 31 43 51 54 52
+Dewpt                  25 28 29 29 28 28 29 31 29 27 26 27 27 27 27 28 28 29 30
+RH                     37 39 46 67 78 88 96 70 47 41 40 62 75 85 85 55 41 38 43
+Wind dir                W  W  N NE NE  N  N NE NE NE NE NE NE NE NE  E SE SE SE
+Wind spd               10 10  8  6  5  5  6  9  9  9  8  5  3  4  3  5  5  5  5
+Clouds                 B2 B2 B2 B2 B1 SC SC FW FW SC SC FW FW FW FW FW SC SC SC
+PoP 12hr                     20           5           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                                     
+Wind chill                            25 23 34                                 
+Min chill              38          29    23    26          30    24    30      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          38    61      44    56      40    50      37    51
+Temp          40 40 55 57   49 45 54 51   43 40 48 48   41 39 48 49
+Dewpt         29 30 37 40   40 41 42 40   39 38 37 36   36 36 36 35
+PWind dir         S     S       S    SE       N     N      NW    NW
+Wind char        GN    BZ      GN    GN      GN    BZ      BZ    BZ
+Avg clouds    SC B1 B2 B2   B2 B2 B2 B2   B2 B2 B2 B2   B1 B1 B1 B1
+PoP 12hr          5    30      40    60      50    50      40    50
+Rain shwrs           S  C    C  C  C  L    C  C  C  C    C  C  C  C
+
+$$
+WIZ061-242200-
+Platteville-Grant WI
+42.70N  90.50W Elev. 948 ft
+1026 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      52          34          51          30          55
+Temp                   49 52 50 42 39 36 35 44 49 51 49 40 35 32 32 44 50 54 52
+Dewpt                  24 25 29 30 30 31 32 33 30 28 28 27 27 26 26 27 27 27 29
+RH                     37 35 44 62 70 82 89 65 48 41 44 59 72 78 78 51 41 35 41
+Wind dir                W  W  W  E  E NE  N  N  N NE NE NE  E  E  E  E  E  E SE
+Wind spd               11 11  5  5  6  5  6 10 10 10 10  8  5  5  5  6  5  5  5
+Clouds                 B2 B2 B2 B2 B2 B1 B1 SC B1 SC SC FW FW FW FW FW SC SC FW
+PoP 12hr                     20          20          10           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                    S  S  S  S                                       
+Snowshwrs                           S  S                                       
+Wind chill                               29 38                26 26            
+Min chill              39          34    28    30          29    24    30      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          36    62      44    61      42    52      39    51
+Temp          38 37 55 57   48 44 58 55   46 43 48 49   42 41 48 49
+Dewpt         27 27 33 38   35 36 40 41   39 39 39 38   37 36 36 35
+PWind dir        SE     S      SE    SE       N     N      NW    NW
+Wind char        GN    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    FW SC B1 B1   B1 B1 B1 B2   B2 B2 B2 B2   B2 B1 B2 B2
+PoP 12hr          0    10      20    50      50    60      40    50
+Rain shwrs                   S  S  C  C    C  C  C  L    C  C  C  C
+
+$$
+WIZ042-242200-
+Tomah-Monroe WI
+44.00N  90.50W Elev. 994 ft
+1026 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      48          29          48          27          54
+Temp                   44 47 44 35 31 30 31 39 46 48 47 37 34 30 30 42 49 53 51
+Dewpt                  27 29 31 30 29 29 30 31 29 27 27 27 26 26 26 29 27 27 29
+RH                     51 49 60 82 92 96 96 73 51 44 45 67 72 85 85 60 42 36 42
+Wind dir                W  W NW NE NE NE NE NE NE NE NE NE NE NE  E  E  W SW  S
+Wind spd               10 10  6  4  5  5  6  9  9  8  5  3  4  4  4  4  5  5  6
+Clouds                 OV B2 B2 B2 B2 B1 B2 B1 B1 SC SC SC SC FW SC FW SC SC SC
+PoP 12hr                     40          20          10           0           0
+QPF 12hr                   0.01           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              S  C  S                                                
+Snowshwrs                                                                      
+Wind chill             38          25 24 24 33                                 
+Min chill              32    38    25    23    26          29    24    29      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          35    60      42    59      39    52      36    51
+Temp          38 38 53 55   46 43 55 53   43 41 48 48   41 38 48 47
+Dewpt         28 28 35 39   38 38 40 40   38 38 38 37   36 35 36 34
+PWind dir         S     S      SE    SE      NE     N       N    NW
+Wind char        GN    BZ      GN    GN      GN    GN      GN    BZ
+Avg clouds    SC B1 B2 B2   B2 B2 B2 B2   B2 B2 B2 B2   B2 B1 B2 B2
+PoP 12hr         10    40      40    50      50    60      50    60
+Rain shwrs           C  C    C  C  C  C    C  C  L  L    C  C  L  L
+
+$$
+MNZ079-242200-
+Lake City-Wabasha MN
+44.40N  92.30W Elev. 833 ft
+1026 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      49          29          50          28          55
+Temp                   45 48 45 36 33 30 29 40 47 50 47 39 34 30 30 42 50 53 52
+Dewpt                  27 26 26 27 26 24 24 28 25 24 26 25 25 24 24 27 27 28 30
+RH                     49 42 47 69 75 78 81 62 42 36 43 57 69 78 78 55 41 38 43
+Wind dir                W NW  N NE NE NE NE NE NE NE NE NE NE NE NE  E  S  S  S
+Wind spd               10 10 10  9  8  8  8 10  9  8  6  5  6  5  5  5  5  6  6
+Clouds                 B2 B2 B1 FW FW FW FW CL FW FW SC FW FW CL FW CL SC SC SC
+PoP 12hr                     20           5           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                                     
+Snowshwrs                                                                      
+Wind chill             39       30 25 22 21 33             27 24 24            
+Min chill              36          23    20    23          26    22    26      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          42    60      44    54      40    50      38    51
+Temp          43 43 52 55   46 45 49 49   43 40 46 47   41 39 47 47
+Dewpt         29 33 38 40   40 41 41 38   37 36 36 35   35 35 35 34
+PWind dir         S     S      SE     E       N     N       N    NW
+Wind char        GN    BZ      GN    GN      GN    BZ      GN    BZ
+Avg clouds    B1 B2 B2 B2   B2 B2 B2 B2   B2 B2 B2 B2   B1 B1 B1 B1
+PoP 12hr         30    40      40    60      50    50      40    60
+Rain shwrs        C  C  C    C  C  C  L    C  C  C  C    C  C  C  L
+
+$$
+WIZ029-242200-
+Neillsville-Clark WI
+44.60N  90.60W Elev. 1138 ft
+1026 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      46          29          48          26          53
+Temp                   42 45 42 34 32 31 30 40 45 48 46 37 32 28 28 41 49 52 50
+Dewpt                  27 27 27 28 28 26 27 28 26 23 24 24 24 23 23 27 26 26 27
+RH                     55 49 55 78 85 81 88 62 47 37 42 59 72 81 81 57 40 36 41
+Wind dir               SW  W NW NE NE NE NE NE NE NE  N NE NE NE NE  E  S SW  S
+Wind spd                9  9  6  6  9  8 10 10  8  6  5  6  8  5  5  5  6  6  6
+Clouds                 OV B2 B2 B2 B2 SC SC B1 B1 B1 SC SC SC FW FW FW SC SC SC
+PoP 12hr                     30          20          10           0           0
+QPF 12hr                   0.01           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Flurries                                                                       
+Rain shwrs              C  C  S                                                
+Snowshwrs               C                                                      
+Wind chill             36       28 24 24 21 33             25 22 22            
+Min chill              31    38    24    20    24          25    20    25      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          36    57      41    57      39    52      35    50
+Temp          39 38 52 52   44 41 52 50   43 39 47 48   40 37 48 46
+Dewpt         27 30 35 38   38 37 39 38   37 36 37 34   34 34 34 31
+PWind dir         S     S      SE    SE      NE     N       N    NW
+Wind char        GN    BZ      GN    GN      GN    BZ      GN    BZ
+Avg clouds    B1 B2 B2 B2   B2 B2 B2 B2   B2 B2 B2 B2   B1 B1 B1 B2
+PoP 12hr         20    50      40    60      50    60      50    60
+Rain shwrs        S  C  C    C  C  C  L    C  C  C  L    C  C  C  L
+
+$$

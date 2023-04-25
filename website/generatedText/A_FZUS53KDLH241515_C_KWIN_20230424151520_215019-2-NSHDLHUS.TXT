@@ -1,0 +1,146 @@
+FZUS53 KDLH 241515
+NSHDLH
+
+Nearshore Marine Forecast
+National Weather Service Duluth MN
+1015 AM CDT Mon Apr 24 2023
+
+For waters within five nautical miles of shore on Lake Superior.         
+
+Waves are the significant wave height - the average of the highest 
+1/3 of the wave spectrum. Occasional wave height is the average of 
+the highest 1/10 of the wave spectrum.
+
+LSZ140-141-242215-
+Grand Portage to Grand Marais MN-
+Grand Marais to Taconite Harbor MN-
+1015 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...East wind 5 to 10 knots. Isolated snow showers.
+Waves 1 foot or less. 
+.TONIGHT...Northeast wind 5 knots becoming north after midnight.
+Isolated snow showers in the evening. Waves 1 foot or less. 
+.TUESDAY...Northeast wind 5 to 10 knots becoming south late in
+the afternoon. Partly sunny. Waves 1 to 2 feet. 
+.TUESDAY NIGHT...Southwest wind 5 knots becoming northwest in the
+late evening and overnight. Mostly cloudy. Waves 1 foot or less. 
+
+Note...Wave height forecasts are for ice free areas.
+
+$$
+
+LSZ142-143-242215-
+Taconite Harbor to Silver Bay Harbor MN-
+Silver Bay Harbor to Two Harbors MN-
+1015 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...East wind 5 to 10 knots. Isolated snow showers.
+Waves 1 foot or less. 
+.TONIGHT...Northeast wind 5 to 10 knots becoming north early in
+the morning. Isolated snow showers in the evening. Waves 1 foot
+or less. 
+.TUESDAY...North wind 5 knots becoming southeast in the
+afternoon. Partly sunny. Waves 1 to 2 feet. 
+.TUESDAY NIGHT...Southeast wind 5 knots becoming northwest in the
+late evening and overnight. Partly cloudy. Waves 1 to 2 feet. 
+
+Note...Wave height forecasts are for ice free areas.
+
+$$
+
+LSZ144-145-242215-
+Two Harbors to Duluth MN-Duluth MN to Port Wing WI-
+1015 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...Northeast wind 10 to 15 knots. Isolated snow
+showers. Waves 1 to 2 feet. 
+.TONIGHT...Northeast wind 5 to 10 knots. Isolated snow showers in
+the evening. Waves 1 to 2 feet. 
+.TUESDAY...Northeast wind 5 to 10 knots. Mostly sunny. Waves 1 to
+2 feet. 
+.TUESDAY NIGHT...Northeast wind 5 to 10 knots becoming northwest
+early in the morning. Partly cloudy. Waves 1 to 2 feet. 
+
+Note...Wave height forecasts are for ice free areas.
+
+$$
+
+LSZ146-147-242215-
+Port Wing to Sand Island WI-Sand Island to Bayfield WI-
+1015 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...Northeast wind 10 to 15 knots. Isolated snow
+showers in the late morning and early afternoon. Scattered
+sprinkles in the afternoon. Waves 1 foot or less. 
+.TONIGHT...Northeast wind 5 to 10 knots. Partly cloudy. Waves
+1 foot or less. 
+.TUESDAY...Northeast wind 5 to 10 knots. Partly sunny. Waves 1 to
+2 feet. 
+.TUESDAY NIGHT...East wind 5 to 10 knots becoming southwest early
+in the morning. Partly cloudy. Waves 1 to 2 feet. 
+
+Note...Wave height forecasts are for ice free areas.
+
+$$
+
+LSZ150-242215-
+Outer Apostle Islands Beyond 5 NM from Mainland-
+1015 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...Northeast wind 10 to 15 knots easing to 5 to
+10 knots in the afternoon. Isolated snow showers in the late
+morning and early afternoon. Waves 1 to 2 feet. 
+.TONIGHT...Northeast wind 5 to 10 knots. Partly cloudy. Waves
+1 to 2 feet. 
+.TUESDAY...Northeast wind 5 to 10 knots. Partly sunny. Waves 1 to
+2 feet. 
+.TUESDAY NIGHT...East wind 5 knots becoming northwest after
+midnight, then becoming west early in the morning. Partly cloudy.
+Waves 1 to 2 feet. 
+
+Note...Wave height forecasts are for ice free areas.
+
+$$
+
+LSZ121-242215-
+Chequamegon Bay-Bayfield to Oak Point WI-
+1015 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...Northeast wind 5 to 10 knots. Isolated snow
+showers in the late morning and early afternoon. Scattered
+sprinkles in the afternoon. Waves 1 foot or less. 
+.TONIGHT...Northeast wind 5 to 10 knots. Scattered sprinkles in
+the evening. Waves 1 foot or less. 
+.TUESDAY...Northeast wind 5 to 10 knots. Partly sunny. Waves
+1 foot or less. 
+.TUESDAY NIGHT...East wind 5 knots becoming south after midnight,
+then becoming southwest early in the morning. Mostly clear. Waves
+1 foot or less. 
+
+Note...Wave height forecasts are for ice free areas.
+
+$$
+
+LSZ148-242215-
+Oak Point to Saxon Harbor WI-
+1015 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...Northeast wind 5 to 10 knots. Isolated snow
+showers in the late morning and early afternoon. Scattered
+sprinkles in the afternoon. Waves 1 to 2 feet. 
+.TONIGHT...Northeast wind 5 to 10 knots. Partly cloudy. Waves
+1 to 2 feet. 
+.TUESDAY...Northeast wind 5 to 10 knots. Partly sunny. Waves 1 to
+2 feet. 
+.TUESDAY NIGHT...East wind 5 knots becoming southeast after
+midnight, then becoming southwest early in the morning. Mostly
+clear. Waves 1 to 2 feet. 
+
+Note...Wave height forecasts are for ice free areas.
+
+$$
+
+Graphical marine forecasts are available online at: 
+weather.gov/greatlakes 
+
+BJH

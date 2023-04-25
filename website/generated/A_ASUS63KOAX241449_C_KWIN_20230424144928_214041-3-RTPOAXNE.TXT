@@ -1,0 +1,108 @@
+ASUS63 KOAX 241449
+RTPOAX
+
+Supplemental Temperature and Precipitation Table
+National Weather Service Omaha Nebraska
+930 AM CDT Mon Apr 24 2023
+
+Values represent highs yesterday, lows over the last 12 hours
+and precipitation over the last 24 hours.
+
+Snow depth is measured daily and is valid as of 7 AM CDT.
+.BR OAX 0424 C DH01/TAIRZX/DH07/TAIRZP/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:Iowa and Nebraska
+:Temperature and precipitation stations
+:................................................................ 
+:       Station              Max / Min  / 24-hr   / Snow  /  Snow 
+:        Name                Temp/ Temp / Pcpn    / Fall  /  Depth 
+:................................................................
+:Nebraska
+:
+BVN  : Albion Airport      :  55 /  32 /  0.00 /     M /    M
+BIE  : Beatrice Airport    :  58 /  37 /  0.00 /     M /    M
+BTA  : Blair Airport       :  53 /  36 /  0.00 /     M /    M
+OLU  : Columbus Airport    :  57 /  34 /  0.00 /     M /    M
+FNB  : Falls City Arpt     :  57 /  37 /  0.00 /     M /    M
+FET  : Fremont Airport     :  55 /  35 /  0.00 /     M /    M
+LNK  : Lincoln Airport     :  61 /  39 /  0.00 /   0.0 /    0
+AFK  : Nebraska City Arpt  :  55 /  38 /  0.00 /     M /    M
+OFK  : Norfolk Airport     :  55 /  29 /  0.00 /   0.0 /    0
+OFF  : Offutt AFB          :  56 /  39 /     M /     M /    M
+OMA  : Omaha Eppley Field  :  56 /  36 /  0.00 /   0.0 /    0
+MLE  : Omaha-Millard Arpt  :  54 /  38 /  0.00 /     M /    M
+PMV  : Plattsmouth Arpt    :  54 /  38 /  0.00 /     M /    M
+TQE  : Tekamah Airport     :  55 /  28 /  0.00 /     M /    M
+OAXN1: Valley              :  55 /  39 /  0.00 /   0.0 /    0
+AHQ  : Wahoo Airport       :  55 /  37 /  0.00 /     M /    M
+LCG  : Wayne Airport       :  52 /  22 /  0.00 /     M /    M
+:
+:Iowa
+:
+ICL  : Clarinda Airport    :   M /   M /     M /     M /    M
+CBF  : Council Bluffs      :  52 /  36 /  0.00 /     M /    M
+HNR  : Harlan Airport      :  50 /  27 /  0.00 /     M /    M
+RDK  : Red Oak Airport     :  54 /  36 /  0.00 /     M /    M
+SDA  : Shenandoah Arpt     :  54 /  36 /  0.00 /     M /    M
+:
+.END
+
+.BR OAX 0424 C DH07/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:Iowa and Nebraska Cooperative Weather Observer
+:Temperature and Precipitation Reports
+:Values are for the past 24 hours ending between 6 am and 8 am.
+:................................................................. 
+:      Station           Report  Max / Min  / 24-hr  /  Snow / Snow 
+:       Name              Time   Temp  Temp /  Pcpn  /  Fall / Depth 
+:.................................................................
+:
+AUBN1:  Auburn 5ESE     : DH0600/  57 /  25  /  0.00  /   0.0 /   0
+FABN1:  Fairbury        : DH0800/  60 /  29  /  0.00  /   0.0 /   0
+FCLN1:  Fort Calhoun 4W : DH0700/  54 /  29  /  0.00  /     M /   M
+FMTN1:  Fremont         : DH0700/  56 /  28  /  0.00  /   0.0 /   0
+FNDN1:  Friend 3E       : DH0700/  59 /  25  /  0.00  /   0.0 /   0
+GRAN1:  Gretna          : DH0800/  54 /  30  /  0.00  /   0.0 /   0
+MEDN1:  Mead 6S         : DH0600/  56 /  25  /  0.00  /   0.0 /   0
+OKDN1:  Oakdale         : DH0800/  54 /  28  /  0.00  /     M /   M
+SEWN1:  Seward          : DH0700/  59 /  24  /  0.00  /   0.0 /   0
+TBLN1:  Table Rock 4N   : DH0700/  58 /  31  /  0.00  /   0.0 /   0
+VDLN1:  Verdel 6SSE     : DH0700/  54 /  18  /  0.00  /     M /   M
+WPTN1:  West Point      : DH0800/  53 /  25  /  0.00  /   0.0 /   0
+CLDI4:  Clarinda        : DH0600/  53 /  25  /  0.00  /   0.0 /   0
+LSXI4:  Little Sioux 2NW: DH0700/  55 /  23  /  0.00  /   0.0 /   0
+LOGI4:  Logan 1WNW      : DH0700/  52 /  25  /  0.00  /   0.0 /   0
+MPTI4:  Mapleton        : DH0700/  52 /  23  /  0.00  /   0.0 /   0
+ROKI4:  Red Oak         : DH0700/  54 /  29  /  0.00  /   0.0 /   0
+SDHI4:  Shenandoah      : DH0730/  54 /  33  /  0.00  /   0.0 /   0
+:
+.END
+.BR OAX 0424 C DH07/PPDRZZ/SFDRZZ/SDIRZZ
+:
+:Iowa and Nebraska Cooperative Weather Observer
+:24 hour precipitation - These stations report precipitation only.
+:................................................................ 
+:       Station                  Report    24-hr  /  Snow /  Snow 
+:        Name                     Time     Pcpn   /  Fall /  Depth 
+:................................................................ 
+:
+ADAN1:  Adams             :      DH0700/   0.00   /   0.0 /    0
+BRCN1:  Beatrice 1N       :      DH0700/   0.00   /   0.0 /    0
+LORN1:  Loretto 7W        :      DH0700/   0.00   /     M /    M
+NLHN1:  Neligh            :      DH0700/   0.00   /     M /    M
+OCDN1:  Orchard 9NNE      :      DH0700/   0.00   /   0.0 /    0
+PIRN1:  Pierce            :      DH0700/   0.00   /   0.0 /    0
+UTCN1:  Utica             :      DH0800/   0.00   /     M /    M
+HSII4:  Hastings 4NE      :      DH0800/   0.00   /   0.0 /    0
+RANI4:  Randolph          :      DH0800/   0.00   /   0.0 /    0
+UNDI4:  Underwood         :      DH0700/   0.00   /   0.0 /    0
+:
+.END 
+
+These data are preliminary and have not undergone final quality 
+control by the National Centers for Environmental Information. These 
+data are subject to revision=. Final and certified data can be 
+accessed at www.ncei.noaa.gov.
+
+
+$$

@@ -1,0 +1,77 @@
+ASUS44 KBMX 241510
+RWRAL 
+             
+ALABAMA REGIONAL WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE BIRMINGHAM AL
+1000 AM CDT MON APR 24 2023
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET
+WITH NO SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+THE REMARK "TC" DENOTES TEMPERATURE IN DEGREES CELSIUS.
+
+ALZ001>011-014-016>018-020-241600-
+NORTH ALABAMA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MUSCLE SHOALS  SUNNY     55  34  45 E10       30.22S TC  13           
+HUNTSVILLE     MOSUNNY   56  33  42 NE14G23   30.21S TC  13           
+DECATUR        SUNNY     56  32  40 NE9       30.22S TC  13           
+HALEYVILLE     FAIR      54  33  45 NE9G16    30.22R TC  12           
+GADSDEN        SUNNY     56  32  40 N20       30.19F TC  13           
+$$
+ 
+ALZ012-013-022-023-030>036-040>044-241600-
+WEST CENTRAL ALABAMA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+TUSCALOOSA     MOSUNNY   59  37  44 NE12      30.18S TC  15           
+DEMOPOLIS      PTSUNNY   56  41  58 N8        30.17R TC  13           
+$$
+ 
+ALZ015-024>026-033>036-041>044-241600-
+CENTRAL ALABAMA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BIRMINGHAM     MOSUNNY   58  31  35 NE17G26   30.19S TC  14           
+MONTGOMERY     CLOUDY    59  41  51 NE8       30.16R TC  15           
+SHELBY CO ARPT PTSUNNY   57  36  45 VRB7      30.17R TC  14           
+MAXWELL AFB    CLOUDY    58  35  42 NE8       30.14R TC  15           
+GREENVILLE     CLOUDY    53  43  68 NE8       30.14R TC  12           
+SELMA          PTSUNNY   57  39  51 NE12      30.16R TC  14           
+PRATTVILLE     PTSUNNY   57  38  48 NE8       30.16R TC  14           
+BESSEMER       FAIR      57  34  41 NE9       30.18R TC  14           
+TALLADEGA      FAIR      55  35  46 NE12      30.19S TC  13           
+PELL CITY      MOSUNNY   55  36  47 E9G16     30.19S TC  13           
+SYLACAUGA      CLOUDY    55  35  47 NE8       30.18S TC  13           
+JASPER         FAIR      57  36  44 NE10G21   30.19S TC  14           
+$$
+ 
+ALZ019-021-028-029-037-038-045>048-241600-
+EAST CENTRAL ALABAMA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ANNISTON       MOSUNNY   58  34  40 NE12G20   30.18R TC  14           
+ALEXANDER CITY NOT AVBL                                               
+AUBURN         CLOUDY    55  39  54 NE12      30.17R TC  13           
+$$
+ 
+ALZ051>064-241600-
+SOUTHWEST ALABAMA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MOBILE         CLOUDY    63  45  51 NE12      30.10F TC  17           
+BROOKLEY FIELD PTSUNNY   62  47  57 N13       30.11F TC  17           
+EVERGREEN      CLOUDY    61  45  55 N9        30.13R TC  16           
+$$
+
+ALZ049-050-065>069-241600-
+SOUTHEAST ALABAMA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+DOTHAN         CLOUDY    63  46  54 NE9       30.15R TC  17           
+OZARK          CLOUDY    61  46  56 N10       30.11R TC  16           
+TROY           CLOUDY    61  41  47 NE12      30.15R TC  16           
+EUFAULA        FAIR      62  41  46 N7        30.15R TC  17           
+$$
+  

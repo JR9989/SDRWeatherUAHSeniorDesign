@@ -1,0 +1,87 @@
+ASUS43 KIWX 241510
+RWRIWX
+
+KIWX WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE NORTHERN INDIANA
+1100 AM EDT MON APR 24 2023
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY. 
+
+* THESE STATIONS ARE NOT UNDER NWS QUALITY CONTROL. THEY ALSO MAY NOT 
+  REPORT WEATHER SUCH AS PRECIPITATION OR FOG. 
+
+INZ001>027-241600-
+NORTHERN INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+GARY*            N/A     46  23  39 NW7       30.21S                  
+VALPARAISO     PTSUNNY   45  23  42 NW10      30.21R                  
+MICHIGAN CITY* MOSUNNY   43  30  61 NW10      30.22R                  
+LAPORTE*       MOSUNNY   44  32  62 NW9       30.21S                  
+KNOX*          SUNNY     45  23  42 NW10G17   30.21S                  
+SOUTH BEND     MOSUNNY   45  30  55 W12G20    30.20S                  
+ELKHART*       CLOUDY    43  32  64 W9        30.20S                  
+GOSHEN         PTSUNNY   44  32  62 W9        30.19S                  
+MONTICELLO*    MOSUNNY   46  26  46 W12G17    30.22S                  
+LOGANSPORT*    MOSUNNY   45  27  49 W10       30.23F                  
+ROCHESTER*     CLOUDY    45  27  49 W9        30.21S                  
+PLYMOUTH*      PTSUNNY   43  28  56 W10       30.20S                  
+WARSAW*        PTSUNNY   43  29  59 W7G16     30.21S                  
+AUBURN*        CLOUDY    41  30  65 W8        30.20S                  
+FORT WAYNE     PTSUNNY   43  28  56 W7        30.20S                  
+HUNTINGTON*    PTSUNNY   42  29  59 W7G16     30.21S                  
+PERU/GRISSOM   MOSUNNY   45  23  42 W8        30.19F                  
+
+$$
+INZ028>050-241600-
+CENTRAL INDIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+LAFAYETTE      SUNNY     46  26  45 SW12      30.24S                  
+KOKOMO*        MOSUNNY   43  26  51 W8        30.23S                  
+MARION*        MOSUNNY   41  29  60 W3        30.23S                  
+MUNCIE*        SUNNY     45  27  49 NW10      30.21R                  
+INDIANAPOLIS   MOSUNNY   44  24  45 W8        30.24S                  
+
+$$
+MIZ043>046-050>051-056>058-064>065-071>073-077>080-241600-
+SOUTHWEST LOWER MICHIGAN
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BATTLE CREEK   CLOUDY    42  26  53 W13       30.17R                  
+BENTON HARBOR  PTSUNNY   45  32  60 W9        30.20R                  
+COLDWATER*     CLOUDY    41  30  64 W10       30.17S                  
+HILLSDALE*     CLOUDY    38  31  78 W10       30.16S                  
+HOLLAND        SUNNY     46  26  45 NW8       30.18S                  
+GRAND RAPIDS   PTSUNNY   43  21  41 NW10      30.16S                  
+KALAMAZOO      CLOUDY    44  26  49 W9        30.17S                  
+STURGIS*       CLOUDY    40  21  46 NW7       30.18R                  
+THREE RIVERS*  CLOUDY    43  28  54 W9        30.18S                  
+
+$$
+OHZ001>008-015>018-024>025-241600-
+NORTHWEST OHIO
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+WAUSEON*       CLOUDY    41  32  70 NW14      30.18R                  
+DEFIANCE       CLOUDY    42  30  62 NW9       30.19S                  
+FINDLAY        CLOUDY    43  31  62 W12       30.17S                  
+OTTAWA*        CLOUDY    43  30  61 W8        30.21S                  
+TOLEDO EXPRESS CLOUDY    42  30  62 NW10      30.18R                  
+VAN WERT*      PTSUNNY   43  28  56 NW8       30.21R                  
+LIMA           CLOUDY    42  32  67 NW7       30.19R                  
+
+$$
+AND FOR LAKE MICHIGAN COASTAL AND OPEN LAKE BUOY OBSERVATIONS
+  
+STATION/POSITION TEMP    WIND        PRES    VSBY  WAVE
+                 AIR SEA DIR/SP/G                  HT/PER
+                 (F)     (DEG/KT/KT) (MB)    (MI)  (FT/S)
+CALUMET HARBOR           280/  2/  9 1022.1
+BURNS HARBOR      42     290/  4/  7 1023.4R
+4 MI NW BRIDGMAN  40 44  270/ 10/ 12 1023.9R         2/ 3
+
+$$
+&&
+  

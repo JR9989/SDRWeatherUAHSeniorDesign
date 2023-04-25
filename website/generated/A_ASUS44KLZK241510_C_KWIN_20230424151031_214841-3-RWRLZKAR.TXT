@@ -1,0 +1,86 @@
+ASUS44 KLZK 241510
+RWRLZK
+ARKANSAS STATE WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE LITTLE ROCK AR
+ISSUED BY NATIONAL WEATHER SERVICE MEMPHIS TN
+1000 AM CDT MON APR 24 2023
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+ 
+ARZ001-003-010-029-241600-
+NORTHWEST ARKANSAS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+FORT SMITH     SUNNY     55  38  52 E9        30.22R                  
+HARRISON       SUNNY     52  29  41 SE10      30.22S                  
+BENTONVILLE    SUNNY     54  29  38 S8        30.21S                  
+ROGERS         SUNNY     54  28  36 S8        30.20S                  
+SILOAM SPGS    SUNNY     55  29  36 SE9       30.20S                  
+HIGHFILL       SUNNY     54  29  38 SE8       30.20R                  
+SPRINGDALE     SUNNY     52  34  50 SE8       30.20S                  
+$$
+
+ARZ004-005-016-241600-
+NORTH CENTRAL ARKANSAS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BATESVILLE     SUNNY     54  34  46 CALM      30.25R                  
+FLIPPIN        SUNNY     51  32  48 E3        30.25S                  
+MTN HOME       SUNNY     53  26  35 VRB7      30.23R                  
+$$
+
+ARZ040-041-241600-
+WEST CENTRAL ARKANSAS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MOUNT IDA      CLOUDY    45  43  93 CALM      30.19S FOG              
+$$
+
+ARZ017-025-026-028-241600-
+NORTHEAST ARKANSAS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+JONESBORO      SUNNY     53  42  66 NE8       30.25R                  
+NEWPORT        SUNNY     52  44  74 VRB5      30.26R                  
+WALNUT RIDGE   SUNNY     54  40  59 NE7       30.25R                  
+BLYTHEVILLE    SUNNY     55  39  54 VRB6      30.25R                  
+$$
+
+ARZ022-033-042-044-241600-
+CENTRAL ARKANSAS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+LITTLE ROCK    PTSUNNY   56  39  53 E5        30.23R                  
+JACKSONVILLE   SUNNY     55  39  55 E7        30.21R                  
+SEARCY         SUNNY     56  42  59 E5        30.25R                  
+HOT SPRINGS    SUNNY     52  46  80 CALM      30.22S                  
+RUSSELLVILLE   SUNNY     54  36  50 CALM      30.23R                  
+$$
+
+ARZ036-241600-
+EAST ARKANSAS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+WEST MEMPHIS   SUNNY     57  35  43 NE6       30.23R                  
+$$
+
+ARZ050-070-073-241600-
+SOUTHWEST ARKANSAS 
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+TEXARKANA      CLOUDY    57  40  52 E7        30.19S                  
+EL DORADO      PTSUNNY   57  42  57 E7        30.19S                  
+DEQUEEN        SUNNY     57  41  55 MISG      30.19S                  
+$$
+
+ARZ056-057-069-241600-
+SOUTHEAST ARKANSAS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PINE BLUFF     SUNNY     58  44  60 NE8       30.22R                  
+STUTTGART      SUNNY     56  43  61 NE8       30.23S                  
+MONTICELLO     SUNNY     59  40  49 NE12      30.20R                  
+$$
+
+  

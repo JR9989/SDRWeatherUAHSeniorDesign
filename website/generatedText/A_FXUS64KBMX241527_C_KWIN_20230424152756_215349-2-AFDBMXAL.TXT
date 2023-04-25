@@ -1,0 +1,126 @@
+FXUS64 KBMX 241527
+AFDBMX
+
+Area Forecast Discussion
+National Weather Service Birmingham AL
+1027 AM CDT Mon Apr 24 2023
+
+...New SHORT TERM...
+
+.SHORT TERM...
+(This afternoon through Tuesday)
+Issued at 1020 AM CDT MON APR 24 2023
+
+A few post-frontal showers continue across southeastern portions of 
+the area, but very little, if any, rain is actually measuring. 
+Clouds will decrease throughout the day with sunshine becoming more 
+prominent area-wide by the afternoon, but temperatures will be 
+seasonably cool due to a large area of high pressure moving east 
+over the Ohio Valley which is providing northeasterly surface winds 
+across Central Alabama. Highs will range from the mid 60s north to 
+mid 70s south. Temperatures are likely to drop quickly tonight due 
+to the dry and cool northeasterly flow, and a few pre-dawn readings 
+in the upper 30s will be possible tonight across our north and 
+northeastern counties with 40s elsewhere. There will be a mix of sun 
+with some high clouds tomorrow, but we'll have one more day 
+stabilized by the region of high pressure over the Ohio Valley with 
+westerly flow aloft. Temperatures will trend slightly warmer, but 
+still pleasant with highs ranging from the upper 60s north to near 
+80 southeast. 
+
+86/Martin
+
+&&
+
+.LONG TERM...
+(Tuesday through Sunday)
+Issued at 345 AM CDT MON APR 24 2023
+
+Unsettled conditions remain forecast across our region mid to late
+next week as a series of disturbances move through, and confidence
+on this remains high Wed through Fri. Sat/Sun conditions appear 
+to be less rainy/storm, through guidance suggests a large upper- 
+trough/cold frontal passage on Saturday. Furthermore, it appears 
+our chances for thunderstorms has seemingly increased, 
+particularly for Thursday, after analysis of latest 00z guidance.
+
+While flow aloft will be in a more zonal configuration across the
+southern CONUS on Wednesday, guidance has become more suggestive
+of a weak surface low developing somewhere across the lower
+Mississippi Valley in response to an approaching shortwave trough.
+This low pressure is currently progged to move northeast into the
+Tennessee Valley while southerly low-level flow overspreads
+Alabama. Increasing boundary layer moisture temporally overlapped
+with afternoon heating is resulting in MUCAPE of <2,000 J/kg across
+the establishing warm sector. Instability could be higher as most
+guidance is showing 6.5-7.5 C/km mid-level lapse rates emanating 
+from our southwest. With increasing forcing considerations
+Thursday, owing to the approaching shortwave, and 40-50 kts 500 
+mb flow, an environment conditionally supportive for severe 
+weather is appearing more likely on Thursday with progged kinematics
+supporting a supercell storm mode. I'll add this threat to the 
+HWO for now, as low-confidence, until further details can ironed 
+out in the coming days. For now, GFS/ECMWF forecast hodographs 
+suggest the threat will primarily be large hail and damaging 
+winds, though a tornado threat could also materialize if low-level
+shear/hodograph curvature can increase. This system will move off
+to our east by Friday morning.
+
+I'm leaning toward more quiet conditions for Friday as we *should* 
+be in a more subsident environment after the exit of the Thursday
+system. However, a potent upper-level disturbance is progged to
+move into the central CONUS Saturday morning with a trajectory for
+the TN Valley/Deep South thereafter. This continues to result in 
+additional rain chances, at least for Saturday, despite ongoing 
+uncertainty regarding the synoptic evolution of the system.
+
+40/Sizemore
+
+&&
+
+.AVIATION...
+(12Z TAFS)
+Issued at 600 AM CDT MON APR 24 2023
+
+Mainly mid level clouds out there, with some sprinkles and a 
+brief light rain shower at best across the south through 13 
+or 14z. Clouds will be on the decrease through the day, with 
+northerly winds of 7 to 10 kts. Otherwise VFR conditions 
+expected through the period.
+
+16
+
+&&
+
+.FIRE WEATHER...
+
+Light northerly to northeasterly flow continues today, generally 
+5-10 mph. Minimum RH values are forecast to drop to 25-30% this
+afternoon. Winds remain light and easterly tomorrow with little
+moisture increases. Rainy conditions are forecast by mid to late 
+week in association with multiple disturbances moving through the 
+region.
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Gadsden     68  39  73  50 /   0   0  10  30 
+Anniston    69  41  74  52 /   0  10  10  30 
+Birmingham  69  45  74  54 /   0  10  10  30 
+Tuscaloosa  70  45  75  54 /   0  10  10  30 
+Calera      70  45  74  55 /   0  10  10  30 
+Auburn      70  48  76  57 /  10  10  10  20 
+Montgomery  72  48  79  58 /  10   0  10  20 
+Troy        74  50  80  58 /  10   0  10  20 
+
+&&
+
+.BMX WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
+
+$$
+
+SHORT TERM...86/Martin
+LONG TERM....40
+AVIATION...16

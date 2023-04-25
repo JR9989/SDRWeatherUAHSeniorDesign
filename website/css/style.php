@@ -111,14 +111,53 @@ img {
 }
 
 /* Image Download Page (downloadImages.php) */
-
 #output {
   margin: auto;
   width: 100%;
   max-width: 800px;
-  min-height: 1200px;
+  min-height: 700px;
+  max-height: 700px;
   position: relative;
   margin-bottom: 50px;
+  padding: 5px;
+  background: rgba(255, 255, 255, 0.36);
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column-reverse;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  overflow: scroll;
+}
+#output1 {
+  margin: auto;
+  width: 100%;
+  max-width: 800px;
+  min-height: 700px;
+  max-height: 700px;
+  position: relative;
+  margin-bottom: 50px;
+  padding: 5px;
+  background: rgba(255, 255, 255, 0.36);
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column-reverse;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  overflow: scroll;
+}
+#output2 {
+  margin: auto;
+  width: 100%;
+  max-width: 800px;
+  min-height: 700px;
+  max-height: 700px;
+  position: relative;
+  margin-bottom: 50px;
+  overflow: scroll;
+  display: flex;
+  flex-direction: column-reverse;
   padding: 5px;
   background: rgba(255, 255, 255, 0.36);
   border-radius: 16px;
@@ -238,10 +277,6 @@ img {
 }
 
 /* Text Gallery Page (text.php) */
-
-form label {
-  font-size: 36px;
-}
 
 .textFileLink {
   display: inline-block;

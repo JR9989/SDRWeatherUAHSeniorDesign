@@ -1,0 +1,87 @@
+FPUS64 KMRX 241639
+SFTMRX
+NCZ060-061-TNZ012>018-035>047-067>074-081>087-098>102-
+VAZ001-002-005-006-008-242200-
+
+Tabular State Forecast for The Morristown Forecast Area
+National Weather Service Morristown TN
+1239 PM EDT Mon Apr 24 2023
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Today    Tue      Wed      Thu      Fri      Sat      Sun      
+   Apr 24   Apr 25   Apr 26   Apr 27   Apr 28   Apr 29   Apr 30   
+
+...EAST TENNESSEE...
+   Tri-Cities Airport
+   Sunny    Ptcldy   Mocldy   Ptcldy   Shwrs    Ptcldy   Ptcldy   
+     /58    31/64    42/60    43/69    51/66    50/71    47/62    
+      /00    00/00    20/40    20/30    50/60    30/40    40/40   
+
+   Mountain City
+   Sunny    Ptcldy   Shwrs    Ptcldy   Shwrs    Shwrs    Shwrs    
+     /57    30/64    38/60    40/66    46/63    45/68    44/62    
+      /00    00/00    20/50    30/30    50/60    40/50    50/50   
+
+   Greeneville
+   Sunny    Ptcldy   Mocldy   Ptcldy   Shwrs    Ptcldy   Ptcldy   
+     /57    33/63    43/58    45/67    52/65    50/70    48/60    
+      /00    00/00    20/40    20/30    50/60    30/40    40/40   
+
+   Jacksboro
+   Sunny    Mocldy   Mocldy   Ptcldy   Shwrs    Ptcldy   Ptcldy   
+     /59    34/66    43/61    43/68    51/68    50/71    45/61    
+      /00    00/00    20/40    20/40    50/50    30/40    40/40   
+
+   Morristown
+   Sunny    Ptcldy   Mocldy   Ptcldy   Shwrs    Ptcldy   Ptcldy   
+     /59    33/65    45/60    46/69    53/68    51/72    48/62    
+      /00    00/00    20/40    20/30    50/50    30/40    40/40   
+
+   Oak Ridge
+   Sunny    Mocldy   Shwrs    Ptcldy   Shwrs    Ptcldy   Ptcldy   
+     /62    35/67    46/61    46/70    54/70    52/73    47/63    
+      /00    00/00    30/50    20/40    50/50    20/40    40/30   
+
+   Knoxville McGhee-Tyson Airport
+   Sunny    Ptcldy   Shwrs    Ptcldy   Shwrs    Ptcldy   Ptcldy   
+     /61    34/67    47/60    47/70    54/70    52/73    49/62    
+      /00    00/00    30/50    20/40    50/50    20/40    40/30   
+
+   Sevierville
+   Sunny    Ptcldy   Shwrs    Ptcldy   Shwrs    Ptcldy   Ptcldy   
+     /61    33/66    45/60    45/70    52/70    50/75    47/63    
+      /00    00/00    20/50    20/30    50/50    30/40    40/40   
+
+   Chattanooga Airport
+   Sunny    Ptcldy   Shwrs    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+     /64    39/71    50/62    50/70    57/72    53/74    48/65    
+      /00    00/10    40/50    30/40    60/40    20/30    30/20   
+
+...SOUTHWEST VIRGINIA...
+   Wise
+   Sunny    Ptcldy   Mocldy   Ptcldy   Shwrs    Ptcldy   Shwrs    
+     /53    30/59    41/57    41/64    49/60    48/66    45/56    
+      /00    00/00    10/30    20/20    50/60    30/40    50/50   
+
+   Abingdon
+   Sunny    Ptcldy   Mocldy   Ptcldy   Shwrs    Ptcldy   Shwrs    
+     /56    30/61    40/58    42/67    49/63    48/69    46/59    
+      /00    00/00    10/40    20/30    50/60    40/40    50/50   
+
+...SOUTHWEST NORTH CAROLINA...
+   Andrews
+   Sunny    Ptcldy   Shwrs    Ptcldy   Shwrs    Ptcldy   Ptcldy   
+     /59    32/65    43/59    45/65    50/67    47/70    43/59    
+      /00    00/00    30/60    30/40    60/60    30/40    40/30   
+
+
+$$
+

@@ -1,0 +1,300 @@
+NOUS41 KBTV 241525
+PNSBTV
+NYZ026>031-034-035-087-VTZ001>011-016>021-250325-
+
+Public Information Statement
+National Weather Service Burlington VT
+1125 AM EDT Mon Apr 24 2023
+
+...PRECIPITATION REPORTS...
+
+Location                     Amount    Time/Date       Provider             
+
+...New York...
+
+...Clinton County...
+Saranac                      0.88 in   0700 AM 04/24   COCORAHS             
+Peru 4.1 ESE                 0.77 in   0600 AM 04/24   COCORAHS             
+Saranac                      0.44 in   1045 AM 04/24   CWOP                 
+Plattsburgh 1 S              0.34 in   0801 AM 04/24   COOP                 
+
+...Essex County...
+Olmstedville 4.6 NNE         1.71 in   0755 AM 04/24   COCORAHS             
+Schroon Lake 3.5 SW          1.63 in   0700 AM 04/24   COCORAHS             
+Vermontville 2.8 S           1.27 in   0709 AM 04/24   COCORAHS             
+Loch Muller                  1.27 in   1056 AM 04/24   CWOP                 
+Lake Placid                  1.18 in   0741 AM 04/24   COOP                 
+0.5 NE Port Henry            0.75 in   1045 AM 04/24   HADS                 
+Mount Van Hoevenberg         0.73 in   0901 AM 04/24   RAWS                 
+Port Henry                   0.68 in   1050 AM 04/24   CWOP                 
+
+...Franklin County...
+0.9 W Malone                 1.24 in   0700 AM 04/24   COOP                 
+Saranac Lake 6.2 N           1.23 in   0619 AM 04/24   COCORAHS             
+Adirondack Airport           1.07 in   1051 AM 04/24   ASOS                 
+
+...St. Lawrence County...
+Potsdam                      0.72 in   1045 AM 04/24   CWOP                 
+2.6 W Gouverneur             0.66 in   0700 AM 04/24   COOP                 
+Heuvelton 0.3 WNW            0.53 in   0600 AM 04/24   COCORAHS             
+Massena Airport              0.51 in   1053 AM 04/24   ASOS                 
+Russell                      0.22 in   1052 AM 04/24   CWOP                 
+
+...Vermont...
+
+...Addison County...
+Hancock 0.3 S                2.18 in   0700 AM 04/24   COCORAHS             
+Starksboro 4.4 ENE           1.37 in   0900 AM 04/24   COCORAHS             
+Middlebury 0.3 N             1.23 in   0700 AM 04/24   COCORAHS             
+Orwell 1.2 WNW               1.13 in   0700 AM 04/24   COCORAHS             
+Monkton 1.5 NE               1.06 in   0730 AM 04/24   COCORAHS             
+Shoreham 3.5 NNE             1.03 in   0800 AM 04/24   COCORAHS             
+New Haven 2.4 SE             0.94 in   0800 AM 04/24   COCORAHS             
+Middlebury                   0.55 in   1100 AM 04/24   CWOP                 
+Middlebury                   0.54 in   1100 AM 04/24   CWOP                 
+
+...Caledonia County...
+Barnet 3.5 W                 1.87 in   0800 AM 04/24   COCORAHS             
+Wells River 2.1 WNW          1.78 in   0626 AM 04/24   COCORAHS             
+Groton 4.4 WSW               1.71 in   0600 AM 04/24   COCORAHS             
+Danville 0.4 N               1.21 in   0700 AM 04/24   COCORAHS             
+St. Johnsbury 5.2 NNW        1.13 in   0700 AM 04/24   COCORAHS             
+St. Johnsbury                1.08 in   1054 AM 04/24   ASOS                 
+Lyndonville 1.1 W            0.93 in   0700 AM 04/24   COCORAHS             
+
+...Chittenden County...
+Huntington 1.1 E             1.85 in   0700 AM 04/24   COCORAHS             
+Nashville 1 E                1.61 in   0645 AM 04/24   COOP                 
+Underhill 5.1 NNE            1.38 in   0650 AM 04/24   COCORAHS             
+Richmond                     1.33 in   0715 AM 04/24   COCORAHS             
+Underhill 4.4 NNE            1.31 in   0700 AM 04/24   COCORAHS             
+Huntington 1.6 SW            1.13 in   0700 AM 04/24   COCORAHS             
+Hinesburg 0.9 N              1.11 in   0720 AM 04/24   COCORAHS             
+South Burlington 2.6 SSW     1.06 in   0755 AM 04/24   COCORAHS             
+Hinesburg 1.5 SW             1.00 in   0700 AM 04/24   COCORAHS             
+Shelburne 0.5 ENE            0.93 in   0730 AM 04/24   COCORAHS             
+Burlington Intl Airport      0.80 in   1054 AM 04/24   ASOS                 
+Williston 0.2 WSW            0.68 in   0700 AM 04/24   COCORAHS             
+Williston 3.2 SSW            0.61 in   0600 AM 04/24   COCORAHS             
+
+...Essex County...
+East Haven 1 S               1.30 in   0700 AM 04/24   COOP                 
+1 NW Maidstone State Park    1.20 in   0800 AM 04/24   Public               
+Island Pond                  0.77 in   0838 AM 04/24   COOP                 
+Lunenburg 2.3 NNW            0.50 in   0500 AM 04/24   COCORAHS             
+
+...Franklin County...
+Enosburg Falls 2.5 N         1.51 in   0700 AM 04/24   COCORAHS             
+Montgomery 4.1 ESE           1.20 in   0700 AM 04/24   COCORAHS             
+Swanton 3.0 SW               0.81 in   0756 AM 04/24   COCORAHS             
+Swanton 0.5 NNE              0.76 in   0700 AM 04/24   COCORAHS             
+Fairfax 4.9 WNW              0.69 in   0900 AM 04/24   COCORAHS             
+
+...Grand Isle County...
+Alburgh                      0.30 in   1045 AM 04/24   CWOP                 
+Grand Isle                   0.30 in   1100 AM 04/24   CWOP                 
+
+...Lamoille County...
+0.8 W Johnson (VTWAC)        2.40 in   1054 AM 04/24   MESOWEST             
+Stowe 2.4 NNW                1.80 in   0800 AM 04/24   COCORAHS             
+Stowe 0.2 SW                 1.78 in   0730 AM 04/24   COCORAHS             
+2.5 N Smugglers Notch        1.21 in   0730 AM 04/24   COOP                 
+
+...Orange County...
+2 SE Strafford               2.10 in   0630 AM 04/24   COCORAHS             
+Braintree 2.8 SW             1.95 in   0700 AM 04/24   COCORAHS             
+1.5 E Corinth Corners        1.86 in   0700 AM 04/24   COOP                 
+Bradford 2.2 NNW             1.60 in   0745 AM 04/24   COCORAHS             
+Chelsea 0.2 ESE              1.53 in   0700 AM 04/24   COCORAHS             
+East Orange                  1.38 in   1045 AM 04/24   HADS                 
+1.2 NE Randolph              1.32 in   1055 AM 04/24   HADS                 
+0.7 NW Union Village         0.60 in   1030 AM 04/24   HADS                 
+
+...Orleans County...
+Craftsbury Common            1.33 in   0700 AM 04/24   COCORAHS             
+East Craftsbury 0.8 NE       1.30 in   0905 AM 04/24   COCORAHS             
+Greensboro 2.1 NNW           1.11 in   0700 AM 04/24   COCORAHS             
+Morgan 6.7 SE                0.98 in   0700 AM 04/24   COCORAHS             
+Greensboro 3.9 NNE           0.84 in   0855 AM 04/24   COCORAHS             
+Westfield 0.8 WNW            0.79 in   0700 AM 04/24   COCORAHS             
+Derby Line 1.9 W             0.54 in   0700 AM 04/24   COCORAHS             
+1.8 SE North Troy            0.28 in   1030 AM 04/24   HADS                 
+
+...Rutland County...
+1.6 NW West Bridgewater      1.45 in   0900 AM 04/24   HADS                 
+West Rutland 1.2 N           1.27 in   0615 AM 04/24   COCORAHS             
+1 N Rutland                  1.26 in   0700 AM 04/24   COOP                 
+Rutland 1.2 N                1.26 in   0700 AM 04/24   COCORAHS             
+1.6 NW West Bridgewater      1.13 in   1030 AM 04/24   HADS                 
+West Rutland 0.9 SSE         1.10 in   0800 AM 04/24   COCORAHS             
+Danby                        0.95 in   1100 AM 04/24   CWOP                 
+Sudbury 2.7 S                0.94 in   0730 AM 04/24   COCORAHS             
+Shrewsbury 0.8 W             0.82 in   0613 AM 04/24   COCORAHS             
+
+...Washington County...
+Warren 2.8 E                 2.08 in   0700 AM 04/24   COCORAHS             
+5 SE Elmore                  2.00 in   0800 AM 04/24   Trained Spotter      
+Northfield 1.2 NNE           1.96 in   0600 AM 04/24   COCORAHS             
+3 NNE Waterbury              1.93 in   0350 AM 04/24   Trained Spotter      
+Berlin 4.3 WNW               1.89 in   0700 AM 04/24   COCORAHS             
+Waterbury 3.0 NW             1.85 in   0600 AM 04/24   COCORAHS             
+5 ENE Worcester              1.84 in   0755 AM 04/24   Trained Spotter      
+Woodbury 3.4 NNW             1.81 in   0700 AM 04/24   COCORAHS             
+Woodbury 1.3 NNW             1.69 in   0800 AM 04/24   COCORAHS             
+Waitsfield 1.8 SE            1.67 in   0600 AM 04/24   COCORAHS             
+1.7 SE Waitsfield            1.67 in   0600 AM 04/24   COOP                 
+1.6 W Worcester              1.67 in   0700 AM 04/24   COOP                 
+Waterbury 3.6 NE             1.66 in   0700 AM 04/24   COCORAHS             
+Middlesex 7.1 NE             1.61 in   0600 AM 04/24   COCORAHS             
+Worcester                    1.43 in   1059 AM 04/24   CWOP                 
+Montpelier Airport           1.25 in   1051 AM 04/24   ASOS                 
+Cabot 2.3 E                  1.24 in   0700 AM 04/24   COCORAHS             
+Plainfield 1 ESE             1.21 in   0700 AM 04/24   COOP                 
+Cabot 3.9 ENE                1.20 in   0900 AM 04/24   COCORAHS             
+4.5 S Waterbury              1.15 in   1000 AM 04/24   HADS                 
+
+...Windsor County...
+0.6 E Woodstock              2.01 in   0800 AM 04/24   COOP                 
+Norwich 1.6 NNE              1.93 in   0700 AM 04/24   COCORAHS             
+Ludlow 3.4 S                 1.86 in   0700 AM 04/24   COCORAHS             
+Windsor                      1.83 in   0955 AM 04/24   CWOP                 
+Pomfret 2.6 N                1.80 in   0700 AM 04/24   COCORAHS             
+Proctorsville 0.3 NNE        1.78 in   0700 AM 04/24   COCORAHS             
+Rochester 2.3 NE             1.71 in   0700 AM 04/24   COCORAHS             
+Springfield Airport          1.64 in   1054 AM 04/24   ASOS                 
+Bethel 3.5 WNW               1.61 in   0755 AM 04/24   COCORAHS             
+Windsor                      1.28 in   0105 PM 04/23   CWOP                 
+Windsor                      1.24 in   1115 AM 04/23   CWOP                 
+Rochester                    0.96 in   1045 AM 04/24   CWOP                 
+Weathersfield 1.0 WNW        0.90 in   0700 AM 04/24   COCORAHS             
+&&
+
+**METADATA**
+:4/24/2023,0801 AM, NY, Clinton, Plattsburgh 1 S, , , 44.6918, -73.4556, RAIN_48, 0.34, Inch, COOP, 48 hour rainfall,
+:4/24/2023,1045 AM, NY, Clinton, Saranac, , , 44.6398, -73.7386, RAIN_48, 0.44, Inch, CWOP, 48 hour rainfall,
+:4/24/2023,0600 AM, NY, Clinton, Peru 4.1 ESE, , , 44.5646, -73.4539, RAIN_48, 0.77, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0700 AM, NY, Clinton, Saranac, , , 44.6398, -73.7385, RAIN_48, 0.88, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,1050 AM, NY, Essex, Port Henry, , , 44.0427, -73.4557, RAIN_48, 0.68, Inch, CWOP, 48 hour rainfall,
+:4/24/2023,0901 AM, NY, Essex, Mount Van Hoevenberg, , , 44.2, -73.9, RAIN_48, 0.73, Inch, RAWS, 48 hour rainfall,
+:4/24/2023,1045 AM, NY, Essex, 0.5 NE Port Henry, , , 44.0525, -73.4533, RAIN_48, 0.75, Inch, HADS, 48 hour rainfall,
+:4/24/2023,0741 AM, NY, Essex, Lake Placid, , , 44.3042, -73.9839, RAIN_48, 1.18, Inch, COOP, 48 hour rainfall,
+:4/24/2023,0709 AM, NY, Essex, Vermontville 2.8 S, , , 44.4121, -74.0676, RAIN_48, 1.27, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,1056 AM, NY, Essex, Loch Muller, , , 43.8527, -73.8808, RAIN_48, 1.27, Inch, CWOP, 48 hour rainfall,
+:4/24/2023,0700 AM, NY, Essex, Schroon Lake 3.5 SW, , , 43.8086, -73.8189, RAIN_48, 1.63, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0755 AM, NY, Essex, Olmstedville 4.6 NNE, , , 43.8335, -73.8978, RAIN_48, 1.71, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,1051 AM, NY, Franklin, Adirondack Airport, , , 44.4, -74.2, RAIN_48, 1.07, Inch, ASOS, 48 hour rainfall,
+:4/24/2023,0619 AM, NY, Franklin, Saranac Lake 6.2 N, , , 44.4136, -74.1521, RAIN_48, 1.23, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0700 AM, NY, Franklin, 0.9 W Malone, , , 44.842, -74.3081, RAIN_48, 1.24, Inch, COOP, 48 hour rainfall,
+:4/24/2023,1052 AM, NY, St. Lawrence, Russell, , , 44.3376, -75.4741, RAIN_48, 0.22, Inch, CWOP, 48 hour rainfall,
+:4/24/2023,1053 AM, NY, St. Lawrence, Massena Airport, , , 44.9333, -74.85, RAIN_48, 0.51, Inch, ASOS, 48 hour rainfall,
+:4/24/2023,0600 AM, NY, St. Lawrence, Heuvelton 0.3 WNW, , , 44.6188, -75.4098, RAIN_48, 0.53, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0700 AM, NY, St. Lawrence, 2.6 W Gouverneur, , , 44.354, -75.5123, RAIN_48, 0.66, Inch, COOP, 48 hour rainfall,
+:4/24/2023,1045 AM, NY, St. Lawrence, Potsdam, , , 44.6623, -74.9983, RAIN_48, 0.72, Inch, CWOP, 48 hour rainfall,
+:4/24/2023,1100 AM, VT, Addison, Middlebury, , , 44.0041, -73.1717, RAIN_48, 0.54, Inch, CWOP, 48 hour rainfall,
+:4/24/2023,1100 AM, VT, Addison, Middlebury, , , 44.0133, -73.1813, RAIN_48, 0.55, Inch, CWOP, 48 hour rainfall,
+:4/24/2023,0800 AM, VT, Addison, New Haven 2.4 SE, , , 44.1006, -73.1172, RAIN_48, 0.94, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0800 AM, VT, Addison, Shoreham 3.5 NNE, , , 43.9418, -73.2832, RAIN_48, 1.03, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0730 AM, VT, Addison, Monkton 1.5 NE, , , 44.2676, -73.0994, RAIN_48, 1.06, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0700 AM, VT, Addison, Orwell 1.2 WNW, , , 43.8119, -73.3197, RAIN_48, 1.13, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0700 AM, VT, Addison, Middlebury 0.3 N, , , 44.0181, -73.1684, RAIN_48, 1.23, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0900 AM, VT, Addison, Starksboro 4.4 ENE, , , 44.2446, -72.9709, RAIN_48, 1.37, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0700 AM, VT, Addison, Hancock 0.3 S, , , 43.9217, -72.8404, RAIN_48, 2.18, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0700 AM, VT, Caledonia, Lyndonville 1.1 W, , , 44.5358, -72.0287, RAIN_48, 0.93, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,1054 AM, VT, Caledonia, St. Johnsbury, , , 44.4167, -72.0167, RAIN_48, 1.08, Inch, ASOS, 48 hour rainfall,
+:4/24/2023,0700 AM, VT, Caledonia, St. Johnsbury 5.2 NNW, , , 44.4849, -72.0701, RAIN_48, 1.13, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0700 AM, VT, Caledonia, Danville 0.4 N, , , 44.4177, -72.1394, RAIN_48, 1.21, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0600 AM, VT, Caledonia, Groton 4.4 WSW, , , 44.1944, -72.2824, RAIN_48, 1.71, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0626 AM, VT, Caledonia, Wells River 2.1 WNW, , , 44.2302, -72.1052, RAIN_48, 1.78, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0800 AM, VT, Caledonia, Barnet 3.5 W, , , 44.3002, -72.1195, RAIN_48, 1.87, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0600 AM, VT, Chittenden, Williston 3.2 SSW, , , 44.3949, -73.0932, RAIN_48, 0.61, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0700 AM, VT, Chittenden, Williston 0.2 WSW, , , 44.4367, -73.0715, RAIN_48, 0.68, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,1054 AM, VT, Chittenden, Burlington Intl Airport, , , 44.4667, -73.15, RAIN_48, 0.80, Inch, ASOS, 48 hour rainfall,
+:4/24/2023,0730 AM, VT, Chittenden, Shelburne 0.5 ENE, , , 44.3826, -73.2177, RAIN_48, 0.93, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0700 AM, VT, Chittenden, Hinesburg 1.5 SW, , , 44.3166, -73.1353, RAIN_48, 1, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0755 AM, VT, Chittenden, South Burlington 2.6 SSW, , , 44.4203, -73.1924, RAIN_48, 1.06, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0720 AM, VT, Chittenden, Hinesburg 0.9 N, , , 44.3414, -73.1117, RAIN_48, 1.11, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0700 AM, VT, Chittenden, Huntington 1.6 SW, , , 44.3065, -73.0052, RAIN_48, 1.13, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0700 AM, VT, Chittenden, Underhill 4.4 NNE, , , 44.5877, -72.9225, RAIN_48, 1.31, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0715 AM, VT, Chittenden, Richmond, , , 44.4082, -72.9971, RAIN_48, 1.33, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0650 AM, VT, Chittenden, Underhill 5.1 NNE, , , 44.5981, -72.9188, RAIN_48, 1.38, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0645 AM, VT, Chittenden, Nashville 1 E, , , 44.4497, -72.9264, RAIN_48, 1.61, Inch, COOP, 48 hour rainfall,
+:4/24/2023,0700 AM, VT, Chittenden, Huntington 1.1 E, , , 44.3249, -72.9657, RAIN_48, 1.85, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0500 AM, VT, Essex, Lunenburg 2.3 NNW, , , 44.4932, -71.7045, RAIN_48, 0.5, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0838 AM, VT, Essex, Island Pond, , , 44.8128, -71.8902, RAIN_48, 0.77, Inch, COOP, 48 hour rainfall,
+:4/24/2023,0800 AM, VT, Essex, 1 NW Maidstone State Park, , , 44.66, -71.65, RAIN, 1.2, Inch, Public, Storm total rainfall,
+:4/24/2023,0700 AM, VT, Essex, East Haven 1 S, , , 44.6425, -71.8912, RAIN_48, 1.3, Inch, COOP, 48 hour rainfall,
+:4/24/2023,0900 AM, VT, Franklin, Fairfax 4.9 WNW, , , 44.6653, -73.0088, RAIN_48, 0.69, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0700 AM, VT, Franklin, Swanton 0.5 NNE, , , 44.9259, -73.1215, RAIN_48, 0.76, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0756 AM, VT, Franklin, Swanton 3.0 SW, , , 44.888, -73.1671, RAIN_48, 0.81, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0700 AM, VT, Franklin, Montgomery 4.1 ESE, , , 44.8766, -72.5623, RAIN_48, 1.2, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0700 AM, VT, Franklin, Enosburg Falls 2.5 N, , , 44.9447, -72.7969, RAIN_48, 1.51, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,1045 AM, VT, Grand Isle, Alburgh, , , 44.9631, -73.2517, RAIN_48, 0.3, Inch, CWOP, 48 hour rainfall,
+:4/24/2023,1100 AM, VT, Grand Isle, Grand Isle, , , 44.7253, -73.308, RAIN_48, 0.3, Inch, CWOP, 48 hour rainfall,
+:4/24/2023,0730 AM, VT, Lamoille, 2.5 N Smugglers Notch, , , 44.5843, -72.787, RAIN_48, 1.21, Inch, COOP, 48 hour rainfall,
+:4/24/2023,0730 AM, VT, Lamoille, Stowe 0.2 SW, , , 44.464, -72.6907, RAIN_48, 1.78, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0800 AM, VT, Lamoille, Stowe 2.4 NNW, , , 44.4993, -72.698, RAIN_48, 1.8, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,1054 AM, VT, Lamoille, 0.8 W Johnson (VTWAC), , , 44.6353, -72.6942, RAIN_48, 2.4, Inch, MESOWEST, 48 hour rainfall,
+:4/24/2023,1030 AM, VT, Orange, 0.7 NW Union Village, , , 43.79, -72.2553, RAIN_48, 0.6, Inch, HADS, 48 hour rainfall,
+:4/24/2023,1055 AM, VT, Orange, 1.2 NE Randolph, , , 43.9344, -72.6583, RAIN_48, 1.32, Inch, HADS, 48 hour rainfall,
+:4/24/2023,1045 AM, VT, Orange, East Orange, , , 44.0928, -72.3361, RAIN_48, 1.38, Inch, HADS, 48 hour rainfall,
+:4/24/2023,0700 AM, VT, Orange, Chelsea 0.2 ESE, , , 43.9873, -72.4441, RAIN_48, 1.53, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0745 AM, VT, Orange, Bradford 2.2 NNW, , , 44.0227, -72.1476, RAIN_48, 1.6, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0700 AM, VT, Orange, 1.5 E Corinth Corners, , , 44.0069, -72.3194, RAIN_48, 1.86, Inch, COOP, 48 hour rainfall,
+:4/24/2023,0700 AM, VT, Orange, Braintree 2.8 SW, , , 43.9357, -72.7483, RAIN_48, 1.95, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0630 AM, VT, Orange, 2 SE Strafford, , , 43.8333, -72.3556, RAIN_48, 2.1, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,1030 AM, VT, Orleans, 1.8 SE North Troy, , , 44.9728, -72.3858, RAIN_48, 0.28, Inch, HADS, 48 hour rainfall,
+:4/24/2023,0700 AM, VT, Orleans, Derby Line 1.9 W, , , 45.0045, -72.1417, RAIN_48, 0.54, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0700 AM, VT, Orleans, Westfield 0.8 WNW, , , 44.8916, -72.4435, RAIN_48, 0.79, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0855 AM, VT, Orleans, Greensboro 3.9 NNE, , , 44.631, -72.28, RAIN_48, 0.84, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0700 AM, VT, Orleans, Morgan 6.7 SE, , , 44.8553, -71.9067, RAIN_48, 0.98, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0700 AM, VT, Orleans, Greensboro 2.1 NNW, , , 44.6053, -72.3094, RAIN_48, 1.11, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0905 AM, VT, Orleans, East Craftsbury 0.8 NE, , , 44.6502, -72.3297, RAIN_48, 1.3, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0700 AM, VT, Orleans, Craftsbury Common, , , 44.6634, -72.3925, RAIN_48, 1.33, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0613 AM, VT, Rutland, Shrewsbury 0.8 W, , , 43.5081, -72.8824, RAIN_48, 0.82, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0730 AM, VT, Rutland, Sudbury 2.7 S, , , 43.7602, -73.195, RAIN_48, 0.94, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,1100 AM, VT, Rutland, Danby, , , 43.3305, -73.0492, RAIN_48, 0.95, Inch, CWOP, 48 hour rainfall,
+:4/24/2023,0800 AM, VT, Rutland, West Rutland 0.9 SSE, , , 43.5806, -73.0407, RAIN_48, 1.1, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,1030 AM, VT, Rutland, 1.6 NW West Bridgewater , , , 43.6222, -72.7594, RAIN_48, 1.13, Inch, HADS, 48 hour rainfall,
+:4/24/2023,0700 AM, VT, Rutland, 1 N Rutland, , , 43.6253, -72.9781, RAIN_48, 1.26, Inch, COOP, 48 hour rainfall,
+:4/24/2023,0700 AM, VT, Rutland, Rutland 1.2 N, , , 43.6253, -72.9779, RAIN_48, 1.26, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0615 AM, VT, Rutland, West Rutland 1.2 N, , , 43.6107, -73.0466, RAIN_48, 1.27, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0900 AM, VT, Rutland, 1.6 NW West Bridgewater , , , 43.6222, -72.7594, RAIN_48, 1.45, Inch, HADS, 48 hour rainfall,
+:4/24/2023,1000 AM, VT, Washington, 4.5 S Waterbury, , , 44.2772, -72.7431, RAIN_48, 1.15, Inch, HADS, 48 hour rainfall,
+:4/24/2023,0900 AM, VT, Washington, Cabot 3.9 ENE, , , 44.4171, -72.235, RAIN_48, 1.2, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0700 AM, VT, Washington, Plainfield 1 ESE, , , 44.2761, -72.415, RAIN_48, 1.21, Inch, COOP, 48 hour rainfall,
+:4/24/2023,0700 AM, VT, Washington, Cabot 2.3 E, , , 44.3981, -72.2657, RAIN_48, 1.24, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,1051 AM, VT, Washington, Montpelier Airport, , , 44.2, -72.5667, RAIN_48, 1.25, Inch, ASOS, 48 hour rainfall,
+:4/24/2023,1059 AM, VT, Washington, Worcester, , , 44.3808, -72.583, RAIN_48, 1.43, Inch, CWOP, 48 hour rainfall,
+:4/24/2023,0600 AM, VT, Washington, Middlesex 7.1 NE, , , 44.3458, -72.5608, RAIN_48, 1.61, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0700 AM, VT, Washington, Waterbury 3.6 NE, , , 44.3715, -72.7022, RAIN_48, 1.66, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0600 AM, VT, Washington, Waitsfield 1.8 SE, , , 44.1755, -72.7954, RAIN_48, 1.67, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0600 AM, VT, Washington, 1.7 SE Waitsfield, , , 44.1756, -72.7961, RAIN_48, 1.67, Inch, COOP, 48 hour rainfall,
+:4/24/2023,0700 AM, VT, Washington, 1.6 W Worcester, , , 44.3747, -72.5822, RAIN_48, 1.67, Inch, COOP, 48 hour rainfall,
+:4/24/2023,0800 AM, VT, Washington, Woodbury 1.3 NNW, , , 44.4576, -72.4267, RAIN_48, 1.69, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0700 AM, VT, Washington, Woodbury 3.4 NNW, , , 44.4883, -72.4326, RAIN_48, 1.81, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0755 AM, VT, Washington, 5 ENE Worcester, , , 44.39, -72.45, RAIN, 1.84, Inch, Trained Spotter, Storm total rainfall,
+:4/24/2023,0600 AM, VT, Washington, Waterbury 3.0 NW, , , 44.3606, -72.8077, RAIN_48, 1.85, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0700 AM, VT, Washington, Berlin 4.3 WNW, , , 44.2336, -72.6561, RAIN_48, 1.89, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0350 AM, VT, Washington, 3 NNE Waterbury, , , 44.38, -72.72, RAIN, 1.93, Inch, Trained Spotter, Storm total rainfall,
+:4/24/2023,0600 AM, VT, Washington, Northfield 1.2 NNE, , , 44.1649, -72.6471, RAIN_48, 1.96, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0800 AM, VT, Washington, 5 SE Elmore, , , 44.4, -72.43, RAIN, 2, Inch, Trained Spotter, Storm total rainfall,
+:4/24/2023,0700 AM, VT, Washington, Warren 2.8 E, , , 44.1121, -72.7989, RAIN_48, 2.08, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0700 AM, VT, Windsor, Weathersfield 1.0 WNW, , , 43.4069, -72.434, RAIN_48, 0.9, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,1045 AM, VT, Windsor, Rochester, , , 43.894, -72.7715, RAIN_48, 0.96, Inch, CWOP, 48 hour rainfall,
+:4/23/2023,1115 AM, VT, Windsor, Windsor, , , 43.4847, -72.3848, RAIN_12, 1.24, Inch, CWOP, 12 hour rainfall,
+:4/23/2023,0105 PM, VT, Windsor, Windsor, , , 43.4847, -72.3848, RAIN_12, 1.28, Inch, CWOP, 12 hour rainfall,
+:4/24/2023,0755 AM, VT, Windsor, Bethel 3.5 WNW, , , 43.8444, -72.7026, RAIN_48, 1.61, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,1054 AM, VT, Windsor, Springfield Airport, , , 43.35, -72.5167, RAIN_48, 1.64, Inch, ASOS, 48 hour rainfall,
+:4/24/2023,0700 AM, VT, Windsor, Rochester 2.3 NE, , , 43.8942, -72.7699, RAIN_48, 1.71, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0700 AM, VT, Windsor, Proctorsville 0.3 NNE, , , 43.3862, -72.6359, RAIN_48, 1.78, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0700 AM, VT, Windsor, Pomfret 2.6 N, , , 43.7423, -72.5255, RAIN_48, 1.8, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0955 AM, VT, Windsor, Windsor, , , 43.4847, -72.3848, RAIN_48, 1.83, Inch, CWOP, 48 hour rainfall,
+:4/24/2023,0700 AM, VT, Windsor, Ludlow 3.4 S, , , 43.3472, -72.6968, RAIN_48, 1.86, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0700 AM, VT, Windsor, Norwich 1.6 NNE, , , 43.735, -72.2938, RAIN_48, 1.93, Inch, COCORAHS, 48 hour rainfall,
+:4/24/2023,0800 AM, VT, Windsor, 0.6 E Woodstock, , , 43.6303, -72.5072, RAIN_48, 2.01, Inch, COOP, 48 hour rainfall,
+
+Observations are collected from a variety of sources with varying
+equipment and exposures. We thank all volunteer weather observers 
+for their dedication. Not all data listed are considered official.
+
+$$

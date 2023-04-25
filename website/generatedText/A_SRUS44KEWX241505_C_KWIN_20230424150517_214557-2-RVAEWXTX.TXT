@@ -1,0 +1,112 @@
+SRUS44 KEWX 241505
+RVAEWX
+TXC019-021-029-031-055-091-123-127-149-163-171-175-177-187-209-255-259-265-271- 
+299-323-453-463-465-491-493-250305-
+Hydrologic Summary
+National Weather Service Austin/San Antonio TX
+1005 AM CDT Mon Apr 24 2023
+
+
+
+South Texas River and Reservoir Summary
+
+
+                                    Flood   Observed   24 Hour
+Location                            Stage    Stage     Change 
+San Gabriel River
+  Georgetown                            9     2.45     -0.17
+
+
+Llano River
+  Llano                                10     1.76     -0.02
+
+
+Pedernales River
+  Fredericksburg                       22     5.74     -0.05
+  Johnson City                         14    10.41     -0.02
+
+
+Colorado River
+  Austin                               33    11.45     -0.13
+  Bastrop                              23     2.89     -0.66
+  La Grange                            26     4.71     -4.27
+
+
+Blanco River
+  Wimberley                            13     3.53     -0.01
+
+
+San Marcos River
+  Luling                               20     4.27     -0.34
+
+
+Guadalupe River
+  Hunt                                 10     7.67      0.00
+  Comfort                              21     3.27      0.01
+  Spring Branch                        30     1.60     -0.08
+  NB Abv Comal                          7     1.74     -0.06
+  Gonzales                             31    12.05     -0.64
+  Cuero                                24    10.89     -1.60
+
+
+Medina River
+  Bandera                              13     3.33     -0.11
+  Hwy 281                              20     6.10      2.27
+
+
+Cibolo Creek
+  Selma                                17     1.41      0.00
+  Sutherland Springs                   21     8.04      0.42
+  Falls City                           17     2.00      0.03
+
+
+San Antonio River
+  San Antonio Loop 410                 12     4.20      0.41
+  Elmendorf                            35    19.86      7.03
+  Floresville                          27    13.69     -3.17
+  near Falls City                      12     3.23     -2.28
+  Hwy 72 nr Runge                      27    22.01      2.98
+
+
+Frio River
+  Dry Frio                             12     1.62      0.00
+  Derby                                 6    -0.76      0.00
+  Concan                               11     3.39      0.00
+
+
+Nueces River
+  Laguna                               10     1.07     -0.01
+  Brackettville                        15     1.04     -0.04
+  Uvalde                               11     1.63      0.00
+  Asherton                             20     0.80      0.00
+
+
+Rio Grande
+  Del Rio                               4     2.59     -0.07
+  Eagle Pass                           16     5.82     -1.96
+
+
+A Statement or forecast will be issued later today for south Texas
+rivers should significant changes be anticipated.
+
+
+South Texas Reservoir Summary
+
+
+                     Normal    Todays    Percent Normal  Release  Precip
+                      Pool      Pool      Pool Capacity    CFS     24HR
+  Lake Buchanan     1020.0    1001.22                         0        
+  Inks Lake          888.0     886.99                         0        
+  Lake LBJ           825.0     824.70                         0        
+  Lake Marble Falls  738.0     736.36                         0        
+  Lake Travis        681.0     638.13                         0        
+  Lake Austin        492.9     492.04                         0        
+  Granger Dam        504.5     504.63                       229        
+  Georgetown Lake    791.0     778.72                         0     0.00
+  Canyon Dam         909.0     897.11                        60        
+  Medina Lake       1064.2    981.27                          
+  Amistad Lake      1117.0    1066.19                                  
+
+
+$$
+

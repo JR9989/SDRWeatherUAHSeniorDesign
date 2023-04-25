@@ -1,0 +1,189 @@
+SRUS41 KRNK 241447
+RVARNK
+DAILY HYDROLOGIC SUMMARY
+NATIONAL WEATHER SERVICE BLACKSBURG VA
+1047 AM EDT Mon Apr 24 2023
+
+Data grouped by river basin in approximate downstream order.
+                                    Snow         Air
+                    24Hr  River    on   24h  Temperatures
+Location            Pcpn  Stage    Gnd  Amt  7am  Max/Min
+________________ ____________________________________________________
+
+
+  JAMES RIVER Basin Headwaters - above Lick Run VA
+Mustoe LARC             
+Williamsville COOP                        
+Williamsville GOES  0.00
+Back Ck at Sunrise  0.00
+Jackson R.Bacova    0.00
+Millboro 0.3 NW CCR 0.00
+Hot Springs COOP    0.00           0   0.0   29   56  29
+Hot Springs LARC        
+Gathright Dam COOP  0.00  1582.07  0   0.0   29   57  29
+Gathright DCP       0.00
+Lime Kiln RAWS      0.00                     36   59  33
+Dunlap Crk DCP      0.00   1.87
+Covington COOP      0.00           0   0.0   30   59  30
+Covington 4.1E CCR  0.00           0   0.0
+Lick Run                   2.83                          
+
+
+  UPPER JAMES RIVER Basin - Lick Run VA to Glasgow VA - including
+  MAURY RIVER sub-basin
+New Castle COOP     0.00           0   0.0              
+Craig Valley RAWS   0.00                     37   58  32
+Glenped RAWS        0.00                     34   67  33
+Lexington 11.5 WSW  0.00
+Rockbridge Baths           1.55
+Lexington COOP      0.00           0   0.0   37   64  32
+Buena Vista COOP    0.00           0   0.0              
+Glasgow COOP        0.00           0   0.0        
+Pedlar Dam COOP     0.00           0   0.0              
+Pedlar Dam GOES     0.00
+
+
+  MIDDLE JAMES RIVER basin - Glasgow VA to Scottsville VA - including
+  UPPER APPOMATTOX RIVER sub-basin
+Big Island COOP     0.00   5.17    0   0.0        
+Lynchburg ASOS      0.00                          
+Bent Creek                 3.78                         
+Concord COOP        0.00           0   0.0              
+Appomattox COOP     0.00           0   0.0   43   66  37
+Buckingham COOP     0.00           0   0.0              
+
+
+  UPPER ROANOKE RIVER Basin Headwaters - abv. Roanoke VA to 
+   Walnut St.(RONV2)gage
+Copper Hill COOP    0.00           0   0.0   29   59  29
+Shawsville IFLWS/SG        0.81
+Glenvar River              2.71
+Cave Spr. 2.4S CCR  0.00              0.0
+Roanoke 5.5SW CCR   0.00            
+Roanoke ASOS        0.00                          
+Roanoke River (10)         1.39
+
+
+  UPPER ROANOKE RIVER - Roanoke VA to Smith Mountain Lake Dam VA
+Roanoke 8N COOP     0.00           0   0.0   35   65  33
+Rocky Mnt.COOP      0.00           0   0.0   38   66  33
+Rocky Mnt. 3.6W CCR 0.00               0.0
+
+
+  MIDDLE ROANOKE RIVER Mainstem - Smith Mtn. Dam to JH Kerr Reservoir
+Bedford COOP        0.00           0   0.0              
+Gladys 0.6S CCR     0.00               0.0
+Chatham COOP        0.00           0   0.0   36   66  36
+Huddleston COOP     0.00                                
+Altavista SG               3.27                         
+Brookneal COOP      0.00   5.92    0   0.0   38   67  37
+Randolph DCP/SG     0.00   8.28                         
+
+
+  DAN RIVER headwaters and SMITH RIVER sub-basin
+Meadows of Dan COOP 0.00           0   0.0   35   64  35
+Stuart COOP         0.00           0   0.0   43   67  36
+Woolwine COOP       0.00           0   0.0              
+Philpott Dam              974.04                  
+Martinsville COOP   0.00           0   0.0   34   67  34
+Danbury COOP        0.00           0   0.0   41   66  41
+Eden COOP           0.00           0   0.0   42   70  40
+Reidsville COOP     0.00           0   0.0   43   68  43
+Reidsville Econet   0.00     
+Wentworth SG (19)          2.26
+Sandy River SG (8)         1.40
+Danville SG (17)           6.11
+Danville ASOS       0.00                          
+Yanceyville  COOP   0.00           0   0.0              
+Paces SG (20)              4.49
+South Boston CP/SG  0.00   8.38    0   0.0   43   85  40
+
+
+  UPPER KANAWHA Basin - NEW RIVER Basin Headwaters - above Galax VA
+Boone DCP           0.00
+Boone COOP          0.00           0   0.0   36   55  32
+Lansing DCP         0.00
+Laurel Econet       0.00     
+Jefferson COOP      0.00           0   0.0   40   56  30
+Mt. Jeff. Econet    0.00     
+Transou COOP        0.00           0   0.0   35   57  34
+Glade Ck DCP        0.00
+Troutdale DCP       0.00
+Independence 1.3 CC 0.00               0.0
+Sparta 3.5SSW COOP  0.00           0   0.0   36   56  30
+Galax DCP           0.00   1.91              
+Galax Wtr Plt COOP  0.00           0   0.0   32   59  32
+Galax 6.1N CCR      0.00               0.0
+
+
+  UPPER KANAWHA - NEW RIVER Basin - Galax VA to Hinton WV - including
+  GREENBRIER RIVER sub-basin
+Stony Fork RAWS     0.00                     31   57  30
+Wytheville COOP     0.00           0   0.0   30   59  30
+Peak Cr blw Hogans  0.00   0.91
+Pulaski COOP        0.00           0   0.0   45   59  28
+Dublin 2.0 SSW CCR  0.00              
+Burkes Garden COOP  0.00           0   0.0   26   54  26
+Bluefield COOP      0.00           0   0.0   29   58  29
+Spanishburg  SG/RG         2.58
+Bluestone R Pipestm 0.00
+Pipestem RAWS       0.00                     35   56  32
+Bland DCP           0.00
+Bastian/Clr Fk DCP  0.00
+Radford SG          0.00   2.76              
+Radford 0.9 WNW CCR 0.00           0   0.0
+Radford COOP                       0         37   60  31
+Willis DCP          0.00
+Christiansburg COOP 0.00           0   0.0   32   60  32
+Blacksburg 5.0W CCR                       
+Blacksburg NWS      0.00           0   0.0   32   61  30
+Pearisburg 4SSE     0.00           0   0.0   30   62  29
+East R. Willowtn SG 0.00   3.35
+Glen Lyn SG                4.39                         
+Indian Ck nr RSS SG 0.00   1.15
+Bluefield AP ASOS   0.00                          
+Princeton COOP      0.00           0   0.0              
+Bluestone Dam       0.00           0   0.0              
+Lewisburg COOP      0.00           0   0.0   31   52  30
+White Sul Spgs COOP 0.00           0   0.0   28   55  28
+Alderson COOP/SG    0.00   3.30    0   0.0   32   56  29
+
+
+  UPPER YADKIN RIVER Basin
+Elk Creek DCP       0.00   1.14            
+W.K.Scott Dam       0.00           0   0.0   42   66  41
+Rendezvous Mtn RAWS 0.00                     38   64  38
+N. Wilkesboro COOP  0.00           0   0.0   43   68  41
+Elkin COOP/SG       0.00   2.67    0   0.0   38   68  35
+Raven Knob RAWS     0.00                     40   68  35
+Mount Airy COOP     0.00           0   0.0   37   67  36
+Mt Airy/Surry Ct AP 0.00
+King COOP           0.00           0   0.0              
+Yadkinville 6E COOP 0.00           0   0.0   42   67  37
+
+
+  TENNESSEE RIVER Basin Headwaters
+  CLINCH RIVER above Richlands VA
+Tazewell DCP        0.00
+Richlands DCP       0.00
+Richlands COOP/SG   0.00   1.63    0   0.0   30   58  30
+
+
+  NORTH FORK HOLSTON RIVER above Saltville VA
+Saltville COOP/SG   0.00           0   0.0   32   60  31
+Saltville DCP       0.00
+
+
+  MIDDLE/SOUTH FORK HOLSTON RIVER
+Marion DCP          0.00
+Konnarock DCP       0.00
+
+
+  WATAUGA RIVER BASIN
+Watauga R/Sugar Gr  0.00   1.91
+
+
+
+ 
+$$
+

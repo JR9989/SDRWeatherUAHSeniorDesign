@@ -1,0 +1,60 @@
+ASUS43 KFSD 241502
+RWRSD 
+
+WEATHER ROUNDUP FOR SOUTH DAKOTA
+NATIONAL WEATHER SERVICE SIOUX FALLS SD
+1000 AM CDT MON APR 24 2023
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+
+SDZ001>005-009-010-012>017-241600-
+NORTHWEST AND NORTH CENTRAL SOUTH DAKOTA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BUFFALO          N/A     47  23  38 SE12      29.92F TC   8           
+FAITH            N/A     46  21  37 SE15      29.99  TC   8           
+MOBRIDGE       SUNNY     44  25  47 E15       30.06S TC   7           
+$$
+ 
+SDZ012>016-024>037-041>051-057-063-072>074-241600-
+SOUTHWEST AND SOUTH CENTRAL SOUTH DAKOTA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+RAPID CTY ARPT SUNNY     41  23  48 SE9       29.95S TC   5           
+PIERRE         SUNNY     45  23  42 E9        30.04F TC   7           
+CUSTER         SUNNY     45  19  35 E7        29.90R TC   7           
+PHILIP         SUNNY     43  27  53 E9        30.00F TC   6           
+PINE RIDGE     SUNNY     46  22  38 SE9       29.93F TC   8           
+SPEARFISH      FAIR      48  21  34 E12       29.90S TC   9           
+WINNER         PTSUNNY   48  26  42 E14       30.03F TC   9           
+$$
+ 
+SDZ004>011-016>023-039-040-241600-
+NORTHEAST SOUTH DAKOTA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ABERDEEN       SUNNY     42  22  44 E16       30.14S TC   6           
+WATERTOWN      SUNNY     40  26  57 NE10      30.12R TC   4           
+BROOKINGS      SUNNY     41  28  60 NE13      30.12S TC   5           
+$$
+ 
+SDZ017-020-022-023-036>040-048>070-241600-
+SOUTHEAST SOUTH DAKOTA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+SIOUX FALLS    NOT AVBL                                               
+HURON          SUNNY     45  27  49 E9        30.10F TC   7           
+MADISON        SUNNY     41  28  60 NE13G18   30.10S TC   5           
+MITCHELL       SUNNY     43  27  53 VRB3      30.10S TC   6           
+YANKTON        MOSUNNY   45  30  55 E5        30.09F TC   7           
+$$
+ 
+ABBREVIATIONS USED IN REMARKS
+   TC - TEMPERATURE IN CELSIUS
+  WCI - WIND CHILL INDEX
+   HX - HEAT INDEX
+  VSB - VISIBILITY
+
+  

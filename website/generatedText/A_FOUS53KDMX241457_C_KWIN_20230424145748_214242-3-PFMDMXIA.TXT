@@ -1,0 +1,353 @@
+FOUS53 KDMX 241457
+PFMDMX
+
+Point Forecast Matrices
+National Weather Service Des Moines IA
+957 AM CDT Mon Apr 24 2023
+
+IAZ060-242200-
+Des Moines-Polk IA
+41.54N  93.65W Elev. 924 ft
+957 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      59          42          55          36          61
+Temp                47 55 58 56 49 46 44 42 46 50 54 53 48 42 39 37 47 56 59 58
+Dewpt               28 30 34 37 39 40 40 39 40 40 39 36 33 31 30 30 32 32 32 31
+RH                  47 38 40 49 68 79 86 89 79 68 57 52 56 65 70 75 56 40 36 36
+Wind dir             S  S  S  E  E  E NE NE NE NE  E  E NE  E  E  E  E  E  E  E
+Wind spd             8  8  6  5  6  6  6  5  8  9  8  8  6 12 10 10 10 10  9  9
+Clouds              B2 B2 B2 B2 OV B2 B2 OV OV B2 B1 SC SC SC B1 SC SC SC FW SC
+PoP 12hr                     20          50          20           5           0
+QPF 12hr                      0        0.11           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                 S  C  C  C  C  S  S                                 
+Tstms                         S  S  S                                          
+Wind chill                                                 36 32 30            
+Min chill              39                38    38          35    29    32      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          41    68      47    59      40    55      40    59
+Temp          44 42 62 63   51 48 54 53   45 41 49 52   44 41 53 55
+Dewpt         30 31 39 40   40 41 42 39   37 35 36 33   34 34 34 32
+PWind dir        SE     S       S     W      NW    NW      NW    NW
+Wind char        GN    GN      GN    GN      GN    BZ      BZ    BZ
+Avg clouds    SC SC B1 B1   B1 B2 B2 B2   B2 B2 B1 B1   B1 B1 B1 B1
+PoP 12hr          0    10      30    50      40    40      20    30
+Rain shwrs                      C  C  C    C  C  C  C    S  S  S  C
+
+$$
+IAZ039-242200-
+Waterloo/Cedar Falls-Black Hawk IA
+42.55N  92.40W Elev. 865 ft
+957 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      57          35          55          31          58
+Temp                45 52 56 55 46 42 36 35 45 52 54 51 42 37 33 32 45 53 57 55
+Dewpt               28 25 27 31 33 32 32 31 33 31 29 27 29 29 28 27 28 28 28 29
+RH                  51 35 32 40 60 67 85 85 62 44 38 39 60 72 82 81 51 38 33 37
+Wind dir             S SW  W  S NE NE NE NE NE NE NE NE NE NE  E  E  E  E SE SE
+Wind spd             4  6  9  5  6  8  6  6  9 10  9 10 10  8  5  5  5  6  6  6
+Clouds              FW SC SC B1 B1 B1 B1 B1 FW SC FW FW FW CL FW FW FW SC FW FW
+PoP 12hr                      5          20          10           5           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                          S  S                                       
+Wind chill                         36    29             36 31 27 26            
+Min chill              37          35    27    30          30    25    30      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          39    65      46    58      40    53      38    55
+Temp          42 40 59 60   51 46 54 52   44 40 50 49   42 40 50 52
+Dewpt         28 28 37 38   38 40 42 40   38 36 38 36   36 35 36 34
+PWind dir        SE     S       S    SE       N     N      NW    NW
+Wind char        GN    GN      GN    GN      GN    BZ      BZ    BZ
+Avg clouds    FW B1 B1 B1   B2 B2 B2 B2   B2 B2 B2 B2   B1 B1 B1 B1
+PoP 12hr          0    20      30    50      40    40      30    30
+Rain shwrs              S    S  C  C  C    C  C  C  C    C  S  C  C
+
+$$
+IAZ048-242200-
+Ames-Story IA
+41.99N  93.62W Elev. 936 ft
+957 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      57          40          55          34          61
+Temp                44 53 55 54 46 43 41 40 44 50 54 53 45 40 36 35 46 55 59 57
+Dewpt               31 31 32 35 38 37 37 36 37 37 36 33 32 30 29 30 31 31 31 31
+RH                  60 43 41 48 73 79 85 85 76 61 50 46 60 67 75 82 55 40 34 37
+Wind dir            SE  S  S SE  E  E NE NE NE  E NE NE NE  E  E  E  E  E  E SE
+Wind spd             4  6  6  5  6  9  8  6  8  9  8  8  9 11 10  8  9  9  8  8
+Clouds              B1 B1 B1 B2 B2 B2 B2 OV OV B1 B1 SC SC FW FW FW SC FW FW SC
+PoP 12hr                     20          70          40           5           0
+QPF 12hr                      0        0.19        0.02           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                    C  C  L  L  C  C                                 
+Wind chill                                                 33 29 28            
+Min chill              37          36    34    35          32    27    32      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          40    67      46    59      40    55      38    57
+Temp          42 41 61 62   51 46 53 52   43 40 50 50   42 40 52 53
+Dewpt         30 32 40 40   40 41 41 39   37 34 36 34   35 35 34 32
+PWind dir        SE     S       S    NW       N    NW      NW    NW
+Wind char        GN    GN      GN    GN      GN    BZ      BZ    BZ
+Avg clouds    SC SC B1 B1   B1 B2 B2 B2   B2 B2 B2 B1   B1 B1 B1 B1
+PoP 12hr          0    20      30    50      40    40      20    30
+Rain shwrs              S       C  C  C    C  C  C  C    S  S  S  C
+
+$$
+IAZ004-242200-
+Estherville-Emmet IA
+43.40N  94.75W Elev. 1315 ft
+957 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      55          31          53          30          59
+Temp                43 51 53 52 41 36 32 31 41 49 52 49 40 36 32 31 43 52 56 55
+Dewpt               27 26 25 27 28 28 27 27 29 26 25 25 27 27 26 26 28 30 31 31
+RH                  53 37 33 38 59 72 81 85 62 40 35 39 59 69 78 81 55 43 38 40
+Wind dir             N  N  N NE NE NE NE NE NE  E NE NE NE  E  E  E SE SE  S  S
+Wind spd             5  5  6 10 12 10  8  9 12 12 11 12 10  9  6  6  9  9  9 10
+Clouds              CL SC SC SC SC SC SC FW FW FW FW CL FW FW FW FW SC SC FW SC
+PoP 12hr                      5          10           5           5           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Wind chill                      34 29 25 23 34          33 29 26 25            
+Min chill              34          27    23    25          28    23    27      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          44    65      43    53      37    50      36    54
+Temp          46 44 58 58   48 43 48 48   41 37 46 46   39 37 48 50
+Dewpt         31 35 40 38   40 39 37 34   34 32 33 33   33 32 33 32
+PWind dir         S    SW       S    NW       N     N      NW    NW
+Wind char        BZ    GN      GN    BZ      BZ    BZ      BZ    BZ
+Avg clouds    SC B2 B1 B1   B2 B2 B2 B2   B2 B1 B1 B2   B1 B1 B1 B1
+PoP 12hr         20    20      50    50      30    30      20    30
+Rain shwrs        S  S  S    C  C  C  C    C  C  C  C    S  S  S  C
+Tstms                   S                                          
+
+$$
+IAZ035-242200-
+Fort Dodge-Webster IA
+42.55N  94.18W Elev. 1165 ft
+957 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      57          36          55          31          61
+Temp                47 54 55 54 45 40 37 36 44 51 54 52 43 37 33 32 46 55 58 57
+Dewpt               29 28 29 30 32 32 33 32 33 33 31 28 29 28 28 28 31 30 30 29
+RH                  49 36 37 40 60 73 85 85 65 50 41 39 57 70 82 85 55 38 34 34
+Wind dir             S SE  S  E NE  E NE NE NE  E NE NE  E  E  E  E  E  E SE SE
+Wind spd             4  4  5  5 10 10  9  8  9 10 10 10  8 10  9  6  9  9  8  9
+Clouds              FW FW SC SC B1 B2 B2 B2 B1 SC SC FW SC FW FW SC SC SC FW SC
+PoP 12hr                      5          70          30           5           0
+QPF 12hr                      0        0.47           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                       C  C  L  C                                    
+Wind chill                         34 30 30                30 25 26            
+Min chill                          32    29    30          30    24    30      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          41    67      45    57      37    53      37    56
+Temp          44 43 61 61   49 45 52 50   42 38 48 49   40 38 51 52
+Dewpt         30 33 40 39   42 41 39 36   35 34 34 33   34 34 33 32
+PWind dir         S    SW       S    NW       N     N      NW    NW
+Wind char        GN    BZ      GN    GN      GN    BZ      BZ    BZ
+Avg clouds    SC B1 B1 B1   B2 B2 B2 B2   B2 B2 B1 B1   B1 B1 B1 B1
+PoP 12hr          5    20      40    50      40    40      20    30
+Rain shwrs           S  S    S  C  C  C    C  C  C  C    S  S  S  C
+Tstms                   S                                          
+
+$$
+IAZ094-242200-
+Lamoni-Decatur IA
+40.63N  93.90W Elev. 1125 ft
+957 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      62          41          60          40          62
+Temp                47 54 62 59 51 46 42 41 50 57 59 56 50 46 43 40 49 58 60 59
+Dewpt               29 33 36 39 39 39 39 39 42 43 43 39 37 34 33 33 34 35 33 32
+RH                  49 45 38 47 63 76 89 92 74 59 55 53 61 63 67 76 56 42 36 36
+Wind dir             S  S SW SE  E SE SW SW  W NE NE NE NE NE  E  E  E  E  E  E
+Wind spd             9  9 10  6  6  8  6  5  8  5  9 10 11 11 12 11 13 11 10 10
+Clouds              OV B2 B2 B2 B2 B1 B1 B1 B1 B2 B1 B1 B2 B1 B1 B1 B1 SC SC SC
+PoP 12hr                     20          20          10           5           5
+QPF 12hr                   0.01        0.01           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                    S     S  S                                       
+Tstms                         S     S                                          
+Wind chill                                                    36 33            
+Min chill                                36    38                33    35      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          40    66      46    59      40    53      39    59
+Temp          45 41 62 62   49 46 55 53   44 40 50 50   42 39 54 55
+Dewpt         33 34 40 40   39 42 43 39   37 36 36 34   33 33 34 32
+PWind dir         E     S       S     W      NW    NW      NW    NW
+Wind char        GN    GN      GN    GN      GN    BZ      BZ    BZ
+Avg clouds    SC SC SC B1   B1 B1 B2 B2   B2 B2 B1 B1   B1 B1 B1 SC
+PoP 12hr          5     5      20    50      40    40      20    20
+Rain shwrs                      S  C  C    C  C  C  C    S  S  S  S
+
+$$
+IAZ017-242200-
+Mason City-Cerro Gordo IA
+43.16N  93.33W Elev. 1189 ft
+957 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      54          31          52          29          58
+Temp                45 50 53 51 40 35 32 31 42 49 51 48 39 35 31 30 43 52 55 54
+Dewpt               28 28 27 28 29 29 28 28 30 28 26 26 28 27 26 26 28 29 28 29
+RH                  51 42 36 41 64 78 85 88 62 44 37 42 64 72 81 85 55 41 35 38
+Wind dir            SW  W NW  N NE NE NE NE NE NE NE NE NE  E  E  E SE SE SE SE
+Wind spd             5  5  8  8  9  9  8  8 11 10  9 10  9  8  5  5  6  6  6  8
+Clouds              SC SC SC SC B1 SC SC SC FW FW FW FW FW FW FW FW FW FW FW SC
+PoP 12hr                      5          10           5           5           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Wind chill                      34 28 25 24 36          33 28 25 24            
+Min chill              38          28    23    25          27    23    28      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          40    64      44    54      37    51      36    53
+Temp          42 41 58 58   48 45 51 49   41 38 47 47   39 38 48 49
+Dewpt         29 32 39 40   41 41 41 37   36 34 36 35   35 34 35 33
+PWind dir         S    SW       S    NW       N     N      NW    NW
+Wind char        GN    BZ      GN    GN      GN    BZ      BZ    BZ
+Avg clouds    SC B1 B2 B1   B2 B2 B2 B2   B2 B2 B1 B1   B1 B1 B1 B1
+PoP 12hr          5    20      40    50      40    40      30    30
+Rain shwrs           S  S    S  C  C  C    C  C  C  C    C  S  S  C
+Tstms                   S    S                                     
+
+$$
+IAZ049-242200-
+Marshalltown-Marshall IA
+42.11N  92.91W Elev. 972 ft
+957 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      55          37          55          31          58
+Temp                46 53 54 52 43 42 39 38 44 51 54 51 42 37 33 32 45 53 57 55
+Dewpt               28 27 30 33 34 36 35 34 36 35 32 30 29 29 28 28 29 29 28 29
+RH                  49 36 40 48 70 79 85 85 73 54 43 44 60 72 82 85 53 39 33 37
+Wind dir             S  S  S SE  E  E NE NE NE NE NE NE NE NE  E  E  E  E  E SE
+Wind spd             5  5  8  5  8  8  6  6  8  8  8  8 10 10  8  5  8  8  8  6
+Clouds              SC B1 B1 B1 B1 B2 B2 B2 B1 SC SC FW FW FW FW FW FW FW FW FW
+PoP 12hr                     10          70          40           5           0
+QPF 12hr                      0        0.50        0.03           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                    S  C  L  L  C  S                                 
+Wind chill                                              36 30 26 26            
+Min chill              39          36    32    33          30    25    30      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          37    65      44    57      38    53      37    55
+Temp          40 39 59 60   49 45 54 51   42 39 49 48   40 38 51 51
+Dewpt         28 29 37 38   39 40 41 39   37 35 36 34   35 34 34 33
+PWind dir        SE     S       S     S       N     N      NW    NW
+Wind char        GN    GN      GN    GN      GN    BZ      BZ    BZ
+Avg clouds    FW SC B1 B1   B1 B2 B2 B2   B2 B2 B2 B1   B1 B1 B1 B1
+PoP 12hr          0    10      30    50      40    40      30    30
+Rain shwrs              S    S  C  C  C    C  C  C  C    C  S  S  C
+
+$$
+IAZ086-242200-
+Ottumwa-Wapello IA
+41.11N  92.45W Elev. 836 ft
+957 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      58          42          56          37          61
+Temp                48 54 55 55 48 46 43 43 46 52 55 54 47 43 39 37 47 56 59 57
+Dewpt               31 31 33 37 40 41 42 41 42 42 41 37 34 32 31 30 30 31 31 31
+RH                  51 41 43 51 74 83 96 93 86 69 59 52 60 65 73 75 51 38 34 37
+Wind dir             S  S  S SE  E  E  E NE NE NE NE NE NE NE  E  E  E  E  E  E
+Wind spd             8  9  9  6  8  6  5  4  5  8  8  9  9 12 11 10 10 10 10  8
+Clouds              B2 B1 B2 B2 OV OV B2 OV OV B2 B1 B1 SC SC B1 SC FW SC SC SC
+PoP 12hr                     20          50          20           5           0
+QPF 12hr                      0        0.07           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                    C  C  C  C  S  S                                 
+Tstms                            S  S                                          
+Wind chill                                                 36 32 30            
+Min chill              39                38    39          35    29    32      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          39    67      45    62      40    55      39    57
+Temp          42 40 62 62   49 46 58 55   46 42 50 51   43 41 52 54
+Dewpt         30 31 38 39   39 40 43 43   40 38 38 37   36 36 37 35
+PWind dir         E     S       S    SW      NW    NW      NW    NW
+Wind char        GN    GN      GN    GN      GN    BZ      BZ    BZ
+Avg clouds    FW SC SC B1   B1 B1 B2 B2   B2 B2 B2 B1   B1 B1 B1 B1
+PoP 12hr          0     5      10    50      40    40      30    30
+Rain shwrs                         C  C    C  C  C  C    C  S  C  C
+
+$$

@@ -1,0 +1,93 @@
+ASUS46 KPQR 241510
+RWROR 
+
+OREGON REGIONAL WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE PORTLAND OR
+800 AM PDT MON APR 24 2023
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH
+NO SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+ORZ001>013-241600-
+NORTHWEST OREGON
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ASTORIA        CLOUDY    46  44  93 SW3       30.10R                  
+TILLAMOOK      CLOUDY    46  45  93 CALM      30.14R                  
+NEWPORT        PTSUNNY   46  43  87 W5        30.17R                  
+FLORENCE       CLOUDY    50  45  81 NW3       30.16R                  
+PORTLAND       PTSUNNY   49  42  77 SW6       30.12R                  
+VANCOUVER WA   NOT AVBL                                               
+SCAPPOOSE      CLOUDY    46  42  86 CALM      30.11R                  
+HILLSBORO      PTSUNNY   47  42  83 S5        30.11R                  
+AURORA         CLOUDY    47  43  86 VRB5      30.13R                  
+MCMINNVILLE    PTSUNNY   47  43  86 SW8       30.12R                  
+SALEM          MOSUNNY   48  44  86 S7        30.12R                  
+CORVALLIS      CLOUDY    46  43  87 S5        30.16R                  
+EUGENE         PTSUNNY   48  44  86 S7        30.16R                  
+CRESWELL       CLOUDY    48  46  93 SW8       30.15R                  
+$$
+
+ORZ021-028-241600-
+SOUTHWEST OREGON
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+NORTH BEND     CLOUDY    48  47  96 SE5       30.19R                  
+BROOKINGS      CLOUDY    48  46  93 CALM      30.17R                  
+ROSEBURG       PTSUNNY   48  42  80 N3        30.16R                  
+SEXTON SUMMIT  CLOUDY    35  34  96 CALM      30.08R FOG              
+GRANTS PASS    CLOUDY    45  39  81 CALM      30.17R                  
+MEDFORD        CLOUDY    47  37  68 CALM      30.13R                  
+$$
+
+ORZ014>016-041-241600-
+COLUMBIA GORGE
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+TROUTDALE      CLOUDY    50  43  77 CALM      30.12R                  
+HOOD RIVER     LGT RAIN  45  43  93 CALM      30.07R                  
+THE DALLES     CLOUDY    50  41  71 W13       30.05R                  
+$$
+
+ORZ029>031-041-044-049-050-061>064-502-503-505>511-241600-
+EASTERN OREGON
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MADRAS         CLOUDY   N/A N/A N/A W3        30.06R                  
+REDMOND        MOSUNNY   45  28  51 W12G17    30.02R                  
+BEND           PTSUNNY   41  30  65 NE5       30.02R                  
+PRINEVILLE     SUNNY     43  30  61 W14       30.03R                  
+KLAMATH FALLS  SUNNY     38  29  70 VRB3      30.05R                  
+LAKEVIEW       SUNNY     41  27  57 W6        30.01R                  
+HERMISTON      CLOUDY    50  38  63 SW21G30   29.99R                  
+PENDLETON      CLOUDY    48  36  63 W15       29.98R                  
+JOHN DAY       CLOUDY    39  31  73 W9        29.98R                  
+MEACHAM        LGT SNOW  35  32  88 VRB3      29.95R FOG              
+LA GRANDE      LGT RAIN  42  35  76 NW10      29.98R                  
+BAKER CITY     PTSUNNY   43  31  62 N20       29.93R                  
+BURNS          SUNNY     42  28  57 NW13      29.98R                  
+ROME             N/A     46  33  60 NW8       29.92R                  
+ONTARIO        CLOUDY    51  35  54 NW23G32   29.90R                  
+$$
+
+
+OTHER REGIONAL REPORTS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+SEATTLE        CLOUDY    45  41  86 SW10      30.06R                  
+SPOKANE        PTSUNNY   42  36  79 SW18      29.87R                  
+VANCOUVER BC   PTSUNNY   46  46 100 E5        30.03R                  
+PRINCE GEORGE  CLOUDY    41  39  93 SW6       29.84                   
+DAWSON CREEK   CLOUDY    39  32  75 N5        29.83R                  
+WHITEHORSE     LGT SNOW  32  32 100 VRB2      29.50F                  
+BOISE          PTSUNNY   49  42  77 W12       29.88R                  
+REDDING        SUNNY     55  41  59 N6        29.95R                  
+SAN FRANCISCO  MOSUNNY   53  45  74 W15       30.00R                  
+
+$$
+
+  

@@ -1,0 +1,51 @@
+ASUS43 KLMK 241502
+RWRKY 
+KENTUCKY REGIONAL WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE LOUISVILLE KY
+1100 AM EDT MON APR 24 2023
+
+NOTE "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET
+WITH NO SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+KYZ001>023-026-027-061>063-070>075-241600-
+WESTERN AND SOUTH CENTRAL KENTUCKY
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PADUCAH        SUNNY     51  35  54 VRB3      30.26R                  
+HENDERSON      SUNNY     49  27  42 NE3       30.29R                  
+OWENSBORO      SUNNY     48  26  42 N5        30.28R                  
+HOPKINSVILLE   NOT AVBL                                               
+BOWLING GREEN  SUNNY     52  32  46 VRB5      30.26R                  
+GLASGOW        NOT AVBL                                               
+$$
+
+KYZ024-025-028>034-038-045-046-053-241600-
+NORTH CENTRAL KENTUCKY
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+LOUISVILLE/SDF NOT AVBL                                               
+LOUISVILLE/LOU SUNNY     46  22  38 NW8G21    30.25R                  
+FORT KNOX      NOT AVBL                                               
+$$
+
+KYZ035>037-039>044-047>052-055>060-089>105-241600-
+NORTHEAST KENTUCKY
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+LEXINGTON      SUNNY     49  28  44 NW12      30.22R                  
+COVINGTON      PTSUNNY   42  27  55 NW6       30.22R                  
+FRANKFORT      SUNNY     45  24  43 W10G23    30.23R                  
+$$
+
+KYZ054-064>069-076>088-106>120-241600-
+SOUTHEAST KENTUCKY
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+JACKSON        MOSUNNY   50  28  42 VRB3      30.20R                  
+LONDON           N/A     50  29  44 MISG      30.22R                  
+SOMERSET       NOT AVBL                                               
+MIDDLESBORO    NOT AVBL                                               
+MONTICELLO     MOSUNNY   49  27  42 VRB5      30.25S                  
+$$
+
+  

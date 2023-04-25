@@ -1,0 +1,150 @@
+FXUS64 KLUB 241516 AAA
+AFDLUB
+
+Area Forecast Discussion...UPDATED
+National Weather Service Lubbock TX
+1016 AM CDT Mon Apr 24 2023
+
+...New UPDATE...
+
+.UPDATE...
+Issued at 1016 AM CDT Mon Apr 24 2023
+
+Quick update to adjust today's temps, sky cover and PoPs for 
+recent observed and model trends. Visible satellite shows stratus 
+is backed well into eastern NM on moist SSE winds, although this 
+is likely to begin eroding slowly towards the state line this 
+afternoon as winds veer more SSW ahead of a surface trough. On 
+the Caprock meanwhile, we should still see stratus thinning enough
+by mid/late afternoon for highs to reach near 60, but highs were 
+cooled a bit near the NM border as this window for heating looks 
+much smaller per recent hi-res guidance.
+
+Rain-wise, a narrow axis of light showers across the southern 
+South Plains looks to continue on/off through the afternoon as 
+steady isentropic ascent lingers around 295K, but measurable 
+rainfall should prove spotty. Unless stratus can clear 
+sufficiently in our NW zones this afternoon, chances for TS 
+surviving their trek ESE from NM are looking less. Removed 
+thunder mention in these areas for the afternoon as it appears 
+this convection will stand a better chance of arriving closer to 
+sunset, although with surface-based instability tapering by this 
+time and not much elevated CAPE available, prospects for precip in
+our NW zones this evening are looking even lower.
+
+&&
+
+.SHORT TERM...
+(Today and tonight)
+Issued at 331 AM CDT Mon Apr 24 2023
+
+Overall precipitation chances will not be spectacular today mostly 
+because of a lack of large scale forcing. Moist isentropic ascent 
+will continue to increase this morning. But this shallow lift will 
+be under weak short wave ridging bringing some subsidence overhead. 
+It remains to be seen if the weak isentropic lift would be enough to 
+create light rain showers but chances are not great. However, there 
+is a better possibility of drizzle underneath the low stratus this 
+morning. Low stratus is expected to clear out in the afternoon as a 
+very weak short wave trough approaches the area within westerly flow 
+aloft. This short wave will only provide meager lift to the area 
+this afternoon through early evening. A surface pressure trough will 
+develop in eastern New Mexico this afternoon which may provide 
+sufficient low level convergence for convective development. With 
+skies expected to clear out west of the FA today, surface based 
+instability will be able to develop with values only on the order of 
+500-1000 J/kg or so. These values will rapidly decrease once in West 
+Texas with much of the western South Plains still remaining in cool 
+southerly to southeasterly flow. Severe storms are highly unlikely 
+given the weak lift and instability present in the atmosphere. Cloud 
+cover will keep much of the area much cooler than seasonal averages 
+again with the coolest air off the caprock. Areas near the Texas/New 
+Mexico state line will see some additional warming with anticipated 
+decreasing cloud cover this afternoon. For tonight, moist isentropic 
+ascent will again increase bringing possible very light rain 
+showers.
+
+&&
+
+.LONG TERM...
+(Tuesday through Sunday)
+Issued at 331 AM CDT Mon Apr 24 2023
+
+Unsettled weather is set to continue through midweek as a series of 
+upper level disturbances transits over the region. A messy surface 
+pattern will take shape on Tuesday as a warm front lifts slowly 
+northward over the Red River as surface troughing deepens over NE
+New Mexico and a dryline attempts to sharpen over the South 
+Plains region. Early day warm advection rain showers are expected 
+over the Rolling Plains and the SE TX Panhandle while cloud cover 
+gradually clears over the SW Panhandle and South Plains as low 
+level flow veers more westerly and begins eroding the low level 
+moist layer. This reduction in cloud cover will allow temperatures
+to rise into the lower 80s over the SW South Plains with areas 
+off the Caprock expected to remain relatively cool through Tuesday
+afternoon as cloud cover and moist advection continues. 
+
+Things look potentially more active Tuesday afternoon into Tuesday 
+night as stronger broad-scale forcing arrives ahead of a compact 
+deep upper low diving SE-ward over the Four Corners. Guidance has 
+come into better agreement in the evolution of this feature with 
+most solutions bringing the low center a bit further southward 
+compared to prior runs. The associated increase in upper level 
+forcing combined with enhanced low level convergence associated with 
+both the weakening warm front and a sharpening dryline have resulted 
+in increased chances for thunderstorms Tuesday afternoon into 
+Tuesday night especially across the far southern TX Panhandle and 
+the northern Rolling Plains. There is still quite a bit of 
+uncertainty regarding the timing of convective initiation and 
+coverage late Tuesday mainly due to concerns about the longevity of 
+what will likely be a fairly robust capping inversion. Nevertheless, 
+steepening midlevel lapse rates and the presence of a healthy EML 
+will likely result in MUCAPE values in excess of 1500 J/kg by 
+Tuesday evening. Effective shear is more modest, but strongly backed 
+surface flow behind the warm front lifting northward into Oklahoma 
+suggest a few severe thunderstorms will be possible Tuesday evening 
+into Tuesday night, especially over the far southern TX Panhandle. 
+Blended PoPs were left largely intact Tuesday through Tuesday night 
+given uncertainty of the positioning of surface features, but there 
+will likely be a sharp cutoff in precipitation across the SW South 
+Plains.
+
+Shower chances will continue on Wednesday across most of the region 
+as the upper low tracks over the TX Panhandle. Lingering instability 
+and cool temperatures aloft will allow for a few additional 
+thunderstorms however coverage in both storms and precipitation in 
+general is expected to decrease quickly heading into Wednesday 
+evening as a more stable airmass surges southward into the region. 
+Thursday looks to be dry and mild ahead of the arrival of another 
+cold front on Friday. Guidance has been trending faster with this 
+front with Friday now showing good potential to be a breezy and 
+relatively cool day. A few weak showers are possible behind the 
+front Friday night mainly off the Caprock, but most areas will 
+remain dry. Cool temperatures and a continuing northerly breeze 
+continue Saturday before more seasonable temperatures return on 
+Sunday.
+
+&&
+
+.AVIATION...
+(12Z TAFS)
+Issued at 616 AM CDT Mon Apr 24 2023
+
+Low CIGS will likely persist at all TAF sites for much of today.
+Borderline MVFR/IFR CIGS at the moment are expected to drop into
+IFR within a few hours as very light rain or drizzle expands
+across the region. CIGS may improve this afternoon as
+precipitation ends but a return to IFR is again expected tonight. 
+
+&&
+
+.LUB WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
+
+$$
+
+UPDATE...93
+SHORT TERM...01
+LONG TERM....30
+AVIATION...01

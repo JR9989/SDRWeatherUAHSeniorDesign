@@ -1,0 +1,487 @@
+FPUS51 KCAR 241534
+ZFPCAR
+
+Zone Forecast Product for Maine
+National Weather Service Caribou ME
+1134 AM EDT Mon Apr 24 2023
+
+MEZ001-242300-
+Northwest Aroostook-
+Including the cities of Allagash, Clayton Lake, Madawaska, 
+Fort Kent, and Frenchville
+1134 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Cloudy with scattered showers. Highs around 50.
+East winds 10 to 15 mph. Chance of rain 40 percent. 
+.TONIGHT...Rain likely in the evening, then rain and snow showers
+after midnight. Little or no snow accumulation. Lows in the mid
+30s. East winds 5 to 10 mph. Chance of precipitation 90 percent. 
+.TUESDAY...Cloudy. Patchy fog in the morning. Rain showers likely
+mixed with snow early in the morning, then a chance of rain 
+showers in the afternoon. Highs in the upper 40s. East winds 5 to 
+10 mph. Chance of precipitation 70 percent. 
+.TUESDAY NIGHT...Cloudy with a 50 percent chance of rain showers.
+Lows in the mid 30s. Southeast winds around 5 mph. 
+.WEDNESDAY...Cloudy with a 50 percent chance of rain showers.
+Highs in the upper 40s. Southeast winds around 5 mph. 
+.WEDNESDAY NIGHT...Partly cloudy. A chance of rain showers,
+mainly in the evening. Lows in the lower 30s. Chance of rain
+30 percent. 
+.THURSDAY...Mostly cloudy with a 50 percent chance of rain
+showers. Highs in the lower 50s. 
+.THURSDAY NIGHT...Mostly cloudy in the evening, then becoming
+partly cloudy. Lows in the lower 30s. 
+.FRIDAY...Partly sunny. Highs in the upper 50s. 
+.FRIDAY NIGHT...Partly cloudy. Lows in the mid 30s. 
+.SATURDAY...Partly sunny. Highs in the upper 50s. 
+.SATURDAY NIGHT...Partly cloudy. Lows in the mid 30s. 
+.SUNDAY...Partly sunny. Highs in the upper 50s. 
+
+$$
+
+MEZ002-242300-
+Northeast Aroostook-
+Including the cities of Presque Isle, Caribou, Van Buren, 
+Mars Hill, and Ashland
+1134 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Mostly cloudy with isolated showers. Highs in 
+the lower 50s. East winds 10 to 15 mph. Chance of rain 20 percent.
+.TONIGHT...Cloudy. Rain likely in the evening, then rain showers
+likely after midnight. Lows in the upper 30s. East winds 5 to
+10 mph. Chance of rain 70 percent. 
+.TUESDAY...Cloudy. A chance of rain showers. Highs in the upper 
+40s. East winds 5 to 10 mph. Chance of rain 50 percent. 
+.TUESDAY NIGHT...Cloudy with a 50 percent chance of rain showers.
+Lows in the upper 30s. Southeast winds around 5 mph. 
+.WEDNESDAY...Cloudy with a 50 percent chance of rain showers.
+Highs in the lower 50s. Southeast winds around 5 mph. 
+.WEDNESDAY NIGHT...Partly cloudy. A chance of rain showers,
+mainly in the evening. Lows in the mid 30s. Chance of rain
+30 percent. 
+.THURSDAY...Mostly cloudy with a 50 percent chance of rain
+showers. Highs in the lower 50s. 
+.THURSDAY NIGHT...Mostly cloudy with a chance of rain showers in
+the evening, then partly cloudy after midnight. Lows in the mid
+30s. Chance of rain 30 percent. 
+.FRIDAY...Partly sunny. Highs in the upper 50s. 
+.FRIDAY NIGHT...Partly cloudy. Lows in the mid 30s. 
+.SATURDAY...Partly sunny. Highs in the upper 50s. 
+.SATURDAY NIGHT...Partly cloudy. Lows in the upper 30s. 
+.SUNDAY...Partly sunny. Highs in the upper 50s. 
+
+$$
+
+MEZ003-242300-
+Northern Somerset-
+Including the cities of Baker Lake and Billy-Jack Depot
+1134 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Rain. Highs in the lower 40s. Southeast winds 
+10 to 15 mph. Chance of rain 80 percent. 
+.TONIGHT...Rain likely in the evening, then rain showers likely
+after midnight. Patchy fog. Lows in the mid 30s. Southeast winds
+5 to 10 mph with gusts up to 20 mph. Chance of rain 70 percent. 
+.TUESDAY...Patchy fog in the morning. Rain showers likely. Highs
+in the mid 40s. Southeast winds 5 to 10 mph with gusts up to
+20 mph. Chance of rain 70 percent. 
+.TUESDAY NIGHT...Cloudy. Rain showers likely, mainly in the
+evening. Lows in the mid 30s. Southeast winds 5 to 10 mph. Chance
+of rain 60 percent. 
+.WEDNESDAY...Cloudy with a 50 percent chance of rain showers.
+Highs in the upper 40s. Southeast winds 5 to 10 mph. 
+.WEDNESDAY NIGHT...Partly cloudy. A chance of rain showers in the
+evening, then a slight chance of snow and rain showers after
+midnight. Lows in the lower 30s. Chance of precipitation
+30 percent. 
+.THURSDAY...Mostly cloudy with a 50 percent chance of rain
+showers. Highs around 50. 
+.THURSDAY NIGHT...Partly cloudy. Lows in the lower 30s. 
+.FRIDAY...Partly sunny. Highs in the mid 50s. 
+.FRIDAY NIGHT...Partly cloudy. Lows in the mid 30s. 
+.SATURDAY...Partly sunny. Highs in the upper 50s. 
+.SATURDAY NIGHT...Partly cloudy. Lows in the mid 30s. 
+.SUNDAY...Partly sunny in the morning, then becoming mostly
+cloudy. Highs in the mid 50s. 
+
+$$
+
+MEZ004-242300-
+Northern Piscataquis-
+Including the cities of Baxter St Park, Chamberlain Lake, 
+Churchill Dam, and Mount Katahdin
+1134 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Rain likely. Highs in the mid 40s. East winds
+10 to 15 mph. Chance of rain 70 percent. 
+.TONIGHT...Rain likely in the evening, then rain showers likely
+after midnight. Patchy fog. Lows in the mid 30s. East winds 5 to
+10 mph. Chance of rain 70 percent. 
+.TUESDAY...Patchy fog in the morning. Rain showers likely. Highs
+in the mid 40s. East winds 5 to 10 mph. Chance of rain
+70 percent. 
+.TUESDAY NIGHT...Cloudy with a 50 percent chance of rain showers.
+Lows in the mid 30s. Southeast winds 5 to 10 mph. 
+.WEDNESDAY...Cloudy with a 50 percent chance of rain showers.
+Highs around 50. Southeast winds 5 to 10 mph. 
+.WEDNESDAY NIGHT...Partly cloudy. A chance of rain showers in the
+evening. Lows in the lower 30s. Chance of rain 40 percent. 
+.THURSDAY...Mostly cloudy with a 50 percent chance of rain
+showers. Highs in the lower 50s. 
+.THURSDAY NIGHT...Mostly cloudy in the evening, then becoming
+partly cloudy. Lows in the lower 30s. 
+.FRIDAY...Partly sunny. Highs in the mid 50s. 
+.FRIDAY NIGHT...Partly cloudy. Lows in the mid 30s. 
+.SATURDAY...Partly sunny. Highs in the upper 50s. 
+.SATURDAY NIGHT...Partly cloudy. Lows in the mid 30s. 
+.SUNDAY...Partly sunny in the morning, then becoming mostly
+cloudy. Highs in the mid 50s. 
+
+$$
+
+MEZ005-242300-
+Northern Penobscot-
+Including the cities of Millinocket, East Millinocket, Patten, 
+and Medway
+1134 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Cloudy with scattered showers. Highs around 50.
+East winds 10 to 15 mph. Chance of rain 50 percent. 
+.TONIGHT...Rain likely in the evening, then showers likely after
+midnight. Patchy fog after midnight. Lows in the upper 30s. East
+winds 5 to 10 mph. Chance of rain 70 percent. 
+.TUESDAY...Patchy fog in the morning. Showers likely. Highs in
+the upper 40s. East winds 5 to 10 mph. Chance of rain 70 percent.
+.TUESDAY NIGHT...Cloudy with a 50 percent chance of rain showers.
+Lows in the upper 30s. Southeast winds around 5 mph. 
+.WEDNESDAY...Cloudy with a 50 percent chance of rain showers.
+Highs in the lower 50s. Southeast winds around 5 mph. 
+.WEDNESDAY NIGHT...Partly cloudy. A chance of rain showers in the
+evening. Lows in the mid 30s. Chance of rain 30 percent. 
+.THURSDAY...Mostly cloudy with a 50 percent chance of rain
+showers. Highs in the lower 50s. 
+.THURSDAY NIGHT...Mostly cloudy with a chance of rain showers in
+the evening, then partly cloudy after midnight. Lows in the mid
+30s. Chance of rain 30 percent. 
+.FRIDAY...Partly sunny. Highs in the upper 50s. 
+.FRIDAY NIGHT...Partly cloudy. Lows in the upper 30s. 
+.SATURDAY...Partly sunny. Highs around 60. 
+.SATURDAY NIGHT...Partly cloudy. Lows in the upper 30s. 
+.SUNDAY...Partly sunny. Highs in the upper 50s. 
+
+$$
+
+MEZ006-242300-
+Southeast Aroostook-
+Including the cities of Houlton, Hodgdon, Sherman, 
+and Smyrna Mills
+1134 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Cloudy. Isolated showers, then scattered 
+showers. Highs around 50. East winds 10 to 15 mph. Chance of
+rain 50 percent. 
+.TONIGHT...Cloudy. Rain likely in the evening, then scattered
+showers after midnight. Lows in the upper 30s. East winds 5 to
+10 mph. Chance of rain 70 percent. 
+.TUESDAY...Cloudy with a 50 percent chance of showers. Highs in
+the upper 40s. East winds 5 to 10 mph. 
+.TUESDAY NIGHT...Cloudy with a 50 percent chance of showers. Lows
+in the upper 30s. Southeast winds around 5 mph. 
+.WEDNESDAY...Cloudy with a 50 percent chance of showers. Highs in
+the lower 50s. Southeast winds around 5 mph. 
+.WEDNESDAY NIGHT...Partly cloudy. A chance of rain showers in the
+evening. Lows in the mid 30s. Chance of rain 30 percent. 
+.THURSDAY...Mostly cloudy. A chance of rain showers in the
+afternoon. Highs in the mid 50s. Chance of rain 50 percent. 
+.THURSDAY NIGHT...Mostly cloudy with a chance of rain showers in
+the evening, then partly cloudy after midnight. Lows in the mid
+30s. Chance of rain 30 percent. 
+.FRIDAY...Partly sunny. Highs in the upper 50s. 
+.FRIDAY NIGHT...Partly cloudy. Lows in the upper 30s. 
+.SATURDAY...Partly sunny. Highs around 60. 
+.SATURDAY NIGHT...Partly cloudy. Lows in the upper 30s. 
+.SUNDAY...Partly sunny. Highs in the upper 50s. 
+
+$$
+
+MEZ010-242300-
+Central Piscataquis-
+Including the cities of Greenville, Monson, and Blanchard
+1134 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Rain. Highs in the lower 40s. Southeast winds 
+10 to 15 mph. Chance of rain 80 percent. 
+.TONIGHT...Rain. Patchy fog. Lows in the upper 30s. Southeast
+winds 5 to 10 mph with gusts up to 20 mph. Chance of rain
+90 percent. 
+.TUESDAY...Patchy fog in the morning. Rain showers likely. Highs
+in the mid 40s. East winds 5 to 10 mph with gusts up to 20 mph.
+Chance of rain 70 percent. 
+.TUESDAY NIGHT...Cloudy. Rain showers likely, mainly in the
+evening. Lows in the mid 30s. Southeast winds 5 to 10 mph. Chance
+of rain 70 percent. 
+.WEDNESDAY...Cloudy with a 50 percent chance of rain showers.
+Highs around 50. Southeast winds 5 to 10 mph. 
+.WEDNESDAY NIGHT...Partly cloudy. A slight chance of rain showers
+in the evening. Lows in the mid 30s. Chance of rain 20 percent. 
+.THURSDAY...Mostly cloudy with a 50 percent chance of rain
+showers. Highs in the upper 40s. 
+.THURSDAY NIGHT...Partly cloudy. Lows in the mid 30s. 
+.FRIDAY...Partly sunny. Highs in the mid 50s. 
+.FRIDAY NIGHT...Partly cloudy. Lows in the mid 30s. 
+.SATURDAY...Partly sunny. Highs in the upper 50s. 
+.SATURDAY NIGHT...Partly cloudy. Lows in the upper 30s. 
+.SUNDAY...Mostly cloudy. Highs in the mid 50s. 
+
+$$
+
+MEZ031-242300-
+Southern Piscataquis-
+Including the cities of Dover-Foxcroft, Milo, and Guilford
+1134 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Rain likely. Cooler with highs in the mid 40s.
+East winds 10 to 15 mph. Chance of rain 70 percent. 
+.TONIGHT...Rain in the evening, then showers likely after
+midnight. Patchy fog after midnight. Lows in the upper 30s. East
+winds 5 to 10 mph. Chance of rain 80 percent. 
+.TUESDAY...Patchy fog in the morning. Showers likely. Highs in
+the mid 40s. East winds 5 to 10 mph. Chance of rain 70 percent. 
+.TUESDAY NIGHT...Cloudy. Showers likely, mainly in the evening.
+Lows in the upper 30s. Southeast winds around 5 mph. Chance of
+rain 70 percent. 
+.WEDNESDAY...Cloudy with a 40 percent chance of showers. Highs in
+the lower 50s. Southeast winds around 5 mph. 
+.WEDNESDAY NIGHT...Partly cloudy. A slight chance of rain showers
+in the evening. Lows in the mid 30s. Chance of rain 20 percent. 
+.THURSDAY...Mostly cloudy. A chance of rain showers in the
+afternoon. Highs in the lower 50s. Chance of rain 50 percent. 
+.THURSDAY NIGHT...Partly cloudy. Lows in the mid 30s. 
+.FRIDAY...Partly sunny. Highs in the upper 50s. 
+.FRIDAY NIGHT...Partly cloudy. Lows in the upper 30s. 
+.SATURDAY...Partly sunny. Highs around 60. 
+.SATURDAY NIGHT...Partly cloudy. Lows in the upper 30s. 
+.SUNDAY...Partly sunny in the morning, then becoming mostly
+cloudy. Highs in the upper 50s. 
+
+$$
+
+MEZ011-242300-
+Central Penobscot-
+Including the cities of Lincoln, Howland, and Springfield
+1134 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Cloudy with scattered showers. Highs in the
+upper 40s. East winds 10 to 15 mph. Chance of rain 50 percent. 
+.TONIGHT...Cloudy. Rain likely in the evening, then scattered
+showers after midnight. Lows around 40. Southeast winds 5 to
+10 mph. Chance of rain 70 percent. 
+.TUESDAY...Cloudy. Showers likely, mainly in the morning. Highs
+in the upper 40s. East winds 5 to 10 mph. Chance of rain
+70 percent. 
+.TUESDAY NIGHT...Cloudy with a 50 percent chance of showers. Lows
+in the upper 30s. Southeast winds 5 to 10 mph. 
+.WEDNESDAY...Mostly cloudy with a 40 percent chance of showers.
+Highs in the lower 50s. Southeast winds around 5 mph. 
+.WEDNESDAY NIGHT...Partly cloudy. A slight chance of rain showers
+in the evening. Lows in the mid 30s. Chance of rain 20 percent. 
+.THURSDAY...Mostly cloudy. A chance of rain showers in the
+afternoon. Highs in the mid 50s. Chance of rain 50 percent. 
+.THURSDAY NIGHT...Mostly cloudy in the evening, then becoming
+partly cloudy. Lows in the upper 30s. 
+.FRIDAY...Partly sunny. Highs in the upper 50s. 
+.FRIDAY NIGHT...Partly cloudy. Lows in the upper 30s. 
+.SATURDAY...Partly sunny. Highs around 60. 
+.SATURDAY NIGHT...Partly cloudy. Lows in the upper 30s. 
+.SUNDAY...Partly sunny. Highs in the upper 50s. 
+
+$$
+
+MEZ032-242300-
+Northern Washington-
+Including the cities of Danforth, Vanceboro, and Topsfield
+1134 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Cloudy. Isolated showers, then scattered 
+showers. Highs in the upper 40s. East winds 10 to 15 mph.
+Chance of rain 40 percent. 
+.TONIGHT...Cloudy with scattered showers. Lows around 40.
+Southeast winds around 5 mph. Chance of rain 50 percent. 
+.TUESDAY...Cloudy with a 50 percent chance of showers. Highs in
+the upper 40s. East winds 5 to 10 mph. 
+.TUESDAY NIGHT...Cloudy with a 50 percent chance of showers. Lows
+in the upper 30s. Southeast winds around 5 mph. 
+.WEDNESDAY...Mostly cloudy with a 50 percent chance of showers.
+Highs in the lower 50s. Southeast winds around 5 mph. 
+.WEDNESDAY NIGHT...Partly cloudy. A slight chance of rain showers
+in the evening. Lows in the mid 30s. Chance of rain 20 percent. 
+.THURSDAY...Mostly cloudy. A chance of rain showers in the
+afternoon. Highs in the mid 50s. Chance of rain 40 percent. 
+.THURSDAY NIGHT...Mostly cloudy in the evening, then becoming
+partly cloudy. Lows in the upper 30s. 
+.FRIDAY...Partly sunny. Highs in the upper 50s. 
+.FRIDAY NIGHT...Partly cloudy. Lows in the upper 30s. 
+.SATURDAY...Partly sunny. Highs in the upper 50s. 
+.SATURDAY NIGHT...Partly cloudy. Lows in the upper 30s. 
+.SUNDAY...Partly sunny. Highs in the upper 50s. 
+
+$$
+
+MEZ015-242300-
+Southern Penobscot-
+Including the cities of Bangor, Brewer, Orono, and Old Town
+1134 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Rain likely. Cooler with highs in the mid 40s.
+East winds around 10 mph with gusts up to 20 mph. Chance of rain
+70 percent. 
+.TONIGHT...Rain likely in the evening, then showers likely after
+midnight. Patchy fog after midnight. Lows around 40. Southeast
+winds 5 to 10 mph. Chance of rain 70 percent. 
+.TUESDAY...Patchy fog in the morning. Showers likely. Highs in
+the upper 40s. East winds 5 to 10 mph. Chance of rain 70 percent.
+.TUESDAY NIGHT...Cloudy with a 50 percent chance of showers. Lows
+in the upper 30s. Southeast winds 5 to 10 mph. 
+.WEDNESDAY...Mostly cloudy with a 40 percent chance of showers.
+Highs in the lower 50s. Southeast winds around 5 mph. 
+.WEDNESDAY NIGHT...Partly cloudy with a slight chance of rain
+showers in the evening, then mostly cloudy after midnight. Lows
+in the mid 30s. Chance of rain 20 percent. 
+.THURSDAY...Mostly cloudy. A chance of showers in the afternoon.
+Highs in the mid 50s. Chance of rain 40 percent. 
+.THURSDAY NIGHT...Mostly cloudy in the evening, then becoming
+partly cloudy. Lows in the upper 30s. 
+.FRIDAY...Partly sunny. Highs around 60. 
+.FRIDAY NIGHT...Partly cloudy. Lows in the upper 30s. 
+.SATURDAY...Partly sunny. Highs in the lower 60s. 
+.SATURDAY NIGHT...Partly cloudy. Lows in the upper 30s. 
+.SUNDAY...Partly sunny in the morning, then becoming mostly
+cloudy. Highs in the upper 50s. 
+
+$$
+
+MEZ016-242300-
+Interior Hancock-
+Including the cities of Amherst, Aurora, Dedham, Eastbrook, 
+and Great Pond
+1134 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Numerous showers. Highs in the upper 40s. East 
+winds 10 to 15 mph. Chance of rain 60 percent. 
+.TONIGHT...Cloudy. Rain likely in the evening, then scattered
+showers after midnight. Patchy fog after midnight. Lows in the
+upper 30s. Southeast winds 5 to 10 mph with gusts up to 20 mph.
+Chance of rain 60 percent. 
+.TUESDAY...Patchy fog in the morning. Cloudy with a 50 percent
+chance of showers. Highs in the mid 40s. Southeast winds 5 to
+10 mph with gusts up to 20 mph. 
+.TUESDAY NIGHT...Cloudy with a 50 percent chance of showers. Lows
+in the upper 30s. Southeast winds 5 to 10 mph. 
+.WEDNESDAY...Mostly cloudy with a 40 percent chance of showers.
+Highs in the lower 50s. Southeast winds around 5 mph. 
+.WEDNESDAY NIGHT...Partly cloudy. Lows in the mid 30s. 
+.THURSDAY...Mostly cloudy. A chance of showers in the afternoon.
+Highs in the lower 50s. Chance of rain 40 percent. 
+.THURSDAY NIGHT...Mostly cloudy in the evening, then becoming
+partly cloudy. Lows in the upper 30s. 
+.FRIDAY...Partly sunny. Highs in the upper 50s. 
+.FRIDAY NIGHT...Partly cloudy. Lows in the upper 30s. 
+.SATURDAY...Partly sunny. Highs around 60. 
+.SATURDAY NIGHT...Partly cloudy. Lows in the upper 30s. 
+.SUNDAY...Partly sunny. Highs in the mid 50s. 
+
+$$
+
+MEZ017-242300-
+Central Washington-
+Including the cities of Calais, Grand Lake Stream, Wesley, 
+and Princeton
+1134 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Cloudy with scattered showers. Highs in the
+upper 40s. East winds 5 to 10 mph with gusts up to 20 mph. Chance
+of rain 50 percent. 
+.TONIGHT...Cloudy with scattered showers. Patchy fog after
+midnight. Lows in the upper 30s. Southeast winds 5 to 10 mph.
+Chance of rain 50 percent. 
+.TUESDAY...Patchy fog in the morning. Cloudy with a 50 percent
+chance of showers. Highs in the upper 40s. East winds 5 to
+10 mph. 
+.TUESDAY NIGHT...Cloudy with a 40 percent chance of showers. Lows
+in the upper 30s. Southeast winds around 5 mph. 
+.WEDNESDAY...Mostly cloudy with a 40 percent chance of showers.
+Highs in the lower 50s. Southeast winds around 5 mph. 
+.WEDNESDAY NIGHT...Partly cloudy. Lows in the mid 30s. 
+.THURSDAY...Mostly cloudy. A chance of showers in the afternoon.
+Highs in the mid 50s. Chance of rain 40 percent. 
+.THURSDAY NIGHT...Partly cloudy. Lows in the upper 30s. 
+.FRIDAY...Partly sunny. Highs in the upper 50s. 
+.FRIDAY NIGHT...Partly cloudy. Lows in the upper 30s. 
+.SATURDAY...Partly sunny. Highs in the upper 50s. 
+.SATURDAY NIGHT...Partly cloudy. Lows in the upper 30s. 
+.SUNDAY...Partly sunny. Highs in the mid 50s. 
+
+$$
+
+MEZ029-242300-
+Coastal Hancock-
+Including the cities of Ellsworth, Bar Harbor, Bucksport, Orland, 
+and Castine
+1134 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Rain likely. Highs in the mid 40s. East winds
+10 to 15 mph with gusts up to 25 mph. Chance of rain 70 percent. 
+.TONIGHT...Rain likely in the evening, then showers likely after
+midnight. Patchy fog. Lows in the upper 30s. Southeast winds
+10 to 15 mph with gusts up to 25 mph. Chance of rain 60 percent. 
+.TUESDAY...Cloudy. Patchy fog in the morning. Showers likely,
+mainly in the morning. Highs in the mid 40s. East winds 10 to
+15 mph with gusts up to 25 mph. Chance of rain 60 percent. 
+.TUESDAY NIGHT...Cloudy with a 50 percent chance of showers. Lows
+in the upper 30s. East winds 5 to 10 mph. 
+.WEDNESDAY...Mostly cloudy. A chance of showers, mainly in the
+morning. Highs in the upper 40s. Southeast winds around 5 mph.
+Chance of rain 40 percent. 
+.WEDNESDAY NIGHT...Partly cloudy. Lows in the upper 30s. 
+.THURSDAY...Mostly cloudy. Highs around 50. 
+.THURSDAY NIGHT...Partly cloudy. Lows in the upper 30s. 
+.FRIDAY...Partly sunny. Highs in the mid 50s. 
+.FRIDAY NIGHT...Partly cloudy. Lows in the upper 30s. 
+.SATURDAY...Partly sunny. Highs in the mid 50s. 
+.SATURDAY NIGHT...Partly cloudy. Lows in the upper 30s. 
+.SUNDAY...Partly sunny. Highs in the lower 50s. 
+
+$$
+
+MEZ030-242300-
+Coastal Washington-
+Including the cities of Eastport, Perry, Machias, and Cherryfield
+1134 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Cloudy with scattered showers. Highs in the
+mid 40s. East winds 10 to 15 mph with gusts up to 25 mph. Chance 
+of rain 50 percent. 
+.TONIGHT...Cloudy with scattered showers. Patchy fog after
+midnight. Lows in the upper 30s. Southeast winds 5 to 10 mph with
+gusts up to 20 mph. Chance of rain 50 percent. 
+.TUESDAY...Patchy fog in the morning. Cloudy with a 50 percent
+chance of showers. Highs in the mid 40s. East winds 5 to 10 mph
+with gusts up to 20 mph. 
+.TUESDAY NIGHT...Cloudy with a 40 percent chance of showers. Lows
+in the upper 30s. Southeast winds 5 to 10 mph. 
+.WEDNESDAY...Mostly cloudy. A chance of showers, mainly in the
+morning. Highs in the upper 40s. Southeast winds around 5 mph.
+Chance of rain 30 percent. 
+.WEDNESDAY NIGHT...Partly cloudy. Lows in the upper 30s. 
+.THURSDAY...Mostly cloudy in the morning, then becoming partly
+sunny. Highs in the lower 50s. 
+.THURSDAY NIGHT...Partly cloudy. Lows in the upper 30s. 
+.FRIDAY...Partly sunny. Highs in the mid 50s. 
+.FRIDAY NIGHT...Partly cloudy. Lows in the upper 30s. 
+.SATURDAY...Partly sunny. Highs in the mid 50s. 
+.SATURDAY NIGHT...Partly cloudy. Lows in the upper 30s. 
+.SUNDAY...Partly sunny. Highs in the lower 50s. 
+
+$$
+
+Norcross

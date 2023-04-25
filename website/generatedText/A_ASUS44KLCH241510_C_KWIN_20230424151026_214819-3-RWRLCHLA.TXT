@@ -1,0 +1,82 @@
+ASUS44 KLCH 241510
+RWRLCH
+REGIONAL WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE LAKE CHARLES LA
+1000 AM CDT MON APR 24 2023
+
+Note: "fair" indicates few or no clouds below 12,000 feet with no
+significant weather and/or obstructions to visibility.
+
+
+ACROSS SOUTHEAST TEXAS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BEAUMONT       CLOUDY    60  48  64 NE12      30.10R                  
+BEAUMONT CITY  CLOUDY    58  47  66 NE8       30.11S                  
+ORANGE         CLOUDY    60  48  63 NE7       30.13R                  
+JASPER         PTSUNNY   54  46  76 MISG      30.12S                  
+$$
+
+ACROSS CENTRAL LOUISIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+LEESVILLE      CLOUDY    56  40  56 NE7G16    30.11R                  
+FULLERTON      CLOUDY    57  41  55 MISG      30.10S                  
+ALEXANDRIA INT CLOUDY    56  41  57 E8        30.14R                  
+ESLER FIELD    PTSUNNY   59  42  53 VRB7      30.14R                  
+DERIDDER       CLOUDY    55  47  74 NE5       30.14R                  
+OAKDALE        CLOUDY    55  45  67 NE5       30.12R                  
+OPELOUSAS      CLOUDY    57  46  68 NE9       30.12R                  
+$$
+
+ACROSS SOUTHWEST AND SOUTH CENTRAL LOUISIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+DEQUINCY       CLOUDY    57  44  63 NE5       30.12R                  
+SULPHUR        CLOUDY    60  48  64 NE8       30.11R                  
+LAKE CHARLES   PTSUNNY   58  46  64 NE14      30.11R                  
+CHENNAULT INT  CLOUDY    57  46  67 NE10      30.11R                  
+JENNINGS       CLOUDY    58  47  66 NE13      30.11R                  
+LAFAYETTE      CLOUDY    60  49  66 NE9G18    30.10R                  
+NEW IBERIA     CLOUDY    61  48  62 NE13      30.08S                  
+ABBEVILLE      CLOUDY    60  45  58 NE9G16    30.09S                  
+PATTERSON      CLOUDY    62  51  67 NE15      30.07S                  
+SALT POINT       N/A     62  52  69 VRB5      30.04S                  
+$$
+
+SELECTED SITES ACROSS THE REGION
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+HOUSTON BUSH   CLOUDY    57  48  72 NE12      30.10S                  
+HOUSTON HOBBY  CLOUDY    59  48  67 NE12      30.09S                  
+GALVESTON      CLOUDY    58  53  84 N15       30.09R                  
+COLLEGE STAT   CLOUDY    57  47  69 NE7       30.12S                  
+CONROE         CLOUDY    55  48  77 NE8       30.12S                  
+HUNTSVILLE     CLOUDY    57  46  66 E5        30.12S                  
+LUFKIN         CLOUDY    56  45  66 E10G16    30.14R                  
+SHREVEPORT     PTSUNNY   59  41  51 E9G17     30.17R                  
+MONROE         CLOUDY    58  42  55 NE13G21   30.19R                  
+NATCHEZ MS     CLOUDY    57  40  52 NE9       30.15R                  
+BATON ROUGE    CLOUDY    62  48  60 NE10      30.10S                  
+N.O. INTL ARPT CLOUDY    61  49  64 NE14      30.08S                  
+SLIDELL        LGT RAIN  59  47  64 NE7       30.10R                  
+$$
+
+MARINE REPORTS
+  
+STATION/POSITION TIME  SKY/WX   TEMP    WIND        PRES    VSBY
+                                AIR SEA DIR/SP/G
+                 (UTC)          (F)     (DEG/KT/KT) (MB)    (MI)
+BUOY 30 S HIGH I 1450            62 72   40/ 17/ 21 1017.8R
+WVE H/P(F/S)=  5/ 6
+
+SEA RIM ST PARK  1400            58      50/ 16/ 19 1018.6R
+PORT ARTHUR      1430            58 70   40/  5/ 11 1017.7R
+TEXAS POINT      1430            58 69   40/ 12/ 15 1017.2R
+CALCASIEU PASS   1430            58 68   40/ 14/ 18 1018.7R
+LK CHARLES BEACH 1430            57 72              1019.7R
+MARSH ISLAND     NOT AVBL
+FRESH WATER LOCK 1430            63 70   20/ 12/ 17 1018.8R
+AMERADA PASS     1430            65 67   30/  8/ 13 1017.8R
+$$
+  

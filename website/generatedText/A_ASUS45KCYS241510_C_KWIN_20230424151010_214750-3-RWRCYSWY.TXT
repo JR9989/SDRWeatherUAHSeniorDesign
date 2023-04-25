@@ -1,0 +1,64 @@
+ASUS45 KCYS 241510
+RWRWY 
+
+WYOMING REGIONAL WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE CHEYENNE WY
+900 AM MDT MON APR 24 2023
+
+NOTE:  "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET
+WITH NO SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+WYZ001-241600-
+...YELLOWSTONE NATIONAL PARK...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+LK YELLOWSTONE   N/A     27  24  89 CALM      29.92S                  
+W YELLOWSTONE  NOT AVBL                                               
+
+$$
+WYZ002>013-054>058-071-098>099-241600-
+...NORTHERN WYOMING...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+JACKSON        LGT SNOW  29  25  85 NE7       29.92F FOG     WCI  22  
+CODY           SUNNY     53  21  28 CALM      29.83S                  
+GREYBULL       SUNNY     45  24  43 VRB5      29.82S                  
+WORLAND        SUNNY     43  23  45 CALM      29.82F                  
+SHERIDAN       SUNNY     42  25  50 N3        29.83F                  
+BUFFALO        SUNNY     45  24  43 E3        29.82S                  
+GILLETTE       SUNNY     44  24  45 S12       29.84S                  
+HULETT         SUNNY     41  27  56 CALM      29.89S                  
+NEWCASTLE      SUNNY     41  19  42 S5        29.90F                  
+
+$$
+WYZ014>020-022>026-101>103-241600-
+...CENTRAL WYOMING...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BIG PINEY      CLOUDY    30  23  75 CALM      29.94S                  
+PINEDALE       PTSUNNY   30  21  69 NW5       29.94F WCI  25          
+DUBOIS         CLOUDY    37  16  41 NW13      29.88S WCI  29          
+LANDER         MOSUNNY   43  26  51 CALM      29.84F                  
+RIVERTON       MOSUNNY   41  24  51 SW5       29.85F                  
+CASPER         SUNNY     47  21  35 SW18G28   29.85S                  
+DOUGLAS        SUNNY     42  24  49 SE5       29.87F                  
+
+$$
+WYZ021-027>030-104>119-241600-
+...SOUTHERN WYOMING...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+EVANSTON       PTSUNNY   34  25  69 S6        29.92F WCI  29          
+KEMMERER       PTSUNNY   32  21  64 N13       29.93F WCI  22          
+FORT BRIDGER   NOT AVBL                                               
+ROCK SPRINGS   MOSUNNY   39  23  52 VRB5      29.93F                  
+DIXON          SUNNY     38  25  60 E5        29.98F WCI  34          
+RAWLINS        SUNNY     43  25  49 SW8       29.92F                  
+SARATOGA       SUNNY     41  27  56 S5        29.94F                  
+LARAMIE        SUNNY     41  23  48 SW7       29.92S                  
+CHEYENNE       SUNNY     49  24  37 W6        29.90F                  
+TORRINGTON     SUNNY     44  24  45 SE6       29.88F                  
+PINE BLUFFS    NOT AVBL                                               
+
+$$
+  

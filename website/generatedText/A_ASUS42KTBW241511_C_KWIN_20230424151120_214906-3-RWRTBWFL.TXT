@@ -1,0 +1,184 @@
+ASUS42 KTBW 241511
+RWRFL 
+FLORIDA REGIONAL WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE TAMPA BAY RUSKIN FL
+1100 AM EDT MON APR 24 2023
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+FLZ001>010-012>015-112-114-115-241600-
+PANHANDLE FLORIDA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PENSACOLA      CLOUDY    65  47  52 N10G22    30.07S                  
+PENSACOLA NAS  PTSUNNY   66  44  45 N17       30.07S                  
+MILTON NAS     CLOUDY    61  48  62 NE10      30.10R                  
+CRESTVIEW      CLOUDY    64  47  53 VRB5      30.10F                  
+DUKE FIELD     PTSUNNY   63  46  54 NE12      30.07F                  
+VALPARAISO     PTSUNNY   67  46  46 NE15      30.07S                  
+MARY ESTHER    PTSUNNY   68  47  46 NE13      30.05S                  
+PANAMA CITY    FAIR      68  46  45 N16G25    30.05S                  
+TYNDALL AFB    PTSUNNY   67  49  53 NE14      30.03S                  
+APALACHICOLA   CLOUDY    68  57  68 NE12      30.02R                  
+
+STATION/POSITION SKY/WX   TEMP    WIND        PRES    WAVE   SWELL
+                          AIR SEA DIR/SP/G            HT/PER HT/PER
+                          (F)     (DEG/KT/KT) (MB)    (FT/S) (FT/S)
+29.2N   88.2W              69 71   30/ 23/ 29 1016.6F   5/ 6
+28.8N   86.0W              71      50/ 16/ 17 1015.6S   4/ 5
+PANAMA CITY BEAC           66 71   40/ 13/ 20 1018.1R
+TOWER C                    67                 1017.3R
+28.5N   84.5W              72 73   80/ 14/ 17 1013.6R   3/ 5
+
+$$
+FLZ011-016>038-118-127-128-134-139-239-241600-
+NORTH FLORIDA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MARIANNA       PTSUNNY   67  47  48 NE15      30.08R                  
+TALLAHASSEE    CLOUDY    64  50  60 N8        30.08R                  
+LIVE OAK       PTSUNNY   70  57  64 N3        30.07S                  
+CROSS CITY     CLOUDY    70  61  73 N6        30.05R                  
+LAKE CITY      FAIR      70  59  68 NE7       30.06F                  
+GAINESVILLE    CLOUDY    74  63  68 NE9       30.07S                  
+WILLISTON      FAIR      76  63  64 E10       30.02F                  
+PALATKA        FAIR      72  61  68 E9        30.04R                  
+MAYPORT NAS    CLOUDY    75  65  70 NE13      30.06R                  
+JACKSONVILLE   CLOUDY    74  62  66 NE9       30.06R                  
+JAX NAS        CLOUDY    74  63  68 N9        30.07R                  
+JAX CECIL      SUNNY     72  64  78 NE6       30.06R                  
+FERNANDINA BEA FAIR      70  64  83 N9        30.07R                  
+ST AUGUSTINE   CLOUDY    75  63  66 NE9       30.06R                  
+PALM COAST     MOSUNNY   77  61  57 E9        30.05R                  
+
+STATION/POSITION SKY/WX   TEMP    WIND        PRES    WAVE   SWELL
+                          AIR SEA DIR/SP/G            HT/PER HT/PER
+                          (F)     (DEG/KT/KT) (MB)    (FT/S) (FT/S)
+SHELL POINT      NOT AVBL
+KEATON BEACH               67      50/  8/ 12 1016.9F
+CEDAR KEY                  69      70/ 12/ 13 1016.5F
+FERNANDINA                 72 73   10/  5/  8 1018.1R
+30.7N   81.3W              70 71                N/A     3/ 7
+MAYPORT                    70 73   30/ 12/ 14 1018.2R
+31.4N   80.9W                 69   40/ 14/ 16 1017.5F   3/ 8   2/ 8
+ST AUGUSTINE               73 72   40/  9/ 10 1017.9R
+
+$$
+FLZ040-043>046-052-053-057-058-063-144-241600-
+INTERIOR CENTRAL FLORIDA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+OCALA          CLOUDY    76  64  66 E12       30.03F                  
+LEESBURG       CLOUDY    73  66  78 NE13      30.02F                  
+SANFORD        CLOUDY    77  67  71 NE6       30.02R                  
+ORLANDO EXEC   CLOUDY    80  67  64 E8        30.01R                  
+ORLANDO INTL   CLOUDY    78  65  63 E8        30.01R                  
+KISSIMMEE      CLOUDY    77  68  73 E12       30.01F                  
+WINTER HAVEN   CLOUDY    77  67  71 E10       30.01S                  
+LAKELAND INTL  MOSUNNY   75  66  73 E10       30.00S                  
+BARTOW         PTSUNNY   77  68  73 E9        30.00S                  
+SEBRING        FAIR      80  69  67 E8        29.99F                  
+OKEECHOBEE     PTSUNNY   82  72  69 VRB3      29.97F                  
+
+$$
+FLZ041-047-054-059-064-141-147-241600-
+EAST CENTRAL FLORIDA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ORMOND BEACH   MOSUNNY   75  64  69 NE8       30.04R                  
+DAYTONA BEACH  CLOUDY    77  62  59 E13       30.04R                  
+DELAND         CLOUDY    76  64  64 NE10      30.04R                  
+NEW SMYRNA BEA CLOUDY    77  66  69 E12G17    30.03R                  
+JFK SPACE CTR  CLOUDY   N/A N/A N/A E9        30.00R                  
+TITUSVILLE     PTSUNNY   82  64  54 SE8       30.02R                  
+CAPE CANAVERAL CLOUDY    80  66  62 SE9       29.99R                  
+PATRICK AFB    CLOUDY    81  66  60 E8        29.98R                  
+MELBOURNE      CLOUDY    80  67  64 E9        30.00R                  
+VERO BEACH     PTSUNNY   79  70  74 E8        30.00R                  
+FT PIERCE      PTSUNNY   79  67  66 E8        30.00R                  
+
+STATION/POSITION SKY/WX   TEMP    WIND        PRES    WAVE   SWELL
+                          AIR SEA DIR/SP/G            HT/PER HT/PER
+                          (F)     (DEG/KT/KT) (MB)    (FT/S) (FT/S)
+28.5N   80.2W                     120/  8/ 12 1014.9R   3/ 8   3/ 8
+TRIDENT PIER               78 81  140/  6/  9 1015.1R
+28.4N   80.5W                 77                N/A     2/ 8
+27.6N   80.2W                 76                N/A     4/ 8
+
+$$
+FLZ050-056-061-142-242-148-248-149-249-151-251-155-255-
+160-260-241600-
+WEST CENTRAL FLORIDA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CRYSTAL RIVER  FAIR      75  64  69 E8        30.00F                  
+INVERNESS      FAIR      73  66  78 E6        30.01F                  
+BROOKSVILLE    CLOUDY    78  67  68 E12       29.99F                  
+CLEARWATER AIR FAIR      73  64  73 E10       29.97F                  
+ST PETE CLEARW PTSUNNY   75  68  78 E10       29.97F                  
+TAMPA INTL     PTSUNNY   76  67  73 E7        29.98F                  
+TAMPA EXEC     CLOUDY    77  70  78 E6        29.99F                  
+PLANT CITY     CLOUDY    79  68  69 E9        30.00F                  
+MACDILL AFB    PTSUNNY   78  67  69 E14       29.93F                  
+PETER O KNIGHT PTSUNNY   77  68  73 E8        29.98                   
+ST PETERSBURG  PTSUNNY   76  71  85 E13       29.96F                  
+SARASOTA       MOSUNNY   80  68  66 E10       29.94F                  
+VENICE         FAIR      81  72  74 SE10G17   29.96F                  
+
+STATION/POSITION SKY/WX   TEMP    WIND        PRES    WAVE   SWELL
+                          AIR SEA DIR/SP/G            HT/PER HT/PER
+                          (F)     (DEG/KT/KT) (MB)    (FT/S) (FT/S)
+27.3N   84.3W                 73                N/A     4/ 6
+CLEARWATER BEACH           74 79   80/  6/ 11 1015.0S
+MIDDLE TAMPA BAY           73     100/ 11/ 13 1014.7F
+VENICE                     75 79  100/  8/ 10 1014.5S
+
+$$
+FLZ066-069-070-075>078-162-262-165-265-241600-
+SOUTHWEST FLORIDA AND KEYS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PUNTA GORDA    CLOUDY    79  71  76 E9        29.98S                  
+FT MYERS       PTSUNNY   81  68  64 SE8       29.96S                  
+SOUTHWEST INTL PTSUNNY   79  71  76 E7        29.97S                  
+NAPLES         PTSUNNY   83  71  67 S6        29.96S                  
+IMMOKALEE      FAIR     N/A N/A N/A E7        29.96F                  
+MARATHON       SUNNY     87  72  60 S5        29.96R                  
+KEY WEST NAS   MOSUNNY   82  72  71 VRB7      29.96S                  
+KEY WEST INTL  SUNNY     81  72  74 VRB5      29.96S                  
+
+STATION/POSITION SKY/WX   TEMP    WIND        PRES    WAVE   SWELL
+                          AIR SEA DIR/SP/G            HT/PER HT/PER
+                          (F)     (DEG/KT/KT) (MB)    (FT/S) (FT/S)
+NAPLES           NOT AVBL
+DRY TORTUGAS     NOT AVBL
+SOMBRERO KEY               79     240/  6/  8 1013.7R
+LONG KEY                   80     200/  5/  6 1014.0R
+
+$$
+FLZ067-068-071>074-168-172>174-241600-
+SOUTHEAST FLORIDA 
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+W PALM BEACH   TSTM      75  71  87 S10       29.99R FOG              
+BOCA RATON     PTSUNNY   81  72  74 SE12G20   29.99R                  
+FT LAUDER-EXEC PTSUNNY   81  69  67 S10       29.98R                  
+FT LAUDERDALE  PTSUNNY   75  72  88 S7        29.97S                  
+POMPANO BEACH  PTSUNNY   79  68  69 E13G22    29.98S                  
+PEMBROKE PINES LGT RAIN  73  70  90 SE8       29.99S                  
+OPA LOCKA      LGT RAIN  72  68  87 SE15      29.99S                  
+MIAMI          CLOUDY    80  69  69 SE8       29.98R                  
+WEST KENDALL   PTSUNNY   78  72  81 SE8       29.98R                  
+HOMESTEAD      PTSUNNY   81  70  69 SE9       29.96S                  
+
+STATION/POSITION SKY/WX   TEMP    WIND        PRES    WAVE   SWELL
+                          AIR SEA DIR/SP/G            HT/PER HT/PER
+                          (F)     (DEG/KT/KT) (MB)    (FT/S) (FT/S)
+VIRGINIA KEY               79 81  110/ 10/ 13 1015.6R
+LAKE WORTH                 78 80  150/ 13/ 14 1015.2F
+SETTLEMENT POINT           76     110/ 11/ 13 1015.7R
+
+$$
+
+  

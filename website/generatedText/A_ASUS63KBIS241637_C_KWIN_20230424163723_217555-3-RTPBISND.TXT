@@ -1,0 +1,74 @@
+ASUS63 KBIS 241637
+RTPBIS
+
+
+Regional Temperature And Precipitation Summary
+National Weather Service Bismarck ND
+1137 AM CDT Mon Apr 24 2023
+
+:
+:VALUES REPRESENT YESTERDAYS HIGHS...AND THIS MORNINGS LOWS
+:AND PRECIPITATION FOR 24 HOURS ENDING AT 7 AM CDT.
+:ASOS SITES ARE AUTOMATED AND MAY UNDER-ESTIMATE
+:WINTER PRECIP.
+:
+:................................................................
+:       STATION             MAX  / MIN  / 24-HR  / SNOW / SNOW
+:        NAME               TEMP / TEMP / PRECIP / FALL / DEPTH
+:................................................................
+: CENTRAL TIME ZONE STATIONS
+.BR BIS 0424 C DH01/TAIRZX/DH07/TAIRZP/PPDRZZ/SFDRZZ/SDIRZZ
+BIS  : Bismarck ASOS      :  51  /  24  /  0.00 /   0.0 /   0
+JMS  : Jamestown FAA      :  45  /  23  /  0.00 /    M  /  M 
+MOT  : Minot FAA          :  50  /  21  /  0.00 /    M  /  M 
+XWA  : Williston Basin Air:  44  /  27  /  0.00 /    M  /  M 
+N60  : Garrison ASOS      :  50  /  23  /  0.00 /    M  /  M 
+MIB  : Minot Air Force Bas:  48  /  20  /  0.00 /    M  /  M 
+.END
+: MOUNTAIN TIME ZONE STATIONS
+.BR BIS 0424 M DH00/TAIRZX/DH06/TAIRZP/PPDRZZ/SFDRZZ/SDIRZZ
+DIK  : Dickinson Theodore :  50  /  20  /  0.00 /   M  /   M 
+HEI  : Hettinger ASOS     :  52  /  26  /  0.00 /   M  /   M 
+.END
+:
+.BR BIS  0424  C DH06/TX/TN/PP/SF/SD
+:
+: COOPERATIVE OBSERVATIONS
+: VALUES ARE FOR THE PREVIOUS 24 HOURS
+: CENTRAL TIME ZONE STATIONS
+ALYN8:  Ashley            :  47  /  22  /  0.00 /     M /    M
+BOTN8:  Bottineau         :  47  /  23  /  0.00 /     M /    M
+CRNN8:  Carrington 4N     :  45  /  24  /  0.00 /   0.0 /    0
+JTWN8:  Jamestown Hosp    :  44  /  24  /  0.00 /     M /    1
+LFDN8:  Lansford          :   M  /   M  /  0.00 /   0.0 /    0
+MAXN8:  Max               :  47  /  25  /  0.00 /   0.0 /    0
+MNON8:  Minot EXP. ST.    :  49  /  24  /  0.00 /     M /    M
+MFTN8:  Moffit 3SE        :  48  /  23  /  0.00 /     M /    M
+MONN8:  Montpelier        :   M  /   M  /  0.00 /     M /    2
+NPLN8:  Napoleon          :  48  /  23  /  0.00 /   0.0 /    3
+NWSN8:  New Salem         :  47  /  23  /  0.00 /   0.0 /    T
+RIVN8:  Riverdale         :  48  /  25  /  0.00 /     M /    M
+SREN8:  Streeter 5NW      :  46  /  21  /  0.00 /     M /    M
+UNDN8:  Underwood         :  49  /  23  /  0.00 /   0.0 /    0
+VLAN8:  Velva 3NE         :   M  /   M  /  0.00 /     M /    M
+WLWN8:  Willow City       :  48  /  22  /  0.00 /     M /    M
+.END
+:
+.BR BIS  0424  M DH06/TX/TN/PP/SF/SD
+:
+: MOUNTAIN TIME ZONE STATIONS
+.BR BIS  0424  M DH06/TX/TN/PP/SF/SD
+DNCN8:  Dunn Center 1E    :  52  /  18  /  0.00 /     M /    M
+GLUN8:  Heart Butte Dam   :  49  /  19  /  0.00 /     M /    M
+HETN8:  Hettinger EXP. ST :  53  /  27  /  0.00 /   0.0 /    M
+.END
+
+
+ These data are preliminary and have not undergone final quality
+ control by the National Center for Environmental Information /NCEI/.
+ Therefore these data are subject to revision. Final and certified
+ climate data can be accessed at www.ncdc.noaa.gov.
+
+
+$$
+

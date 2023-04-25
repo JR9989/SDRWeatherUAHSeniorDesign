@@ -1,0 +1,19 @@
+ASGM40 PGUM 241510
+RWRGUM
+WEATHER ROUNDUP FOR THE MARIANAS
+NATIONAL WEATHER SERVICE TIYAN GU
+100 AM CHST TUE APR 25 2023
+
+GUZ001>004-241600-
+MARIANA ISLANDS-
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+GUAM AIRPORT   NOT AVBL                                               
+ANDERSEN AFB   MOCLDY    79  75  89 NE14      29.84F                  
+ROTA AIRPORT   NOT AVBL                                               
+TINIAN AP      NOT AVBL                                               
+SAIPAN AP      MOCLDY    81 N/A N/A E14       29.85F                  
+
+$$
+
+  

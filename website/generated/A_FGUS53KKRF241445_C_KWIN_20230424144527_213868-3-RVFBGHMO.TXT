@@ -1,0 +1,103 @@
+FGUS53 KKRF 241445
+RVFBGH
+
+RIVER FORECAST
+NWS MISSOURI BASIN RIVER FORECAST CENTER PLEASANT HILL MO
+1444Z Mon Apr 24 2023
+:
+: THIS PRODUCT HAS PRELIMINARY DATA AND SUBJECT TO REVISION.
+: REFER TO YOUR LOCAL WFO FOR THE LATEST OFFICIAL RIVER FORECAST.
+
+:    FORECAST GROUP IS BIGHORN-RES
+
+:  *************************************************************
+:  ***   R E S E R V O I R   I N F L O W   F O R E C A S T   ***
+:  *************************************************************
+
+
+: *****************************************************************
+: ***  This forecast includes projected snowmelt due to         ***  
+: ***  forecasted 6-hour mean temperatures for the next 15 days ***
+: *****************************************************************
+
+: ==> This forecast includes obsd precip & 120 hours of QPF <==
+
+
+
+
+:BOYSEN DAM WY - WIND RIVER     HSA - RIW
+:LATEST ESTIMATED FLOW 1.28 KCFS AT 1200Z ON 0424
+
+
+.ER SBDW4 20230424 Z DC202304241444/DH18/QIIFF/DIH6
+:Flow Fcst /   00Z /   06Z /   12Z /   18Z
+.E1 : 0424 :                         / 1.236 
+.E2 : 0425 : / 1.194 / 1.170 / 1.158 / 1.163 
+.E3 : 0426 : / 1.194 / 1.250 / 1.305 / 1.346 
+.E4 : 0427 : / 1.364 / 1.373 / 1.370 / 1.345 
+.E5 : 0428 : / 1.300 / 1.253 / 1.227 / 1.225 
+.E6 : 0429 : / 1.235 / 1.234 / 1.221 / 1.202 
+.E7 : 0430 : / 1.184 / 1.167 / 1.148 / 1.132 
+.E8 : 0501 : / 1.119 / 1.107 / 1.096 / 1.084 
+.E9 : 0502 : / 1.071 / 1.060 / 1.052 / 1.046 
+.E10: 0503 : / 1.043 / 1.042 / 1.042 / 1.042 
+.E11: 0504 : / 1.042 / 1.041 / 1.038 
+
+
+:BUFFALO BILL RES WY - SHOSHONE RIVER     HSA - RIW
+:LATEST ESTIMATED FLOW 0.46 KCFS AT 1200Z ON 0424
+
+
+.ER CDYW4 20230424 Z DC202304241444/DH18/QIIFF/DIH6
+:Flow Fcst /   00Z /   06Z /   12Z /   18Z
+.E1 : 0424 :                         / 0.495 
+.E2 : 0425 : / 0.515 / 0.521 / 0.518 / 0.510 
+.E3 : 0426 : / 0.500 / 0.489 / 0.477 / 0.463 
+.E4 : 0427 : / 0.446 / 0.427 / 0.420 / 0.417 
+.E5 : 0428 : / 0.412 / 0.417 / 0.431 / 0.445 
+.E6 : 0429 : / 0.442 / 0.419 / 0.393 / 0.369 
+.E7 : 0430 : / 0.352 / 0.358 / 0.388 / 0.424 
+.E8 : 0501 : / 0.456 / 0.502 / 0.559 / 0.605 
+.E9 : 0502 : / 0.638 / 0.674 / 0.717 / 0.748 
+.E10: 0503 : / 0.760 / 0.773 / 0.788 / 0.791 
+.E11: 0504 : / 0.775 / 0.754 / 0.734 
+
+
+:BIGHORN RES MT - BIGHORN RIVER     HSA - BYZ
+:LATEST ESTIMATED FLOW 5.08 KCFS AT 1200Z ON 0424
+
+
+.ER BHRM8 20230424 Z DC202304241444/DH18/QIIFF/DIH6
+:Flow Fcst /   00Z /   06Z /   12Z /   18Z
+.E1 : 0424 :                         /  5.04 
+.E2 : 0425 : / 4.985 / 4.928 / 4.887 / 4.868 
+.E3 : 0426 : / 4.872 / 4.890 / 4.921 / 4.960 
+.E4 : 0427 : / 4.995 /  5.01 /  5.02 /  5.00 
+.E5 : 0428 : / 4.982 / 4.955 / 4.926 / 4.900 
+.E6 : 0429 : / 4.880 / 4.865 / 4.852 / 4.839 
+.E7 : 0430 : / 4.825 / 4.808 / 4.789 / 4.768 
+.E8 : 0501 : / 4.747 / 4.728 / 4.709 / 4.693 
+.E9 : 0502 : / 4.681 / 4.671 / 4.662 / 4.655 
+.E10: 0503 : / 4.651 / 4.646 / 4.639 / 4.629 
+.E11: 0504 : / 4.618 / 4.605 / 4.589 
+
+:*****************************************************************
+:COMMENT
+:
+:
+:HSA -        Hydrologic Service Area
+:WFO -        Weather Forecast Office
+:RIW -        NWS WFO Riverton, Wyoming
+:OBS -        Observed
+:EST -        Estimated
+:M -          Missing
+:Stage Fcst - River Stage forecast including future precipitation
+:Flow Fcst -  River Flow forecast including future precipitation
+:Precip -     Precipitation
+:QPE -        Observed radar estimated precipitation
+:QPF -        Forecasted mean areal precipitation for local basin
+:
+:
+$$
+: ecd
+:...END of MESSAGE...

@@ -1,0 +1,973 @@
+FPUS53 KAPX 241507
+ZFPAPX
+
+Zone Forecast Product for Michigan
+National Weather Service Gaylord MI
+1106 AM EDT Mon Apr 24 2023
+
+MIZ086-250100-
+Western Chippewa-
+Including the cities of Paradise, Trout Lake, and Rudyard
+1106 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Mostly cloudy. Scattered snow showers and
+isolated rain showers early, then scattered rain
+showers and snow showers in the afternoon. Highs in the
+lower 40s. Northwest winds 5 to 15 mph. Gusts up to 20 mph early.
+Chance of precipitation 50 percent. 
+.TONIGHT...Mostly cloudy with scattered snow showers and
+rain showers. Lows around 30. North winds 5 to 10 mph.
+Chance of precipitation 50 percent. 
+.TUESDAY...Mostly cloudy. Highs in the lower 40s. North winds
+5 to 15 mph. 
+.TUESDAY NIGHT...Partly cloudy early then becoming mostly cloudy.
+Lows in the upper 20s. Northwest winds 5 to 15 mph. 
+.WEDNESDAY...Partly sunny. Highs in the mid 40s. Northwest winds
+5 to 15 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Lows in the mid 20s. 
+.THURSDAY...Partly sunny. Highs in the upper 40s. 
+.THURSDAY NIGHT...Mostly cloudy. Lows in the mid 30s. 
+.FRIDAY...Mostly cloudy. Highs in the mid 50s. 
+.FRIDAY NIGHT...Partly cloudy with a 40 percent chance of light
+rain showers. Lows in the upper 30s. 
+.SATURDAY...Mostly cloudy with a 50 percent chance of rain
+showers. Highs in the lower 50s. 
+.SATURDAY NIGHT...Light rain showers likely. Lows in the upper
+30s. Chance of showers 60 percent. 
+.SUNDAY...Light rain showers likely. Highs in the upper 40s.
+Chance of showers 70 percent. 
+
+$$
+
+MIZ087-250100-
+Central Chippewa-
+Including the cities of Sault Ste. Marie, Brimley, Kinross, 
+and Sugar Island
+1106 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Mostly cloudy. Scattered snow showers and
+isolated rain showers early, then scattered rain
+showers and snow showers in the afternoon. Highs in the
+lower 40s. Northwest winds 5 to 10 mph. Chance of precipitation
+50 percent. 
+.TONIGHT...Mostly cloudy with scattered rain showers and
+snow showers. Lows in the lower 30s. North winds 5 to
+10 mph. Chance of precipitation 50 percent. 
+.TUESDAY...Mostly cloudy. Highs in the lower 40s. Northwest winds
+5 to 15 mph. 
+.TUESDAY NIGHT...Partly cloudy. Lows around 30. Northwest winds
+5 to 15 mph. 
+.WEDNESDAY...Partly sunny. Highs in the mid 40s. Northwest winds
+5 to 15 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Lows in the mid 20s. 
+.THURSDAY...Partly sunny. Highs in the upper 40s. 
+.THURSDAY NIGHT...Mostly cloudy. Lows in the mid 30s. 
+.FRIDAY...Mostly cloudy. Highs in the mid 50s. 
+.FRIDAY NIGHT...Partly cloudy with a 30 percent chance of light
+rain showers. Lows around 40. 
+.SATURDAY...Mostly cloudy with a 50 percent chance of rain
+showers. Highs in the lower 50s. 
+.SATURDAY NIGHT...Light rain showers likely. Lows in the lower
+40s. Chance of showers 60 percent. 
+.SUNDAY...Light rain showers likely. Highs around 50. Chance of
+showers 60 percent. 
+
+$$
+
+MIZ088-250100-
+Southeast Chippewa-
+Including the cities of Detour Village, Goetzville, 
+and Drummond Island
+1106 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Mostly cloudy. Scattered snow showers and
+isolated rain showers early, then scattered rain
+showers and isolated snow showers in the afternoon. Highs
+in the lower 40s. Northwest winds 5 to 10 mph. Chance of
+precipitation 50 percent. 
+.TONIGHT...Mostly cloudy with scattered rain showers and
+snow showers. Lows in the lower 30s. North winds 5 to
+10 mph. Chance of precipitation 50 percent. 
+.TUESDAY...Mostly cloudy. Highs in the mid 40s. Northwest winds
+5 to 10 mph. 
+.TUESDAY NIGHT...Partly cloudy early then becoming mostly cloudy.
+Lows in the lower 30s. Northwest winds 5 to 10 mph. Gusts up to
+20 mph early. 
+.WEDNESDAY...Partly sunny. Highs in the mid 40s. Northwest winds
+5 to 10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Lows in the upper 20s. 
+.THURSDAY...Partly sunny. Highs in the mid 40s. 
+.THURSDAY NIGHT...Mostly cloudy. Lows in the mid 30s. 
+.FRIDAY...Partly sunny. Highs in the lower 50s. 
+.FRIDAY NIGHT...Partly cloudy with a 30 percent chance of light
+rain showers. Lows around 40. 
+.SATURDAY...Mostly cloudy with a 50 percent chance of rain
+showers. Highs in the lower 50s. 
+.SATURDAY NIGHT...Light rain showers likely. Lows around 40.
+Chance of showers 60 percent. 
+.SUNDAY...Light rain showers likely. Highs around 50. Chance of
+showers 60 percent. 
+
+$$
+
+MIZ095-250100-
+Western Mackinac-
+Including the cities of Engadine, Naubinway, and Epoufette
+1106 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Mostly cloudy with isolated rain showers
+and snow showers. Highs in the lower 40s. Northwest winds
+5 to 10 mph with gusts to around 20 mph. Chance of precipitation
+20 percent. 
+.TONIGHT...Mostly cloudy. Scattered snow showers and
+isolated rain showers early, then scattered snow
+showers after midnight. Lows around 30. Northwest winds 5 to
+10 mph. Chance of precipitation 50 percent. 
+.TUESDAY...Mostly cloudy. Highs in the mid 40s. North winds 5 to
+15 mph. 
+.TUESDAY NIGHT...Partly cloudy. Lows in the upper 20s. Northwest
+winds 5 to 10 mph. 
+.WEDNESDAY...Partly sunny. Highs in the mid 40s. Northwest winds
+5 to 10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Lows in the upper 20s. 
+.THURSDAY...Partly sunny. Highs in the upper 40s. 
+.THURSDAY NIGHT...Mostly cloudy. Lows in the mid 30s. 
+.FRIDAY...Mostly cloudy. Highs in the mid 50s. 
+.FRIDAY NIGHT...Partly cloudy with a 40 percent chance of light
+rain showers. Lows in the upper 30s. 
+.SATURDAY...Light rain showers likely. Highs in the lower 50s.
+Chance of showers 60 percent. 
+.SATURDAY NIGHT...Light rain showers likely. Lows in the upper
+30s. Chance of showers 60 percent. 
+.SUNDAY...Light rain showers likely. Highs in the upper 40s.
+Chance of showers 70 percent. 
+
+$$
+
+MIZ096-250100-
+Eastern Mackinac-
+Including the cities of St. Ignace, Brevort, 
+and Les Cheneaux Islands
+1106 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Mostly cloudy. Scattered snow showers and
+isolated rain showers early, then scattered rain
+showers and snow showers in the afternoon. Highs in the mid
+40s. West winds 5 to 10 mph. Gusts up to 20 mph early. Chance of
+precipitation 50 percent. 
+.TONIGHT...Mostly cloudy with scattered rain showers and
+snow showers. Lows in the lower 30s. North winds 5 to
+10 mph. Chance of precipitation 50 percent. 
+.TUESDAY...Mostly cloudy. Highs in the mid 40s. North winds 5 to
+10 mph. 
+.TUESDAY NIGHT...Partly cloudy. Lows in the upper 20s. Northwest
+winds 5 to 15 mph. 
+.WEDNESDAY...Partly sunny. Highs in the mid 40s. Northwest winds
+5 to 10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Lows in the upper 20s. 
+.THURSDAY...Partly sunny. Highs in the upper 40s. 
+.THURSDAY NIGHT...Mostly cloudy. Lows in the mid 30s. 
+.FRIDAY...Mostly cloudy. Highs in the mid 50s. 
+.FRIDAY NIGHT...Partly cloudy with a 40 percent chance of light
+rain showers. Lows around 40. 
+.SATURDAY...Mostly cloudy with a 50 percent chance of rain
+showers. Highs in the lower 50s. 
+.SATURDAY NIGHT...Light rain showers likely. Lows in the upper
+30s. Chance of showers 60 percent. 
+.SUNDAY...Light rain showers likely. Highs around 50. Chance of
+showers 70 percent. 
+
+$$
+
+MIZ097-250100-
+Mackinac Island/Bois Blanc Island-
+Including the city of Mackinac Island
+1106 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Mostly cloudy. Isolated rain showers and
+snow showers early, then scattered rain showers and
+isolated snow showers in the afternoon. Highs in the lower
+40s. West winds 10 to 15 mph. Chance of precipitation 30 percent.
+.TONIGHT...Mostly cloudy with scattered rain showers and
+snow showers. Lows in the lower 30s. Northwest winds 5 to
+10 mph. Chance of precipitation 50 percent. 
+.TUESDAY...Mostly cloudy. Highs in the mid 40s. Northwest winds
+5 to 10 mph. 
+.TUESDAY NIGHT...Partly cloudy. Lows in the lower 30s. Northwest
+winds 5 to 10 mph. 
+.WEDNESDAY...Partly sunny. Highs in the mid 40s. Northwest winds
+5 to 10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Lows around 30. 
+.THURSDAY...Partly sunny. Highs in the mid 40s. 
+.THURSDAY NIGHT...Mostly cloudy. Lows in the upper 30s. 
+.FRIDAY...Partly sunny. Highs in the lower 50s. 
+.FRIDAY NIGHT...Partly cloudy with a 40 percent chance of light
+rain showers. Lows around 40. 
+.SATURDAY...Light rain showers likely. Highs around 50. Chance of
+showers 60 percent. 
+.SATURDAY NIGHT...Light rain showers likely. Lows around 40.
+Chance of showers 60 percent. 
+.SUNDAY...Light rain showers likely. Highs in the upper 40s.
+Chance of showers 70 percent. 
+
+$$
+
+MIZ098-250100-
+Beaver Island and surrounding islands-
+1106 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Mostly cloudy. Highs in the lower 40s. West
+winds 10 to 15 mph. 
+.TONIGHT...Mostly cloudy. Isolated rain showers early, then
+isolated rain showers and snow showers after
+midnight. Lows in the lower 30s. Northwest winds 5 to 10 mph.
+Chance of precipitation 20 percent. 
+.TUESDAY...Partly sunny. Highs in the mid 40s. North winds 5 to
+15 mph. 
+.TUESDAY NIGHT...Partly cloudy. Lows in the lower 30s. North
+winds 5 to 15 mph. 
+.WEDNESDAY...Partly sunny. Highs in the mid 40s. Northwest winds
+5 to 10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Lows in the lower 30s. 
+.THURSDAY...Partly sunny. Highs in the upper 40s. 
+.THURSDAY NIGHT...Mostly cloudy. Lows in the upper 30s. 
+.FRIDAY...Partly sunny. Highs in the lower 50s. 
+.FRIDAY NIGHT...Partly cloudy with a 40 percent chance of light
+rain showers. Lows in the lower 40s. 
+.SATURDAY...Light rain showers likely. Highs around 50. Chance of
+showers 60 percent. 
+.SATURDAY NIGHT...Light rain showers likely. Lows in the upper
+30s. Chance of showers 60 percent. 
+.SUNDAY...Light rain showers likely. Highs in the upper 40s.
+Chance of showers 60 percent. 
+
+$$
+
+MIZ016-250100-
+Emmet-
+Including the city of Petoskey
+1106 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Mostly cloudy. Highs in the lower 40s. West
+winds 10 to 15 mph. 
+.TONIGHT...Mostly cloudy. Scattered snow showers and
+isolated rain showers early, then scattered rain
+showers and snow showers after midnight. Lows in the lower
+30s. Northwest winds 5 to 10 mph. Chance of precipitation
+50 percent. 
+.TUESDAY...Mostly cloudy. Highs in the mid 40s. Northwest winds
+5 to 10 mph. 
+.TUESDAY NIGHT...Partly cloudy. Lows around 30. Northwest winds
+5 to 15 mph. 
+.WEDNESDAY...Partly sunny. Highs in the mid 40s. Northwest winds
+5 to 10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Lows in the upper 20s. 
+.THURSDAY...Partly sunny. Highs in the lower 50s. 
+.THURSDAY NIGHT...Mostly cloudy. Lows in the upper 30s. 
+.FRIDAY...Partly sunny. Highs in the upper 50s. 
+.FRIDAY NIGHT...Partly cloudy with a 40 percent chance of light
+rain showers. Lows in the lower 40s. 
+.SATURDAY...Light rain showers likely. Highs in the lower 50s.
+Chance of showers 60 percent. 
+.SATURDAY NIGHT...Light rain showers likely. Lows in the lower
+40s. Chance of showers 60 percent. 
+.SUNDAY...Light rain showers likely. Highs around 50. Chance of
+showers 70 percent. 
+
+$$
+
+MIZ017-250100-
+Cheboygan-
+Including the city of Cheboygan
+1106 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Mostly cloudy. Highs in the mid 40s. West winds
+10 to 15 mph. 
+.TONIGHT...Mostly cloudy with scattered rain showers and
+snow showers. Lows around 30. Northwest winds 5 to 10 mph.
+Chance of precipitation 50 percent. 
+.TUESDAY...Mostly cloudy. Highs in the mid 40s. Northwest winds
+5 to 10 mph. 
+.TUESDAY NIGHT...Partly cloudy. Lows in the upper 20s. Northwest
+winds 5 to 10 mph. 
+.WEDNESDAY...Partly sunny. Highs in the upper 40s. Northwest
+winds 5 to 10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Lows in the mid 20s. 
+.THURSDAY...Partly sunny. Highs in the lower 50s. 
+.THURSDAY NIGHT...Mostly cloudy. Not as cool. Lows in the upper
+30s. 
+.FRIDAY...Partly sunny. Highs in the upper 50s. 
+.FRIDAY NIGHT...Partly cloudy with a 40 percent chance of light
+rain showers. Lows around 40. 
+.SATURDAY...Light rain showers likely. Highs in the lower 50s.
+Chance of showers 60 percent. 
+.SATURDAY NIGHT...Light rain showers likely. Lows in the upper
+30s. Chance of showers 70 percent. 
+.SUNDAY...Light rain showers likely. Highs around 50. Chance of
+showers 70 percent. 
+
+$$
+
+MIZ018-250100-
+Presque Isle-
+Including the city of Rogers City
+1106 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Mostly cloudy. Isolated rain showers in
+the afternoon. Highs in the mid 40s. Northwest winds 10 to
+15 mph. Chance of showers 20 percent. 
+.TONIGHT...Mostly cloudy with scattered rain showers and
+snow showers. Lows in the lower 30s. Northwest winds 5 to
+10 mph. Gusts up to 20 mph early. Chance of precipitation
+50 percent. 
+.TUESDAY...Mostly cloudy. Highs in the mid 40s. North winds 5 to
+10 mph. 
+.TUESDAY NIGHT...Partly cloudy early then becoming mostly cloudy.
+Lows in the upper 20s. Northwest winds 5 to 10 mph. 
+.WEDNESDAY...Partly sunny. Highs in the mid 40s. Northwest winds
+5 to 10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Lows in the upper 20s. 
+.THURSDAY...Partly sunny. Highs in the lower 50s. 
+.THURSDAY NIGHT...Mostly cloudy. Lows in the mid 30s. 
+.FRIDAY...Partly sunny. Highs in the mid 50s. 
+.FRIDAY NIGHT...Partly cloudy with a 40 percent chance of light
+rain showers. Lows around 40. 
+.SATURDAY...Light rain showers likely. Highs in the lower 50s.
+Chance of showers 60 percent. 
+.SATURDAY NIGHT...Light rain showers likely. Lows in the upper
+30s. Chance of showers 70 percent. 
+.SUNDAY...Light rain showers likely. Highs around 50. Chance of
+showers 70 percent. 
+
+$$
+
+MIZ099-250100-
+Charlevoix-
+Including the city of Charlevoix
+1106 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Partly sunny. Highs in the lower 40s. Northwest
+winds 10 to 15 mph. 
+.TONIGHT...Mostly cloudy. Scattered snow showers and
+isolated rain showers after midnight. Lows in the lower
+30s. Northwest winds 5 to 10 mph. Chance of precipitation
+40 percent. 
+.TUESDAY...Partly sunny. Highs in the mid 40s. Northwest winds
+5 to 10 mph. 
+.TUESDAY NIGHT...Partly cloudy. Lows around 30. Northwest winds
+5 to 10 mph. Gusts up to 20 mph early. 
+.WEDNESDAY...Partly sunny. Highs in the mid 40s. Northwest winds
+5 to 10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Lows in the upper 20s. 
+.THURSDAY...Partly sunny. Highs in the mid 50s. 
+.THURSDAY NIGHT...Mostly cloudy. Lows in the upper 30s. 
+.FRIDAY...Partly sunny. Highs in the lower 60s. 
+.FRIDAY NIGHT...Partly cloudy with a 40 percent chance of light
+rain showers. Lows in the lower 40s. 
+.SATURDAY...Light rain showers likely. Highs in the mid 50s.
+Chance of showers 70 percent. 
+.SATURDAY NIGHT...Light rain showers likely. Lows in the lower
+40s. Chance of showers 70 percent. 
+.SUNDAY...Light rain showers likely. Highs around 50. Chance of
+showers 70 percent. 
+
+$$
+
+MIZ020-250100-
+Leelanau-
+Including the city of Northport
+1106 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Mostly sunny. Highs in the lower 40s. Northwest
+winds 5 to 15 mph. 
+.TONIGHT...Mostly clear early then becoming mostly cloudy. Lows
+in the lower 30s. North winds 5 to 10 mph. 
+.TUESDAY...Partly sunny. Highs in the lower 40s. North winds 5 to
+15 mph. 
+.TUESDAY NIGHT...Partly cloudy. Lows in the lower 30s. North
+winds 5 to 15 mph. 
+.WEDNESDAY...Partly sunny. Highs in the mid 40s. Northwest winds
+5 to 15 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Lows in the lower 30s. 
+.THURSDAY...Partly sunny. Highs in the lower 50s. 
+.THURSDAY NIGHT...Mostly cloudy. Lows around 40. 
+.FRIDAY...Partly sunny. Highs in the upper 50s. 
+.FRIDAY NIGHT...Mostly cloudy with a 50 percent chance of light
+rain showers. Lows in the lower 40s. 
+.SATURDAY...Light rain showers likely. Highs in the lower 50s.
+Chance of showers 60 percent. 
+.SATURDAY NIGHT...Light rain showers likely. Lows around 40.
+Chance of showers 70 percent. 
+.SUNDAY...Light rain showers likely. Highs in the upper 40s.
+Chance of showers 70 percent. 
+
+$$
+
+MIZ021-250100-
+Antrim-
+Including the city of Mancelona
+1106 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Partly sunny. Highs in the lower 40s. Northwest
+winds 10 to 15 mph with gusts to around 25 mph. 
+.TONIGHT...Partly cloudy early, then mostly cloudy with isolated
+snow showers after midnight. Lows around 30. Northwest
+winds 5 to 10 mph. Chance of snow 20 percent. 
+.TUESDAY...Partly sunny. Highs in the mid 40s. Northwest winds
+5 to 10 mph. 
+.TUESDAY NIGHT...Partly cloudy. Lows in the upper 20s. North
+winds 5 to 10 mph. 
+.WEDNESDAY...Partly sunny. Highs in the mid 40s. Northwest winds
+5 to 10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Lows in the upper 20s. 
+.THURSDAY...Partly sunny. Highs in the mid 50s. 
+.THURSDAY NIGHT...Mostly cloudy. Not as cool. Lows around 40. 
+.FRIDAY...Partly sunny. Highs in the lower 60s. 
+.FRIDAY NIGHT...Mostly cloudy with a 50 percent chance of light
+rain showers. Lows in the lower 40s. 
+.SATURDAY...Light rain showers likely. Highs in the mid 50s.
+Chance of showers 70 percent. 
+.SATURDAY NIGHT...Light rain showers likely. Lows in the lower
+40s. Chance of showers 70 percent. 
+.SUNDAY...Light rain showers likely. Highs around 50. Chance of
+showers 70 percent. 
+
+$$
+
+MIZ022-250100-
+Otsego-
+Including the city of Gaylord
+1106 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Partly sunny. Highs in the mid 40s. Northwest
+winds 10 to 15 mph with gusts to around 25 mph. 
+.TONIGHT...Partly cloudy early, then mostly cloudy with scattered
+snow showers after midnight. Lows in the upper 20s.
+Northwest winds 5 to 10 mph. Chance of snow 50 percent. 
+.TUESDAY...Mostly cloudy. Highs in the mid 40s. Northwest winds
+5 to 10 mph. 
+.TUESDAY NIGHT...Partly cloudy. Lows in the upper 20s. Northwest
+winds 5 to 10 mph. 
+.WEDNESDAY...Partly sunny. Highs in the mid 40s. Northwest winds
+5 to 10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Lows in the mid 20s. 
+.THURSDAY...Partly sunny. Highs in the mid 50s. 
+.THURSDAY NIGHT...Mostly cloudy. Not as cool. Lows in the upper
+30s. 
+.FRIDAY...Partly sunny with a 30 percent chance of rain
+showers. Highs in the lower 60s. 
+.FRIDAY NIGHT...Partly cloudy with a 50 percent chance of light
+rain showers. Lows in the lower 40s. 
+.SATURDAY...Light rain showers likely. Highs in the mid 50s.
+Chance of showers 70 percent. 
+.SATURDAY NIGHT...Light rain showers likely. Lows around 40.
+Chance of showers 70 percent. 
+.SUNDAY...Light rain showers likely. Highs in the upper 40s.
+Chance of showers 70 percent. 
+
+$$
+
+MIZ023-250100-
+Montmorency-
+Including the city of Atlanta
+1106 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Mostly cloudy. Highs in the mid 40s. Northwest
+winds 10 to 15 mph. 
+.TONIGHT...Mostly cloudy. Scattered snow showers after
+midnight. Lows in the upper 20s. Northwest winds 5 to 10 mph.
+Chance of snow 50 percent. 
+.TUESDAY...Mostly cloudy. A 40 percent chance of rain
+showers and snow showers in the afternoon. Highs in the mid
+40s. Northwest winds 5 to 10 mph. 
+.TUESDAY NIGHT...Partly cloudy. Lows in the upper 20s. Northwest
+winds 5 to 10 mph. 
+.WEDNESDAY...Partly sunny. Highs in the upper 40s. Northwest
+winds 5 to 10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Lows in the mid 20s. 
+.THURSDAY...Partly sunny. Highs in the mid 50s. 
+.THURSDAY NIGHT...Mostly cloudy. Not as cool. Lows in the upper
+30s. 
+.FRIDAY...Partly sunny. Highs in the lower 60s. 
+.FRIDAY NIGHT...Partly cloudy with a 40 percent chance of light
+rain showers. Lows in the lower 40s. 
+.SATURDAY...Light rain showers likely. Highs in the mid 50s.
+Chance of showers 70 percent. 
+.SATURDAY NIGHT...Light rain showers likely. Lows around 40.
+Chance of showers 70 percent. 
+.SUNDAY...Light rain showers likely. Highs in the lower 50s.
+Chance of showers 70 percent. 
+
+$$
+
+MIZ024-250100-
+Alpena-
+Including the city of Alpena
+1106 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Mostly cloudy. Highs in the mid 40s. Northwest
+winds 10 to 15 mph. 
+.TONIGHT...Mostly cloudy. Isolated rain showers and light
+snow showers early, then scattered snow showers and light
+rain showers after midnight. Lows in the lower 30s. Northwest
+winds 5 to 10 mph. Chance of precipitation 50 percent. 
+.TUESDAY...Mostly cloudy. Highs in the mid 40s. North winds 5 to
+10 mph. 
+.TUESDAY NIGHT...Partly cloudy. Lows in the upper 20s. Northwest
+winds 5 to 10 mph. 
+.WEDNESDAY...Partly sunny. Highs in the upper 40s. North winds
+5 to 10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Lows in the upper 20s. 
+.THURSDAY...Partly sunny. Highs in the lower 50s. 
+.THURSDAY NIGHT...Mostly cloudy. Lows in the upper 30s. 
+.FRIDAY...Partly sunny. Highs in the mid 50s. 
+.FRIDAY NIGHT...Partly cloudy with a 40 percent chance of light
+rain showers. Lows around 40. 
+.SATURDAY...Light rain showers likely. Highs in the lower 50s.
+Chance of showers 60 percent. 
+.SATURDAY NIGHT...Light rain showers likely. Lows around 40.
+Chance of showers 60 percent. 
+.SUNDAY...Light rain showers likely. Highs in the lower 50s.
+Chance of showers 70 percent. 
+
+$$
+
+MIZ025-250100-
+Benzie-
+Including the city of Frankfort
+1106 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Mostly sunny. Highs in the mid 40s. Northwest
+winds 5 to 10 mph. Gusts up to 20 mph early. 
+.TONIGHT...Partly cloudy. Lows around 30. Light winds. 
+.TUESDAY...Partly sunny. Highs in the mid 40s. North winds 5 to
+10 mph. 
+.TUESDAY NIGHT...Partly cloudy. Lows around 30. North winds 5 to
+10 mph. 
+.WEDNESDAY...Partly sunny. Highs in the mid 40s. North winds 5 to
+10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Lows around 30. 
+.THURSDAY...Partly sunny. Highs in the mid 50s. 
+.THURSDAY NIGHT...Mostly cloudy. Not as cool. Lows in the lower
+40s. 
+.FRIDAY...Partly sunny. Highs in the lower 60s. 
+.FRIDAY NIGHT...Mostly cloudy with a 50 percent chance of light
+rain showers. Lows in the lower 40s. 
+.SATURDAY...Light rain showers likely. Highs in the mid 50s.
+Chance of showers 60 percent. 
+.SATURDAY NIGHT...Light rain showers likely. Lows around 40.
+Chance of showers 70 percent. 
+.SUNDAY...Light rain showers likely. Highs around 50. Chance of
+showers 70 percent. 
+
+$$
+
+MIZ026-250100-
+Grand Traverse-
+Including the city of Traverse City
+1106 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Mostly sunny. Highs in the mid 40s. Northwest
+winds 10 to 15 mph. 
+.TONIGHT...Partly cloudy. Lows in the upper 20s. North winds 5 to
+10 mph. 
+.TUESDAY...Partly sunny. Highs in the mid 40s. North winds 5 to
+15 mph. 
+.TUESDAY NIGHT...Partly cloudy. Lows in the upper 20s. North
+winds 5 to 10 mph. 
+.WEDNESDAY...Partly sunny. Highs in the upper 40s. Northwest
+winds 5 to 10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Lows in the upper 20s. 
+.THURSDAY...Partly sunny. Highs in the mid 50s. 
+.THURSDAY NIGHT...Mostly cloudy. Not as cool. Lows around 40. 
+.FRIDAY...Partly sunny. Highs in the lower 60s. 
+.FRIDAY NIGHT...Mostly cloudy with a 50 percent chance of light
+rain showers. Lows in the mid 40s. 
+.SATURDAY...Light rain showers likely. Highs in the mid 50s.
+Chance of showers 70 percent. 
+.SATURDAY NIGHT...Light rain showers likely. Lows in the lower
+40s. Chance of showers 70 percent. 
+.SUNDAY...Light rain showers likely. Highs around 50. Chance of
+showers 70 percent. 
+
+$$
+
+MIZ027-250100-
+Kalkaska-
+Including the city of Kalkaska
+1106 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Partly sunny. Highs in the mid 40s. Northwest
+winds 10 to 15 mph. 
+.TONIGHT...Mostly clear early then becoming mostly cloudy. Lows
+in the upper 20s. Northwest winds 5 to 10 mph. 
+.TUESDAY...Partly sunny. Highs in the mid 40s. Northwest winds
+5 to 10 mph. 
+.TUESDAY NIGHT...Partly cloudy. Lows in the upper 20s. Northwest
+winds 5 to 10 mph. 
+.WEDNESDAY...Partly sunny. Highs in the mid 40s. Northwest winds
+around 10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Lows in the upper 20s. 
+.THURSDAY...Partly sunny. Highs in the mid 50s. 
+.THURSDAY NIGHT...Mostly cloudy. Not as cool. Lows in the upper
+30s. 
+.FRIDAY...Partly sunny with a 30 percent chance of rain
+showers. Highs in the lower 60s. 
+.FRIDAY NIGHT...Mostly cloudy with a 50 percent chance of light
+rain showers. Lows in the lower 40s. 
+.SATURDAY...Light rain showers likely. Highs in the mid 50s.
+Chance of showers 70 percent. 
+.SATURDAY NIGHT...Light rain showers likely. Lows around 40.
+Chance of showers 70 percent. 
+.SUNDAY...Light rain showers likely. Highs in the upper 40s.
+Chance of showers 70 percent. 
+
+$$
+
+MIZ028-250100-
+Crawford-
+Including the city of Grayling
+1106 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Partly sunny. Highs in the mid 40s. Northwest
+winds 10 to 15 mph. 
+.TONIGHT...Partly cloudy early, then mostly cloudy with isolated
+snow showers after midnight. Lows in the upper 20s.
+Northwest winds 5 to 10 mph. Chance of snow 20 percent. 
+.TUESDAY...Partly sunny. A 40 percent chance of rain
+showers and snow showers in the afternoon. Highs in the mid
+40s. Northwest winds 5 to 10 mph. 
+.TUESDAY NIGHT...Partly cloudy. Lows in the mid 20s. Northwest
+winds 5 to 10 mph. 
+.WEDNESDAY...Partly sunny. Highs in the upper 40s. Northwest
+winds 5 to 10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Lows in the mid 20s. 
+.THURSDAY...Partly sunny. Highs in the mid 50s. 
+.THURSDAY NIGHT...Mostly cloudy. Not as cool. Lows in the upper
+30s. 
+.FRIDAY...Partly sunny. Highs in the lower 60s. 
+.FRIDAY NIGHT...Mostly cloudy with a 50 percent chance of light
+rain showers. Lows in the lower 40s. 
+.SATURDAY...Light rain showers likely. Highs in the mid 50s.
+Chance of showers 70 percent. 
+.SATURDAY NIGHT...Light rain showers likely. Lows around 40.
+Chance of showers 70 percent. 
+.SUNDAY...Light rain showers likely. Highs in the upper 40s.
+Chance of showers 70 percent. 
+
+$$
+
+MIZ029-250100-
+Oscoda-
+Including the city of Mio
+1106 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Mostly cloudy. Highs in the mid 40s. Northwest
+winds 10 to 15 mph. 
+.TONIGHT...Partly cloudy early, then mostly cloudy with isolated
+snow showers after midnight. Lows in the upper 20s.
+Northwest winds 5 to 10 mph. Chance of snow 20 percent. 
+.TUESDAY...Mostly cloudy. A 40 percent chance of rain
+showers and snow showers in the afternoon. Highs in the mid
+40s. Northwest winds 5 to 10 mph. 
+.TUESDAY NIGHT...Partly cloudy. Lows in the mid 20s. Northwest
+winds 5 to 10 mph. 
+.WEDNESDAY...Partly sunny. Highs in the upper 40s. Northwest
+winds 5 to 10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Lows in the mid 20s. 
+.THURSDAY...Partly sunny. Highs in the mid 50s. 
+.THURSDAY NIGHT...Mostly cloudy. Lows in the mid 30s. 
+.FRIDAY...Partly sunny. Highs around 60. 
+.FRIDAY NIGHT...Mostly cloudy with a 50 percent chance of light
+rain showers. Lows in the lower 40s. 
+.SATURDAY...Light rain showers likely. Highs in the mid 50s.
+Chance of showers 70 percent. 
+.SATURDAY NIGHT...Light rain showers likely. Lows around 40.
+Chance of showers 70 percent. 
+.SUNDAY...Light rain showers likely. Highs around 50. Chance of
+showers 70 percent. 
+
+$$
+
+MIZ030-250100-
+Alcona-
+Including the city of Harrisville
+1106 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Mostly cloudy. Highs in the upper 40s.
+Northwest winds around 10 mph with gusts to around 20 mph. 
+.TONIGHT...Partly cloudy early, then mostly cloudy with isolated
+snow showers after midnight. Lows around 30. Northwest
+winds 5 to 10 mph. Chance of snow 20 percent. 
+.TUESDAY...Mostly cloudy. A 40 percent chance of rain
+showers and snow showers in the afternoon. Highs in the mid
+40s. Northwest winds 5 to 10 mph shifting to the northeast in the
+afternoon. 
+.TUESDAY NIGHT...Partly cloudy. Lows in the upper 20s. Northwest
+winds 5 to 10 mph. 
+.WEDNESDAY...Partly sunny. Highs in the upper 40s. North winds
+5 to 10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Lows in the upper 20s. 
+.THURSDAY...Partly sunny. Highs in the lower 50s. 
+.THURSDAY NIGHT...Mostly cloudy. Lows in the upper 30s. 
+.FRIDAY...Partly sunny. Highs in the upper 50s. 
+.FRIDAY NIGHT...Mostly cloudy with a 40 percent chance of light
+rain showers. Lows in the lower 40s. 
+.SATURDAY...Light rain showers likely. Highs in the lower 50s.
+Chance of showers 60 percent. 
+.SATURDAY NIGHT...Light rain showers likely. Lows around 40.
+Chance of showers 60 percent. 
+.SUNDAY...Light rain showers likely. Highs in the lower 50s.
+Chance of showers 70 percent. 
+
+$$
+
+MIZ031-250100-
+Manistee-
+Including the city of Manistee
+1106 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Mostly sunny. Highs in the mid 40s. Northwest
+winds 5 to 10 mph. 
+.TONIGHT...Mostly clear. Lows in the upper 20s. North winds
+around 5 mph. 
+.TUESDAY...Partly sunny. Highs in the mid 40s. North winds 5 to
+10 mph. 
+.TUESDAY NIGHT...Mostly clear. Lows in the upper 20s. North winds
+5 to 15 mph. 
+.WEDNESDAY...Partly sunny. Highs in the upper 40s. North winds
+5 to 10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Lows in the upper 20s. 
+.THURSDAY...Partly sunny. Highs in the upper 50s. 
+.THURSDAY NIGHT...Mostly cloudy. Not as cool. Lows around 40. 
+.FRIDAY...Partly sunny. Highs in the mid 60s. 
+.FRIDAY NIGHT...Mostly cloudy with a 50 percent chance of light
+rain showers. Lows in the mid 40s. 
+.SATURDAY...Light rain showers likely. Highs in the upper 50s.
+Chance of showers 60 percent. 
+.SATURDAY NIGHT...Light rain showers likely. Lows around 40.
+Chance of showers 70 percent. 
+.SUNDAY...Light rain showers likely. Highs in the lower 50s.
+Chance of showers 70 percent. 
+
+$$
+
+MIZ032-250100-
+Wexford-
+Including the city of Cadillac
+1106 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Partly sunny. Highs in the mid 40s. Northwest
+winds 10 to 15 mph. 
+.TONIGHT...Mostly clear. Lows in the upper 20s. North winds 5 to
+10 mph. 
+.TUESDAY...Partly sunny. Highs in the mid 40s. North winds 5 to
+10 mph. 
+.TUESDAY NIGHT...Partly cloudy. Lows in the mid 20s. North winds
+5 to 15 mph. 
+.WEDNESDAY...Partly sunny. Highs in the upper 40s. Northwest
+winds 5 to 10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Lows in the mid 20s. 
+.THURSDAY...Partly sunny. Highs in the upper 50s. 
+.THURSDAY NIGHT...Mostly cloudy. Not as cool. Lows in the upper
+30s. 
+.FRIDAY...Partly sunny. Highs in the lower 60s. 
+.FRIDAY NIGHT...Mostly cloudy with a 50 percent chance of light
+rain showers. Lows in the lower 40s. 
+.SATURDAY...Light rain showers likely. Highs in the mid 50s.
+Chance of showers 60 percent. 
+.SATURDAY NIGHT...Light rain showers likely. Lows in the upper
+30s. Chance of showers 70 percent. 
+.SUNDAY...Light rain showers likely. Highs around 50. Chance of
+showers 70 percent. 
+
+$$
+
+MIZ033-250100-
+Missaukee-
+Including the city of Lake City
+1106 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Partly sunny. Highs in the mid 40s. Northwest
+winds 10 to 15 mph. 
+.TONIGHT...Mostly clear. Lows in the mid 20s. Northwest winds
+5 to 10 mph. 
+.TUESDAY...Partly sunny. Chance of rain showers and light
+snow showers in the afternoon. Highs in the mid 40s. Northwest
+winds 5 to 10 mph. Chance of precipitation 40 percent. 
+.TUESDAY NIGHT...Partly cloudy. Lows in the mid 20s. North winds
+5 to 10 mph. 
+.WEDNESDAY...Partly sunny. Highs in the upper 40s. Northwest
+winds 5 to 10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Lows in the mid 20s. 
+.THURSDAY...Partly sunny. Highs in the mid 50s. 
+.THURSDAY NIGHT...Mostly cloudy. Not as cool. Lows in the upper
+30s. 
+.FRIDAY...Partly sunny. Highs in the lower 60s. 
+.FRIDAY NIGHT...Mostly cloudy with a 50 percent chance of light
+rain showers. Lows in the lower 40s. 
+.SATURDAY...Light rain showers likely. Highs in the mid 50s.
+Chance of showers 70 percent. 
+.SATURDAY NIGHT...Light rain showers likely. Lows in the upper
+30s. Chance of showers 70 percent. 
+.SUNDAY...Light rain showers likely. Highs in the upper 40s.
+Chance of showers 70 percent. 
+
+$$
+
+MIZ034-250100-
+Roscommon-
+Including the city of Houghton Lake
+1106 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Partly sunny. Highs in the mid 40s. Northwest
+winds 10 to 15 mph. 
+.TONIGHT...Mostly clear. Lows in the mid 20s. Northwest winds
+5 to 10 mph. 
+.TUESDAY...Partly sunny. Chance of rain showers in the
+afternoon. Highs in the upper 40s. Northwest winds 5 to 10 mph.
+Chance of showers 40 percent. 
+.TUESDAY NIGHT...Partly cloudy. Lows in the mid 20s. North winds
+5 to 10 mph. 
+.WEDNESDAY...Partly sunny. Highs in the upper 40s. Northwest
+winds 5 to 10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Lows in the mid 20s. 
+.THURSDAY...Partly sunny. Highs in the mid 50s. 
+.THURSDAY NIGHT...Mostly cloudy. Lows in the mid 30s. 
+.FRIDAY...Partly sunny. Highs in the lower 60s. 
+.FRIDAY NIGHT...Mostly cloudy with a 50 percent chance of light
+rain showers. Lows in the lower 40s. 
+.SATURDAY...Light rain showers likely. Highs in the mid 50s.
+Chance of showers 70 percent. 
+.SATURDAY NIGHT...Light rain showers likely. Lows in the upper
+30s. Chance of showers 70 percent. 
+.SUNDAY...Light rain showers likely. Highs in the upper 40s.
+Chance of showers 70 percent. 
+
+$$
+
+MIZ035-250100-
+Ogemaw-
+Including the city of West Branch
+1106 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Partly sunny. Highs in the upper 40s. Northwest
+winds 10 to 15 mph. 
+.TONIGHT...Mostly clear. Lows in the upper 20s. Northwest winds
+5 to 10 mph. 
+.TUESDAY...Partly sunny. A 40 percent chance of rain
+showers in the afternoon. Highs in the upper 40s. Northwest winds
+5 to 10 mph. 
+.TUESDAY NIGHT...Partly cloudy. Lows in the upper 20s. North
+winds 5 to 10 mph. 
+.WEDNESDAY...Partly sunny. Highs in the upper 40s. Northwest
+winds 5 to 10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Lows in the upper 20s. 
+.THURSDAY...Partly sunny. Highs in the mid 50s. 
+.THURSDAY NIGHT...Mostly cloudy. Lows in the mid 30s. 
+.FRIDAY...Partly sunny. Highs around 60. 
+.FRIDAY NIGHT...Mostly cloudy with a 40 percent chance of light
+rain showers. Lows in the lower 40s. 
+.SATURDAY...Light rain showers likely. Highs in the mid 50s.
+Chance of showers 70 percent. 
+.SATURDAY NIGHT...Light rain showers likely. Lows around 40.
+Chance of showers 70 percent. 
+.SUNDAY...Light rain showers likely. Highs around 50. Chance of
+showers 70 percent. 
+
+$$
+
+MIZ036-250100-
+Iosco-
+Including the city of Tawas City
+1106 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Mostly cloudy. Highs around 50. Northwest winds
+10 to 15 mph. 
+.TONIGHT...Partly cloudy. Lows in the upper 20s. Northwest winds
+5 to 10 mph. 
+.TUESDAY...Partly sunny. A 40 percent chance of rain
+showers in the afternoon. Highs in the upper 40s. Northwest winds
+5 to 10 mph shifting to the northeast in the afternoon. 
+.TUESDAY NIGHT...Partly cloudy. Lows in the upper 20s. North
+winds 5 to 10 mph. 
+.WEDNESDAY...Partly sunny. Highs in the upper 40s. North winds
+around 10 mph shifting to the northeast in the afternoon. 
+.WEDNESDAY NIGHT...Mostly clear. Lows in the upper 20s. 
+.THURSDAY...Partly sunny. Highs in the mid 50s. 
+.THURSDAY NIGHT...Mostly cloudy. Lows in the upper 30s. 
+.FRIDAY...Partly sunny. Highs in the upper 50s. 
+.FRIDAY NIGHT...Mostly cloudy with a 40 percent chance of light
+rain showers. Lows in the lower 40s. 
+.SATURDAY...Light rain showers likely. Highs in the mid 50s.
+Chance of showers 60 percent. 
+.SATURDAY NIGHT...Light rain showers likely. Lows in the lower
+40s. Chance of showers 60 percent. 
+.SUNDAY...Light rain showers likely. Highs in the lower 50s.
+Chance of showers 70 percent. 
+
+$$
+
+MIZ041-250100-
+Gladwin-
+Including the city of Gladwin
+1106 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Partly sunny. Highs around 50. Northwest winds
+10 to 15 mph. 
+.TONIGHT...Mostly clear. Lows in the upper 20s. Northwest winds
+5 to 10 mph. 
+.TUESDAY...Partly sunny. Chance of rain showers in the
+afternoon. Highs in the upper 40s. Northwest winds 5 to 10 mph.
+Chance of showers 40 percent. 
+.TUESDAY NIGHT...Partly cloudy. Lows in the upper 20s. North
+winds 5 to 10 mph. 
+.WEDNESDAY...Partly sunny. Highs in the lower 50s. Northwest
+winds 5 to 10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Lows in the upper 20s. 
+.THURSDAY...Partly sunny. Highs in the upper 50s. 
+.THURSDAY NIGHT...Mostly cloudy. Lows in the upper 30s. 
+.FRIDAY...Partly sunny. Highs in the lower 60s. 
+.FRIDAY NIGHT...Mostly cloudy with a 50 percent chance of light
+rain showers. Lows in the mid 40s. 
+.SATURDAY...Light rain showers likely. Highs in the upper 50s.
+Chance of showers 60 percent. 
+.SATURDAY NIGHT...Light rain showers likely. Lows in the lower
+40s. Chance of showers 70 percent. 
+.SUNDAY...Light rain showers likely. Highs in the lower 50s.
+Chance of showers 70 percent. 
+
+$$
+
+MIZ042-250100-
+Arenac-
+Including the city of Standish
+1106 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...Partly sunny. Highs around 50. Northwest winds
+10 to 15 mph. 
+.TONIGHT...Mostly clear. Lows in the upper 20s. Northwest winds
+5 to 10 mph. 
+.TUESDAY...Partly sunny. Chance of rain showers in the
+afternoon. Highs in the upper 40s. Northwest winds 5 to 10 mph
+shifting to the east in the afternoon. Chance of showers
+40 percent. 
+.TUESDAY NIGHT...Partly cloudy. Lows around 30. North winds 5 to
+10 mph. 
+.WEDNESDAY...Partly sunny. Highs around 50. North winds 5 to
+10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Lows around 30. 
+.THURSDAY...Partly sunny. Highs in the mid 50s. 
+.THURSDAY NIGHT...Mostly cloudy. Lows in the upper 30s. 
+.FRIDAY...Partly sunny. Highs in the upper 50s. 
+.FRIDAY NIGHT...Mostly cloudy with a 40 percent chance of light
+rain showers. Lows in the lower 40s. 
+.SATURDAY...Light rain showers likely. Highs in the mid 50s.
+Chance of showers 60 percent. 
+.SATURDAY NIGHT...Light rain showers likely. Lows in the lower
+40s. Chance of showers 60 percent. 
+.SUNDAY...Light rain showers likely. Highs in the lower 50s.
+Chance of showers 70 percent. 
+
+$$
+

@@ -1,0 +1,44 @@
+CDUS45 KMSO 241440
+CLIMSO
+
+CLIMATE REPORT 
+NATIONAL WEATHER SERVICE MISSOULA MT
+840 AM MDT MON APR 24 2023
+
+...................................
+
+...THE MISSOULA MT CLIMATE SUMMARY FOR APRIL 24 2023...
+VALID AS OF 0800 AM LOCAL TIME.
+
+CLIMATE NORMAL PERIOD 1991 TO 2020
+CLIMATE RECORD PERIOD 1893 TO 2023
+
+
+WEATHER ITEM   OBSERVED RECORD YEAR NORMAL                            
+                VALUE   VALUE       VALUE                            
+.............................................
+TEMPERATURE (F)                                                          
+ TODAY                                                               
+  MINIMUM         44     20    2002  34                               
+
+PRECIPITATION (IN)                                                    
+  TODAY            0.02                                               
+
+.............................................
+
+
+
+SUNRISE AND SUNSET                                                    
+APRIL 24 2023.........SUNRISE   633 AM MDT   SUNSET   837 PM MDT     
+APRIL 25 2023.........SUNRISE   631 AM MDT   SUNSET   838 PM MDT     
+
+
+-  INDICATES NEGATIVE NUMBERS.
+R  INDICATES RECORD WAS SET OR TIED.
+MM INDICATES DATA IS MISSING.
+T  INDICATES TRACE AMOUNT.
+
+
+
+
+$$

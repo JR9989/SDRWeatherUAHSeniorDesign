@@ -1,0 +1,130 @@
+SHUS44 KJAN 241445
+AGOJAN
+ARZ074-075-LAZ007>009-015-016-023>026-MSZ018-019-025>066-072>074-
+241744-
+ARKLAMISS DAILY CLIMATE AND AGRICULTURE WEATHER REPORTS
+NATIONAL WEATHER SERVICE JACKSON, MS
+945 AM CDT Mon Apr 24 2023
+
+24-Hour Temp/Precip Observations Ending Between 6 AM And 10 AM
+
+                                Temperatures          Precipitation
+Station                       High  Low   Obs       Liquid   Snowfall
+
+Northwest Mississippi...
+
+Cleveland 1 WSW                54    48    49        0.00      0.00
+Greenville 2 SE*                                     0.00
+
+North Central Mississippi...
+
+Tchula 3 NNE*                                        0.00
+Winona 6 E                     46    44    44        0.00         M
+
+Northeast Mississippi...
+
+Tombigbee NF nr Bluff Lake*                          0.00
+Columbus 2 ENE*                                      0.00
+Starkville/Mississippi St      61    45    47        0.00         M
+
+West Central Mississippi...
+
+Belzoni                        61    49    50        0.00         M
+Bovina/Edwards 5 W*                                  0.00
+Vicksburg 2 N                  62    51    51        0.00         M
+
+Central Mississippi...
+
+Ackerman 3 SE*                                       0.00
+Bentonia 3 S*                                        0.00
+Canton 4 N                     62    48    49          T          M
+Crystal Springs 3 SSW          66    48    48          T          M
+Crystal Springs 3 SSW RAWS*                          0.00
+Edinburg/Carthage 13 ENE*                            0.00
+Forest 4 S*                                          0.01
+Lena 5 NNW*                                          0.00
+Ofahoma/Carthage 8 WNW*                              0.00
+Pelahatchie Crk Hwy 25*                              0.00
+Pelahatchie 3 E*                                     0.00
+Walnut Grove                                           T          M
+Walnut Grove*                                        0.00
+
+East Central Mississippi...
+
+Collinsville 7 SE                                      T          M
+Damascus/De Kalb 13 SW*                              0.00
+Okatibbee Reservoir(office)                          0.00         M
+Okatibbee Reservoir (DAM)*                           0.00
+Philadelphia 5 N*                                    0.00
+Toomsuba 5 SE*                                       0.02
+Turkey Crk WP/Decatur 4 SW                           0.01         M
+
+Southwest Mississippi...
+
+Bude 3 S*                                            0.01
+Natchez 4 NE                   65    50    50        0.02         M
+
+South Central Mississippi...
+
+Columbia                       72    50    53        0.00         M
+Foxworth 4 SW*                                       0.00
+
+Southeast Mississippi...
+
+Collins 8 NNE/Hot Coffee*                            0.00
+Hattiesburg 1 NNE*                                   0.00
+Laurel 1 SSE                   77    48    49        0.00         M
+
+Northeast Louisiana...
+
+Acme 8 WSW/Red River Lock                            0.00      0.00
+Oak Grove                                            0.00         M
+St Joseph 2 N                  64    51    53        0.00         M
+Vidalia                                              0.00         M
+
+Southeast Arkansas...
+
+Portland 1 NNE                 54    46    54        0.00         M
+
+
+24 Hour Observations Ending at Midnight
+
+                                Temperatures          Precipitation
+Station                       High  Low   Obs       Liquid   Snowfall
+Columbus 3 SE                  68    47    50        0.00        M
+
+
+24-Hour Soil Temp Observations Ending Between 6 AM And 10AM
+
+                                2 Inch        4 Inch       8 Inch
+Station                       Hi  Lo  Obs   Hi  Lo  Obs   Hi  Lo  Obs
+St Joseph-LSU Ag Ctr NE LA    79  62  63
+Starkville/Miss State U MS    79  56  56    67  60  60    65  62  62
+
+
+Miscellaneous Agricultural Observations Ending Between 7 AM And 10 AM
+
+
+
+                                 Evaporation    24 Hour Wind
+                                   (Inches)       (Miles)
+
+Newton Ag Exp Station MS                M             M
+St Joseph-LSU Ag Ctr NE LA           0.28             0
+Starkville/Miss State U MS           0.19            89
+Stoneville Exp Stn MS                   M             M
+
+
+*Automated stations are denoted by an asterisk
+
+
+
+These data are preliminary and have not undergone final quality 
+control by the National Centers for Environmental Information/NCEI/. 
+Therefore...These data are subject to revision. Final and certified
+climate data can be accessed at www.ncdc.noaa.gov .
+
+
+
+$$
+

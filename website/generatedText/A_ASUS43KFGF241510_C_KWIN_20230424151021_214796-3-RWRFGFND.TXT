@@ -1,0 +1,182 @@
+ASUS43 KFGF 241510
+RWRFGF
+PRAIRIE TO PINES  WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE EASTERN NORTH DAKOTA/GRAND FORKS ND
+1000 AM CDT MON APR 24 2023
+
+ **SATELLITE DATA USED TO AUGMENT SKY COVER AT AUTOMATED STATIONS**
+ *****  WEATHER ACROSS EASTERN NORTH DAKOTA  *****
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+GRAND FORKS    FAIR      38  25  59 NE5       30.19S                  
+GRAND FRKS AFB CLOUDY    35  28  73 NW3       30.18S                  
+DEVILS LAKE    CLOUDY    36  21  54 NE7       30.21R                  
+FARGO          FAIR      39  30  70 NE7       30.18S                  
+WAHPETON ARPT  FAIR      37  30  75 NW8       30.17S                  
+$$
+
+ ***** WEATHER ACROSS CENTRAL AND WESTERN NORTH DAKOTA  *****
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BISMARCK       FAIR      37  25  61 E9        30.12S                  
+MINOT          FAIR      38  26  62 SE9       30.12S                  
+JAMESTOWN      FAIR      37  27  67 NE8       30.16S                  
+MINOT AFB      SUNNY     36  27  71 S8        30.11S                  
+GARRISON         N/A     36  28  73 SE9       30.10F                  
+WILLISTON      NOT AVBL                                               
+DICKINSON      FAIR      43  18  36 SE12      30.00S                  
+HETTINGER      FAIR      44  18  35 SE15      30.01S                  
+$$
+
+ *****  OTHER AIRPORT OBSERVATIONS IN OUR AREA  *****
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+WALHALLA       CLOUDY    34  30  86 N5        30.21R                  
+GRAFTON AIRPOR CLOUDY    36  28  75 NE5       30.21S                  
+VALLEY CITY AR CLOUDY    34  34 100 N7        30.17F                  
+CANDO          PTSUNNY   37  23  56 NE6       30.20R                  
+CAVALIER APRT  CLOUDY    34  28  80 N5        30.20S                  
+GWINNER        SUNNY     37  37 100 NE12      30.17S                  
+SHEYENNE NWR     N/A     39  27  61 NE6       29.95                   
+ROLLA          NOT AVBL                                               
+ ***** THE ABOVE OBSERVATIONS ARE NON NWS ARE NOT QUALITY
+       CONTROLLED AND MAY MIS-REPORT RAIN FOR SNOW...
+$$
+
+  *****  WEATHER ACROSS NORTHERN MINNESOTA  *****     
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+FLAG ISLAND    FAIR      32  21  64 CALM      30.18R                  
+WARROAD        PTSUNNY   37  25  60 NW7       30.18R                  
+ROSEAU         FAIR      36  27  69 CALM      30.18S                  
+HALLOCK        CLOUDY    34  28  80 N3        30.20S                  
+THF RVR FALLS  FAIR      36  24  62 NE7       30.19S                  
+BAUDETTE       CLOUDY    38  25  59 MISG      30.17R                  
+WASKISH        FAIR      36  28  75 CALM      30.16S                  
+CROOKSTON      FAIR      37  27  65 NE7       30.19S                  
+STEPHEN NDAWN    N/A     32  27  80 VRB5        N/A                   
+GREENBUSH NDAW   N/A     36  21  55 VRB3        N/A                   
+$$
+  *****  WEATHER ACROSS CENTRAL AND WEST MINNESOTA  *****     
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+FOSSTON        FAIR      32  27  80 N5        30.17S                  
+BEMIDJI        FAIR      36  22  56 CALM      30.15S                  
+PARK RAPIDS    FAIR      37  22  54 N3        30.14S                  
+ELBOW LAKE     FAIR      35  35 100 NE5       30.17S                  
+WADENA         FAIR      37  21  52 N3        30.15S                  
+DETROIT LAKES  FAIR      36  27  69 N6        30.15F                  
+MOORHEAD       FAIR      36  30  80 NE5       30.19S                  
+FERGUS FALLS   FAIR      37  28  70 E5        30.15S                  
+MORRIS MN      FAIR      37  27  65 N7        30.17R                  
+STAPLES        FAIR      37  21  52 CALM      30.15S                  
+$$
+  *****  WEATHER ELSEWHERE ACROSS MINNESOTA  *****     
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+DULUTH         CLOUDY    35  23  61 E6        30.14R                  
+INTRNTL FALLS  FAIR      33  21  61 SE8       30.16S                  
+ELY            FAIR      32  21  64 CALM      30.16S                  
+CLOQUET        FAIR      36  21  55 NE5       30.13S                  
+WHEATON        FAIR      37  30  75 N6        30.19S                  
+BRAINERD       FAIR      39  22  50 NE7       30.15S                  
+HIBBING        FAIR      36  16  44 CALM      30.14S                  
+ALEXANDRIA     FAIR      38  24  57 N7        30.15S                  
+SAINT CLOUD    FAIR      42  26  53 N7        30.14F                  
+MINNEAPOLIS    FAIR      43  30  60 N6        30.15S                  
+$$
+
+  *****  WEATHER ACROSS SOUTH DAKOTA  *****
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+SIOUX FALLS    FAIR      48  25  40 NE6       30.10S                  
+BROOKINGS      FAIR      41  28  60 NE13      30.12S                  
+WATERTOWN      FAIR      40  26  57 NE10      30.12R                  
+HURON          FAIR      45  27  49 E9        30.10F                  
+SISSETON         N/A     41  26  55 N10       30.16S                  
+ABERDEEN       FAIR      42  22  44 E16       30.14S                  
+MITCHELL       FAIR      43  27  53 VRB3      30.10S                  
+PIERRE         FAIR      45  23  42 E9        30.04F                  
+MOBRIDGE       FAIR      44  25  47 E15       30.06S                  
+RAPID CITY     FAIR      41  23  48 SE9       29.95S                  
+$$
+
+  *****  SOME WEATHER IN NEARBY STATES *****
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+GLASGOW MT     CLOUDY    39  21  48 SE28      29.88S                  
+GREAT FALLS MT CLOUDY    46  35  65 SW13      29.76S                  
+CHEYENNE WY    FAIR      49  24  37 W6        29.90F                  
+SCOTTSBLUFF NE FAIR      46  25  43 SE8       29.90S                  
+OMAHA NE       PTSUNNY   46  29  51 S5        30.08S                  
+DES MOINES IA  PTSUNNY   47  26  44 S13       30.15F                  
+DAVENPORT IA   FAIR      49  25  39 SW9       30.23S                  
+CHICAGO IL     FAIR      44  22  41 W6        30.19S                  
+EAU CLAIRE WI  CLOUDY    40  26  57 NE3       30.14S                  
+LA CROSSE WI   CLOUDY    43  28  56 CALM      30.16F                  
+$$
+
+  *****  SOME NATIONAL WEATHER *****
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+LA GUARDIA NY  FAIR      54  35  48 CALM      30.05F                  
+RALEIGH NC     FAIR      56  32  40 NE12G18   30.14S                  
+ATLANTA GA     PTSUNNY   57  32  38 N6        30.16R                  
+NEW ORLEANS LA CLOUDY    61  49  64 NE14      30.08S                  
+OKLAHOMA CITY  PTSUNNY   53  40  61 S14       30.16R                  
+ALBUQUERQUE NM CLOUDY    52  32  46 N5        29.96S                  
+SALT LAKE CITY PTSUNNY   52  37  56 SE8       29.88F                  
+LOS ANGELES CA CLOUDY    60  54  80 SE6       29.90S                  
+BOISE ID       PTSUNNY   49  42  77 W12       29.88R                  
+SEATTLE WA     CLOUDY    45  41  86 SW10      30.06R                  
+$$
+
+*** WEATHER ACROSS MANITOBA...SASKATCHEWAN AND ONTARIO ***
+                ***ONTARIO***
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+GERALDTON      NOT AVBL                                               
+THUNDER BAY    FLURRIES  34  21  60 NE8       30.20S                  
+SIOUX LOOKOUT  PTSUNNY   34  16  47 VRB5      30.20S                  
+TORONTO        PTSUNNY   43  39  87 NW7       30.06S                  
+BIG TROUT LK   FLURRIES  28  21  74 NW3       30.25S                  
+PICKLE LAKE    CLOUDY    28  14  54 E6        30.22R WCI  22          
+DRYDEN         SUNNY     34  19  55 E6        30.18S                  
+KENORA         PTSUNNY   36  18  48 E7        30.16S                  
+$$      
+                *** MANITOBA***
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BRANDON        MOSUNNY   34  23  64 NE9       30.19S                  
+DAUPHIN        SUNNY     34  23  64 E3        30.22S                  
+ISLAND LAKE    PTSUNNY   32  21  64 VRB2      30.27S                  
+PILOT MOUND      N/A     34  23  64 NE5         N/A                   
+THE PAS        SUNNY     34  19  55 SE13G18   30.24S WCI  25          
+THOMPSON       MOSUNNY   30  18  59 SW3       30.28F                  
+WINNIPEG       MOSUNNY   36  21  55 N14G20    30.21S                  
+LYNN LAKE      SUNNY     34  19  55 SE5       30.22S                  
+CHURCHILL      CLOUDY    18  16  93 NW12      30.36R FOG     WCI   5  
+$$
+                ***SASKATCHEWAN***
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ESTEVAN        NOT AVBL                                               
+KINDERSLEY     PTSUNNY   41  21  45 SE22G32   29.82F                  
+LLOYDMINSTER   CLOUDY    37  21  52 SE22      29.84F                  
+PRINCE ALBERT  PTSUNNY   39  25  56 SE16G24   30.11S                  
+REGINA         PTSUNNY   36  25  64 SE17      30.06F                  
+YORKTON        SUNNY     36  25  64 SE13      30.15S                  
+N. BATTLEFORD  SUNNY     37  23  56 E23       29.95F                  
+LA RONGE       PTSUNNY   37  14  38 SE9       30.13S                  
+SASKATOON      PTSUNNY   39  23  52 SE20G26   30.00F                  
+SWIFT CURRENT  MOSUNNY   39  23  52 SE24      29.86S                  
+$$
+NOTE: THESE ARE AUTOMATED STATIONS WITH LIMITED QUALITY CONTROL
+      "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+      SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+      SKY/WX - SKY CONDITION AND SIGNIFICANT WEATHER.
+      TMP - AIR TEMPERATURE.    DP   - DEWPOINT TEMPERATURE.
+      RH  - RELATIVE HUMIDITY.  PRES - PRESSURE.
+      HX  - HEAT INDEX.         WCI  - WIND CHILL INDEX.
+$
+  

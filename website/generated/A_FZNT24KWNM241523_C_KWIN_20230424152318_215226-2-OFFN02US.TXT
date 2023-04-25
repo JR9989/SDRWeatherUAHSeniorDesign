@@ -1,0 +1,68 @@
+FZNT24 KWNM 241523
+OFFN02
+
+NAVTEX Marine Forecast for Mid-Atlantic states waters
+NWS Ocean Prediction Center Washington DC
+1123 AM EDT Mon Apr 24 2023
+
+Conditions given represent the highest within that period.
+
+...Please refer to Coastal Waters Forecasts (CWF) available
+through NOAA Weather Radio and other means for detailed coastal
+waters forecasts...
+
+.SYNOPSIS...A cold front will push slowly E and SE across the
+waters today into Tue, then stall near or just S of the far
+southern portions Tue night into Wed. High pressure will build to
+the Mid-Atlantic coast Tue, then move offshore Tue night. The
+high will persist Wed and Wed night, then shift NE of the area
+Thu into Fri night. A series of low pressures will develop along
+the stalled front across the southern waters Wed night through
+Fri night.  
+
+Sandy Hook to 37.5N
+
+.TODAY...N to NW winds 5 to 15 kt, becoming N 10 to 20 kt. Seas
+3 to 5 ft. 
+.TONIGHT...N to NW winds 10 to 20 kt. Seas 4 to 6 ft. 
+.TUE...N to NW winds 10 to 20 kt. Seas 4 to 7 ft. 
+.TUE NIGHT...N winds 5 to 15 kt. Seas 5 to 8 ft. 
+.WED...S winds 5 to 15 kt. Seas 5 to 8 ft. 
+.WED NIGHT...Variable winds 5 to 15 kt. Seas 5 to 8 ft. 
+.THU...E to SE winds 5 to 15 kt. Seas 3 to 6 ft. 
+.THU NIGHT...E winds 5 to 15 kt. Seas 3 to 6 ft. 
+.FRI...E winds 10 to 20 kt. Seas 5 to 9 ft. 
+.FRI NIGHT...E winds 15 to 25 kt. Seas 7 to 11 ft. 
+
+37.5N to Cape Hatteras
+
+.TODAY...N winds 10 to 20 kt. Seas 4 to 6 ft. Scattered showers
+and tstms. 
+.TONIGHT...N winds 10 to 20 kt. Seas 4 to 6 ft. Scattered
+showers. 
+.TUE...N to NE winds 10 to 20 kt. Seas 4 to 7 ft. 
+.TUE NIGHT...NE winds 10 to 20 kt. Seas 4 to 7 ft. Chance of
+showers. 
+.WED...E to NE winds 5 to 15 kt. Seas 4 to 6 ft. 
+.WED NIGHT...E to SE winds 10 to 20 kt. Seas 4 to 6 ft. 
+.THU...E to NE winds 10 to 20 kt. Seas 4 to 6 ft. 
+.THU NIGHT...E to SE winds 10 to 20 kt. Seas 5 to 7 ft. 
+.FRI...E to SE winds 15 to 25 kt. Seas 5 to 9 ft. 
+.FRI NIGHT...SE winds 15 to 25 kt. Seas 6 to 10 ft. 
+
+Cape Hatteras to Murrells Inlet
+
+.TODAY...W to NW winds 5 to 15 kt, becoming N 10 to 20 kt. Seas
+3 to 5 ft. Scattered showers. 
+.TONIGHT...N to NE winds 10 to 20 kt. Seas 4 to 6 ft. Scattered
+showers and tstms. 
+.TUE...NE winds 10 to 20 kt. Seas 4 to 6 ft. Scattered showers
+and tstms. 
+.TUE NIGHT...E to NE winds 20 to 30 kt. Seas 5 to 8 ft.
+Scattered showers and tstms. 
+.WED...E winds 15 to 25 kt. Seas 5 to 8 ft. 
+.WED NIGHT...E to SE winds 10 to 20 kt. Seas 5 to 8 ft. 
+.THU...E winds 15 to 25 kt. Seas 5 to 7 ft. 
+.THU NIGHT...SE winds 15 to 25 kt. Seas 5 to 7 ft. 
+.FRI...S to SE winds 15 to 25 kt. Seas 5 to 8 ft. 
+.FRI NIGHT...E to SE winds 15 to 25 kt. Seas 6 to 9 ft. 

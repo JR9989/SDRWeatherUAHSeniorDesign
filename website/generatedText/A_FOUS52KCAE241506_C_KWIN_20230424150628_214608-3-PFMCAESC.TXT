@@ -1,0 +1,343 @@
+FOUS52 KCAE 241506
+PFMCAE
+
+Point Forecast Matrices
+National Weather Service Columbia SC
+1105 AM EDT Mon Apr 24 2023
+
+SCZ027-242100-
+Columbia Metropolitan Airport-Lexington SC
+33.95N  81.12W Elev. 225 ft
+1105 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      71          47          72          53          73
+Temp                   67 71 65 57 52 49 50 61 70 72 65 59 57 54 55 65 71 71 65
+Dewpt                  38 39 42 44 43 41 36 38 39 41 44 47 47 47 48 51 50 51 52
+RH                     34 31 43 62 71 74 58 42 32 33 46 64 69 77 77 60 47 49 63
+Wind dir                N  W NW NE NE  N NE NE  E  E  E  E  E  E NE  E  E NE NE
+Wind spd                4  4  3  3  3  5  9  9  6  5  5  5  4  5  5  8  8  8  9
+Clouds                 B1 B1 SC SC FW SC SC SC SC B1 B1 B1 B1 B2 SC B1 B2 B2 B2
+PoP 12hr                      5           0           5          20          40
+QPF 12hr                      0           0           0           0        0.04
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                     S  C  C  C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          52    76      57    75      57    79      57    74
+Temp          56 54 74 70   59 59 73 70   61 59 76 73   62 58 72 67
+Dewpt         52 53 53 55   57 57 60 61   60 58 59 59   57 57 53 50
+PWind dir        NE     E      SE    SE      NW    NW       S    SW
+Wind char        GN    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B2 B1 B1 B1   B1 B2 B2 B1   SC B1 SC SC   SC SC SC SC
+PoP 12hr         30    30      60    50      30    20      30    20
+Rain shwrs     C  S  S  C    C  L  C  C    C  S  S  S    C  S  S  S
+Tstms                   S    S        S                            
+
+$$
+SCZ028-242100-
+Columbia Owens Downtown Airport-Richland SC
+33.97N  80.98W Elev. 212 ft
+1105 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      70          48          72          53          73
+Temp                   67 70 64 56 51 48 50 61 70 72 65 59 57 54 55 65 71 71 65
+Dewpt                  38 38 41 44 42 41 34 37 37 39 43 46 46 46 47 50 49 50 52
+RH                     34 31 43 64 71 77 54 41 30 30 45 62 67 74 74 58 46 47 63
+Wind dir                N  W  N NE NE NE NE NE  E  E  E  E  E  E NE  E  E NE NE
+Wind spd                4  4  3  3  3  5  9  9  6  5  4  4  4  5  5  8  8  8  9
+Clouds                 B1 B1 SC SC FW SC SC SC SC B1 B1 B1 B1 B2 B1 B1 B2 B2 B2
+PoP 12hr                      5           0           5          20          40
+QPF 12hr                      0           0           0           0        0.04
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                     S  C  C  C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          52    75      58    74      57    79      57    73
+Temp          56 54 73 70   60 59 72 69   61 59 76 73   61 58 72 67
+Dewpt         51 52 52 55   56 57 59 60   59 58 58 59   57 57 52 48
+PWind dir        NE     E      SE    SE       E    NW       S    SW
+Wind char        GN    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B2 B1 B1 B1   B1 B2 B2 B1   SC B1 SC SC   SC SC SC SC
+PoP 12hr         30    30      60    60      30    30      30    20
+Rain shwrs     C  S  S  C    C  L  L  C    C  S  S  C    C  S  S  S
+Tstms                   S    S        S                            
+
+$$
+SCZ031-242100-
+Shaw Air Force Base-Sumter SC
+33.97N  80.47W Elev. 242 ft
+1105 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      69          47          72          52          73
+Temp                   65 69 63 56 53 49 50 61 70 71 63 59 55 52 55 66 70 71 64
+Dewpt                  42 41 44 44 43 41 37 40 40 40 45 47 47 47 48 51 50 50 52
+RH                     43 36 50 64 69 74 61 46 33 32 52 64 74 83 77 58 49 47 65
+Wind dir                N  W NE NE NE NE NE NE NE  E  E  E NE NE NE  E  E  E  E
+Wind spd                5  4  2  4  4  6 10 11  8  6  5  6  5  6  8 10 10  9 10
+Clouds                 B1 B1 SC SC SC SC SC SC SC B1 B1 B1 B1 B2 SC B1 B2 B2 B2
+PoP 12hr                      5           0           5          20          40
+QPF 12hr                      0           0           0        0.01        0.05
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                     S  C  C  C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          53    75      58    75      58    78      58    74
+Temp          56 55 73 69   59 60 73 69   61 60 76 72   60 60 73 65
+Dewpt         52 54 53 55   57 57 60 61   60 59 59 60   59 58 54 50
+PWind dir        NE    NE       E    SE       E    NW      SE    SW
+Wind char        GN    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B1 B1 B1 B1   B1 B2 B2 B1   B1 B1 SC SC   SC B1 SC SC
+PoP 12hr         30    20      50    50      30    20      30    20
+Rain shwrs     C  S  S  S    C  C  C  C    C  S  S  S    C  S  S  S
+Tstms                   S    S        S                            
+
+$$
+SCZ136-242100-
+Orangeburg Municipal Airport-Orangeburg SC
+33.45N  80.85W Elev. 197 ft
+1105 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      70          50          72          53          74
+Temp                   66 70 64 57 53 51 52 63 70 72 65 60 57 54 57 68 73 72 66
+Dewpt                  41 41 45 45 45 44 41 41 41 42 47 50 50 50 50 52 52 52 54
+RH                     40 35 50 64 74 77 66 44 35 34 52 69 77 86 77 57 48 49 65
+Wind dir                N NW  N NE NE NE NE NE NE  E NE  E  E NE NE  E  E  E  E
+Wind spd                5  5  4  4  5  5 10 11  9  8  5  5  6  8 10 11 10 10 10
+Clouds                 B2 B2 B1 B1 SC SC B1 B1 B1 B1 B2 B1 B1 B2 B1 B1 B2 B2 B2
+PoP 12hr                      5           0          10          20          40
+QPF 12hr                      0           0           0           0        0.07
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                     S  C  C  C  C  C
+Tstms                                                                   S  S   
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          55    77      60    76      58    80      58    74
+Temp          58 57 74 71   62 61 73 71   63 60 78 74   63 59 72 68
+Dewpt         55 55 53 56   58 59 61 61   60 60 58 59   58 59 52 50
+PWind dir        NE     E      SE     S       W     W       S    SW
+Wind char        GN    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B1 B1 SC B1   B1 B2 B2 B1   SC B1 SC FW   FW B1 SC SC
+PoP 12hr         30    30      60    60      30    20      20    20
+Rain shwrs     C  S  S  C    C  L  L  C    C  S     S    S  S  S  S
+Tstms                   S    S        S                            
+
+$$
+GAZ065-242100-
+August Regional Airport at Bush Field-Richmond GA
+33.37N  81.97W Elev. 148 ft
+1105 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      71          46          73          50          75
+Temp                   66 70 61 53 49 46 51 61 70 73 64 58 55 52 56 67 73 73 64
+Dewpt                  39 40 44 44 41 40 39 40 39 40 46 48 48 49 49 52 50 51 55
+RH                     37 33 53 71 74 79 63 46 32 30 52 69 77 89 77 59 44 46 73
+Wind dir                N NW  N NE NE NE NE NE  E  E  E  E  E  E NE  E  E  E  E
+Wind spd                4  3  3  3  3  4  9 10  9  8  5  5  4  4  5 10  9 10 10
+Clouds                 B1 B1 B1 SC SC SC B1 B1 SC B1 B2 B2 B1 B2 B1 B2 B1 B2 B1
+PoP 12hr                      5           0          10          30          40
+QPF 12hr                      0           0           0        0.01        0.09
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                     C  C  C  C  C  C
+Tstms                                                                   S  S   
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          51    76      57    77      54    80      53    73
+Temp          55 55 74 69   59 59 74 70   59 58 77 72   59 58 70 63
+Dewpt         52 53 53 57   56 58 59 61   57 57 56 58   55 56 49 47
+PWind dir        NE     E      SE     S      NW     W       S     W
+Wind char        GN    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B1 B1 B1 B1   B1 B2 B1 SC   SC SC SC FW   SC SC SC SC
+PoP 12hr         30    30      60    60      30    20      20    20
+Rain shwrs     C     S  C    C  L  L  C    C  S     S    S  S  S  S
+Tstms                   S    S        S                            
+
+$$
+GAZ065-242100-
+Augusta Daniel Field-Richmond GA
+33.47N  82.03W Elev. 423 ft
+1105 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      70          50          72          55          74
+Temp                   65 69 64 59 55 50 53 61 69 72 66 63 60 56 57 66 71 72 67
+Dewpt                  37 38 40 41 41 39 37 37 38 40 43 45 47 49 49 50 50 51 52
+RH                     35 32 41 51 59 66 54 41 32 31 43 52 62 77 75 56 47 48 59
+Wind dir                N NW  N NE  N NE NE NE  E  E  E  E  E  E NE  E  E  E  E
+Wind spd                4  4  3  3  4  6 10 10  8  6  6  6  6  5  6 10  8  9 12
+Clouds                 B1 B1 SC SC SC SC B1 B1 SC B1 B1 B2 B1 B2 B1 B2 B2 B2 B1
+PoP 12hr                      5           0           5          30          40
+QPF 12hr                      0           0           0        0.01        0.08
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                     C  C  C  C  C  C
+Tstms                                                                   S  S   
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          56    75      60    75      58    78      58    72
+Temp          60 58 73 72   63 61 73 73   64 60 76 74   65 59 69 67
+Dewpt         51 53 53 54   56 58 59 58   57 56 55 56   54 56 48 45
+PWind dir        NE     E      SE     S      NW     W       S     W
+Wind char        GN    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B1 B1 B1 B1   B1 B2 B2 SC   SC SC SC FW   SC SC SC SC
+PoP 12hr         30    30      60    60      30    20      20    20
+Rain shwrs     C     S  C    C  L  L  C    C  S     S    S  S  S  S
+Tstms                   S    S        S                            
+
+$$
+SCZ116-242100-
+Lancaster County Airport-Lancaster SC
+34.72N  80.86W Elev. 486 ft
+1105 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      68          43          68          47          66
+Temp                   66 67 59 50 46 43 47 60 67 68 61 54 52 49 52 62 66 64 60
+Dewpt                  35 34 38 38 36 33 33 33 34 36 41 42 43 44 45 47 46 47 47
+RH                     32 29 45 63 68 67 58 36 29 31 48 64 71 83 77 58 48 54 62
+Wind dir                N NW  N NE  N NE NE NE NE NE NE  E  E  E NE  E NE NE NE
+Wind spd                5  4  2  3  4  9  9  9  6  5  5  5  4  5  4  6  8  8  9
+Clouds                 FW SC FW FW FW FW FW FW SC SC SC B1 B1 B2 B1 B2 B2 B2 B2
+PoP 12hr                      0           0           5          20          40
+QPF 12hr                      0           0           0           0        0.03
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                     S  C  C  C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          50    70      56    70      55    74      56    69
+Temp          53 52 69 65   58 57 68 66   58 57 72 68   58 58 68 63
+Dewpt         49 50 50 52   53 55 57 59   57 57 56 57   57 57 51 47
+PWind dir        NE     E       E     E      NE     E      SE    SW
+Wind char        GN    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B2 B1 B1 B1   B1 B2 B2 B1   B1 B1 B1 SC   SC B1 SC SC
+PoP 12hr         30    30      60    60      40    30      30    30
+Rain shwrs     C  S  S  C    C  L  L  C    C  C  S  C    C  C  S  C
+Tstms                                 S                            
+
+$$
+SCZ020-242100-
+Newberry County Airport-Newberry SC
+34.30N  81.64W Elev. 570 ft
+1105 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      69          44          69          50          68
+Temp                   66 69 61 53 49 46 47 59 67 69 62 57 55 52 53 61 67 66 60
+Dewpt                  35 35 39 39 37 32 32 34 36 37 42 43 44 45 45 48 48 49 50
+RH                     32 28 44 59 63 58 56 39 32 31 48 59 66 77 74 62 50 54 69
+Wind dir                N  W  N NE  N  N NE NE  E  E  E  E  E  E NE  E NE NE NE
+Wind spd                4  4  2  3  5  8 10 10  6  5  4  5  5  5  5  8  8  9  9
+Clouds                 SC SC FW FW FW FW SC SC SC SC B1 B1 B1 B2 B2 B2 B2 B2 B2
+PoP 12hr                      0           0           5          20          30
+QPF 12hr                      0           0           0           0        0.03
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                     S  C  C  C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          49    71      55    72      54    76      54    70
+Temp          53 51 69 67   58 57 69 67   59 56 73 70   60 55 68 63
+Dewpt         50 50 50 53   53 55 57 59   57 56 56 57   55 55 49 46
+PWind dir        NE    NE       E    SE       N    NW       S    SW
+Wind char        GN    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B1 B1 B1 B1   B1 B2 B2 B1   SC B1 B1 SC   SC SC SC SC
+PoP 12hr         30    30      60    50      30    30      30    20
+Rain shwrs     C  S  S  C    C  L  C  C    C  S  S  C    C  S  S  S
+Tstms                                 S                            
+
+$$
+SCZ010-242100-
+McCormick County Airport-McCormick SC
+33.92N  82.30W Elev. 459 ft
+1105 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      70          45          71          51          71
+Temp                   68 70 61 52 48 46 48 60 68 71 62 57 55 52 53 64 70 69 61
+Dewpt                  37 37 42 41 38 32 34 37 39 40 45 45 46 47 48 51 52 51 52
+RH                     32 30 49 66 68 58 58 42 34 32 54 64 72 83 83 63 53 53 72
+Wind dir                N  W  N NE NE NE NE NE  E  E  E  E NE  E NE  E  E NE NE
+Wind spd                3  4  2  3  5  9 11 10  8  5  5  5  5  5  5  9  9  9 10
+Clouds                 SC SC FW FW FW FW B1 SC B1 B1 B1 B1 B2 B2 B1 B2 B2 B2 B2
+PoP 12hr                      5           0           5          30          40
+QPF 12hr                      0           0           0        0.01        0.05
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                  S  C  C  C  C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          50    73      56    74      53    78      52    71
+Temp          53 52 71 67   58 58 72 68   58 56 76 71   60 53 69 63
+Dewpt         51 52 53 55   55 57 60 60   57 56 58 59   54 53 50 47
+PWind dir        NE     E       E     S      NW    NW      SE     W
+Wind char        GN    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B1 B1 B1 B1   B1 B2 B2 SC   SC SC SC SC   SC B1 SC SC
+PoP 12hr         30    30      70    60      30    30      30    20
+Rain shwrs     C  S  S  C    C  L  L  C    C  S  S  C    C  S  S  S
+Tstms                   S    S        S                            
+
+$$

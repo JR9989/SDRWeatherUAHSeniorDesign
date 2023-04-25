@@ -1,0 +1,121 @@
+ASUS43 KDMX 241506
+RWRIA 
+
+WEATHER ROUNDUP FOR IOWA
+NATIONAL WEATHER SERVICE DES MOINES IA
+1000 AM CDT MON APR 24 2023
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+* - THESE STATIONS ARE NOT NWS STATIONS...THUS NOT UNDER NWS
+QUALITY CONTROL.  THEY ALSO DO NOT REPORT WEATHER SUCH 
+AS PRECIPITATION OR FOG.  
+
+IAZ001>003-012>014-020>022-031>034-043>046-241600-
+   NORTHWEST IOWA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CARROLL *      MOSUNNY   52  25  35 SE17      30.10F TC  11           
+CHEROKEE *     SUNNY     48  30  50 S7        30.11F TC   9           
+DENISON *        N/A    N/A N/A N/A MISG        N/A                   
+LE MARS *      PTSUNNY   48  30  49 SE7       30.09F TC   9           
+MAURICE *      FAIR      48  28  46 S10       30.08F TC   9           
+SHELDON *      SUNNY     46  27  46 VRB5      30.09F TC   8           
+SIOUX CITY     CLOUDY    47  29  49 SE8       30.09F TC   8           
+SPENCER        SUNNY     48  25  40 SW6       30.12S TC   9           
+STORM LAKE *   SUNNY     48  27  43 S10       30.11S TC   9           
+$$
+ 
+IAZ055>058-069>071-079>083-090>094-241600-
+   SOUTHWEST IOWA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ATLANTIC *     MOSUNNY   48  30  49 S9        30.09F TC   9           
+AUDUBON *      CLOUDY    48  27  43 S8        30.09F TC   9           
+CLARINDA *       N/A    N/A N/A N/A MISG        N/A                   
+COUNCIL BLFS * MOSUNNY   46  27  46 VRB5      30.06S TC   8           
+CRESTON *      MOSUNNY   48  28  46 SE15      30.10F TC   9           
+HARLAN  *      SUNNY     48  30  49 SE9       30.09F TC   9           
+LAMONI         CLOUDY    47  28  47 S12       30.13F TC   8           
+RED OAK *      PTSUNNY   50  30  46 SE8G15    30.09F TC  10           
+SHENANDOAH *   MOSUNNY   52  30  43 S12       30.08S TC  11           
+$$
+ 
+IAZ047>049-059>061-072>074-084-241600-
+   CENTRAL IOWA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+AMES           CLOUDY    48  31  51 S8        30.14F TC   9           
+ANKENY *       PTSUNNY   48  27  43 S10       30.16S TC   9           
+BOONE *        SUNNY     48  28  46 S12       30.12F TC   9           
+CHARITON *     MOSUNNY   48  27  43 S12       30.15F TC   9           
+DES MOINES     PTSUNNY   47  26  44 S13       30.15F TC   8           
+GRINNELL*      PTSUNNY   49  30  47 S9        30.18F TC  10           
+KNOXVILLE *    MOSUNNY   48  25  40 S10       30.16S TC   9           
+MARSHALLTOWN   PTSUNNY   50  28  42 SW8       30.15F TC  10           
+NEWTON *       SUNNY     46  30  53 S9        30.15F TC   8           
+PELLA *        PTSUNNY   50  26  39 S8        30.17F TC  10           
+PERRY *        FAIR      48  29  49 SE10      30.13F TC   9           
+$$
+ 
+IAZ004>006-015-016-023>025-035-036-241600-
+   NORTH CENTRAL IOWA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ALGONA *       SUNNY     46  32  57 S7        30.12S TC   8           
+CLARION *      SUNNY     46  30  53 SW10      30.14S TC   8           
+ESTHERVILLE    SUNNY     45  25  45 VRB5      30.13S TC   7           
+FORT DODGE *   SUNNY     48  28  46 S8        30.14F TC   9           
+MASON CITY     MOSUNNY   45  27  49 W7        30.15S TC   7           
+FOREST CITY *  FAIR      43  28  56 W6        30.14S TC   6           
+WEBSTER CITY * SUNNY     48  25  40 S12       30.12F TC   9           
+IOWA FALLS *   FAIR      48  31  51 S6        30.16S TC   9           
+$$
+
+IAZ007>011-017>019-026>030-037>042-050>054-066-241600-
+   NORTHEAST IOWA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CEDAR RAPIDS   PTSUNNY   47  27  45 S9        30.18S TC   8           
+CHARLES CITY * CLOUDY    43  30  61 SW6       30.15F TC   6           
+CLINTON *      SUNNY     47  27  45 VRB6      30.22S TC   8           
+DECORAH *      PTSUNNY   43  27  52 VRB3      30.14S TC   6           
+DUBUQUE        CLOUDY    44  30  57 SW7       30.19S TC   7           
+OELWEIN *      SUNNY     45  27  49 SW9G17    30.17S TC   7           
+WATERLOO       MOSUNNY   49  25  39 S9        30.16F TC   9           
+$$
+ 
+IAZ064-065-067-068-078-241600-
+   EAST CENTRAL IOWA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+DAVENPORT      SUNNY     49  25  39 SW9       30.23S TC   9           
+IOWA CITY      MOSUNNY   48  28  46 S9        30.21S TC   9           
+MT. PLEASANT * MOSUNNY   48  27  43 SW8       30.21F TC   9           
+MUSCATINE *    SUNNY     50  25  37 SW9       30.22S TC  10           
+QUAD CITIES    SUNNY     52  25  35 CALM      30.21S TC  11           
+$$
+ 
+IAZ062-063-075>077-085>089-095>099-241600-
+   SOUTHEAST IOWA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BURLINGTON     PTSUNNY   49  30  48 S8        30.22S TC   9           
+FAIRFIELD *    PTSUNNY   50  21  32 SW10      30.19F TC  10           
+FORT MADISON *   N/A     50  27  40 SW8       30.21S TC  10           
+KEOKUK *       MOSUNNY   48  28  46 CALM      30.22S TC   9           
+OSKALOOSA *    FAIR      51  28  40 SW9       30.19S TC  11           
+CENTERVILLE *  FAIR      48  25  40 SE9       30.19S TC   9           
+OTTUMWA        CLOUDY    48  26  42 S10       30.18F TC   9           
+WASHINGTON *   MOSUNNY   50  25  37 SW10      30.18F TC  10           
+$$
+
+ABBREVIATIONS USED IN REMARKS
+   TC - TEMPERATURES IN CELSIUS
+  WCI - WIND CHILL INDEX
+   HX - HEAT INDEX
+  VSB - VISIBILITY  
+$$
+
+  

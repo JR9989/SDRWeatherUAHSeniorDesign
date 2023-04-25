@@ -1,0 +1,84 @@
+SRUS43 KDLH 241510
+RVADLH
+MNC001-017-035-061-097-115-WIC003-013-051-251510-
+
+
+HYDROLOGIC SUMMARY FOR NE MINNESOTA AND NW WISCONSIN
+NATIONAL WEATHER SERVICE DULUTH MN
+1010 AM CDT Mon Apr 24 2023
+
+ STATION       FLOOD  TODAYS  24HR           7AM FORECAST
+ LOCATION      STAGE  STAGE   CHNG   Tue    Wed    Thu    Fri    Sat
+                                   04/25  04/26  04/27  04/28  04/29
+..Mississippi River Basin
+Prairie River
+ near Taconite  10.0  9.34   -0.32   8.9    8.4    8.1    8.4    8.7
+Mississippi River
+ Grand Rapids         6.95   -0.39                                  
+ Aitkin         13.0 17.42    0.11  17.5   17.5   17.5   17.4   17.2
+ Brainerd            15.38    0.15                                  
+ Fort Ripley    10.5 11.68   -0.09  11.7   11.7   11.7   11.7   11.7
+
+
+..Saint Croix River Basin in Minnesota
+Kettle River
+ near Sandstone       9.46   -0.86
+Snake River
+ near Pine City  9.0  8.59   -0.21   8.3    7.9    7.4    6.9    6.3
+
+
+..Saint Croix River Basin in Wisconsin
+Namekagon River
+ near Leonards        3.16   -0.16
+Saint Croix River
+ near Danbury    7.0  4.89   -0.17                                  
+ Grantsburg           -9.75   -4.65
+
+
+..Chippewa River Basin
+Chippewa River
+ near Winter          10.03   -0.04
+
+
+..Lake of the Woods River Basin
+Rainy River
+ near Indus           11.80   -0.30
+Big Fork River
+ Big Falls            6.70   -0.13
+Little Fork River
+ Littlefork           8.25   -0.65
+Vermilion River
+ Crane Lake           12.20   -0.13
+Basswood River
+ near Winton          5.74    0.21
+Kawishiwi River
+ near Ely             4.92    0.02
+
+
+..Lake Superior Basin in Minnesota
+Pigeon River
+ near Grand Portage   6.75   -0.18
+Knife River
+ near Two Harbors     27.32   0.14
+St. Louis River
+ At Scanlon     10.5  9.57   -0.42   9.0    8.6    8.4    8.3    8.3
+
+
+..Lake Superior Basin in Wisconsin
+Nemadji River
+ near Superior        12.97   -2.20
+Bois Brule River
+ Brule                3.36   -0.14
+White River
+ near Ashland         2.97   -0.16
+Whittlesey Creek
+ near Ashland         2.53   -0.02
+Tyler Forks River
+ near Mellen     9.0  7.03   -0.96   6.3    5.9    5.9    6.0    6.7
+Bad River
+ near Odanah    16.0  8.47   -1.65   8.2    7.3    6.9    6.7    7.1
+ at Odanah       8.5  5.95   -1.53   5.5    4.9    4.6    4.3    4.0
+
+
+ $$
+

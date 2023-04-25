@@ -1,0 +1,85 @@
+SRUS44 KOUN 241642
+RRMOUN
+OKC003-005-009-011-013-015-017-019-027-029-031-033-039-043-045-047-
+049-051-053-055-057-059-063-065-067-069-071-073-075-081-083-085-
+087-093-095-099-103-109-119-123-125-129-133-137-141-149-151-153-
+TXC009-023-077-155-197-275-485-487-250042-
+
+Daily Precipitation Report
+National Weather Service Norman OK
+1142 AM CDT Mon Apr 24 2023
+
+...Summary of 24-hr Precipitation Observations
+Ending at 7 AM CDT on 04/24/2023...
+
+Station                         ID        24-hr      
+                                          Pcpn   
+ --- Central Oklahoma ---
+
+Norman 2WSW                    OKCV142     T  
+
+ --- Southwestern Oklahoma ---
+
+Altus AFB                          LTS     T  
+Chattanooga                      CHAO2     T  
+Frederick Airport                  FDR    0.01
+Grandfield Mesonet               GRSO2    0.01
+Walters 2E                       WLTO2    0.01
+
+ --- South Central Oklahoma ---
+
+Burneyville Mesonet              BNSO2    0.05
+Gainesville 7N TX                GSVT2    0.06
+Healdton 3E                      HLDO2    0.01
+Hoover 1N                        HVRO2    0.01
+Kingston 9SSW                   OKML03    0.07
+Madill                           MADO2    0.02
+Madill Mesonet                   MDSO2    0.03
+Newport Mesonet                  LGSO2    0.01
+Ringling Mesonet                 RNSO2    0.02
+Rubottom 1NE                    OKLV04    0.02
+Ryan 5WNW                       OKJF03    0.01
+
+ --- Southeastern Oklahoma ---
+
+Blue 1W                          BLUO2    0.06
+Denison 5N TX                    DSTT2    0.04
+Durant 3NW                      OKBR04    0.06
+Durant Mesonet                   DTSO2    0.07
+Lake Texoma                      DSNT2    0.05
+Lane 11SE                       OKAT03    0.03
+
+ --- Western North Texas ---
+
+Benjamin 4N                      BENT2    0.04
+Blue Grove 3SE                 TXCLY07    0.05
+Burkburnett 1SE                 TXWT27    0.02
+Comanche Springs Mesonet         CWST2    0.01
+Crowell                          CWLT2    0.01
+Crowell Mesonet                  CWST2    0.02
+Electra 9S                       ELTT2    0.03
+Goodlett Mesonet                 GDST2    0.01
+Hefner Mesonet                   HFST2    0.03
+Iowa Park 5NNW                   IPRT2    0.02
+Knox City 3NW SCAN Site          KNXT2    0.02
+Knox City Mesonet                KXST2    0.07
+Lake Kemp                        SMUT2    0.10
+Lake Kickapoo                    ARHT2    0.04
+Lakeside City                   TXAC09    0.11
+Millers Creek Lake               MCBT2    0.11
+Munday                           MUNT2    0.15
+Scotland                         SCOT2    0.08
+Seymour 3NW                      SYRT2    0.05
+Seymour 11NW                     SEYT2    0.08
+Seymour Mesonet                  SEST2    0.05
+Truscott 3W                      TSCT2    0.03
+Truscott 5N                      TRST2    0.12
+Truscott Brine Lake              TBPT2    0.11
+Truscott Mesonet                 TCST2    0.11
+Vernon 9S SCAN Site              VNOT2    0.01
+Wichita Falls Airport              SPS    0.01
+Wichita Falls Mesonet            WFST2    0.04
+Wichita Falls 3WSW              TXWT30    0.06
+
+$$
+

@@ -1,0 +1,335 @@
+SRUS43 KARX 241505
+RVAARX
+IAC005-037-043-065-067-089-131-191-MNC045-055-099-109-157-169-
+WIC001-011-019-023-043-053-057-063-081-103-119-121-123-250305-
+
+
+Hydrologic Summary
+National Weather Service La Crosse WI
+1005 AM CDT Mon Apr 24 2023
+
+Hourly River Stages
+                                                               24HR
+                                                 Cur      6HR  Obs
+Location                 ID ST     BF     FS     Stg      Chg  Time
+-------------------------------------------------------------------
+Black River
+ Neillsville          NEIW3 WI    16.0   18.0    7.80   -0.29 08:00
+ Highway 95           HAAW3 WI   904.0  908.0  904.67   -0.21 09:04
+ Hatfield Hydro Plant HATW3 WI   796.0  797.0  790.94   -1.02 09:06
+ Black River Falls    BRFW3 WI    43.0   47.0   42.71   -0.90 08:00
+ Galesville           GALW3 WI    10.0   12.0   12.62   -0.31 08:00
+East Fork Black River
+ Hatfield 4E          HEFW3 WI   895.0  899.0  896.59   -0.34 09:02
+
+
+Bloody Run Creek
+ Marquette            MBRI4 IA     6.0    7.0    5.26    0.00 09:00
+
+
+Crooked Creek
+ Freeburg             FBGM5 MN    13.0   13.0    7.09   -0.01 09:30
+
+
+Cedar River
+ Lansing              LANM5 MN    18.0   18.0   11.08   -0.09 09:30
+ Austin 3S            ASNM5 MN     6.0   10.0    4.24   -0.05 09:00
+ Otranto              OTRI4 IA  1139.0 1141.0 1132.35   -0.12 09:15
+ St. Ansgar           AGRI4 IA  1102.0 1104.0 1097.89   -0.11 09:15
+ Charles City         CCYI4 IA     9.0   12.0    4.24   -0.09 09:30
+
+
+Dobbins Creek
+ Austin 2NE           DOBM5 MN     8.0   11.5    7.13   -0.03 09:30
+
+
+Turtle Creek
+ Austin 3NW           TRCM5 MN    10.0   10.5    3.31   -0.04 09:30
+
+
+Little Cedar River
+ Orchard 5E           LCOI4 IA  1081.5 1081.5 1075.22   -0.12 08:45
+ Ionia 2W             IONI4 IA    10.0   10.0    5.10   -0.08 09:45
+ Nashua               NUAI4 IA   952.0  954.5  949.17   -0.17 09:15
+
+
+Grant River
+ Burton               BTNW3 WI    17.0   18.0    5.94    0.03 08:15
+
+
+Kickapoo River
+ Ontario              ONTW3 WI    15.0   16.0    9.11    0.01 08:00
+ La Farge             LAFW3 WI     8.0   12.0    4.72   -0.07 08:00
+ Readstown            REAW3 WI    10.0   11.0       M       M  M   
+ Steuben              STEW3 WI    10.0   12.0    8.45   -0.11 09:45
+
+
+La Crosse River
+ Fort McCoy           LFMW3 WI     9.0   11.0    6.90   -0.02 08:00
+ Sparta               SPAW3 WI     6.5    8.5    4.02   -0.23 08:15
+ La Crosse            LCRW3 WI     7.0    7.5    4.52   -0.04 08:00
+
+
+Lemonweir River
+ New Lisbon           NLSW3 WI     5.0   10.0    9.21   -0.07 08:00
+
+
+Little Wapsipinicon River
+ North Washington     NWSI4 IA  1096.5 1097.5 1090.37   -0.11 09:15
+
+
+Mississippi River
+ Lake City            LKCM5 MN    16.0   16.0   18.85    0.10 09:15
+ Wabasha              WABM5 MN    12.0   12.0   16.82    0.13 09:15
+ Alma Dam 4           ALMW3 WI    15.0   16.0   16.87    0.14 09:15
+ Alma                 AMAW3 WI   672.0  672.0  670.55    0.11 09:00
+ Minnesota City Dam 5 MSCM5 MN   660.0  660.0  663.78    0.16 09:15
+ Winona Dam 5A        WIDM5 MN   655.0  655.0  659.85    0.16 09:15
+ Winona               WNAM5 MN    13.0   13.0   18.19    0.13 09:45
+ Trempealeau Dam 6    TREW3 WI   647.0  647.0  650.70    0.07 09:15
+ Dakota               DKTM5 MN   644.0  644.0  646.51    0.05 09:15
+ La Crescent Dam 7    LCRM5 MN   641.0  641.0  644.50    0.04 09:00
+ La Crosse            LACW3 WI    10.0   12.0   15.64    0.09 09:15
+ Brownsville          BRWM5 MN   635.0  635.0  637.44    0.08 09:45
+ Genoa Dam 8          GENW3 WI   631.0  631.0  635.06    0.09 09:15
+ Lansing              LNSI4 IA    17.0   17.0   18.68    0.13 09:15
+ Lynxville Dam 9      LYNW3 WI   625.0  625.0  629.20    0.15 09:15
+ McGregor             MCGI4 IA    16.0   16.0   21.94    0.13 08:45
+ Clayton              CLAI4 IA   619.0  620.0  622.26   -1.17 08:45
+ Guttenberg Dam 10    GTTI4 IA    15.0   15.0   19.76    0.13 09:00
+
+
+Platte River
+ Rockville            RVLW3 WI     8.0    9.0    4.48   -0.02 08:15
+
+
+Middle Branch Root River
+ Fillmore             FLMM5 MN  1002.0 1004.0  998.33   -0.08 09:30
+
+
+Root River
+ Pilot Mound          RPMM5 MN    17.0   19.0   10.02   -0.09 10:00
+ Rushford 2W          RSFM5 MN    19.0   21.0   11.33   -0.09 09:00
+ Houston              HOUM5 MN    15.0   15.0    6.53   -0.09 09:45
+ Mound Prairie        MDPM5 MN   658.0  665.0  657.43   -0.11 09:45
+
+
+South Branch Root River
+ Carimona             CMAM5 MN    14.0   19.0       M       M  M   
+ Lanesboro            LNSM5 MN    10.0   12.0    3.39    0.01 09:30
+
+
+Camp Creek
+ Preston 6S           PCCM5 MN     5.0      M       M       M  M   
+
+
+Bridge Creek
+ Houston 7SW          HBCM5 MN     3.0      M       M       M  M   
+
+
+South Fork Root River
+ Houston 2S           HUSM5 MN     9.0   10.0    2.41    0.00 09:30
+
+
+Trempealeau River
+ Blair                TBLW3 WI       M      M       M       M  M   
+ Whitehall            WHIW3 WI       M      M       M       M  M   
+ Independence         IDPW3 WI       M      M    3.72   -0.06 06:51
+ Arcadia              ARCW3 WI     7.0    8.0    5.20   -0.12 08:00
+ Dodge                DDGW3 WI     7.0   10.5    9.69   -0.16 09:45
+
+
+Pigeon Creek
+ Pigeon Falls         PIGW3 WI       M      M    2.21   -0.08 05:13
+
+
+Elk Creek
+ Elk Creek            EKCW3 WI       M      M    1.55       M 22:42
+
+
+Crane Creek
+ Jerico               JCOI4 IA  1145.0 1148.0 1143.07   -0.06 09:15
+ Gouldsburg County Pa GPKI4 IA   990.5  992.5  986.91   -0.05 09:15
+
+
+Little Turkey River
+ Saude                SDEI4 IA  1123.0 1126.0 1119.23    0.03 09:15
+ West Union 5NW       ELRI4 IA   943.0  944.0  937.76    0.00 09:15
+
+
+Turkey River
+ Spillville           SPLI4 IA     8.0    9.0       M       M  M   
+ Eldorado 1E          EDRI4 IA    10.0   13.0    7.46   -0.08 08:45
+ Clermont             CMTI4 IA   823.0  826.0  818.11   -0.17 09:15
+ Elkader              EKDI4 IA    12.0   12.0    7.28   -0.07 09:45
+ Garber               GRBI4 IA    15.0   17.0    8.92   -0.08 09:15
+
+
+Otter Creek
+ West Union           WUOI4 IA  1086.0 1088.0 1082.65    0.04 09:15
+ Brainard 3WNW        BNDI4 IA   981.0  983.0  976.68    0.07 09:15
+ Elgin                EGNI4 IA   798.5  799.5  793.60    0.05 09:15
+
+
+Roberts Creek
+ Elkader 2NE          ERCI4 IA   753.5  754.5  749.27   -0.06 09:15
+
+
+Volga River
+ Wadena               WADI4 IA   850.0  852.0       M       M  M   
+ Volga                VGAI4 IA   784.5  784.5       M       M  M   
+ Littleport           VLPI4 IA    12.0   12.0    4.85    1.20 09:45
+
+
+Upper Iowa River
+ Lime Springs         LSPI4 IA     8.0   11.0    5.94   -0.07 09:00
+ Kendallville         KDVI4 IA     9.0   11.0    5.40   -0.04 09:00
+ Bluffton             BLFI4 IA    14.0   14.0    4.92   -0.06 09:45
+ Decorah 3NW          UIDI4 IA   892.0  896.0  887.95    0.03 09:15
+ Decorah              DEHI4 IA    11.0   12.0    3.04   -0.07 09:45
+ Dorchester Hwy 76    DCHI4 IA    14.0   14.0    9.03   -0.05 09:00
+
+
+Yellow River - Iowa
+ Postville            PVLI4 IA   970.0  971.0  966.65    0.03 09:15
+ Ion                  YRII4 IA    12.0   13.0    6.51   -0.01 09:41
+
+
+Yellow River - Wisconsin 
+ Necedah              NCAW3 WI    13.0   15.0   14.35   -0.06 08:00
+
+
+Wisconsin River
+ Muscoda              MUSW3 WI     8.0    9.0    7.54   -0.14 08:00
+
+
+Middle Fork Whitewater River
+ Whitewater Park      WSPM5 MN    13.0   13.5   10.67       M 09:30
+ Whitewater Park Grou WWPM5 MN    38.0   39.0   36.03    0.00 09:30
+
+
+Whitewater River
+ Beaver               BVRM5 MN   697.0  699.0  694.43   -0.05 09:45
+
+
+South Fork Zumbro River
+ Rochester 5SW        SFZM5 MN    94.0   96.0   82.62   -0.04 09:00
+ Rochester Beltline   RCSM5 MN    24.0   24.0   11.45   -0.02 09:30
+ Rochester 37th St    RCHM5 MN    13.0   14.0    4.13    0.00 09:15
+
+
+Bear Creek
+ Rochester Bear Cr    RBCM5 MN     9.0   14.0    5.44   -0.01 09:30
+
+
+Cascade Creek
+ Rochester 3W         RCRM5 MN    48.0   49.0   42.86    0.01 09:30
+ Rochester Cascade Cr RCCM5 MN    10.0   13.0    6.76   -0.01 09:30
+
+
+Silver Creek
+ Rochester Silver Cr  ROCM5 MN    19.0   21.0   14.52   -0.03 09:30
+
+
+Middle Fork Zumbro River 
+ Oxbow Park           OXBM5 MN    22.0   24.0       M       M  M   
+ Oronoco              OCOM5 MN   947.0  949.0  944.91   -0.03 09:30
+ Oronoco 1W           ONOM5 MN   950.0  951.0  945.87   -0.05 09:30
+
+
+North Fork Zumbro River
+ Mazeppa 3ESE         ZPAM5 MN   856.0  858.0  852.48   -0.03 09:30
+
+
+Zumbro River
+ Zumbro Lake Pool     LKZM5 MN   918.0  918.0  915.40    0.00 09:40
+ Zumbro Lake TAIL     LKZM5 MN                 860.60   -0.10 09:40
+ Zumbro Falls         ZUMM5 MN    18.0   18.0    7.50   -0.07 09:30
+ Kellogg              KELM5 MN   682.0  683.0  674.74   -0.07 08:00
+
+
+--------------------------------------------------------------------
+Ancillary Dam Information:
+
+
+Pool Heights
+ Wabasha              WABM5  MN                676.82    0.13  09:15
+ Alma Dam 4           ALMW3  WI                672.62    0.01  09:15
+ Minnesota City Dam 5 MSCM5  MN                664.51    0.19  09:15
+ Winona Dam 5A        WIDM5  MN                660.45    0.17  09:15
+ Trempealeau Dam 6    TREW3  WI                651.76    0.13  09:15
+ Dakota               DKTM5  MN                646.51    0.05  09:15
+ La Crescent Dam 7    LCRM5  MN                645.26    0.07  09:00
+ La Crosse            LACW3  WI                641.96    0.09  09:15
+ Brownsville          BRWM5  MN                637.44    0.08  09:45
+ Genoa Dam 8          GENW3  WI                635.93    0.09  09:15
+ Lansing              LNSI4  IA                630.94    0.13  09:15
+ Lynxville Dam 9      LYNW3  WI                629.54    0.12  09:15
+ Clayton              CLAI4  IA                622.26   -1.17  08:45
+ Guttenberg Dam 10    GTTI4  IA                620.30    0.13  09:00
+ Petenwell Dam        PETW3  WI                921.50    0.01  09:10
+ Castle Rock Dam      CROW3  WI                881.06    0.11  09:10
+ Hatfield Dam         HABW3  WI                882.36   -0.04  
+ Zumbro Lake          LKZM5  MN                915.40    0.00  09:40
+
+
+Tail Heights
+ Petenwell Dam        PETW3  WI                884.18   -0.41  09:10
+ Castle Rock Dam      CROW3  WI                852.60   -0.23  09:10
+ Zumbro Lake          LKZM5  MN                860.60   -0.10  09:40
+
+
+Flow                                              CFS
+ Petenwell Dam        PETW3  WI                 16842   -5190  09:10
+ Castle Rock Dam      CROW3  WI                 19718   -5080  09:10
+ Alma Dam 4           ALMW3  WI                209400   11800  09:15
+ Minnesota City Dam 5 MSCM5  MN                192370   10230  09:15
+ Winona Dam 5A        WIDM5  MN                191450   10540  09:15
+ Trempealeau Dam 6    TREW3  WI                198200    6500  09:15
+ La Crescent Dam 7    LCRM5  MN                209300    5140  09:00
+ Genoa Dam 8          GENW3  WI                200290    9690  09:15
+ Lynxville Dam 9      LYNW3  WI                209700    9760  09:15
+ Guttenberg Dam 10    GTTI4  IA                237430    9860  09:00
+
+
+--------------------------------------------------------------------
+Current Water Temperatures:
+
+
+Along the Mississippi River:
+Alma Dam 4          M
+Minnesota City     44
+La Crescent Dam    45
+Genoa Dam 8        45
+Lynxville Dam 9    48
+Clayton            46
+Guttenberg Dam      M
+
+
+Along the Wisconsin River:
+Muscoda            46
+
+
+Along the Kickapoo River:
+Readstown           M
+
+
+Along the Whitewater River:
+Beaver             47
+
+
+--------------------------------------------------------------------
+Key: BF=Bankfull    FS=Flood Stage    Cur Stg=Current State
+     6HR Chg  = 6-Hour Change
+     Obs Time = Time Observation Was Taken
+
+
+This product is computer generated and is not monitored directly
+for quality control. Data sources include the U.S. Geological
+Survey...U.S. Army Corps of Engineers...the National Weather 
+Service...and State Agencies from Iowa...Minnesota...and Wisconsin.
+
+
+
+$$
+

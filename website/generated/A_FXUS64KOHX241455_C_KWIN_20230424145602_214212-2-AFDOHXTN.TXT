@@ -1,0 +1,130 @@
+FXUS64 KOHX 241455
+AFDOHX
+
+Area Forecast Discussion
+National Weather Service Nashville TN
+955 AM CDT Mon Apr 24 2023
+
+...New UPDATE...
+
+.UPDATE...
+Issued at 945 AM CDT Mon Apr 24 2023
+
+We had a frosty start to the day across Middle Tennessee and many
+areas had brief freezing temperatures around daybreak. With a
+generally cool pattern expected to continue as we head into May, 
+we are not done with the threat for frost/freeze.
+
+Mid morning skies were sunny and temps were rising through the
+40s. We are expecting afternoon highs in the upper 50s and lower 
+60s, which is around 10 degrees below normal. 
+
+An update was issued to remove frost wording and adjust hourly
+trends. Otherwise, the forecast is on track. 
+
+&&
+
+.SHORT TERM...
+(Today through Wednesday)
+Issued at 222 AM CDT Mon Apr 24 2023
+
+High pressure is centered just to our north this morning. Some 
+mid level cloudiness is now pulling off to the southeast with 
+clearing now in place. Current temperatures are in the upper 30s 
+to near 40. Still looking at lows in the mid 30s range with small 
+spreads and thus, frost potential remains. Have just reissued the 
+frost advisory which will continue through 8 am this morning. 
+
+For today, mostly sunny skies are expected as the surface high moves 
+east. We will be a touch warmer today with highs in the lower to 
+mid 60s. An early forerunner of an upcoming increase in activity 
+will occur tonight as westerlies bring some mid level moisture 
+across the area. This will act to keep our temperatures a little 
+warmer tonight with most areas dipping to the upper 30s to lower 
+40s. So, another frost advisory is not needed at this time. We 
+could see some mid 30s though across our Plateau but that 
+aforementioned cloud cover development will be an important factor
+for them. 
+
+It's looking a little warmer again for Tuesday. Still below normal 
+though but we will see some upper 60s as heights attempt to rise a 
+touch.  
+
+Tuesday night will kick off a period of off and on unsettled weather 
+for the mid state, as we go forward. The development of a close 
+proximity 850 mb boundary will provide some forcing and isentropic
+lift out ahead of a developing surface low over north Texas. 
+Precip amounts into Wednesday look rather light with just a 
+quarter inch or so of rainfall expected. This, however, will set 
+the stage for a more active extended period. 
+
+&&
+
+.LONG TERM...
+(Wednesday Night through next Monday)
+Issued at 222 AM CDT Mon Apr 24 2023
+
+For the extended forecast, the previously mentioned surface low will 
+move across the mid state on Thursday. Could be some tstm activity 
+with it, but it will of course be track dependent. A shortwave on 
+the back side could keep some light shower activity going into 
+Friday. 
+
+Pattern to remain unsettled toward the end of the week as a strong 
+slug of upper level energy drops southeast across the midwest. An 
+associated frontal system should bring some showers and a few tstms 
+for Saturday. A strong upper trough with several shortwave axis 
+depictions are indicated through the weekend. Hence, it could remain 
+showery. 
+
+QPF totals look like 1 to 1 1/2 inches Tuesday night through Friday. 
+The heaviest qpf timeframe within that window looks like Thursday 
+with the approach and passage of the surface low. Following this, 
+the frontal system will bring an additional quarter to half 
+inch over the weekend. 
+
+For the extended temps, High temps will run a good 5 to 10 degrees 
+below normal. Sunday or Monday could be even chillier than that 
+depending on whether or not that deep trough scenario plays out. 
+Look for low temps of 45 to 50 in general, so a little below normal 
+there as well. 
+
+&&
+
+.AVIATION...
+(12Z TAFS)
+Issued at 649 AM CDT Mon Apr 24 2023
+
+CKV/BNA/MQY/CSV...Some BKN/OVC CI possible around 25/06Z-25/12Z, 
+but with impacts to aviation operations minimal, did not break out
+a separate FM grouping to address. Variability in sfc winds is 
+still expected, but not enough also to break out an additional
+FM group to address. Did raise overall wind speeds to around
+7 kts with N/NE sfc winds continuing thru 25/12Z as sfc ridging 
+influences and dry northwesterly flow aloft continue to prevail. 
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Nashville      63  39  69  48 /   0   0  10  30 
+Clarksville    62  38  66  46 /   0   0  10  20 
+Crossville     57  33  64  43 /   0   0  10  30 
+Columbia       63  36  68  47 /   0   0  20  40 
+Cookeville     59  37  66  46 /   0   0  10  30 
+Jamestown      57  34  64  42 /   0   0  10  30 
+Lawrenceburg   63  37  68  47 /   0   0  10  40 
+Murfreesboro   63  35  69  46 /   0   0  10  30 
+Waverly        62  40  66  46 /   0   0  10  30 
+
+&&
+
+.OHX WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
+
+$$
+
+UPDATE.......13
+SHORT TERM...21
+LONG TERM....21
+AVIATION.....JB Wright

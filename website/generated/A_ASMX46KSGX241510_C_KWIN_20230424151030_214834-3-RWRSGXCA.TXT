@@ -1,0 +1,95 @@
+ASMX46 KSGX 241510
+RWRMX 
+
+MEXICAN WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE SAN DIEGO CA
+800 AM PDT MON APR 24 2023
+
+BAJA CALIFORNIA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+LA PAZ         SUNNY     64  50  59 S13       29.90S TC  18           
+LORETO         MOSUNNY   81  41  24 S9        29.79R TC  27           
+MEXICALI       MOSUNNY   66  45  45 SE5       29.76R TC  19           
+S.J. DEL CABO  SUNNY     81  30  16 NW6       29.88R TC  27           
+TIJUANA        CLOUDY    57  54  88 CALM      29.93R TC  14           
+
+NORTHWESTERN MEXICO
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CHIHUAHUA      SUNNY     66  32  28 NE3       30.03S TC  19           
+CULIACAN       MOSUNNY   70  64  83 S5        29.90R TC  21           
+GUAYMAS        SUNNY     72  63  73 CALM      29.78R TC  22           
+HERMOSILLO     SUNNY     73  37  27 E10       29.85R TC  23           
+JUAREZ         SUNNY     52  36  54 E7        30.00S TC  11           
+LOS MOCHIS     SUNNY     72  64  78 E15       29.88R TC  22           
+OBREGON        SUNNY     72  48  43 SE13      29.82R TC  22           
+
+NORTHEASTERN MEXICO
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MATAMOROS      CLOUDY    64  61  88 N10       30.01S TC  18           
+MONCLOVA       CLOUDY    55  54  94 CALM      30.08S FOG     TC  13   
+MONTERREY      DRZL/FOG  55  55 100 NW5       30.05R VSB 1   TC  13   
+NUEVO LAREDO   CLOUDY    59  57  94 NE6       30.07F TC  15           
+PIEDRAS NEGRAS CLOUDY    57  50  77 E9        30.08S TC  14           
+REYNOSA        CLOUDY    63  57  82 NE12      30.04R TC  17           
+SALTILLO       FOG       54  50  87 CALM      30.17R VSB 1/2 TC  12   
+TORREON        SUNNY     70  52  52 CALM      30.05S TC  21           
+VICTORIA       PTSUNNY   64  63  94 W6        30.02R TC  18           
+
+WESTERN MEXICO
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+AGUASCALIENTES MOSUNNY   63  18  17 CALM      30.21R TC  17           
+COLIMA         MOSUNNY   73  61  64 CALM      30.08R TC  23           
+DURANGO        SUNNY     63  36  36 S5        30.19S TC  17           
+GUADALAJARA    PTSUNNY   72  32  23 CALM      30.15R TC  22           
+MANZANILLO     PTSUNNY   77  68  73 SW12      29.86R TC  25           
+MAZATLAN       MOSUNNY   72  64  78 CALM      29.91S TC  22           
+PTO. VALLARTA  PTSUNNY   73  63  68 N3        29.89S TC  23           
+TEPIC          PTSUNNY   63  48  59 CALM      30.01S TC  17           
+URUAPAN        PTSUNNY   70  55  60 CALM      30.14R SMOKE   TC  21   
+ZACATECAS      SUNNY     63  18  17 MISG      30.21R TC  17           
+
+CENTRAL MEXICO
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CUERNAVACA     MOSUNNY   77  52  41 CALM      30.09R TC  25           
+LEON           MOSUNNY   72  36  26 CALM      30.24R TC  22           
+MEXICO CITY    MOSUNNY   66  46  48 E6        30.30R TC  19           
+MORELIA        MOSUNNY   68  46  45 E3        30.20R TC  20           
+POZA RICA      PTSUNNY   73  68  83 N7        29.99R TC  23           
+PUEBLA         MOSUNNY   63  48  59 CALM      30.30R TC  17           
+QUERETARO      PTSUNNY   66  54  63 E2        30.25R TC  19           
+S. LUIS POTOSI MOSUNNY   61  50  67 CALM      30.19R TC  16           
+TAMPICO        CLOUDY    73  66  78 CALM      29.97R TC  23           
+TOLUCA         MOSUNNY   64  41  42 E3        30.36R TC  18           
+VERACRUZ       SUNNY     81  70  69 N23G35    29.91R TC  27           
+
+SOUTHERN MEXICO
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ACAPULCO       PTSUNNY   84  73  70 N2        29.88R TC  29           
+B. DE HUATULCO MOSUNNY   82  73  74 CALM      29.94R TC  28           
+MINATITLAN     CLOUDY    72  72 100 CALM      29.89R FOG     TC  22   
+OAXACA         SUNNY     68  55  64 NW2       30.21  TC  20           
+PTO. ESCONDIDO SUNNY     84  75  74 CALM      29.90R TC  29           
+TAPACHULA      MOSUNNY   84  77  79 NW8       29.92R TC  29           
+TUX. GUTIERREZ CLOUDY    79  61  53 NW7       29.98R TC  26           
+VILLAHERMOSA   CLOUDY    77  73  88 CALM      29.91R HAZE    TC  25   
+ZIHUATANEJO    PTSUNNY   84  73  70 CALM      29.89R TC  29           
+
+YUCATAN PENINSULA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CAMPECHE       CLOUDY    82  72  69 E12G23    29.88S TC  28           
+CANCUN         PTSUNNY   82  73  74 E9        29.92R TC  28           
+CHETUMAL       PTSUNNY   82  73  74 SE12      29.89S TC  28           
+C. DEL CARMEN  CLOUDY    79  70  73 S7        29.87R HAZE    TC  26   
+COZUMEL        PTSUNNY   82  73  74 SE12      29.92R TC  28           
+MERIDA         CLOUDY    82  72  69 S16       29.88R TC  28           
+
+$$
+
+  

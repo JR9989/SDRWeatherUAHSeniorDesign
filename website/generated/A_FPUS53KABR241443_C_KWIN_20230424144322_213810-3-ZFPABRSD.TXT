@@ -1,0 +1,913 @@
+FPUS53 KABR 241443
+ZFPABR
+
+Zone Forecast For Central/NE South Dakota WC MN
+National Weather Service Aberdeen SD
+942 AM CDT Mon Apr 24 2023
+
+SDZ006-242100-
+Brown-
+Including the city of Aberdeen
+942 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...Mostly sunny. Highs in the upper 40s. East winds
+5 to 15 mph. 
+.TONIGHT...Mostly clear. Lows in the mid 20s. Northeast winds
+5 to 15 mph. 
+.TUESDAY...Mostly sunny. Highs around 50. East winds 5 to 15 mph.
+.TUESDAY NIGHT...Partly cloudy. Lows in the upper 20s. East winds
+10 to 15 mph. 
+.WEDNESDAY...Breezy. Mostly cloudy. A 50 percent chance of rain
+showers in the afternoon. Highs around 60. South winds 10 to
+15 mph increasing to 20 to 25 mph in the afternoon. 
+.WEDNESDAY NIGHT...Mostly cloudy in the evening then becoming
+partly cloudy. Rain showers likely. Lows in the lower 30s. Chance
+of showers 60 percent. 
+.THURSDAY...Partly sunny with a 40 percent chance of rain
+showers. Highs in the upper 50s. 
+.THURSDAY NIGHT...Mostly cloudy with a 50 percent chance of rain
+showers. Lows in the lower 30s. 
+.FRIDAY...Mostly cloudy with a 40 percent chance of rain showers.
+Highs in the upper 40s. 
+.FRIDAY NIGHT AND SATURDAY...Mostly cloudy with a 20 percent
+chance of rain showers. Lows around 30. Highs around 50. 
+.SATURDAY NIGHT AND SUNDAY...Partly cloudy. A 20 percent chance
+of rain showers. Lows in the lower 30s. Highs in the lower 50s. 
+
+$$
+
+SDZ020-242100-
+Codington-
+Including the city of Watertown
+942 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...Sunny. Highs in the upper 40s. Northeast winds
+5 to 15 mph. 
+.TONIGHT...Mostly clear. Lows in the mid 20s. Northeast winds
+5 to 15 mph. 
+.TUESDAY...Mostly sunny. Highs around 50. East winds 10 to
+15 mph. 
+.TUESDAY NIGHT...Mostly clear. Lows in the upper 20s. East winds
+10 to 15 mph. 
+.WEDNESDAY...Mostly cloudy. A 20 percent chance of rain showers
+in the afternoon. Highs in the upper 50s. South winds 10 to
+20 mph. 
+.WEDNESDAY NIGHT...Breezy. Rain showers likely. Lows in the mid
+30s. Chance of showers 60 percent. 
+.THURSDAY...Partly sunny with a 30 percent chance of rain
+showers. Highs in the upper 50s. 
+.THURSDAY NIGHT AND FRIDAY...Mostly cloudy with a 50 percent
+chance of rain showers. Lows in the mid 30s. Highs in the mid
+40s. 
+.FRIDAY NIGHT...Mostly cloudy in the evening then becoming partly
+cloudy. A 20 percent chance of rain showers. Lows in the lower
+30s. 
+.SATURDAY...Mostly cloudy with a 30 percent chance of rain
+showers. Highs in the upper 40s. 
+.SATURDAY NIGHT AND SUNDAY...Partly cloudy. A 20 percent chance
+of rain showers. Lows in the lower 30s. Highs in the upper 40s. 
+
+$$
+
+SDZ035-242100-
+Hughes-
+Including the city of Pierre
+942 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...Sunny late in the morning then becoming partly
+sunny. Highs in the upper 50s. East winds 10 to 20 mph. 
+.TONIGHT...Breezy. Partly cloudy in the evening, then mostly
+cloudy with a 20 percent chance of rain showers and snow showers
+after midnight. Lows in the mid 30s. East winds 15 to 25 mph with
+gusts to around 40 mph. 
+.TUESDAY...Mostly cloudy. A 20 percent chance of rain showers in
+the morning. Highs in the lower 50s. East winds 15 to 20 mph.
+Gusts up to 35 mph in the morning. 
+.TUESDAY NIGHT...Mostly cloudy. Lows in the upper 30s. East winds
+10 to 15 mph. 
+.WEDNESDAY...Mostly cloudy. A 30 percent chance of rain showers
+in the afternoon. Highs in the mid 60s. South winds 10 to 20 mph.
+.WEDNESDAY NIGHT...Mostly cloudy in the evening then becoming
+partly cloudy. A 40 percent chance of rain showers. Lows in the
+upper 30s. 
+.THURSDAY...Mostly cloudy with a 20 percent chance of rain
+showers. Highs in the mid 60s. 
+.THURSDAY NIGHT...Mostly cloudy with a 50 percent chance of rain
+showers. Lows in the upper 30s. 
+.FRIDAY...Breezy. Mostly cloudy with a 40 percent chance of rain
+showers. Highs in the upper 40s. 
+.FRIDAY NIGHT THROUGH SUNDAY...Breezy. Partly cloudy. Lows in the
+lower 30s. Highs in the lower 50s. 
+
+$$
+
+SDZ009-242100-
+Walworth-
+Including the city of Mobridge
+942 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...Breezy. Mostly sunny. Highs in the mid 50s. East
+winds 15 to 25 mph. 
+.TONIGHT...Partly cloudy. Lows in the upper 20s. East winds 15 to
+20 mph with gusts to around 35 mph. 
+.TUESDAY...Partly sunny. Highs in the lower 50s. East winds 15 to
+20 mph. 
+.TUESDAY NIGHT...Partly cloudy in the evening then becoming
+mostly cloudy. Lows in the mid 30s. Southeast winds 10 to 15 mph.
+.WEDNESDAY...Breezy. Mostly cloudy. A 50 percent chance of rain
+showers in the afternoon. Highs in the lower 60s. South winds
+15 to 25 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy in the evening then clearing. A
+50 percent chance of rain showers. Lows in the mid 30s. 
+.THURSDAY...Partly sunny with a 30 percent chance of rain
+showers. Highs in the lower 60s. 
+.THURSDAY NIGHT...Mostly cloudy with a 50 percent chance of rain
+showers. Lows in the mid 30s. 
+.FRIDAY...Breezy. Mostly cloudy with a 30 percent chance of rain
+showers. Highs in the upper 40s. 
+.FRIDAY NIGHT...Mostly cloudy in the evening then becoming partly
+cloudy. Lows in the lower 30s. 
+.SATURDAY...Partly sunny with a 20 percent chance of rain
+showers. Highs in the lower 50s. 
+.SATURDAY NIGHT AND SUNDAY...Partly cloudy. Lows in the lower
+30s. Highs in the mid 50s. 
+
+$$
+
+SDZ008-242100-
+Roberts-
+Including the city of Sisseton
+942 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...Mostly sunny. Highs in the upper 40s. Northeast
+winds 5 to 10 mph. 
+.TONIGHT...Mostly clear. Lows in the mid 20s. Northeast winds
+5 to 10 mph. 
+.TUESDAY...Sunny. Highs in the upper 40s. East winds 5 to 15 mph.
+.TUESDAY NIGHT...Mostly clear. Lows in the upper 20s. Southeast
+winds 5 to 15 mph. 
+.WEDNESDAY...Mostly cloudy. A 20 percent chance of rain showers
+in the afternoon. Highs in the upper 50s. South winds 10 to
+20 mph. 
+.WEDNESDAY NIGHT...Breezy. Rain showers likely. Lows in the mid
+30s. Chance of showers 70 percent. 
+.THURSDAY...Partly sunny with a 30 percent chance of rain
+showers. Highs in the upper 50s. 
+.THURSDAY NIGHT...Mostly cloudy with a 50 percent chance of rain
+showers. Lows in the mid 30s. 
+.FRIDAY...Breezy. Mostly cloudy with a 40 percent chance of rain
+showers. Highs in the upper 40s. 
+.FRIDAY NIGHT...Breezy. Mostly cloudy in the evening then
+becoming partly cloudy. A 20 percent chance of rain showers. Lows
+in the lower 30s. 
+.SATURDAY...Mostly cloudy with a 30 percent chance of rain
+showers. Highs in the upper 40s. 
+.SATURDAY NIGHT AND SUNDAY...Breezy. Partly cloudy. A 20 percent
+chance of rain showers. Lows in the lower 30s. Highs around 50. 
+
+$$
+
+SDZ003-242100-
+Corson-
+Including the city of McIntosh
+842 AM MDT Mon Apr 24 2023
+
+.REST OF TODAY...Mostly sunny. Highs in the mid 50s. East winds
+10 to 20 mph. 
+.TONIGHT...Partly cloudy. Lows in the upper 20s. East winds 10 to
+20 mph with gusts to around 40 mph. 
+.TUESDAY...Partly sunny. A 20 percent chance of snow showers in
+the morning. Highs in the lower 50s. East winds 10 to 20 mph. 
+.TUESDAY NIGHT...Partly cloudy in the evening then becoming
+mostly cloudy. Lows in the mid 30s. Southeast winds 10 to 15 mph.
+.WEDNESDAY...Mostly cloudy with a 50 percent chance of rain
+showers. Highs in the lower 60s. Southwest winds 15 to 20 mph. 
+.WEDNESDAY NIGHT...Partly cloudy. Lows in the mid 30s. 
+.THURSDAY...Partly sunny with a 40 percent chance of rain
+showers. Highs in the lower 60s. 
+.THURSDAY NIGHT...Mostly cloudy with a 50 percent chance of rain
+showers. Lows in the mid 30s. 
+.FRIDAY...Breezy. Mostly cloudy with a 40 percent chance of rain
+showers. Highs in the upper 40s. 
+.FRIDAY NIGHT THROUGH SUNDAY...Partly cloudy. Lows in the lower
+30s. Highs in the lower 50s. 
+
+$$
+
+SDZ004-242100-
+Campbell-
+Including the city of Herreid
+942 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...Breezy. Mostly sunny. Highs in the lower 50s.
+East winds 15 to 25 mph. 
+.TONIGHT...Partly cloudy. Lows in the upper 20s. East winds 15 to
+20 mph. 
+.TUESDAY...Partly sunny. Highs in the lower 50s. East winds 10 to
+20 mph. 
+.TUESDAY NIGHT...Partly cloudy in the evening then becoming
+mostly cloudy. Lows in the mid 30s. Southeast winds 10 to 15 mph.
+.WEDNESDAY...Breezy. Mostly cloudy. A slight chance of rain
+showers in the morning, then rain showers likely in the
+afternoon. Highs in the lower 60s. South winds 15 to 25 mph.
+Chance of showers 60 percent. 
+.WEDNESDAY NIGHT...Mostly cloudy in the evening then becoming
+partly cloudy. A 20 percent chance of rain showers. Lows in the
+mid 30s. 
+.THURSDAY...Partly sunny with a 40 percent chance of rain
+showers. Highs around 60. 
+.THURSDAY NIGHT...Mostly cloudy with a 40 percent chance of rain
+showers. Lows in the lower 30s. 
+.FRIDAY...Mostly cloudy with a 30 percent chance of rain showers.
+Highs in the upper 40s. 
+.FRIDAY NIGHT...Partly cloudy. Lows around 30. 
+.SATURDAY...Partly sunny with a 20 percent chance of rain
+showers. Highs in the lower 50s. 
+.SATURDAY NIGHT...Partly cloudy. Lows in the lower 30s. 
+.SUNDAY...Partly sunny with a 20 percent chance of rain showers.
+Highs in the lower 50s. 
+
+$$
+
+SDZ015-242100-
+Dewey-
+Including the city of Isabel
+842 AM MDT Mon Apr 24 2023
+
+.REST OF TODAY...Partly sunny. Highs in the mid 50s. East winds
+10 to 20 mph. 
+.TONIGHT...Breezy. Partly cloudy. Lows in the lower 30s. East
+winds 15 to 25 mph with gusts to around 40 mph. 
+.TUESDAY...Mostly cloudy. A 20 percent chance of rain showers and
+snow showers in the morning. Highs in the lower 50s. East winds
+15 to 20 mph. 
+.TUESDAY NIGHT...Partly cloudy in the evening then becoming
+mostly cloudy. Lows in the upper 30s. Southeast winds 10 to
+15 mph. 
+.WEDNESDAY...Mostly cloudy. A 50 percent chance of rain showers
+in the afternoon. Highs in the mid 60s. South winds 10 to 20 mph.
+.WEDNESDAY NIGHT...Mostly cloudy in the evening then becoming
+partly cloudy. A 20 percent chance of rain showers. Lows in the
+upper 30s. 
+.THURSDAY...Mostly cloudy with a 30 percent chance of rain
+showers. Highs in the lower 60s. 
+.THURSDAY NIGHT...Mostly cloudy with a 40 percent chance of rain
+showers. Lows in the mid 30s. 
+.FRIDAY...Breezy. Mostly cloudy with a 20 percent chance of rain
+showers. Highs in the upper 40s. 
+.FRIDAY NIGHT THROUGH SUNDAY...Partly cloudy. Lows in the mid
+30s. Highs in the mid 50s. 
+
+$$
+
+SDZ016-242100-
+Potter-
+Including the city of Gettysburg
+942 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...Mostly sunny. Highs in the mid 50s. East winds
+15 to 20 mph. 
+.TONIGHT...Partly cloudy. Lows in the upper 20s. East winds 15 to
+20 mph with gusts to around 40 mph. 
+.TUESDAY...Partly sunny. Highs in the lower 50s. East winds 15 to
+20 mph. 
+.TUESDAY NIGHT...Partly cloudy in the evening then becoming
+mostly cloudy. Lows in the mid 30s. Southeast winds 10 to 15 mph.
+.WEDNESDAY...Breezy. Mostly cloudy. A 50 percent chance of rain
+showers in the afternoon. Highs in the lower 60s. South winds
+15 to 25 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy in the evening then clearing. A
+50 percent chance of rain showers. Lows in the mid 30s. 
+.THURSDAY...Mostly cloudy with a 30 percent chance of rain
+showers. Highs in the lower 60s. 
+.THURSDAY NIGHT...Mostly cloudy with a 50 percent chance of rain
+showers. Lows in the mid 30s. 
+.FRIDAY...Breezy. Mostly cloudy with a 30 percent chance of rain
+showers. Highs in the upper 40s. 
+.FRIDAY NIGHT...Mostly cloudy in the evening then becoming partly
+cloudy. Lows around 30. 
+.SATURDAY...Partly sunny with a 20 percent chance of rain
+showers. Highs in the lower 50s. 
+.SATURDAY NIGHT...Partly cloudy. Lows in the lower 30s. 
+.SUNDAY...Partly sunny with a 20 percent chance of rain showers.
+Highs in the lower 50s. 
+
+$$
+
+SDZ034-242100-
+Sully-
+Including the city of Onida
+942 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...Partly sunny. Highs in the mid 50s. East winds
+10 to 20 mph. 
+.TONIGHT...Breezy. Partly cloudy. Lows in the lower 30s. East
+winds 15 to 25 mph with gusts to around 40 mph. 
+.TUESDAY...Mostly cloudy. A 20 percent chance of rain showers and
+snow showers in the morning. Highs in the lower 50s. East winds
+15 to 20 mph. 
+.TUESDAY NIGHT...Mostly cloudy. Lows in the mid 30s. East winds
+10 to 15 mph. 
+.WEDNESDAY...Breezy. Mostly cloudy. A 40 percent chance of rain
+showers in the afternoon. Highs in the mid 60s. South winds 15 to
+25 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy in the evening then becoming
+partly cloudy. A 40 percent chance of rain showers. Lows in the
+upper 30s. 
+.THURSDAY...Mostly cloudy with a 30 percent chance of rain
+showers. Highs in the mid 60s. 
+.THURSDAY NIGHT...Mostly cloudy with a 50 percent chance of rain
+showers. Lows in the mid 30s. 
+.FRIDAY...Breezy. Mostly cloudy with a 40 percent chance of rain
+showers. Highs in the upper 40s. 
+.FRIDAY NIGHT THROUGH SUNDAY...Partly cloudy. Lows in the lower
+30s. Highs in the lower 50s. 
+
+$$
+
+SDZ033-242100-
+Stanley-
+Including the city of Fort Pierre
+942 AM CDT Mon Apr 24 2023 /842 AM MDT Mon Apr 24 2023/
+
+.REST OF TODAY...Partly sunny. Highs in the upper 50s. East winds
+10 to 20 mph. 
+.TONIGHT...Breezy. Partly cloudy in the evening, then mostly
+cloudy with a 20 percent chance of rain showers, possibly mixed
+with snow showers after midnight. Lows in the mid 30s. East winds
+15 to 25 mph with gusts to around 40 mph. 
+.TUESDAY...Mostly cloudy with a 20 percent chance of rain
+showers. Highs in the lower 50s. East winds 15 to 20 mph. 
+.TUESDAY NIGHT...Mostly cloudy in the evening then becoming
+partly cloudy. Lows in the upper 30s. Southeast winds 5 to
+15 mph. 
+.WEDNESDAY...Partly sunny. A 40 percent chance of rain showers in
+the afternoon. Highs in the upper 60s. South winds 10 to 20 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy in the evening then becoming
+partly cloudy. A 20 percent chance of showers. Lows in the upper
+30s. 
+.THURSDAY...Mostly cloudy with a 20 percent chance of showers.
+Highs in the upper 60s. 
+.THURSDAY NIGHT...Mostly cloudy with a 50 percent chance of
+showers. Lows in the upper 30s. 
+.FRIDAY...Breezy. Mostly cloudy with a 40 percent chance of rain
+showers. Highs around 50. 
+.FRIDAY NIGHT THROUGH SUNDAY...Partly cloudy. Lows in the mid
+30s. Highs in the mid 50s. 
+
+$$
+
+SDZ045-242100-
+Jones-
+Including the city of Murdo
+942 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...Breezy. Partly sunny. Highs around 60. East
+winds 10 to 15 mph increasing to 15 to 25 mph in the afternoon. 
+.TONIGHT...Breezy. Partly cloudy. A 20 percent chance of rain
+showers after midnight. Lows in the mid 30s. East winds 15 to
+25 mph with gusts to around 40 mph. 
+.TUESDAY...Mostly cloudy with a 20 percent chance of rain
+showers. Highs in the lower 50s. East winds 15 to 20 mph. Gusts
+up to 35 mph in the morning. 
+.TUESDAY NIGHT...Mostly cloudy. Lows in the upper 30s. Southeast
+winds 10 to 15 mph. 
+.WEDNESDAY...Partly sunny. A 30 percent chance of rain showers in
+the afternoon. Highs in the upper 60s. South winds 10 to 20 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy in the evening then becoming
+partly cloudy. A 30 percent chance of showers. Lows in the upper
+30s. 
+.THURSDAY...Mostly cloudy with a 20 percent chance of rain
+showers. Highs in the upper 60s. 
+.THURSDAY NIGHT...Mostly cloudy with a 50 percent chance of
+showers. Lows in the upper 30s. 
+.FRIDAY...Breezy. Mostly cloudy with a 40 percent chance of rain
+showers. Highs around 50. 
+.FRIDAY NIGHT THROUGH SUNDAY...Partly cloudy. Lows in the mid
+30s. Highs in the mid 50s. 
+
+$$
+
+SDZ048-242100-
+Lyman-
+Including the city of Kennebec
+942 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...Partly sunny. Highs in the upper 50s. East winds
+5 to 15 mph increasing to 15 to 20 mph in the afternoon. 
+.TONIGHT...Breezy. Partly cloudy in the evening, then mostly
+cloudy with a 20 percent chance of rain showers after midnight.
+Lows in the mid 30s. East winds 15 to 25 mph with gusts to around
+40 mph. 
+.TUESDAY...Mostly cloudy. A 20 percent chance of rain showers in
+the morning. Highs in the mid 50s. East winds 15 to 20 mph. Gusts
+up to 35 mph in the morning. 
+.TUESDAY NIGHT...Mostly cloudy. Lows in the upper 30s. East winds
+10 to 15 mph. 
+.WEDNESDAY...Partly sunny. A 20 percent chance of rain showers in
+the afternoon. Highs in the mid 60s. South winds 10 to 20 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy in the evening then becoming
+partly cloudy. A 40 percent chance of showers. Lows around 40. 
+.THURSDAY...Mostly cloudy with a 20 percent chance of showers.
+Highs in the upper 60s. 
+.THURSDAY NIGHT AND FRIDAY...Breezy. Mostly cloudy with a
+50 percent chance of rain showers. Lows in the upper 30s. Highs
+around 50. 
+.FRIDAY NIGHT THROUGH SUNDAY...Breezy. Partly cloudy. Lows in the
+mid 30s. Highs in the mid 50s. 
+
+$$
+
+SDZ051-242100-
+Buffalo-
+Including the city of Fort Thompson
+942 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...Partly sunny. Highs in the upper 50s. East winds
+5 to 15 mph. 
+.TONIGHT...Breezy. Partly cloudy in the evening then becoming
+mostly cloudy. Lows in the mid 30s. East winds 15 to 25 mph with
+gusts to around 40 mph. 
+.TUESDAY...Mostly cloudy. Highs in the mid 50s. East winds 15 to
+20 mph. 
+.TUESDAY NIGHT...Mostly cloudy. Lows in the mid 30s. East winds
+10 to 15 mph. 
+.WEDNESDAY...Partly sunny. A 20 percent chance of rain showers in
+the afternoon. Highs in the lower 60s. South winds 10 to 20 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy in the evening then becoming
+partly cloudy. A 40 percent chance of showers. Lows in the upper
+30s. 
+.THURSDAY...Partly sunny with a 20 percent chance of rain
+showers. Highs in the mid 60s. 
+.THURSDAY NIGHT AND FRIDAY...Breezy. Mostly cloudy with a
+50 percent chance of rain showers. Lows in the upper 30s. Highs
+in the upper 40s. 
+.FRIDAY NIGHT...Mostly cloudy in the evening then becoming partly
+cloudy. Lows in the lower 30s. 
+.SATURDAY...Partly sunny with a 20 percent chance of rain
+showers. Highs in the lower 50s. 
+.SATURDAY NIGHT AND SUNDAY...Partly cloudy. Lows in the lower
+30s. Highs in the mid 50s. 
+
+$$
+
+SDZ037-242100-
+Hand-
+Including the city of Miller
+942 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...Sunny in the late morning and early afternoon
+then becoming partly sunny. Highs in the mid 50s. East winds 5 to
+15 mph. 
+.TONIGHT...Partly cloudy. Lows around 30. East winds 10 to 15 mph
+with gusts to around 35 mph. 
+.TUESDAY...Partly sunny. Highs in the mid 50s. East winds 10 to
+15 mph with gusts to around 30 mph. 
+.TUESDAY NIGHT...Partly cloudy in the evening then becoming
+mostly cloudy. Lows in the mid 30s. East winds 10 to 15 mph. 
+.WEDNESDAY...Breezy. Mostly cloudy. A 40 percent chance of rain
+showers in the afternoon. Highs in the lower 60s. South winds
+10 to 15 mph increasing to 15 to 25 mph in the afternoon. 
+.WEDNESDAY NIGHT...Mostly cloudy in the evening then becoming
+partly cloudy. A 50 percent chance of rain showers. Lows in the
+upper 30s. 
+.THURSDAY...Partly sunny with a 30 percent chance of rain
+showers. Highs in the lower 60s. 
+.THURSDAY NIGHT AND FRIDAY...Breezy. Mostly cloudy with a
+50 percent chance of rain showers. Lows in the mid 30s. Highs in
+the mid 40s. 
+.FRIDAY NIGHT...Mostly cloudy in the evening then becoming partly
+cloudy. A 20 percent chance of rain showers. Lows in the lower
+30s. 
+.SATURDAY...Partly sunny with a 20 percent chance of rain
+showers. Highs around 50. 
+.SATURDAY NIGHT...Partly cloudy. Lows in the lower 30s. 
+.SUNDAY...Partly sunny with a 20 percent chance of rain showers.
+Highs in the lower 50s. 
+
+$$
+
+SDZ036-242100-
+Hyde-
+Including the city of Highmore
+942 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...Mostly sunny. Highs in the mid 50s. East winds
+10 to 20 mph. 
+.TONIGHT...Breezy. Partly cloudy. Lows in the lower 30s. East
+winds 15 to 25 mph with gusts to around 40 mph. 
+.TUESDAY...Mostly cloudy. Highs in the lower 50s. East winds
+15 to 20 mph. 
+.TUESDAY NIGHT...Mostly cloudy. Lows in the mid 30s. East winds
+10 to 15 mph. 
+.WEDNESDAY...Breezy. Mostly cloudy. A 40 percent chance of rain
+showers in the afternoon. Highs in the lower 60s. South winds
+15 to 25 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy in the evening then becoming
+partly cloudy. A 40 percent chance of rain showers. Lows in the
+upper 30s. 
+.THURSDAY...Mostly cloudy with a 30 percent chance of rain
+showers. Highs in the lower 60s. 
+.THURSDAY NIGHT AND FRIDAY...Breezy. Mostly cloudy with a
+50 percent chance of rain showers. Lows in the mid 30s. Highs in
+the mid 40s. 
+.FRIDAY NIGHT...Breezy. Mostly cloudy in the evening then
+becoming partly cloudy. Lows around 30. 
+.SATURDAY...Partly sunny with a 20 percent chance of rain
+showers. Highs around 50. 
+.SATURDAY NIGHT...Partly cloudy. Lows in the lower 30s. 
+.SUNDAY...Partly sunny with a 20 percent chance of rain showers.
+Highs in the lower 50s. 
+
+$$
+
+SDZ017-242100-
+Faulk-
+Including the city of Faulkton
+942 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...Mostly sunny. Highs in the lower 50s. East winds
+10 to 15 mph. 
+.TONIGHT...Partly cloudy. Lows in the mid 20s. Northeast winds
+10 to 20 mph with gusts to around 35 mph. 
+.TUESDAY...Partly sunny. Highs in the lower 50s. East winds 10 to
+20 mph. 
+.TUESDAY NIGHT...Partly cloudy. Lows in the lower 30s. East winds
+10 to 15 mph. 
+.WEDNESDAY...Breezy. Mostly cloudy. A 40 percent chance of rain
+showers in the afternoon. Highs in the lower 60s. South winds
+15 to 25 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy in the evening then becoming
+partly cloudy. A 50 percent chance of rain showers. Lows in the
+mid 30s. 
+.THURSDAY...Partly sunny with a 30 percent chance of rain
+showers. Highs in the lower 60s. 
+.THURSDAY NIGHT...Mostly cloudy with a 50 percent chance of rain
+showers. Lows in the mid 30s. 
+.FRIDAY...Breezy. Mostly cloudy with a 40 percent chance of rain
+showers. Highs in the upper 40s. 
+.FRIDAY NIGHT AND SATURDAY...Partly cloudy. A 20 percent chance
+of rain showers. Lows around 30. Highs in the lower 50s. 
+.SATURDAY NIGHT...Partly cloudy. Lows in the lower 30s. 
+.SUNDAY...Partly sunny with a 20 percent chance of rain showers.
+Highs in the lower 50s. 
+
+$$
+
+SDZ010-242100-
+Edmunds-
+Including the city of Ipswich
+942 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...Mostly sunny. Highs in the lower 50s. East winds
+10 to 20 mph. 
+.TONIGHT...Partly cloudy. Lows in the mid 20s. East winds 10 to
+20 mph with gusts to around 35 mph. 
+.TUESDAY...Partly sunny. Highs in the lower 50s. East winds 10 to
+20 mph. 
+.TUESDAY NIGHT...Partly cloudy. Lows in the lower 30s. East winds
+10 to 15 mph. 
+.WEDNESDAY...Breezy. Mostly cloudy. A 50 percent chance of rain
+showers in the afternoon. Highs in the lower 60s. South winds
+15 to 25 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy in the evening then becoming
+partly cloudy. A 50 percent chance of rain showers. Lows in the
+mid 30s. 
+.THURSDAY...Partly sunny with a 30 percent chance of rain
+showers. Highs around 60. 
+.THURSDAY NIGHT...Mostly cloudy with a 50 percent chance of rain
+showers. Lows in the lower 30s. 
+.FRIDAY...Breezy. Mostly cloudy with a 30 percent chance of rain
+showers. Highs in the upper 40s. 
+.FRIDAY NIGHT AND SATURDAY...Partly cloudy. A 20 percent chance
+of rain showers. Lows around 30. Highs in the lower 50s. 
+.SATURDAY NIGHT...Partly cloudy. Lows in the lower 30s. 
+.SUNDAY...Partly sunny with a 20 percent chance of rain showers.
+Highs in the lower 50s. 
+
+$$
+
+SDZ005-242100-
+McPherson-
+Including the city of Eureka
+942 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...Mostly sunny. Highs in the upper 40s. East winds
+10 to 15 mph with gusts to around 30 mph. 
+.TONIGHT...Partly cloudy. Lows in the mid 20s. East winds 10 to
+15 mph with gusts to around 30 mph. 
+.TUESDAY...Mostly sunny. Highs in the upper 40s. East winds 10 to
+20 mph. 
+.TUESDAY NIGHT...Partly cloudy. Lows in the lower 30s. Southeast
+winds 10 to 15 mph. 
+.WEDNESDAY...Breezy. Mostly cloudy with a 50 percent chance of
+rain showers. Highs in the upper 50s. South winds 15 to 25 mph
+with gusts to around 40 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy in the evening then becoming
+partly cloudy. A 50 percent chance of rain showers. Lows in the
+mid 30s. 
+.THURSDAY...Partly sunny with a 40 percent chance of rain
+showers. Highs in the upper 50s. 
+.THURSDAY NIGHT...Mostly cloudy with a 50 percent chance of rain
+showers. Lows in the lower 30s. 
+.FRIDAY...Breezy. Mostly cloudy with a 40 percent chance of rain
+showers. Highs in the mid 40s. 
+.FRIDAY NIGHT AND SATURDAY...Partly cloudy. A 20 percent chance
+of rain showers. Lows around 30. Highs around 50. 
+.SATURDAY NIGHT...Partly cloudy. Lows in the lower 30s. 
+.SUNDAY...Partly sunny with a 20 percent chance of rain showers.
+Highs in the lower 50s. 
+
+$$
+
+SDZ018-242100-
+Spink-
+Including the city of Redfield
+942 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...Sunny. Highs in the mid 50s. East winds 5 to
+15 mph. 
+.TONIGHT...Partly cloudy. Lows in the upper 20s. Northeast winds
+10 to 15 mph with gusts to around 30 mph. 
+.TUESDAY...Mostly sunny. Highs in the mid 50s. East winds 10 to
+15 mph. 
+.TUESDAY NIGHT...Partly cloudy. Lows in the lower 30s. East winds
+10 to 15 mph. 
+.WEDNESDAY...Breezy. Mostly cloudy. A 30 percent chance of rain
+showers in the afternoon. Highs in the lower 60s. Southeast winds
+10 to 15 mph shifting to the south 15 to 25 mph in the afternoon.
+.WEDNESDAY NIGHT...Mostly cloudy in the evening then becoming
+partly cloudy. Rain showers likely. Lows in the mid 30s. Chance
+of showers 60 percent. 
+.THURSDAY...Partly sunny with a 30 percent chance of rain
+showers. Highs in the lower 60s. 
+.THURSDAY NIGHT AND FRIDAY...Mostly cloudy with a 50 percent
+chance of rain showers. Lows in the mid 30s. Highs in the upper
+40s. 
+.FRIDAY NIGHT AND SATURDAY...Mostly cloudy with a 20 percent
+chance of rain showers. Lows in the lower 30s. Highs in the lower
+50s. 
+.SATURDAY NIGHT AND SUNDAY...Partly cloudy. A 20 percent chance
+of rain showers. Lows in the lower 30s. Highs in the lower 50s. 
+
+$$
+
+SDZ019-242100-
+Clark-
+Including the city of Clark
+942 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...Sunny. Highs in the lower 50s. East winds 5 to
+15 mph. 
+.TONIGHT...Mostly clear. Lows in the upper 20s. East winds 10 to
+15 mph with gusts to around 30 mph. 
+.TUESDAY...Mostly sunny. Highs in the lower 50s. East winds 10 to
+15 mph. 
+.TUESDAY NIGHT...Mostly clear. Lows in the lower 30s. East winds
+10 to 15 mph. 
+.WEDNESDAY...Mostly cloudy. A 20 percent chance of rain showers
+in the afternoon. Highs in the upper 50s. South winds 10 to
+20 mph. 
+.WEDNESDAY NIGHT...Breezy. Rain showers likely. Lows in the upper
+30s. Chance of showers 60 percent. 
+.THURSDAY...Partly sunny with a 30 percent chance of rain
+showers. Highs around 60. 
+.THURSDAY NIGHT AND FRIDAY...Mostly cloudy with a 50 percent
+chance of rain showers. Lows in the mid 30s. Highs in the mid
+40s. 
+.FRIDAY NIGHT AND SATURDAY...Mostly cloudy with a 20 percent
+chance of rain showers. Lows in the lower 30s. Highs in the upper
+40s. 
+.SATURDAY NIGHT AND SUNDAY...Partly cloudy. A 20 percent chance
+of rain showers. Lows in the lower 30s. Highs around 50. 
+
+$$
+
+SDZ011-242100-
+Day-
+Including the city of Webster
+942 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...Mostly sunny. Highs in the upper 40s. Northeast
+winds 5 to 15 mph. 
+.TONIGHT...Mostly clear. Lows in the mid 20s. East winds 10 to
+15 mph with gusts to around 30 mph. 
+.TUESDAY...Mostly sunny. Highs in the upper 40s. East winds 10 to
+15 mph. 
+.TUESDAY NIGHT...Mostly clear. Lows around 30. Southeast winds
+5 to 15 mph. 
+.WEDNESDAY...Breezy. Mostly cloudy. A 30 percent chance of rain
+showers in the afternoon. Highs in the upper 50s. Southeast winds
+10 to 15 mph shifting to the south 15 to 25 mph in the afternoon.
+.WEDNESDAY NIGHT...Breezy. Rain showers likely. Lows in the mid
+30s. Chance of showers 70 percent. 
+.THURSDAY...Partly sunny with a 30 percent chance of rain
+showers. Highs in the upper 50s. 
+.THURSDAY NIGHT...Mostly cloudy with a 50 percent chance of rain
+showers. Lows in the lower 30s. 
+.FRIDAY...Mostly cloudy with a 40 percent chance of rain showers.
+Highs in the mid 40s. 
+.FRIDAY NIGHT...Mostly cloudy in the evening then becoming partly
+cloudy. A 20 percent chance of rain showers. Lows around 30. 
+.SATURDAY...Mostly cloudy with a 30 percent chance of rain
+showers. Highs in the mid 40s. 
+.SATURDAY NIGHT AND SUNDAY...Partly cloudy. A 20 percent chance
+of rain showers. Lows in the lower 30s. Highs in the upper 40s. 
+
+$$
+
+SDZ007-242100-
+Marshall-
+Including the city of Britton
+942 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...Mostly sunny. Highs in the mid 40s. Northeast
+winds 5 to 15 mph. 
+.TONIGHT...Mostly clear. Lows in the mid 20s. Northeast winds
+5 to 10 mph. 
+.TUESDAY...Mostly sunny. Highs in the upper 40s. East winds 5 to
+15 mph. 
+.TUESDAY NIGHT...Partly cloudy. Lows in the upper 20s. Southeast
+winds 5 to 15 mph. 
+.WEDNESDAY...Breezy. Mostly cloudy. A 40 percent chance of rain
+showers in the afternoon. Highs in the mid 50s. South winds 10 to
+15 mph increasing to 15 to 25 mph in the afternoon. 
+.WEDNESDAY NIGHT...Breezy. Rain showers likely. Lows in the mid
+30s. Chance of showers 70 percent. 
+.THURSDAY...Partly sunny with a 40 percent chance of rain
+showers. Highs in the mid 50s. 
+.THURSDAY NIGHT...Mostly cloudy with a 50 percent chance of rain
+showers. Lows in the lower 30s. 
+.FRIDAY...Breezy. Mostly cloudy with a 40 percent chance of rain
+showers. Highs in the mid 40s. 
+.FRIDAY NIGHT...Breezy. Mostly cloudy in the evening then
+becoming partly cloudy. A 20 percent chance of rain showers. Lows
+around 30. 
+.SATURDAY...Mostly cloudy with a 30 percent chance of rain
+showers. Highs in the mid 40s. 
+.SATURDAY NIGHT AND SUNDAY...Partly cloudy. A 20 percent chance
+of rain showers. Lows in the lower 30s. Highs in the upper 40s. 
+
+$$
+
+SDZ021-242100-
+Grant-
+Including the city of Milbank
+942 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...Mostly sunny. Highs in the upper 40s. Northeast
+winds 5 to 10 mph. 
+.TONIGHT...Mostly clear. Lows in the mid 20s. Northeast winds
+5 to 10 mph. 
+.TUESDAY...Mostly sunny. Highs in the upper 40s. East winds 5 to
+15 mph. 
+.TUESDAY NIGHT...Mostly clear. Lows in the upper 20s. Southeast
+winds 5 to 15 mph. 
+.WEDNESDAY...Partly sunny. A 20 percent chance of rain showers in
+the afternoon. Highs in the upper 50s. South winds 10 to 20 mph. 
+.WEDNESDAY NIGHT...Breezy. Rain showers likely. Lows in the upper
+30s. Chance of showers 70 percent. 
+.THURSDAY...Partly sunny with a 40 percent chance of rain
+showers. Highs around 60. 
+.THURSDAY NIGHT AND FRIDAY...Mostly cloudy with a 50 percent
+chance of rain showers. Lows in the upper 30s. Highs in the upper
+40s. 
+.FRIDAY NIGHT...Mostly cloudy in the evening then becoming partly
+cloudy. A 40 percent chance of rain showers. Lows in the lower
+30s. 
+.SATURDAY...Mostly cloudy with a 30 percent chance of rain
+showers. Highs in the upper 40s. 
+.SATURDAY NIGHT...Mostly cloudy in the evening then becoming
+partly cloudy. A 20 percent chance of rain showers. Lows in the
+mid 30s. 
+.SUNDAY...Partly sunny with a 30 percent chance of rain showers.
+Highs around 50. 
+
+$$
+
+SDZ023-242100-
+Deuel-
+Including the city of Clear Lake
+942 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...Mostly sunny. Highs in the upper 40s. Northeast
+winds 5 to 15 mph. 
+.TONIGHT...Mostly clear. Lows in the mid 20s. Northeast winds
+5 to 15 mph. 
+.TUESDAY...Mostly sunny. Highs around 50. East winds 10 to
+15 mph. 
+.TUESDAY NIGHT...Mostly clear. Lows in the upper 20s. East winds
+5 to 15 mph. 
+.WEDNESDAY...Partly sunny. Highs in the mid 50s. South winds 5 to
+15 mph. Gusts up to 30 mph in the afternoon. 
+.WEDNESDAY NIGHT...Breezy. Showers likely. Lows in the upper 30s.
+Chance of showers 60 percent. 
+.THURSDAY...Partly sunny with a 50 percent chance of showers.
+Highs around 60. 
+.THURSDAY NIGHT AND FRIDAY...Mostly cloudy with a 50 percent
+chance of rain showers. Lows in the upper 30s. Highs in the upper
+40s. 
+.FRIDAY NIGHT...Mostly cloudy with a 50 percent chance of rain
+showers. Lows in the lower 30s. 
+.SATURDAY...Mostly cloudy with a 30 percent chance of rain
+showers. Highs in the mid 40s. 
+.SATURDAY NIGHT...Mostly cloudy in the evening then becoming
+partly cloudy. A 20 percent chance of rain showers. Lows in the
+lower 30s. 
+.SUNDAY...Partly sunny with a 30 percent chance of rain showers.
+Highs around 50. 
+
+$$
+
+SDZ022-242100-
+Hamlin-
+Including the city of Hayti
+942 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...Sunny. Highs in the lower 50s. Northeast winds
+5 to 15 mph. 
+.TONIGHT...Mostly clear. Lows in the upper 20s. East winds 10 to
+15 mph. 
+.TUESDAY...Mostly sunny. Highs in the lower 50s. East winds 10 to
+15 mph. 
+.TUESDAY NIGHT...Mostly clear. Lows around 30. East winds 10 to
+15 mph. 
+.WEDNESDAY...Partly sunny. Highs in the upper 50s. South winds
+10 to 20 mph. 
+.WEDNESDAY NIGHT...Breezy. Showers likely. Lows in the upper 30s.
+Chance of showers 60 percent. 
+.THURSDAY...Partly sunny with a 30 percent chance of showers.
+Highs in the lower 60s. 
+.THURSDAY NIGHT AND FRIDAY...Mostly cloudy with a 50 percent
+chance of rain showers. Lows in the mid 30s. Highs in the upper
+40s. 
+.FRIDAY NIGHT...Mostly cloudy in the evening then becoming partly
+cloudy. A 20 percent chance of rain showers. Lows in the lower
+30s. 
+.SATURDAY...Mostly cloudy with a 30 percent chance of rain
+showers. Highs in the upper 40s. 
+.SATURDAY NIGHT AND SUNDAY...Partly cloudy. A 20 percent chance
+of rain showers. Lows in the lower 30s. Highs in the lower 50s. 
+
+$$
+
+MNZ039-242100-
+Traverse-
+Including the city of Wheaton
+942 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...Mostly sunny. Highs in the mid 40s. Northeast
+winds 5 to 10 mph. 
+.TONIGHT...Mostly clear. Lows in the mid 20s. Northeast winds
+5 to 10 mph. 
+.TUESDAY...Sunny. Highs in the upper 40s. East winds 5 to 15 mph.
+.TUESDAY NIGHT...Mostly clear. Lows in the mid 20s. East winds
+5 to 10 mph. 
+.WEDNESDAY...Partly sunny. A 20 percent chance of rain showers in
+the afternoon. Highs in the mid 50s. Southeast winds 5 to 15 mph
+shifting to the south 15 to 20 mph in the afternoon. 
+.WEDNESDAY NIGHT...Rain showers likely. Lows in the mid 30s.
+Chance of showers 70 percent. 
+.THURSDAY...Partly sunny with a 40 percent chance of rain
+showers. Highs in the upper 50s. 
+.THURSDAY NIGHT...Mostly cloudy with a 50 percent chance of rain
+showers. Lows in the mid 30s. 
+.FRIDAY AND FRIDAY NIGHT...Mostly cloudy with a 40 percent chance
+of rain showers. Highs in the mid 40s. Lows around 30. 
+.SATURDAY...Partly sunny with a 30 percent chance of rain
+showers. Highs in the upper 40s. 
+.SATURDAY NIGHT AND SUNDAY...Partly cloudy. A 20 percent chance
+of rain showers. Lows in the lower 30s. Highs in the upper 40s. 
+
+$$
+
+MNZ046-242100-
+Big Stone-
+Including the city of Ortonville
+942 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...Mostly sunny. Highs in the upper 40s. North
+winds 5 to 10 mph. 
+.TONIGHT...Mostly clear. Lows in the upper 20s. Northeast winds
+5 to 10 mph. 
+.TUESDAY...Sunny. Highs around 50. East winds 5 to 15 mph. 
+.TUESDAY NIGHT...Mostly clear. Lows in the upper 20s. East winds
+5 to 10 mph. 
+.WEDNESDAY...Partly sunny. A 20 percent chance of rain showers in
+the afternoon. Highs in the upper 50s. South winds 5 to 15 mph. 
+.WEDNESDAY NIGHT...Rain showers likely. Lows in the upper 30s.
+Chance of showers 70 percent. 
+.THURSDAY...Partly sunny with a 40 percent chance of rain
+showers. Highs around 60. 
+.THURSDAY NIGHT...Mostly cloudy with a 50 percent chance of rain
+showers. Lows in the upper 30s. 
+.FRIDAY AND FRIDAY NIGHT...Mostly cloudy with a 40 percent chance
+of rain showers. Highs in the upper 40s. Lows in the lower 30s. 
+.SATURDAY...Partly sunny with a 30 percent chance of rain
+showers. Highs in the upper 40s. 
+.SATURDAY NIGHT AND SUNDAY...Partly cloudy. A 20 percent chance
+of rain showers. Lows in the lower 30s. Highs around 50. 
+
+$$
+
+

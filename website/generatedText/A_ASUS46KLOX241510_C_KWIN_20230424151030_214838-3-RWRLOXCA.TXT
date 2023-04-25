@@ -1,0 +1,205 @@
+ASUS46 KLOX 241510
+RWRCA 
+
+SOUTHERN CALIFORNIA WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE OXNARD CALIFORNIA
+800 AM PDT MON APR 24 2023
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO 
+SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+  -  STATIONS PRECEEDED BY AN ASTERISK (*) ARE NOT NWS OR FAA 
+     STATIONS AND ARE NOT SUBJECT TO NWS AND FAA QUALITY CONTROL.
+
+CAZ041-042-087-241600-
+LA AND ORANGE COUNTY COASTAL AREAS
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+L.A. DOWNTOWN  CLOUDY    61  54  77 CALM      29.91R                  
+L.A. AIRPORT   CLOUDY    60  54  80 SE6       29.90S                  
+LONG BEACH     CLOUDY    60  52  74 SE7       29.90R                  
+
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+FULLERTON      CLOUDY    60  54  80 VRB3      29.90R                  
+HAWTHORNE      CLOUDY    62  53  72 SE6       29.91R                  
+*LEO CARRILLO    N/A     57  55  93 CALM        N/A                   
+*LOS ALAMITOS  CLOUDY    59  53  81 SE3       29.88R                  
+SANTA ANA      CLOUDY    60  52  74 SE5       29.91R                  
+STA MONICA APT CLOUDY    57  54  89 SW5       29.91R                  
+TORRANCE       PTSUNNY   59  55  88 SE8       29.90S                  
+
+$$
+
+CAZ547-548-048-241600-
+LA COUNTY VALLEYS AND INLAND EMPIRE
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BURBANK        CLOUDY    58  53  84 S5        29.90R HAZE             
+VAN NUYS       CLOUDY    59  53  80 S3        29.89R                  
+
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CORONA AIRPORT CLOUDY    56  53  90 W7        29.91R                  
+*CHATSWORTH      N/A     56  53  87 CALM      29.88S                  
+CHINO          CLOUDY    56  53  90 CALM      29.91R FOG              
+*CLAREMONT       N/A     54  54  99 CALM        N/A                   
+MARCH AFB      CLOUDY    54  54 100 S5        29.90R FOG              
+*NORTHRIDGE      N/A     57  52  82 CALM        N/A                   
+ONTARIO        DRIZZLE   56  55  97 SW5       29.90R FOG              
+*PASADENA        N/A     59  55  88 CALM        N/A                   
+POMONA         CLOUDY    55  54  94 S5        29.91R FOG              
+RIVERSIDE      CLOUDY    57  54  89 N3        29.90R FOG              
+SAN BERNARDINO CLOUDY    57  52  82 CALM      29.91R FOG              
+*SAN RAFAEL HI   N/A     54  54 100 CALM        N/A                   
+*SAUGUS          N/A     61  50  66 NE2         N/A                   
+*WHITEMAN AP   NOT AVBL                                               
+*WHITTIER HILL   N/A     54  53  97 SE2         N/A                   
+*WOODLAND HILL   N/A     55  50  82 MISG        N/A                   
+
+$$
+
+CAZ054-055-241600-
+LA AND SAN BERNARDINO COUNTY MOUNTAINS
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+*ACTON           N/A     56  43  62 N2          N/A                   
+*BIG BEAR AIRP SUNNY     41  30  65 CALM      30.06R                  
+*BIG PINES       N/A     48  19  31 CALM        N/A                   
+*CHILAO          N/A     57  23  27 N20         N/A                   
+SANDBERG       NOT AVBL                                               
+*WARM SPRINGS    N/A     57  43  59 CALM        N/A                   
+
+$$
+
+CAZ028-029-059-060-099-241600-
+ANTELOPE VALLEY AND SURROUNDING AREAS
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+LANCASTER      SUNNY     64  47  53 W20       29.91R                  
+PALMDALE       SUNNY     63  47  55 W17G28    29.92R                  
+*POPPY PARK      N/A     61  48  63 W24         N/A                   
+
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+29 PALMS       SUNNY     68  40  35 N5        29.91R                  
+BARSTOW/DAGGET SUNNY     64  42  44 NW12      29.86R                  
+BISHOP         MOSUNNY   53  29  39 CALM      29.96R                  
+CHINA LAKE     MOSUNNY   64  39  39 CALM      29.86R                  
+EDWARDS AFB    MOSUNNY   65  47  52 W10       29.87R                  
+MOJAVE         FAIR      63  43  48 NW23G38   29.88R                  
+NEEDLES        MOSUNNY   77  35  21 NE3       29.77R                  
+VICTORVILLE    SUNNY     61  41  48 W15G24    29.94S                  
+
+$$
+
+CAZ039-040-241600-
+VENTURA AND SANTA BARBARA COUNTY COAST
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CAMARILLO      CLOUDY    56  52  86 E3        29.91R                  
+NWS OXNARD       N/A     56  44  63 S5        29.88R                  
+OXNARD AIRPORT CLOUDY    56  54  93 E6        29.90R                  
+*POINT MUGU    CLOUDY    56  54  93 NE3       29.91R                  
+SBA APT/GOLETA PTSUNNY   58  53  84 E8        29.90R                  
+*SANTA BARBARA   N/A     57  51  81 CALM      29.97R                  
+*VENTURA         N/A     54  52  94 N3          N/A                   
+
+$$
+
+CAZ044-045-241600-
+VENTURA COUNTY VALLEYS
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+*SIMI VALLEY     N/A     53  51  95 CALM      29.85R                  
+*N 1000 OAKS     N/A     54  52  93 CALM      29.89R                  
+*TO CIVIC ARTS   N/A     55  55 100 W2          N/A                   
+*WESTLAKE VILL   N/A     54  51  90 CALM      29.86S                  
+*OJAI            N/A     53  52  95 CALM      27.04S                  
+*FILLMORE        N/A     54  52  93 SE1       29.95R                  
+
+$$
+
+CAZ053-241600-
+VENTURA COUNTY MOUNTAINS
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+*LOCKWOOD VLY    N/A     46  41  81 MISG        N/A                   
+*ROSE VALLEY     N/A     61  37  41 MISG        N/A                   
+
+$$
+
+CAZ034-035-036-241600-
+CENTRAL COAST AND SANTA YNEZ VALLEY
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+SAN LUIS OBISP SUNNY     51  48  89 NW9       29.95R                  
+SANTA MARIA    FOG       48  48 100 NW3       29.96R VSB 1/2          
+
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+*CAL POLY SLO    N/A     52  52 100 SE1         N/A                   
+*LOMPOC          N/A    N/A N/A N/A MISG        N/A                   
+*PISMO BEACH     N/A     49  48  96 CALM      29.95S                  
+*SANTA YNEZ    CLOUDY    48  48 100 CALM      29.94R                  
+
+$$
+
+CAZ037-038-051-241600-
+SAN LUIS OBISPO COUNTY INTERIOR AND CUYAMA VALLEY
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+*CUYAMA          N/A     56  51  82 CALM      29.84S                  
+PASO ROBLES    CLOUDY    49  46  90 E3        29.99R                  
+
+$$
+
+CAZ032-033-061-241600-
+SOUTHERN DESERTS
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BLYTHE         NOT AVBL                                               
+IMPERIAL       SUNNY     73  41  31 S3        29.74R                  
+PALM SPRINGS   SUNNY     73  49  42 NW14G23   29.77R                  
+THERMAL        SUNNY     73  51  46 NW13      29.73R                  
+
+$$
+
+ELSEWHERE ACROSS THE WESTERN UNITED STATES AND MEXICO
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+DEATH VALLEY,    N/A     79  45  29 S2          N/A                   
+DENVER, CO     PTSUNNY   47  26  44 W9        29.92R                  
+GRAND CANYON,  SUNNY     53  35  50 VRB3      30.00R                  
+HONOLULU, HI   PTCLDY    72  68  88 CALM      29.96S                  
+KAHULUI, MAUI  CLEAR    N/A N/A N/A S5        29.97S                  
+LAKE TAHOE, CA SUNNY     35  26  69 S5        30.04R WCI  31          
+LAS VEGAS, NV  PTSUNNY   67  38  34 SE3       29.85R                  
+MAMMOTH LAKES, FAIR      35  27  72 SE3       30.07S                  
+MEXICO CITY, M MOSUNNY   66  46  48 E6        30.30R                  
+PHOENIX, AZ    MOSUNNY   72  35  25 E9        29.78R                  
+PORTLAND, OR   PTSUNNY   49  42  77 SW6       30.12R                  
+RENO, NV       SUNNY     51  28  41 SW5       29.98R                  
+SALT LAKE CITY CLOUDY    52  37  56 SE8       29.88F                  
+SAN DIEGO, CA  CLOUDY    60  50  69 SE6       29.92R                  
+SAN FRANCISCO, MOSUNNY   53  45  74 W15       30.00R                  
+SAN JOSE, CA   PTSUNNY   51  46  83 CALM      30.00R                  
+SEATTLE, WA    CLOUDY    45  41  86 SW10      30.06R                  
+TIJUANA, MEX   CLOUDY    57  54  88 CALM      29.93R                  
+
+$$
+  
+STATION/POSITION TIME  TEMP    WIND        PRES    VSBY  WAVE
+                       AIR SEA DIR/SP/G                  HT/PER
+                 (UTC) (F)     (DEG/KT/KT) (MB)    (MI)  (FT/S)
+WEST SANTA BARBA 1440   51 54  320/ 23/ 29 1012.1R
+EAST SANTA BARBA 1450   53 52  230/  4/  6 1011.8R         4/ 8
+SANTA MONICA BAY 1450   57 59  120/  6/  8 1013.2R         3/ 7
+SAN CLEMENTE BAS 1450   56 61  160/  2/  8 1012.0R         7/ 9

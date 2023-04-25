@@ -1,0 +1,68 @@
+ASUS44 KCRP 241510
+RWRCRP
+
+SOUTH TEXAS REGIONAL WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE CORPUS CHRISTI TX
+1000 AM CDT MON APR 24 2023
+
+
+TXZ229>244-241600-
+...CORPUS CHRISTI AREA OBSERVATIONS...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CORPUS CHRISTI PTSUNNY   65  56  72 NE13      30.05S                  
+NAS CORPUS CHR CLOUDY    66  58  75 NE14G23   30.05R                  
+ROCKPORT       MOSUNNY   64  55  72 NE17      30.04F                  
+KINGSVILLE NAS PTSUNNY   65  57  75 NE14      30.05S                  
+ALICE          CLOUDY    59  57  93 NE8       30.05S                  
+$$
+ 
+...VICTORIA AREA OBSERVATIONS...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PORT LAVACA    CLOUDY    63  55  76 NE10      30.09S                  
+VICTORIA       CLOUDY    60  54  80 NE9       30.09F                  
+BEEVILLE       PTSUNNY   59  55  86 NE14      30.05F                  
+PLEASANTON     CLOUDY    59  52  78 NE12      30.09F                  
+SAN ANTONIO    CLOUDY    58  51  78 NE7       30.10F                  
+$$
+ 
+...LAREDO AREA OBSERVATIONS...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+LAREDO         CLOUDY    59  54  83 NE12      30.07S                  
+COTULLA        CLOUDY    60  52  74 NE9       30.08R                  
+DEL RIO        CLOUDY    59  51  75 VRB6      30.08S                  
+MCALLEN        CLOUDY    64  58  80 N9        30.04S                  
+HEBBRONVILLE   CLOUDY    58  55  87 NE8       30.07R                  
+$$
+ 
+...OTHER TEXAS OBSERVATIONS...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BROWNSVILLE    CLOUDY    66  62  87 N13G20    30.00S                  
+HOUSTON        CLOUDY    57  48  72 NE12      30.10S                  
+COL. STATION   CLOUDY    57  47  69 NE7       30.12S                  
+AUSTIN         CLOUDY    55  49  80 N9        30.11F                  
+TEMPLE         CLOUDY    53  47  79 NE7       30.15S                  
+WACO           SUNNY     53  47  79 NE6       30.16S                  
+FORT WORTH     PTSUNNY   56  39  53 SE5       30.16S                  
+WICHITA FALLS  CLOUDY    53  41  63 S9        30.16S                  
+LUBBOCK        CLOUDY    45  40  82 SE13      30.07S                  
+EL PASO        MOSUNNY   56  36  47 SE7       29.97S                  
+$$
+
+...MARINE OBSERVATIONS...
+  
+STATION/POSITION TIME  SKY/WX   TEMP    WIND        PRES    VSBY  WAVE   SWELL
+                                AIR SEA DIR/SP/G                  HT/PER HT/PER
+                 (UTC)          (F)     (DEG/KT/KT) (MB)    (MI)  (FT/S) (FT/S)
+PORT ARANSAS     1400            59     360/ 20/ 22   N/A
+ARANSAS PASS     1430            60 71  360/ 20/ 23 1016.4F
+BUOY 6 SE PORT A NOT AVBL
+BUOY 90 E PORT A 1440               74                N/A           8/ 7
+BUOY 45 SE BAFFI 1450            68 74   30/ 23/ 27 1015.7R         9/ 8   3/ 9
+BUOY 200 E PT IS 1450            76 78   50/ 16/ 19 1012.6R         8/ 8   7/ 8
+BUOY 15 E GALVES 1450            62 72   40/ 17/ 21 1017.8R         5/ 6
+$$
+  

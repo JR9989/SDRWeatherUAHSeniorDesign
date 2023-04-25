@@ -1,0 +1,87 @@
+ASUS42 KCAE 241510
+RWRCAE
+REGIONAL WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE COLUMBIA SC
+1100 AM EDT MON APR 24 2023
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+NOT ALL STATIONS ARE QUALITY CONTROLLED BY THE NATIONAL 
+WEATHER SERVICE. USE DATA WITH CAUTION...ESPECIALLY 
+DEWPOINT OBSERVATIONS.
+
+SCZ001>059-115-116-135>137-GAZ040-063>065-077-241600-
+...UPSTATE SOUTH CAROLINA...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ANDERSON       PTSUNNY   59  33  37 E6        30.14R                  
+LIBERTY        SUNNY     57  34  41 CALM      30.14R                  
+SPARTANBURG    SUNNY     55  32  41 NE7       30.14R                  
+CLEMSON        SUNNY     58  36  43 VRB3      30.15R                  
+GREENVILLE     SUNNY     58  33  39 NE13      30.14S                  
+GREENWOOD      CLOUDY    56  35  45 NE9       30.16R                  
+GREER          SUNNY     57  32  38 E9        30.14S                  
+ROCK HILL      MOSUNNY   58  34  40 NE13      30.14R                  
+LAURENS        MOSUNNY   55  36  47 E8        30.15R                  
+
+
+...CENTRAL SOUTH CAROLINA...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+COLUMBIA APT   CLOUDY    58  39  49 NE10      30.13R                  
+COLUMBIA OWENS CLOUDY    58  38  47 VRB6      30.14R                  
+MCENTIRE ANGB  PTSUNNY   58  41  52 N8        30.11R                  
+ORANGEBURG     PTSUNNY   61  39  44 N7        30.12R                  
+SUMTER SHAW    PTSUNNY   58  40  51 NE10      30.11R                  
+NEWBERRY       CLOUDY    55  34  44 NE12      30.18R                  
+AIKEN          PTSUNNY   58  40  51 NE10      30.13R                  
+BARNWELL       FAIR      63  41  45 E7        30.12R                  
+MANNING        CLOUDY    59  37  44 N7        30.12R                  
+CAMDEN         CLOUDY    55  36  47 N12       30.14R                  
+LANCASTER      PTSUNNY   57  37  47 NE10G20   30.15R HAZE             
+WINNSBORO      CLOUDY    54  37  54 NE9       30.14R                  
+
+
+...EASTERN AND COASTAL SOUTH CAROLINA...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MYRTLE BEACH   CLOUDY    60  47  61 N12       30.10R                  
+N MYRTLE BCH   CLOUDY    60  49  66 N8        30.09R                  
+CONWAY         FAIR      57  46  67 CALM      30.11R                  
+MARION         CLOUDY    55  41  58 MISG      30.12R                  
+HARTSVILLE     CLOUDY    54  37  54 NE8G15    30.13R                  
+FLORENCE       CLOUDY    57  44  62 N13       30.13R                  
+DARLINGTON     CLOUDY    54  40  59 N10       30.14R                  
+CHARLESTON APT PTSUNNY   70  41  34 N3        30.09R                  
+MOUNT PLEASANT FAIR      66  43  42 CALM      30.09R                  
+WALTERBORO     MOSUNNY   68  41  37 N5        30.11R                  
+BEAUFORT       PTSUNNY   72  47  40 E7        30.10R                  
+HILTON HEAD    SUNNY     70  48  46 NE12      30.10R                  
+
+
+...EASTERN GEORGIA...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+AUGUSTA BUSH F CLOUDY    61  39  44 NE9       30.12R                  
+AUGUSTA DANIEL CLOUDY    58  39  49 MISG      30.14R                  
+THOMSON        CLOUDY    58  39  48 NE13      30.14R                  
+WASHINGTON     PTSUNNY   58  38  47 NE8       30.15S                  
+CLAXTON        FAIR      69  40  34 N5        30.11R                  
+SYLVANIA       MOSUNNY   67  44  42 E6        30.12R                  
+STATESBORO     PTSUNNY   67  41  37 NE8       30.10S                  
+SAVANNAH       PTSUNNY   70  44  39 NE8       30.09R                  
+
+
+...SOUTHERN NORTH CAROLINA...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CHARLOTTE      MOSUNNY   58  33  39 N12       30.15R                  
+MONROE         MOSUNNY   57  35  43 N9        30.13R                  
+WADESBORO      CLOUDY    54  34  46 CALM      30.15S                  
+ROCKINGHAM     PTSUNNY   53  35  50 NE7       30.15R                  
+RUTHERFORDTON  SUNNY     55  32  41 CALM      30.16R                  
+ASHEVILLE      SUNNY     50  29  44 N7G18     30.15R                  
+
+$$
+  

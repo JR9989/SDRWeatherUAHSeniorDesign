@@ -1,0 +1,90 @@
+ASUS45 KABQ 241501
+RWRNM 
+NEW MEXICO REGIONAL WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE ALBUQUERQUE NM
+900 AM MDT MON APR 24 2023
+
+NOTE: "FAIR" MEANS FEW OR NO CLOUDS BELOW 12,000 FEET AGL WITH NO
+       SIGNIFICANT WEATHER OR OBSTRUCTIONS TO VISION.
+
+      THIS PRODUCT IS RELEASED AS TWO VERSIONS.  ONE VERSION NEAR
+      THE TOP OF THE HOUR CONTAINING PRELIMINARY DATA FROM ALBUQUERQUE
+      AND OTHER STATIONS.  A FINAL VERSION WITH ADDITIONAL DATA IS 
+      ISSUED ABOUT 10 MINUTES AFTER THE HOUR.
+ 
+NMZ201-203-204-210>218-241600-
+NORTHWEST PLATEAU/NORTHCENTRAL MOUNTAINS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+FARMINGTON     CLOUDY    48  38  68 W8        30.00R                  
+SANTA FE       FAIR      48  33  56 S6        29.97R                  
+TAOS           FAIR      49  26  41 CALM      29.98F                  
+
+$$
+NMZ202-205>209-241-402-403-241600-
+WESTCENTRAL MOUNTAINS/SOUTHWEST MOUNTAINS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+GALLUP         FAIR      52  30  43 NE8       30.01S                  
+GRANTS         CLOUDY    51  21  31 N9        30.02R                  
+SILVER CITY    FAIR      63  31  29 CALM      30.00S                  
+
+$$
+NMZ407-409-411-412-241600-
+SOUTHERN DESERTS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+DEMING         FAIR      58  34  40 NE6       29.97R                  
+HOLLOMAN AFB   MOSUNNY   55  36  49 SE6       30.02R                  
+ALAMOGORDO     FAIR      55  34  44 NW7       29.99R                  
+T OR C         FAIR      60  29  30 CALM      29.96R                  
+
+$$
+NMZ219>223-241600-
+CENTRAL VALLEYS/CENTRAL HIGHLANDS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ALBUQUERQUE    CLOUDY    52  32  46 N5        29.96S                  
+DOUBLE EAGLE   SUNNY     52  30  43 S5        29.97S                  
+MORIARTY ARPT  FAIR      40  31  69 S10       30.00F WCI  34          
+CLINES CORNERS FAIR      47  31  53 SW15      30.00                   
+BELEN          FAIR      56  28  33 S6        29.97S                  
+SOCORRO        FAIR      58  30  33 S9        29.96S                  
+
+$$
+NMZ224>226-239-240-241600-
+SOUTHCENTRAL MOUNTAINS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+RUIDOSO          N/A     52  32  46 NE3       30.05R                  
+
+$$
+NMZ227>231-241600-
+NORTHEAST HIGHLANDS/NORTHEAST PLAINS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+LAS VEGAS      FAIR      46  32  58 S15       29.95F                  
+RATON          CLOUDY    39  33  79 S5        29.96F                  
+CLAYTON        CLOUDY    43  35  73 SW20G31   29.94F                  
+
+$$
+NMZ232>237-241600-
+EASTCENTRAL PLAINS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+TUCUMCARI      CLOUDY    43  38  82 SW15      30.00F                  
+CANNON AFB     CLOUDY    42  42  99 S15       30.03S FOG              
+CLOVIS AIRPORT CLOUDY    41  41 100 S14       30.06R FOG              
+
+$$
+NMZ028-029-033-238-241600-
+SOUTHEAST PLAINS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ROSWELL        CLOUDY    48  40  73 S18       30.02S                  
+ARTESIA        CLOUDY    46  41  81 SE18G24   30.04F                  
+CARLSBAD       CLOUDY    46  43  89 S14       30.04S FOG              
+
+
+$$
+  

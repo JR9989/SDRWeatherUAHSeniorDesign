@@ -19,14 +19,14 @@
     </form>
     <br><br>
     <?php
-    $image_names = glob("generatedImages/*.{jpg,png,gif}", GLOB_BRACE);
+    $image_names = glob("generatedText/*.{JPG,PNG,GIF}", GLOB_BRACE);
 
     if(empty($image_names)){
       echo '<p class="notice">No images found in the directory.</p>';
     }
     else {
       foreach ($image_names as $image_name) {
-        $image_title = str_replace('generatedImages/', '', $image_name);
+        $image_title = str_replace('generatedText/', '', $image_name);
         echo '<a class="imageLink" href="displayImage.php?image=' . $image_name . '">';
         echo '<div class="thumbNailContainer">';
         echo '<img class="thumbnail" src="' . $image_name . '">';

@@ -1,0 +1,129 @@
+ASUS41 KBOX 241510
+RWRBOX
+
+REGIONAL WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE BOSTON/NORTON MA
+1100 AM EDT MON APR 24 2023
+
+NOTE:  "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO 
+SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+MAZALL-241600-
+EASTERN MASSACHUSETTS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BOSTON         PTSUNNY   51  43  74 CALM      30.03R                  
+BEVERLY        CLOUDY    48  42  80 SW5       30.02R                  
+LAWRENCE       CLOUDY    51  43  74 CALM      30.03S                  
+BEDFORD        PTSUNNY   52  44  74 S6        30.00F                  
+NORWOOD        PTSUNNY   55  44  66 VRB3      30.02S                  
+MARSHFIELD     CLOUDY    48  43  81 E5        30.03S                  
+PLYMOUTH       CLOUDY    51  44  77 W6        30.02S                  
+TAUNTON        CLOUDY    52  45  77 VRB5      30.02S                  
+NEW BEDFORD    CLOUDY    50  45  83 NW3       30.02S                  
+$$
+
+MAZALL-241600-
+CAPE COD AND THE ISLANDS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+FALMOUTH       PTSUNNY   50  45  81 CALM      30.02S                  
+HYANNIS        CLOUDY    49  45  86 NW5       30.01S                  
+CHATHAM        CLOUDY    53  50  89 SE6       30.03R                  
+PROVINCETOWN   CLOUDY    47  45  93 W10       30.04R                  
+NANTUCKET      CLOUDY    50  46  86 N6        30.03R                  
+MARTHAS VNYRD  MOSUNNY   55  45  68 CALM      30.02S                  
+$$
+ 
+MAZALL-241600-
+CENTRAL AND WESTERN MASSACHUSETTS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+WORCESTER      PTSUNNY   50  36  58 W6        29.99R                  
+FITCHBURG      PTSUNNY   55  38  52 CALM      30.00                   
+ORANGE         CLOUDY    48  41  76 W8        30.01R                  
+SPRINGFIELD    CLOUDY    48  40  74 SW7       30.01R                  
+WESTFIELD      CLOUDY    49  38  65 SW3       30.03R                  
+NORTH ADAMS    CLOUDY    45  37  73 NW6       30.04R                  
+PITTSFIELD     CLOUDY    43  35  73 NW8       30.01S                  
+$$
+ 
+RIZALL-241600-
+RHODE ISLAND
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PROVIDENCE     PTSUNNY   51  45  79 CALM      30.03R                  
+NEWPORT        PTSUNNY   50  45  83 NW7       30.03R                  
+BLOCK ISLAND   CLOUDY    46  44  93 NE6       30.05R                  
+SMITHFIELD     PTSUNNY   53  44  71 VRB6      30.01S                  
+WESTERLY       PTSUNNY   53  46  77 SW3       30.03R                  
+$$
+ 
+CTZALL-241600-
+CONNECTICUT
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BRADLEY INTL   PTSUNNY   52  38  58 NW13      30.03R                  
+HARTFORD       PTSUNNY   52  38  58 NW6       30.03S                  
+BRIDGEPORT     MOSUNNY   54  36  50 VRB6      30.04S                  
+DANBURY        PTSUNNY   53  35  50 VRB3      30.05S                  
+GROTON         PTSUNNY   54  46  74 S9        30.03R                  
+NEW HAVEN      SUNNY     54  43  66 S9        30.04S                  
+CHESTER        FAIR      57  36  44 VRB7G14   30.03R                  
+MERIDEN        PTSUNNY   55  35  47 MISG      30.03S                  
+WILLIMANTIC    PTSUNNY   50  41  71 MISG      30.03S                  
+OXFORD         PTSUNNY   50  37  61 NW12      30.03S                  
+$$
+
+MEZ002-015-021-024-NHZ003-005-008-011-012-014-VTZ005-008-241600-
+NORTHERN NEW ENGLAND
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PORTLAND ME    LGT RAIN  43  43 100 E15       30.07R VSB 3/4          
+BANGOR ME      LGT RAIN  44  40  85 E12       30.14S                  
+CONCORD NH     PTSUNNY   49  47  93 E3        30.01S                  
+MANCHESTER NH  PTSUNNY   51  42  71 CALM      29.99F                  
+NASHUA NH      PTSUNNY   52  44  74 CALM      30.01F                  
+PORTSMOUTH NH  CLOUDY    48  47  97 E5        30.01S FOG              
+JAFFREY NH     CLOUDY    51  40  65 NW3       29.99S                  
+KEENE NH       PTSUNNY   50  39  66 VRB3        N/A                   
+BURLINGTON VT  CLOUDY    49  37  63 NW6       30.01S                  
+MT. WASHINGTON FRZ DRZL  25  25 100 SE33        N/A  VSB 1/16WCI   7  
+$$
+
+NYZ052-076-241600-
+EASTERN NEW YORK
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ALBANY         CLOUDY    49  37  63 NW5       30.06S                  
+NEW YORK CITY  MOSUNNY   54  35  48 CALM      30.05F                  
+$$
+ 
+ANZALL-241600-
+MARINE OBSERVATIONS
+  
+STATION/POSITION TIME  TEMP    WIND        PRES    VSBY  WAVE
+                       AIR SEA DIR/SP/G                  HT/PER
+                 (UTC) (F)     (DEG/KT/KT) (MB)    (MI)  (FT/S)
+BOSTON BUOY      1450      46              1017.6R         6/ 7
+BUZZARDS BAY     1400   47        CALM     1017.2S
+NANTUCKET SOUND  1450   50 51  340/  2/  4 1016.9R         1/ 8
+MASS BAY-STELLWA 1304   45 46  250/  4/  6 1015.4R  1 7/8  7/ 8
+ISLE OF SHOALS   1400   45     160/ 10/ 10 1015.8R
+S OF BLOCK IS    1426      48                N/A           5/ 7
+$$
+
+......................KEY.........................
+  SKY/WX - SKY CONDITION/PRESENT WEATHER
+  TMP    - TEMPERATURE IN FAHRENHEIT
+  DWPT   - DEWPOINT IN FAHRENHEIT
+  RH     - RELATIVE HUMIDITY IN PERCENT
+  WIND   - DIRECTION AND SPEED IN MPH
+  PRES   - MEAN SEA LEVEL PRESSURE IN INCHES OF HG
+  WCI    - WIND CHILL INDEX
+  VSB    - VISIBILITY IN MILES
+  HX     - HEAT INDEX
+  TC     - TEMPERATURE IN CELSIUS
+  VRB    - VARIABLE WIND DIRECTION
+  N/A    - NOT AVAILABLE
+  

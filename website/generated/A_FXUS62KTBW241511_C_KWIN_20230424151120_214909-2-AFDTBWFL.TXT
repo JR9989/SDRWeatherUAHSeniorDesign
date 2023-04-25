@@ -1,0 +1,45 @@
+FXUS62 KTBW 241511
+AFDTBW
+
+Area Forecast Discussion
+National Weather Service Tampa Bay Ruskin FL
+1111 AM EDT Mon Apr 24 2023
+
+...New AVIATION...
+
+.AVIATION...
+(18Z TAFS)
+Issued at 1104 AM EDT Mon Apr 24 2023
+
+Current VFR conditions could deteriorate through the afternoon 
+for most TAF sites as energy from the GUlf moves into the area 
+aiding the development of showers and storms. Greatest chances for
+convection will be along the interior and to the east. However, 
+coastal sites could see a passing shower or thunderstorm beginning
+around 20Z. Some storms could have strong gusts and the potential
+for hail. Currently VCTS to account for most sites as models are 
+hinting at showers and storms being less widespread, especially 
+along the coast. We will be monitoring the situation and will be 
+ready to update when necessary. 
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+TPA  84  68  86  70 /  60  20  40  20 
+FMY  88  69  87  70 /  50  40  50  20 
+GIF  84  65  85  67 /  70  30  70  30 
+SRQ  86  66  85  68 /  40  20  40  20 
+BKV  86  60  87  62 /  60  20  50  20 
+SPG  83  70  84  71 /  50  20  40  20 
+
+&&
+
+.TBW WATCHES/WARNINGS/ADVISORIES...
+FL...None.
+Gulf waters...None.
+
+&&
+
+$$
+
+AVIATION...Pearce

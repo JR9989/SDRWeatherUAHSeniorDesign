@@ -1,0 +1,344 @@
+NOUS43 KPAH 241446
+PNSPAH
+ILZ075>078-080>094-INZ081-082-085>088-KYZ001>022-MOZ076-086-087-100-107>112-
+114-250246-
+
+Public Information Statement
+National Weather Service Paducah KY
+946 AM CDT Mon Apr 24 2023
+
+...Frosty Low Temperatures This Morning...
+
+Location                     Temp      Time/Date       Provider             
+
+...Illinois...
+
+...Alexander County...
+Gail2                         34 F     0647 AM 04/24   MESOWEST             
+Bean Ridge IL                 36 F     0657 AM 04/24   RAWS                 
+3.4 S McClure (UPR)           36 F     0641 AM 04/24   MESOWEST             
+Cairo IL                      37 F     0615 AM 04/24   AWOS                 
+
+...Edwards County...
+Albion IL                     29 F     0630 AM 04/24   CWOP                 
+
+...Franklin County...
+3.6 N Benton (UPR)            30 F     0620 AM 04/24   MESOWEST             
+W.Frankfort                   32 F     0635 AM 04/24   CWOP                 
+Benton                        33 F     0635 AM 04/24   DAVIS                
+Benton                        33 F     0645 AM 04/24   DAVIS                
+Royalton IL                   34 F     0700 AM 04/24   CWOP                 
+Zeigler (UPR)                 40 F     0545 AM 04/24   MESOWEST             
+
+...Gallatin County...
+Eldorado                      31 F     0615 AM 04/24   DAVIS                
+Junction                      32 F     0635 AM 04/24   DAVIS                
+Omaha                         34 F     0635 AM 04/24   DAVIS                
+6 S Junction                  34 F     0650 AM 04/24   AWS                  
+Ridgway                       35 F     0655 AM 04/24   DAVIS                
+
+...Hamilton County...
+Mcleansboro                   32 F     0640 AM 04/24   AWS                  
+Dahlgren                      33 F     0625 AM 04/24   DAVIS                
+
+...Hardin County...
+1 NE Elizabethtown            30 F     0625 AM 04/24   AWS                  
+
+...Jackson County...
+Carbondale                    31 F     0645 AM 04/24   ISWS                 
+1.6 W Murphysboro (UPR)       32 F     0616 AM 04/24   MESOWEST             
+Carbondale IL                 34 F     0652 AM 04/24   ASOS                 
+0.9 W De Soto (UPR)           34 F     0503 AM 04/24   MESOWEST             
+1 NW Campbell Hill IL         35 F     0644 AM 04/24   AWS                  
+1 E Carbondale                35 F     0645 AM 04/24   AWS                  
+Murphysboro IL                35 F     0645 AM 04/24   AWS                  
+Carbondale                    36 F     0635 AM 04/24   DAVIS                
+Carbondale                    36 F     0646 AM 04/24   DAVIS                
+3.4 NW Gorham (UPR)           36 F     0522 AM 04/24   MESOWEST             
+3.6 SE Grand Tower (UPR)      36 F     0647 AM 04/24   MESOWEST             
+Jacob2                        36 F     0536 AM 04/24   MESOWEST             
+Carbondale                    38 F     0705 AM 04/24   DAVIS                
+Carbondale                    38 F     0625 AM 04/24   DAVIS                
+
+...Jefferson County...
+Mount Vernon IL               28 F     0649 AM 04/24   CWOP                 
+Mt Vernon IL                  28 F     0656 AM 04/24   AWOS                 
+Ashley IL                     29 F     0630 AM 04/24   CWOP                 
+2.4 E Dix (UPR)               29 F     0647 AM 04/24   MESOWEST             
+Dix IL                        30 F     0615 AM 04/24   CWOP                 
+Belle Rive                    31 F     0700 AM 04/24   DAVIS                
+Scheller                      31 F     0629 AM 04/24   CWOP                 
+Rend Lake                     32 F     0605 AM 04/24   ISWS                 
+Bonnie                        33 F     0655 AM 04/24   DAVIS                
+2.9 N Bonnie (UPR)            35 F     0546 AM 04/24   MESOWEST             
+Pknyvl                        36 F     0638 AM 04/24   MESOWEST             
+
+...Johnson County...
+Goreville (UPR)               37 F     0609 AM 04/24   MESOWEST             
+
+...Massac County...
+Metropolis IL                 34 F     0655 AM 04/24   AWOS                 
+Shawnee Portable No. 1        35 F     0554 AM 04/24   RAWS                 
+
+...Perry County...
+Pinckneyville IL              34 F     0654 AM 04/24   AWS                  
+3.8 E Pinckneyville (UPR)     34 F     0541 AM 04/24   MESOWEST             
+
+...Pope County...
+Dixon Springs                 32 F     0625 AM 04/24   ISWS                 
+1 W Golconda                  33 F     0200 AM 04/24   AWS                  
+Dixon Springs IL              34 F     0108 AM 04/24   RAWS                 
+
+...Saline County...
+Harrisburg                    30 F     0630 AM 04/24   AWS                  
+Raleigh                       32 F     0635 AM 04/24   DAVIS                
+Harrisburg IL                 32 F     0635 AM 04/24   AWOS                 
+Eldorado                      33 F     0645 AM 04/24   DAVIS                
+Eldorado                      35 F     0645 AM 04/24   DAVIS                
+Harrisburg                    35 F     0645 AM 04/24   DAVIS                
+
+...Union County...
+Dongola                       33 F     0640 AM 04/24   AWS                  
+0.8 S Ware (UPR)              38 F     0656 AM 04/24   MESOWEST             
+Ware2                         38 F     0631 AM 04/24   MESOWEST             
+
+...Wayne County...
+Xenia                         30 F     0635 AM 04/24   DAVIS                
+Fairfield                     30 F     0630 AM 04/24   DAVIS                
+Fairfield                     30 F     0555 AM 04/24   ISWS                 
+Fairfield                     31 F     0635 AM 04/24   DAVIS                
+Cisne                         31 F     0700 AM 04/24   DAVIS                
+Cisne                         31 F     0625 AM 04/24   DAVIS                
+Cisne                         31 F     0625 AM 04/24   DAVIS                
+Fairfield IL                  31 F     0635 AM 04/24   CWOP                 
+Fairfield IL                  31 F     0635 AM 04/24   AWOS                 
+Rinard                        32 F     0625 AM 04/24   DAVIS                
+Burnt Prairie                 33 F     0645 AM 04/24   DAVIS                
+
+...White County...
+Enfield                       32 F     0635 AM 04/24   DAVIS                
+Grayville                     32 F     0607 AM 04/24   CWOP                 
+Mill Shoals                   33 F     0645 AM 04/24   DAVIS                
+Carmi IL                      34 F     0636 AM 04/24   AWOS                 
+
+...Williamson County...
+Crab Orchard IL               30 F     0555 AM 04/24   RAWS                 
+Marion IL                     30 F     0615 AM 04/24   AWOS                 
+Crainville                    31 F     0615 AM 04/24   CWOP                 
+5.0 SW Marion IL              32 F     0655 AM 04/24   HADS                 
+Herrin                        33 F     0645 AM 04/24   DAVIS                
+Marion IL                     33 F     0625 AM 04/24   AWS                  
+2.7 N Johnston City (UPR)     36 F     0612 AM 04/24   MESOWEST             
+
+...Indiana...
+
+...Gibson County...
+Oakland City                  28 F     0615 AM 04/24   DAVIS                
+Oakland City IN               29 F     0550 AM 04/24   CWOP                 
+Princeton                     29 F     0615 AM 04/24   DAVIS                
+Oakland City                  30 F     0630 AM 04/24   DAVIS                
+Haubstadt                     32 F     0615 AM 04/24   DAVIS                
+Princeton                     32 F     0625 AM 04/24   DAVIS                
+Haubstadt                     33 F     0625 AM 04/24   DAVIS                
+Owensville                    34 F     0625 AM 04/24   DAVIS                
+
+...Posey County...
+Mount Vernon IN               31 F     0654 AM 04/24   CWOP                 
+2 N Mount Vernon IN           31 F     0615 AM 04/24   AWS                  
+3.0 E Griffin (INDOT)         32 F     0529 AM 04/24   MESOWEST             
+Wadesville                    33 F     0640 AM 04/24   CWOP                 
+New Harmony                   33 F     0705 AM 04/24   DAVIS                
+7 E Mount Vernon IN           33 F     0630 AM 04/24   AWS                  
+Mount Vernon IN               33 F     0520 AM 04/24   AWS                  
+Mount Vernon                  34 F     0705 AM 04/24   DAVIS                
+Mt. Vernon                    34 F     0630 AM 04/24   CWOP                 
+
+...Vanderburgh County...
+Evansville                    30 F     0609 AM 04/24   CWOP                 
+Evansville IN                 32 F     0626 AM 04/24   CWOP                 
+Evansville IN                 32 F     0654 AM 04/24   ASOS                 
+2 W Evansville IN             33 F     0654 AM 04/24   AWS                  
+Evansville                    34 F     0630 AM 04/24   DAVIS                
+Evansville                    34 F     0645 AM 04/24   DAVIS                
+Evansville IN                 34 F     0630 AM 04/24   AWS                  
+1.2 NE Melody Hill (INDOT)    34 F     0640 AM 04/24   MESOWEST             
+
+...Warrick County...
+Chandler                      28 F     0615 AM 04/24   DAVIS                
+Newburgh IN                   33 F     0646 AM 04/24   CWOP                 
+
+...Kentucky...
+
+...Ballard County...
+Gage                          34 F     0559 AM 04/24   CWOP                 
+Wickliffe                     37 F     0545 AM 04/24   CWOP                 
+US-51 @ Willow Slough Br. (W  37 F     0605 AM 04/24   KYTC-RWIS            
+
+...Caldwell County...
+Princeton KY 2 SE             32 F     0345 AM 04/24   KYMN2                
+Princeton No. 1               33 F     0400 AM 04/24   MESOWEST             
+
+...Calloway County...
+New Concord KY                32 F     0630 AM 04/24   CWOP                 
+Murray KY 1 W                 33 F     0600 AM 04/24   KYMN2                
+Murray KY                     34 F     0639 AM 04/24   CWOP                 
+Murray                        34 F     0635 AM 04/24   DAVIS                
+Murray KY                     34 F     0635 AM 04/24   AWOS                 
+5 SSE Aurora                  39 F     0530 AM 04/24   AWS                  
+
+...Carlisle County...
+Bardwell                      31 F     0535 AM 04/24   DAVIS                
+Bardwell                      34 F     0535 AM 04/24   DAVIS                
+
+...Christian County...
+Hopkinsville                  31 F     0515 AM 04/24   DAVIS                
+Princeton KY                  31 F     0545 AM 04/24   CWOP                 
+Hopkinsville KY 6 N           32 F     0620 AM 04/24   KYMN2                
+4 ESE Herndon                 33 F     0605 AM 04/24   AWS                  
+Fort Campbell KY              33 F     0655 AM 04/24   AWOS                 
+I-24 @ KY-115 (Oak Grove)     33 F     0555 AM 04/24   KYTC-RWIS            
+
+...Crittenden County...
+KY-641 @ MP 5 (Marion)        34 F     0640 AM 04/24   KYTC-RWIS            
+Marion KY 4 NE                34 F     0620 AM 04/24   KYMN2                
+
+...Daviess County...
+Lewisport                     29 F     0649 AM 04/24   CWOP                 
+Whitesville KY                31 F     0635 AM 04/24   AWS                  
+Owensboro                     32 F     0645 AM 04/24   DAVIS                
+Philpot                       33 F     0645 AM 04/24   DAVIS                
+Willian Natcher @ US-60 Bypa  34 F     0635 AM 04/24   KYTC-RWIS            
+3.7 SE Owensboro (WEATHERSTE  35 F     0640 AM 04/24   MESOWEST             
+Owensboro                     35 F     0655 AM 04/24   DAVIS                
+Owensboro KY                  35 F     0656 AM 04/24   AWOS                 
+2 E Owensboro                 35 F     0630 AM 04/24   AWS                  
+
+...Fulton County...
+Hickman KY 2 E                35 F     0605 AM 04/24   KYMN2                
+
+...Graves County...
+Mayfield KY                   34 F     0655 AM 04/24   AWOS                 
+Mayfield KY 6 SW              34 F     0630 AM 04/24   KYMN2                
+Symsonia                      35 F     0705 AM 04/24   DAVIS                
+Mayfield                      37 F     0645 AM 04/24   CWOP                 
+
+...Henderson County...
+Henderson                     33 F     0635 AM 04/24   DAVIS                
+Henderson KY 5 E              33 F     0640 AM 04/24   KYMN2                
+Henderson                     34 F     0645 AM 04/24   DAVIS                
+Henderson                     34 F     0656 AM 04/24   DAVIS                
+US-60 @ US-41 (Henderson)     34 F     0545 AM 04/24   KYTC-RWIS            
+Henderson KY                  35 F     0656 AM 04/24   AWOS                 
+
+...Hickman County...
+Julian Carroll @ KY 94 (Wate  33 F     0505 AM 04/24   KYTC-RWIS            
+
+...Hopkins County...
+Wendell Ford @ Edward Breath  31 F     0340 AM 04/24   KYTC-RWIS            
+Madisonville KY 4 S           32 F     0550 AM 04/24   KYMN2                
+Madisonville KY               32 F     0627 AM 04/24   CWOP                 
+Uniontown                     34 F     0615 AM 04/24   DAVIS                
+Madisonville KY               34 F     0635 AM 04/24   AWOS                 
+
+...Livingston County...
+I-24 @ Cumberland River       34 F     0620 AM 04/24   KYTC-RWIS            
+US-60 @ Cumberland River (Sm  35 F     0700 AM 04/24   KYTC-RWIS            
+
+...Lyon County...
+Eddyville KY                  34 F     0629 AM 04/24   CWOP                 
+
+...Marshall County...
+Benton KY 4 N                 33 F     0600 AM 04/24   KYMN2                
+Sharpe/Calvert City           34 F     0345 AM 04/24   DAVIS                
+Murray                        35 F     0648 AM 04/24   CWOP                 
+
+...McCracken County...
+West Paducah KY               32 F     0550 AM 04/24   CWOP                 
+Paducah                       34 F     0610 AM 04/24   DAVIS                
+Paducah KY                    35 F     0653 AM 04/24   ASOS                 
+
+...McLean County...
+Calhoun KY 5 NW               33 F     0650 AM 04/24   KYMN2                
+
+...Muhlenberg County...
+3.2 NW Powderly KY            30 F     0555 AM 04/24   HADS                 
+Greenville KY                 31 F     0615 AM 04/24   AWOS                 
+Wendell Ford @ Central City   31 F     0630 AM 04/24   KYTC-RWIS            
+Greenville KY 6 N             32 F     0400 AM 04/24   KYMN2                
+Central City                  33 F     0646 AM 04/24   CWOP                 
+
+...Todd County...
+Guthrie                       31 F     0615 AM 04/24   DAVIS                
+Elkton KY 5 SW                31 F     0610 AM 04/24   KYMN2                
+3 SE Allegre                  32 F     0635 AM 04/24   AWS                  
+Elkton KY                     32 F     0645 AM 04/24   CWOP                 
+Trenton                       33 F     0635 AM 04/24   DAVIS                
+1.1 N Guthrie (WEATHERSTEM)   34 F     0650 AM 04/24   MESOWEST             
+
+...Trigg County...
+Cadiz KY 4 SW                 32 F     0640 AM 04/24   KYMN2                
+Golden Pond KY                33 F     0221 AM 04/24   RAWS                 
+
+...Union County...
+Morganfield KY 4 E            34 F     0355 AM 04/24   KYMN2                
+Sturgis Municipal Airport     34 F     0655 AM 04/24   MESOWEST             
+KY 56 near Spring Grove       35 F     0650 AM 04/24   KYTC-RWIS            
+Morganfield                   36 F     0625 AM 04/24   DAVIS                
+
+...Webster County...
+Edward Brethitt near KY370    33 F     0630 AM 04/24   KYTC-RWIS            
+
+...Missouri...
+
+...Butler County...
+2.0 NE Harviell (UPR)         34 F     0546 AM 04/24   MESOWEST             
+Poplar Bluff MO               36 F     0653 AM 04/24   ASOS                 
+1.4 W Ash Hill (UPR)          37 F     0555 AM 04/24   MESOWEST             
+3.0 S Neelyville (UPR)        40 F     0526 AM 04/24   MESOWEST             
+
+...Cape Girardeau County...
+Cape Girardeau                36 F     0655 AM 04/24   DAVIS                
+Jackson                       36 F     0705 AM 04/24   DAVIS                
+Jackson MO                    38 F     0700 AM 04/24   AWS                  
+
+...Carter County...
+Chicopee MO                   30 F     0722 AM 04/24   RAWS                 
+ELLSINORE                     33 F     0636 AM 04/24   CWOP                 
+
+...Mississippi County...
+Charleston, MO South          38 F     0635 AM 04/24   MOCOMAGNET           
+Dorena MO                     41 F     0445 AM 04/24   CWOP                 
+
+...New Madrid County...
+Sikeston                      38 F     0655 AM 04/24   DAVIS                
+New Madrid                    41 F     0635 AM 04/24   DAVIS                
+
+...Perry County...
+Perryville MO                 32 F     0615 AM 04/24   AWOS                 
+
+...Ripley County...
+Doniphan MO                   33 F     0553 AM 04/24   RAWS                 
+
+...Scott County...
+Scott City                    35 F     0649 AM 04/24   CWOP                 
+Oran                          36 F     0535 AM 04/24   DAVIS                
+Cape Girardeau MO             36 F     0653 AM 04/24   ASOS                 
+Sikeston MO                   36 F     0515 AM 04/24   AWOS                 
+2.3 NW Kelso (UPR)            36 F     0623 AM 04/24   MESOWEST             
+6.5 S Delta (UPR)             39 F     0559 AM 04/24   MESOWEST             
+
+...Stoddard County...
+4.0 N Essex (UPR)             36 F     0628 AM 04/24   MESOWEST             
+3.5 W Dexter (UPR)            36 F     0655 AM 04/24   MESOWEST             
+1.6 E Dexter (SCAN)           40 F     0300 AM 04/24   MESOWEST             
+Bernie                        40 F     0535 AM 04/24   DAVIS                
+
+...Wayne County...
+Piedmont MO                   28 F     0630 AM 04/24   RAWS                 
+2.3 W Williamsville (UPR)     28 F     0523 AM 04/24   MESOWEST             
+
+Observations are collected from a variety of sources with varying
+equipment and exposures. We thank all volunteer weather observers 
+for their dedication. Not all data listed are considered official.
+
+$$

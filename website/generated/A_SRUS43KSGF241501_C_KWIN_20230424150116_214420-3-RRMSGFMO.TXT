@@ -1,0 +1,162 @@
+SRUS43 KSGF 241501
+RRMSGF
+
+DAILY PRECIPITATION REPORT
+NATIONAL WEATHER SERVICE SPRINGFIELD MO
+945 AM CDT MON APR 24 2023
+
+
+
+   STATION            PRECIPITATION
+
+
+SOUTHWEST MISSOURI COOPERATIVE OBSERVERS
+ALTON                         M
+ANDERSON 3W                   M
+ASH GROVE                  0.00
+BILLINGS                      M
+BRANSON AIRPORT               M
+BUFFALO 2N                    M
+BOLIVAR 1NE                0.00
+CASSVILLE                  0.00
+DIAMOND 2W                    M
+OZARK BEACH 2 NNE          0.00
+LOCKWOOD                   0.00
+MARSHFIELD                    M
+MILLER                        M
+MORRISVILLE 2SW               M
+NEOSHO                        M
+POMME DE TERRE             0.00
+STOCKTON DAM               0.00
+TABLE ROCK LAKE            0.00
+MONETT 4 SW                0.00
+WASOLA 5N                  0.00
+WASHBURN                      M
+SENECA                     0.00
+
+
+WEST CENTRAL MISSOURI COOPERATIVE OBSERVERS
+
+
+APPLETON CITY              0.00
+COLE CAMP                  0.00
+ELDORADO SPRINGS              M
+NEVADA                     0.00
+STOCKTON DAM               0.00
+VERSAILLES                    M
+
+
+EASTERN OZARKS COOPERATIVE OBSERVERS
+
+
+AVA 6NW                    0.00
+DORA                          M
+ELDON                         M
+HOUSTON                       M
+LICKING                       M
+MONTAUK STATE PARK            M
+MOUNTAIN GROVE             0.00
+ROLLA                         M
+ROUND SPRING               0.00
+TECUMSEH                   0.00
+FT LEONARD WOOD APRT       0.00
+WASOLA 5N                  0.00
+WAYNESVILLE 2W                M
+WEST PLAINS                0.00
+
+
+SOUTHEAST KANSAS COOPERATIVE OBSERVERS
+
+
+COLUMBUS                   0.00
+GIRARD                     0.00
+PITTSBURG                  0.00
+FORT SCOTT                 0.00
+
+
+AUTOMATED RAINFALL ACCUMULATIONS ACROSS THE MO OZARKS 
+AND SOUTHEAST KANSAS...VALUES ARE NOT ALWAYS ACCURATE.
+VALUES ARE BASED ON THE AUTOMATED SYSTEMS.  
+USE WITH CAUTION!
+
+
+AKERS                                  M
+ALLEY SPRING                        0.00
+ASBURY WATER STATION                0.00
+WALNUNT SHADE                       0.02
+BEAVER CREEK RAWS NEAR AVA 23SW        M
+POWELL                              0.00
+BUTTERFIELD SPRINGFIELD PLATEAU AQU 0.00
+BAXTER SPRINGS                      0.00
+CLEARWATER                          0.00
+CARTHAGE                            0.00
+CARR CREEK                          0.00
+DADEVILLE                           0.00
+DONIPHAN RAWS                          M
+DONIPHAN                            0.00
+PRAIRIE STATE PARK                     M
+EMINENCE                            0.00
+BARDLEY                             0.00
+RIVERDALE                           0.00
+FISK                                0.00
+FULTON                              0.00
+GALENA                              0.00
+TURNBACK CREEK ABOVE GREENFIELD        M
+DNR WELL AT HA HA TONKA STATE PARK     M
+HORTON                              0.00
+HAZELGREEN                          0.00
+LANAGAN                             0.00
+DNR WELL AT JOPLIN                     M
+JOPLIN 24N CRN SITE                    M
+JOPLIN                              0.00
+MOUNTAIN VIEW                          M
+LEBANON WATER STATION               0.00
+LOST VALLEY HATCHERY NEAR WARSAW    0.00
+LAMAR WATER STATION                 0.00
+LAKE SPRINGFIELD BOATHOUSE             M
+PINEVILLE                           0.00
+DNR WELL AT MONETT                     M
+MILLWOOD                               M
+MT. VERNON OZARK AQUIFER            0.00
+MOUNT VERNON RAWS                      M
+MORRISVILLE                         0.00
+MONTAUK STATE PARK                  0.00
+NEAR OSWEGO                         0.00
+NEOSHO OZARK AQUIFER                0.00
+NORWOOD WELL                        0.00
+OZARK FISHERIES                        M
+PATTERSON                           0.00
+SPRINGFIELD                         0.05
+BIG PINEY                           0.00
+POPLAR BLUFF                        0.00
+LAKE TANEYCOMO                         M
+POMME DE TERRE LAKE                    M
+QULIN RAIN GAUGE                    0.00
+ROLLA WATER STATION                 0.00
+ROBY RAWS                           0.00
+PLATO                                  M
+WAYNESVILLE                         0.00
+RICHARDS                               M
+ROLLA 5E                            0.00
+SPRINGFIELD                         0.00
+SPRINGFIELD                         0.00
+SINKIN RAWS                         0.00
+SCHOOL OF THE OZARKS                0.00
+SAC RIVER NEAR STOCKTON                M
+HOLLISTER                           0.00
+THORNFIELD                          0.00
+TIFF CITY                           0.00
+TUNNEL DAM                          0.00
+VALLEY WATER MILL                   0.00
+VAN BUREN                           0.00
+SPRINGFIELD                            M
+WACO                                   M
+NEAR SPRINGFIELD                    0.00
+WAH KON TAH RAWS                    0.00
+WEST PLAINS WATER STATION           0.00
+WAPPAPELLO                          0.00
+WARSAW                              0.00
+
+
+
+$$

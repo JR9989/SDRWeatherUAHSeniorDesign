@@ -1,0 +1,124 @@
+SRUS44 KCRP 241452
+RVACRP
+TXC007-025-057-175-249-283-297-311-355-391-409-469-479-250552-
+
+HYDROLOGIC SUMMARY
+NATIONAL WEATHER SERVICE CORPUS CHRISTI TX
+952 AM CDT Mon Apr 24 2023
+
+                                     FLOOD   LATEST   24 HOUR
+ LOCATION                            STAGE   STAGE    CHANGE
+
+
+Manadas Creek
+  Manadas Creek at Laredo                     5.39      0.29
+
+Rio Grande
+  Columbia Bridge                      18    16.26      5.29
+  World Trade Bridge                                        
+  Laredo                                8     7.88      2.51
+
+
+Zacate Creek
+  Laredo                                      1.36      0.32
+
+
+San Casimiro Creek
+  Freer                                       4.06      0.05
+
+Nueces River
+  Cotulla                              15     3.86      0.08
+  Tilden                               14     2.86      0.32
+  Choke Canyon Near Three Rivers              3.91     -0.01
+  Three Rivers                         25     4.99      3.46
+  Mathis                               25     0.93      0.07
+  Bluntzer                             18     8.38      1.50
+  Calallen                              7     5.16      0.38
+  Ricon Bayou Channel nr Calallen             1.71     -0.69
+
+
+Lagarto Creek
+  George West                                 4.70      0.94
+
+Frio River
+  Tilden                               22     2.87      0.98
+
+Atascosa River
+  Whitsett                             20     5.15      3.34
+
+San Miguel Creek
+  Tilden                               21     2.68      1.31
+
+Aransas River
+  Skidmore                             13     0.62      0.17
+
+
+Medio Creek
+  Medio Creek Nr Beeville                     4.86      0.14
+
+San Diego Creek
+  Alice                                11     7.08      0.00
+
+San Fernando Creek
+  Alice                                12     3.83      3.15
+
+Oso Creek
+  Corpus Christi                       20    21.89     15.88
+
+
+Tranquitas Creek
+  Kingsville                                  1.25      0.11
+
+Mission River
+  Refugio                              23     2.10      0.07
+
+Copano Creek
+  Refugio                              12     3.36      0.19
+
+San Antonio River
+  Goliad                               25    13.84      7.74
+  McFaddin                                   16.17      1.11
+
+
+Perdido Creek
+  Fannin                                      2.47      0.25
+
+
+Fifteenmile Creek
+  Weser                                       6.10      0.01
+
+Coleto Creek
+  Arnold Road Crossing                 15     6.43      2.07
+  Highway 59, Victoria                 25     4.23      0.14
+
+Guadalupe River
+  Victoria                             21    12.54     -6.07
+  Bloomington                          20    21.56      1.90
+  Tivoli                                      6.89     -0.64
+  SH 35 Nr Tivoli                            12.69      0.65
+
+Garcitas Creek
+  Inez                                 20     6.82      0.76
+
+
+Placedo Creek
+  Placedo                                    12.76      8.66
+
+
+ Reservoir Information For The Texas Coastal Bend
+                           NORMAL   TODAYS   RELEASE
+  RESERVOIR                 POOL     POOL      CFS
+ Coleto Creek               98.0     97.00      3.0
+ Choke Canyon Dam          220.5    196.33     29.0
+ Lake Corpus Christi        94.0     90.28    117.0
+ Lake Texana                44.0     43.97      N/A
+
+
+All heights are in feet unless otherwise noted. 
+If significant changes are anticipated for any of 
+these locations, a statement or forecast will be 
+issued later today.
+
+$$
+
+

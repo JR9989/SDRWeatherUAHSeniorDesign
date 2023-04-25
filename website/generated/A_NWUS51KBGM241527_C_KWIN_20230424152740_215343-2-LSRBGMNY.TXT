@@ -1,0 +1,30 @@
+NWUS51 KBGM 241527
+LSRBGM
+
+PRELIMINARY LOCAL STORM REPORT
+NATIONAL WEATHER SERVICE BINGHAMTON NY
+1127 AM EDT MON APR 24 2023
+
+..TIME...   ...EVENT...      ...CITY LOCATION...     ...LAT.LON...
+..DATE...   ....MAG....      ..COUNTY LOCATION..ST.. ...SOURCE....
+            ..REMARKS..
+
+0635 PM     HAIL             2 E FOSTERDALE          41.70N 74.94W
+04/22/2023  M1.75 INCH       SULLIVAN           NY   PUBLIC           
+
+             
+
+0742 PM     HAIL             EAST MEREDITH           42.42N 74.88W
+04/22/2023  M1.00 INCH       DELAWARE           NY   PUBLIC           
+
+            QUARTER SIZE HAIL REPORTED VIA SOCIAL MEDIA, 
+            WITH PHOTO. LATE REPORT. TIME ESTIMATED BY 
+            RADAR. 
+
+
+&&
+
+$$
+
+
+

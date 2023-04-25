@@ -1,0 +1,265 @@
+ASUS46 KPDT 241510
+RWRPDT
+PENDLETON REGIONAL WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE PENDLETON OREGON
+800 AM PDT MON APR 24 2023
+
+NOTE: FAIR INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+# INDICATES UNOFFICIAL STATION AND DATA
+
+WAZ520-241610-
+EAST SLOPES OF WASHINGTON CASCADES
+
+CITY            SKY/WX      TMP DP  RH  WIND    PRES   REMARKS
+#BULLFROG       N/A         40  35  82  W3      N/A                          
+#ELK HTS DOT    N/A         39  34  82  SW3     N/A                          
+#GLENWOOD       N/A         42  37  82  S8      30.00R                       
+#NILE           N/A         39  36  89  W2      29.25R                       
+#TROUT LAKE 1NE N/A         40  38  92  W2      30.03R                       
+#TROUT LAKE 1E  N/A         39  38  96  CALM    30.03R                       
+$$
+
+WAZ521-241610-
+SIMCOE HIGHLANDS
+
+CITY            SKY/WX      TMP DP  RH  WIND    PRES   REMARKS
+#SATUS PASS DOT N/A         38  30  73  W9      N/A                          
+#CENTERVILLE 1SWN/A         44  39  82  W17     29.96R WCI 36                
+#LYLE 6NE       N/A         42  39  89  N15     30.03R WCI 34                
+#PITT 4SE       N/A         39  37  92  CALM    30.03R                       
+$$
+
+WAZ026-241610-
+KITTITAS VALLEY
+
+CITY            SKY/WX      TMP DP  RH  WIND    PRES   REMARKS
+ELLENSBURG AP   PTCLDY      46  35  65  W17G25  29.94R WCI 39                
+#ELLENSBURG CWU N/A         43  36  76  N7      29.90R                       
+#ELLENSBURG 1E  N/A         43  35  73  W8      29.96R                       
+#KITTITAS 3S    N/A         43  35  73  W9      29.94R                       
+#MANASTASH RDG  N/A         39  33  79  NW7     N/A                          
+#ROCKY CYN DOT  N/A         42  35  76  NW10    N/A                          
+#RYEGRASS DOT   N/A         38  31  76  W17     N/A    WCI 29                
+#THORP 6N       N/A         43  37  79  S3      29.87R                       
+$$
+
+WAZ027-241610-
+YAKIMA VALLEY
+
+CITY            SKY/WX      TMP DP  RH  WIND    PRES   REMARKS
+SUNNYSIDE AP    FAIR        46  40  79  N3      29.98R                       
+YAKIMA AIRPORT  FAIR        48  35  60  CALM    29.96R                       
+YAKIMA-VAGABOND FAIR        44  35  70  CALM    29.92R                       
+#MABTON         N/A         49  38  66  W2      29.96R                       
+#NACHES 2SW     N/A         42  35  76  W2      29.94R                       
+#OUTLOOK DOT    N/A         46  37  71  CALM    N/A                          
+#PARKER DOT     N/A         46  34  63  CALM    N/A                          
+#TERRACE HTS    N/A         47  40  76  CALM    29.92R                       
+#I82 S UMTANUM RN/A         45  33  63  N1      N/A                          
+#UNION GAP DOT  N/A         45  37  73  CALM    N/A                          
+#ZILLAH DOT     N/A         46  35  65  NW2     N/A                          
+$$
+
+WAZ028-241610-
+LOWER COLUMBIA BASIN...WASHINGTON
+
+CITY            SKY/WX      TMP DP  RH  WIND    PRES   REMARKS
+PASCO           CLOUDY      50  38  63  SW13    29.98R                       
+RICHLAND AWOS   CLOUDY      51  37  59  W9      29.98R                       
+#BASIN CITY 5SW N/A         48  39  71  W5      29.93R                       
+#BENTON CITY    N/A         48  36  63  W8      29.86                        
+#CONNELL 5N     N/A         45  40  82  SW2     29.92R                       
+#ELTOPIA 6NW    N/A         47  40  76  CALM    28.92R                       
+#KAHLOTUS       N/A         44  38  79  NW9     29.91R                       
+#KENNEWICK 3S   N/A         46  38  73  E5      29.96R                       
+#PROSSER DOT    N/A         48  36  63  CALM    N/A                          
+#TOUCHET 2S     N/A         48  40  74  W15     29.95R WCI 42                
+$$
+
+WAZ029-241610-
+FOOTHILLS OF THE BLUES...WASHINGTON
+
+CITY            SKY/WX      TMP DP  RH  WIND    PRES   REMARKS
+WALLA WALLA AP  LGT RAIN    47  35  63  SW16    29.97R WCI 41                
+#CLYDE 6NW      N/A         45  39  79  SW13    29.95R WCI 39                
+#DELANEY DOT    N/A         49  37  63  S8      N/A                          
+#LOWDEN 2SE     N/A         49  39  68  W10     29.85R                       
+#PRESCOTT       N/A         48  39  71  CALM    29.95R                       
+#WALLA WALLA 5E N/A         46  40  79  SW13    N/A    WCI 40                
+#WHITMAN MISSIONN/A         50  40  68  S10     30.02R                       
+$$
+
+WAZ030-241610-
+BLUE MOUNTAINS...WASHINGTON
+ 
+CITY            SKY/WX      TMP DP  RH  WIND    PRES   REMARKS
+$$
+
+ORZ009-041-WAZ024-241610-
+COLUMBIA RIVER GORGE
+
+CITY            SKY/WX      TMP DP  RH  WIND    PRES   REMARKS
+HOOD RIVER AP   LGT RAIN    45  43  93  CALM    30.07R                       
+THE DALLES AP   CLOUDY      50  41  71  W13     30.05R                       
+#CELILO DOT     N/A         50  37  61  SW10    N/A                          
+#LYLE           N/A         47  43  86  W9      30.06R                       
+#MARYHILL       N/A         49  37  63  W23     N/A    WCI 42                
+#RUFUS DOT      N/A         50  38  63  W20     N/A                          
+
+$$
+
+ORZ510-241610-
+NORTH CENTRAL OREGON
+
+CITY            SKY/WX      TMP DP  RH  WIND    PRES   REMARKS
+#ANTELOPE       N/A         41  33  73  CALM    29.87R                       
+#COW CYN RST AREN/A         39  33  79  W12     N/A    WCI 32                
+#DUFUR          N/A         42  39  89  W3      30.00R                       
+#DUFUR 9E       N/A         42  37  82  CALM    30.08R                       
+#GRASS VALLEY 1SN/A         42  37  82  SW7     29.97S                       
+#KENT DOT       N/A         40  27  59  W13     N/A    WCI 32                
+#SHANIKO 5WSW   N/A         39  30  70  W20     N/A    WCI 29                
+#WAPANITIA AIRPON/A         43  35  73  W12     30.03R WCI 37                
+#WASCO DOT      N/A         46  40  79  SW10    N/A                          
+#WASCO 5NE      N/A         43  39  86  SW14    29.98R WCI 36                
+$$
+
+ORZ511-241610-
+CENTRAL OREGON
+
+CITY            SKY/WX      TMP DP  RH  WIND    PRES   REMARKS
+BEND AIRPORT    MOCLDY      41  30  65  N5      30.02R                       
+MADRAS AIRPORT  CLOUDY      N/A N/A N/A W3      30.06R                       
+PRINEVILLE AP   FAIR        43  30  60  W14     30.03R WCI 36                
+REDMOND AIRPORT MOSUNNY     45  28  51  W12     30.02R WCI 39                
+#ASHWOOD SCHOOL N/A         43  32  65  W3      29.98R                       
+#CULVER         N/A         41  31  67  SW3     29.30R                       
+#PRINEVILLE     N/A         42  33  70  W2      30.08R                       
+
+$$
+
+
+ORZ509-241610-
+EAST SLOPES OF OREGON CASCADES
+
+CITY            SKY/WX      TMP DP  RH  WIND    PRES   REMARKS
+#BLUE BOX PASS  N/A         32  N/A N/A CALM    N/A                          
+#CAMP SHERMAN   N/A         38  32  79  CALM    30.10R                       
+#LA PINE DOT    N/A         36  28  72  N1      N/A                          
+#LAVA BUTTE DOT N/A         35  29  78  SW6     N/A                          
+#SISTERS ODOT   N/A         40  29  64  W5      N/A                          
+#WANOGA BUTTE D N/A         28  22  78  W9      N/A                          
+
+$$
+
+ORZ044-241610-
+LOWER COLUMBIA BASIN...OREGON
+
+CITY            SKY/WX      TMP DP  RH  WIND    PRES   REMARKS
+HERMISTON       CLOUDY      50  38  63  SW21G30 29.99R                       
+#BOARDMAN SCHOOLN/A         49  40  71  SW6     29.95R                       
+#ECHO 8SW       N/A         48  39  71  SW16    30.00R WCI 42                
+#I-84 EX 198 DOTN/A         47  38  71  E13     N/A    WCI 41                
+#UMATILLA       N/A         49  40  71  W7      29.99R                       
+$$
+
+ORZ507-241610-
+NORTHERN FOOTHILLS OF THE BLUES
+
+CITY            SKY/WX      TMP DP  RH  WIND    PRES   REMARKS
+PENDLETON AIRPT CLOUDY      48  36  63  W15     29.98R WCI 42                
+#ATHENA         N/A         46  37  71  SW7     29.98R                       
+#CAYUSE         N/A         46  36  68  SW12    29.96R WCI 40                
+#HELIX SCHOOL   N/A         44  37  76  N7      29.96R                       
+#HELIX 3N       N/A         43  37  79  CALM    29.98R                       
+#HOLDMAN 5SE    N/A         46  38  73  W14     29.97R WCI 40                
+#HOLDMAN 6E     N/A         44  38  79  S12     29.75R WCI 38                
+#M-FREEWATER 5SEN/A         46  36  68  SW7     29.97R                       
+#PDT SUNRIDGE   N/A         47  37  68  SW1     29.96R                       
+#PENDLETON 6SE  N/A         46  37  71  SW5     29.93R                       
+#TUTUILLA       N/A         44  37  76  S5      30.03R                       
+#UMAPINE 2E     N/A         48  39  71  SW3     29.97R                       
+
+$$
+
+ORZ508-241610-
+SOUTHERN FOOTHILLS OF THE BLUES
+
+CITY            SKY/WX      TMP DP  RH  WIND    PRES   REMARKS
+LEXINGTON       MOCLDY      46  36  68  SW14    30.03R WCI 40                
+#AJAX           N/A         43  35  73  SW12    30.00R WCI 37                
+#HEPPNER EOC    N/A         45  35  68  SW1     29.92R                       
+#HEPPNER 4NE    N/A         41  34  76  W9      29.97R                       
+#OLEX 4N        N/A         47  39  74  SW13    30.00R WCI 41                
+#RUGGS 2SW      N/A         42  33  70  W12     30.01R WCI 35                
+
+$$
+
+ORZ502-503-241610-
+BLUE MOUNTAINS
+
+CITY            SKY/WX      TMP DP  RH  WIND    PRES   REMARKS
+MEACHAM         LGT SNOW    35  32  89  VRB3    29.95R FOG                   
+#BATTLE MTN DOT N/A         35  27  72  N1      N/A                          
+#HARDMAN 10S    N/A         36  30  79  W1      30.06R                       
+#LADD CYN SMT   N/A         40  34  79  CALM    N/A                          
+#LADD CREEK ODOTN/A         41  -2  16  E5      N/A                          
+#N POWDER DOT   N/A         41  30  65  N13     N/A    WCI 34                
+#TOLLGATE       N/A         29  28  96  SW2     29.94R                       
+#TROY SCHOOL    N/A         47  36  65  S2      29.78R                       
+#WESTON 4E      N/A         38  33  82  CALM    29.93R                       
+$$
+
+ORZ505-241610-
+JOHN DAY BASIN
+
+CITY            SKY/WX      TMP DP  RH  WIND    PRES   REMARKS
+JOHN DAY        CLOUDY      39  31  73  W9      29.98R                       
+#DAYVILLE SCHOOLN/A         44  36  73  CALM    29.95R                       
+#MITCHELL 8NW   N/A         40  28  62  SW3     29.96R                       
+#MONUMENT HS    N/A         46  31  56  CALM    29.85R                       
+#MT. VERNON 5SE N/A         38  31  76  CALM    29.97R                       
+$$
+
+ORZ506-241610-
+OCHOCO AND JOHN DAY HIGHLANDS
+
+CITY            SKY/WX      TMP DP  RH  WIND    PRES   REMARKS
+#BUCK CREEK DOT N/A         35  27  72  NW9     N/A                          
+#KEYES SMT DOT  N/A         35  27  72  W8      N/A                          
+#PAULINA ODOT   N/A         40  39  96  SW9     N/A                          
+#PRAIRIE CITY   N/A         42  37  82  W3      29.90R                       
+#SENECA 9NW     N/A         34  30  85  CALM    29.95R                       
+$$
+
+ORZ049-241610-
+GRANDE RONDE VALLEY
+
+CITY            SKY/WX      TMP DP  RH  WIND    PRES   REMARKS
+LA GRANDE       LGT RAIN    42  35  76  NW10    29.98R                       
+#COVE SCHOOL    N/A         41  35  79  E2      29.97R                       
+#COVE 6NW       N/A         42  36  79  W3      29.98R                       
+#ELGIN 1E       N/A         43  33  67  SW6     N/A                          
+#IMBLER SCHOOL  N/A         41  33  73  CALM    29.93R                       
+#ISLAND CITY 4N N/A         44  42  93  CALM    30.12R                       
+#LADD CYN DOT   N/A         42  35  76  N3      N/A                          
+#UNION 1S       N/A         43  35  73  CALM    29.97R                       
+$$
+
+ORZ050-241610-
+WALLOWA COUNTY
+
+CITY            SKY/WX      TMP DP  RH  WIND    PRES   REMARKS
+JOSEPH AIRPORT  CLOUDY      37  33  85  S3      29.92R                       
+#ENTERPRISE HS  N/A         40  32  73  NW5     29.79R                       
+#IMNAHA SCHOOL  N/A         45  40  82  CALM    29.96R                       
+#JOSEPH 3N      N/A         37  34  89  NW1     29.91R                       
+#LOSTINE 3SE    N/A         41  30  65  CALM    30.00R                       
+#MT HOWARD 8000 N/A         23  20  88  W7      29.76R                       
+#WALLOWA SCHOOL N/A         41  33  73  W2      29.93F                       
+
+
+
+$$

@@ -1,0 +1,101 @@
+SOUS42 KMHX 241510
+TIDMHX
+
+Tidal Information
+National Weather Service Newport/Morehead City NC
+1110 AM EDT Mon Apr 24 2023
+
+NCZ203-204-205-251500-
+Northern Outer Banks-Ocracoke Island-Hatteras Island-
+1110 AM EDT Mon Apr 24 2023
+
+Tides for Duck Pier:
+
+High tide 1119 AM.
+Low  tide  511 PM.
+High tide 1134 PM.
+Low  tide  612 AM Tuesday.
+
+Tides for Oregon Inlet:
+
+High tide 1156 AM.
+Low  tide  527 PM.
+High tide 1205 AM Tuesday.
+Low  tide  721 AM Tuesday.
+
+Tides for the Pamlico Sound near Rodanthe:
+
+High tide  202 PM.
+Low  tide  730 PM.
+High tide  211 AM Tuesday.
+Low  tide  924 AM Tuesday.
+
+Tides for Hatteras Inlet:
+
+High tide 1119 AM.
+Low  tide  509 PM.
+High tide 1143 PM.
+Low  tide  630 AM Tuesday.
+
+Tides for Ocracoke Inlet:
+
+High tide 1120 AM.
+Low  tide  507 PM.
+High tide 1144 PM.
+Low  tide  628 AM Tuesday.
+
+
+Area Water Temperatures:
+Duck Pier...56. 
+Oregon Inlet Marina...62. 
+Rodanthe Pier...65. 
+Avon Pier...67. 
+
+$$
+
+NCZ195-196-199-251500-
+West Carteret-East Carteret-Coastal Onslow-
+1110 AM EDT Mon Apr 24 2023
+
+Tides for Bardens Inlet:
+
+Low  tide  449 PM.
+High tide 1124 PM.
+Low  tide  550 AM Tuesday.
+High tide 1148 AM Tuesday.
+
+Tides for the Harkers Island Bridge:
+
+High tide  119 PM.
+Low  tide  727 PM.
+High tide  143 AM Tuesday.
+Low  tide  848 AM Tuesday.
+
+Tides for Beaufort Inlet:
+
+High tide 1118 AM.
+Low  tide  507 PM.
+High tide 1142 PM.
+Low  tide  628 AM Tuesday.
+
+Tides for the Newport River:
+
+High tide 1214 PM.
+Low  tide  609 PM.
+High tide 1238 AM Tuesday.
+Low  tide  730 AM Tuesday.
+
+Tides for Bogue Inlet:
+
+High tide 1124 AM.
+Low  tide  511 PM.
+High tide 1148 PM.
+Low  tide  632 AM Tuesday.
+
+
+Area Water Temperatures:
+Beaufort...69. 
+Bogue Inlet Pier...67. 
+
+$$
+

@@ -1,0 +1,99 @@
+SRUS44 KSJT 241530
+RVASJT
+HYDROLOGIC SUMMARY 
+NATIONAL WEATHER SERVICE SAN ANGELO TX
+1030 AM CDT Mon Apr 24 2023
+
+
+
+WEST CENTRAL TEXAS RIVER AND RESERVOIR SUMMARY
+
+
+
+
+LOCATION                    FLOOD     STAGE     24 HR
+                            STAGE     TODAY     CHANGE
+...Brazos River Basin...
+Clear Fork of the Brazos
+ near Roby                     18       3.7       0.0      
+ at Hawley                     14       1.3       0.0      
+ at Nugent                     18       1.6       0.0      
+ near Fort Griffin             35       5.4       0.0      
+California Creek nr Stamford   28       6.8       0.0      
+Hubbard Creek below Albany     35       2.8       0.0      
+
+
+...Colorado River Basin...
+Colorado River
+ above Silver                  15       2.0       0.0      
+ at Robert Lee                 33       0.8       0.0      
+ near Ballinger                18       4.1       0.0      
+ near Stacy                    40       3.9      -0.2      
+ at Winchell                   26       2.2      -0.0      
+ near San Saba                 30       1.9      -0.0      
+Elm Creek at Ballinger          7       3.8      -0.1      
+Pecan Bayou
+ near Cross Cut                33       2.4       0.1      
+ at Brownwood                  20       4.1       0.0      
+ near Mullin                   45       5.6       0.0      
+
+
+...Concho River Basin...
+North Concho River
+ at Sterling City              17       3.4       0.0      
+ near Carlsbad                 12       2.1       0.0      
+Middle Concho River
+ above Tankersley              18       4.9       0.0      
+South Concho River
+ at Christoval                 10       1.9       0.0      
+Concho River
+ at San Angelo                 26       1.7       0.1      
+ at Paint Rock                 26      12.5       0.0      
+Spring Creek
+ above Tankersley              14       3.7       0.0      
+Dove Creek
+ at Knickerbocker              18       2.8       0.1      
+Pecan Creek
+ near San Angelo               10       0.1       0.0      
+
+
+...San Saba River Basin...
+San Saba River
+ at Menard                     18       2.9       0.0      
+ near Brady                    30       2.2      -0.2      
+ at San Saba                   24       2.7       0.0      
+Brady Creek
+ at Brady                      26       4.0      -0.0      
+
+
+...Llano River Basin...
+Llano River
+ near Junction                 16       1.6       0.0      
+ near Mason                    13       5.5       0.1      
+Beaver Creek
+ at Mason                      12       7.2      -0.2      
+
+
+RESERVOIR LEVELS
+                             NORMAL  TODAY'S   24-HR
+                              POOL    POOL     CHANGE
+
+
+...Brazos Reservoirs...
+Ft Phantom Hill Res           1636  1628.35    0.12:
+Lake Sweetwater               2116  2106.72    0.08:
+Lake Stamford                 1417  1412.98    0.01:
+...Colorado Reservoirs...
+E V Spence                    1898  1852.27   -0.02:
+O H Ivie                      1552  1526.71   -0.04:
+O C Fisher                    1909  1858.87   -0.01:
+North Pool Twin Buttes Res    1940  1916.53   -0.03:
+Oak Creek Res                 2000  1987.94   -0.01:
+Brady Creek Res               1742  1731.54   -0.02:
+Lake Coleman                  1718  1711.63    0.01:
+Hords Creek Dam               1901  1882.71    0.02:
+Lake Brownwood                1425  1415.56   -0.03:
+
+
+$$
+

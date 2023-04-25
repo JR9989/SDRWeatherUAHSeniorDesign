@@ -1,0 +1,63 @@
+ASUS45 KBOI 241510
+RWRID 
+
+IDAHO REGIONAL WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE BOISE ID
+900 AM MDT MON APR 24 2023
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12000 FEET
+WITH NO SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY
+
+IDZ012-014-241600-
+SOUTHWEST IDAHO
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BOISE          PTSUNNY   49  42  77 W12       29.88R                  
+CALDWELL       PTSUNNY   47  39  74 W16G26    29.90R                  
+MOUNTAIN HOME  MOSUNNY   45  45  98 CALM      29.84R                  
+$$
+
+IDZ016-017-241600-
+SOUTHCENTRAL IDAHO
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BURLEY         PTSUNNY   49  39  68 SW10      29.84F                  
+JEROME         LGT RAIN  48  38  68 S6        29.85S                  
+TWIN FALLS     PTSUNNY   51  38  60 SW10      29.85S                  
+$$
+
+IDZ019>023-241600-
+SOUTHEAST IDAHO
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+IDAHO FALLS    LGT RAIN  47  32  56 S12       29.87S                  
+POCATELLO      PTSUNNY   50  35  56 S9        29.86F                  
+REXBURG        LGT RAIN  40  33  76 NE5       29.86F                  
+$$
+
+IDZ006-010-011-018-031-032-241600-
+CENTRAL IDAHO MOUNTAINS
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MCCALL         CLOUDY    36  34  93 SW5       29.82R WCI  32          
+HAILEY         MOSUNNY   43  36  75 W3        29.86F                  
+STANLEY          N/A     34  32  92 SE3       29.84R                  
+SALMON         LGT RAIN  46  37  71 CALM      29.80S                  
+CHALLIS        CLOUDY    44  35  70 S3        29.81R                  
+$$
+
+IDZ002-004-006-007-026-241600-
+NORTHERN IDAHO
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+LEWISTON       CLOUDY    50  35  56 NW12      29.93R                  
+LOWELL           N/A     42  39  89 CALM      29.98R                  
+COEUR D'ALENE  CLOUDY    42  38  85 S8        29.90R                  
+MULLAN PASS    SNOW      28  28 100 CALM      29.83R VSB 1/4          
+$$
+  

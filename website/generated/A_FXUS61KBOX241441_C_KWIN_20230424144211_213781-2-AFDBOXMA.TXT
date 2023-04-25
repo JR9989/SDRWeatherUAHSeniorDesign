@@ -1,0 +1,331 @@
+FXUS61 KBOX 241441
+AFDBOX
+
+Area Forecast Discussion
+National Weather Service Boston/Norton MA
+1041 AM EDT Mon Apr 24 2023
+
+.SYNOPSIS...
+Low clouds this morning slowly lift and will give way to some
+breaks of sunshine this afternoon. A spot shower or two is
+possible across the interior today. More widespread hit-or- 
+miss showers on Tuesday. This unsettled weather pattern
+continues into Wed and Thu, with cool temperatures and 
+isolated/widely scattered diurnal showers. Not a washout with 
+many hours of dry weather each day. Driest stretch of weather 
+may come Friday and Saturday, as Canadian High pressure builds 
+east of New England, although likely remaining slightly cooler 
+than normal. The next chance of widespread rain arrives sometime
+Sunday or next Monday.
+
+&&
+
+.NEAR TERM /UNTIL 6 PM THIS EVENING/...
+1030 AM Update: 
+
+Cloud bases associated with stratus are beginning to
+lift/scatter a bit now that some albeit modest diurnal heating 
+is underway, a trend indicated in NAM/RAP/HRRR BUFKIT profiles.
+Expect that trend to continue today with llvl lapse rates
+flipping from inverted to slightly unstable; however breaks in 
+sun should prove destructive given cooler pocket of air aloft 
+and that leftover llvl moisture around should force an 
+increasing coverage of stratocu as stratus disperses. All told,
+more clouds than sun; there may be some spotty sprinkles or very
+light SHRA at worst but drier sub-cloud layer should make that
+the exception vs the rule and several hrs of dry wx is
+anticipated. 
+
+Kept temps as is for now, but may need to consider lowering
+these across eastern/southeast New England pending trends in sky
+cover. Highs should be more common in the 50s, though we may see
+a couple spot 60 degree readings.
+
+Previous discussion:
+
+Highlights
+
+* Any lingering fog lifts by mid morning. More clouds than
+  sunshine north of the MA Pike. Southern areas will start off
+  sunny with increasing cloudiness this afternoon. Localized sea
+  breezes across eastern areas. 
+
+* Isolated rain showers across the interior this afternoon.
+
+A broad cutoff low will be situated over the Great Lakes and
+Ontario through the day. A shortwave trough will lift from the
+Mid Atlantic/eastern Great Lakes this morning into New England
+by late this afternoon/early evening. A broad surface low will
+be over New England today. 
+
+Dry slot punches into our region today, which should bring
+enough sunshine to lift stratus/fog this AM. We will be stuck
+under a fair amount of cloudiness given the shortwave lifting
+in. There is not a whole lot of moisture to work with other than
+in the lower levels, so am not expecting shower activity to be
+too widespread. Think the best opportunities will be found
+across the interior as the -20 to -25 degree Celsius 500 hPa
+cold pool pushes in during the afternoon. Leaned quite heavily
+on the latest HREF guidance for delineating shower chances over
+the region. Activity may be a bit more widespread/scattered
+along the MA/NH/VT border. 
+
+Did nudge down temperatures from the previous shift with 925 hPa
+temps ranging from 3-7 degrees Celsius. Expect this in
+combination with the considerable cloudiness resulting in near
+to below normal temperatures. Highs top out in the 50s for most,
+but there may be a few spots across the southern Merrimack
+Valley that get into the low 60s.
+
+&&
+
+.SHORT TERM /6 PM THIS EVENING THROUGH 6 PM TUESDAY/...
+Highlights 
+
+* Any diurnal showers tapering off during the evening. Could see
+  some patchy fog develop late as skies clear and winds remain
+  relatively light.
+
+* Mix of sunshine and clouds on Tue. Scattered hit-or-miss rain
+  showers during the afternoon. May be cold enough aloft that a
+  few of the more vigorous showers produce graupel.
+
+Cutoff low continues to rotate across the Great Lakes/Ontario
+through this period. The core of the cutoff will be near the
+eastern Great Lakes and could see a few hard to time shortwaves
+rotating through. This will keep a broad low nearby/over the
+region.
+
+Anticipating that any of the diurnally driven shower activity
+will diminish in coverage this evening. Should see sky cover
+gradually clearing as the night progresses. Do have some
+uncertainty in how much clearing occurs, which will impact how
+low are temps are able to get. On top of this winds will be
+relatively light given the weak pressure gradient. Could see
+some patchy fog formation especially given the recent rains. At
+this point went with the 50th percentile of guidance for lows.
+If we can radiate a bit more than currently anticipating we may
+see a few spots getting into the low/mid 30s, which could result
+in patchy frost. There are a few spots across our CWA where a
+Frost Advisory may be necessary, but confidence was not high
+enough to include in the latest update. 
+
+Expect considerable cloudiness on Tue with a -20 to -30 degree
+Celsius cold pool overhead at 500 hPa. This in combination with
+any heating will result in an abundance of cloud cover,
+especially during the afternoon. Will have a bit more mid level
+moisture to work with, so am anticipating that shower activity
+will be a bit more widespread. Given the cold temps aloft think
+that any of the more vigorous showers that develop could produce
+graupel. Have not added to the current forecast, but do want to
+mention given the current setup. Fortunately think for most it
+will be dry, but more of a hit-or-miss shower day. High
+temperatures still near to below seasonable with readings in the
+50s.
+
+&&
+
+.LONG TERM /TUESDAY NIGHT THROUGH SUNDAY/...
+230 AM UPDATE:
+
+Highlights...
+
+* Cool weather pattern with lots of diurnal clouds and 
+  isolated/scattered showers thru Thu, but by no means a washout
+
+* Drier Friday and Saturday but likely remaining slightly cooler 
+  than normal
+
+* Cool/unsettled pattern likely returns Sunday and or early next 
+  week (first week of May!)
+
+Synoptic Overview...
+
+Omega block from the Great Lakes to east of Newfoundland will yield 
+an unsettled weather pattern thru about Thu, featuring cool 
+temperatures, lots of diurnal clouds and isolated/scattered showers. 
+By no means a washout with many hours of dry weather, but an 
+extended period of cool temps and more clouds than sunshine. Driest 
+stretch of weather may come Fri/Sat, as upper air pattern retrogrades 
+a bit with ridging setting up over New England. However this will be 
+temporary as teleconnections transition to another cool/unsettled 
+regime. This is in response to high latitude blocking featuring a 
+negative NAO along with upstream positive PNA/negative EPO. 
+
+Precipitation...
+
+Cyclonic flow and cold temps aloft will yield isolated to widely 
+scattered diurnal showers daily through Thursday. Again, not a 
+washout with many hours of dry weather each day. Highest 
+probabilities for showers will be well inland (proximity to cold 
+pool aloft), with lowest probability of showers across Cape Cod and 
+the Islands. Driest period of weather may come Fri into Sat, as 
+upper air pattern retrogrades a bit placing ridge axis over or near 
+New England. Although, this is temporary as next chance of 
+widespread rain comes at the end of this forecast period, as 
+impressive negative height anomaly per ensembles sets up over the 
+Great Lakes and OH Valley. This sets up a moisture plume off the 
+Atlantic into New England of +1 to +2 sigma, notable for this time 
+range. Given the high latitude blocking, this could be a slow 
+moving, and possibly high impact event with heavy rain potential 
+Sunday and/or Monday. Ensemble situational awareness tables for both 
+ECENS & NAEFS both indicating anomalies up to +/- 2.5 Sunday/Monday, 
+impressive given the time range. We will need to watch 
+ensemble trends as the week progresses.  
+
+Temperatures...
+
+Cool weather regime thru Thu with cold air aloft combined with more 
+diurnal clouds than sunshine, along with isolated to widely 
+scattered showers only yielding highs most days 55-60. Normal splits 
+for this time of year are highs 60-65, lows 40-45. So only slightly 
+cooler than normal, but clouds & scattered showers will accentuate 
+the cool conditions. Dry weather Fri and Sat doesn't provide much 
+additional warmth, with 1025 mb maritime high likely only yielding 
+highs in the upper 50s to lower 60s. Closer to normal but probably 
+slightly cooler than average, especially near shore given afternoon 
+seabreeze potential.  By Sunday, onshore flow and increasing risk of 
+showers likely keeps highs in 55-60 range once again.
+
+&&
+
+.AVIATION /15Z MONDAY THROUGH FRIDAY/...
+Forecaster Confidence Levels:
+
+Low - less than 30 percent. 
+Medium - 30 to 60 percent. 
+High - greater than 60 percent.
+
+15z TAF Update: 
+
+Today: High confidence in TAF/trends but moderate on timing. 
+
+Generally MVFR-VFR with stratus dispersing toward a SCT-BKN
+stratocu for most; continued IFR-based stratus for the South 
+Coast, Cape and Islands may take longer to scatter/disperse than
+further inland but even here, we should see conditions 
+transition toward at least MVFR. 
+
+Light W to NW winds today; may see a sea-breeze/110-120 deg
+winds develop at BOS around 17z, if it develops it may be
+shorter lived (thru 20z?) but will reassess.
+
+Today...High confidence in trends, moderate in exact 
+timing.
+
+VFR across CT with MVFR to IFR elsewhere with stratus. Should
+see this stratus eroding/lifting as a dry slot punches in. This
+will gradually lift ceilings to VFR levels by late AM/early
+afternoon. Could see an isolated shower across the interior
+during the afternoon. Have included a VCSH mention at BED/ORH,
+but less certain elsewhere. Winds out of the W to NW at 5-10
+kts. Eastern areas will see a sea breeze develop around 15-17Z. 
+
+Tonight...Moderate confidence.
+
+VFR, but would not be surprised if there is some patchy
+radiation fog formation given the relatively light NW flow. At
+this point confidence not high enough to include in TAF, but
+will need to re-evaluated by later shifts.
+
+Tuesday...High confidence.
+
+VFR with increasing mid clouds due to diurnal heating. Should
+see ceilings around 4-6 kft and fairly widespread scattered rain
+shower activity. W to NW winds around 5 kts. Localized sea
+breezes across eastern areas developing around 15-17Z once
+again.
+
+KBOS Terminal...High confidence in TAF. MVFR to SCT/BKN VFR
+bases today. Possible sea-breeze around 16-18z, a bit uncertain
+how long it would last; it may be shorter-lived thru 20z or
+continue thru sundown.
+
+KBDL Terminal...High confidence in TAF. MVFR bases become BKN
+VFR by 16z.
+
+Outlook /Tuesday Night through Friday/... 
+
+Tuesday Night through Wednesday: VFR. Slight chance SHRA.
+
+Wednesday Night: Mainly VFR, with local MVFR possible. Slight
+chance SHRA.
+
+Thursday: VFR. Chance SHRA.
+
+Thursday Night through Friday: VFR.
+
+&&
+
+.MARINE...
+Forecaster Confidence Levels:
+
+Low - less than 30 percent.
+Medium - 30 to 60 percent.
+High - greater than 60 percent.
+
+Small Craft Advisory remains in place for the southern outer
+waters today and through tonight for the eastern waters due to
+elevated seas. 
+
+Today...High confidence.
+
+Winds shift to the SE across the eastern waters at 5-10 kts,
+while the southern waters see WSW to SW winds at 10-15 kts. This
+is a result of a cold front slowly moving through. Seas 1-3 ft
+across the inner waters and 3-6 ft across the outer waters.
+
+Tonight...High confidence.
+
+Cold front finally crosses the waters tonight. Will see winds
+shifting to the WNW/NW with speeds of 5-10 kts. Seas 1-3 ft
+across the inner waters and 3-5 ft across the outer waters.
+
+Tuesday...High confidence.
+
+Broad low remains in place nearby/over the region. The result
+will be light and variable winds. Could see a few rain showers
+moving into eastern areas during the afternoon. Seas 2-4 ft.
+
+Outlook /Tuesday Night through Friday/... 
+
+Tuesday Night: Winds less than 25 kt. Seas locally approaching
+5 ft. 
+
+Wednesday through Wednesday Night: Winds less than 25 kt. 
+
+Thursday: Winds less than 25 kt. Slight chance of rain showers.
+
+Thursday Night: Winds less than 25 kt. 
+
+Friday: Winds less than 25 kt. Seas locally approaching 5 ft.
+
+&&
+
+.HYDROLOGY...
+Smaller rivers and streams have crest and are receding. For the
+rest of the night we will continue to monitor the Farmington 
+River in Simsbury as forecast show levels continuing to rise and
+approaching minor flood the smaller tributaries empty into the 
+Farmington.
+
+&&
+
+.BOX WATCHES/WARNINGS/ADVISORIES...
+CT...None.
+MA...None.
+RI...None.
+MARINE...Small Craft Advisory until 8 AM EDT Tuesday for ANZ250-254.
+     Small Craft Advisory until 8 PM EDT this evening for ANZ255-
+     256.
+
+&&
+
+$$
+SYNOPSIS...Nocera/BL
+NEAR TERM...BL/Loconto
+SHORT TERM...BL
+LONG TERM...Nocera
+AVIATION...Nocera/BL/Loconto
+MARINE...Nocera/BL/Loconto
+HYDROLOGY...

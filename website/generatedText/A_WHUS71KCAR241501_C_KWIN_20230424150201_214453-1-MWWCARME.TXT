@@ -1,0 +1,64 @@
+WHUS71 KCAR 241501
+MWWCAR
+
+URGENT - MARINE WEATHER MESSAGE
+National Weather Service Caribou ME
+1101 AM EDT Mon Apr 24 2023
+
+ANZ052-242200-
+/O.EXB.KCAR.SC.Y.0049.000000T0000Z-230424T2200Z/
+Intra Coastal Waters from Schoodic Point, ME to Stonington, ME-
+1101 AM EDT Mon Apr 24 2023
+
+...SMALL CRAFT ADVISORY IN EFFECT UNTIL 6 PM EDT THIS EVENING...
+
+* WHAT...East winds 10 to 20 kt with gusts up to 25 kt and seas 4  
+  to 6 ft.
+
+* WHERE...Intra Coastal Waters from Schoodic Point, ME to 
+  Stonington, ME.
+
+* WHEN...Until 6 PM EDT this evening.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&&
+
+$$
+
+ANZ050-051-250000-
+/O.CON.KCAR.SC.Y.0049.000000T0000Z-230425T0000Z/
+Coastal Waters from Eastport, ME to Schoodic Point, ME out 25 NM-
+Coastal Waters from Schoodic Point, ME to Stonington, ME out
+25 NM-
+1101 AM EDT Mon Apr 24 2023
+
+...SMALL CRAFT ADVISORY REMAINS IN EFFECT UNTIL 8 PM EDT THIS
+EVENING...
+
+* WHAT...East winds 10 to 20 kt with gusts up to 25 kt and seas 
+  4 to 7 ft.
+
+* WHERE...Coastal Waters from Eastport, ME to Schoodic Point, ME 
+  out 25 NM and Coastal Waters from Schoodic Point, ME to 
+  Stonington, ME out 25 NM.
+
+* WHEN...Until 8 PM EDT this evening.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&&
+
+$$
+
+Norcross

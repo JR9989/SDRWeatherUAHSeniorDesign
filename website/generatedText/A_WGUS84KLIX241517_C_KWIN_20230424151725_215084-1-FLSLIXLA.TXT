@@ -1,0 +1,114 @@
+WGUS84 KLIX 241517
+FLSLIX
+
+Flood Statement
+National Weather Service New Orleans LA
+1017 AM CDT Mon Apr 24 2023
+
+...The Flood Warning continues for the following rivers in 
+Louisiana...Mississippi...
+
+  Pearl River Near Pearl River affecting St. Tammany, Pearl River 
+  and Hancock Counties.
+
+  Pearl River Near Bogalusa affecting Washington and Pearl River 
+  Counties.
+
+For the Lower Pearl River...including Bogalusa, Pearl River...Minor 
+flooding is forecast.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Please report observed flooding to local emergency services or law 
+enforcement and request they pass this information to the National 
+Weather Service when you can do so safely.
+
+Turn around, don't drown when encountering flooded roads. Most flood 
+deaths occur in vehicles.
+
+Additional information is available at www.weather.gov/lix.  Click 
+on the Rivers and Lakes menu for forecasts and observations.
+
+The next statement will be issued this evening.
+
+&&
+
+
+LAC103-MSC045-109-250930-
+/O.EXT.KLIX.FL.W.0065.000000T0000Z-230430T1600Z/
+/PERL1.1.ER.230409T1915Z.230424T0945Z.230430T1000Z.NO/
+1017 AM CDT Mon Apr 24 2023
+
+...FLOOD WARNING NOW IN EFFECT UNTIL LATE SUNDAY MORNING...
+
+* WHAT...Minor flooding is occurring and minor flooding is forecast.
+
+* WHERE...Pearl River Near Pearl River.
+
+* WHEN...Until late Sunday morning.
+
+* IMPACTS...At 16.0 feet, Lower portions of streets in River Gardens 
+  Subdivision will begin to flood. Secondary roads to the river and 
+  throughout Honey Island Swamp will remain inundated. Property in 
+  the vicinity of the gage is flooded threatening about 20 homes 
+  along the left bank. The Bogue Chitto National Wildlife Refuge 
+  will be closed to hunting at the 15.5 foot stage.
+
+* ADDITIONAL DETAILS...
+  - At 9:00 AM CDT Monday the stage was 16.4 feet.
+  - Recent Activity...The maximum river stage in the 24 hours
+    ending at 9:00 AM CDT Monday was 16.4 feet.
+  - Forecast...The river is expected to fall below flood stage
+    early Sunday morning and continue falling to 11.3 feet
+    Thursday, May 04.
+  - Flood stage is 14.0 feet.
+  - Flood History...This crest compares to a previous crest of
+    16.4 feet on 01/07/1983.
+  - http://www.weather.gov/safety/flood
+
+&&
+
+LAT...LON 3020 8955 3018 8964 3067 8990 3067 8976
+
+
+$$
+
+LAC117-MSC109-250930-
+/O.CON.KLIX.FL.W.0064.000000T0000Z-230427T1525Z/
+/BXAL1.1.ER.000000T0000Z.230421T2230Z.230427T0925Z.NO/
+1017 AM CDT Mon Apr 24 2023
+
+...FLOOD WARNING REMAINS IN EFFECT UNTIL LATE THURSDAY MORNING...
+
+* WHAT...Minor flooding is occurring and minor flooding is forecast.
+
+* WHERE...Pearl River Near Bogalusa.
+
+* WHEN...Until late Thursday morning.
+
+* IMPACTS...At 21.0 feet, Woodlands and crop acreage along the river 
+  will be flooded. The Bogue Chitto Wildlife Management area will be 
+  inundated with water in recreational camps and over access roads. 
+  At 21 feet, property east of Louisiana Highway 21 along Bogalusa 
+  Creek will begin to flood.
+
+* ADDITIONAL DETAILS...
+  - At 9:00 AM CDT Monday the stage was 20.5 feet.
+  - Recent Activity...The maximum river stage in the 24 hours
+    ending at 9:00 AM CDT Monday was 20.6 feet.
+  - Forecast...The river is expected to fall below flood stage
+    early Thursday morning and continue falling to 11.6 feet
+    Thursday, May 04.
+  - Flood stage is 18.0 feet.
+  - Flood History...This crest compares to a previous crest of
+    20.5 feet on 02/29/2008.
+  - http://www.weather.gov/safety/flood
+
+&&
+
+LAT...LON 3067 8976 3067 8990 3100 8979 3100 8969
+
+
+$$
+
+KLG

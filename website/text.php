@@ -19,6 +19,7 @@
       <optgroup label="Special">
         <option value="">All</option>
         <option value="US">USA/Severe</option>
+        <option value="CA">Canada</option>
         <option value="other">Other</option>
       </option>
       <optgroup label="States">
@@ -102,7 +103,7 @@
         $show_file = true;
       } 
       elseif ($filter == 'other') {
-        $show_file = !preg_match('/(AL|AK|AZ|AR|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|AS|DC|GU|MP|PR|VI|US).txt$/i', $text_file_name);
+        $show_file = !preg_match('/(AL|AK|AZ|AR|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|AS|DC|GU|MP|PR|VI|US|CA).txt$/i', $text_file_name);
       }
       else {
         $show_file = preg_match('/'.$filter.'.txt$/i', $text_file_name);

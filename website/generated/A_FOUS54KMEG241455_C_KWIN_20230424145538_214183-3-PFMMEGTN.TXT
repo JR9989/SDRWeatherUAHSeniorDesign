@@ -1,0 +1,156 @@
+FOUS54 KMEG 241455
+PFMMEG
+
+Point Forecast Matrices
+National Weather Service Memphis TN
+955 AM CDT Mon Apr 24 2023
+
+TNZ088-242200-
+Memphis-Shelby TN 
+35.04N  89.98W Elev. 298 ft
+955 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      65          46          64          50          66
+Temp                57 63 64 61 52 49 48 47 56 62 63 60 54 53 52 51 56 64 66 64
+Dewpt               37 34 34 36 38 36 36 36 38 38 40 43 46 45 46 48 49 51 51 51
+RH                  47 34 32 39 59 61 63 65 51 41 43 53 74 74 80 89 77 63 58 63
+Wind dir             E NE NE NE  E  E  E  E  E  E  E  E NE  E NE NE NE  E  E  E
+Wind spd             4  8  9  8  6  6  5  4  8  6  6  5  6  9 10  9 11 12 12 12
+Clouds              FW CL CL FW SC SC B2 B1 B1 B2 B2 B2 OV B2 B2 OV B2 B1 B2 B2
+PoP 12hr                      0           5          20          50          40
+QPF 12hr                      0           0        0.01        0.15        0.14
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                      S  S  C  C  C  C  C  C  C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          54    68      54    70      51    64      47    65
+Temp          57 55 66 65   58 54 67 68   57 52 64 62   53 47 62 63
+Dewpt         51 52 56 56   56 53 54 53   53 51 50 48   46 43 41 41
+PWind dir         E     E       N    NW       W     W       W     W
+Wind char        GN    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B2 B2 B2 B2   B2 B1 B1 SC   SC B1 B2 B1   B1 SC SC SC
+PoP 12hr         50    70      40    20      30    30      10    10
+Rain shwrs     C  C  L  L    C  S     S    C  C  C  C              
+Tstms          S        S    S                                     
+
+$$
+TNZ052-242200-
+Jackson-Madison TN 
+35.60N  88.92W Elev. 413 ft
+955 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      63          41          66          48          66
+Temp                54 60 62 59 47 43 43 43 56 64 66 62 54 50 50 48 56 63 66 63
+Dewpt               36 32 30 32 33 33 31 33 35 34 34 38 40 42 43 44 46 47 47 47
+RH                  50 35 30 36 58 67 62 67 45 32 30 41 59 74 77 86 69 56 50 56
+Wind dir            NE  N NE NE NE  E  E  E  E  E  E  E  E  E NE NE  E  E  E  E
+Wind spd             4  8  8  6  3  4  3  3  8  6  8  5  5  6  8  8 10 12 12 11
+Clouds              CL CL CL FW FW SC B2 B2 SC SC B1 B1 B2 OV OV OV B2 B1 B1 B1
+PoP 12hr                      0           5          10          40          30
+QPF 12hr                      0           0        0.01        0.14        0.22
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                            C  C  C  C  C  C  C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          50    68      52    68      49    64      45    64
+Temp          52 53 65 65   55 52 65 66   53 50 64 62   50 46 61 61
+Dewpt         48 49 53 53   53 52 53 51   51 50 49 47   45 42 41 39
+PWind dir         E     E       N    NW       W     W       W     W
+Wind char        GN    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B2 B2 B2 B2   B2 B2 B2 B1   SC B1 B2 B1   B1 SC SC SC
+PoP 12hr         40    60      40    20      30    40      20    10
+Rain shwrs     C  C  L  L    C  S  S  S    C  C  C  C    S         
+Tstms                   S    S                                     
+
+$$
+ARZ026-242200-
+Jonesboro-Craighead AR 
+35.83N  90.65W Elev. 253 ft
+955 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      64          46          63          50          65
+Temp                55 61 63 61 51 49 48 47 56 61 63 61 54 52 51 50 55 62 65 63
+Dewpt               37 33 32 34 36 36 36 37 37 36 36 39 43 44 44 45 46 46 46 47
+RH                  51 35 31 36 56 61 63 68 49 39 36 44 66 74 77 83 72 56 50 56
+Wind dir             E  E  E  E  E  E  E  E SE SE  E SE  E NE NE NE NE  E  E NE
+Wind spd             5  8  9  6  4  4  3  4  9  8  9  5  5  8  9 10 13 13 13 13
+Clouds              CL CL CL FW SC B2 OV B1 B2 B1 B1 B2 OV OV OV OV B1 B1 B1 B2
+PoP 12hr                      0           5          20          40          30
+QPF 12hr                      0           0        0.07        0.31        0.18
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                      S  S  C  C  C  C  C  C  C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          52    64      51    69      50    63      45    65
+Temp          56 53 60 63   55 52 66 67   56 51 60 61   50 46 61 63
+Dewpt         49 49 52 52   52 51 52 53   51 50 48 45   43 40 40 40
+PWind dir        NE    NE       N    NW      SW     W       W     W
+Wind char        GN    GN      GN    GN      GN    GN      BZ    BZ
+Avg clouds    B2 OV B2 B2   B2 B1 SC SC   SC B1 B2 B1   SC SC SC SC
+PoP 12hr         50    60      30    10      30    30      10    10
+Rain shwrs     C  C  L  C    C             C  C  C  C              
+Tstms                   S                                          
+
+$$
+MSZ016-242200-
+Tupelo-Lee MS 
+34.27N  88.77W Elev. 354 ft
+955 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      67          43          69          51          69
+Temp                57 64 66 62 50 47 45 45 57 66 68 65 57 54 53 52 58 65 69 66
+Dewpt               37 32 30 34 36 35 34 35 37 35 38 40 42 43 46 48 51 52 53 52
+RH                  47 30 26 35 58 63 65 68 47 32 33 40 57 66 77 86 77 63 57 61
+Wind dir            NE NE NE NE NE NE NE NE  E NE NE NE NE NE NE NE  E  E NE NE
+Wind spd            10 10  9  8  5  5  4  4  6  5  6  6  6  8  8  9 10 10 10 12
+Clouds              FW FW CL FW FW SC SC B1 SC SC B2 B2 B2 OV OV B2 B2 B2 B1 B1
+PoP 12hr                      0           5          10          40          40
+QPF 12hr                      0           0           0        0.05        0.07
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                            S  S  C  C  C  C  C  C  S
+Tstms                                                                         S
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          53    73      56    73      52    69      46    67
+Temp          55 56 70 70   60 56 70 71   56 54 67 66   53 47 64 64
+Dewpt         52 53 56 57   57 55 54 53   52 52 51 50   48 44 40 40
+PWind dir         E    SE       W     W       W     W       W     W
+Wind char        GN    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B1 B2 B2 B2   B2 B2 B1 SC   FW SC B1 B1   B1 SC SC SC
+PoP 12hr         30    70      50    20      20    30      20    10
+Rain shwrs     S  C  L  L    C  C  S  S    S  S  C  C    S         
+Tstms          S        C    C                                     
+
+$$

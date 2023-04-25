@@ -1,0 +1,48 @@
+ASUS62 KTAE 241531
+RTPTAE
+MAX/MIN TEMPERATURE AND PRECIPITATION TABLE FOR
+SOUTHEAST AL...EASTERN FL PANHANDLE ...
+SOUTHWEST GA AND FL BIG BEND
+NATIONAL WEATHER SERVICE TALLAHASSEE FL
+1131 AM EDT Mon Apr 24 2023
+
+.Br tae 0424 e dh08/tairzx/tairzn/ppdrzz
+:Catch up - mid day
+:Cooperative observations - Eastern Time Zone
+:Values for previous 24 hours
+:Ending 8AM EDT
+:
+:                                    obs   max  min
+: id       location                  time  temp temp    pcpn
+CRSF1: Cross City 1 E             :Dh0800/  85 /  59 /  0.00
+MTCF1: Monticello 10 SW           :Dh0700/  80 /  50 /  0.00
+TASF1: Tallahassee Airport        :Dh0700/  83 /   M /  0.00
+CAMG1: Camilla                    :Dh0700/  79 /  60 /  0.00
+WWCG1: Crisp Cnty Pwr Dam         :Dh0800/  78 /  48 /  0.00
+:
+.End
+
+
+.Br tae 0424 c dh07/tairzx/tairzn/ppdrzz
+:Catch up - mid day
+:Cooperative observations - Central Time Zone
+:Values for previous 24 hours
+:Ending 7AM CDT
+:
+:                                    obs   max  min
+: id       location                  time  temp temp    pcpn
+CHPF1: Chipley                    :Dh0700/  80 /  48 /  0.00
+MARF1: Marianna                   :Dh0700/  83 /  52 /     M
+WEWF1: Wewahitchka                :Dh0800/  82 /  58 /  0.00
+:
+.End
+
+
+These data are preliminary and have not undergone final quality 
+control by the national climatic data center /ncdc/. therefore... 
+these data are subject to revision. final and certified climate data 
+can be accessed at www.Ncdc.Noaa.Gov.
+
+
+$$
+

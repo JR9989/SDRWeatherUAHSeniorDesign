@@ -1,0 +1,173 @@
+ASUS46 KSGX 241510
+RWRSGX
+
+SAN DIEGO HOURLY WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE SAN DIEGO CA
+800 AM PDT MON APR 24 2023
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO 
+SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+CAZ042-043-060-061-PZZ750-775-241600-
+
+GREATER SAN DIEGO AREA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+SAN DIEGO AP   CLOUDY    60  50  69 SE6       29.92R                  
+BROWN FIELD    CLOUDY    57  51  80 CALM      29.90S HAZE             
+MIRAMAR MCAS   CLOUDY    56  51  84 SE3       29.89S                  
+MONTGOMERY FLD CLOUDY    57  50  77 SE3       29.90S                  
+GILLESPIE FLD  CLOUDY    57  52  82 CALM      29.91R                  
+LEMON GROVE      N/A     56  52  87 CALM      29.89R                  
+
+$$
+
+NORTH SAN DIEGO COUNTY
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CAMP PENDLETON CLOUDY    60  52  74 CALM      29.91R                  
+OCEANSIDE AP   CLOUDY    59  53  80 VRB3      29.90R                  
+OCEANSIDE HBR    N/A     58  55  89 S3        29.97R                  
+VISTA            N/A     56  53  88 CALM      29.89R                  
+CARLSBAD       CLOUDY    58  51  78 CALM      29.90R                  
+ENCINITAS        N/A     57  53  89 CALM        N/A                   
+LA JOLLA SCRIP   N/A     58  51  78 CALM      29.90R                  
+FALLBROOK      CLOUDY    55  52  88 CALM      29.91R                  
+ESCONDIDO        N/A    N/A N/A N/A S2        29.90R                  
+SAN MARCOS       N/A     56  52  88 S3        29.88R                  
+RANCHO BERNARD   N/A     56  52  88 CALM      29.89S                  
+POWAY            N/A     56  52  87 S2        29.92R                  
+
+$$
+
+EAST SAN DIEGO COUNTY
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+RAMONA         CLOUDY    53  52  96 CALM      29.90R FOG              
+SANTEE           N/A     57  54  91 CALM      29.86S                  
+LA MESA          N/A     56  52  85 CALM      29.84S                  
+EL CAJON         N/A     55  52  89 W3        29.78S                  
+ALPINE           N/A     51  50  95 CALM      30.05S                  
+DESCANSO N       N/A     56  48  73 CALM      29.87R                  
+
+$$
+
+ORANGE COUNTY AND THE LOS ANGELES BASIN
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+JOHN WAYNE AP  CLOUDY    60  52  74 SE5       29.91R                  
+LAGUNA BEACH     N/A     59  55  85 CALM      29.90R                  
+LAKE FOREST FR   N/A     53  50  87 CALM      29.79R                  
+SANTA ANA        N/A     58  54  85 E2        29.90R                  
+HUNTINGTON BCH   N/A     60  55  84 CALM      29.90R                  
+LOS ALAMITOS   CLOUDY    59  53  81 SE3       29.88R                  
+FULLERTON      CLOUDY    60  54  80 VRB3      29.90R                  
+LONG BEACH     CLOUDY    60  52  74 SE7       29.90R                  
+L.A. AP        CLOUDY    60  54  80 SE6       29.90S                  
+L.A. DOWNTOWN  CLOUDY    61  54  77 CALM      29.91R                  
+
+$$
+
+THE INLAND EMPIRE
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CORONA         CLOUDY    56  53  90 W7        29.91R                  
+UPLAND AP      FOG       54  54 100 S3        29.90S VSB 1            
+CHINO          CLOUDY    56  53  90 CALM      29.91R FOG              
+ONTARIO        DRIZZLE   56  55  97 SW5       29.90R FOG              
+SAN BERNARDINO CLOUDY    57  52  82 CALM      29.91R FOG              
+RIVERSIDE AP   CLOUDY    57  54  89 N3        29.90R FOG              
+MORENO VALLEY    N/A     55  55 100 CALM      28.14R                  
+MARCH ARB      CLOUDY    54  54 100 S5        29.90R FOG              
+HORSETHIEF CYN   N/A     54  51  92 SE1       29.86R                  
+PERRIS           N/A     55  53  96 SE1       29.95S                  
+LAKE ELSINORE    N/A     54  51  90 CALM      29.82S                  
+HEMET AP       CLOUDY    52 N/A N/A NW3       29.91R FOG              
+FRENCH VALLEY  CLOUDY    52  52 100 S5        29.91S                  
+TEMECULA         N/A     55  55  99 SE2       29.95R                  
+
+$$
+
+SAN BERNARDINO AND RIVERSIDE COUNTY MOUNTAINS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BIG BEAR AP    SUNNY     41  30  65 CALM      30.06R                  
+BIG BEAR LAKE    N/A     46  35  64 CALM      29.87R                  
+WRIGHTWOOD       N/A     55  26  32 CALM      29.70S                  
+ANGELUS OAKS     N/A     52  29  42 CALM      29.73R                  
+IDYLLWILD        N/A     41  34  75 CALM      29.73S                  
+
+$$
+
+SOUTHERN DESERT INCLUDING THE COACHELLA VALLEY
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PALM SPRINGS   SUNNY     73  49  42 NW14G23   29.77R                  
+INDIO            N/A     73  51  45 NW6       29.73R                  
+THERMAL        SUNNY     73  51  46 NW13      29.73R                  
+BORREGO AP     FAIR      73  41  31 W5        29.76R                  
+OCOTILLO WELLS   N/A     75  42  30 S3        29.69R                  
+CANEBRAKE        N/A     74  36  25 E3        29.68R                  
+IMPERIAL AP    SUNNY     73  41  31 S3        29.74R                  
+EL CENTRO NAS  MOSUNNY   74  46  36 S3        29.76R                  
+YUMA AZ        SUNNY     74  48  39 SE13      29.75R                  
+
+$$
+
+UPPER DESERT
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+VICTORVILLE AP SUNNY     61  41  48 W15G24    29.94S                  
+HESPERIA         N/A     59  38  45 SW3       29.66R                  
+APPLE VALLEY     N/A     59  41  50 CALM      29.86R                  
+PALMDALE       SUNNY     63  47  55 W17G28    29.92R                  
+LANCASTER      SUNNY     64  47  53 W20       29.91R                  
+EDWARDS AFB    MOSUNNY   65  47  52 W10       29.87R                  
+GRAY BUTTE AP  FAIR      61  42  49 W12       29.90R                  
+DAGGETT        SUNNY     64  42  44 NW12      29.86R                  
+29 PALMS N     SUNNY     68  40  35 N5        29.91R                  
+29 PALMS JTNP    N/A     69  37  30 CALM      29.70R                  
+NEEDLES        MOSUNNY   77  35  21 NE3       29.77R                  
+
+$$
+
+REGIONAL REPORTS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+SANTA BARBARA  PTSUNNY   58  53  84 E8        29.90R                  
+LAS VEGAS NV   PTSUNNY   67  38  34 SE3       29.85R                  
+PHOENIX AZ     MOSUNNY   72  35  25 E9        29.78R                  
+TIJUANA        CLOUDY    57  54  88 CALM      29.93R                  
+
+$$
+
+OFFSHORE ISLANDS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CATALINA ARPT  FOG       53  53 100 E8        29.91R VSB 1/4          
+SAN NICOLAS IS CLOUDY    53  52  96 NW9       29.91R FOG              
+
+$$
+
+MARINE AND OFFSHORE BUOY REPORTS
+  
+STATION/POSITION SKY/WX   TEMP    WIND        PRES    VSBY  SWELL
+                          AIR SEA DIR/SP/G                  HT/PER/DIR
+                          (F)     (DEG/KT/KT) (MB)    (MI)  (FT/S/D)
+TANNER BANKS               53     320/ 17/ 21 1012.0R         8/310/ 9
+S CLEMENTE BASIN           56 61  160/  2/  8 1012.0R         7/300/ 9
+SAN NICOLAS IS.               54                N/A           2/300/11
+SO. S. ROSA ISLA           52 53  320/ 19/ 25 1012.5R         5/320/ 9
+W. S. BARBARA CH           51 54  320/ 23/ 29 1012.1R
+M. S. BARBARA CH           53 52  230/  4/  6 1011.8R         3/250/ 8
+S. MONICA BASIN            57 59  120/  6/  8 1013.2R         3/260/ 7
+S PEDRO CHANNEL               59                N/A           2/280/11
+OCEANSIDE OFFSHR              60                N/A           2/200/13
+TORREY PINES OTR              61                N/A           2/290/11
+SAN DIEGO BAY                 62              1012.7R
+IMPERIAL BEACH                60                N/A           2/270/11
+POINT LOMA SOUTH              60                N/A           2/280/11
+
+$$
+
+  

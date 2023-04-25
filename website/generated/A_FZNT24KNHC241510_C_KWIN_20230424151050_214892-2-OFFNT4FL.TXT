@@ -1,0 +1,252 @@
+FZNT24 KNHC 241510
+OFFNT4
+
+Offshore Waters Forecast for the Gulf of Mexico
+NWS National Hurricane Center Miami, FL
+1110 AM EDT Mon Apr 24 2023
+
+Offshore Waters Forecast for the Gulf of Mexico
+
+Seas given as significant wave height, which is the average
+height of the highest 1/3 of the waves. Individual waves may be
+more than twice the significant wave height.
+
+GMZ001-250315-
+Synopsis for the Gulf of Mexico
+1110 AM EDT Mon Apr 24 2023
+
+.SYNOPSIS...A dissipating stationary front extends from the Big
+Bend area of Florida to off southern Texas. Meanwhile, a strong
+line of convection is affecting the Bay of Campeche, moving
+quickly eastward. However, the lightning activity has decreased.
+Buoys in the NW Gulf are reporting seas up to 10 ft. The frontal 
+boundary is expected to dissipate later today. The wave heights
+will decrease below 8 ft by Tue morning. Fresh to strong east 
+winds along and just offshore the northern Yucatan Peninsula will 
+diminish by early this afternoon, then redevelop Wed night. 
+Another frontal boundary will enter the NW Gulf late this week but
+no appreciable increase in winds or seas is forecast.
+
+$$
+
+GMZ040-250315-
+NW Gulf including Stetson Bank-
+1110 AM EDT Mon Apr 24 2023
+
+.TODAY...NE to E winds 15 to 20 kt. Seas 7 to 10 ft in E swell. 
+.TONIGHT...E winds 15 to 20 kt. Seas 6 to 8 ft in E swell. 
+.TUE...E to SE winds 10 to 15 kt. Seas 5 to 7 ft in E swell. 
+.TUE NIGHT...E to SE winds 10 to 15 kt. Seas 3 to 5 ft. 
+.WED...SE winds 10 kt. Seas 2 to 4 ft. 
+.WED NIGHT...E to SE winds 10 to 15 kt. Seas 3 ft or less. 
+.THU...SE winds 10 kt, shifting to N to NE in the afternoon. Seas
+3 ft or less. 
+.THU NIGHT...N winds 15 kt. Seas 2 to 4 ft. 
+.FRI...N winds 10 to 15 kt. Seas 2 to 4 ft. 
+.FRI NIGHT...NE to E winds 10 kt, shifting to SE late.
+Seas 2 to 4 ft. 
+
+$$
+
+GMZ041-250315-
+SW Louisiana Offshore Waters including Flower Garden Bank Marine
+Sanctuary-
+1110 AM EDT Mon Apr 24 2023
+
+.TODAY...NE to E winds 15 to 20 kt. Seas 7 to 10 ft in NE to E
+swell. 
+.TONIGHT...E winds 15 to 20 kt. Seas 6 to 8 ft in E swell. 
+.TUE...E winds 10 to 15 kt. Seas 5 to 7 ft in NE to E swell. 
+.TUE NIGHT...E to SE winds 10 to 15 kt. Seas 3 to 5 ft. 
+.WED...E to SE winds 10 kt. Seas 2 to 4 ft. 
+.WED NIGHT...E to SE winds 10 to 15 kt. Seas 3 ft or less. 
+.THU...E to SE winds 10 to 15 kt. Seas 2 to 4 ft. 
+.THU NIGHT...NW to N winds 10 to 15 kt. Seas 3 to 5 ft. 
+.FRI...NW to N winds 10 to 15 kt. Seas 3 to 5 ft. 
+.FRI NIGHT...N winds 10 kt, shifting to E late. Seas
+2 to 4 ft. 
+
+$$
+
+GMZ056-250315-
+N Central Gulf Offshore Waters-
+1110 AM EDT Mon Apr 24 2023
+
+.TODAY...NE to E winds 15 to 20 kt. Seas 4 to 6 ft. Scattered
+showers and isolated tstms. 
+.TONIGHT...NE to E winds 10 to 15 kt. Seas 4 to 6 ft. 
+.TUE...E winds 10 to 15 kt. Seas 4 to 6 ft. 
+.TUE NIGHT...E winds 10 to 15 kt. Seas 2 to 4 ft. 
+.WED...SE winds 10 to 15 kt. Seas 2 to 4 ft. 
+.WED NIGHT...E to SE winds 10 to 15 kt. Seas 2 to 4 ft. 
+.THU...SE winds 10 to 15 kt. Seas 3 to 5 ft. 
+.THU NIGHT...S to SW winds 10 to 15 kt. Seas 4 to 6 ft. 
+.FRI...W winds 10 to 15 kt. Seas 4 to 6 ft. 
+.FRI NIGHT...W to NW winds 10 kt. Seas 2 to 4 ft. 
+
+$$
+
+GMZ057-250315-
+NE Gulf N of 26N E of 87W-
+1110 AM EDT Mon Apr 24 2023
+
+.TODAY...NE to E winds 15 to 20 kt W of 85W, and SE 10 to 15 kt E
+of 85W. Seas 3 to 5 ft. Scattered showers and isolated tstms. 
+.TONIGHT...NE to E winds 10 to 15 kt. Seas 3 to 5 ft. 
+.TUE...NE to E winds 10 to 15 kt. Seas 3 to 5 ft. 
+.TUE NIGHT...W of 85W, E winds 10 kt. E of 85W, NE winds 10 kt,
+shifting to E 15 to 20 kt late. Seas 3 ft or less. 
+.WED...SE winds 10 to 15 kt. Seas 2 to 4 ft. 
+.WED NIGHT...E to SE winds 10 to 15 kt. Seas 2 to 4 ft. 
+.THU...SE winds 10 to 15 kt. Seas 3 to 5 ft. 
+.THU NIGHT...S winds 10 to 15 kt. Seas 4 to 6 ft. 
+.FRI...SW winds 15 kt. Seas 4 to 6 ft. 
+.FRI NIGHT...SW to W winds 10 to 15 kt. Seas 3 to 5 ft. 
+
+$$
+
+GMZ058-250315-
+W Central Gulf from 22N to 26N W of 94W-
+1110 AM EDT Mon Apr 24 2023
+
+.TODAY...N winds 15 to 20 kt. Seas 7 to 10 ft in NE to E swell. 
+.TONIGHT...NE to E winds 10 to 15 kt. Seas 6 to 8 ft in NE to E
+swell. 
+.TUE...E to SE winds 10 to 15 kt. Seas 4 to 6 ft. 
+.TUE NIGHT...E to SE winds 10 kt. Seas 3 to 5 ft. 
+.WED...SE winds 10 kt. Seas 2 to 4 ft. 
+.WED NIGHT...E to SE winds 10 to 15 kt. Seas 3 ft or less. 
+.THU...E to SE winds 10 kt. Seas 3 ft or less. 
+.THU NIGHT...N to NE winds 10 to 15 kt. Seas 3 to 5 ft. 
+.FRI...N to NE winds 10 to 15 kt. Seas 3 to 5 ft. 
+.FRI NIGHT...E winds 10 to 15 kt. Seas 2 to 4 ft. 
+
+$$
+
+GMZ045-250315-
+W Central Gulf from 22N to 26N between 91W and 94W-
+1110 AM EDT Mon Apr 24 2023
+
+.TODAY...S of 24N, N to NE winds 10 to 15 kt, shifting to W to NW
+in the afternoon. N of 24N, NE to E winds 15 to 20 kt. Seas 7 to
+10 ft in NE to E swell. 
+.TONIGHT...NE to E winds 10 to 15 kt. Seas 6 to 8 ft in NE swell.
+.TUE...E to SE winds 10 kt. Seas 5 to 7 ft in NE swell. 
+.TUE NIGHT...S of 24N, variable winds less than 5 kt, becoming E
+to SE 10 kt late. N of 24N, E to SE winds 10 kt. Seas
+3 to 5 ft. 
+.WED...SE winds 10 kt. Seas 2 to 4 ft. 
+.WED NIGHT...E to SE winds 10 to 15 kt. Seas 3 ft or less. 
+.THU...SE winds 10 to 15 kt. Seas 4 to 6 ft. 
+.THU NIGHT...NE to E winds 10 to 15 kt. Seas 4 to 6 ft. 
+.FRI...N to NE winds 10 kt. Seas 3 to 5 ft. 
+.FRI NIGHT...NE to E winds 10 to 15 kt. Seas 2 to 4 ft. 
+
+$$
+
+GMZ046-250315-
+Central Gulf from 22N to 26N between 87W and 91W-
+1110 AM EDT Mon Apr 24 2023
+
+.TODAY...SE winds 20 to 25 kt, becoming S 10 to 15 kt in the
+afternoon. Seas 5 to 7 ft in NE to E swell. Numerous tstms. 
+.TONIGHT...E winds 10 to 15 kt. Seas 4 to 6 ft. 
+.TUE...SE winds 10 kt. Seas 3 to 5 ft. 
+.TUE NIGHT...E to SE winds 10 to 15 kt. Seas 2 to 4 ft. 
+.WED...SE to S winds 10 to 15 kt. Seas 2 to 4 ft. 
+.WED NIGHT...SE winds 15 to 20 kt. Seas 4 to 6 ft. 
+.THU...SE winds 15 to 20 kt. Seas 5 to 7 ft. 
+.THU NIGHT...SE winds 10 to 15 kt. Seas 5 to 7 ft in SE swell. 
+.FRI...S to SW winds 10 to 15 kt. Seas 4 to 6 ft. 
+.FRI NIGHT...E winds 10 to 15 kt. Seas 3 to 5 ft. 
+
+$$
+
+GMZ047-250315-
+SE Gulf from 22N to 26N E of 87W including Straits of Florida-
+1110 AM EDT Mon Apr 24 2023
+
+.TODAY...SE to S winds 10 kt. Seas 3 ft or less. Scattered
+showers and isolated tstms. 
+.TONIGHT...E to SE winds 10 kt. Seas 2 to 4 ft. 
+.TUE...SE to S winds 10 kt. Seas 2 to 4 ft. 
+.TUE NIGHT...E to SE winds 10 to 15 kt. Seas 3 ft or less. 
+.WED...SE to S winds 10 to 15 kt. Seas 2 to 4 ft. 
+.WED NIGHT...SE to S winds 15 to 20 kt S of 24N, and SE to S
+10 kt N of 24N. Seas 2 to 4 ft. 
+.THU...SE to S winds 10 to 15 kt. Seas 3 to 5 ft. 
+.THU NIGHT...SE to S winds 10 to 15 kt. Seas 3 to 5 ft. 
+.FRI...S winds 15 to 20 kt. Seas 4 to 6 ft. 
+.FRI NIGHT...S to SW winds 10 to 15 kt. Seas 3 to 5 ft. 
+
+$$
+
+GMZ048-250315-
+SW Gulf S of 22N W of 94W-
+1110 AM EDT Mon Apr 24 2023
+
+.TODAY...NW to N winds 15 to 20 kt. Seas 5 to 7 ft. Scattered
+showers and isolated tstms. 
+.TONIGHT...N winds 10 to 15 kt. Seas 5 to 7 ft in NE swell. 
+.TUE...S of 21N W of 95W, N winds 10 kt, shifting to E to SE in
+the afternoon. Elsewhere, variable winds less than 5 kt. Seas
+3 to 5 ft. 
+.TUE NIGHT...E winds 10 kt. Seas 2 to 4 ft. 
+.WED...E to SE winds 10 kt. Seas 3 ft or less.
+.WED NIGHT...E to SE winds 10 to 15 kt. Seas 3 ft or less. 
+.THU...SE winds 10 kt. Seas 3 ft or less. 
+.THU NIGHT...NE to E winds 10 to 15 kt, shifting to NW to N late.
+Seas 3 ft or less, building to 3 to 5 ft late. 
+.FRI...NW to N winds 10 to 15 kt. Seas 3 to 5 ft. 
+.FRI NIGHT...N to NE winds 10 kt, shifting to E late.
+Seas 2 to 4 ft. 
+
+$$
+
+GMZ049-250315-
+Central Bay of Campeche-
+1110 AM EDT Mon Apr 24 2023
+
+.TODAY...NW winds 10 to 15 kt. Seas 4 to 6 ft. 
+.TONIGHT...N winds 10 kt. Seas 5 to 7 ft in NE swell. 
+.TUE...Variable winds less than 5 kt. Seas 3 to 5 ft in N to NE
+swell. 
+.TUE NIGHT...S of 20N, NE winds 10 to 15 kt. N of 20N, variable
+winds less than 5 kt, becoming NE to E 10 to 15 kt late. Seas
+3 ft or less. 
+.WED...E winds 10 kt. Seas 3 ft or less. 
+.WED NIGHT...E winds 10 to 15 kt. Seas 3 ft or less. 
+.THU...SE winds 10 to 15 kt. Seas 3 to 5 ft. 
+.THU NIGHT...NE to E winds 10 to 15 kt. Seas 3 to 5 ft. 
+.FRI...S to SW winds 10 kt, shifting to NW in the afternoon. Seas
+2 to 4 ft. 
+.FRI NIGHT...NE winds 10 kt. Seas 3 ft or less. 
+
+$$
+
+GMZ050-250315-
+E Bay of Campeche including Campeche Bank-
+1110 AM EDT Mon Apr 24 2023
+
+.TODAY...SE winds 10 to 15 kt, shifting to S to SW in the
+afternoon. Seas 3 to 5 ft. 
+.TONIGHT...NE winds 10 to 15 kt. Seas 3 to 5 ft. 
+.TUE...W of 90W, variable winds less than 5 kt. E of 90W, S winds
+10 kt, shifting to N to NE in the afternoon. Seas 2 to 4 ft. 
+.TUE NIGHT...NW to N winds 10 to 15 kt, shifting to E late. Seas
+2 to 4 ft. 
+.WED...W of 90W, SE winds 10 to 15 kt. E of 90W, SE to S winds
+10 to 15 kt, shifting to NE to E 15 to 20 kt in the afternoon.
+Seas 2 to 4 ft. 
+.WED NIGHT...W of 90W, NE winds 10 kt, shifting to E late. E of
+90W, SE winds 15 to 20 kt. Seas 3 to 5 ft. 
+.THU...E to SE winds 10 to 15 kt. Seas 3 to 5 ft. 
+.THU NIGHT...NE to E winds 10 to 15 kt. Seas 3 to 5 ft. 
+.FRI...SE to S winds 10 to 15 kt, shifting to SW to W in the
+afternoon. Seas 2 to 4 ft. 
+.FRI NIGHT...N to NE winds 10 kt, shifting to E late.
+Seas 2 to 4 ft. 
+
+$$
+
+Forecaster DELGADO

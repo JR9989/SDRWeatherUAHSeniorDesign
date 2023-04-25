@@ -1,0 +1,33 @@
+ABUS25 KWBC 241530
+TPTCRN
+
+HOURLY TEMPERATURE/WEATHER FOR CENTRAL UNITED STATES
+NWS TELECOMMUNICATION OPERATIONS CENTER SILVER SPRING MD
+1000 AM CDT MON APR 24 2023
+
+CITY                     F    C      WEATHER
+
+BIRMINGHAM               57   14      WINDY    
+BISMARCK                 37    3      FAIR     
+CHICAGO                  46    8      PCLDY    
+DENVER                   46    8      CLDY     
+DES MOINES               46    8      CLDY     
+FORT WORTH               55   13      CLDY     
+GALVESTON                57   14      CLDY     
+INDIANAPOLIS             44    7      FAIR     
+KANSAS CITY              53   12      WINDY    
+LITTLE ROCK              55   13      CLDY     
+LOUISVILLE               48    9      FAIR     
+MEMPHIS                  57   14      PCLDY    
+MINNEAPOLIS/ST. PAUL     42    6      PCLDY    
+NASHVILLE                55   13      FAIR     
+NEW ORLEANS              60   16      CLDY     
+NORTH PLATTE             50   10      FAIR     
+OKLAHOMA CITY            53   12      CLDY     
+OMAHA                    46    8      CLDY     
+RAPID CITY               41    5      FAIR     
+ST. LOUIS                51   11      FAIR     
+SAN ANTONIO              57   14      CLDY     
+SAULT STE. MARIE         33    1      -SN      
+
+$$ 

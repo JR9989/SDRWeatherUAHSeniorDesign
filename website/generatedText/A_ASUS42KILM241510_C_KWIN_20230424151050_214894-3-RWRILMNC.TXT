@@ -1,0 +1,158 @@
+ASUS42 KILM 241510
+RWRILM
+RWRILM
+REGIONAL HOURLY WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE WILMINGTON NC
+1100 AM EDT MON APR 24 2023
+ 
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+ 
+...............WFO WILMINGTON COUNTY WARNING AREA...............
+
+......COASTAL NC AND SC COUNTIES......
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+WILMINGTON     CLOUDY    62  53  72 N9        30.09R                  
+N MYRTLE BEACH CLOUDY    60  49  66 N8        30.09R                  
+MYRTLE BEACH   CLOUDY    60  47  61 N12       30.10R                  
+
+......INLAND NC AND SC COUNTIES.......
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+LUMBERTON      CLOUDY    55  40  56 N13       30.13R                  
+ELIZABETHTOWN  CLOUDY    53  40  62 N9        30.13R                  
+WHITEVILLE     PTSUNNY   56  45  67 N8        30.11S                  
+FLORENCE       CLOUDY    57  44  62 N13       30.13R                  
+DARLINGTON     CLOUDY    54  40  59 N10       30.14R                  
+KINGSTREE      CLOUDY    59  37  44 NE6       30.12R                  
+HARTSVILLE     CLOUDY    54  37  54 NE8G15    30.13R                  
+BENNETTSVILLE  CLOUDY    54  41  62 N10G17    30.13S                  
+CONWAY         FAIR      57  46  67 CALM      30.11R                  
+GEORGETOWN     PTSUNNY   64  43  45 NW7       30.11R                  
+MARION         CLOUDY    55  41  58 MISG      30.12R                  
+ 
+....................REST OF NORTH CAROLINA......................
+
+.........EASTERN NC.........
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CAPE HATTERAS  CLOUDY    62  59  90 N8        30.05R                  
+JACKSONVILLE   CLOUDY    53  43  68 N7        30.11R                  
+MOREHEAD CITY  CLOUDY    63  56  78 N9        30.06R                  
+KENANSVILLE    CLOUDY    52  37  58 N15       30.12R                  
+NEW BERN       CLOUDY    57  48  72 N13       30.10R                  
+ELIZABETH CITY CLOUDY    54  40  59 N14       30.11R                  
+
+.........CENTRAL NC.........
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+RALEIGH DURHAM MOSUNNY   56  32  40 NE12G18   30.14S                  
+ROCKY MOUNT    CLOUDY    55  33  43 N12       30.14R                  
+ROANOKE RAPIDS NOT AVBL                                               
+FAYETTEVILLE   CLOUDY    53  35  50 NE9       30.14R                  
+HOFFMAN        CLOUDY    54  33  45 E10       30.12S                  
+
+.........WESTERN NC.........
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CHARLOTTE      MOSUNNY   58  33  39 N12       30.15R                  
+GREENSBORO     MOSUNNY   53  31  42 VRB5      30.14S                  
+HICKORY        NOT AVBL                                               
+BOONE          NOT AVBL                                               
+ASHEVILLE      NOT AVBL                                               
+
+.....................REST OF SOUTH CAROLINA.....................
+
+.........EASTERN SC.........
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CHARLESTON     PTSUNNY   70  41  34 N3        30.09R                  
+BEAUFORT MCAS  PTSUNNY   72  47  40 E7        30.10R                  
+HILTON HEAD    SUNNY     70  48  46 NE12      30.10R                  
+
+.........CENTRAL SC.........
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+COLUMBIA       CLOUDY    58  39  49 NE10      30.13R                  
+ORANGEBURG     PTSUNNY   61  39  44 N7        30.12R                  
+SUMTER SHAW    PTSUNNY   58  40  51 NE10      30.11R                  
+
+.........WESTERN SC.........
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+GREENVILLE     NOT AVBL                                               
+ROCK HILL      MOSUNNY   58  34  40 NE13      30.14R                  
+ANDERSON       PTSUNNY   59  33  37 E6        30.14R                  
+CLEMSON        NOT AVBL                                               
+GREENWOOD      CLOUDY    56  35  45 NE9       30.16R                  
+ 
+
+...................COASTAL AND OFFSHORE REPORTS..................
+
+................LOCAL PIERS AND NC RESERVE................
+
+  
+STATION/POSITION TIME  SKY/WX   TEMP    WIND        PRES    VSBY
+                                AIR SEA DIR/SP/G
+                 (UTC)          (F)     (DEG/KT/KT) (MB)    (MI)
+JOHNY MRCER PIER 1424            60 66  350/ 10/ 12 1017.8
+NC RESRV MASNBRO NOT AVBL
+OCEAN CREST PIER NOT AVBL
+SPRINGMAID  PIER 1424            60     340/ 11/ 14 1018.9
+
+
+................COASTAL AND OFFSHORE BUOYS................
+
+  
+STATION/POSITION TIME  SKY/WX   TEMP    WIND        PRES    VSBY
+                                AIR SEA DIR/SP/G
+                 (UTC)          (F)     (DEG/KT/KT) (MB)    (MI)
+DIMNDSHOAL 41025 1450               72  350/ 10/ 14 1017.0R
+CAPE LOOKOUT     1400            63     330/ 10/ 13 1017.8R
+ONSLOW BAY 41036 NOT AVBL
+ONSLOW BAY 41064 1408            65 74  340/ 10/ 14 1018.1R
+ONSLOW BAY 41159 1426               74                N/A
+WVE H/P(F/S)=  3/ 8
+
+MASNBO INL 41110 1456               67                N/A
+WVE H/P(F/S)=  2/ 8
+
+WILM HARBR 41108 1430            63 67                N/A
+WVE H/P(F/S)=  2/ 8
+
+27SE WRITB 41037 1408            64 68  320/ 12/ 16 1017.0R
+FRYING PAN 41013 1450            66 71  340/  8/ 10 1017.9R
+WVE H/P(F/S)=  3/ 8 SWL H/P/D(F/S/D)=  3/130/ 8
+
+SUNST NRSH 41024 1408            60 68  350/ 12/ 16 1017.8R
+CAPRS NRSH 41029 1408            65      20/ 10/ 14 1018.3
+EDISTO     41004 1450            68 72  360/ 10/ 12 1018.9R
+WVE H/P(F/S)=  3/ 8 SWL H/P/D(F/S/D)=  2/130/ 8
+
+
+
+..........OFFSHORE BUOYS BEYOND 100 NM OFFSHORE...........
+.....IN A TRIANGLE---HAT TO BERMUDA TO BAHAMAS TO HAT..... 
+
+  
+STATION/POSITION TIME  SKY/WX   TEMP    WIND        PRES    VSBY
+                                AIR SEA DIR/SP/G
+                 (UTC)          (F)     (DEG/KT/KT) (MB)    (MI)
+150E HAT   41001 1450            68 69   50/  8/ 10 1017.4R
+WVE H/P(F/S)=  4/11 SWL H/P/D(F/S/D)=  3/ 60/11
+
+W BERMUDA  41048 1450                               1017.2R
+WVE H/P(F/S)=  4/10
+
+ATLANTIC S 41049 1450            71 76   40/ 10/ 14 1014.7R
+WVE H/P(F/S)=  6/11 SWL H/P/D(F/S/D)=  5/ 40/11
+
+E BAHAMAS  41046 NOT AVBL
+NE BAHAMAS 41047 1450            74 76  100/ 10/ 14 1014.4R
+WVE H/P(F/S)=  4/ 7 SWL H/P/D(F/S/D)=  3/100/ 7
+
+120E CANVRL41010 NOT AVBL
+
+END
+  

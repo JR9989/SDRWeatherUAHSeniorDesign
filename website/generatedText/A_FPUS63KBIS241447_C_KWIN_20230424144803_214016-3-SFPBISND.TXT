@@ -1,0 +1,29 @@
+FPUS63 KBIS 241447
+SFPND 
+NDZ001>054-250100-
+
+State Forecast Product
+National Weather Service Bismarck ND
+947 AM CDT Mon Apr 24 2023 /847 AM MDT Mon Apr 24 2023/
+
+.TODAY...Mostly sunny. Breezy west. Highs in the 40s east to the
+mid 50s southwest.
+.TONIGHT...Mostly clear east, partly cloudy west. Breezy west. 
+Lows in the 20s.
+.TUESDAY...Mostly cloudy southwest, clear to partly cloudy
+elsewhere. Highs in the mid 40s to mid 50s.
+.WEDNESDAY...Mostly cloudy and breezy. Showers likely. Lows in 
+the mid to upper 20s east to the mid to upper 30s west. Highs 
+mainly in the 50s, with mid to upper 40s northeast and lower 60s 
+far southwest and south central.
+.THURSDAY...Mostly cloudy. Winds increasing during the day and for
+Thursday night. Good chance of rain. Some snow may mix with the 
+rain Thursday night. Lows in the 30s. Highs in the upper 40s to 
+upper 50s. 
+.FRIDAY...Mostly cloudy and windy. Chance of rain, with some snow
+mixed in during the morning. Lows in the upper 20s to mid 30s. 
+Highs in the 40s.
+
+$$
+
+Heinert

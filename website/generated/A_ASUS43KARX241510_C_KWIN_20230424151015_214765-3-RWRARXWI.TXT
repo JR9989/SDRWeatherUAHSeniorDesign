@@ -1,0 +1,71 @@
+ASUS43 KARX 241510
+RWRARX
+
+HOURLY WEATHER FOR THE UPPER MISSISSIPPI RIVER VALLEY
+NATIONAL WEATHER SERVICE LA CROSSE WI
+1000 AM CDT MON APR 24 2023
+
+NOTE: "FAIR" indicates few or no clouds below 12,000 feet with no
+significant weater and/or obstructions to visibility. 
+
+MNZ077-085>088-093>096-241600
+Southeast Minnesota
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ROCHESTER      PTSUNNY   40  32  73 NW8       30.15S WCI  34          
+WINONA         PTSUNNY   41  30  65 NW6       30.17S                  
+AUSTIN         SUNNY     41  30  65 CALM      30.14S                  
+ALBERT LEA       N/A     43  28  56 CALM      30.14S                  
+DODGE CENTER   MOSUNNY   39  32  75 NW6       30.14S WCI  35          
+PRESTON        NOT AVBL                                               
+OWATONNA       PTSUNNY   39  30  70 N7        30.14F WCI  34          
+FARIBAULT      CLOUDY    41  30  65 CALM      30.15S                  
+$$
+ 
+WIZ041-042-053>056-061-241600
+Southwest Wisconsin
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+LA CROSSE      CLOUDY    43  28  56 CALM      30.16F                  
+SPARTA         PTSUNNY   38  35  89 CALM      30.16S                  
+VIROQUA        PTSUNNY   40  30  67 W5        30.15S                  
+WIS DELLS      CLOUDY    43  24  45 W7        30.17S                  
+PRAIRIE DU CHI PTSUNNY   42  28  56 CALM      30.19R                  
+BOSCOBEL       CLOUDY    43  27  53 SW7       30.19S                  
+LONE ROCK      CLOUDY    41  26  55 SW3       30.19S                  
+PLATTEVILLE    CLOUDY    43  23  44 SW7       30.19S                  
+$$
+ 
+WIZ017-030-034>036-043>045-241600
+Central Wisconsin
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MEDFORD        PTSUNNY   37  27  66 SW5       30.12S WCI  34          
+WAUSAU         PTSUNNY   41  23  48 W8        30.11F                  
+BLACK RVR FLS  PTSUNNY   42  28  58 W3        30.15S                  
+WIS RAPIDS     CLOUDY    42  22  44 SW7       30.15S                  
+MARSHFIELD     CLOUDY    38  26  62 CALM      30.13S                  
+MAUSTON        CLOUDY    41  27  57 W10G16    30.17R                  
+CAMP DOUGLAS   CLOUDY    41  27  57 CALM      30.14F                  
+WAUTOMA        PTSUNNY   42  24  49 VRB3      30.16F                  
+$$
+
+IAZ008>011-017>019-029-030-241600
+Northeast Iowa
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+WATERLOO       MOSUNNY   49  25  39 S9        30.16F                  
+DUBUQUE        CLOUDY    44  30  57 SW7       30.19S                  
+DECORAH        PTSUNNY   43  27  52 VRB3      30.14S                  
+MASON CITY     MOSUNNY   45  27  49 W7        30.15S                  
+CHARLES CITY   CLOUDY    43  30  61 SW6       30.15F                  
+OELWEIN        SUNNY     45  27  49 SW9G17    30.17S                  
+$$
+
+Wind speeds are in miles per hour.
+
+ Abbreviations used in the REMARKS:
+VSB - Visibility in statute miles
+WCI - Wind chill index
+HX  - Heat Index
+  

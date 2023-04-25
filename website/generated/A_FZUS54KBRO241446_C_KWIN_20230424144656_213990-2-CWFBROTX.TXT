@@ -1,0 +1,131 @@
+FZUS54 KBRO 241446
+CWFBRO
+
+Coastal Waters Forecast for the Lower Texas Coast
+National Weather Service Brownsville TX
+946 AM CDT Mon Apr 24 2023
+
+Lower Texas coastal waters from Baffin Bay to the mouth of the
+Rio Grande out 60 NM. 
+
+Seas are provided as a range of the average height of the highest
+1/3 of the waves, along with the occasional height of the average
+highest 10 percent of the waves.
+
+GMZ100-250330-
+946 AM CDT Mon Apr 24 2023
+
+.SYNOPSIS...Elevated seas continue into this morning in the wake 
+of the cold front and severe storms from Sunday. A gradual 
+improvement in winds and seas is expected into early this week as
+high pressure dominates.
+
+$$
+
+GMZ130-132-135-250330-
+Laguna Madre from the Port of Brownsville to the Arroyo Colorado-
+Laguna Madre from the Arroyo Colorado To 5 NM north of Port
+Mansfield TX-
+Laguna Madre from 5 nm north of Port Mansfield to Baffin Bay TX-
+946 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...Northeast winds 10 to 15 knots. A moderate chop
+on the bay. A slight chance of showers. 
+.TONIGHT...East winds 10 to 15 knots becoming southeast 5 to
+10 knots after midnight. A moderate chop on the bay becoming
+light chop after midnight. A slight chance of showers in the
+evening. 
+.TUESDAY...Southeast winds 5 to 10 knots increasing to 10 to
+15 knots in the afternoon. Light chop on the bay becoming a
+moderate chop in the afternoon. 
+.TUESDAY NIGHT...Southeast winds 10 to 15 knots decreasing to
+5 to 10 knots after midnight. A moderate chop on the bay becoming
+light chop after midnight. 
+.WEDNESDAY...Southeast winds 5 to 10 knots increasing to 10 to
+15 knots in the afternoon. Light chop on the bay becoming a
+moderate chop in the afternoon. 
+.WEDNESDAY NIGHT...Southeast winds 10 to 15 knots decreasing to
+5 to 10 knots after midnight. A moderate chop on the bay becoming
+light chop after midnight. 
+.THURSDAY...East winds 5 to 10 knots becoming northeast 10 to
+15 knots in the afternoon. Light chop on the bay becoming a
+moderate chop in the afternoon. Showers likely with a chance of
+thunderstorms. 
+.THURSDAY NIGHT...Northeast winds 10 to 15 knots decreasing to
+5 to 10 knots after midnight. A moderate chop on the bay becoming
+light chop after midnight. 
+.FRIDAY...Northeast winds 5 to 10 knots becoming east in the
+afternoon. Light chop on the bay. 
+.FRIDAY NIGHT...Southeast winds around 10 knots. Light chop on
+the bay. 
+
+Winds and waves higher in and near thunderstorms.
+
+$$
+
+GMZ150-155-250330-
+Gulf waters from Port Mansfield to the Rio Grande out 20 nm-
+Gulf waters from Baffin Bay to Port Mansfield out 20 nm-
+946 AM CDT Mon Apr 24 2023
+
+...SMALL CRAFT ADVISORY IN EFFECT UNTIL 10 AM CDT THIS MORNING...
+
+.REST OF TODAY...Northeast winds 15 to 20 knots. Seas 5 to
+7 feet, with occasional seas up to 8 feet. A slight chance of
+showers. 
+.TONIGHT...East winds 10 to 15 knots. Seas 4 to 5 feet. A slight
+chance of showers in the evening. 
+.TUESDAY...Southeast winds 10 to 15 knots. Seas 4 to 5 feet. 
+.TUESDAY NIGHT...Southeast winds 10 to 15 knots decreasing to
+5 to 10 knots after midnight. Seas 3 to 4 feet. 
+.WEDNESDAY...Southeast winds 5 to 10 knots increasing to 10 to
+15 knots in the afternoon. Seas 3 to 4 feet. 
+.WEDNESDAY NIGHT...Southeast winds 10 to 15 knots. Seas 2 to
+3 feet. 
+.THURSDAY...East winds 5 to 10 knots becoming northeast 10 to
+15 knots in the afternoon. Seas 2 to 3 feet. Showers likely with
+a chance of thunderstorms. 
+.THURSDAY NIGHT...Northeast winds 10 to 15 knots decreasing to
+5 to 10 knots after midnight. Seas 2 to 3 feet. 
+.FRIDAY...Northeast winds 5 to 10 knots becoming east in the
+afternoon. Seas 2 to 3 feet. 
+.FRIDAY NIGHT...Southeast winds around 10 knots becoming 10 to
+15 knots after midnight. Seas 3 to 4 feet. 
+
+Winds and seas higher in and near thunderstorms.
+
+$$
+
+GMZ170-175-250330-
+Gulf waters from Port Mansfield to the Rio Grande extending from
+20 to 60 nm-
+Gulf waters from Baffin Bay to Port Mansfield extending from
+20 to 60 nm-
+946 AM CDT Mon Apr 24 2023
+
+...SMALL CRAFT ADVISORY IN EFFECT UNTIL 10 AM CDT THIS MORNING...
+
+.REST OF TODAY...Northeast winds 10 to 15 knots increasing to
+15 to 20 knots this afternoon. Seas 5 to 7 feet, with occasional
+seas up to 8 feet. A slight chance of showers. 
+.TONIGHT...East winds 10 to 15 knots. Seas 5 to 7 feet, with
+occasional seas up to 8 feet. A slight chance of showers after
+midnight. 
+.TUESDAY...Southeast winds 10 to 15 knots. Seas 4 to 5 feet. 
+.TUESDAY NIGHT...Southeast winds 5 to 10 knots. Seas 3 to 5 feet.
+.WEDNESDAY...Southeast winds 5 to 10 knots. Seas 2 to 4 feet. 
+.WEDNESDAY NIGHT...Southeast winds around 10 knots. Seas 2 to
+3 feet. 
+.THURSDAY...East winds 5 to 10 knots becoming northeast 10 to
+15 knots in the afternoon. Seas 2 to 3 feet. Showers likely with
+a chance of thunderstorms. 
+.THURSDAY NIGHT...Northeast winds 10 to 15 knots. Seas 3 to
+4 feet. 
+.FRIDAY...Northeast winds around 10 knots becoming east in the
+afternoon. Seas 3 to 4 feet. 
+.FRIDAY NIGHT...Southeast winds around 10 knots. Seas 3 to
+4 feet. 
+
+Winds and seas higher in and near thunderstorms.
+
+$$

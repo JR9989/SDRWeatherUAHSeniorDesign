@@ -1,0 +1,126 @@
+FNUS73 KTOP 241528
+FWSTOP
+
+SPOT FORECAST for 4 Mile Creek...USFWS
+National Weather Service Topeka KS
+1028 AM CDT Mon Apr 24 2023
+
+Forecast is based on ignition time of 1100 CDT on April 24. 
+IF CONDITIONS BECOME UNREPRESENTATIVE...CONTACT THE NATIONAL WEATHER
+SERVICE.
+
+.DISCUSSION...
+
+Over the burn area, winds this afternoon will be out of the
+southwest ranging from 10-15 mph with gusts up to 20-25 mph at
+times. Minimum RH should be around 30 percent by 2-4 pm. Mixing
+heights are forecast to rise to between 5-7 kft into the
+afternoon. No weather concerns will impact the areas today and no
+frontal passage. The winds will tend to back into the evening
+slightly to the south. Clouds will continue to increase overhead
+which may limit overall mixing into the afternoon. The 1-hr fuel
+moisture index is around 10% over the area which should help the
+efficiency of the burn.
+
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly cloudy. Slight chance of rain late in 
+                    the afternoon. Chance of rain late in the 
+                    afternoon. 
+Chance of pcpn......30 percent. 
+Temperature.........57 at ignition...Max 66. 
+RH..................41 percent at ignition...Min 30 percent. 
+Wind (20 ft)........ 
+ Slope/valley.......Winds south at 13 mph at ignition...otherwise 
+                    South winds 12 to 15 mph. 
+Mixing height.......3000 ft AGL at ignition...otherwise 7800 ft 
+                    AGL. 
+Smoke dispersal.....Good /57900 knot-ft/ at ignition. 
+                    Max...excellent /139700 knot-ft/. 
+Haines Index........6 or high potential for large plume dominated 
+                    fire growth at ignition...max 6. 
+
+TIME (CDT)      11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky cover.......MC  MC  MC  MC  MC  MC  CDY 
+Weather cov.....                    SCH CHC 
+Weather type....                    RN  RN  
+Tstm cov........                            
+Chc of pcpn (%).0   0   0   10  10  20  30  
+Temp............57  59  62  64  65  65  65  
+RH..............41  37  33  31  30  30  30  
+20 FT wind dir..S   S   S   S   S   S   S   
+20 FT wind spd..13  13  15  15  15  13  12  
+20 FT wind gust.19  20  21  22  21  20  16  
+Mix hgt (kft)...3.0 4.0 5.1 6.5 7.5 7.8 7.6 
+Haines index....6   5   5   5   5   5   5   
+SDspl kt-ft/100058  73  91  117 134 140 130 
+
+.TONIGHT...
+
+Sky/weather.........Cloudy. Chance of rain. 
+Chance of pcpn......50 percent. 
+Temperature.........Min 45. 
+RH..................Max 86 percent. 
+Wind (20 ft)........ 
+ Slope/valley.......South winds 8 to 10 mph. 
+Mixing height.......500 ft AGL. 
+Smoke dispersal.....Excellent (89500 knot-ft) early in the evening 
+                    decreasing to poor (6200 knot-ft) late in the 
+                    night. 
+Haines Index........3 to 5 or very low to moderate potential for 
+                    large plume dominated fire growth. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky cover.......CLOUDY CLOUDY CLOUDY CLOUDY CLOUDY CLOUDY 
+Weather cov.....CHANCE CHANCE CHANCE CHANCE CHANCE CHANCE 
+Weather type....RAIN   RAIN   RAIN   RAIN   RAIN   RAIN   
+Tstm cov........                                          
+Chc of pcpn (%).30     50     50     50     50     50     
+Temp............64     59     52     50     48     46     
+RH..............31     40     56     68     80     86     
+20 FT wind dir..S      S      S      S      S      SE     
+20 FT wind spd..10     8      9      9      10     10     
+20 FT wind gust.14     9      12     13     13     14     
+Mix hgt (ft)....5600   800    700    500    700    600    
+Haines index....5      5      4      3      3      3      
+SDspl kt-ft/100090     10     9      8      10     9      
+
+.TUESDAY...
+
+Sky/weather.........Cloudy. Chance of rain. 
+Chance of pcpn......40 percent. 
+Temperature.........Max 56. 
+RH..................Min 64 percent. 
+Wind (20 ft)........ 
+ Slope/valley.......Southeast winds 9 to 12 mph. 
+Mixing height.......2900 ft AGL. 
+Smoke dispersal.....Poor (10000 knot-ft) early in the morning 
+                    increasing to good (46100 knot-ft) in the 
+                    afternoon. 
+Haines Index........2 to 3 or very low potential for large plume 
+                    dominated fire growth. 
+
+TIME (CDT)      6 AM      9 AM      NOON      3 PM      
+Sky cover.......CLOUDY    CLOUDY    CLOUDY    CLOUDY    
+Weather cov.....CHANCE    CHANCE    CHANCE    CHANCE    
+Weather type....RAIN      RAIN      RAIN      RAIN      
+Tstm cov........                                        
+Chc of pcpn (%).40        40        40        40        
+Temp............46        48        53        55        
+RH..............83        77        69        64        
+20 FT wind dir..SE        S         SE        SE        
+20 FT wind spd..10        12        12        10        
+20 FT wind gust.14        16        16        14        
+Mix hgt (ft)....700       1800      2500      2700      
+Haines index....3         3         3         2         
+SDspl kt-ft/100010        33        42        39        
+
+$$
+Forecaster...Drake
+Requested by...David Spencer
+Type of request...PRESCRIBED
+.TAG 2310490.0/TOP
+.DELDT 04/24/23
+.FormatterVersion 2.0.0
+.EMAIL David_spencer@fws.gov

@@ -1,0 +1,145 @@
+ASUS63 KDMX 241451
+RTPDMX
+
+Max/Min Temperature and Precipitation Table for Central Iowa
+National Weather Service Des Moines IA
+951 AM CDT Mon Apr 24 2023
+
+.BR DMX 0424 C DH01/DC2304240946/TAIRZX/DH07/TAIRZP/PP/SF/SD
+:
+: Values represent highs yesterday...12-hour lows...
+: and 24-hour precipitation ending at  7 AM Central Time
+:
+:                            Max   Min                Snow
+:      Location             Temp  Temp   Pcpn   Snow Depth
+:
+LWD  : Lamoni ASOS        :  51 /  34 /  0.00 /      /
+AMW  : Ames ASOS          :  51 /  26 /  0.00 /      /
+DSM  : Des Moines ASOS    :  51 /  35 /  0.00 /  0.0 /   0
+DMX  : NWS Johnston*      :  50 /  33 /  0.00 /  0.0 /   0
+MIW  : Marshalltown ASOS  :  48 /  26 /  0.00 /      /
+EST  : Estherville ASOS   :  48 /  28 /  0.00 /      /
+FOD  : Fort Dodge AWOS    :  47 /  23 /  0.00 /      /
+MCW  : Mason City ASOS    :  45 /  25 /  0.00 /      /
+ALO  : Waterloo ASOS      :  49 /  23 /  0.00 /  0.0 /   0
+OTM  : Ottumwa ASOS       :  49 /  30 /  0.00 /      /
+:
+:* Cooperative weather observation site
+:
+:
+: Other Automated Locations
+:
+: ...North Central Iowa...
+AXA  : Algona AWOS        :  45 /  28 /     M /      /
+CAV  : Clarion AWOS       :  45 /  28 /     M /      /
+FXY  : Forest City AWOS   :  43 /  23 /     M /      /
+HPT  : Hampton AWOS       :  46 /  28 /     M /      /
+:
+: ...West Central Iowa...
+ADU  : Audubon AWOS       :  48 /  21 /     M /      /
+CIN  : Carroll AWOS       :  50 /  28 /     M /      /
+DNS  : Denison AWOS       :   M /   M /     M /      /
+:
+: ...Central Iowa...
+IKV  : Ankeny AWOS        :  50 /  27 /     M /      /
+BNW  : Boone AWOS         :  48 /  28 /     M /      /
+GGI  : Grinnell AWOS      :  49 /  33 /     M /      /
+IFA  : Iowa Falls AWOS    :  46 /  31 /     M /      /
+TNU  : Newton AWOS        :  48 /  30 /     M /      /
+PRO  : Perry AWOS         :  51 /  28 /     M /      /
+NSSI4: Prairie City/NS NWR:  50 /  31 /     M /      /
+EBS  : Webster City AWOS  :  48 /  25 /     M /      /
+:
+: ...Southwestern Iowa...
+AIO  : Atlantic AWOS      :  50 /  25 /     M /      /
+:
+: ...South Central Iowa...
+TVK  : Centerville AWOS   :  50 /  30 /     M /      /
+CNC  : Chariton AWOS      :  50 /  28 /     M /      /
+CSQ  : Creston AWOS       :  48 /  30 /     M /      /
+OXV  : Knoxville AWOS     :  50 /  37 /     M /      /
+SSFI4: Lucas/Stephens SF  :  55 /  31 /     M /      /
+I75  : Osceola AWOS       :  51 /  31 /     M /      /
+PEA  : Pella AWOS         :  49 /  33 /     M /      /
+:
+: ...Southeastern Iowa...
+OOA  : Oskaloosa AWOS     :  51 /  35 /     M /      /
+:
+.END
+
+
+.BR DMX 0424 C DH0946/DC2304240946/TX/TN/PP/SF/SD
+:
+: Values represent the 24 hours ending around 7 AM Central Time
+:
+: Cooperative observer and other locations
+:
+:                          Date/Time   Max   Min                Snow
+:      Location               DDHHMM  Temp  Temp   Pcpn   Snow Depth
+:
+: ...Northwestern Iowa...
+ESTI4: Estherville        : DD240700/  46 /  26 /  0.00 /      /    
+POCI4: Pocahontas         : DD240800/  47 /  23 /  0.00 /      /    
+:
+: ...North Central Iowa...
+ALGI4: Algona             : DD240700/  45 /  27 /  0.00 /  0.0 /   0
+FSCI4: Forest City        : DD240700/  44 /  27 /  0.00 /      /    
+HPTI4: Hampton            : DD240700/  45 /  26 /  0.00 /      /    
+LMLI4: Lake Mills         : DD240700/     /     /  0.00 /      /    
+MCWI4: Mason City         : DD240700/  45 /  27 /  0.00 /      /    
+:
+: ...Northeastern Iowa...
+:
+: ...West Central Iowa...
+AUDI4: Audubon            : DD240800/  47 /  22 /  0.00 /      /    
+CINI4: Carroll            : DD240700/  51 /  25 /  0.00 /  0.0 /    
+COOI4: Coon Rapids        : DD240700/     /     /  0.00 /      /    
+GTHI4: Guthrie Center     : DD240800/  50 /  23 /  0.00 /      /    
+JFFI4: Jefferson          : DD240702/  49 /  27 /  0.00 /      /    
+RKWI4: Rockwell City      : DD240700/  48 /  24 /  0.00 /  0.0 /   0
+RWCI4: Rockwell City      : DD240700/     /     /  0.00 /      /    
+SACI4: Sac City           : DD240600/  50 /  24 /  0.00 /  0.0 /   0
+:
+: ...Central Iowa...
+AESI4: Ames               : DD240600/  48 /  26 /  0.00 /  0.0 /   0
+BNWI4: Boone              : DD240800/  51 /  24 /  0.00 /      /    
+CLUI4: Clutier            : DD240700/     /     /  0.00 /      /    
+WGCI4: Des Moines Waveland: DD240700/     /     /  0.00 /  0.0 /   0
+WMTI4: Fort Dodge         : DD240705/  47 /  27 /  0.00 /  0.0 /   0
+GRII4: Grinnell           : DD240700/  50 /  22 /  0.00 /      /    
+GNDI4: Grundy Center      : DD240720/  46 /  25 /  0.00 /      /    
+MSHI4: Marshalltown       : DD240700/  47 /  22 /  0.00 /      /    
+MXWI4: Maxwell            : DD240700/     /     /  0.00 /      /    
+NWTI4: Newton             : DD240700/  49 /  28 /  0.00 /      /    
+OGDI4: Ogden              : DD240700/     /     /  0.00 /      /    
+PERI4: Perry              : DD240700/  51 /  28 /  0.00 /      /    
+STYI4: Story City         : DD240700/     /     /  0.00 /      /    
+TLDI4: Toledo             : DD240700/  47 /  28 /  0.00 /  0.0 /   0
+WEBI4: Webster City       : DD240700/  46 /  24 /  0.00 /  0.0 /   0
+:
+: ...Southwestern Iowa...
+ADAI4: Adair              : DD240700/     /     /  0.00 /      /    
+ATLI4: Atlantic           : DD240700/  52 /  24 /  0.00 /      /    
+CRNI4: Corning            : DD240700/  50 /  28 /  0.00 /  0.0 /   0
+:
+: ...South Central Iowa...
+CNTI4: Centerville        : DD240700/  50 /  26 /  0.00 /      /    
+CMBI4: Columbia           : DD240700/     /     /  0.00 /      /    
+KNXI4: Knoxville          : DD240800/  49 /  33 /  0.00 /      /    
+3OI  : Lamoni             : DD240700/  50 /  28 /  0.00 /      /    
+MTAI4: Mount Ayr          : DD240700/  51 /  27 /     M /  0.0 /   0
+OSEI4: Osceola            : DD240700/  51 /  25 /  0.00 /  0.0 /   0
+PEAI4: Pella              : DD240700/     /     /  0.00 /  0.0 /   0
+RADI4: Rathbun Dam        : DD240700/  50 /  30 /  0.00 /      /    
+:
+: ...Southeastern Iowa...
+:
+.END
+
+These data are preliminary and have not undergone final quality 
+control /QC/ by NCEI. Therefore, these data are subject to revision.
+Final and certified climate data can be accessed at the National 
+Centers for Environmental Information /NCEI/ - www.ncei.noaa.gov .
+
+$$
+

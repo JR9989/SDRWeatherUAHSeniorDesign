@@ -1,0 +1,72 @@
+ASUS44 KLIX 241511
+RWRLIX
+NEW ORLEANS REGIONAL WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE NEW ORLEANS LA
+1000 AM CDT MON APR 24 2023
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+      SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+      SKY/WX - SKY CONDITION AND SIGNIFICANT WEATHER.
+      TMP - AIR TEMPERATURE.     DP    - DEWPOINT TEMPERATURE.
+      RH  - RELATIVE HUMIDITY.   PRES  - PRESSURE.
+      HI  - HEAT INDEX.          WCI   - WIND CHILL INDEX.
+
+*  THESE STATIONS ARE NOT NWS OR FAA STATIONS AND ARE NOT UNDER
+   NWS QUALITY CONTROL. 
+
+LAZ038-048-061-063-065>067-069-076-077-241600-
+SOUTHEAST LOUISIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+N.O. INTL ARPT CLOUDY    61  49  64 NE14      30.08S                  
+N.O. LAKEFRONT CLOUDY    62  51  67 NE16      30.09R                  
+RESERVE*       CLOUDY    57  46  67 NE7G16    30.10R                  
+SLIDELL        LGT RAIN  59  47  64 NE7       30.10R                  
+BATON ROUGE    CLOUDY    62  48  60 NE10      30.10S                  
+BOOTHVILLE*    CLOUDY    69  56  62 NE16G23   30.04F                  
+BELLE CHASSE*  CLOUDY    63  53  70 NE14G22   30.07S                  
+BOGALUSA*      CLOUDY    61  44  53 NE10      30.12R                  
+GALLIANO*      CLOUDY    66  55  66 NE14G20   30.06S                  
+NEW ROADS*     FAIR      58  44  59 NE10G16   30.12S                  
+GONZALES*      CLOUDY    59  48  66 NE5       30.09S                  
+HAMMOND*       CLOUDY    58  44  58 NE7       30.11R                  
+HOUMA*         CLOUDY    63  52  67 NE15      30.06                   
+
+$$
+
+MSZ070-077-080>082-241600-
+SOUTHERN MISSISSIPPI
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MCCOMB         CLOUDY    55  38  52 NE7       30.12R                  
+GULFPORT       PTSUNNY   63  47  55 NE9       30.09R                  
+BILOXI         CLOUDY    62  47  58 NE13      30.07R                  
+PASCAGOULA     CLOUDY    63  48  58 NE10G17   30.08S                  
+STENNIS ARPT*  PTSUNNY   59  45  58 NE9G15    30.09R                  
+
+$$
+
+COASTAL OBSERVATIONS
+LAKE AND NEARSHORE STATIONS
+  
+STATION/POSITION TIME  SKY/WX   TEMP    WIND        PRES    WAVE
+                                AIR SEA DIR/SP/G            HT/PER
+                 (UTC)          (F)     (DEG/KT/KT) (MB)    (FT/S)
+WAVELAND YACHT   1430            64 68   50/  8/ 11 1019.3
+GRAND ISLE       1430            66 72              1016.9
+SOUTHWEST PASS   1430            69 65              1015.9
+NEW CANAL        1430            61 70   50/ 17/ 21 1017.6
+SHELL BEACH      1430            62 64   40/ 18/ 21 1018.4
+
+OFFSHORE STATIONS
+  
+STATION/POSITION TIME  SKY/WX   TEMP    WIND        PRES    WAVE
+                                AIR SEA DIR/SP/G            HT/PER
+                 (UTC)          (F)     (DEG/KT/KT) (MB)    (FT/S)
+64 S DAUPHIN ISL 1450            69 71   30/ 23/ 29 1016.6    5/ 6
+SW PASS ENTRANCE 1430            67 71                N/A     4/ 4
+LA OFFSHORE OIL  1425                                 N/A     4
+
+$$
+
+  

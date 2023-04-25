@@ -1,0 +1,79 @@
+ASUS44 KLIX 241511
+RWRLA 
+LOUISIANA WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE NEW ORLEANS LA
+1000 AM CDT MON APR 24 2023
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+      SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+      SKY/WX - SKY CONDITION AND SIGNIFICANT WEATHER.
+      TMP - AIR TEMPERATURE.    DP   - DEWPOINT TEMPERATURE.
+      RH  - RELATIVE HUMIDITY.  PRES - PRESSURE.
+      HX  - HEAT INDEX.         WCI  - WIND CHILL INDEX.
+
+*  THESE STATIONS ARE NOT NWS OR FAA STATIONS AND ARE NOT UNDER
+   NWS QUALITY CONTROL.
+
+LAZ048-061-063-065-066-069-076-077-241600-
+SOUTHEAST LOUISIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+N.O. INTL ARPT CLOUDY    61  49  64 NE14      30.08S                  
+N.O. LAKEFRONT CLOUDY    62  51  67 NE16      30.09R                  
+RESERVE*       CLOUDY    57  46  67 NE7G16    30.10R                  
+SLIDELL        LGT RAIN  59  47  64 NE7       30.10R                  
+BATON ROUGE    CLOUDY    62  48  60 NE10      30.10S                  
+BOOTHVILLE*    CLOUDY    69  56  62 NE16G23   30.04F                  
+BELLE CHASSE*  CLOUDY    63  53  70 NE14G22   30.07S                  
+BOGALUSA*      CLOUDY    61  44  53 NE10      30.12R                  
+GALLIANO*      CLOUDY    66  55  66 NE14G20   30.06S                  
+NEW ROADS*     FAIR      58  44  59 NE10G16   30.12S                  
+GONZALES*      CLOUDY    59  48  66 NE5       30.09S                  
+HAMMOND*       CLOUDY    58  44  58 NE7       30.11R                  
+HOUMA*         CLOUDY    63  52  67 NE15      30.06                   
+
+$$
+
+LAZ041-044-053-054-241600-
+SOUTHWEST LOUISIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+LAKE CHARLES   PTSUNNY   58  46  64 NE14      30.11R                  
+LAFAYETTE      CLOUDY    60  49  66 NE9G18    30.10R                  
+PATTERSON      CLOUDY    62  51  67 NE15      30.07S                  
+SALT POINT       N/A     62  52  69 VRB5      30.04S                  
+NEW IBERIA     CLOUDY    61  48  62 NE13      30.08S                  
+CHENAULT AIRPK CLOUDY    57  46  67 NE10      30.11R                  
+
+$$
+
+LAZ027-028-241600-
+CENTRAL LOUISIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+FORT POLK      CLOUDY    56  40  56 NE7G16    30.11R                  
+ALEXANDRIA INT CLOUDY    56  41  57 E8        30.14R                  
+ALEXANDRIA     PTSUNNY   59  42  53 VRB7      30.14R                  
+
+$$
+
+LAZ001-002-241600-
+NORTHWEST LOUISIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+SHREVEPORT     PTSUNNY   59  41  51 E9G17     30.17R                  
+BARKSDALE AFB  SUNNY     58  39  49 E5        30.17R                  
+DTN SHREVEPORT NOT AVBL                                               
+
+$$
+
+LAZ014-016-241600-
+NORTHEAST LOUISIANA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MONROE         CLOUDY    58  42  55 NE13G21   30.19R                  
+TALLULAH       CLOUDY    58  40  51 NE13      30.17S                  
+
+$$
+
+  

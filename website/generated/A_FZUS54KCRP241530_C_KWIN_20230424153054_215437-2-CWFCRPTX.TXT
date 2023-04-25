@@ -1,0 +1,224 @@
+FZUS54 KCRP 241530
+CWFCRP
+
+Coastal Waters Forecast for Texas
+National Weather Service Corpus Christi TX
+1030 AM CDT Mon Apr 24 2023
+
+Middle Texas coastal waters from Baffin Bay to Matagorda ship
+channel out to 60 nautical miles.
+ 
+Seas are provided as a range of the average height of the highest
+1/3 of the waves...along with occasional height of the average
+highest 10 percent of the waves. 
+ 
+
+GMZ200-250415-
+1030 AM CDT Mon Apr 24 2023
+
+.SYNOPSIS FOR THE MIDDLE TEXAS COASTAL WATERS...
+
+Moderate to strong northeast flow between 20 to 25 knots will
+continue today before decreasing to under 20 knots this 
+afternoon. Winds are expected to shift to the southeast tonight 
+and decrease to under 15 knots. Patchy light rain and isolated 
+showers will be possible today and tonight across the local 
+waters, with scattered thunderstorms possible Tuesday. A 
+generally weak to moderate onshore flow will persist Tuesday night
+through Wednesday night, followed by a shift northward on 
+Thursday in response to an arriving frontal boundary. The front 
+will bring a chance for isolated to scattered showers and 
+thunderstorms to occur late Wednesday night through Thursday 
+evening. A weak to at times moderate offshore flow is expected to 
+continue through Friday morning, before gradually becoming onshore
+in the afternoon. Another front is expected to arrive during the 
+weekend with an offshore flow resuming once again.
+
+$$
+
+GMZ236-237-250415-
+Copano, Aransas, and Redfish Bays-
+San Antonio, Mesquite, and Espiritu Santo Bays-
+1030 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...Northeast winds 10 to 15 knots with gusts up to
+20 knots. Bay and inland waters slightly choppy to occasionally
+choppy. 
+.TONIGHT...East winds 10 to 15 knots with gusts up to 20 knots,
+diminishing to 5 to 10 knots after midnight. Bay and inland
+waters slightly choppy to occasionally choppy. A slight chance of
+showers after midnight. 
+.TUESDAY...Southeast winds 5 to 10 knots, increasing to 10 to
+15 knots with gusts up to 20 knots in the afternoon. Bay and
+inland waters slightly choppy to occasionally choppy. A slight
+chance of showers and thunderstorms in the morning, then a chance
+of showers and thunderstorms in the afternoon. 
+.TUESDAY NIGHT...Southeast winds 5 to 10 knots. Bay and inland
+waters smooth. 
+.WEDNESDAY...Southeast winds 5 to 10 knots. Bay and inland waters
+smooth. 
+.WEDNESDAY NIGHT...Southeast winds 5 to 10 knots. Bay and inland
+waters smooth. 
+.THURSDAY...North winds 5 to 10 knots. Bay and inland waters
+smooth to slightly choppy. A chance of showers and thunderstorms
+in the morning. 
+.THURSDAY NIGHT...Northeast winds 5 to 10 knots. Bay and inland
+waters smooth to slightly choppy. 
+.FRIDAY...Northeast winds 5 to 10 knots, becoming southeast in
+the afternoon. Bay and inland waters smooth. 
+.FRIDAY NIGHT...Southeast winds around 10 knots. Bay and inland
+waters slightly choppy. 
+
+Winds and waves higher in and near thunderstorms.
+
+$$
+
+GMZ231-232-250415-
+Baffin Bay and Upper Laguna Madre-Corpus Christi and Nueces Bays-
+1030 AM CDT Mon Apr 24 2023
+
+...SMALL CRAFTS SHOULD EXERCISE CAUTION...
+
+.REST OF TODAY...Northeast winds 15 to 20 knots with gusts up to
+25 knots. Bay and inland waters choppy to occasionally rough. A
+slight chance of showers. 
+.TONIGHT...East winds 10 to 15 knots, becoming around 10 knots
+after midnight. Gusts up to 25 knots. Bay and inland waters
+slightly choppy to occasionally choppy. 
+.TUESDAY...Southeast winds 5 to 10 knots, increasing to 10 to
+15 knots with gusts up to 20 knots in the afternoon. Bay and
+inland waters slightly choppy to occasionally choppy. A slight
+chance of showers and thunderstorms in the morning, then a chance
+of showers and thunderstorms in the afternoon. 
+.TUESDAY NIGHT...Southeast winds 10 to 15 knots. Bay and inland
+waters slightly choppy to occasionally choppy. 
+.WEDNESDAY...Southeast winds 10 to 15 knots. Bay and inland
+waters slightly choppy to occasionally choppy. 
+.WEDNESDAY NIGHT...Southeast winds 10 to 15 knots with gusts up
+to 20 knots, diminishing to 5 to 10 knots after midnight. Bay and
+inland waters slightly choppy to occasionally choppy. 
+.THURSDAY...Northeast winds 5 to 10 knots, becoming north in the
+afternoon. Bay and inland waters smooth to slightly choppy. A
+chance of thunderstorms in the morning. A chance of showers. 
+.THURSDAY NIGHT...Northeast winds 5 to 10 knots. Bay and inland
+waters smooth to slightly choppy. 
+.FRIDAY...Northeast winds 5 to 10 knots, becoming east in the
+afternoon. Bay and inland waters smooth. 
+.FRIDAY NIGHT...Southeast winds 10 to 15 knots. Bay and inland
+waters slightly choppy to occasionally choppy. 
+
+Winds and waves higher in and near thunderstorms.
+
+$$
+
+GMZ255-250415-
+Coastal waters from Port Aransas to Matagorda Ship Channel out
+20 NM-
+1030 AM CDT Mon Apr 24 2023
+
+...SMALL CRAFT ADVISORY IN EFFECT UNTIL 1 PM CDT THIS AFTERNOON...
+
+.REST OF TODAY...Northeast winds 15 to 20 knots with gusts up to
+25 knots. Waves 4 to 6 feet, occasionally seas up to 8 feet. A
+slight chance of showers late this morning. 
+.TONIGHT...East winds 15 to 20 knots, diminishing to 10 to
+15 knots after midnight. Waves 4 to 6 feet, occasionally seas up
+to 8 feet. A slight chance of showers after midnight. 
+.TUESDAY...Southeast winds 10 to 15 knots with gusts up to
+20 knots. Waves 3 to 5 feet, occasionally seas up to 6 feet. A
+slight chance of showers and thunderstorms in the morning, then a
+chance of showers and thunderstorms in the afternoon. 
+.TUESDAY NIGHT...Southeast winds 10 to 15 knots. Waves 3 to
+4 feet, occasionally seas around 5 feet. A slight chance of
+showers and thunderstorms in the evening. 
+.WEDNESDAY...Southeast winds around 10 knots. Waves 2 to 3 feet. 
+.WEDNESDAY NIGHT...Southeast winds 5 to 10 knots. Waves 2 to
+3 feet. 
+.THURSDAY...Northeast winds 5 to 10 knots. Waves 2 to 3 feet. A
+chance of thunderstorms in the morning. A chance of showers. 
+.THURSDAY NIGHT...North winds around 10 knots. Waves 2 to 3 feet.
+.FRIDAY...Northeast winds around 10 knots, becoming southeast in
+the afternoon. Waves 2 to 3 feet. 
+.FRIDAY NIGHT...Southeast winds 10 to 15 knots. Waves 2 to
+3 feet. 
+
+Winds and seas higher in and near thunderstorms.
+
+$$
+
+GMZ250-250415-
+Coastal waters from Baffin Bay to Port Aransas out 20 NM-
+1030 AM CDT Mon Apr 24 2023
+
+...SMALL CRAFT ADVISORY IN EFFECT UNTIL 1 PM CDT THIS AFTERNOON...
+
+.REST OF TODAY...Northeast winds 15 to 20 knots with gusts up to
+25 knots. Waves 5 to 6 feet, occasionally seas up to 8 feet. A
+slight chance of showers. 
+.TONIGHT...East winds 15 to 20 knots with gusts up to 25 knots,
+becoming southeast 10 to 15 knots after midnight. Waves 4 to
+6 feet, occasionally seas up to 8 feet. A slight chance of
+showers after midnight. 
+.TUESDAY...Southeast winds 10 to 15 knots. Waves 3 to 5 feet,
+occasionally seas up to 6 feet. A slight chance of showers and
+thunderstorms in the morning, then a chance of showers and
+thunderstorms in the afternoon. 
+.TUESDAY NIGHT...Southeast winds 10 to 15 knots. Waves 3 to
+4 feet, occasionally seas around 5 feet. 
+.WEDNESDAY...Southeast winds around 10 knots. Waves around
+3 feet. 
+.WEDNESDAY NIGHT...Southeast winds 10 to 15 knots. Waves 2 to
+3 feet. 
+.THURSDAY...Northeast winds 10 to 15 knots. Waves 2 to 4 feet,
+occasionally seas around 5 feet. A chance of thunderstorms in the
+morning. A chance of showers. 
+.THURSDAY NIGHT...Northeast winds 10 to 15 knots. Waves 2 to
+4 feet, occasionally seas around 5 feet. 
+.FRIDAY...Northeast winds around 10 knots, becoming east in the
+afternoon. Waves 2 to 3 feet. 
+.FRIDAY NIGHT...Southeast winds 10 to 15 knots. Waves 2 to
+3 feet. 
+
+Winds and seas higher in and near thunderstorms.
+
+$$
+
+GMZ270-275-250415-
+Waters from Baffin Bay to Port Aransas from 20 to 60 NM-
+Waters from Port Aransas to Matagorda Ship Channel from 20 to
+60 NM-
+1030 AM CDT Mon Apr 24 2023
+
+...SMALL CRAFT ADVISORY IN EFFECT UNTIL 7 PM CDT THIS EVENING...
+
+.REST OF TODAY...Northeast winds 15 to 20 knots with gusts up to
+25 knots. Waves 6 to 8 feet, occasionally seas up to 10 feet. A
+slight chance of showers. 
+.TONIGHT...East winds 15 to 20 knots with gusts up to 25 knots.
+Waves 5 to 6 feet, occasionally seas up to 8 feet. A slight
+chance of showers after midnight. 
+.TUESDAY...Southeast winds 10 to 15 knots with gusts up to
+20 knots. Waves 4 to 6 feet, occasionally seas up to 8 feet. A
+slight chance of showers and thunderstorms in the morning, then a
+chance of showers and thunderstorms in the afternoon. 
+.TUESDAY NIGHT...Southeast winds 10 to 15 knots. Waves 4 to
+5 feet, occasionally seas up to 6 feet. A slight chance of
+showers and thunderstorms in the evening. 
+.WEDNESDAY...Southeast winds around 10 knots. Waves around
+3 feet. 
+.WEDNESDAY NIGHT...Southeast winds 10 to 15 knots. Waves around
+3 feet. 
+.THURSDAY...Northeast winds around 10 knots, becoming 10 to
+15 knots in the afternoon. Waves 3 to 4 feet, occasionally seas
+around 5 feet. A chance of thunderstorms in the morning. A chance
+of showers. 
+.THURSDAY NIGHT...North winds 10 to 15 knots. Waves 3 to 4 feet,
+occasionally seas around 5 feet. 
+.FRIDAY...Northeast winds around 10 knots, becoming east in the
+afternoon. Waves 2 to 3 feet. 
+.FRIDAY NIGHT...Southeast winds 10 to 15 knots. Waves 2 to
+3 feet. 
+
+Winds and seas higher in and near thunderstorms.
+
+$$

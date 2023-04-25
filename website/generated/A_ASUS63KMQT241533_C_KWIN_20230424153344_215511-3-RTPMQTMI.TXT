@@ -1,0 +1,184 @@
+ASUS63 KMQT 241533
+RTPMQT
+
+
+Regional Temperature And Precipitation Summary
+National Weather Service Marquette MI
+1133 AM EDT Mon Apr 24 2023
+
+:The following tables are from ASOS/AWOS Stations and
+:represent yesterday's high and the low over the last 12 hours.
+:
+:Values ending at 6 AM Central Standard Time.
+:
+.BR MQT 0424 CS DH00/TX/DH06/TAIRZP/PP/
+:....................................................
+:   Station                   Max  Min   24Hr 
+: ID     Name                 Temp Temp  Precip
+:....................................................
+:
+IWD   : Ironwood            : 38 /  28 /  M
+IMT   : Iron Mountain       : 39 /  19 /  M
+MNM   : Menominee           : 39 /  24 /  M
+.END
+ 
+:Values ending at 7 AM Eastern Standard Time.
+:
+.BR MQT 0424 ES DH00/TX/DH07/TAIRZP/PP/
+:....................................................
+:   Station                   Max  Min   24Hr
+: ID     Name                 Temp Temp  Precip
+:....................................................
+:
+CMX   : Houghton Arpt       : 35 /  28 /  M
+P59   : Copper Harbor       : 34 /  32 / 0.02
+MQT   : NWS Marquette       : 35 /  22 /    T
+P53   : Munising            : 34 /  30 / 0.00
+SAW   : Marquette Sawyer    : 34 /  21 /    M
+ESC   : Escanaba            : 38 /  23 /  M
+ISQ   : Manistique          : 40 /  27 /  M
+ERY   : Newberry            : 38 /  30 /  M
+.END
+ 
+:Cooperative observer temperature and precipitation reports.
+:Temperature reports are 24 hour values ending around 6 AM
+:Central Time.
+:
+.BR MQT 0424 C DH06/TAIRZX/TAIRZN/PPDRZZ/SFKRZZ/SFDRZZ/SDIRZZ
+:..................................................................
+:   Station                       Max  Min  24Hr  12Hr  24Hr  Snow
+: ID     Name               Time  Temp Temp Pcpn  Snow  Snow  Depth
+:..................................................................
+:Gogebic County
+IRMM4 : Ironwood        : DH0700/ 38/  26/     T/    M/    T/    0
+IWOM4 : Ironwood #2     : DH0700/ 39/  25/     T/    M/  0.4/    2
+WTRM4 : Watersmeet 12WSW: DH0500/  M/   M/  0.00/    M/    M/    0
+:Iron County
+AMAM4 : Amasa 1W        : DH0800/ 36/  20/  0.00/    M/  0.0/     
+STMM4 : Stambaugh 2SSE  : DH0700/ 36/  20/  0.00/    M/  0.0/    0
+.END
+ 
+:Cooperative observer temperature and precipitation reports.
+:Temperature reports are 24 hour values ending at 7 AM
+:Eastern Time.
+:
+.BR MQT 0424 E DH07/TAIRZX/TAIRZN/PPDRZZ/SFKRZZ/SFDRZZ/SDIRZZ
+:...................................................................
+:   Station                       Max  Min  24Hr  12Hr  24Hr  Snow
+: ID     Name               Time  Temp Temp Pcpn  Snow  Snow  Depth
+:...................................................................
+:Houghton County
+PDLM4 : Painesdale      : DHM   /  M/   M/     M/    M/  0.0/    5
+KSGM4 : Kearsarge       : DH0800/ 36/  27/  0.00/  0.0/  0.0/    4
+QNCM4 : Hancock         : DH0700/  M/   M/  0.00/    M/  0.0/    2
+:Baraga County
+HERM4 : Herman          : DH0800/ 33/  16/     T/    M/    T/     
+WTNM4 : Watton          : DH0800/ 37/  19/  0.00/    M/  0.0/     
+MIEM4 : Michigamme 3WNW : DH0800/  M/   M/  0.00/    M/  0.0/    0
+:Marquette County
+BBEM4 : Big Bay 9SW     : DH0800/  M/   M/  0.00/    M/  0.0/    0
+CLKM4 : Champion 6E     : DH0700/  M/   M/     T/    M/    T/    0
+MQT   : NWS Marquette   : DH0700/ 35/  22/     T/  0.0/    T/     
+MRQM4 : Marquette       : DH0800/ 36/  29/  0.00/    M/  0.0/    0
+GGRM4 : Green Garden    : DH0720/  M/   M/  0.00/    M/  0.0/    0
+AROM4 : Arnold 2N       : DH0745/  M/   M/  0.00/    M/    M/    M
+:Alger County
+MNSM4 : Munising        : DH0700/ 37/  30/  0.00/    M/    M/    0
+CEFM4 : Chatham Exp Farm: DH0800/ 36/  25/  0.00/    M/  0.0/    0
+:Delta County
+ESAM4 : Escanaba WFP    : DH0700/  M/   M/  0.00/    M/  0.0/    0
+GLDM4 : Gladstone       : DH0700/  M/   M/  0.00/    M/  0.0/    0
+GDCM4 : Garden Corners  : DH0800/ 40/  26/  0.00/    M/  0.0/    0
+:Schoolcraft County
+MTQM4 : Manistique WWTP : DH0700/ 37/  27/     T/    M/  0.0/    0
+:Luce County
+NCFM4 : Newberry-LCRC   : DHM   / 37/  29/     M/    M/    M/     
+.END
+
+
+:The data above are preliminary and have not undergone final
+:quality control by the Center for Weather and Climate, part of
+:the National Centers for Environmental Information (NCEI). 
+:Therefore, these data are subject to revision. Final and
+:certified climatic data can be accessed at www.ncdc.noaa.gov.
+ 
+&&
+ 
+:Data for the following Stations are compiled by an automated
+:computer program. The data is only partially quality controlled.
+:
+:Values represent yesterday's high temperature, the
+:low temperature over the last 12 hours and the minimum
+:relative humidity over the past 18 hours.  Precipitation
+:is for 24 hours ending at 7 AM local time.
+..................................
+                 Max   Min    Min
+Station Name     Temp  Temp   RH
+..................................
+Wakefield         39    27    40
+Watersmeet        38    24    37
+Pelkie            39    20    45
+Kenton            41    15    44
+Baraga Plains     38    12    41
+Ojibway           31    27    72
+Randville         36    19    55
+Gwinn             37    22    54
+La Branche        37    19    52
+Wausaukee         40    22    46
+Doe Lake          36    21    61
+Stonington        40    16    50
+High Bridge       38    25    60
+Munising East     35    28    69
+Seney             39    25    60
+Spincich Lake     38    29    71
+Trout Lake        39    28    72
+Rexton            39    27    70
+Raco              36    29    80
+Rudyard           38    30    82
+
+
+:The following locations are marine observation platforms.
+:Values are the high temperatures from yesterday and
+:the overnight low.
+:...............................
+:                     High  Low
+:Station Name         Temp  Temp
+:...............................
+Gay 4SW               36    30
+Big Bay               35    29
+Fairport              38    29
+Grand Marais          35    31
+ 
+:CoCoRaHS precipitation reports.
+:These reports are considered supplemental and unofficial.
+:Precipitation values ending at indicated reporting
+:time this morning.
+:.........................................................
+:   Station                    Report   24Hr  24Hr  Snow
+: ID       Name                 Time    Pcpn  Snow  Depth
+:.........................................................
+MION04 : Ontonagon 1.8 ESE      800AM:     T/    T/     
+MIHG01 : Houghton 1.6 ESE       800AM:  0.00/  0.0/     
+MIHG20 : Calumet 1.1 SSW        700AM:     T/    M/    M
+MIHG21 : Atlantic Mine 3.9 NW   700AM:  0.00/  0.0/     
+MIHG22 : Chassell 4.7 W         800AM:  0.00/  0.0/    M
+MIBG03 : Three Lakes            800AM:  0.00/  0.0/    1
+MIMQ18 : Marquette 0.7 SSW      700AM:  0.00/  0.0/    M
+MIMQ19 : Ishpeming 7.2 SW       700AM:  0.00/  0.0/    0
+MIMQ24 : Wobic 0.5 ESE          700AM:     T/    M/    M
+MIMQ28 : Carlshend              800AM:  0.00/  0.0/    M
+MIMQ30 : Marquette 6.1 SSW      700AM:  0.00/  0.0/     
+MIMQ31 : Negaunee 5.3 NNE       700AM:  0.00/  0.0/    M
+MIMQ32 : Big Bay 9.0 SE         700AM:  0.00/  0.0/    0
+MIDC06 : Iron Mountain 1.1 W    700AM:  0.00/  0.0/    0
+MIAG08 : Au Train 7.8 NW        726AM:  0.00/  0.0/    M
+MIAG09 : Wetmore 12.7 S        1100AM:  0.00/  0.0/    M
+MIMM05 : Daggett 4.8 N          600AM:  0.00/  0.0/    M
+MIMM08 : Menominee 4.1 NW       600AM:  0.00/  0.0/    M
+MIDL01 : Garden Corners 0.8 NW  800AM:  0.00/  0.0/    0
+MISH01 : Manistique 2.7 NW      700AM:  0.00/  0.0/    0
+ 
+$$
+
+TAP
+

@@ -1,0 +1,51 @@
+FGUS53 KDLH 241510
+RVDDLH
+MNC001-017-035-061-097-115-WIC003-013-051-251510-
+
+
+DAILY RIVER AND LAKE SUMMARY 
+NATIONAL WEATHER SERVICE DULUTH MN
+1010 AM CDT Mon Apr 24 2023
+
+.B DLH 0424 DC042410 DH12/HG/DRD+1/HGIFF/DRD+2/HGIFF/
+.B1 DRD+3/HGIFF/DRD+4/HGIFF/DRD+5/HGIFF
+: 
+:  STATION         FLOOD   7AM  24-HR                7AM 
+: ID    NAME       STAGE  STAGE CHANGE            FORECASTS 
+:                                        Tue   Wed   Thu   Fri   Sat
+:
+:...Mississippi River Basin
+:
+:.Prairie River
+TACM5:near Taconite 10.0: 9.34/:-0.32:  8.9/  8.4/  8.1/  8.4/  8.7/
+:
+:.Mississippi River
+GNDM5:Grand Rapids     M: 6.95/:-0.39:    M/    M/    M/    M/    M/
+ATKM5:Aitkin        13.0:17.42/: 0.11: 17.5/ 17.5/ 17.5/ 17.4/ 17.2/
+BRAM5:Brainerd         M:15.38/: 0.15:    M/    M/    M/    M/    M/
+FTRM5:Fort Ripley   10.5:11.68/:-0.09: 11.7/ 11.7/ 11.7/ 11.7/ 11.7/
+:
+:...Saint Croix River Basin
+:.Snake River
+PNCM5:nr Pine City   9.0: 8.59/:-0.21:  8.3/  7.9/  7.4/  6.9/  6.3/
+:
+:.Saint Croix River
+DANW3:near Danbury   7.0: 4.89/:-0.17:  3.8/    M/    M/    M/    M/
+:
+:...Lake Superior Basin
+:
+:.Saint Louis River
+SCNM5:at Scanlon    10.5: 9.57/:-0.42:  9.0/  8.6/  8.4/  8.3/  8.3/
+:
+:.Tyler Forks River
+TYLW3:near Mellen    9.0: 7.03/:-0.96:  6.3/  5.9/  5.9/  6.0/  6.7/
+:
+:.Bad River
+ODAW3:near Odanah   16.0: 8.47/:-1.65:  8.2/  7.3/  6.9/  6.7/  7.1/
+BDOW3:at Odanah      8.5: 5.95/:-1.53:  5.5/  4.9/  4.6/  4.3/  4.0/
+:
+.End
+
+
+$$
+

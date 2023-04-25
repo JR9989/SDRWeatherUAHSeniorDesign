@@ -1,0 +1,1477 @@
+FOUS52 KGSP 241445 AAA
+PFMGSP
+
+Point Forecast Matrices
+National Weather Service Greenville-Spartanburg SC
+1045 AM EDT Mon Apr 24 2023
+
+SCZ010-242100-
+Anderson County Airport-Anderson SC
+34.49N  82.71W Elev. 782 ft
+1045 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      70          43          69          50          61
+Temp                60 65 69 63 53 48 45 45 58 66 69 64 56 54 52 51 57 60 61 59
+Dewpt               33 31 32 34 35 32 31 32 35 34 35 39 42 42 44 46 48 48 49 49
+RH                  36 28 25 34 50 54 58 60 42 30 28 40 59 64 74 83 72 64 65 69
+Wind dir            NE  W SW SW NE NE NE NE  E  E  E  E NE NE NE NE NE NE NE NE
+Wind spd             8  3  6  4  5  9 11 13 12  6  5  5  5  6  6  6 10 10 10 10
+Clouds              FW FW FW CL FW FW SC FW SC SC SC B1 B2 B2 B2 OV OV OV B2 B2
+PoP 12hr                      0           0           5          30          50
+QPF 12hr                      0           0           0        0.01        0.04
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                                                        
+Rain                                                           S  C  C  C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          51    69      56    72      54    74      53    69
+Temp          53 52 67 66   59 56 68 68   59 55 72 70   59 54 67 64
+Dewpt         49 51 48 50   52 55 56 54   54 55 54 54   53 53 46 43
+PWind dir        NE     E       E    SE       N    SE      SE    SW
+Wind char        GN    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B1 B1 B1 B1   B1 B2 B2 B1   SC B1 B1 SC   SC B1 B1 SC
+PoP 12hr         30    40      60    60      40    30      30    30
+Rain           C  S                                                
+Rain shwrs        S  C  C    L  L  L  C    C  S  S  C    C  C  S  C
+Tstms                                 S                            
+
+$$
+NCZ053-242100-
+Asheville-Buncombe NC
+35.60N  82.55W Elev. 2134 ft
+1045 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      61          33          65          42          56
+Temp                49 58 61 55 45 39 35 35 54 63 64 59 50 45 43 43 51 55 56 54
+Dewpt               28 22 21 23 28 27 26 27 32 27 29 34 37 37 39 41 43 46 46 45
+RH                  44 25 21 29 51 62 69 72 43 25 27 39 61 73 86 93 74 72 69 71
+Wind dir            NW NW  N  N  N NW NW  N  W  N  S SE SW  S  S NW SE NE  E  N
+Wind spd            11 10 12 10  8  6  4  2  3  4  6  6  3  3  3  3  5  6  9  6
+Clouds              CL CL CL CL CL FW FW FW SC B1 SC B1 B1 B1 B1 B2 OV OV OV B2
+PoP 12hr                      0           0           0          30          60
+QPF 12hr                      0           0           0           0        0.08
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                           S  C  C  C  L  C
+Wind chill                         34 31                                       
+Min chill                          33    29                                    
+Frost                               Y  Y  Y                                    
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          43    65      49    66      48    70      47    64
+Temp          46 44 64 62   54 50 63 62   53 49 69 65   54 48 62 59
+Dewpt         45 44 43 45   48 49 51 50   49 49 50 50   49 47 43 39
+PWind dir         E    SE      SE     E      NE    SE      SE     W
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B1 B1 B1 B1   B1 B2 B2 B2   B1 B1 B1 B1   B1 B1 B1 SC
+PoP 12hr         30    40      60    60      40    40      40    40
+Rain           C  S                                                
+Rain shwrs        S  C  C    L  L  L  L    C  S  C  C    C  C  C  C
+Tstms                                 S                           S
+
+$$
+NCZ053-242100-
+Asheville Regional Airport-Buncombe NC
+35.44N  82.55W Elev. 2165 ft
+1045 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      62          34          64          42          55
+Temp                49 59 62 55 46 40 35 36 52 61 64 57 48 44 43 43 50 54 55 53
+Dewpt               27 23 23 23 28 27 26 27 32 29 32 34 37 37 39 41 44 47 47 46
+RH                  42 25 22 29 49 59 69 69 46 29 30 42 65 76 86 93 80 77 74 77
+Wind dir             N  N  N  N  N NW  N  N  E  N  S SE SW  E  W  N  E NE  E  N
+Wind spd            11  9 11 11  9  8  5  4  4  5  8  6  1  2  1  1  5  6  8  6
+Clouds              CL CL FW FW CL FW FW FW SC SC SC B1 B1 B1 B1 B2 OV OV OV B2
+PoP 12hr                      0           0           5          30          60
+QPF 12hr                      0           0           0           0        0.09
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                           S  C  C  C  L  C
+Wind chill                         34 30                                       
+Min chill                          34    29                                    
+Frost                               Y  Y  Y                                    
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          42    63      49    65      47    70      46    64
+Temp          44 43 62 61   53 49 62 61   51 50 68 65   53 47 62 59
+Dewpt         44 43 45 45   48 49 52 50   49 50 51 50   49 47 44 39
+PWind dir        NE     E      SE     E      NE    SE      SE    SW
+Wind char        LT    GN      LT    GN      LT    GN      GN    BZ
+Avg clouds    B1 B1 B1 B1   B1 B2 B2 B2   B1 B1 B1 B1   B1 B1 B1 SC
+PoP 12hr         30    40      60    60      40    40      40    40
+Rain           C  S                                                
+Rain shwrs        S  C  C    L  L  L  L    C  C  C  C    C  C  C  C
+Tstms                                 S                           S
+
+$$
+NCZ059-242100-
+Balsam Gap-Jackson NC
+35.43N  83.08W Elev. 3400 ft
+1045 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      55          31          58          43          51
+Temp                46 53 55 46 38 33 31 36 50 57 57 52 46 44 44 45 48 50 51 49
+Dewpt               28 22 21 24 26 23 23 24 32 26 30 35 35 34 37 39 42 46 46 44
+RH                  49 29 26 42 62 66 72 61 50 30 35 52 65 68 76 79 80 86 83 83
+Wind dir             N NW  N  N NE NE NE NE  W NW SE SE SW  S  S SW  E NE  E  E
+Wind spd             5  6  6  8  6  6  4  4  4  4  5  5  4  4  3  4  6  8  6  6
+Clouds              CL CL CL CL CL FW FW FW SC B1 B1 B1 B1 B1 B2 B2 OV OV OV B2
+PoP 12hr                      0           0           5          30          60
+QPF 12hr                      0           0           0        0.01        0.17
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                        S  C  C  C  L  L  C
+Wind chill                      32 27 27                                       
+Min chill                          26    26                                    
+Freeze                              W  W  W                                    
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          45    59      51    61      49    64      46    55
+Temp          45 46 59 56   51 52 58 57   50 51 64 60   51 47 55 50
+Dewpt         43 42 45 45   45 47 51 50   47 47 48 48   46 44 41 38
+PWind dir         E    SE      SE     S      SE     S       S    SW
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B1 B1 B1 B1   B2 B2 B2 B1   B1 B1 B1 SC   B1 B2 B1 SC
+PoP 12hr         30    50      60    60      50    50      40    40
+Rain           C  S                                                
+Rain shwrs        S  C  C    L  L  L  L    C  C  C  C    C  C  C  C
+Tstms                                 S             S              
+
+$$
+NCZ033-242100-
+Beech Mountain-Avery NC
+36.19N  81.89W Elev. 4200 ft
+1045 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      44          28          49          37          43
+Temp                32 41 44 38 33 29 28 33 42 47 49 42 38 37 37 40 43 43 43 42
+Dewpt               22 15 15 18 20 19 19 17 21 17 22 26 28 28 31 33 35 38 40 38
+RH                  66 34 30 44 58 66 68 51 43 30 34 53 67 70 79 76 73 82 89 86
+Wind dir            NW NW NW NW  N  N NW  N SW NW SE SW  S  S  S  S  S  W  E  W
+Wind spd            11 11 12 11  9  9  6  6  5  5  4  6  8  8  8  6 10 10  9  9
+Clouds              CL CL CL CL CL CL FW FW SC B1 B1 B1 B1 B2 B1 B2 OV OV OV B2
+PoP 12hr                      0           0           0          30          60
+QPF 12hr                      0           0           0           0        0.12
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                           S  C  C  C  L  C
+Wind chill          23 34    30 25 21 21 26             32 31 31               
+Min chill              19    30    21    20    31          31    30            
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          38    50      44    49      43    54      41    48
+Temp          38 41 48 48   46 46 46 47   45 45 51 50   46 45 44 42
+Dewpt         37 38 37 38   40 42 44 43   42 42 44 44   43 41 39 35
+PWind dir        SE    SE      SE    SE      SE     S       S     W
+Wind char        GN    GN      GN    BZ      GN    GN      BZ    BZ
+Avg clouds    B1 B1 B1 B1   B1 B2 B2 B1   B1 B1 B1 B1   B1 B2 B2 B1
+PoP 12hr         30    50      60    70      60    50      50    50
+Rain           C  S                                                
+Rain shwrs        S  C  C    L  L  L  L    L  C  C  C    C  C  C  C
+Tstms                                 S                           S
+
+$$
+NCZ051-242100-
+Bryson City-Swain NC
+35.43N  83.45W Elev. 1736 ft
+1045 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      61          32          66          45          56
+Temp                50 58 60 50 41 36 33 34 53 63 65 59 51 48 47 46 52 55 56 54
+Dewpt               29 24 24 27 28 28 26 28 36 30 32 37 38 39 41 43 45 48 47 48
+RH                  44 27 25 41 59 72 75 78 52 29 29 44 61 71 79 89 77 77 72 80
+Wind dir            NW  W NW  N NE NE NE  E NW  W SW NE  S SE  S  S SE SW  E SE
+Wind spd             4  6  8  8  4  3  3  3  2  3  3  5  3  3  3  3  4  4  4  5
+Clouds              FW FW CL CL CL FW FW SC B1 SC SC B2 B1 B1 B2 OV OV OV B2 B2
+PoP 12hr                      0           0           5          30          60
+QPF 12hr                      0           0           0        0.01        0.13
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                        S  C  C  C  C  L  C
+Freeze                              W  W  W                                    
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          45    66      52    68      49    72      46    61
+Temp          49 47 66 62   55 52 65 63   53 51 70 66   54 47 59 55
+Dewpt         47 47 46 47   48 51 53 53   50 50 50 51   49 47 43 40
+PWind dir         E    SE      SE     S       S     S       S     W
+Wind char        LT    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B2 B1 B1 B1   B2 B2 B2 B1   B1 B1 B1 SC   B1 B2 B1 B1
+PoP 12hr         30    50      60    60      50    50      40    40
+Rain           C  S                                                
+Rain shwrs        S  C  C    L  L  L  L    C  C  C  C    C  C  C  C
+Tstms                        S        S             S    S         
+
+$$
+SCZ103-242100-
+Caesars Head-Greenville SC
+35.11N  82.63W Elev. 3266 ft
+1045 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      61          38          60          45          52
+Temp                49 58 61 53 46 42 39 40 52 58 60 54 48 46 46 46 49 51 52 50
+Dewpt               29 28 25 24 26 25 25 25 30 30 31 36 36 36 39 41 43 47 46 46
+RH                  46 32 25 32 45 50 57 55 43 34 33 50 63 68 76 83 80 86 80 86
+Wind dir             N  S  S  N  N  N  N  N  E  N SE SE NE  E  E NE NE NE NE  N
+Wind spd             6  5  5  9 11 12 10  9  6  6  6  5  4  5  5  5  8  8  9  9
+Wind gust                    19 25                                             
+Clouds              FW FW FW FW FW FW FW FW FW SC SC B1 B1 B1 B2 B2 OV OV OV B2
+PoP 12hr                      0           0           5          30          60
+QPF 12hr                      0           0           0        0.02        0.14
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                        S  S  C  C  C  L  C
+Wind chill                            32 34                                    
+Min chill                          34    30                                    
+Frost                               Y  Y  Y                                    
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          45    60      51    63      49    66      49    62
+Temp          47 46 59 58   53 51 59 59   52 51 64 62   53 50 59 56
+Dewpt         44 44 45 46   47 48 52 51   48 48 52 51   48 48 44 39
+PWind dir        NE     E       E     E       N    SE      SE    SW
+Wind char        GN    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B1 B1 B1 B1   B1 B2 B2 B1   B1 B1 B1 B1   B1 B1 B1 SC
+PoP 12hr         30    50      60    60      40    40      40    30
+Rain           C  C                                                
+Rain shwrs        S  C  C    L  L  L  L    C  C  C  C    C  C  C  C
+Tstms                                 S                            
+
+$$
+NCZ071-242100-
+Charlotte-Douglas International Airport-Mecklenburg NC
+35.21N  80.94W Elev. 748 ft
+1045 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      68          42          69          50          62
+Temp                58 65 68 63 55 49 44 45 58 66 69 63 57 53 50 51 58 61 62 59
+Dewpt               33 31 31 31 33 31 29 30 32 30 32 34 38 39 43 44 46 46 47 46
+RH                  39 28 25 30 43 50 55 55 37 26 25 34 49 59 77 77 64 58 58 62
+Wind dir             N NW  W NW  N  N NE NE NE NE  N NE  E NE NE NE NE NE NE NE
+Wind spd             9  4  5  3  4 10  9 10 10  5  5  5  5  5  4  4  5  6  8 10
+Wind gust                                20                                    
+Clouds              SC FW SC SC FW FW FW FW FW SC B1 B1 B1 B1 B1 B2 OV B2 B2 B2
+PoP 12hr                      0           0           0          20          50
+QPF 12hr                      0           0           0           0        0.03
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                           S  S  C  C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          51    70      56    69      55    73      56    71
+Temp          53 52 68 67   59 56 65 66   60 56 70 70   60 57 68 66
+Dewpt         49 50 46 48   49 52 54 54   55 54 54 53   54 54 50 45
+PWind dir        NE    NE       E     E      NE     E      SE    SW
+Wind char        GN    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B1 B1 B1 B1   B1 B2 B2 B2   B1 B2 B1 SC   B1 B1 B1 SC
+PoP 12hr         30    30      60    60      50    30      40    30
+Rain           C  C                                                
+Rain shwrs        S  S  C    C  L  L  C    C  C  C  C    C  C  C  C
+Tstms                                 S                           S
+
+$$
+SCZ014-242100-
+Chester-Chester SC
+34.70N  81.21W Elev. 549 ft
+1045 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      68          44          69          49          63
+Temp                55 65 68 60 52 49 45 46 59 68 69 60 54 52 49 50 58 62 63 57
+Dewpt               35 33 31 34 38 34 31 31 35 34 36 41 41 42 46 47 49 49 50 51
+RH                  47 30 25 37 59 56 58 55 40 28 30 49 61 69 89 89 72 62 62 80
+Wind dir            NE  N NW  N  N  N NE NE NE NE NE NE NE NE NE NE NE NE NE NE
+Wind spd             8  4  4  2  3  8  9 10  9  5  4  4  4  4  4  4  6  8  8  9
+Wind gust                                20                                    
+Clouds              SC FW SC FW CL CL FW FW FW SC SC B1 B1 B1 B2 B2 OV B2 B2 B2
+PoP 12hr                      0           0           0          20          50
+QPF 12hr                      0           0           0           0        0.03
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                           S  C  C  C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          48    70      54    70      53    75      54    70
+Temp          51 49 69 65   57 55 68 66   57 55 71 69   59 55 69 65
+Dewpt         51 49 49 52   52 54 57 58   57 55 56 56   55 55 50 47
+PWind dir        NE    NE       E    SE      NE    NE      SE    SW
+Wind char        GN    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B2 B1 B1 B1   B1 B2 B2 B1   B1 B1 B1 SC   SC B1 SC SC
+PoP 12hr         30    30      60    60      40    30      30    30
+Rain           C  S                                                
+Rain shwrs        S  S  C    C  L  L  C    C  C  S  C    C  C  C  C
+Tstms                                 S                            
+
+$$
+NCZ507-242100-
+Chimney Rock-Rutherford NC
+35.44N  82.25W Elev. 1040 ft
+1045 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      62          37          62          45          54
+Temp                51 59 61 54 45 41 37 39 51 58 62 55 48 45 45 46 49 53 54 52
+Dewpt               27 19 21 23 28 27 27 27 30 29 31 36 37 36 39 41 43 46 46 47
+RH                  39 21 21 30 51 57 67 62 44 33 31 49 65 70 79 83 80 77 74 83
+Wind dir            NW NW NW NW NW NW NW NE  E  N SE SE NE  N  N  N NE NE NE  N
+Wind spd             8  8  9 10  9  6  4  4  5  5  6  5  3  3  3  3  5  6  8  8
+Clouds              CL CL FW FW FW FW FW FW FW SC SC B1 B1 B1 B1 B2 B2 OV OV B2
+PoP 12hr                      0           0           0          30          60
+QPF 12hr                      0           0           0           0        0.13
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                           S  C  C  C  L  C
+Wind chill                            33                                       
+Min chill                          34    31                                    
+Frost                               Y  Y  Y                                    
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          45    61      51    63      49    66      49    63
+Temp          46 46 60 60   53 51 60 59   53 51 64 63   54 51 60 58
+Dewpt         45 45 43 46   47 49 51 51   49 50 50 52   49 49 44 41
+PWind dir         N     E       E     E       N    SE      SE    SW
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B1 B1 B1 B1   B1 B2 B2 B2   B1 B1 B1 B1   B1 B1 B1 SC
+PoP 12hr         30    40      60    60      50    40      40    40
+Rain           C  C                                                
+Rain shwrs        S  C  C    L  L  L  L    C  C  C  C    C  C  C  C
+Tstms                                 S                           S
+
+$$
+GAZ010-242100-
+Clayton-Rabun GA
+34.88N  83.40W Elev. 1925 ft
+1045 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      66          38          65          47          56
+Temp                54 64 66 57 46 41 38 40 56 63 65 58 51 49 47 47 52 54 56 53
+Dewpt               29 24 25 27 29 28 28 30 34 33 34 37 39 39 41 43 46 49 49 48
+RH                  38 22 21 31 51 59 67 67 43 32 31 45 63 68 79 86 80 83 77 83
+Wind dir             N  W  W  N  N  N  N NE  E SE SE  E NE NE  E NE  E  E  E NE
+Wind spd             4  5  6  6  8  8  6  4  8  6  6  5  4  4  5  4  9  8  8  9
+Wind gust                    17 19                                             
+Clouds              FW CL CL CL FW FW FW FW SC SC SC B1 B1 B2 B2 OV B2 OV OV B2
+PoP 12hr                      0           0           5          40          60
+QPF 12hr                      0           0           0        0.03        0.13
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                        S  C  C  C  C  L  C
+Wind chill                            34                                       
+Min chill                          34    32                                    
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          47    65      52    67      49    71      47    63
+Temp          49 48 64 62   53 52 64 62   52 52 70 66   53 48 62 57
+Dewpt         48 48 47 47   50 52 54 52   50 51 52 51   50 48 43 40
+PWind dir        NE     E       E     S       N     S      SE     W
+Wind char        LT    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B2 B1 B1 B1   B1 B2 B2 B1   SC B1 B1 SC   B1 B1 B1 SC
+PoP 12hr         30    50      70    60      40    40      40    30
+Rain           C  S                                                
+Rain shwrs        S  C  C    L  L  L  L    C  C  C  C    C  C  C  C
+Tstms                   S    S        S             S    S         
+
+$$
+SCZ105-242100-
+Clemson-Pickens SC
+34.68N  82.84W Elev. 758 ft
+1045 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      70          44          69          51          60
+Temp                59 66 70 63 53 47 44 45 58 66 69 63 56 53 51 51 55 58 60 57
+Dewpt               36 31 31 33 34 33 31 32 35 35 36 40 42 42 44 45 48 49 49 49
+RH                  42 27 23 32 48 58 60 60 42 32 30 43 59 66 77 80 77 72 67 75
+Wind dir            NE SW SW  W NE NE NE NE  E  E  E  E NE NE NE NE NE NE NE NE
+Wind spd             4  4  5  4  4  5  8 10 10  6  4  4  4  5  5  5  9  9 10 10
+Clouds              FW FW CL FW FW SC FW FW SC SC SC B1 B1 B2 B2 OV OV B2 OV B2
+PoP 12hr                      0           0           5          30          50
+QPF 12hr                      0           0           0        0.02        0.04
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                                                        
+Rain                                                        S  S  C  C  C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          49    68      54    71      53    74      52    69
+Temp          51 50 67 66   57 55 67 67   56 53 71 70   58 53 67 63
+Dewpt         50 50 49 50   52 54 57 54   53 53 56 54   54 53 46 43
+PWind dir        NE     E       E    SE       N    SE      SE    SW
+Wind char        GN    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B2 B1 B1 B1   B1 B2 B2 B1   SC B1 B1 SC   SC B1 B1 SC
+PoP 12hr         30    40      60    60      40    30      30    30
+Rain           C  S                                                
+Rain shwrs        S  C  C    L  L  L  C    C  S  S  C    C  C  C  C
+Tstms                                 S                            
+
+$$
+NCZ072-242100-
+Concord-Cabarrus NC
+35.41N  80.58W Elev. 704 ft
+1045 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      67          40          67          47          63
+Temp                56 64 66 60 50 45 41 42 57 65 67 62 53 49 48 49 59 63 63 59
+Dewpt               35 33 31 32 36 32 30 31 34 33 34 39 40 39 43 45 47 48 49 50
+RH                  45 31 27 35 58 60 65 65 42 30 29 43 61 68 83 86 64 58 60 72
+Wind dir             N NW NW  N  N  N  N NE NE NE  N NE  N  N  W  N  E  N NE NE
+Wind spd             9  4  5  3  4  9  9 10  8  5  4  3  3  3  3  3  5  5  6  8
+Clouds              FW FW FW FW FW FW FW FW FW SC SC B1 SC B1 B1 B2 B2 OV OV B2
+PoP 12hr                      0           0           0          20          50
+QPF 12hr                      0           0           0           0        0.03
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                              S  C  C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          48    68      54    67      53    73      54    69
+Temp          50 50 67 65   57 54 64 64   57 54 69 68   58 55 69 63
+Dewpt         50 50 48 51   51 52 55 56   55 54 56 56   55 54 54 49
+PWind dir        NE    NE       E     E      NE     E      SE    SW
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B2 B1 B1 B1   B1 B2 B2 B2   B2 B2 B1 B1   B1 B1 B1 SC
+PoP 12hr         30    30      60    60      50    30      40    40
+Rain           C  C                                                
+Rain shwrs        S  S  C    C  L  L  L    C  C  C  C    C  C  C  C
+Tstms                                 S                           S
+
+$$
+NCZ062-242100-
+Franklin-Macon NC
+35.18N  83.38W Elev. 2113 ft
+1045 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      64          31          66          43          56
+Temp                53 61 64 54 41 35 31 33 53 64 66 58 49 46 44 44 51 55 56 54
+Dewpt               29 23 22 26 29 28 27 28 35 29 32 35 38 38 40 43 44 48 47 47
+RH                  39 23 20 34 62 75 85 82 50 27 28 42 66 73 86 96 77 77 72 77
+Wind dir            NW NW NW NW  N NW  N NW  E SW  S NE NE  E SE  E  E SW  E  E
+Wind spd             4  6  9  8  3  2  0  0  2  4  6  5  3  2  2  2  4  5  6  8
+Clouds              FW CL CL CL CL FW FW FW SC SC SC B1 B1 B1 B2 OV OV OV OV B2
+PoP 12hr                      0           0           5          30          60
+QPF 12hr                      0           0           0        0.01        0.10
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                        S  C  C  C  C  L  C
+Freeze                              W  W  W                                    
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          43    65      49    68      47    72      45    62
+Temp          46 44 65 62   53 50 65 64   51 50 71 66   53 46 61 57
+Dewpt         46 44 45 46   48 50 52 51   50 50 49 50   49 46 41 39
+PWind dir         E    SE      SE     S      NE     S       S     W
+Wind char        LT    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B2 B1 B1 B1   B1 B2 B2 B1   B1 B1 SC SC   B1 B1 B1 SC
+PoP 12hr         30    50      60    60      40    40      40    30
+Rain           C  S                                                
+Rain shwrs        S  C  C    L  L  L  L    C  C  C  C    C  C  C  C
+Tstms                        S        S             S    S         
+
+$$
+NCZ033-242100-
+Grandfather Mountain-Avery NC
+36.11N  81.81W Elev. 5964 ft
+1045 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      49          30          52          39          46
+Temp                38 47 49 42 35 32 30 35 45 50 52 46 41 39 40 42 46 46 46 45
+Dewpt               21 16 16 18 23 22 21 21 24 25 27 29 31 31 33 36 37 41 43 41
+RH                  50 28 26 37 61 66 69 56 43 37 38 51 67 73 76 79 71 83 89 86
+Wind dir            NW NW NW NW NW NW NW NW SW  W SE  S  S  S  S  S SE  W SE  W
+Wind spd            10 10 11 11 10 10  8  6  5  5  6  5  5  5  4  5  9 10  8  8
+Wind gust                       20                                             
+Clouds              CL CL CL CL CL FW FW FW SC B1 B1 B1 B1 B1 B1 B2 B2 OV OV B2
+PoP 12hr                      0           0           0          30          60
+QPF 12hr                      0           0           0           0        0.14
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                           S  C  C  C  L  C
+Wind chill          31          27 23 23 28                                    
+Min chill              26          23    23    33                              
+Freeze                              W  W  W                                    
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          41    52      46    53      45    57      45    52
+Temp          41 44 51 50   46 48 50 50   46 48 54 53   49 46 50 47
+Dewpt         40 41 40 40   43 45 48 46   44 45 48 46   45 44 41 37
+PWind dir        NE    SE      SE    SE      NE    SE       S     W
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B1 B1 B1 B1   B1 B2 B2 B2   B1 B1 B1 B1   B2 B1 B1 B1
+PoP 12hr         30    50      60    70      60    50      50    50
+Rain           C  C                                                
+Rain shwrs        C  C  C    L  L  L  L    L  C  C  C    C  C  C  C
+Tstms                                 S                           S
+
+$$
+SCZ106-242100-
+Greenville Downtown Airport-Greenville SC
+34.85N  82.35W Elev. 1048 ft
+1045 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      69          45          69          52          60
+Temp                58 66 69 64 57 51 47 47 57 65 69 63 59 56 53 52 56 58 60 59
+Dewpt               30 28 29 30 29 28 29 29 31 31 32 35 38 39 42 43 45 46 46 46
+RH                  34 24 22 28 34 41 49 49 37 28 25 35 45 53 66 71 66 64 60 62
+Wind dir            NE  W SW  N  N NE NE NE NE  E  E  E NE NE NE NE NE NE NE NE
+Wind spd             8  3  5  4  9 10 11 13 11  6  5  5  6  5  6  8 10  9 10 10
+Clouds              FW FW FW FW FW FW SC SC FW SC SC B1 B1 B1 B2 OV OV OV B2 B2
+PoP 12hr                      0           0           0          30          50
+QPF 12hr                      0           0           0        0.01        0.04
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                                                        
+Rain                                                           S  C  C  C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          52    68      57    70      57    73      56    69
+Temp          54 52 66 67   61 57 66 68   61 57 70 71   61 56 67 66
+Dewpt         47 49 46 46   50 52 54 52   52 52 53 51   52 52 45 40
+PWind dir        NE    NE       E    SE       N    SE      SE    SW
+Wind char        GN    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B1 B1 B1 B1   B1 B2 B2 B1   SC B1 B1 SC   SC B1 SC SC
+PoP 12hr         30    40      60    60      40    30      30    30
+Rain           C  S                                                
+Rain shwrs        S  S  C    L  L  L  C    C  C  S  C    C  C  C  C
+Tstms                                 S                            
+
+$$
+SCZ108-242100-
+Greenville-Spartanburg Airport-Spartanburg SC
+34.90N  82.22W Elev. 964 ft
+1045 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      68          42          69          48          60
+Temp                57 64 68 62 53 48 44 45 58 65 69 62 55 51 49 49 55 58 60 57
+Dewpt               32 29 30 31 29 28 28 30 31 30 32 36 37 38 41 42 44 45 46 47
+RH                  38 27 24 31 39 46 53 55 36 27 25 38 51 61 74 77 66 62 60 69
+Wind dir            NE  W SW  N  N  N NE NE NE NE  E  E NE NE NE NE NE NE NE NE
+Wind spd             8  3  5  4  6  8  9 10 10  6  5  4  5  5  5  5  9  9 10 10
+Clouds              FW FW FW FW FW FW FW FW FW SC SC B1 B1 B1 B2 OV OV OV B2 B2
+PoP 12hr                      0           0           0          30          50
+QPF 12hr                      0           0           0        0.01        0.04
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                           S  C  C  C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          48    67      54    70      53    73      53    69
+Temp          51 50 65 64   57 54 65 65   57 55 70 68   58 54 66 63
+Dewpt         47 48 45 47   49 52 52 53   52 52 52 52   51 52 44 40
+PWind dir        NE    NE       E     E       N     E      SE    SW
+Wind char        GN    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B1 B1 B1 B1   B1 B2 B2 B1   B1 B1 B1 SC   B1 B1 SC SC
+PoP 12hr         30    40      60    60      40    30      30    30
+Rain           C  S                                                
+Rain shwrs        S  S  C    L  L  L  C    C  C  S  C    C  C  C  C
+Tstms                                 S                            
+
+$$
+SCZ019-242100-
+Greenwood Airport-Greenwood SC
+34.25N  82.16W Elev. 631 ft
+1045 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      69          44          69          50          64
+Temp                58 66 69 62 52 48 45 45 58 68 69 62 56 53 51 51 59 63 64 57
+Dewpt               34 33 33 37 39 34 31 31 36 36 37 43 44 44 47 48 51 52 52 53
+RH                  40 29 26 39 61 58 58 58 44 31 31 50 64 71 86 89 75 67 65 86
+Wind dir            NE NW  W  W NE NE NE NE NE NE  E  E NE NE NE NE NE NE NE NE
+Wind spd             8  3  4  2  2  8  9 12 10  6  5  4  4  5  5  5  9  9 10 10
+Clouds              SC FW FW CL CL FW FW SC SC SC SC B1 B2 B2 B2 B2 OV B2 B2 B2
+PoP 12hr                      5           0           0          30          50
+QPF 12hr                      0           0           0           0        0.04
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                           S  C  C  C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          48    70      55    72      53    76      53    69
+Temp          50 49 69 66   59 56 69 67   57 55 73 69   59 54 67 63
+Dewpt         50 49 50 53   53 56 59 58   56 55 56 57   54 54 49 46
+PWind dir        NE    NE       E     S       N    NW      SE    SW
+Wind char        GN    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B1 B1 B1 B1   B1 B2 B2 B1   SC SC B1 SC   SC B1 SC SC
+PoP 12hr         30    40      60    60      40    30      30    20
+Rain           C  S                                                
+Rain shwrs        S  S  C    C  L  L  C    C  S  S  C    C  C  S  S
+Tstms                        S        S                            
+
+$$
+NCZ056-242100-
+Hickory Regional Airport-Burke NC
+35.76N  81.38W Elev. 1189 ft
+1045 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      66          39          66          45          60
+Temp                54 63 66 60 50 44 40 42 55 63 66 60 53 48 46 46 56 59 60 57
+Dewpt               30 26 22 22 28 27 27 29 31 29 30 32 35 37 39 41 43 45 45 45
+RH                  40 24 18 23 42 51 59 60 40 27 26 35 50 65 76 83 62 60 58 64
+Wind dir             N  W  W  N  N  N  N NE NE NE  E  E NE  N  N  N NE SW NE  N
+Wind spd             5  5  6  5  5  4  5  6  6  4  4  4  2  2  2  2  4  5  5  5
+Clouds              CL CL FW CL CL FW FW FW SC B1 B1 B1 SC B1 B1 B2 B2 OV OV B2
+PoP 12hr                      0           0           0          20          50
+QPF 12hr                      0           0           0           0        0.05
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                           S  C  C  C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          48    66      52    65      52    70      52    68
+Temp          50 48 65 63   56 53 62 63   56 53 67 67   58 53 66 63
+Dewpt         46 48 45 46   48 50 53 51   51 51 52 51   50 51 47 42
+PWind dir         N     E       E     E      NE     E      SE    SW
+Wind char        LT    GN      LT    GN      GN    GN      GN    BZ
+Avg clouds    B1 B1 B1 B1   B1 B2 B2 B2   B1 B2 B1 B1   B1 B1 B1 SC
+PoP 12hr         30    40      60    60      50    40      40    40
+Rain           C  C                                                
+Rain shwrs        S  C  C    C  L  L  L    C  C  C  C    C  C  C  C
+Tstms                                 S                           S
+
+$$
+NCZ062-242100-
+Highlands-Macon NC
+35.05N  83.20W Elev. 3835 ft
+1045 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      59          34          59          43          50
+Temp                49 57 58 47 39 36 34 39 51 58 58 49 44 43 43 44 47 49 49 46
+Dewpt               26 19 19 22 23 23 23 24 29 29 30 32 33 34 36 38 41 45 44 44
+RH                  40 22 22 37 52 59 64 54 42 33 34 52 65 70 76 79 79 86 83 93
+Wind dir            NW  W NW NW  N  N NE  E  E  W  S SE  E  E SE  E  E  E  E NE
+Wind spd             5  6  6  6  6  6  4  4  5  6  6  6  5  5  6  5  8  9  9  9
+Clouds              CL FW CL CL FW FW FW FW SC SC SC B1 B1 B2 B2 B2 OV OV OV B2
+PoP 12hr                      0           0           5          40          60
+QPF 12hr                      0           0           0        0.03        0.19
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                        S  C  C  C  C  L  C
+Wind chill                      34 30 30                                       
+Min chill                          30    29                                    
+Freeze                              W  W  W                                    
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          44    59      49    62      47    65      45    57
+Temp          44 46 59 53   50 50 59 55   49 51 64 57   50 47 57 48
+Dewpt         43 42 42 42   44 46 49 48   44 45 48 47   45 44 39 35
+PWind dir        NE    SE      SE     S       N     S       S     W
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B2 B1 B1 B1   B1 B2 B2 B1   B1 B1 B1 SC   B1 B1 B1 SC
+PoP 12hr         30    50      70    70      50    40      40    40
+Rain           C  C                                                
+Rain shwrs        S  C  C    L  L  L  L    C  C  C  C    C  C  C  C
+Tstms                                 S             S    S         
+
+$$
+NCZ048-242100-
+Hot Springs-Madison NC
+35.89N  82.83W Elev. 1334 ft
+1045 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      56          32          62          43          54
+Temp                48 53 56 49 41 37 32 35 51 60 62 55 49 46 44 44 51 53 54 52
+Dewpt               29 22 21 24 25 24 24 25 29 24 25 29 32 34 37 39 42 43 44 43
+RH                  47 29 25 37 52 59 72 66 42 25 24 37 52 63 76 82 71 69 69 71
+Wind dir            NW NW NW  N  N  N NE  E  W NW  S SW  S  S  S  S SE NE  E  E
+Wind spd             9  9 10  8  5  4  3  3  3  4  4  4  5  5  5  5  6  6  8  6
+Clouds              FW CL CL CL CL CL FW FW SC B1 SC B1 B1 B1 B2 OV OV OV B2 B1
+PoP 12hr                      0           0           0          30          60
+QPF 12hr                      0           0           0        0.01        0.10
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                           S  C  C  C  L  C
+Wind chill                         33                                          
+Min chill                          31    28                                    
+Freeze                              W  W  W                                    
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          44    64      51    64      49    69      47    59
+Temp          46 45 63 60   54 51 62 60   53 50 68 63   53 48 57 54
+Dewpt         43 44 41 42   45 48 49 48   47 47 48 48   46 45 41 37
+PWind dir        SE    SE      SE     S      SE     S       S     W
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B1 B1 B1 B1   B1 B2 B2 B1   B1 B1 SC SC   B1 B2 B1 B1
+PoP 12hr         30    50      60    60      50    50      40    40
+Rain           C  S                                                
+Rain shwrs        S  C  C    L  L  L  L    C  C  C  C    C  C  C  C
+Tstms                                 S             S             S
+
+$$
+NCZ049-242100-
+Mount Mitchell-Yancey NC
+35.75N  82.27W Elev. 6684 ft
+1045 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      44          28          47          35          41
+Temp                33 42 43 35 31 29 28 32 40 46 46 40 35 35 36 38 40 41 40 38
+Dewpt               16 12 13 16 19 18 18 17 20 20 23 26 27 28 31 33 34 38 39 38
+RH                  49 29 29 45 61 63 66 53 44 35 40 57 72 75 82 82 79 89 96100
+Wind dir            NW NW NW NW NW  W  W  W SW NW SE  S  S  S  S  S SE  W  E  E
+Wind spd            10 10 12 12 10  8  8  5  5  5  6  6  6  6  5  5 10 11 11  9
+Clouds              CL CL CL CL CL FW FW FW SC B1 B1 B1 B1 B1 B2 B2 B2 OV OV B2
+PoP 12hr                      0           0           5          30          60
+QPF 12hr                      0           0           0        0.01        0.23
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                           S  C  C  L  L  C
+Wind chill          25       26 22 22 20 26          34 30 29 30 34 33 34 33 32
+Min chill              19    26    20    20    31    34    29    29    33    32
+Freeze                              W  W  W                                    
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          36    47      41    48      40    53      40    47
+Temp          36 39 46 44   43 44 45 44   42 44 52 46   44 43 44 41
+Dewpt         36 37 36 37   39 41 43 42   40 42 43 43   41 40 36 32
+PWind dir        NE    SE      SE     S       W     S      SW     W
+Wind char        GN    GN      GN    GN      GN    GN      BZ    BZ
+Avg clouds    B1 B1 B1 B1   B1 B2 B2 B2   B1 B1 B1 B1   B1 B1 B1 SC
+PoP 12hr         30    50      60    70      60    50      50    50
+Rain           C  C                                                
+Rain shwrs        C  C  C    L  L  L  L    L  C  C  C    C  C  C  C
+Tstms                                 S                           S
+
+$$
+NCZ053-242100-
+Mount Pisgah-Buncombe NC
+35.43N  82.75W Elev. 5450 ft
+1045 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      49          31          49          39          42
+Temp                34 47 47 39 35 32 31 36 45 49 47 43 40 39 40 42 42 42 42 41
+Dewpt               21 17 17 20 21 20 20 20 25 21 26 29 30 31 34 35 38 40 41 40
+RH                  58 30 30 46 56 61 63 52 45 33 43 57 67 73 79 76 86 93 96 96
+Wind dir            NW NW  N  N  N NW NW  W  E  N SE SE  S  S  S  S  E  E  E NE
+Wind spd            11  8 10 12 11 10  8  5  5  6  8  8  6  6  6  6  8 10 10  9
+Clouds              CL FW FW FW FW FW FW FW FW B1 B1 B1 B1 B1 B2 B2 OV OV OV B2
+PoP 12hr                      0           0           5          30          60
+QPF 12hr                      0           0           0        0.01        0.23
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                           S  C  C  C  L  C
+Wind chill          25       32 27 24 24 32                34                  
+Min chill              19    32    24    24                34    34            
+Frost                               Y  Y  Y                                    
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          40    50      46    52      44    57      43    50
+Temp          40 44 50 47   47 48 49 48   45 48 56 50   46 46 49 42
+Dewpt         39 38 38 40   41 43 46 45   42 43 44 45   42 42 36 34
+PWind dir        NE    SE      SE    SE      NW     S       S     W
+Wind char        GN    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B1 B1 B1 B1   B1 B2 B2 B1   B1 B1 B1 SC   B1 B1 B1 SC
+PoP 12hr         30    50      60    60      40    50      40    40
+Rain           C  S                                                
+Rain shwrs        S  C  C    L  L  L  L    C  S  C  C    C  C  C  C
+Tstms                                 S                           S
+
+$$
+NCZ051-242100-
+Newfound Gap-Swain NC
+35.61N  83.43W Elev. 5048 ft
+1045 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      48          29          53          39          45
+Temp                37 46 47 39 32 29 30 34 47 52 53 46 41 39 39 41 44 45 45 44
+Dewpt               19 21 21 21 22 20 18 19 27 25 28 31 31 31 34 35 38 43 43 42
+RH                  48 37 35 48 66 69 60 54 45 35 38 55 67 73 82 79 79 93 93 93
+Wind dir            NW NW NW  N  N NE  E SE  W NW NE  E  S  S  S  S  E NE NE  S
+Wind spd             9  8  9 10  8  6  5  4  4  5  5  6  8  8  6  5  8  9 10 10
+Clouds              CL CL CL FW CL FW FW FW B1 B1 B1 B2 B1 B2 B2 OV OV OV OV B2
+PoP 12hr                      0           0           5          40          60
+QPF 12hr                      0           0           0        0.03        0.25
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                        S  C  C  C  L  L  C
+Wind chill          30       32 25 22 24 30                33                  
+Min chill              21    29    21    21    34          31    32            
+Freeze                              W  W  W                                    
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          40    55      46    57      44    60      41    49
+Temp          41 43 55 52   47 48 55 52   46 47 60 55   46 42 48 43
+Dewpt         40 39 43 41   41 43 49 46   43 43 46 45   42 40 39 35
+PWind dir        SE     S      SE     S       S    SW      SW     W
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B2 B1 B1 B1   B2 B2 B2 B1   B1 B1 B1 B1   B1 B2 B1 B1
+PoP 12hr         30    50      70    60      50    50      50    40
+Rain           C  C                                                
+Rain shwrs        S  C  C    L  L  L  L    C  C  C  C    C  C  C  C
+Tstms                        S        S             S              
+
+$$
+NCZ058-242100-
+Robbinsville-Graham NC
+35.32N  83.81W Elev. 2064 ft
+1045 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      61          32          67          44          56
+Temp                47 59 61 51 41 35 32 34 54 65 67 58 50 47 45 44 51 55 56 54
+Dewpt               27 24 24 27 28 28 28 28 35 29 31 36 37 39 41 43 44 46 46 46
+RH                  45 26 24 39 59 75 85 78 48 26 26 44 61 74 86 96 77 72 69 74
+Wind dir             N NW NW  N  N  N  E  E NW  W  W  E NE SE SE  S  E SW  E  S
+Wind spd             8  6  9  8  4  3  2  2  2  3  4  4  3  3  3  3  5  5  6  5
+Clouds              FW FW CL FW CL FW FW FW B1 B1 B1 B1 B1 B1 B2 OV OV OV B2 B2
+PoP 12hr                      0           0           5          40          60
+QPF 12hr                      0           0           0        0.02        0.15
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                        S  C  C  C  L  L  C
+Freeze                              W  W  W                                    
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          44    68      51    69      48    72      44    60
+Temp          47 45 67 62   54 51 65 63   53 50 70 65   53 45 60 53
+Dewpt         47 45 45 46   48 51 52 51   50 49 49 49   49 45 41 39
+PWind dir         E    SE      SE     S       S     S      SW     W
+Wind char        LT    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B2 B1 B1 B1   B1 B2 B2 B1   B1 B1 SC SC   B1 B2 B1 B1
+PoP 12hr         30    50      70    70      40    50      40    40
+Rain           C  S                                                
+Rain shwrs        S  C  C    L  L  L  L    C  C  C  C    C  C  C  C
+Tstms                   S    S        S             S    S         
+
+$$
+NCZ508-242100-
+Rutherfordton-Rutherford NC
+35.37N  81.96W Elev. 929 ft
+1045 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      67          38          67          46          59
+Temp                56 63 67 60 50 44 39 42 55 63 66 61 52 48 47 47 54 57 59 56
+Dewpt               34 29 25 27 29 28 27 29 32 31 32 36 37 37 40 42 45 48 47 46
+RH                  43 27 20 28 44 53 62 60 41 30 28 39 56 65 76 83 71 72 64 69
+Wind dir             N  W  W  N  N  N NE NE NE  E  E  E NE  N  N  N NE NE NE  N
+Wind spd             5  4  6  5  6  5  5  6  8  5  4  4  3  3  3  3  5  5  6  8
+Clouds              FW CL CL FW FW FW FW FW FW B1 SC B1 SC B1 B1 B2 B2 OV OV B2
+PoP 12hr                      0           0           0          30          50
+QPF 12hr                      0           0           0           0        0.05
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                           S  C  C  C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          47    66      52    67      52    71      52    69
+Temp          49 48 64 64   55 53 63 63   56 53 68 67   56 53 66 63
+Dewpt         47 47 46 46   48 51 54 52   51 52 53 52   51 52 48 42
+PWind dir         N    NE       E     E      NE     E      SE    SW
+Wind char        LT    GN      LT    GN      GN    GN      GN    BZ
+Avg clouds    B1 B1 B1 B1   B1 B2 B2 B2   B1 B1 B1 B1   B1 B1 B1 SC
+PoP 12hr         30    40      60    60      40    40      40    30
+Rain           C  C                                                
+Rain shwrs        S  C  C    C  L  L  C    C  C  C  C    C  C  C  C
+Tstms                                 S                           S
+
+$$
+NCZ052-242100-
+Soco Gap-Haywood NC
+35.50N  83.16W Elev. 4340 ft
+1045 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      53          30          57          40          49
+Temp                43 51 53 42 34 31 30 34 48 56 56 48 42 40 40 41 46 48 49 45
+Dewpt               23 20 20 22 24 22 21 22 30 25 29 34 33 33 36 37 40 45 45 43
+RH                  45 29 27 44 66 69 69 61 49 30 35 58 70 76 85 85 79 89 86 93
+Wind dir            NW NW NW  N  N  N NE  E  W NW SE  E  S  S  S  S  E  E  E SE
+Wind spd             6  6  8  9  6  6  4  4  4  4  5  6  5  5  5  5  8  9  9  9
+Clouds              CL CL CL CL CL CL FW FW B1 B1 B1 B2 B1 B1 B2 B2 OV OV OV B2
+PoP 12hr                      0           0           5          30          60
+QPF 12hr                      0           0           0        0.01        0.19
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                        S  C  C  C  L  L  C
+Wind chill                      28 24 26                                       
+Min chill              22    32    22    22    34          33    33            
+Freeze                              W  W  W                                    
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          41    58      47    59      45    64      42    53
+Temp          41 42 57 53   48 48 56 54   47 47 62 56   48 44 52 46
+Dewpt         41 41 44 43   43 45 50 48   45 45 48 46   45 42 41 36
+PWind dir        SE    SE       S     S       S     S       S     W
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B1 B1 B1 B1   B1 B2 B2 B1   B1 B1 SC SC   B1 B1 B1 SC
+PoP 12hr         30    50      70    60      50    50      40    40
+Rain           C  S                                                
+Rain shwrs        S  C  C    L  L  L  L    C  C  C  C    C  C  C  C
+Tstms                                 S             S             S
+
+$$
+SCZ109-242100-
+Spartanburg-Spartanburg SC
+34.94N  81.93W Elev. 816 ft
+1045 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      69          43          69          49          60
+Temp                57 64 68 64 54 49 45 45 58 66 69 63 54 51 49 50 55 58 60 57
+Dewpt               32 31 29 31 31 30 28 29 32 32 33 38 40 39 43 43 46 47 47 49
+RH                  38 29 23 29 41 48 51 53 37 28 26 39 59 63 80 77 72 67 62 75
+Wind dir            NE  W  W  N  N  N NE NE NE  E  E NE  N  N  N NE NE NE NE  N
+Wind spd             8  3  4  3  6  9  8  9  9  5  5  4  4  4  4  5  8  8  9  8
+Clouds              FW FW FW SC FW FW FW FW FW SC SC B1 B1 B1 B2 OV OV OV B2 B2
+PoP 12hr                      0           0           0          30          50
+QPF 12hr                      0           0           0        0.01        0.04
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                                                        
+Rain                                                           S  C  C  C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          48    67      54    69      53    73      53    69
+Temp          51 50 65 65   57 54 65 66   58 54 70 69   57 56 66 64
+Dewpt         49 49 47 48   50 53 54 54   53 53 54 53   52 53 47 42
+PWind dir        NE    NE       E     E      NE     E      SE    SW
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B1 B1 B1 B1   B1 B2 B2 B1   B1 B1 B1 SC   B1 B1 SC SC
+PoP 12hr         40    40      60    60      40    30      30    30
+Rain           C  C                                                
+Rain shwrs        S  S  C    L  L  L  C    C  C  S  C    C  C  C  C
+Tstms                                 S                            
+
+$$
+NCZ050-242100-
+Spruce Pine-Mitchell NC
+35.92N  82.06W Elev. 2517 ft
+1045 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      55          30          58          40          51
+Temp                44 53 55 48 39 33 30 34 50 56 58 52 45 41 41 43 49 51 51 49
+Dewpt               25 19 18 22 24 23 23 22 27 24 28 31 33 32 35 37 40 43 44 43
+RH                  47 26 23 35 54 66 75 61 41 29 32 44 62 70 79 79 71 74 77 80
+Wind dir            NW NW NW NW NW NW NW NW SW NW SE  S  S  S SE  S SE  W  E NW
+Wind spd            10 10 10  9  6  5  5  3  4  4  5  6  3  3  3  3  6  8  6  6
+Clouds              CL CL CL CL CL CL FW FW SC B1 SC B1 B1 B1 B2 B2 B2 OV OV B2
+PoP 12hr                      0           0           0          30          60
+QPF 12hr                      0           0           0           0        0.13
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                           S  C  C  C  L  C
+Wind chill                      34 28 25                                       
+Min chill              27          27    24                                    
+Freeze                              W  W  W                                    
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          41    58      48    59      47    63      45    58
+Temp          42 43 58 56   50 48 57 56   49 49 61 59   51 47 56 53
+Dewpt         41 42 41 42   44 46 49 48   46 47 48 48   46 45 42 38
+PWind dir        NE    SE      SE    SE       E    SE      SE     W
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B1 B1 B1 B1   B1 B2 B2 B1   B1 B1 B1 B1   B1 B1 B1 B1
+PoP 12hr         30    50      60    70      50    50      50    50
+Rain           C  S                                                
+Rain shwrs        S  C  C    L  L  L  L    C  C  C  C    C  C  C  C
+Tstms                                 S                           S
+
+$$
+NCZ038-242100-
+Statesville-Iredell NC
+35.78N  80.89W Elev. 923 ft
+1045 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      66          38          66          44          62
+Temp                55 62 66 59 49 42 39 41 56 63 66 60 51 47 45 46 57 62 61 58
+Dewpt               31 31 28 30 31 29 29 30 33 32 33 37 37 38 40 41 44 48 49 49
+RH                  40 31 24 33 50 60 67 65 42 31 29 42 59 71 82 83 62 60 65 72
+Wind dir             N NW  W  N  N  N  N NE NE NE NE  N NE  N  N  N NE  S NE  N
+Wind spd             6  4  5  3  5  8  6  6  8  4  4  3  3  3  3  3  4  5  5  5
+Clouds              CL CL FW FW FW FW FW FW FW B1 B1 B1 SC B1 B1 B2 B2 B2 OV B2
+PoP 12hr                      0           0           0          20          50
+QPF 12hr                      0           0           0           0        0.02
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                              S  C  C  C  C
+Wind chill                            34                                       
+Min chill                                32                                    
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          46    67      52    65      51    70      52    68
+Temp          48 48 65 63   55 53 62 63   55 53 67 67   56 53 67 63
+Dewpt         48 48 48 48   49 52 55 54   53 52 55 54   53 53 53 47
+PWind dir        NE     E       E     E      NE     E      SE    SW
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B1 B1 B1 B1   B1 B2 B2 B2   B2 B2 B2 B1   B1 B1 B1 SC
+PoP 12hr         30    40      60    60      50    40      40    40
+Rain           C  C                                                
+Rain shwrs        S  C  C    C  L  L  L    C  C  C  C    C  C  C  C
+Tstms                                 S                           S
+
+$$
+NCZ052-242100-
+Waynesville-Haywood NC
+35.49N  82.99W Elev. 3600 ft
+1045 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      58          30          62          40          53
+Temp                47 56 58 50 39 33 30 33 51 61 62 56 46 42 41 42 49 52 53 51
+Dewpt               27 22 21 23 26 23 23 24 32 25 28 34 35 34 37 39 42 45 44 43
+RH                  45 26 23 34 59 66 75 69 48 25 27 43 65 73 85 89 77 77 71 74
+Wind dir             N  N  N  N NW  W  W  N  W  N SE SE SW  S  S SW  E NE  E NW
+Wind spd             8  6 10  8  4  3  2  2  3  4  5  4  3  3  2  2  4  6  6  5
+Clouds              FW CL CL CL CL CL FW FW SC B1 B1 B2 B1 B1 B1 B2 OV OV OV B2
+PoP 12hr                      0           0           5          30          60
+QPF 12hr                      0           0           0        0.01        0.10
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                        S  S  C  C  C  L  C
+Freeze                              W  W  W                                    
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          40    64      47    65      46    69      43    60
+Temp          43 42 63 61   52 48 62 61   50 49 68 64   52 45 59 55
+Dewpt         43 42 42 43   45 47 49 48   46 47 46 47   46 44 40 37
+PWind dir        SE    SE      SE    SE       S     S       S    SW
+Wind char        LT    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B1 B1 B1 B1   B1 B2 B2 B1   B1 B1 B1 SC   B1 B1 B1 SC
+PoP 12hr         30    50      60    60      40    40      40    40
+Rain           C  S                                                
+Rain shwrs        S  C  C    L  L  L  L    C  S  C  C    C  C  C  C
+Tstms                                 S             S             S
+
+$$
+SCZ019-242100-
+Lake Greenwood-Greenwood SC
+34.17N  81.90W Elev. 440 ft
+1045 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      69          44          69          50          64
+Temp                58 65 69 62 52 48 46 46 58 67 69 62 55 53 51 51 59 63 64 58
+Dewpt               36 33 33 37 40 36 32 32 37 36 37 44 45 44 47 49 51 52 51 53
+RH                  44 30 26 39 63 63 58 58 45 32 31 52 69 71 86 93 75 67 63 83
+Wind dir            NE  N  W NW NE NE NE NE NE NE  E NE NE NE NE NE NE NE NE NE
+Wind spd             8  3  4  2  2  8  9 11  9  6  5  4  4  5  4  5  8  9  9 10
+Wind gust                                21                                    
+Clouds              B1 FW FW CL CL FW FW FW SC SC SC B1 B2 B2 B2 B2 OV B2 B2 B2
+PoP 12hr                      5           0           0          30          50
+QPF 12hr                      0           0           0           0        0.04
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                           S  C  C  C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          49    70      55    71      53    76      53    69
+Temp          51 50 69 66   59 56 69 67   57 55 73 70   59 55 67 64
+Dewpt         51 50 50 53   53 56 58 58   56 55 56 57   54 55 49 46
+PWind dir        NE    NE       E     S       N    NW      SE    SW
+Wind char        GN    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B1 B1 B1 B1   B1 B2 B2 B1   SC B1 B1 SC   SC B1 SC SC
+PoP 12hr         30    40      60    60      40    30      30    20
+Rain           C  S                                                
+Rain shwrs        S  S  C    C  L  L  C    C  S  S  C    C  C  S  S
+Tstms                        S        S                            
+
+$$
+GAZ028-242100-
+Lake Hartwell-Hart GA
+34.36N  82.82W Elev. 660 ft
+1045 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      68          44          68          52          60
+Temp                58 64 68 64 53 49 46 46 57 65 68 64 57 55 53 52 56 59 60 58
+Dewpt               35 32 32 35 38 34 33 33 37 36 38 42 44 44 46 47 49 51 51 51
+RH                  42 30 26 34 57 56 60 60 47 34 33 45 62 66 77 83 77 75 72 77
+Wind dir            NE SW SW  W NE NE NE NE  E  E  E  E NE NE NE NE NE NE NE NE
+Wind spd             5  3  5  4  4  8  9 12 11  8  5  5  5  5  5  6 10 10 10 10
+Wind gust                       17       25                                    
+Clouds              FW FW FW CL FW FW FW FW SC SC SC B1 B2 B2 B2 OV OV OV B2 B2
+PoP 12hr                      0           0           5          30          50
+QPF 12hr                      0           0           0        0.02        0.04
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                                                        
+Rain                                                        S  S  C  C  C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          51    67      56    70      54    73      53    67
+Temp          53 52 66 65   59 57 67 67   58 56 70 69   59 54 66 63
+Dewpt         51 51 50 52   53 56 57 56   55 55 56 56   54 54 47 44
+PWind dir        NE     E       E    SE       N    SE      SE    SW
+Wind char        GN    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B1 B1 B1 B1   B1 B2 B2 B1   SC B1 B1 SC   SC B1 B1 SC
+PoP 12hr         30    40      60    60      40    30      30    30
+Rain           C  S                                                
+Rain shwrs        S  C  C    L  L  L  C    C  S  S  C    C  C  S  S
+Tstms                   S             S                            
+
+$$
+NCZ504-242100-
+Lake James-Burke NC
+35.74N  81.84W Elev. 1155 ft
+1045 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      66          35          67          44          59
+Temp                54 63 66 57 46 40 36 38 54 63 66 59 49 45 44 45 54 57 59 56
+Dewpt               30 24 22 25 29 28 28 29 32 30 31 37 38 37 39 41 44 47 48 48
+RH                  40 22 18 29 51 62 72 70 43 29 27 44 66 73 82 86 69 69 67 74
+Wind dir            NW  W NW NW  N  N  N NE NE  E SE SE  N NW NW  N  E SW  E  N
+Wind spd             5  5  8  8  5  2  2  2  4  3  4  4  2  2  2  1  3  4  5  5
+Clouds              CL CL CL CL CL FW FW SC SC B1 SC B1 SC B1 B2 B2 B2 OV OV B2
+PoP 12hr                      0           0           0          30          60
+QPF 12hr                      0           0           0           0        0.08
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                           S  C  C  C  L  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          44    65      50    66      50    70      49    67
+Temp          47 46 63 63   53 51 62 62   54 51 67 66   55 50 64 61
+Dewpt         47 46 45 48   48 50 53 53   50 51 53 53   51 50 47 43
+PWind dir         N     E       E     E      NE     E      SE    SW
+Wind char        LT    LT      LT    GN      LT    GN      LT    GN
+Avg clouds    B1 B1 B1 B1   B1 B2 B2 B2   B1 B1 B1 B1   B1 B1 B1 SC
+PoP 12hr         30    40      60    60      50    40      40    40
+Rain           C  S                                                
+Rain shwrs        S  C  C    L  L  L  L    C  C  C  C    C  C  C  C
+Tstms                                 S                           S
+
+$$
+SCZ104-242100-
+Lake Keowee-Oconee SC
+34.73N  82.91W Elev. 800 ft
+1045 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      70          43          69          50          59
+Temp                57 66 70 63 53 47 44 45 58 66 69 63 56 53 51 50 55 58 59 57
+Dewpt               35 32 29 33 35 33 32 32 35 34 35 40 42 42 44 45 48 49 49 49
+RH                  43 28 22 32 50 58 62 60 42 30 28 43 59 66 77 83 77 72 69 75
+Wind dir             E SW SW NW  N  N NE NE  E  E SE  E NE NE NE NE NE NE NE NE
+Wind spd             3  4  5  4  5  4  5  8  8  5  4  4  4  4  4  5  8  8  9 10
+Clouds              FW FW FW FW FW FW FW SC FW SC SC B1 B1 B2 B2 OV OV OV OV B2
+PoP 12hr                      0           0           5          30          50
+QPF 12hr                      0           0           0        0.01        0.05
+Snow 12hr                 00-00       00-00       00-00                        
+Drizzle                                                                        
+Rain                                                        S  S  C  C  C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          49    67      54    71      52    73      52    68
+Temp          51 50 66 65   57 54 67 66   55 54 71 69   57 52 67 63
+Dewpt         50 50 48 50   52 54 56 54   53 53 55 54   54 52 46 42
+PWind dir        NE     E       E     E       N    SE      SE    SW
+Wind char        GN    GN      GN    GN      LT    GN      GN    BZ
+Avg clouds    B2 B1 B1 B1   B1 B2 B2 B1   SC B1 B1 SC   B1 B1 B1 SC
+PoP 12hr         30    50      60    60      40    30      30    30
+Rain           C  S                                                
+Rain shwrs        S  C  C    L  L  L  C    C  S  S  C    C  C  C  C
+Tstms                                 S                            
+
+$$
+NCZ069-242100-
+Lake Norman-Lincoln NC
+35.44N  80.96W Elev. 760 ft
+1045 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      66          40          66          47          61
+Temp                54 62 66 61 51 45 41 42 54 63 66 61 53 50 48 48 57 61 61 59
+Dewpt               34 31 30 32 35 32 30 32 34 33 34 38 40 40 43 44 46 49 49 50
+RH                  46 31 26 33 54 60 65 67 46 32 30 42 61 68 83 86 67 65 65 72
+Wind dir             N NW  W NW  N  N  N NE NE NE NE NE  N  N  N NE NE  S NE  N
+Wind spd             8  4  5  3  4  9  8  9  8  4  4  3  3  3  3  3  5  5  5  6
+Wind gust                       14 19 18 19                                    
+Clouds              CL CL FW FW FW FW FW FW FW SC B1 B1 SC B1 B1 B2 B2 OV B2 B2
+PoP 12hr                      0           0           0          20          50
+QPF 12hr                      0           0           0           0        0.04
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                           S  S  C  C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          49    66      54    65      53    70      54    68
+Temp          50 50 65 64   57 54 62 64   57 54 67 67   58 55 66 64
+Dewpt         49 49 49 50   50 52 56 55   55 53 56 55   54 54 54 47
+PWind dir        NE    NE       E     E      NE     E      SE    SW
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B1 B1 B1 B1   B1 B2 B2 B2   B2 B2 B1 B1   B1 B1 B1 SC
+PoP 12hr         30    40      60    60      50    40      40    40
+Rain           C  C                                                
+Rain shwrs        S  C  C    C  L  L  L    C  C  C  C    C  C  C  C
+Tstms                                 S                           S
+
+$$
+GAZ029-242100-
+Lake Russell-Elbert GA
+34.07N  82.70W Elev. 475 ft
+1045 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      69          46          70          53          64
+Temp                57 65 69 62 54 49 47 47 57 66 69 64 58 56 54 53 59 63 64 59
+Dewpt               36 34 35 38 42 38 34 33 39 38 41 45 46 46 48 49 52 54 54 54
+RH                  45 31 28 41 64 66 60 58 51 36 36 50 64 69 80 86 78 72 70 83
+Wind dir            NE NW  W  W  N NE NE NE  E  E  E  E NE  E NE NE NE NE NE NE
+Wind spd             6  3  4  2  3  8 10 12 10  6  5  4  5  5  5  6 10  9 10 10
+Wind gust                                24                                    
+Clouds              SC SC FW CL CL FW FW SC SC SC SC B1 B2 B2 B2 OV OV B2 OV B2
+PoP 12hr                      5           0           5          30          50
+QPF 12hr                      0           0           0        0.01        0.04
+Snow 12hr                 00-00       00-00       00-00                        
+Rain                                                           S  C  C  C  C  C
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          52    70      58    72      54    76      54    68
+Temp          54 52 68 67   61 58 68 68   58 57 72 70   60 55 66 63
+Dewpt         53 52 53 55   55 57 60 59   56 56 58 58   55 55 50 46
+PWind dir        NE    NE       E     S       N    SW       S    SW
+Wind char        GN    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    B1 B1 B1 B1   B1 B2 B2 SC   SC SC B1 SC   SC SC SC SC
+PoP 12hr         30    40      60    60      40    30      30    20
+Rain           C  S                                                
+Rain shwrs        S  S  C    C  L  L  C    C  S  S  C    C  C  S  S
+Tstms                   S    S        S                            
+
+$$

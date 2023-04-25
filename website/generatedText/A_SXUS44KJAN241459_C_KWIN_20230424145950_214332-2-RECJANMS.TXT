@@ -1,0 +1,118 @@
+SXUS44 KJAN 241459
+RECJAN
+
+Recreational Forecast
+National Weather Service Jackson MS
+959 AM CDT Mon Apr 24 2023
+
+MSZ043-049-242100-
+Ross Barnett Reservoir-
+959 AM CDT Mon Apr 24 2023
+
+...THE FORECAST FOR THE ROSS BARNETT RESERVOIR...
+
+.TODAY...Northeast winds 10 to 15 mph. Waters a moderate chop,
+with choppiest waters in the west, especially near the spillway. 
+.TONIGHT...East winds 10 to 15 mph. Waters a moderate chop, with
+choppiest waters in the west. 
+.TUESDAY...East winds 5 to 10 mph. A slight chance of showers in
+the afternoon. Waters a light chop. 
+.TUESDAY NIGHT...East winds 5 to 10 mph. A slight chance of
+showers in the evening. A slight chance of thunderstorms during
+the night. A chance of showers after midnight. Waters a light
+chop. 
+
+$$
+
+MSZ030-031-242100-
+Columbus Lake-
+959 AM CDT Mon Apr 24 2023
+
+...THE FORECAST FOR COLUMBUS LAKE...
+
+.TODAY...Northeast winds 10 to 15 mph. Waters a moderate chop,
+with choppiest waters in the south. 
+.TONIGHT...Northeast winds 10 to 15 mph. Waters a moderate chop,
+with choppiest waters in the west. 
+.TUESDAY...East winds around 5 mph. Waters smooth. 
+.TUESDAY NIGHT...Northeast winds around 5 mph. A slight chance of
+showers in the evening, then a chance of showers and a slight
+chance of thunderstorms after midnight. Waters smooth. 
+
+$$
+
+MSZ052-242100-
+Okatibbee Lake-
+959 AM CDT Mon Apr 24 2023
+
+...THE FORECAST FOR OKATIBBEE LAKE...
+
+.TODAY...Northeast winds 10 to 15 mph. Waters a moderate chop,
+with choppiest waters in the south. 
+.TONIGHT...Northeast winds 10 to 15 mph. Waters a moderate chop,
+with choppiest waters in the west. 
+.TUESDAY...East winds 5 to 10 mph. Waters a light chop. 
+.TUESDAY NIGHT...East winds around 5 mph. A slight chance of
+showers in the evening, then a chance of showers and a slight
+chance of thunderstorms after midnight. Waters smooth. 
+
+$$
+
+MSZ026-242100-
+Grenada Lake-
+959 AM CDT Mon Apr 24 2023
+
+...THE FORECAST FOR GRENADA LAKE...
+
+.TODAY...Northeast winds 10 to 15 mph. Waters a moderate chop,
+with choppiest waters in the west. 
+.TONIGHT...East winds 10 to 15 mph. Waters a moderate chop, with
+choppiest waters in the west. 
+.TUESDAY...East winds around 5 mph. A slight chance of showers in
+the afternoon. Waters smooth. 
+.TUESDAY NIGHT...East winds around 5 mph. A slight chance of
+showers in the evening, then a chance of showers and a slight
+chance of thunderstorms after midnight. Waters smooth. 
+
+$$
+
+ARZ075-LAZ009-016-MSZ018-034-040-047-242100-
+Mississippi River and nearby lakes north of Interstate 20-
+959 AM CDT Mon Apr 24 2023
+
+...THE FORECAST FOR THE MISSISSIPPI RIVER AND NEARBY LAKES NORTH
+OF INTERSTATE 20...
+...CAUTION IS ADVISED TODAY...
+
+.TODAY...Northeast winds 10 to 20 mph. Waters choppy, with
+choppiest waters in the west. 
+.TONIGHT...East winds 10 to 15 mph. Waters a moderate chop, with
+choppiest waters in the west. 
+.TUESDAY...East winds 5 to 10 mph. A slight chance of showers
+during the day. A slight chance of thunderstorms in the
+afternoon. Waters a light chop. 
+.TUESDAY NIGHT...East winds 5 to 10 mph. A slight chance of
+showers and thunderstorms in the evening. A chance of showers and
+thunderstorms after midnight. Waters a light chop. 
+
+$$
+
+LAZ016-025-026-MSZ047-053-059-060-242100-
+Mississippi River and nearby lakes south of Interstate 20-
+959 AM CDT Mon Apr 24 2023
+
+...THE FORECAST FOR THE MISSISSIPPI RIVER AND NEARBY LAKES SOUTH
+OF INTERSTATE 20...
+
+.TODAY...Northeast winds 10 to 15 mph. Waters a moderate chop,
+with choppiest waters in the west. 
+.TONIGHT...East winds 10 to 15 mph. Waters a moderate chop, with
+choppiest waters in the west. 
+.TUESDAY...East winds 5 to 10 mph. A slight chance of showers in
+the morning. A chance of showers and a slight chance of
+thunderstorms in the afternoon. Waters a light chop. 
+.TUESDAY NIGHT...East winds 5 to 10 mph. A chance of showers and
+a slight chance of thunderstorms. Waters a light chop. 
+
+$$
+

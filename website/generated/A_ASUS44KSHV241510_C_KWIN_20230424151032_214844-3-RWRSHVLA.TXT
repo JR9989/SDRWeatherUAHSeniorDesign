@@ -1,0 +1,65 @@
+ASUS44 KSHV 241510
+RWRSHV
+
+THE FOUR STATE AREA WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE SHREVEPORT LA
+1000 AM CDT MON APR 24 2023
+
+NOTE:  "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12000 FEET
+WITH NO SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+!LAZ001-LAZ014-TXZ097-241600
+SHREVEPORT...MONROE...TEXARKANA RADIOS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+SHREVEPORT     PTSUNNY   59  41  51 E9G17     30.17R                  
+MONROE         CLOUDY    58  42  55 NE13G21   30.19R                  
+NATCHITOCHES   CLOUDY    58  42  54 E8        30.15F                  
+TEXARKANA      CLOUDY    57  40  52 E7        30.19S                  
+ATLANTA        CLOUDY    55  42  60 E7        30.18R                  
+$$
+
+!LAZ001-LAZ014-TXZ097-241600
+OTHER LOCATIONS...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+DOWNTOWN SHV   NOT AVBL                                               
+BOSSIER CITY   SUNNY     58  39  49 E5        30.17R                  
+RUSTON         CLOUDY    54  43  67 NE9       30.18R                  
+LITTLE ROCK    PTSUNNY   56  39  53 E5        30.23R                  
+EL DORADO      PTSUNNY   57  42  57 E7        30.19S                  
+JACKSON        PTSUNNY   59  37  44 NE12G20   30.16R                  
+NEW ORLEANS    CLOUDY    61  49  64 NE14      30.08S                  
+HOUSTON        CLOUDY    57  48  72 NE12      30.10S                  
+LUFKIN         CLOUDY    56  45  66 E10G16    30.14R                  
+TYLER          CLOUDY    54  39  57 E9        30.16R                  
+DAL FT WORTH   PTSUNNY   56  39  53 SE5       30.16S                  
+$$
+
+
+!TXZ136-TXZ165-241600
+TYLER...LUFKIN RADIOS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+TYLER          CLOUDY    54  39  57 E9        30.16R                  
+GILMER         SUNNY     54  39  56 E6        30.17F                  
+LONGVIEW       CLOUDY    55  41  59 E9        30.16S                  
+LUFKIN         CLOUDY    56  45  66 E10G16    30.14R                  
+$$
+
+!TXZ136-TXZ165-241600
+OTHER LOCATIONS...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+NACOGDOCHES    MOSUNNY   56  44  64 NE6       30.16R                  
+BEAUMONT       CLOUDY    60  48  64 NE12      30.10R                  
+HOUSTON        CLOUDY    57  48  72 NE12      30.10S                  
+COLLEGE STN    CLOUDY    57  47  69 NE7       30.12S                  
+AUSTIN         CLOUDY    55  49  80 N9        30.11F                  
+DAL FT WORTH   PTSUNNY   56  39  53 SE5       30.16S                  
+TEXARKANA      CLOUDY    57  40  52 E7        30.19S                  
+SHREVEPORT     PTSUNNY   59  41  51 E9G17     30.17R                  
+FORT POLK      CLOUDY    56  40  56 NE7G16    30.11R                  
+LAKE CHARLES   PTSUNNY   58  46  64 NE14      30.11R                  
+$$
+  

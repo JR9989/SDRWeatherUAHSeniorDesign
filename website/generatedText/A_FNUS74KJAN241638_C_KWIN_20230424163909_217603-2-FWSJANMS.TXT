@@ -1,0 +1,72 @@
+FNUS74 KJAN 241638
+FWSJAN
+
+Spot Forecast for Desoto Block 6305...USFS
+National Weather Service Jackson MS
+1138 AM CDT Mon Apr 24 2023
+
+Forecast is based on ignition time of 1200 CDT on April 24. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...Afternoon minimum relative humidity values will
+generally hover between 35-40% today with breezy northeast transport
+winds. Mixing heights will generally be around 3000 feet. There
+are no concerns for fog development.
+
+.REST OF TODAY...
+TIME (CDT)      Noon   2 PM   4 PM   
+Sky cover.......MCldy  MCldy  MCldy  
+Weather cov.....                     
+Weather type....None   None   None   
+Tstm cov........                     
+Temp............65     68     69     
+RH..............40     39     40     
+20 ft wind dir..NE     NE     NE     
+20 ft wind spd..8      8      8      
+20 ft wind gust.18     15     15     
+Mix hgt (ft)....2300   2900   3200   
+Mix hgt (m).....700    880    980    
+Transport wind..NE 15  NE 12  N 10   
+Tran wind (m/s).NE 7   NE 5   N 4    
+
+.TONIGHT...
+TIME (CDT)      6 PM   8 PM   10 PM  Midngt 2 AM   4 AM   
+Sky cover.......MCldy  PCldy  PCldy  MClear PCldy  PCldy  
+Weather cov.....                                          
+Weather type....None   None   None   None   None   None   
+Tstm cov........                                          
+Temp............69     62     58     56     54     54     
+RH..............44     62     69     69     71     66     
+20 ft wind dir..NE     N      NE     NE     NE     NE     
+20 ft wind spd..6      5      6      6      7      7      
+20 ft wind gust.13     12     13     13     13     14     
+Mix hgt (ft)....2400   500    500    400    500    500    
+Mix hgt (m).....730    150    150    120    150    150    
+Transport wind..NE 10  N 10   NE 10  NE 13  E 12   E 13   
+Tran wind (m/s).NE 4   N 4    NE 4   NE 6   E 5    E 6    
+
+.TUESDAY...
+TIME (CDT)      6 AM      9 AM      Noon      3 PM      
+Sky cover.......PCldy     MClear    PCldy     PCldy     
+Weather cov.....                              S Chc     
+Weather type....None      None      None      Rnshwr    
+Tstm cov........                                        
+Temp............53        62        75        79        
+RH..............70        55        43        44        
+20 ft wind dir..NE        E         E         SE        
+20 ft wind spd..6         6         5         5         
+20 ft wind gust.14        14        12        10        
+Mix hgt (ft)....500       1200      4400      6000      
+Mix hgt (m).....150       370       1340      1830      
+Transport wind..E 12      E 12      E 7       SE 6      
+Tran wind (m/s).E 5       E 5       E 3       SE 3      
+
+$$
+Forecaster...NWS JAN
+Requested by...Cliff Willis
+Type of request...PRESCRIBED
+.TAG 2309958.5/JAN
+.DELDT 04/24/23
+.FormatterVersion 2.0.0
+.EMAIL clifton.willis@usda.gov

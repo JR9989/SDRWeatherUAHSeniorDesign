@@ -1,0 +1,94 @@
+FGUS51 KTIR 241443
+RVFLOM
+River Forecast
+NWS Ohio River Forecast Center, Wilmington, OH
+10:43am EDT Monday, April 24, 2023
+
+This is a NWS guidance product from the Ohio River Forecast Center.
+Public forecasts and warnings are issued only by local NWS offices.
+Statistical uncertainties can be viewed from our ensemble pages at:
+http://weather.gov/erh/mmefs
+
+
+: Smithland Lock & Dam - Ohio River - PAH
+: Zero Datum 290.0 ft (Ohio River Datum)
+: Pope County, IL
+: Record Discharge   MISSING
+: Major Discharge    MISSING
+: Moderate Discharge MISSING
+: Flood Discharge    MISSING
+: Action Discharge   MISSING
+:
+: Time series data are in 6-hour increments.
+:
+.ER SMLI2 20230419 Z DC202304241443/DUE/DQG/DH18/QTIPZ/DIH6
+:    6-hr Model-simulated Flows
+:  Simu Valid  /   00Z /   06Z /   12Z /   18Z
+.E1 : Apr 19 :                         /123.61 
+.E2 : Apr 20 : /121.73 /114.20 /110.89 /109.52 
+.E3 : Apr 21 : /108.33 /107.51 /107.58 /114.99 
+.E4 : Apr 22 : /121.78 /125.49 /126.16 /126.77 
+.E5 : Apr 23 : /126.21 /119.54 /113.92 /113.87 
+.E6 : Apr 24 : /113.86 /113.65 /113.44 
+:
+: Latest Observed Discharge MISSING
+:
+.ER SMLI2 20230424 Z DC202304241443/DUE/DQG/DH18/QTIFF/DIH6
+:
+:  Fcst Valid  /   00Z /   06Z /   12Z /   18Z
+.E1 : Apr 24 :                         /112.82 
+.E2 : Apr 25 : /115.59 /118.09 /120.43 /122.62 
+.E3 : Apr 26 : /124.20 /125.81 /126.89 /127.71 
+.E4 : Apr 27 : /128.14 /127.92 /126.60 /123.99 
+.E5 : Apr 28 : /119.00 /111.90 /107.38 /103.28 
+.E6 : Apr 29 : / 99.77 / 96.66 / 93.88 / 91.31 
+.E7 : Apr 30 : / 88.86 / 86.45 / 84.07 / 81.73 
+.E8 : May 01 : / 79.48 / 77.37 / 75.45 / 73.66 
+.E9 : May 02 : / 71.99 / 70.43 / 68.95 / 67.56 
+.E10: May 03 : / 66.31 / 65.18 / 64.17 / 63.28 
+.E11: May 04 : / 62.51 / 61.79 / 61.08 / 60.39 
+.E12: May 05 : / 59.72 / 59.06 / 58.42 / 57.81 
+.E13: May 06 : / 57.22 / 56.66 / 56.12 / 55.58 
+.E14: May 07 : / 55.03 / 54.48 / 54.15 / 53.63 
+.E15: May 08 : / 53.28 / 52.94 / 52.76 / 52.59 
+.E16: May 09 : / 52.42 / 52.25 / 52.07 / 51.90 
+.E17: May 10 : / 51.90 / 51.73 / 51.55 / 51.55 
+.E18: May 11 : / 51.55 / 51.21 / 51.04 / 51.04 
+.E19: May 12 : / 51.04 / 50.69 / 50.52 / 50.51 
+.E20: May 13 : / 50.41 / 50.35 / 50.29 / 50.25 
+.E21: May 14 : / 50.25 / 50.25 / 50.25 / 50.25 
+.E22: May 15 : / 50.25 / 50.25 / 50.25 / 50.25 
+.E23: May 16 : / 50.25 / 50.25 / 50.25 / 50.25 
+.E24: May 17 : / 50.25 / 50.25 / 50.25 / 50.00 
+.E25: May 18 : / 50.00 / 50.00 / 50.00 / 50.00 
+.E26: May 19 : / 50.00 / 50.00 / 50.00 / 50.00 
+.E27: May 20 : / 50.00 / 50.00 / 50.00 / 50.00 
+.E28: May 21 : / 50.00 / 50.00 / 50.00 / 50.00 
+.E29: May 22 : / 50.00 / 50.00 / 50.00 
+:
+: Local observed 6-hr basin-averaged precip [MAPX] (72 hours):
+: Valid Times  /   00Z /   06Z /   12Z /   18Z
+:     Apr 21                           /  0.12 
+:     Apr 22   /  0.05 /  0.00 /  0.00 /  0.00 
+:     Apr 23   /  0.00 /  0.00 /  0.00 /  0.00 
+:     Apr 24   /  0.00 /  0.00 /  0.00 
+:
+: Local forecast 6-hr basin-averaged precip [MAPX] (48 hours):
+: Valid Times  /   00Z /   06Z /   12Z /   18Z
+:     Apr 24                           /  0.00 
+:     Apr 25   /  0.00 /  0.00 /  0.00 /  0.00 
+:     Apr 26   /  0.00 /  0.00 /  0.00 
+:
+: Local 6-hr basin-averaged temperatures (C) [MAT] (120 hours):
+: Valid Times  /   00Z /   06Z /   12Z /   18Z
+:     Apr 21                           /  10.0 
+:     Apr 22   /  11.9 /   8.3 /   5.5 /  11.2 
+:     Apr 23   /  13.2 /   5.4 /   2.4 /   7.3 
+:     Apr 24   /  12.2 /   5.8 /   1.9 /  10.9 
+:     Apr 25   /  14.7 /   8.1 /   5.8 /  13.6 
+:     Apr 26   /  18.1 /  10.1 /   7.9 
+:____________________________________________________________________
+$$
+: Fliehman
+:...END of MESSAGE...
+

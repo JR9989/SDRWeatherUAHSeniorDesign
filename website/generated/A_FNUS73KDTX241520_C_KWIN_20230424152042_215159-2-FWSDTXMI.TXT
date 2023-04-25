@@ -1,0 +1,108 @@
+FNUS73 KDTX 241520
+FWSDTX
+
+Spot Forecast for Erie Rx Burns...Michigan DNR
+National Weather Service Detroit/Pontiac MI
+1120 AM EDT Mon Apr 24 2023
+
+Forecast is based on ignition time of 1400 EDT on April 24. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...Rain showers are becoming more likely for the Lake
+Erie shoreline this afternoon as cool and unstable air lingers
+over Lower Michigan, and rain is likely again Tuesday. Winds 
+through this period will be light to moderate and generally out of
+the west with temperatures running some 5 to 10 degrees below 
+normal. A gradual rebound closer to average temperatures is 
+expected by the end of the week.
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly cloudy (75-85 percent). Scattered rain 
+                    showers. 
+Max temperature.....Around 48. 
+Min humidity........43 percent. 
+Eye level winds.....West winds around 10 mph. 
+Mixing height.......5800 ft AGL. 
+Transport winds.....West around 15 mph. 
+Haines Index........4 or low potential for large plume dominated 
+                    fire growth. 
+Smoke Dispersal....Excellent (MAX...656). 
+
+TIME (EDT)      2PM 3PM 4PM 5PM 
+SKY (%).........86  82  83  77  
+WEATHER COV.....SCT SCT SCT SCT 
+WEATHER TYPE....RW  RW  RW  RW  
+TEMP............47  47  48  48  
+RH..............46  44  43  45  
+EYE LVL WND DIR.W   W   W   W   
+EYE LVL WND SPD.10  10  10  10  
+EYE LVL WND GST.12  12  13  13  
+MIX HGT (KFT)...5.8 5.1 5.6 4.7 
+HAINES INDEX....4   4   4   4   
+SMOKE DISPER...75500661007320061200
+
+.TONIGHT...
+
+Sky/weather.........Mostly cloudy (55-65 percent)becoming partly 
+                    cloudy (25-35 percent). Scattered rain showers 
+                    early in the evening. Areas of frost after 3 
+                    am. Widespread frost early in the morning. 
+Min temperature.....Around 33. 
+Max humidity........74 percent. 
+Eye level winds.....Northwest winds 5 to 10 mph. 
+Mixing height.......300 ft AGL. 
+Transport winds.....West 7 to 14 mph. 
+Haines Index........4 to 5 OR low to moderate potential for large 
+                    plume dominated fire growth. 
+Smoke Dispersal....Poor (MIN...19). 
+
+TIME (EDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+SKY (%).........62     50     41     28     14     15     
+WEATHER COV.....SCTTRD                             AREAS  
+WEATHER TYPE....RNSHWR NONE   NONE   NONE   NONE   FROST  
+TEMP............49     47     42     40     36     34     
+RH..............45     48     57     61     68     71     
+EYE LEVEL WIND..W 10   NW 6   W 6    W 5    W 5    NW 5   
+EYE LEVEL WIND..11     10     8      8      7      7      
+MIX HGT (FT)....4200   1800   400    400    300    300    
+HAINES INDEX....4      4      4      4      5      5      
+SMOKE DISPER...50800  15900  2600   2200   2700   2500   
+
+.TUESDAY...
+
+Sky/weather.........Mostly sunny (40-50 percent)becoming mostly 
+                    cloudy (75-85 percent). Areas of frost early in 
+                    the morning. Chance of rain in the afternoon. 
+Max temperature.....Around 52. 
+Min humidity........44 percent. 
+Eye level winds.....West winds up to 5 mph...becoming southwest 5 to 7
+mph in the afternoon. 
+Mixing height.......4100 ft AGL. 
+Transport winds.....West 6 to 8 mph...becoming southwest 9 to 13 mph in the 
+afternoon. 
+Haines Index........3 to 5 OR low to moderate potential
+for large plume dominated fire growth. 
+Smoke Dispersal....Good (MAX...306). 
+
+TIME (EDT)      6 AM      9 AM      NOON      3 PM      
+SKY (%).........19        39        51        82        
+WEATHER COV.....AREAS     S CHC     S CHC     CHANCE    
+WEATHER TYPE....FROST     RNSHWR    RNSHWR    RAIN      
+TEMP............34        40        48        50        
+RH..............72        60        44        46        
+EYE LEVEL WIND..NW 5G6    W 5G6     W 5G7     SW 6G10   
+MIX HGT (FT)....300       900       3800      3400      
+HAINES INDEX....5         4         4         3         
+SMOKE DISPER...1800      4300      26600     34400     
+
+$$
+
+Forecaster...Tilley
+Requested by...Lee Osterland
+Type of request...PRESCRIBED
+.TAG 2310488.0/DTX
+.DELDT 04/24/23
+.FormatterVersion 2.0.0
+.EMAIL osterlandl@michigan.gov

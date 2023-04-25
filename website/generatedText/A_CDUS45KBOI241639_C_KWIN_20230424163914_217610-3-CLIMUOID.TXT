@@ -1,0 +1,64 @@
+CDUS45 KBOI 241639
+CLIMUO
+
+CLIMATE REPORT 
+NATIONAL WEATHER SERVICE BOISE ID
+1039 AM MDT MON APR 24 2023
+
+...................................
+
+...THE MOUNTAIN HOME AFB CLIMATE SUMMARY FOR APRIL 24 2023...
+VALID AS OF 0900 AM LOCAL TIME.
+
+CLIMATE NORMAL PERIOD 1981 TO 2010
+CLIMATE RECORD PERIOD 1906 TO 2023
+
+
+WEATHER ITEM   OBSERVED TIME   RECORD YEAR     LAST                   
+                VALUE   (LST)  VALUE           YEAR                   
+.....................................................
+TEMPERATURE (F)                                                          
+ TODAY                                                               
+  MAXIMUM         52    900 AM  94    1977    62                     
+  MINIMUM         39    600 AM  20    1950    30                     
+  AVERAGE         46                          46                   
+
+PRECIPITATION (IN)                                                    
+  TODAY            0.00          0.59 2005     0.00                   
+  MONTH TO DATE    0.14                        0.27                   
+  SINCE OCT 1      0.81                        4.09                   
+  SINCE JAN 1      0.45                        1.78                   
+
+.....................................................
+
+
+WIND (MPH)                                                            
+  AVERAGE WIND SPEED     5.6                                        
+
+
+RELATIVE HUMIDITY (PERCENT)
+ HIGHEST    99           500 AM                                      
+
+..........................................................
+
+
+THE MOUNTAIN HOME AFB CLIMATE NORMALS FOR TOMORROW
+                         NORMAL    RECORD    YEAR                     
+ MAXIMUM TEMPERATURE (F)   65        94      1910                      
+ MINIMUM TEMPERATURE (F)   37        18      1924                      
+
+
+SUNRISE AND SUNSET                                                    
+APRIL 24 2023.........SUNRISE   648 AM MDT   SUNSET   836 PM MDT     
+APRIL 25 2023.........SUNRISE   646 AM MDT   SUNSET   838 PM MDT     
+
+
+-  INDICATES NEGATIVE NUMBERS.
+R  INDICATES RECORD WAS SET OR TIED.
+MM INDICATES DATA IS MISSING.
+T  INDICATES TRACE AMOUNT.
+
+
+
+
+$$

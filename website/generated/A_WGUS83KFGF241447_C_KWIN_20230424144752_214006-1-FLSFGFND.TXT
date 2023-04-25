@@ -1,0 +1,65 @@
+WGUS83 KFGF 241447
+FLSFGF
+
+Flood Statement
+National Weather Service Grand Forks ND
+947 AM CDT Mon Apr 24 2023
+
+...The Flood Warning continues for the following rivers in North 
+Dakota...
+
+  Wild Rice River (ND) near Abercrombie affecting Richland County.
+
+.Red River basin river flooding to continues. The recent new 
+snowmelt will result in a slower gradual recession along the Wild 
+Rice River near Abercrombie.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Please report observed flooding to local emergency services or law 
+enforcement and request they pass this information to the National 
+Weather Service when you can do so safely.
+
+Safety message - Turn around, don't drown. Don't travel through 
+flooded areas. Most flood deaths occur in vehicles.
+
+&&
+
+Additional information is available at www.weather.gov.
+
+
+NDC077-252100-
+/O.CON.KFGF.FL.W.0005.000000T0000Z-000000T0000Z/
+/ABRN8.2.SM.230417T0305Z.230420T0430Z.000000T0000Z.NO/
+947 AM CDT Mon Apr 24 2023
+
+...FLOOD WARNING FOR SNOWMELT REMAINS IN EFFECT UNTIL FURTHER 
+NOTICE...
+
+* WHAT...Moderate flooding is occurring and moderate flooding is 
+  forecast.
+
+* WHERE...Wild Rice River (ND) near Abercrombie.
+
+* WHEN...Until further notice.
+
+* IMPACTS...At 15.0 feet, Some local flooding begins on rural roads 
+  and approaches to bridges.
+
+* ADDITIONAL DETAILS...
+  - At 9:00 AM CDT Monday the stage was 13.6 feet.
+  - Recent Activity...The maximum river stage in the 24 hours
+    ending at 9:00 AM CDT Monday was 13.8 feet.
+  - Forecast...The river is expected to fall to 11.7 feet Monday
+    morning.
+  - Flood stage is 10.0 feet.
+
+
+&&
+
+LAT...LON 4663 9696 4663 9679 4612 9664 4611 9712
+
+
+$$
+
+NR

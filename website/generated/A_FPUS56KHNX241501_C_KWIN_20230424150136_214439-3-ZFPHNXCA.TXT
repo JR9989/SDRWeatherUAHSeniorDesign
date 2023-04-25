@@ -1,0 +1,1224 @@
+FPUS56 KHNX 241501
+ZFPHNX
+
+Zone Forecast Product for Interior Central California
+National Weather Service San Joaquin Valley - Hanford CA
+800 AM PDT Mon Apr 24 2023
+
+Spot temperatures and probabilities of measurable precipitation
+are for today, tonight, and Tuesday.
+
+
+CAZ300-242300-
+West Side Mountains north of 198-
+Including the city of San Luis Reservoir
+801 AM PDT Mon Apr 24 2023
+
+.TODAY...Sunny. Highs 71 to 79. Northwest winds 5 to 15 mph. 
+.TONIGHT...Mostly clear. Lows 48 to 54. West winds 10 to 15 mph
+with gusts to around 30 mph. 
+.TUESDAY...Sunny. Highs 73 to 81. Northwest winds 5 to 10 mph
+shifting to the north 5 to 15 mph in the afternoon. 
+.TUESDAY NIGHT...Clear. Lows in the mid 50s. North winds 5 to
+15 mph shifting to the west 5 to 10 mph after midnight. 
+.WEDNESDAY...Sunny. Highs 79 to 87. West winds 5 to 10 mph
+shifting to the northeast in the afternoon. 
+.WEDNESDAY NIGHT...Mostly clear. Lows around 60. 
+.THURSDAY AND THURSDAY NIGHT...Partly cloudy. Highs 82 to 90.
+Lows in the lower 60s. 
+.FRIDAY AND FRIDAY NIGHT...Mostly clear. Highs 82 to 90. Lows
+56 to 62. 
+.SATURDAY THROUGH SUNDAY...Clear. Highs 79 to 89. Lows 55 to 61. 
+
+&&
+               TEMPERATURE     /    PRECIPITATION    
+
+San Luis Reservoir   77     51     82  /   0      0      0 
+
+
+$$
+
+CAZ301-242300-
+Los Banos - Dos Palos-
+Including the city of Los Banos
+801 AM PDT Mon Apr 24 2023
+
+.TODAY...Sunny. Highs in the lower 80s. Northwest winds 5 to
+15 mph. 
+.TONIGHT...Mostly clear. Lows in the lower 50s. West winds 5 to
+15 mph. 
+.TUESDAY...Sunny. Highs in the lower 80s. Northwest winds 5 to
+10 mph. 
+.TUESDAY NIGHT...Clear. Lows in the mid 50s. Northwest winds 5 to
+10 mph. 
+.WEDNESDAY...Sunny. Highs in the upper 80s. West winds around
+5 mph shifting to the northeast in the afternoon. 
+.WEDNESDAY NIGHT THROUGH FRIDAY NIGHT...Mostly clear. Lows around
+60. Highs in the lower 90s. 
+.SATURDAY THROUGH SUNDAY...Clear. Highs around 90. Lows in the
+upper 50s. 
+
+&&
+               TEMPERATURE     /    PRECIPITATION    
+
+Los Banos    80     49     83  /   0      0      0 
+
+
+$$
+
+CAZ302-242300-
+Merced - Madera - Mendota-
+Including the cities of Merced, Madera, and Atwater
+801 AM PDT Mon Apr 24 2023
+
+.TODAY...Sunny. Highs in the lower 80s. Northwest winds 5 to
+15 mph. 
+.TONIGHT...Mostly clear. Lows in the upper 40s. Northwest winds
+5 to 15 mph. 
+.TUESDAY...Sunny. Highs in the lower 80s. Northwest winds 5 to
+10 mph. 
+.TUESDAY NIGHT...Clear. Lows in the lower 50s. Northwest winds
+5 to 10 mph. 
+.WEDNESDAY...Sunny. Highs in the upper 80s. Northwest winds 5 to
+10 mph. 
+.WEDNESDAY NIGHT THROUGH FRIDAY NIGHT...Mostly clear. Lows in the
+upper 50s. Highs in the lower 90s. 
+.SATURDAY THROUGH SUNDAY...Clear. Highs around 90. Lows in the
+mid 50s. 
+
+&&
+               TEMPERATURE     /    PRECIPITATION    
+
+Livingston   80     49     82  /   0      0      0 
+Merced       80     49     82  /   0      0      0 
+Chowchilla   81     49     82  /   0      0      0 
+Madera       81     48     82  /   0      0      0 
+Firebaugh    82     49     83  /   0      0      0 
+Mendota      82     50     84  /   0      0      0 
+
+
+$$
+
+CAZ303-242300-
+Planada - Le Grand - Snelling-
+Including the cities of Planada, Lake Mcclure, and Le Grand
+801 AM PDT Mon Apr 24 2023
+
+.TODAY...Sunny. Highs in the upper 70s. Northwest winds 5 to
+15 mph. 
+.TONIGHT...Mostly clear. Lows around 50. Northwest winds 5 to
+15 mph. 
+.TUESDAY...Sunny. Highs around 80. Northwest winds 5 to 10 mph. 
+.TUESDAY NIGHT...Clear. Lows in the mid 50s. Northwest winds 5 to
+10 mph shifting to the north after midnight. 
+.WEDNESDAY...Sunny. Highs in the upper 80s. Northeast winds 5 to
+10 mph shifting to the southwest in the afternoon. 
+.WEDNESDAY NIGHT THROUGH FRIDAY NIGHT...Mostly clear. Lows in the
+upper 50s. Highs in the lower 90s. 
+.SATURDAY THROUGH SUNDAY...Clear. Highs in the upper 80s. Lows in
+the upper 50s. 
+
+&&
+               TEMPERATURE     /    PRECIPITATION    
+
+Planada      80     49     81  /   0      0      0 
+Le Grand     80     49     81  /   0      0      0 
+
+
+$$
+
+CAZ304-242300-
+Coalinga - Avenal-
+Including the cities of Avenal and Coalinga
+801 AM PDT Mon Apr 24 2023
+
+.TODAY...Sunny. Highs in the lower 80s. Northeast winds 5 to
+15 mph. 
+.TONIGHT...Mostly clear. Lows in the mid 50s. Northwest winds
+5 to 15 mph. 
+.TUESDAY...Sunny. Highs in the lower 80s. North winds 5 to
+15 mph. 
+.TUESDAY NIGHT...Clear. Lows in the upper 50s. North winds 10 to
+15 mph shifting to the northwest 5 to 10 mph after midnight. 
+.WEDNESDAY...Sunny. Highs in the upper 80s. Northwest winds 5 to
+10 mph shifting to the east in the afternoon. 
+.WEDNESDAY NIGHT...Mostly clear. Lows in the lower 60s. 
+.THURSDAY AND THURSDAY NIGHT...Partly cloudy. Highs in the lower
+90s. Lows in the mid 60s. 
+.FRIDAY THROUGH SATURDAY...Mostly clear. Highs in the lower 90s.
+Lows in the lower 60s. 
+.SATURDAY NIGHT AND SUNDAY...Clear. Lows in the lower 60s. Highs
+in the lower 90s. 
+
+&&
+               TEMPERATURE     /    PRECIPITATION    
+
+Coalinga     83     54     83  /   0      0      0 
+Avenal       82     54     83  /   0      0      0 
+
+
+$$
+
+CAZ305-242300-
+West Side of Fresno and Kings Counties-
+Including the cities of Lemoore Station, Five Points, 
+and Kettleman City
+801 AM PDT Mon Apr 24 2023
+
+.TODAY...Sunny. Highs in the lower 80s. North winds 5 to 15 mph. 
+.TONIGHT...Mostly clear. Lows in the lower 50s. Northwest winds
+5 to 15 mph. 
+.TUESDAY...Sunny. Highs in the mid 80s. Northwest winds 5 to
+15 mph. 
+.TUESDAY NIGHT...Clear. Lows in the mid 50s. Northwest winds 5 to
+15 mph. 
+.WEDNESDAY...Sunny. Highs in the lower 90s. Northwest winds
+around 5 mph shifting to the northeast in the afternoon. 
+.WEDNESDAY NIGHT AND THURSDAY...Mostly clear. Lows around 60.
+Highs in the mid 90s. 
+.THURSDAY NIGHT...Partly cloudy. Lows in the lower 60s. 
+.FRIDAY THROUGH SATURDAY...Mostly clear. Highs in the mid 90s.
+Lows in the lower 60s. 
+.SATURDAY NIGHT AND SUNDAY...Clear. Lows around 60. Highs in the
+lower 90s. 
+
+&&
+               TEMPERATURE     /    PRECIPITATION    
+
+Huron        84     52     84  /   0      0      0 
+Five Points   84     52     84  /   0      0      0 
+NAS Lemoore   83     51     83  /   0      0      0 
+Kettleman City   84     54     84  /   0      0      0 
+
+
+$$
+
+CAZ306-242300-
+Caruthers - San Joaquin - Selma-
+Including the cities of Selma, Sanger, Parlier, Kingsburg, 
+and Kerman
+801 AM PDT Mon Apr 24 2023
+
+.TODAY...Sunny. Highs in the lower 80s. Northwest winds 5 to
+15 mph. 
+.TONIGHT...Mostly clear. Lows in the lower 50s. Northwest winds
+10 to 15 mph. 
+.TUESDAY...Sunny. Highs in the lower 80s. Northwest winds 5 to
+15 mph. 
+.TUESDAY NIGHT...Clear. Lows in the mid 50s. Northwest winds 5 to
+15 mph. 
+.WEDNESDAY...Sunny. Highs in the lower 90s. Northwest winds 5 to
+10 mph. 
+.WEDNESDAY NIGHT THROUGH SATURDAY...Mostly clear. Lows in the
+upper 50s. Highs in the lower 90s. 
+.SATURDAY NIGHT AND SUNDAY...Clear. Lows in the upper 50s. Highs
+in the lower 90s. 
+
+&&
+               TEMPERATURE     /    PRECIPITATION    
+
+Selma        83     52     83  /   0      0      0 
+Kingsburg    83     52     83  /   0      0      0 
+Sanger       82     52     82  /   0      0      0 
+Kerman       82     49     83  /   0      0      0 
+Caruthers    83     51     83  /   0      0      0 
+
+
+$$
+
+CAZ307-242300-
+Fresno-Clovis-
+Including the city of Fresno
+801 AM PDT Mon Apr 24 2023
+
+.TODAY...Sunny. Highs in the lower 80s. Northwest winds up to
+15 mph. 
+.TONIGHT...Mostly clear. Lows in the lower 50s. Northwest winds
+5 to 15 mph. 
+.TUESDAY...Sunny. Highs in the lower 80s. West winds 5 to 10 mph.
+.TUESDAY NIGHT...Clear. Lows in the mid 50s. North winds 5 to
+10 mph. 
+.WEDNESDAY...Sunny. Highs around 90. Northeast winds 5 to 10 mph
+shifting to the southwest in the afternoon. 
+.WEDNESDAY NIGHT THROUGH FRIDAY NIGHT...Mostly clear. Lows around
+60. Highs in the lower 90s. 
+.SATURDAY THROUGH SUNDAY...Clear. Highs in the lower 90s. Lows
+around 60. 
+
+&&
+               TEMPERATURE     /    PRECIPITATION    
+
+Clovis       82     53     82  /   0      0      0 
+Fresno       83     54     83  /   0      0      0 
+
+
+$$
+
+CAZ308-242300-
+West Side Mountains South of 198-
+Including the cities of Blackwells Corner and McKittrick
+801 AM PDT Mon Apr 24 2023
+
+.TODAY...Sunny. Highs 75 to 83. East winds up to 10 mph shifting
+to the north in the afternoon. 
+.TONIGHT...Mostly clear. Lows in the lower 50s. Northwest winds
+5 to 15 mph. 
+.TUESDAY...Sunny. Highs 75 to 83. East winds 5 to 10 mph shifting
+to the northeast 5 to 15 mph in the afternoon. 
+.TUESDAY NIGHT...Clear. Lows in the mid 50s. North winds 5 to
+15 mph. 
+.WEDNESDAY...Sunny. Highs 81 to 89. North winds 5 to 10 mph
+shifting to the northeast in the afternoon. 
+.WEDNESDAY NIGHT...Mostly clear. Lows in the lower 60s. 
+.THURSDAY AND THURSDAY NIGHT...Partly cloudy. Highs 84 to 92.
+Lows in the lower 60s. 
+.FRIDAY THROUGH SATURDAY...Mostly clear. Highs 84 to 92. Lows in
+the lower 60s. 
+.SATURDAY NIGHT AND SUNDAY...Clear. Lows in the lower 60s. Highs
+83 to 91. 
+
+&&
+               TEMPERATURE     /    PRECIPITATION    
+
+Livingston   80     49     82  /   0      0      0 
+Merced       80     49     82  /   0      0      0 
+Chowchilla   81     49     82  /   0      0      0 
+Madera       81     48     82  /   0      0      0 
+
+
+$$
+
+CAZ309-242300-
+Buttonwillow - Lost Hills - I5-
+Including the cities of Lost Hills and Buttonwillow
+801 AM PDT Mon Apr 24 2023
+
+.TODAY...Sunny. Highs in the mid 80s. North winds 5 to 15 mph. 
+.TONIGHT...Mostly clear. Lows in the lower 50s. Northwest winds
+5 to 15 mph. 
+.TUESDAY...Sunny. Highs in the mid 80s. Northwest winds up to
+10 mph. 
+.TUESDAY NIGHT...Clear. Lows in the mid 50s. Northwest winds 5 to
+10 mph. 
+.WEDNESDAY...Sunny. Highs in the lower 90s. West winds up to
+5 mph shifting to the north in the afternoon. 
+.WEDNESDAY NIGHT...Mostly clear. Lows in the upper 50s. 
+.THURSDAY AND THURSDAY NIGHT...Partly cloudy. Highs in the mid
+90s. Lows in the lower 60s. 
+.FRIDAY THROUGH SATURDAY...Mostly clear. Highs in the mid 90s.
+Lows in the lower 60s. 
+.SATURDAY NIGHT AND SUNDAY...Clear. Lows in the lower 60s. Highs
+in the lower 90s. 
+
+&&
+               TEMPERATURE     /    PRECIPITATION    
+
+Lost Hills   84     52     84  /   0      0      0 
+Buttonwillow   84     54     85  /   0      0      0 
+
+
+$$
+
+CAZ310-242300-
+Delano-Wasco-Shafter-
+Including the cities of Delano, Wasco, Alpaugh, and Shafter
+801 AM PDT Mon Apr 24 2023
+
+.TODAY...Sunny. Highs in the lower 80s. Northwest winds up to
+15 mph. 
+.TONIGHT...Mostly clear. Lows in the lower 50s. Northwest winds
+5 to 15 mph. 
+.TUESDAY...Sunny. Highs in the lower 80s. West winds up to
+10 mph. 
+.TUESDAY NIGHT...Clear. Lows in the lower 50s. North winds up to
+10 mph. 
+.WEDNESDAY...Sunny. Highs in the lower 90s. South winds up to
+5 mph shifting to the northwest in the afternoon. 
+.WEDNESDAY NIGHT...Mostly clear. Lows in the upper 50s. 
+.THURSDAY AND THURSDAY NIGHT...Partly cloudy. Highs in the lower
+90s. Lows in the upper 50s. 
+.FRIDAY THROUGH SATURDAY...Mostly clear. Highs in the lower 90s.
+Lows in the upper 50s. 
+.SATURDAY NIGHT AND SUNDAY...Clear. Lows in the upper 50s. Highs
+in the lower 90s. 
+
+&&
+               TEMPERATURE     /    PRECIPITATION    
+
+Alpaugh      83     49     83  /   0      0      0 
+Allensworth   83     50     83  /   0      0      0 
+Wasco        82     52     83  /   0      0      0 
+Delano       82     52     83  /   0      0      0 
+McFarland    82     52     83  /   0      0      0 
+Shafter      82     53     83  /   0      0      0 
+
+
+$$
+
+CAZ311-242300-
+Hanford - Corcoran - Lemoore-
+Including the cities of Hanford, Lemoore, and Corcoran
+801 AM PDT Mon Apr 24 2023
+
+.TODAY...Sunny. Highs in the lower 80s. Northwest winds 5 to
+15 mph. 
+.TONIGHT...Mostly clear. Lows in the lower 50s. Northwest winds
+5 to 15 mph. 
+.TUESDAY...Sunny. Highs in the lower 80s. Northwest winds 5 to
+10 mph. 
+.TUESDAY NIGHT...Clear. Lows in the lower 50s. Northwest winds up
+to 10 mph. 
+.WEDNESDAY...Sunny. Highs in the lower 90s. Northwest winds up to
+10 mph. 
+.WEDNESDAY NIGHT AND THURSDAY...Mostly clear. Lows in the upper
+50s. Highs in the mid 90s. 
+.THURSDAY NIGHT...Partly cloudy. Lows in the upper 50s. 
+.FRIDAY THROUGH SATURDAY...Mostly clear. Highs in the lower 90s.
+Lows in the upper 50s. 
+.SATURDAY NIGHT AND SUNDAY...Clear. Lows in the upper 50s. Highs
+in the lower 90s. 
+
+&&
+               TEMPERATURE     /    PRECIPITATION    
+
+Lemoore      83     51     83  /   0      0      0 
+Hanford      84     51     85  /   0      0      0 
+Corcoran     84     49     83  /   0      0      0 
+
+
+$$
+
+CAZ312-242300-
+Visalia - Porterville - Reedley-
+Including the cities of Goshen, Visalia, Tulare, and Porterville
+801 AM PDT Mon Apr 24 2023
+
+.TODAY...Sunny. Highs in the lower 80s. Southwest winds up to
+10 mph shifting to the northwest in the afternoon. 
+.TONIGHT...Mostly clear. Lows in the lower 50s. Northwest winds
+up to 10 mph. 
+.TUESDAY...Sunny. Highs in the lower 80s. Southwest winds up to
+10 mph. 
+.TUESDAY NIGHT...Clear. Lows in the mid 50s. Northwest winds 5 to
+10 mph shifting to the northeast after midnight. 
+.WEDNESDAY...Sunny. Highs around 90. East winds 5 to 10 mph
+shifting to the west in the afternoon. 
+.WEDNESDAY NIGHT THROUGH SATURDAY...Mostly clear. Lows around 60.
+Highs in the lower 90s. 
+.SATURDAY NIGHT AND SUNDAY...Clear. Lows around 60. Highs in the
+lower 90s. 
+
+&&
+               TEMPERATURE     /    PRECIPITATION    
+
+Reedley      82     52     83  /   0      0      0 
+Dinuba       82     52     82  /   0      0      0 
+Visalia      82     51     83  /   0      0      0 
+Exeter       82     53     83  /   0      0      0 
+Tulare       83     52     84  /   0      0      0 
+Lindsay      82     52     83  /   0      0      0 
+Porterville   81     53     82  /   0      0      0 
+
+
+$$
+
+CAZ313-242300-
+Buena Vista-
+Including the city of Taft
+801 AM PDT Mon Apr 24 2023
+
+.TODAY...Sunny. Highs 78 to 84. North winds 5 to 15 mph. 
+.TONIGHT...Mostly clear. Lows in the mid 50s. Northwest winds
+5 to 15 mph. 
+.TUESDAY...Sunny. Highs 79 to 85. Northwest winds 5 to 10 mph
+shifting to the north in the afternoon. 
+.TUESDAY NIGHT...Clear. Lows in the upper 50s. North winds 5 to
+15 mph shifting to the west 5 to 10 mph after midnight. 
+.WEDNESDAY...Sunny. Highs 86 to 92. South winds 5 to 10 mph
+shifting to the northeast 5 to 15 mph in the afternoon. 
+.WEDNESDAY NIGHT...Mostly clear. Lows in the lower 60s. 
+.THURSDAY AND THURSDAY NIGHT...Partly cloudy. Highs 88 to 94.
+Lows in the mid 60s. 
+.FRIDAY THROUGH SATURDAY NIGHT...Mostly clear. Highs 88 to 94.
+Lows in the mid 60s. 
+.SUNDAY...Sunny. Highs 87 to 93. 
+
+&&
+               TEMPERATURE     /    PRECIPITATION    
+
+Taft         81     57     82  /   0      0      0 
+
+
+$$
+
+CAZ314-242300-
+Bakersfield-
+Including the city of Bakersfield
+801 AM PDT Mon Apr 24 2023
+
+.TODAY...Sunny. Highs in the lower 80s. Northwest winds up to
+15 mph. 
+.TONIGHT...Mostly clear. Lows in the mid 50s. North winds 5 to
+15 mph. 
+.TUESDAY...Sunny. Highs in the lower 80s. South winds up to 5 mph
+shifting to the northwest in the afternoon. 
+.TUESDAY NIGHT...Clear. Lows in the upper 50s. Northwest winds
+5 to 10 mph shifting to the east after midnight. 
+.WEDNESDAY...Sunny. Highs in the lower 90s. East winds up to
+10 mph shifting to the northwest in the afternoon. 
+.WEDNESDAY NIGHT...Mostly clear. Lows in the lower 60s. 
+.THURSDAY AND THURSDAY NIGHT...Partly cloudy. Highs in the lower
+90s. Lows in the mid 60s. 
+.FRIDAY THROUGH SATURDAY...Mostly clear. Highs in the lower 90s.
+Lows in the lower 60s. 
+.SATURDAY NIGHT AND SUNDAY...Clear. Lows in the lower 60s. Highs
+in the lower 90s. 
+
+&&
+               TEMPERATURE     /    PRECIPITATION    
+
+Bakersfield   82     55     83  /   0      0      0 
+
+
+$$
+
+CAZ315-242300-
+Southeast San Joaquin Valley-
+Including the city of Richgrove
+801 AM PDT Mon Apr 24 2023
+
+.TODAY...Sunny. Highs around 80. Southwest winds up to 10 mph
+shifting to the northwest in the afternoon. 
+.TONIGHT...Mostly clear. Lows in the lower 50s. North winds up to
+10 mph. 
+.TUESDAY...Sunny. Highs in the lower 80s. South winds up to 5 mph
+shifting to the west in the afternoon. 
+.TUESDAY NIGHT...Clear. Lows in the mid 50s. North winds up to
+10 mph shifting to the east after midnight. 
+.WEDNESDAY...Sunny. Highs in the upper 80s. Southeast winds 5 to
+10 mph shifting to the northwest in the afternoon. 
+.WEDNESDAY NIGHT AND THURSDAY...Mostly clear. Lows around 60.
+Highs in the lower 90s. 
+.THURSDAY NIGHT...Partly cloudy. Lows in the lower 60s. 
+.FRIDAY THROUGH SATURDAY...Mostly clear. Highs in the lower 90s.
+Lows in the lower 60s. 
+.SATURDAY NIGHT AND SUNDAY...Clear. Lows in the lower 60s. Highs
+around 90. 
+
+&&
+               TEMPERATURE     /    PRECIPITATION    
+
+Richgrove    81     52     82  /   0      0      0 
+
+
+$$
+
+CAZ316-242300-
+South End San Joaquin Valley-
+Including the cities of Lamont and Arvin
+801 AM PDT Mon Apr 24 2023
+
+.TODAY...Sunny. Highs 77 to 83. West winds 5 to 10 mph shifting
+to the northwest 5 to 15 mph in the afternoon. 
+.TONIGHT...Mostly clear. Lows in the mid 50s. Northwest winds
+5 to 15 mph shifting to the southwest 5 to 10 mph after midnight.
+.TUESDAY...Sunny. Highs in the lower 80s. Southwest winds 5 to
+10 mph shifting to the northwest in the afternoon. 
+.TUESDAY NIGHT...Clear. Lows in the upper 50s. Northwest winds
+5 to 10 mph shifting to the south after midnight. 
+.WEDNESDAY...Warmer, sunny. Highs 87 to 93. Southeast winds 5 to
+10 mph shifting to the north 10 to 15 mph in the afternoon. 
+.WEDNESDAY NIGHT...Mostly clear. Lows in the lower 60s. 
+.THURSDAY AND THURSDAY NIGHT...Partly cloudy. Highs 89 to 94.
+Lows in the mid 60s. 
+.FRIDAY THROUGH SUNDAY...Mostly clear. Highs 87 to 94. Lows in
+the lower 60s. 
+
+&&
+               TEMPERATURE     /    PRECIPITATION    
+
+Arvin        81     54     83  /   0      0      0 
+Lamont       82     54     83  /   0      0      0 
+Mettler      81     54     83  /   0      0      0 
+
+
+$$
+
+CAZ317-242300-
+Mariposa Madera Foothills-
+Including the cities of El Portal and Mariposa
+801 AM PDT Mon Apr 24 2023
+
+.TODAY...Sunny. Highs in the mid 70s. West winds up to 15 mph. 
+.TONIGHT...Mostly clear. Lows in the lower 50s. North winds up to
+10 mph. 
+.TUESDAY...Sunny. Highs in the upper 70s. Northeast winds up to
+5 mph shifting to the southwest in the afternoon. 
+.TUESDAY NIGHT...Clear. Lows in the mid 50s. Northwest winds up
+to 10 mph shifting to the northeast after midnight. 
+.WEDNESDAY...Sunny. Highs in the mid 80s. Northeast winds 5 to
+10 mph shifting to the southwest 5 to 15 mph in the afternoon. 
+.WEDNESDAY NIGHT THROUGH FRIDAY NIGHT...Mostly clear. Lows in the
+lower 60s. Highs in the upper 80s. 
+.SATURDAY THROUGH SUNDAY...Clear. Highs in the mid 80s. Lows in
+the upper 50s. 
+
+&&
+               TEMPERATURE     /    PRECIPITATION    
+
+Mariposa     72     51     73  /   0      0      0 
+
+
+$$
+
+CAZ318-242300-
+Mariposa-Madera Lower Sierra-
+Including the cities of Bass Lake, Coarsegold, Fish Camp, 
+Oakhurst, and North Fork
+801 AM PDT Mon Apr 24 2023
+
+.TODAY...Sunny. Highs 66 to 74. Northwest winds up to 15 mph. 
+.TONIGHT...Mostly clear. Lows 45 to 51. Northwest winds 5 to
+10 mph shifting to the northeast after midnight. 
+.TUESDAY...Sunny. Highs 67 to 75. Northeast winds up to 10 mph
+shifting to the southwest in the afternoon. 
+.TUESDAY NIGHT...Clear. Lows 49 to 55. West winds up to 10 mph
+shifting to the northeast after midnight. 
+.WEDNESDAY...Warmer, sunny. Highs 72 to 82. Northeast winds 5 to
+10 mph shifting to the southwest 5 to 15 mph in the afternoon. 
+.WEDNESDAY NIGHT THROUGH FRIDAY NIGHT...Mostly clear. Lows 52 to
+59. Highs 75 to 85. 
+.SATURDAY...Sunny. Highs 75 to 83. 
+.SATURDAY NIGHT...Mostly clear. Lows 52 to 58. 
+.SUNDAY...Sunny. Highs 75 to 83. 
+
+&&
+               TEMPERATURE     /    PRECIPITATION    
+
+Oakhurst     74     46     76  /   0      0      0 
+Bass Lake    69     44     71  /   0      0      0 
+
+
+$$
+
+CAZ319-242300-
+Fresno-Tulare Foothills-
+Including the city of Millerton Lake
+801 AM PDT Mon Apr 24 2023
+
+.TODAY...Sunny. Highs 74 to 80. South winds up to 10 mph shifting
+to the west in the afternoon. 
+.TONIGHT...Mostly clear. Lows in the mid 50s. North winds 5 to
+10 mph shifting to the northeast after midnight. 
+.TUESDAY...Sunny. Highs 75 to 81. Southeast winds up to 10 mph
+shifting to the southwest in the afternoon. 
+.TUESDAY NIGHT...Clear. Lows in the upper 50s. Northwest winds up
+to 10 mph shifting to the northeast after midnight. 
+.WEDNESDAY...Sunny. Highs 82 to 88. East winds 5 to 10 mph
+shifting to the west in the afternoon. 
+.WEDNESDAY NIGHT THROUGH SATURDAY NIGHT...Mostly clear. Lows in
+the lower 60s. Highs 84 to 91. 
+.SUNDAY...Sunny. Highs 84 to 90. 
+
+&&
+               TEMPERATURE     /    PRECIPITATION    
+
+Millerton Lake   78     52     78  /   0      0      0 
+Three Rivers   79     53     81  /   0      0      0 
+Springville   73     50     75  /   0      0      0 
+Tule River Reservation   77     55     79  /   0      0      0 
+
+
+$$
+
+CAZ320-242300-
+Fresno-Tulare Lower Sierra-
+Including the city of Auberry
+801 AM PDT Mon Apr 24 2023
+
+.TODAY...Sunny. Highs 63 to 73. Southwest winds up to 10 mph. 
+.TONIGHT...Mostly clear. Lows 47 to 55. North winds up to 10 mph
+shifting to the northeast after midnight. 
+.TUESDAY...Sunny. Highs 65 to 75. East winds up to 5 mph shifting
+to the southwest in the afternoon. 
+.TUESDAY NIGHT...Mostly clear. Lows 50 to 58. Northwest winds up
+to 10 mph shifting to the northeast after midnight. 
+.WEDNESDAY...Warmer, sunny. Highs 71 to 81. Northeast winds 5 to
+10 mph shifting to the southwest in the afternoon. 
+.WEDNESDAY NIGHT THROUGH SUNDAY...Mostly clear. Lows 53 to 62.
+Highs 73 to 84. 
+
+&&
+               TEMPERATURE     /    PRECIPITATION    
+
+Auberry      72     54     72  /   0      0      0 
+
+
+$$
+
+CAZ321-242300-
+South End Sierra Foothills-
+801 AM PDT Mon Apr 24 2023
+
+.TODAY...Sunny. Highs in the mid 70s. Southwest winds up to
+10 mph shifting to the northwest in the afternoon. 
+.TONIGHT...Mostly clear. Lows in the mid 50s. Northeast winds up
+to 10 mph. 
+.TUESDAY...Sunny. Highs in the upper 70s. Southeast winds up to
+5 mph shifting to the west in the afternoon. 
+.TUESDAY NIGHT...Clear. Lows in the upper 50s. Northwest winds up
+to 10 mph shifting to the east after midnight. 
+.WEDNESDAY...Sunny. Highs in the mid 80s. East winds 5 to 10 mph
+shifting to the west in the afternoon. 
+.WEDNESDAY NIGHT AND THURSDAY...Mostly clear. Lows in the lower
+60s. Highs in the upper 80s. 
+.THURSDAY NIGHT...Partly cloudy. Lows in the lower 60s. 
+.FRIDAY THROUGH SATURDAY...Mostly clear. Highs in the upper 80s.
+Lows in the lower 60s. 
+.SATURDAY NIGHT AND SUNDAY...Clear. Lows in the lower 60s. Highs
+in the mid 80s. 
+
+
+
+
+$$
+
+CAZ322-242300-
+South End of the Lower Sierra-
+Including the city of Camp Nelson
+801 AM PDT Mon Apr 24 2023
+
+.TODAY...Sunny. Highs 63 to 71. West winds up to 15 mph. Gusts up
+to 30 mph in the afternoon. 
+.TONIGHT...Mostly clear. Lows 47 to 53. North winds up to 15 mph
+with gusts to around 30 mph. 
+.TUESDAY...Sunny. Highs 65 to 73. East winds up to 5 mph shifting
+to the west in the afternoon. 
+.TUESDAY NIGHT...Clear. Lows 50 to 56. Northwest winds up to
+10 mph shifting to the east after midnight. 
+.WEDNESDAY...Warmer, sunny. Highs 71 to 81. East winds 5 to
+10 mph shifting to the west in the afternoon. 
+.WEDNESDAY NIGHT AND THURSDAY...Mostly clear. Lows 54 to 60.
+Highs 73 to 83. 
+.THURSDAY NIGHT...Partly cloudy. Lows 55 to 61. 
+.FRIDAY THROUGH SUNDAY...Mostly clear. Highs 73 to 82. Lows 54 to
+61. 
+
+&&
+               TEMPERATURE     /    PRECIPITATION    
+
+Camp Nelson   61     44     63  /   0      0      0 
+
+
+$$
+
+CAZ323-242300-
+Yosemite NP outside of the valley-
+Including the cities of Tuolumne Meadows and Wawona
+801 AM PDT Mon Apr 24 2023
+
+.TODAY...Not as cool. Sunny. Highs 41 to 57. West winds 5 to
+15 mph with gusts to around 35 mph. 
+.TONIGHT...Mostly clear. Lows 25 to 37. North winds 5 to 10 mph.
+Gusts up to 30 mph in the evening. 
+.TUESDAY...Not as cool. Sunny. Highs 45 to 61. Northeast winds
+5 to 10 mph shifting to the northwest in the afternoon. Gusts up
+to 25 mph. 
+.TUESDAY NIGHT...Mostly clear. Lows 27 to 41. North winds 5 to
+10 mph shifting to the northeast 5 to 15 mph after midnight. 
+.WEDNESDAY...Not as cool. Sunny. Highs 48 to 64. East winds 5 to
+15 mph shifting to the southwest 5 to 10 mph in the afternoon. 
+.WEDNESDAY NIGHT THROUGH SUNDAY...Mostly clear. Lows 30 to 45.
+Highs 50 to 67. 
+
+&&
+               TEMPERATURE     /    PRECIPITATION    
+
+Tuolumne Meadows   51     28     54  /   0      0      0 
+Wawona       70     41     72  /   0      0      0 
+Hetch Hetchy   68     42     72  /   0      0      0 
+
+
+$$
+
+CAZ324-242300-
+Yosemite Valley-
+Including the city of Yosemite Valley
+801 AM PDT Mon Apr 24 2023
+
+.TODAY...Sunny. Highs 61 to 69. Southeast winds up to 5 mph
+shifting to the west in the afternoon. 
+.TONIGHT...Mostly clear. Lows 39 to 47. Northeast winds up to
+10 mph. 
+.TUESDAY...Sunny. Highs 63 to 73. Northeast winds up to 5 mph
+shifting to the west in the afternoon. 
+.TUESDAY NIGHT...Mostly clear. Lows 42 to 50. Northwest winds up
+to 5 mph shifting to the east after midnight. 
+.WEDNESDAY...Sunny. Highs 68 to 76. East winds 5 to 10 mph
+shifting to the southwest in the afternoon. 
+.WEDNESDAY NIGHT THROUGH SUNDAY...Mostly clear. Lows 45 to 54.
+Highs 69 to 79. 
+
+&&
+               TEMPERATURE     /    PRECIPITATION    
+
+Yosemite     71     41     75  /   0      0      0 
+
+
+$$
+
+CAZ325-242300-
+San Joaquin River Canyon-
+801 AM PDT Mon Apr 24 2023
+
+.TODAY...Sunny. Highs 59 to 69. Northwest winds up to 10 mph
+shifting to the southwest in the afternoon. 
+.TONIGHT...Mostly clear. Lows 39 to 49. North winds up to 10 mph.
+.TUESDAY...Sunny. Highs 62 to 72. Northeast winds up to 10 mph
+shifting to the southwest in the afternoon. 
+.TUESDAY NIGHT...Mostly clear. Lows 41 to 51. Northwest winds up
+to 10 mph shifting to the northeast after midnight. 
+.WEDNESDAY...Sunny. Highs 64 to 76. Northeast winds 5 to 10 mph
+shifting to the southwest in the afternoon. 
+.WEDNESDAY NIGHT THROUGH SUNDAY...Mostly clear. Lows 44 to 56.
+Highs 68 to 79. 
+
+
+
+
+$$
+
+CAZ326-242300-
+Upper San Joaquin River-
+Including the cities of Devils Postpile, Florence Lake, 
+and Lake Thomas Edison
+801 AM PDT Mon Apr 24 2023
+
+.TODAY...Sunny. Highs 40 to 54. West winds 5 to 15 mph with gusts
+to around 40 mph. 
+.TONIGHT...Mostly clear. Lows 24 to 36. Northwest winds 5 to
+10 mph. Gusts up to 30 mph in the evening. 
+.TUESDAY...Sunny. Highs 43 to 57. North winds 5 to 10 mph. 
+.TUESDAY NIGHT...Mostly clear. Lows 25 to 37. Northeast winds
+5 to 15 mph. 
+.WEDNESDAY...Sunny. Highs 44 to 60. Northeast winds 5 to 15 mph
+shifting to the southwest 5 to 10 mph in the afternoon. 
+.WEDNESDAY NIGHT THROUGH SUNDAY...Mostly clear. Lows 28 to 42.
+Highs 47 to 64. 
+
+&&
+               TEMPERATURE     /    PRECIPITATION    
+
+Devils Postpile   50     29     51  /   0      0      0 
+
+
+$$
+
+CAZ327-242300-
+Kaiser to Rodgers Ridge-
+Including the cities of Lake Wishon, Huntington Lake, 
+and Shaver Lake
+801 AM PDT Mon Apr 24 2023
+
+.TODAY...Not as cool. Sunny. Highs 44 to 58. Northwest winds 5 to
+10 mph shifting to the west 5 to 15 mph in the afternoon. 
+.TONIGHT...Mostly clear. Lows 28 to 38. North winds up to 10 mph.
+.TUESDAY...Sunny. Highs 48 to 60. Northeast winds 5 to 10 mph
+shifting to the west in the afternoon. 
+.TUESDAY NIGHT...Mostly clear. Lows 30 to 40. Northwest winds up
+to 10 mph shifting to the northeast after midnight. 
+.WEDNESDAY...Sunny. Highs 50 to 64. Northeast winds 5 to 10 mph
+shifting to the southwest in the afternoon. 
+.WEDNESDAY NIGHT THROUGH FRIDAY...Mostly clear. Lows 33 to 44.
+Highs 52 to 67. 
+.FRIDAY NIGHT...Partly cloudy. Lows 35 to 45. 
+.SATURDAY THROUGH SUNDAY...Mostly clear. Highs 52 to 67. Lows
+34 to 44. 
+
+&&
+               TEMPERATURE     /    PRECIPITATION    
+
+Huntington Lake   53     36     55  /   0      0      0 
+Shaver Lake   61     39     62  /   0      0      0 
+Lake Wishon   58     36     60  /   0      0      0 
+
+
+$$
+
+CAZ328-242300-
+Kings Canyon NP-
+Including the city of Cedar Grove
+801 AM PDT Mon Apr 24 2023
+
+.TODAY...Not as cool. Sunny. Highs 35 to 51. West winds 5 to
+20 mph with gusts to around 50 mph. 
+.TONIGHT...Mostly clear. Lows 22 to 32. Northwest winds 5 to
+15 mph. Gusts up to 45 mph decreasing to 35 mph after midnight. 
+.TUESDAY...Sunny. Highs 38 to 52. Northwest winds 5 to 10 mph.
+Gusts up to 30 mph in the morning. 
+.TUESDAY NIGHT...Mostly clear. Lows 22 to 34. North winds 5 to
+15 mph. 
+.WEDNESDAY...Sunny. Highs 39 to 55. North winds 5 to 10 mph
+shifting to the southwest in the afternoon. Gusts up to 25 mph. 
+.WEDNESDAY NIGHT THROUGH SUNDAY...Mostly clear. Lows 25 to 39.
+Highs 41 to 59. 
+
+&&
+               TEMPERATURE     /    PRECIPITATION    
+
+Cedar Grove   69     39     71  /   0      0      0 
+
+
+$$
+
+CAZ329-242300-
+Grant Grove Area-
+Including the cities of Grant Grove and Hume Lake
+801 AM PDT Mon Apr 24 2023
+
+.TODAY...Sunny. Highs 50 to 64. Northwest winds up to 10 mph. 
+.TONIGHT...Mostly clear. Lows 35 to 47. Northeast winds up to
+10 mph. 
+.TUESDAY...Sunny. Highs 52 to 64. Northeast winds up to 10 mph
+shifting to the southwest in the afternoon. 
+.TUESDAY NIGHT...Mostly clear. Lows 37 to 49. Northwest winds up
+to 5 mph shifting to the northeast after midnight. 
+.WEDNESDAY...Warmer, sunny. Highs 55 to 69. East winds 5 to
+10 mph shifting to the southwest in the afternoon. 
+.WEDNESDAY NIGHT THROUGH FRIDAY...Mostly clear. Lows 39 to 53.
+Highs 58 to 72. 
+.FRIDAY NIGHT...Partly cloudy. Lows 41 to 53. 
+.SATURDAY THROUGH SUNDAY...Mostly clear. Highs 58 to 73. Lows
+41 to 53. 
+
+&&
+               TEMPERATURE     /    PRECIPITATION    
+
+Grant Grove   56     42     57  /   0      0      0 
+
+
+$$
+
+CAZ330-242300-
+Sequoia NP-
+Including the cities of Giant Forest and Lodgepole
+801 AM PDT Mon Apr 24 2023
+
+.TODAY...Breezy. Not as cool. Sunny. Patchy blowing dust late in
+the afternoon. Highs 39 to 57. Northwest winds 10 to 15 mph
+increasing to 10 to 25 mph in the afternoon. Gusts up to 45 mph. 
+.TONIGHT...Mostly clear. Lows 23 to 41. North winds 5 to 15 mph
+with gusts to around 40 mph. 
+.TUESDAY...Not as cool. Sunny. Highs 41 to 59. North winds 5 to
+10 mph with gusts to around 30 mph shifting to the southwest in
+the afternoon. 
+.TUESDAY NIGHT...Mostly clear. Lows 23 to 43. Northwest winds up
+to 10 mph shifting to the northeast after midnight. 
+.WEDNESDAY...Not as cool. Sunny. Highs 42 to 62. Northeast winds
+5 to 15 mph shifting to the southwest in the afternoon. 
+.WEDNESDAY NIGHT THROUGH FRIDAY...Mostly clear. Lows 25 to 47.
+Highs 44 to 65. 
+.FRIDAY NIGHT...Colder. Partly cloudy. Lows 27 to 47. 
+.SATURDAY THROUGH SUNDAY...Mostly clear. Highs 45 to 65. Lows
+28 to 46. 
+
+&&
+               TEMPERATURE     /    PRECIPITATION    
+
+Lodgepole    58     36     59  /   0      0      0 
+
+
+$$
+
+CAZ331-242300-
+South End of the Upper Sierra-
+Including the city of Johnsondale
+801 AM PDT Mon Apr 24 2023
+
+.TODAY...Breezy, sunny. Highs 52 to 66. Northwest winds 5 to
+15 mph with gusts to around 35 mph shifting to the west 10 to
+25 mph with gusts to around 55 mph in the afternoon. 
+.TONIGHT...Breezy. Mostly clear. Patchy blowing dust in the
+evening. Lows 31 to 45. Northwest winds 10 to 25 mph with gusts
+to around 55 mph decreasing to 10 to 15 mph with gusts to around
+45 mph after midnight. 
+.TUESDAY...Sunny. Highs 53 to 67. North winds 5 to 10 mph with
+gusts to around 30 mph shifting to the south in the afternoon. 
+.TUESDAY NIGHT...Mostly clear. Lows 32 to 48. West winds 5 to
+10 mph shifting to the north with gusts to around 30 mph after
+midnight. 
+.WEDNESDAY...Sunny. Highs 55 to 69. Northeast winds 5 to 15 mph
+shifting to the southeast in the afternoon. Gusts up to 30 mph. 
+.WEDNESDAY NIGHT THROUGH SUNDAY...Mostly clear. Lows 35 to 52.
+Highs 58 to 73. 
+
+&&
+               TEMPERATURE     /    PRECIPITATION    
+
+Johnsondale   69     37     71  /   0      0      0 
+
+
+$$
+
+CAZ332-242300-
+Kern River Valley-
+Including the cities of Lake Isabella and Kernville
+801 AM PDT Mon Apr 24 2023
+
+.TODAY...Breezy, sunny. Highs 71 to 77. West winds 5 to 15 mph
+increasing to 15 to 25 mph with gusts to around 40 mph in the
+afternoon. 
+.TONIGHT...Breezy. Mostly clear. Lows around 50. West winds 10 to
+25 mph with gusts to around 40 mph decreasing to 5 to 15 mph with
+gusts to around 30 mph after midnight. 
+.TUESDAY...Sunny. Highs 74 to 80. Northwest winds 5 to 10 mph
+shifting to the south in the afternoon. 
+.TUESDAY NIGHT...Clear. Lows in the lower 50s. West winds 5 to
+15 mph shifting to the north 5 to 10 mph after midnight. 
+.WEDNESDAY...Sunny. Highs 78 to 84. Northeast winds 5 to 15 mph
+shifting to the southeast 10 to 15 mph in the afternoon. 
+.WEDNESDAY NIGHT THROUGH SATURDAY...Mostly clear. Lows in the
+upper 50s. Highs 81 to 87. 
+.SATURDAY NIGHT AND SUNDAY...Clear. Lows in the upper 50s. Highs
+in the mid 80s. 
+
+&&
+               TEMPERATURE     /    PRECIPITATION    
+
+Alta Sierra   58     42     63  /   0      0      0 
+Kernville    78     48     81  /   0      0      0 
+Lake Isabella   76     51     80  /   0      0      0 
+Weldon       77     49     81  /   0      0      0 
+
+
+$$
+
+CAZ333-242300-
+Piute Walker Basin-
+801 AM PDT Mon Apr 24 2023
+
+.TODAY...Breezy, sunny. Highs 60 to 72. West winds 5 to 15 mph
+increasing to 15 to 25 mph with gusts to around 45 mph in the
+afternoon. 
+.TONIGHT...Breezy. Mostly clear. Patchy blowing dust in the
+evening. Lows 41 to 51. Northwest winds 15 to 25 mph with gusts
+to around 50 mph decreasing to 10 to 15 mph with gusts to around
+40 mph after midnight. 
+.TUESDAY...Sunny. Highs 65 to 75. Northwest winds 5 to 10 mph
+with gusts to around 25 mph shifting to the southwest in the
+afternoon. 
+.TUESDAY NIGHT...Clear. Lows 45 to 55. West winds 5 to 10 mph
+shifting to the north after midnight. 
+.WEDNESDAY...Sunny. Highs 68 to 80. East winds 5 to 15 mph with
+gusts to around 30 mph. 
+.WEDNESDAY NIGHT AND THURSDAY...Mostly clear. Lows 48 to 58.
+Highs 72 to 82. 
+.THURSDAY NIGHT...Partly cloudy. Lows 50 to 60. 
+.FRIDAY THROUGH SATURDAY...Mostly clear. Highs 72 to 82. Lows
+50 to 60. 
+.SATURDAY NIGHT AND SUNDAY...Clear. Lows 49 to 59. Highs 72 to
+82. 
+
+
+
+
+$$
+
+CAZ334-242300-
+Tehachapi-
+Including the city of Tehachapi
+801 AM PDT Mon Apr 24 2023
+
+.TODAY...Breezy, sunny. Patchy blowing dust late in the
+afternoon. Highs 61 to 71. Northwest winds 10 to 15 mph with
+gusts to around 35 mph increasing to 15 to 25 mph with gusts to
+around 50 mph in the afternoon. 
+.TONIGHT...Windy. Mostly clear. Patchy blowing dust. Lows 44 to
+52. Northwest winds 15 to 30 mph with gusts to around 55 mph
+decreasing to 10 to 20 mph with gusts to around 45 mph after
+midnight. 
+.TUESDAY...Sunny. Highs 66 to 76. Northwest winds 5 to 15 mph.
+Gusts up to 35 mph in the morning. 
+.TUESDAY NIGHT...Clear. Lows 48 to 56. Northwest winds 5 to
+15 mph. 
+.WEDNESDAY...Sunny. Highs 71 to 81. East winds 5 to 15 mph. Gusts
+up to 35 mph in the afternoon. 
+.WEDNESDAY NIGHT...Mostly clear. Lows 51 to 59. 
+.THURSDAY THROUGH FRIDAY...Partly cloudy. Highs 73 to 83. Lows
+53 to 61. 
+.FRIDAY NIGHT THROUGH SATURDAY NIGHT...Mostly clear. Lows 52 to
+60. Highs 74 to 84. 
+.SUNDAY...Sunny. Highs 73 to 83. 
+
+&&
+               TEMPERATURE     /    PRECIPITATION    
+
+Bear Valley Springs   64     44     68  /   0      0      0 
+Tehachapi    66     45     72  /   0      0      0 
+Twin Oaks    71     51     76  /   0      0      0 
+
+
+$$
+
+CAZ335-242300-
+Grapevine-
+Including the cities of Grapevine and Lebec
+801 AM PDT Mon Apr 24 2023
+
+.TODAY...Sunny. Highs 64 to 72. Northwest winds 5 to 15 mph with
+gusts to around 30 mph. 
+.TONIGHT...Mostly clear. Lows in the upper 40s. Northwest winds
+10 to 15 mph with gusts to around 30 mph. 
+.TUESDAY...Partly sunny in the morning then clearing. Highs 67 to
+75. North winds 5 to 15 mph. 
+.TUESDAY NIGHT...Clear. Lows in the lower 50s. Northwest winds
+5 to 10 mph shifting to the southwest after midnight. 
+.WEDNESDAY...Warmer. Partly sunny in the morning then clearing.
+Highs 73 to 83. East winds 5 to 20 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Lows in the mid 50s. 
+.THURSDAY THROUGH FRIDAY...Partly cloudy. Highs 74 to 83. Lows in
+the upper 50s. 
+.FRIDAY NIGHT THROUGH SUNDAY...Mostly clear. Lows in the upper
+50s. Highs 74 to 83. 
+
+&&
+               TEMPERATURE     /    PRECIPITATION    
+
+Grapevine    74     50     77  /   0      0      0 
+
+
+$$
+
+CAZ336-242300-
+Frazier Mountain Communities-
+Including the city of Frazier Park
+801 AM PDT Mon Apr 24 2023
+
+.TODAY...Sunny. Highs 62 to 74. North winds 5 to 15 mph with
+gusts to around 30 mph. 
+.TONIGHT...Mostly clear in the evening then becoming mostly
+cloudy. Lows 43 to 53. Northwest winds 5 to 15 mph with gusts to
+around 30 mph. 
+.TUESDAY...Partly sunny in the morning then clearing. Highs 64 to
+76. North winds 5 to 10 mph with gusts to around 25 mph. 
+.TUESDAY NIGHT...Clear. Lows 47 to 57. North winds 5 to 10 mph
+shifting to the south after midnight. 
+.WEDNESDAY...Warmer. Partly sunny in the morning then clearing.
+Highs 71 to 83. Southeast winds 5 to 10 mph shifting to the
+northeast 10 to 15 mph in the afternoon. Gusts up to 30 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Lows 51 to 61. 
+.THURSDAY THROUGH FRIDAY...Partly cloudy. Highs 72 to 85. Lows
+53 to 63. 
+.FRIDAY NIGHT THROUGH SUNDAY...Mostly clear. Lows 51 to 63. Highs
+72 to 84. 
+
+&&
+               TEMPERATURE     /    PRECIPITATION    
+
+Pine Mountain Club   64     44     66  /   0      0      0 
+Frazier Park   70     41     73  /   0      0      0 
+
+
+$$
+
+CAZ337-242300-
+Indian Wells Valley-
+Including the cities of Inyokern and Ridgecrest
+801 AM PDT Mon Apr 24 2023
+
+.TODAY...Sunny. Highs 83 to 89. West winds 5 to 15 mph. Gusts up
+to 40 mph in the afternoon. 
+.TONIGHT...Windy. Mostly clear. Patchy blowing dust in the
+evening. Lows in the mid 50s. West winds 20 to 30 mph decreasing
+to 15 to 20 mph after midnight. Gusts up to 50 mph. 
+.TUESDAY...Sunny. Highs 80 to 85. Northwest winds 10 to 15 mph
+shifting to the northeast 5 to 15 mph in the afternoon. 
+.TUESDAY NIGHT...Mostly clear. Lows in the mid 50s. Northeast
+winds 5 to 10 mph shifting to the northwest 10 to 15 mph after
+midnight. 
+.WEDNESDAY...Sunny. Highs 82 to 87. Northeast winds 10 to 15 mph.
+.WEDNESDAY NIGHT THROUGH SUNDAY...Mostly clear. Lows in the lower
+60s. Highs 87 to 95. 
+
+&&
+               TEMPERATURE     /    PRECIPITATION    
+
+Inyokern     87     55     84  /   0      0      0 
+Ridgecrest   89     53     85  /   0      0      0 
+
+
+$$
+
+CAZ338-242300-
+Mojave Desert Slopes-
+Including the city of Mojave
+801 AM PDT Mon Apr 24 2023
+
+.TODAY...Windy, sunny. Patchy blowing dust early in the morning.
+Patchy blowing dust in the afternoon. Highs 68 to 82. Northwest
+winds 15 to 30 mph. Gusts up to 45 mph increasing to 55 mph in
+the afternoon. 
+.TONIGHT...Very windy. Mostly clear. Patchy blowing dust through
+the night. Lows 49 to 55. Northwest winds 30 to 40 mph with gusts
+to around 70 mph decreasing to 20 to 35 mph with gusts to around
+60 mph after midnight. 
+.TUESDAY...Sunny. Highs 71 to 81. Northwest winds 10 to 15 mph
+with gusts to around 40 mph shifting to the northeast 5 to 15 mph
+in the afternoon. 
+.TUESDAY NIGHT...Mostly clear. Lows 51 to 57. Northwest winds
+5 to 15 mph. Gusts up to 40 mph after midnight. 
+.WEDNESDAY...Sunny. Highs 74 to 84. Northeast winds 10 to 20 mph
+with gusts to around 35 mph. 
+.WEDNESDAY NIGHT AND THURSDAY...Mostly clear. Lows 54 to 60.
+Highs 78 to 88. 
+.THURSDAY NIGHT...Partly cloudy. Lows 56 to 62. 
+.FRIDAY THROUGH SATURDAY NIGHT...Mostly clear. Highs 78 to 90.
+Lows 55 to 63. 
+.SUNDAY...Sunny. Highs 78 to 90. 
+
+&&
+               TEMPERATURE     /    PRECIPITATION    
+
+Mojave       79     54     81  /   0      0      0 
+
+
+$$
+
+CAZ339-242300-
+Mojave Desert-
+Including the cities of Rosamond, California City, Randsburg, 
+and Edwards AFB
+801 AM PDT Mon Apr 24 2023
+
+.TODAY...Windy, sunny. Patchy blowing dust late in the afternoon.
+Highs in the lower 80s. West winds 5 to 15 mph with gusts to
+around 35 mph increasing to 15 to 30 mph with gusts to around
+45 mph in the afternoon. 
+.TONIGHT...Windy. Mostly clear. Patchy blowing dust through the
+night. Lows in the lower 50s. West winds 15 to 30 mph with gusts
+to around 60 mph. 
+.TUESDAY...Sunny. Highs in the lower 80s. Northwest winds 5 to
+15 mph with gusts to around 30 mph shifting to the northeast in
+the afternoon. 
+.TUESDAY NIGHT...Mostly clear. Lows 50 to 56. Northwest winds
+5 to 15 mph. 
+.WEDNESDAY...Sunny. Highs in the mid 80s. Northeast winds 5 to
+15 mph. Gusts up to 30 mph in the afternoon. 
+.WEDNESDAY NIGHT AND THURSDAY...Mostly clear. Lows 53 to 59.
+Highs in the upper 80s. 
+.THURSDAY NIGHT...Partly cloudy. Lows in the upper 50s. 
+.FRIDAY THROUGH SATURDAY NIGHT...Mostly clear. Highs around 90.
+Lows 55 to 62. 
+.SUNDAY...Sunny. Highs around 90. 
+
+&&
+               TEMPERATURE     /    PRECIPITATION    
+
+Randsburg    81     55     79  /   0      0      0 
+California City   84     52     83  /   0      0      0 
+Edwards AFB   84     51     84  /   0      0      0 
+Rosamond     84     51     84  /   0      0      0 
+
+
+$$
+

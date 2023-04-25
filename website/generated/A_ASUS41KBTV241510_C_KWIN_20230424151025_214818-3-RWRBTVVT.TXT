@@ -1,0 +1,89 @@
+ASUS41 KBTV 241510
+RWRBTV
+VERMONT REGIONAL WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE BURLINGTON VT
+1100 AM EDT MON APR 24 2023
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO 
+SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+* THESE REPORTS ARE NOT UNDER NWS QUALITY CONTROL AND/OR DO NOT
+  REPORT WEATHER SUCH AS PRECIPITATION AND FOG.
+
+VTZ001>019-241600-
+_____VERMONT_____
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BURLINGTON     CLOUDY    49  37  63 NW6       30.01S TC   9           
+MONTPELIER     LGT RAIN  44  41  89 CALM      30.03S FOG     TC   7   
+MORRISVILLE    LGT RAIN  47  42  83 CALM      30.01R TC   8           
+ST. JOHNSBURY*   N/A     45  40  82 MISG      29.99S TC   7           
+LYNDONVILLE*     N/A     44  39  80 CALM      30.01S TC   7           
+MIDDLEBURY*    RAIN      42  42 100 CALM      30.02R TC   6           
+RUTLAND*       LGT RAIN  43  42  97 SW6       30.02R TC   6           
+SPRINGFIELD    LGT RAIN  47  42  83 NW5       30.00S TC   8           
+HIGHGATE*        N/A    N/A N/A N/A MISG        N/A                   
+NEWPORT*       CLOUDY    45  41  88 CALM      30.02S TC   7           
+BENNINGTON     CLOUDY    43  37  79 SW7       30.03R TC   6           
+LAKE EDEN*       N/A     45 N/A N/A NE1         N/A  TC   7           
+
+_____LAKE CHAMPLAIN_____
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BURTON ISLAND*   N/A     45  39  81 CALM        N/A  TC   7           
+COLCHESTER RF*   N/A     43  39  87 SE1         N/A  TC   6           
+DIAMOND ISL*     N/A     45  39  81 N1          N/A  TC   7           
+
+$$
+
+NYZ007-026>031-035-052-083-087-241600-
+_____NORTHERN NEW YORK_____
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+SARANAC LAKE   LGT RAIN  39  36  89 SW5       29.99R TC   4           
+MASSENA        LGT RAIN  42  39  89 W9        30.04R TC   6           
+OGDENSBURG*    CLOUDY    43  39  87 W6        30.02R TC   6           
+POTSDAM*       LGT RAIN  43  41  93 SW7       30.03R TC   6           
+WATERTOWN      CLOUDY    46  37  71 W8        30.05R TC   8           
+FT DRUM        DRIZZLE   43  38  83 W7        30.01S TC   6           
+ALBANY         CLOUDY    49  37  63 NW5       30.06S TC   9           
+GLENS FALLS    CLOUDY    44  40  85 S6        30.04R TC   7           
+
+$$
+NHZ002-005-011-241600-
+_____NEW HAMPSHIRE_____
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+LEBANON        CLOUDY    50  43  77 NE8       30.00S TC  10           
+KEENE          PTSUNNY   50  39  66 VRB3        N/A  TC  10           
+MT WASHINGTON  FRZ DRZL  25  25 100 SE33        N/A  VSB 1/16WCI   7  
+PLYMOUTH       DRIZZLE   45  41  85 E3        30.02R TC   7           
+WHITEFIELD     CLOUDY    47  37  68 CALM      30.00R TC   8           
+
+$$
+
+_____REGIONAL QUEBEC LOCATIONS_____
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MONTREAL       CLOUDY    45  41  87 SW10      30.02S TC   7           
+QUEBEC CITY    LGT RAIN  43  41  93 E15       30.10R FOG     TC   6   
+SHERBROOKE     CLOUDY    45  39  81 E7        30.02S TC   7           
+
+_____REGIONAL ONTARIO LOCATIONS_____
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+OTTAWA         LGT RAIN  43  39  87 W10       30.02R TC   6           
+
+______KEY______
+VSB  - VISIBILITY IN MILES
+WCI  - WIND CHILL INDEX
+HX   - HEAT INDEX
+$$
+NNNN
+  

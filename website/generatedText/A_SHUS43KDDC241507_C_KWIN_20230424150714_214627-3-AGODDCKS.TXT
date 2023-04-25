@@ -1,0 +1,39 @@
+SHUS43 KDDC 241507
+AGODDC
+Southwest Kansas Soil Temperatures
+National Weather Service Dodge City KS
+1007 AM CDT Mon Apr 24 2023
+
+ ***Soil temperature data from NWS Weather Service 7AM CST***
+-------------------------------------------------------------
+  Station              Depth of temperature readings (inches) 
+                                  2    4    8   20   40   60
+     
+  Dodge City Forecast Office     52   55   56        53   48
+     
+
+
+************Soil temperature data at other selected sites************
+                   24 hour max and min temperatures
+---------------------------------------------------------------------
+                                          Maximum Temp   Minimum Temp
+  Station                                  Depth  (in)    Depth  (in)
+                                             2      4       2      4
+     
+  K-STATE AG RESEARCH CENTER - Hays                                 
+  K-STATE AG RESEARCH CENTER - Garden City         59             52
+  K-STATE AG RESEARCH CENTER - St. John                             
+  K-STATE AG RESEARCH CENTER - Tribune             60             51
+  K-STATE Wx STATION - Dighton 6W                                   
+  K-STATE Wx STATION - Sublette 16NW                                
+  K-STATE Wx STATION - Hoxie 9W                                     
+  K-STATE Wx STATION - Goodland 8SW                                 
+  K-STATE Wx STATION - Sharon Springs 8SW                           
+  K-STATE Wx STATION - St. Francis 10S                              
+  K-STATE Wx STATION - Montezuma                                    
+  K-STATE Wx STATION - Johnson City 2N                              
+  K-STATE Wx STATION - Sharon Springs 8SW                           
+  K-STATE Wx STATION - Ulysses                                      
+     
+$$
+

@@ -1,0 +1,68 @@
+WGUS83 KFGF 241505
+FLSFGF
+
+Flood Statement
+National Weather Service Grand Forks ND
+1005 AM CDT Mon Apr 24 2023
+
+...The Flood Warning is extended for the following rivers in 
+Minnesota...
+
+  Two Rivers River near Hallock affecting Kittson County.
+
+.Red River basin river flooding to continues. Recent snowmelt will 
+result in a slower gradual recession of the Two Rivers River near 
+Hallock. River levels continue to fall, with the river expected to 
+drop into Action stage by midweek.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Please report observed flooding to local emergency services or law 
+enforcement and request they pass this information to the National 
+Weather Service when you can do so safely.
+
+Safety message - Turn around, don't drown. Don't travel through 
+flooded areas. Most flood deaths occur in vehicles.
+
+&&
+
+Additional information is available at www.weather.gov.
+
+
+MNC069-252115-
+/O.EXT.KFGF.FL.W.0009.000000T0000Z-230427T0000Z/
+/HLLM5.1.SM.230414T1102Z.230418T0515Z.230425T1800Z.NO/
+1005 AM CDT Mon Apr 24 2023
+
+...FLOOD WARNING FOR SNOWMELT NOW IN EFFECT UNTIL WEDNESDAY 
+EVENING...
+
+* WHAT...Minor flooding is occurring and minor flooding is forecast.
+
+* WHERE...Two Rivers River near Hallock.
+
+* WHEN...Until Wednesday evening.
+
+* IMPACTS...At 802.0 feet, MINOR FLOOD STAGE. Hallock Dam spillway 
+  at Gilbert Park closed to the public. Culverts with flappers are 
+  checked.
+
+
+* ADDITIONAL DETAILS...
+  - At 9:00 AM CDT Monday the stage was 802.2 feet.
+  - Recent Activity...The maximum river stage in the 24 hours
+    ending at 9:00 AM CDT Monday was 802.4 feet.
+  - Forecast...The river is expected to fall below flood stage
+    early tomorrow afternoon and continue falling to 799.8 feet
+    Monday morning.
+  - Flood stage is 802.0 feet.
+
+
+&&
+
+LAT...LON 4885 9667 4867 9662 4873 9713 4888 9719
+
+
+$$
+
+NR

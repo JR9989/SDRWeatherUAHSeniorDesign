@@ -1,0 +1,57 @@
+FLUS43 KBIS 241448
+HWOBIS
+
+Hazardous Weather Outlook
+National Weather Service Bismarck ND
+948 AM CDT Mon Apr 24 2023
+
+NDZ017-018-031>033-040-041-043-044-251500-
+McKenzie-Dunn-Golden Valley-Billings-Stark-Slope-Hettinger-Bowman-
+Adams-
+948 AM CDT Mon Apr 24 2023 /848 AM MDT Mon Apr 24 2023/
+
+This Hazardous Weather Outlook is for portions of northwest North
+Dakota and southwest North Dakota.
+
+.DAY ONE...Today and Tonight
+
+Near critical fire weather conditions are expected this afternoon
+through early this evening due to southeast winds gusting to near
+30 mph and afternoon humidity dropping to around 25 percent. 
+
+.DAYS TWO THROUGH SEVEN...Tuesday through Sunday
+
+The probability for widespread hazardous weather is low.
+
+.SPOTTER INFORMATION STATEMENT...
+
+Spotter activation will not be needed.
+
+$$
+
+NDZ001>005-009>013-019>023-025-034>037-042-045>048-050-051-251500-
+Divide-Burke-Renville-Bottineau-Rolette-Williams-Mountrail-Ward-
+McHenry-Pierce-Mercer-Oliver-McLean-Sheridan-Wells-Foster-Morton-
+Burleigh-Kidder-Stutsman-Grant-Sioux-Emmons-Logan-La Moure-
+McIntosh-Dickey-
+948 AM CDT Mon Apr 24 2023 /848 AM MDT Mon Apr 24 2023/
+
+This Hazardous Weather Outlook is for portions of north central
+North Dakota, northwest North Dakota, south central North Dakota,
+and southeast North Dakota.
+
+.DAY ONE...Today and Tonight
+
+The probability for widespread hazardous weather is low.
+
+.DAYS TWO THROUGH SEVEN...Tuesday through Sunday
+
+The probability for widespread hazardous weather is low.
+
+.SPOTTER INFORMATION STATEMENT...
+
+Spotter activation will not be needed.
+
+$$
+
+NH

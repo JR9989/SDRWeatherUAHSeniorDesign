@@ -1,0 +1,908 @@
+FOUS53 KGRR 241447
+AFMGRR
+
+Area Forecast Matrices
+National Weather Service Grand Rapids MI
+1046 AM EDT Mon Apr 24 2023
+
+MIZ037-242100-
+Mason-
+Including the city of Ludington
+1046 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      47          30          47          29          47
+Temp                44 47 46 44 36 33 31 31 40 45 45 41 36 32 30 31 41 45 45 43
+Dewpt               28 25 22 22 23 25 26 27 30 30 29 27 27 26 26 26 28 27 26 25
+RH                  53 42 38 41 59 72 81 85 67 55 53 57 69 78 85 81 59 49 47 49
+Wind dir            NW NW NW NW  N NE NE NE NE  N  N  N  N  N  N  N  N NW NW  N
+Wind spd             8 10  9  5  3  4  5  5  8 10 11 11 10  8  6  6 10 10 10  8
+Wind gust                                         21                           
+Clouds              SC SC SC SC SC SC B2 B2 B2 B1 SC FW FW FW SC SC SC SC FW CL
+PoP 12hr                      5          30          40           0           0
+QPF 12hr                      0        0.01        0.02           0           0
+Snow 12hr                 00-00       00-00           T                        
+Rain shwrs                          S        S  C  C                           
+Snowshwrs                           S  C  C  C                                 
+Wind chill                               25       39 35 28 25 23 25 35         
+Min chill              35    34    26    23    28    32    22    21    26    34
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          30    56      41    63      44    56      40    50
+Temp          33 34 53 51   44 43 60 55   47 45 54 50   44 42 48 46
+Dewpt         25 26 30 32   33 34 37 38   40 41 43 41   40 39 39 37
+PWind dir         E     S      SE    SE       E    NE      NE     N
+Wind char        LT    GN      GN    GN      GN    GN      GN    GN
+Avg clouds    FW SC SC B2   B2 B2 B1 B1   B2 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     5      20    20      50    60      60    60
+Rain shwrs                      S     S    C  C  C  L    L  L  L  C
+
+$$
+MIZ038-242100-
+Lake-
+Including the city of Baldwin
+1046 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      48          27          48          25          50
+Temp                43 47 47 43 34 30 29 30 40 46 46 42 34 30 27 29 40 47 48 44
+Dewpt               25 21 17 17 21 23 24 25 28 27 26 25 26 25 24 25 26 25 24 23
+RH                  49 35 30 35 58 75 81 81 62 47 45 50 72 81 88 85 57 42 39 43
+Wind dir            NW NW NW NW  N NE NE NE NE  N  N  N  N  N  N  N  N NW NW NW
+Wind spd            10 10 10  6  4  4  3  5  6  8  9 10 10  8  6  6  9  9  8  8
+Clouds              SC B1 SC FW SC SC B1 B1 B2 B2 B1 FW FW FW SC SC SC B1 SC FW
+PoP 12hr                      5          20          40           5           0
+QPF 12hr                      0           0        0.01           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                   S  C  C                           
+Snowshwrs                              S  C  C     C                           
+Wind chill                               24          36 26 22 20 22 34         
+Min chill              32    36    23    20    25    33    20    18    23    37
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          27    58      39    64      43    57      40    51
+Temp          30 33 55 52   43 41 61 57   46 45 56 52   44 42 48 47
+Dewpt         23 25 28 30   32 32 36 37   40 41 42 41   40 39 39 37
+PWind dir        NE     S      SE    SE       E     E      NE     N
+Wind char        LT    GN      GN    GN      GN    GN      GN    GN
+Avg clouds    FW SC SC B2   B2 B2 B1 B1   B2 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     5      20    20      50    60      70    60
+Rain shwrs                   S  S  S  S    C  C  C  L    L  L  L  L
+
+$$
+MIZ039-242100-
+Osceola-
+Including the city of Reed City
+1046 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      47          26          47          25          49
+Temp                42 45 46 42 32 29 28 29 39 45 46 41 32 29 27 29 39 46 48 44
+Dewpt               26 22 17 17 21 23 24 25 27 26 26 25 26 25 24 25 26 24 24 24
+RH                  53 40 31 36 63 78 85 85 62 47 45 52 78 85 88 85 59 42 39 45
+Wind dir            NW NW NW NW  N  N  N  N  N  N  N  N  N  N  N  N  N NW NW NW
+Wind spd            10 11 11  9  5  5  4  4  5  8  9 10 10  6  6  8 10  9  8  8
+Clouds              B1 B1 SC FW FW SC B1 B1 B1 B2 B1 SC FW FW SC SC SC B1 SC SC
+PoP 12hr                     10          20          40           5           0
+QPF 12hr                      0           0   0.00-0.05           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                      C  C                           
+Snowshwrs                              S  C  C     C                           
+Wind chill          36             23                34 24 21 20 21 32         
+Min chill              29    31    20    19    24    30    19    18    22    35
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          26    57      37    62      42    56      39    49
+Temp          29 31 53 50   40 39 59 54   45 44 55 51   43 41 48 46
+Dewpt         24 26 28 30   32 32 36 37   40 41 41 41   41 39 39 37
+PWind dir        NE    SE      SE    SE       E     E       E     N
+Wind char        LT    GN      GN    GN      GN    GN      GN    GN
+Avg clouds    FW FW SC B1   B2 B2 B1 B1   B2 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     5      20    20      50    60      70    70
+Rain shwrs                      S  S  S    C  C  C  L    L  L  L  L
+
+$$
+MIZ040-242100-
+Clare-
+Including the city of Clare
+1046 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      48          27          48          27          50
+Temp                41 45 47 43 34 30 29 30 40 46 46 42 35 31 29 30 40 47 49 45
+Dewpt               26 22 18 17 22 24 24 25 26 26 26 26 27 26 25 25 26 25 24 24
+RH                  55 40 31 35 61 78 81 81 57 45 45 53 72 81 85 81 57 42 37 43
+Wind dir            NW NW NW NW NW NW NW NW NW NW NW  N  N  N NW NW  N NW NW NW
+Wind spd            10 11 11  9  5  5  5  4  5  6  8  9  8  6  6  8  9  9  9  8
+Clouds              B1 B1 B1 FW FW FW SC B1 B1 B2 B1 B1 SC SC SC SC SC B1 B1 SC
+PoP 12hr                     10          10          40           5           0
+QPF 12hr                      0           0   0.01-0.07           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                   S  C  C                           
+Snowshwrs                                 S  S     S                           
+Wind chill          35 39       28 24 23             36 28 24 22 23 34         
+Min chill              30    35    22    20    26    33    20    18    24    38
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          27    57      37    62      43    57      40    50
+Temp          31 33 53 51   41 40 58 54   46 44 54 53   45 43 48 46
+Dewpt         25 27 28 31   31 33 36 37   40 42 42 41   41 40 40 37
+PWind dir        NE    SE       E     E       E     E       E     N
+Wind char        LT    GN      GN    GN      GN    GN      GN    GN
+Avg clouds    FW FW SC B1   B2 B2 B1 B1   B2 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     5      10    20      50    60      60    70
+Rain shwrs                         S  S    C  C  C  L    L  L  L  L
+
+$$
+MIZ043-242100-
+Oceana-
+Including the city of Hart
+1046 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      47          32          47          29          47
+Temp                44 46 46 43 36 34 33 33 39 44 45 41 36 32 30 31 41 45 45 43
+Dewpt               28 26 24 24 25 26 27 29 32 31 31 29 28 27 26 27 28 28 27 26
+RH                  53 45 42 47 64 72 78 85 76 60 58 62 72 81 85 85 59 51 49 51
+Wind dir            NW  W NW NW  N NE NE  E NE  N NW  N  N  N  N  N  N NW NW  N
+Wind spd             9 11 10  5  2  4  4  5  8 10 12 12 10  9  8  6 10 10 10  9
+Clouds              SC SC SC SC SC B1 B2 B2 B2 B2 SC FW FW FW FW SC FW SC FW FW
+PoP 12hr                      5          40          40           5           0
+QPF 12hr                      0        0.02        0.01           0           0
+Snow 12hr                 00-00           T       00-00                        
+Rain shwrs                          S        S  C  C                           
+Snowshwrs                           S  C  C  C                                 
+Wind chill                               27 33    39 34 28 25 23 25 35         
+Min chill              36    35    26    24    27    30    22    20    26    34
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          31    55      41    62      45    55      40    50
+Temp          33 34 52 51   44 43 59 55   47 46 54 50   45 42 48 46
+Dewpt         26 27 32 33   35 34 38 40   42 42 43 42   41 39 40 38
+PWind dir        NE     S      SE    SE       E     E       N    NW
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    FW SC B1 B2   B2 B2 B1 B1   B2 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     5      20    20      50    60      70    60
+Rain shwrs                   S  S     S    C  C  L  L    L  L  L  C
+
+$$
+MIZ044-242100-
+Newaygo-
+Including the city of Fremont
+1046 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      48          30          48          27          50
+Temp                43 46 47 44 35 32 32 31 39 45 46 43 36 31 29 30 41 48 49 45
+Dewpt               26 24 20 21 22 23 24 27 30 29 28 28 27 26 25 26 27 26 26 26
+RH                  51 42 34 39 59 69 72 85 70 53 49 55 69 81 85 85 57 42 40 47
+Wind dir            NW  W NW NW NW NE NE  E  E  N  N  N  N  N  N  N  N NW NW NW
+Wind spd            10 12 12  8  4  4  4  5  6  9 10 10 10  8  6  6 10 10 10  9
+Clouds              B1 B2 SC FW SC SC B1 B2 B2 B2 B1 SC FW FW FW FW FW SC SC FW
+PoP 12hr                     10          30          40           5           0
+QPF 12hr                      0           0        0.01           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                          S        S  C  C                           
+Snowshwrs                              C  C  C                                 
+Wind chill          37                               37 29 24 21 23 34         
+Min chill              33    36    23    22    25    35    21    19    24    38
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          29    57      40    63      45    57      41    50
+Temp          32 33 55 53   43 42 60 56   47 46 55 53   45 43 48 47
+Dewpt         25 27 29 32   33 34 37 39   42 42 43 43   42 40 41 38
+PWind dir        NE    SE      SE     E       E     E      NE    NW
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    FW SC SC B1   B2 B1 B1 B1   B2 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     5      20    20      50    60      70    60
+Rain shwrs                   S  S  S  S    C  C  L  L    L  L  L  L
+
+$$
+MIZ045-242100-
+Mecosta-
+Including the city of Big Rapids
+1046 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      48          28          48          27          50
+Temp                42 46 47 44 34 30 30 30 39 45 46 43 35 30 28 30 40 47 49 46
+Dewpt               26 24 19 18 20 22 23 26 28 28 27 27 27 26 26 25 26 25 25 25
+RH                  53 42 32 35 56 72 75 85 64 51 47 53 72 85 92 81 57 42 39 43
+Wind dir            NW NW NW NW NW  N  N NE NE NW  N  N  N  N  N  N  N NW NW NW
+Wind spd            10 11 12 10  5  4  4  5  5  8  9 10 10  8  6  8 10 10  9  8
+Clouds              B1 B2 B1 FW FW SC SC B1 B2 B2 B2 B1 FW FW SC FW FW SC SC SC
+PoP 12hr                     20          20          40           5           0
+QPF 12hr                      0           0   0.00-0.07           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              S                    S  C  C                           
+Snowshwrs            S  S              S  C  C                                 
+Wind chill          36       38                      37 27 23 21 22 34         
+Min chill              33    37    23    22    26    34    21    19    24    39
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          28    57      38    62      44    57      40    50
+Temp          32 33 54 53   41 40 59 55   46 45 55 52   45 42 48 47
+Dewpt         26 27 28 31   33 33 36 38   42 42 42 42   42 41 40 37
+PWind dir        NE    SE      SE     E       E     E       E    NW
+Wind char        LT    GN      GN    GN      GN    GN      GN    GN
+Avg clouds    FW FW SC B1   B2 B2 B1 B1   B2 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     5      10    20      50    60      70    70
+Rain shwrs                      S  S  S    C  C  C  L    L  L  L  L
+
+$$
+MIZ046-242100-
+Isabella-
+Including the city of Mount Pleasant
+1046 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      49          28          48          28          51
+Temp                43 46 48 44 35 31 29 31 40 46 46 43 37 33 30 31 41 48 50 47
+Dewpt               27 24 21 19 21 23 24 26 28 28 28 28 29 28 27 26 26 26 25 26
+RH                  53 42 34 36 56 72 81 81 62 49 49 55 72 82 88 81 55 42 37 43
+Wind dir            NW NW NW NW NW NW NW NW  W NW NW  N  N  N NW NW  N NW NW NW
+Wind spd            10 11 11 10  5  4  3  4  5  6  6  8  8  6  6  8  9  9  8  6
+Clouds              B1 B2 B1 FW FW FW SC B1 B1 B2 B2 B1 B1 SC B1 FW SC B1 B1 SC
+PoP 12hr                     20          10          50           5           0
+QPF 12hr                      0           0   0.01-0.15           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              S                    S  C  C                           
+Snowshwrs                              S  C  C                                 
+Wind chill          37                                  31 27 23 24 35         
+Min chill              32    38    23    23    28    36    22    19    25      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          29    58      38    62      45    57      42    51
+Temp          34 33 54 53   41 40 58 55   47 46 55 53   46 43 49 47
+Dewpt         27 28 29 32   33 34 37 39   42 43 43 42   43 41 41 38
+PWind dir        NE    SE       E     E       E     E      SE    NW
+Wind char        LT    GN      GN    GN      GN    GN      GN    GN
+Avg clouds    SC FW SC B1   B1 B2 B1 B1   B2 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     0      10    20      50    60      60    70
+Rain shwrs                         S  S    C  C  C  L    L  L  L  L
+
+$$
+MIZ050-242100-
+Muskegon-
+Including the city of Muskegon
+1046 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      48          33          48          30          50
+Temp                46 47 48 45 37 36 35 34 41 45 46 43 38 34 31 32 42 48 47 44
+Dewpt               27 25 23 25 27 26 27 29 31 31 31 30 29 27 27 27 27 28 28 27
+RH                  47 42 37 45 67 67 72 82 67 58 55 60 70 75 85 81 55 46 47 51
+Wind dir             W  W  W  W  W NE NE  E  E  N  N NW  N  N  N  N  N NW NW NW
+Wind spd             9 12 11  5  2  3  4  6  8  9 10 11 10  9  8  8  9 10 10  9
+Wind gust                 21                                                   
+Clouds              SC SC FW FW SC B1 B2 B2 B2 B2 B1 SC FW FW FW FW FW SC FW FW
+PoP 12hr                      5          40          40           5           0
+QPF 12hr                      0        0.01        0.01           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                          S  S  S  C  C  C                           
+Snowshwrs                              C  C  C                                 
+Wind chill                               28          37 31 27 24 25 36         
+Min chill              35    35    30    26    28    32    24    21    27    34
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          31    56      41    63      46    57      42    51
+Temp          34 35 54 52   45 43 59 55   48 47 55 52   46 44 49 47
+Dewpt         27 28 31 34   34 34 39 41   42 42 43 43   42 40 41 39
+PWind dir        NE     S      SE    SE       E    SE       N    NW
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    FW SC SC B1   B1 B1 B1 B1   B2 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     5      20    20      50    60      70    60
+Rain shwrs                      S  S  S    C  C  L  L    L  L  L  L
+
+$$
+MIZ051-242100-
+Montcalm-
+Including the city of Greenville
+1046 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      48          30          48          28          51
+Temp                42 46 47 45 35 32 31 32 40 45 46 43 37 33 30 31 41 48 50 47
+Dewpt               29 26 23 21 22 22 24 26 29 29 29 30 30 29 27 27 26 26 26 27
+RH                  60 45 38 38 59 66 75 78 64 53 51 60 75 85 88 85 55 42 39 45
+Wind dir             W  W  W NW NW  N  N NE  E  N  N NW  N  N  N  N  N NW NW NW
+Wind spd            10 12 13 10  5  4  4  5  6  6  9  8  9  8  6  8  9  9 10  6
+Clouds              B1 B2 B1 FW FW FW SC B2 B2 B2 B2 B1 SC SC SC FW FW B1 B1 SC
+PoP 12hr                     20          20          50           5           0
+QPF 12hr                      0           0   0.00-0.19           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs           S  S                    S  C  C                           
+Snowshwrs            S                 S  C  C                                 
+Wind chill          36                                  31 26 23 24 35         
+Min chill              33    38    26    24    28    37    23    19    25      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          30    58      39    62      45    57      42    51
+Temp          34 34 55 53   43 42 59 55   48 47 55 53   46 44 48 47
+Dewpt         27 28 29 32   34 34 37 40   43 43 43 43   44 41 41 39
+PWind dir        NE    SE       E     E       E     E      SE     W
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    FW FW SC B1   B1 B1 B1 B1   B2 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     5      10    20      50    70      70    70
+Rain shwrs                         S  S    C  C  L  L    L  L  L  L
+
+$$
+MIZ052-242100-
+Gratiot-
+Including the city of Alma
+1046 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      50          30          48          31          52
+Temp                41 46 48 46 37 32 31 33 41 45 46 43 39 35 33 33 41 48 50 48
+Dewpt               32 28 26 25 24 24 25 27 29 31 30 32 32 31 29 29 28 27 27 29
+RH                  70 49 42 43 59 72 78 78 62 58 53 65 76 85 85 85 59 44 41 47
+Wind dir             W  W NW NW NW NW NW  N NW NW NW  N  N  N NW NW  N NW NW  N
+Wind spd            10 10 11  9  5  4  3  4  5  5  8  6  6  5  5  8  8  8  8  5
+Clouds              B2 B2 B2 SC FW FW SC B1 B2 B2 B2 B1 B1 B1 B1 SC SC B1 B1 SC
+PoP 12hr                     30          10          60          10           0
+QPF 12hr                      0           0   0.04-0.19        0.02           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              C  S                 C  L  L                           
+Snowshwrs                              S  C  C                                 
+Wind chill          35                                        27 27            
+Min chill              32          26    25    29    38    28    23    27      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          32    59      40    62      47    58      43    51
+Temp          37 35 55 53   43 43 59 55   48 47 56 54   48 46 49 48
+Dewpt         29 30 31 34   34 35 39 42   44 45 45 44   45 43 42 41
+PWind dir        NE    SE       E     E       E     E      SE     W
+Wind char        LT    GN      GN    GN      GN    GN      GN    GN
+Avg clouds    SC FW SC B1   B1 B2 B2 B2   B2 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     0      10    20      50    70      70    70
+Rain shwrs                         S  S    C  C  C  L    L  L  L  L
+
+$$
+MIZ056-242100-
+Ottawa-
+Including the cities of Grand Haven and Jenison
+1046 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      48          33          48          30          50
+Temp                45 47 48 45 37 35 35 35 42 46 46 44 38 34 31 32 43 48 48 45
+Dewpt               28 26 23 25 27 27 27 29 32 33 32 32 30 29 27 27 28 28 28 28
+RH                  51 43 37 45 67 72 72 78 67 60 58 62 73 82 85 81 55 46 46 51
+Wind dir             W  W  W  W  W  E  E  E  E NE NW NW  N  N  N  N  N NW NW NW
+Wind spd            10 13 11  6  2  3  4  6  8  9 10  9  8  8  6  6  9 10 11 10
+Wind gust                 21                                                   
+Clouds              B1 SC FW FW SC B1 B2 B2 B2 B2 B2 B1 FW FW FW FW FW FW FW FW
+PoP 12hr                      5          30          50           5           0
+QPF 12hr                      0        0.01        0.02           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                          S  C  S  C  C  C                           
+Snowshwrs                           S  C  C                                    
+Wind chill          39                                  32 27 24 26 37         
+Min chill              35    37    31    27    29    36    24    22    27    36
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          31    58      41    63      46    58      42    51
+Temp          35 35 55 54   45 43 60 56   48 47 56 53   47 45 49 48
+Dewpt         28 28 32 35   34 35 39 42   44 43 44 44   43 41 41 40
+PWind dir        NE    SE      SE     E       E    SE      NW     W
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    FW FW SC B1   B1 B1 B1 B1   B2 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     5      10    20      50    60      70    70
+Rain shwrs                         S  S    C  C  L  L    L  L  L  L
+
+$$
+MIZ057-242100-
+Kent-
+Including the city of Grand Rapids
+1046 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      49          32          48          29          52
+Temp                44 46 48 45 36 34 33 34 40 45 46 44 38 33 30 32 41 49 50 47
+Dewpt               29 26 22 23 24 24 25 27 31 32 31 30 30 29 27 27 27 27 27 27
+RH                  55 45 35 41 61 66 72 75 70 60 55 57 73 85 88 81 57 42 41 45
+Wind dir             W  W  W NW  W  N NE  E  E NE  N NW  N  N  N  N  N NW NW NW
+Wind spd            10 13 13  9  4  3  3  5  8  9 10  8  8  8  6  6  9 10 10  9
+Clouds              B1 B2 SC FW FW SC B1 B2 B2 B2 B2 B1 FW FW FW FW FW SC SC SC
+PoP 12hr                     20          30          50           5           0
+QPF 12hr                      0           0   0.01-0.06           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs           S  S                 S  C  C  C                           
+Snowshwrs            S                 C  C  C                                 
+Wind chill          38                                  32 27 23 25            
+Min chill              33    38    26    25    29    37    24    21    25      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          30    59      40    63      46    58      42    51
+Temp          34 34 56 54   44 43 60 56   48 47 56 54   47 44 48 48
+Dewpt         28 28 30 34   33 34 39 41   44 44 45 44   44 41 42 40
+PWind dir        NE    SE      SE     E       E    SE       S     W
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    FW FW SC B1   B1 B1 B1 B1   B2 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     5      10    30      50    70      70    70
+Rain shwrs                         S  C    C  C  L  L    L  L  L  L
+
+$$
+MIZ058-242100-
+Ionia-
+Including the city of Ionia
+1046 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      49          30          48          29          52
+Temp                42 46 48 46 36 33 32 34 40 45 46 43 38 35 32 32 41 49 51 48
+Dewpt               28 26 23 23 23 23 24 26 30 31 31 31 31 30 28 27 28 27 26 28
+RH                  57 45 37 40 59 66 72 72 67 58 55 62 76 82 85 81 59 42 37 46
+Wind dir             W  W  W  W  W NW  N NE  E  E  N  N  N  N  N  N  N NW NW NW
+Wind spd            10 12 13  9  5  3  3  4  6  8  9  8  6  6  5  6  8  9  9  6
+Clouds              B1 B2 B1 SC FW FW SC B2 B2 B2 B2 B1 B1 SC B1 SC SC B1 B1 SC
+PoP 12hr                     20          20          60           5           0
+QPF 12hr                      0           0        0.05           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs           S  S              S  S  C  L  L                           
+Snowshwrs            S                 S  C  C                                 
+Wind chill          36                                     29 26 26            
+Min chill              33          27    26    30    38    27    22    27      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          30    59      39    62      46    58      42    51
+Temp          36 35 55 54   43 43 58 55   48 47 56 54   47 45 49 48
+Dewpt         28 29 30 33   33 35 39 41   44 44 45 44   44 42 41 40
+PWind dir         N    SE       E     E       E    SE       S     W
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    FW FW SC B1   B1 B1 B2 B2   B2 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     5      10    30      50    70      70    70
+Rain shwrs                         S  C    C  C  C  L    L  L  L  L
+
+$$
+MIZ059-242100-
+Clinton-
+Including the city of St. Johns
+1046 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      49          30          48          31          52
+Temp                40 45 47 46 36 32 31 34 42 45 46 43 39 35 33 33 41 48 50 49
+Dewpt               30 27 26 25 25 24 24 26 29 31 31 31 32 31 29 29 29 27 27 29
+RH                  67 49 43 43 64 72 75 72 60 58 55 62 76 85 85 85 62 44 41 46
+Wind dir             W  W NW NW  W  W NW  N NE  S  N  N  N  N  N  N  N NW NW  N
+Wind spd            10 11 12  9  5  4  2  4  5  8  8  6  5  5  5  6  6  8  8  5
+Clouds              B2 B2 B2 SC FW FW SC B2 B2 B2 B2 B1 B1 B1 B1 B1 B1 B1 B1 SC
+PoP 12hr                     30          20          60          10           0
+QPF 12hr                   0.01           0   0.04-0.09           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              C  S           S  S  C  L  L                           
+Snowshwrs                              S  C  C                                 
+Wind chill          34                                        27 27            
+Min chill              30    39    25    26    30    38    29    24    28      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          32    59      40    61      47    58      43    51
+Temp          37 36 55 54   43 43 58 55   48 48 56 54   48 46 50 48
+Dewpt         29 30 31 33   33 35 39 42   44 45 45 44   44 43 41 40
+PWind dir        NE    SE       E     E       E     E      SE     W
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    SC FW SC B1   B1 B1 B2 B2   B2 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     5      10    30      50    70      70    70
+Rain shwrs                         S  C    C  C  C  L    L  L  L  L
+
+$$
+MIZ064-242100-
+Allegan-
+Including the city of Holland
+1046 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      49          33          47          30          51
+Temp                43 46 47 45 37 35 35 35 41 45 45 43 38 35 31 32 42 48 49 45
+Dewpt               28 25 22 23 25 25 26 28 33 34 33 31 32 30 28 27 28 28 28 29
+RH                  55 43 37 41 61 66 69 75 73 65 62 62 79 82 88 81 57 46 44 53
+Wind dir             W  W  W NW SW  E SE  E SE NE  N NW  N  N  N  N  N NW NW NW
+Wind spd            10 12 11  5  2  3  4  5  8  9 10  9  6  6  5  5  9 10 10 10
+Wind gust                 21                                                   
+Clouds              B1 B1 FW FW FW SC B2 B2 OV B2 B2 B1 SC FW FW FW FW FW FW FW
+PoP 12hr                     10          20          50           5           0
+QPF 12hr                      0           0        0.03           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                          S  C  C  C  C  C                           
+Snowshwrs                           S  S  C                                    
+Wind chill                                                 29 25 26            
+Min chill              35    37    30    28    30    36    27    22    28    36
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          31    59      41    63      46    58      42    51
+Temp          34 35 56 54   44 43 60 55   48 47 55 53   46 44 48 48
+Dewpt         29 28 32 35   33 34 39 42   44 43 44 43   43 41 41 39
+PWind dir        NE    SE      SE     E       E     S      SW     W
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    FW FW SC B1   B1 B1 B1 B1   B2 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     5      10    30      50    70      60    70
+Rain shwrs                         S  C    C  C  L  L    L  L  L  L
+
+$$
+MIZ065-242100-
+Barry-
+Including the city of Hastings
+1046 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      49          31          48          29          53
+Temp                42 46 48 45 35 33 33 35 41 45 46 43 38 34 31 32 42 49 51 47
+Dewpt               29 27 21 21 22 23 23 25 30 31 31 31 30 29 28 27 28 26 26 27
+RH                  60 47 34 38 59 66 66 66 65 58 55 62 73 82 88 81 57 40 37 45
+Wind dir             W  W  W NW  W NW SE  E SE  E  N  N  N  N  N  N  N NW NW NW
+Wind spd            10 12 13  9  3  2  3  5  6  9  9  8  5  6  5  5  8  9 10  8
+Clouds              B2 B2 SC FW FW FW B1 B2 OV B2 B2 B1 B1 SC SC SC SC B1 SC SC
+PoP 12hr                     20          20          60           5           0
+QPF 12hr                      0           0        0.05           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs           S  S              S  S  C  L  L                           
+Snowshwrs            S                 S  C  C                                 
+Wind chill          36                                     28 25 26            
+Min chill              32    39    29    27    30    38    27    23    28      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          30    59      40    62      46    58      42    51
+Temp          35 35 56 54   43 43 58 55   48 47 55 54   47 44 48 48
+Dewpt         28 28 30 32   32 34 39 41   43 43 44 43   43 41 41 38
+PWind dir        NE    SE      SE     E       E    SE       S     W
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    FW FW SC B1   B1 B1 B2 B2   B2 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     5      10    30      50    70      70    70
+Rain shwrs                         S  C    C  C  L  L    L  L  L  L
+
+$$
+MIZ066-242100-
+Eaton-
+Including the city of Charlotte
+1046 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      49          30          48          30          52
+Temp                40 45 47 45 35 32 31 34 41 45 46 43 38 34 32 32 41 48 50 48
+Dewpt               29 27 23 22 22 22 23 25 28 31 31 31 31 30 28 28 28 27 26 27
+RH                  64 49 38 40 59 66 72 69 59 58 55 62 76 85 85 85 59 44 39 44
+Wind dir             W  W  W  W  W  W  W  E SE SE  N  N  N  N  N  N  N NW NW  N
+Wind spd            10 11 12  9  5  3  2  4  6  9  9  8  5  5  5  6  8  9  9  6
+Clouds              B2 B2 B1 FW FW FW SC B2 B2 B2 B2 B1 B1 B1 B1 B1 B1 B1 B1 SC
+PoP 12hr                     30          20          60          10           0
+QPF 12hr                      0           0        0.04           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs           S  C              S     C  L  L                           
+Snowshwrs            S                 S  C  C                                 
+Wind chill          33 39                                     26 26            
+Min chill              30    39    26    25    31    38    29    24    28      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          30    59      39    60      46    58      42    51
+Temp          35 35 55 53   42 42 57 54   48 47 55 53   47 44 49 48
+Dewpt         28 28 30 32   32 34 39 41   43 44 44 43   43 41 41 38
+PWind dir        NE    SE       E     E       E    SE       S     W
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    FW FW SC B1   B1 B1 B2 B2   B2 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     5      10    30      50    70      60    70
+Rain shwrs                      S  S  C    C  C  C  L    L  L  L  L
+
+$$
+MIZ067-242100-
+Ingham-
+Including the city of Lansing
+1046 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      49          29          48          30          52
+Temp                39 44 47 45 35 31 30 33 42 45 46 43 38 34 32 32 41 48 50 47
+Dewpt               31 28 27 25 25 24 23 25 28 32 32 32 32 31 30 29 30 29 28 29
+RH                  73 53 45 45 66 75 75 72 57 60 58 65 79 89 92 88 65 47 42 49
+Wind dir             W  W  W NW  W  W  W NW  S  S  N  N  N  N  N  N  N NW NW  N
+Wind spd            10 11 12  9  5  5  2  4  6  8  9  6  5  5  5  6  6  8  9  5
+Clouds              B2 B2 B1 SC FW FW SC B1 B2 B2 B2 B1 B1 B1 B1 B1 B1 B1 B1 SC
+PoP 12hr                     30          10          60          10           5
+QPF 12hr                   0.01           0        0.05           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              C  S              C  C  L  L                           
+Snowshwrs                                 C  C                                 
+Wind chill          32 38                                     26 26            
+Min chill              29    38    25    24    30    38    29    24    28      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          31    58      39    60      46    58      43    52
+Temp          36 35 55 52   41 42 57 53   48 47 56 53   47 45 50 48
+Dewpt         29 30 32 32   32 35 40 41   43 44 46 44   44 42 42 39
+PWind dir         E    SE       E     E       E    SE       S     W
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    SC FW SC B1   B1 B1 B2 B2   B2 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     5      10    30      50    70      60    70
+Rain shwrs                         S  C    C  C  C  L    L  L  L  L
+
+$$
+MIZ071-242100-
+Van Buren-
+Including the city of South Haven
+1046 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      49          33          48          30          51
+Temp                44 46 48 46 38 36 35 36 42 45 46 43 37 35 32 32 43 49 49 45
+Dewpt               31 27 22 23 23 24 26 28 34 35 34 32 32 30 28 28 28 28 28 28
+RH                  60 47 35 40 54 61 69 72 73 68 63 65 82 82 85 85 55 44 44 51
+Wind dir             W  W NW NW  S SE SE SE SE NE  N  N  N  N  N  N  N NW NW NW
+Wind spd            10 12 11  5  3  4  5  6  9 10 10 10  8  6  6  5  9 10 11 10
+Clouds              B1 B1 FW FW FW SC B1 B2 OV B2 B2 B1 FW FW FW FW FW FW FW FW
+PoP 12hr                      5          30          60           5           0
+QPF 12hr                      0           0        0.03           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                             C  L  L  C  C                           
+Snowshwrs                                 S                                    
+Wind chill          38                   30 36       37    29 26 26          39
+Min chill              35    38    30    27    30    37    27    23    28    38
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          31    60      41    64      45    58      42    52
+Temp          34 35 56 55   44 43 60 56   48 47 55 53   46 44 48 48
+Dewpt         28 28 32 34   32 34 39 41   43 43 44 43   42 41 41 39
+PWind dir        NE    SE      SE     E       E     S       W     W
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    FW FW SC B1   B1 B1 B2 B1   B2 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     5      10    30      50    70      60    70
+Rain shwrs                      S  S  C    C  C  L  L    L  L  L  L
+
+$$
+MIZ072-242100-
+Kalamazoo-
+Including the city of Kalamazoo
+1046 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      50          32          48          29          53
+Temp                45 48 48 46 36 34 34 35 41 45 46 44 38 34 31 32 43 49 52 47
+Dewpt               29 25 21 20 22 22 23 26 33 34 33 32 31 29 28 28 28 27 26 27
+RH                  53 40 34 35 56 61 64 69 73 65 60 62 76 82 88 85 55 42 36 45
+Wind dir             W  W  W NW  W SE SE SE  S SE  N  N  N  N  N  N  N NW NW NW
+Wind spd            10 12 12  8  2  3  4  5  9 10  9  9  5  5  5  5  9 10 10 10
+Clouds              B2 B2 SC FW FW FW B1 B2 OV OV B2 B1 B1 FW FW SC FW B1 SC FW
+PoP 12hr                     10          20          60           5           0
+QPF 12hr                      0           0        0.04           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs           S                 S  L  L  C  C                           
+Snowshwrs                              S  L                                    
+Wind chill                                  35                25 26 37         
+Min chill              33    39    30    26    30    37    28    23    28      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          30    60      40    62      46    59      42    52
+Temp          35 35 56 54   44 43 58 55   48 48 56 54   47 44 48 48
+Dewpt         28 28 30 32   31 34 39 41   44 43 44 43   43 41 41 37
+PWind dir        NE    SE       E     E       E    SE      SW     W
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    FW FW SC B1   B1 B1 B2 B2   B2 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     5      10    30      50    70      60    70
+Rain shwrs                      S  S  C    C  C  L  L    L  L  L  L
+
+$$
+MIZ073-242100-
+Calhoun-
+Including the city of Battle Creek
+1046 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      50          31          48          30          53
+Temp                41 45 48 45 35 33 32 34 42 45 46 43 38 34 32 32 42 49 52 49
+Dewpt               30 28 22 21 22 22 23 25 31 33 33 32 31 30 29 29 29 27 26 27
+RH                  65 51 35 38 59 63 69 69 65 62 60 65 76 85 88 88 60 42 36 42
+Wind dir             W  W  W NW  W  W  S  E  S SE NW  N  N  N  N  N  N NW NW  N
+Wind spd            10 11 11  9  4  2  3  5  8 10  9  8  5  5  5  5  8  9  9  6
+Clouds              B2 B2 B1 FW CL FW SC B1 OV OV B2 B1 B1 SC B1 B1 B1 B1 B1 SC
+PoP 12hr                     20          20          60           5           0
+QPF 12hr                      0           0        0.04           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs           S  S              S  L  L  L  L                           
+Snowshwrs            S                 S  L                                    
+Wind chill          35                                        26 26            
+Min chill              30    39    27    25    31    38    29    24    28      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          30    59      40    60      46    58      42    52
+Temp          35 35 55 53   42 43 57 54   48 47 55 54   47 45 49 49
+Dewpt         28 29 31 32   32 35 40 41   43 44 45 43   43 42 41 37
+PWind dir        NE    SE       E     E       E    SE       S     W
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    FW FW SC B1   B1 B1 B2 B2   B2 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     5      10    30      40    70      60    70
+Rain shwrs                      S  S  C    C  C  L  L    L  L  L  L
+
+$$
+MIZ074-242100-
+Jackson-
+Including the city of Jackson
+1046 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      50          30          48          30          53
+Temp                39 44 47 45 36 32 31 34 43 45 46 43 39 34 32 32 41 49 51 48
+Dewpt               32 29 27 23 23 23 23 25 29 33 34 33 32 31 30 30 31 29 28 29
+RH                  76 55 45 41 59 69 72 69 57 62 63 67 76 89 92 92 67 46 41 47
+Wind dir             W  W NW NW  W  W  W  N  S  S SW  N  N  N  N  N  N NW  N  N
+Wind spd            10 10 11  9  5  4  2  3  6 10  9  8  5  5  5  5  6  8  9  5
+Clouds              B2 B2 B1 SC FW FW SC B1 B2 OV B2 B1 B1 B1 B1 B1 B1 B1 B1 SC
+PoP 12hr                     30          10          60          10           5
+QPF 12hr                      0           0        0.04           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs           S  C  S              C  C  L  L                           
+Snowshwrs            S                    C  C                                 
+Wind chill          32                                        26               
+Min chill              28    38    25    25    31    38    28    24    28      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          31    58      39    60      46    59      42    52
+Temp          36 35 55 52   41 42 56 53   48 47 56 54   47 45 50 49
+Dewpt         29 31 32 32   32 36 41 42   44 45 46 44   44 43 42 39
+PWind dir        NE    SE       E     E       E    SE       S     W
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    SC FW SC B1   B1 B1 B2 B2   B2 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     5      20    30      40    70      60    70
+Rain shwrs                      S  S  C    C  C  L  L    L  L  L  L
+
+$$

@@ -1,0 +1,299 @@
+FZNT22 KWBC 241449
+OFFNT2
+
+Offshore Waters Forecast
+NWS Ocean Prediction Center Washington DC
+1049 AM EDT Mon Apr 24 2023
+
+West central North Atlantic continental shelf and slope waters
+beyond 20 nm to 250 nm offshore, including south of Georges Bank
+from 1000 fm to 250 nm offshore.
+
+Seas given as significant wave height, which is the average
+height of the highest 1/3 of the waves. Individual waves may be
+more than twice the significant wave height.
+
+ANZ899-250230-
+1049 AM EDT Mon Apr 24 2023
+
+.SYNOPSIS FOR MID ATLC WATERS...A cold front will push slowly E 
+and SE across the waters today into Tue, then stall near or just 
+S of the far southern portions Tue night into Wed. High pressure 
+will build to the Mid-Atlantic coast Tue, then move offshore Tue 
+night. The high will persist Wed and Wed night, then shift NE of 
+the area Thu into Fri night. A series of low pressures will 
+develop along the stalled front across the southern waters Wed 
+night through Fri night. 
+
+$$
+
+ANZ820-250230-
+Hudson Canyon to Baltimore Canyon to 1000 FM-
+1049 AM EDT Mon Apr 24 2023
+
+.TODAY...NW winds 5 to 15 kt, becoming W to SW. Seas 3 to 5 ft. 
+.TONIGHT...W to NW winds 5 to 15 kt. Seas 3 to 4 ft. 
+.TUE...W to NW winds 5 to 15 kt. Seas 3 to 4 ft. 
+.TUE NIGHT...W winds 5 to 15 kt, becoming N to NW 5 to 10 kt.
+Seas 3 to 4 ft. 
+.WED...E to SE winds less than 10 kt, becoming S. Seas 3 to
+5 ft. 
+.WED NIGHT...S winds 5 to 15 kt, becoming S to SW 5 to 10 kt.
+Seas 3 to 5 ft. 
+.THU...E to SE winds 5 to 15 kt. Seas 3 to 5 ft. 
+.THU NIGHT...E winds 5 to 15 kt. Seas 3 to 6 ft. 
+.FRI...E winds 10 to 20 kt. Seas 5 to 9 ft. 
+.FRI NIGHT...E winds 15 to 25 kt. Seas 7 to 11 ft. 
+
+$$
+
+ANZ915-250230-
+Between 1000FM and 38.5 N west of 69 W-
+1049 AM EDT Mon Apr 24 2023
+
+.TODAY...N to NW winds 5 to 15 kt. Seas 4 to 6 ft. 
+.TONIGHT...N to NW winds 5 to 15 kt. Seas 4 to 5 ft. 
+.TUE...N to NW winds 5 to 15 kt, becoming NW 10 to 20 kt. Seas
+4 to 6 ft. 
+.TUE NIGHT...N to NW winds 5 to 15 kt. Seas 4 to 6 ft. 
+.WED...N to NE winds 5 to 15 kt. Seas 4 to 6 ft. 
+.WED NIGHT...NE winds 5 to 10 kt, becoming N. Seas 4 to 6 ft. 
+.THU...E to NE winds 5 to 15 kt. Seas 4 to 5 ft. 
+.THU NIGHT...E to NE winds less than 10 kt, increasing to 5 to
+15 kt. Seas 3 to 5 ft. 
+.FRI...E winds 10 to 20 kt. Seas 5 to 8 ft. 
+.FRI NIGHT...E winds 15 to 25 kt. Seas 8 to 10 ft. 
+
+$$
+
+ANZ920-250230-
+Baltimore Canyon to 69W east of 1000 FM and south of 38.5N to
+250 NM offshore-
+1049 AM EDT Mon Apr 24 2023
+
+.TODAY...N to NW winds 5 to 15 kt. Seas 4 to 7 ft. 
+.TONIGHT...N winds 10 to 20 kt. Seas 4 to 6 ft. 
+.TUE...N winds 10 to 20 kt. Seas 4 to 7 ft. Scattered showers. 
+.TUE NIGHT...N winds 10 to 20 kt. Seas 5 to 9 ft. Scattered
+showers. 
+.WED...N winds 5 to 15 kt. Seas 5 to 9 ft. 
+.WED NIGHT...N to NE winds 5 to 15 kt. Seas 4 to 8 ft. 
+.THU...E to NE winds 5 to 15 kt. Seas 4 to 7 ft. 
+.THU NIGHT...E to NE winds 5 to 15 kt. Seas 4 to 6 ft. 
+.FRI...E winds 10 to 20 kt. Seas 4 to 8 ft. 
+.FRI NIGHT...E winds 20 to 25 kt. Seas 9 to 10 ft. 
+
+$$
+
+ANZ905-250230-
+East of 69W to the Hague Line between 1000 FM and 39N-
+1049 AM EDT Mon Apr 24 2023
+
+.TODAY...E to SE winds 10 to 20 kt. Seas 5 to 7 ft. Scattered
+showers and tstms. 
+.TONIGHT...N to NW winds 10 to 20 kt, becoming E 5 to 15 kt.
+Seas 5 to 7 ft. Scattered showers. 
+.TUE...E winds 5 to 15 kt, increasing to 10 to 20 kt. Seas 5 to
+7 ft. Scattered showers. 
+.TUE NIGHT...E to NE winds 10 to 20 kt. Seas 5 to 8 ft.
+Scattered showers. 
+.WED...NE winds 10 to 20 kt. Seas 5 to 8 ft. 
+.WED NIGHT...NE winds 5 to 15 kt. Seas 4 to 7 ft. 
+.THU...NE winds 5 to 15 kt. Seas 4 to 6 ft. 
+.THU NIGHT...N to NE winds 5 to 15 kt. Seas 4 to 6 ft. 
+.FRI...N to NE winds 5 to 15 kt. Seas 4 to 8 ft. 
+.FRI NIGHT...E to NE winds 15 to 20 kt. Seas 7 to 10 ft. 
+
+$$
+
+ANZ910-250230-
+East of 69W and south of 39N to 250 NM offshore-
+1049 AM EDT Mon Apr 24 2023
+
+.TODAY...N winds 5 to 15 kt, becoming N to NW 10 to 20 kt. Seas
+5 to 8 ft. Scattered showers and tstms. 
+.TONIGHT...N winds 10 to 20 kt, becoming E to NE. Seas 5 to
+7 ft. Chance of showers. 
+.TUE...N winds 10 to 20 kt. Seas 5 to 8 ft. Scattered showers. 
+.TUE NIGHT...N to NE winds 15 to 25 kt. Seas 6 to 10 ft.
+Scattered showers and scattered tstms. 
+.WED...N to NE winds 15 to 25 kt. Seas 6 to 10 ft. 
+.WED NIGHT...N to NE winds 5 to 15 kt. Seas 6 to 10 ft. 
+.THU...N to NE winds 5 to 15 kt. Seas 5 to 8 ft. 
+.THU NIGHT...NE winds 5 to 15 kt, becoming N. Seas 4 to 6 ft. 
+.FRI...NE winds 10 to 15 kt, increasing to 15 to 20 kt. Seas
+4 to 8 ft. 
+.FRI NIGHT...E to NE winds 15 to 20 kt. Seas 9 to 10 ft. 
+
+$$
+
+ANZ825-250230-
+Baltimore Canyon to Cape Charles Light to 100 NM offshore-
+1049 AM EDT Mon Apr 24 2023
+
+.TODAY...N winds 5 to 15 kt. Seas 3 to 5 ft. Chance of rain. 
+.TONIGHT...N to NE winds 5 to 15 kt. Seas 3 to 5 ft. 
+.TUE...N to NE winds 5 to 15 kt. Seas 3 to 4 ft. 
+.TUE NIGHT...Variable winds less than 10 kt. Seas 3 to 5 ft. 
+.WED...Variable winds less than 10 kt, becoming S to SE. Seas
+3 to 6 ft. 
+.WED NIGHT...S to SE winds 5 to 15 kt. Seas 3 to 6 ft. 
+.THU...E winds 5 to 15 kt. Seas 3 to 5 ft. 
+.THU NIGHT...E winds 5 to 15 kt. Seas 3 to 6 ft. 
+.FRI...E winds 10 to 20 kt. Seas 4 to 8 ft. 
+.FRI NIGHT...E winds 20 to 25 kt. Seas 7 to 10 ft. 
+
+$$
+
+ANZ828-250230-
+Cape Charles Light to Currituck Beach Light to 100 NM offshore-
+1049 AM EDT Mon Apr 24 2023
+
+.TODAY...N winds 10 to 20 kt. Seas 3 to 6 ft. Chance of rain. 
+.TONIGHT...N to NE winds 5 to 15 kt. Seas 3 to 6 ft. 
+.TUE...NE winds 5 to 15 kt. Seas 3 to 6 ft. 
+.TUE NIGHT...NE winds 5 to 10 kt. Seas 3 to 6 ft. 
+.WED...E to NE winds 5 to 15 kt, becoming E to SE 5 to 10 kt.
+Seas 3 to 6 ft. 
+.WED NIGHT...SE winds 5 to 10 kt, becoming 5 to 15 kt. Seas 3 to
+6 ft. 
+.THU...S to SE winds 5 to 15 kt. Seas 3 to 5 ft. 
+.THU NIGHT...E to SE winds 5 to 15 kt. Seas 3 to 6 ft. 
+.FRI...E to SE winds 15 to 25 kt. Seas 5 to 9 ft. 
+.FRI NIGHT...E to SE winds 15 to 25 kt. Seas 6 to 10 ft. 
+
+$$
+
+ANZ925-250230-
+Baltimore Canyon to Hatteras Canyon between 100 NM and 250 NM
+offshore-
+1049 AM EDT Mon Apr 24 2023
+
+.TODAY...N to NE winds 5 to 15 kt, becoming N 10 to 20 kt. Seas
+4 to 6 ft. Scattered tstms. 
+.TONIGHT...N winds 10 to 20 kt. Seas 4 to 6 ft. Scattered
+showers and tstms. 
+.TUE...N winds 10 to 20 kt. Seas 4 to 7 ft. Scattered showers. 
+.TUE NIGHT...N winds 10 to 20 kt, diminishing to 5 to 15 kt.
+Seas 4 to 7 ft. 
+.WED...N to NE winds 5 to 15 kt, diminishing to less than 10 kt.
+Seas 5 to 7 ft. 
+.WED NIGHT...N to NE winds 5 to 10 kt. Seas 4 to 7 ft. 
+.THU...E to SE winds 5 to 15 kt. Seas 4 to 6 ft. 
+.THU NIGHT...E to SE winds 5 to 15 kt. Seas 4 to 5 ft. 
+.FRI...E to SE winds 15 to 25 kt. Seas 4 to 8 ft. 
+.FRI NIGHT...E winds 20 to 25 kt, becoming SE. Seas 8 to 10 ft. 
+
+$$
+
+ANZ830-250230-
+Currituck Beach Light to Cape Hatteras to 100 NM offshore-
+1049 AM EDT Mon Apr 24 2023
+
+.TODAY...N winds 10 to 20 kt. Seas 3 to 6 ft. Chance of rain.
+Scattered tstms. 
+.TONIGHT...N winds 10 to 20 kt, becoming N to NE 10 to 15 kt.
+Seas 3 to 6 ft. Scattered showers. 
+.TUE...NE winds 10 to 15 kt. Seas 3 to 6 ft. 
+.TUE NIGHT...NE winds 10 to 15 kt. Seas 3 to 6 ft. Chance of
+showers. 
+.WED...NE winds 5 to 15 kt, becoming E 5 to 10 kt. Seas 3 to
+6 ft. 
+.WED NIGHT...E to SE winds 5 to 10 kt, becoming SE 5 to 15 kt.
+Seas 3 to 6 ft. 
+.THU...E to SE winds 10 to 15 kt, becoming 10 to 20 kt. Seas
+4 to 6 ft. 
+.THU NIGHT...E to SE winds 10 to 15 kt, becoming SE 10 to 20 kt.
+Seas 4 to 6 ft. 
+.FRI...SE winds 15 to 25 kt. Seas 6 to 9 ft. 
+.FRI NIGHT...SE winds 15 to 25 kt. Seas 7 to 10 ft. 
+
+$$
+
+ANZ833-250230-
+Cape Hatteras to Cape Fear to 100 NM Offshore.-
+1049 AM EDT Mon Apr 24 2023
+
+.TODAY...W to SW winds 5 to 15 kt, becoming N 10 to 20 kt. Seas
+3 to 5 ft. Chance of rain. Scattered tstms. 
+.TONIGHT...N winds 10 to 20 kt, becoming N to NE 10 to 15 kt.
+Seas 3 to 6 ft. Scattered showers and tstms. 
+.TUE...NE winds 10 to 15 kt, becoming 10 to 20 kt. Seas 3 to
+6 ft. 
+.TUE NIGHT...E winds 10 to 20 kt. Seas 4 to 7 ft. Scattered
+showers and tstms. 
+.WED...E winds 10 to 20 kt. Seas 4 to 7 ft. 
+.WED NIGHT...E to SE winds 10 to 20 kt. Seas 4 to 7 ft. 
+.THU...E winds 10 to 20 kt. Seas 4 to 7 ft. 
+.THU NIGHT...E winds 10 to 20 kt, becoming SE. Seas 4 to 7 ft. 
+.FRI...S to SE winds 15 to 25 kt. Seas 4 to 8 ft. 
+.FRI NIGHT...S to SW winds 10 to 20 kt. Seas 5 to 9 ft. 
+
+$$
+
+ANZ930-250230-
+Hatteras Canyon to Cape Fear between 100 NM and 250 NM offshore-
+1049 AM EDT Mon Apr 24 2023
+
+.TODAY...N to NE winds 5 to 15 kt, becoming variable 5 to 10 kt.
+Seas 3 to 6 ft. Scattered tstms. 
+.TONIGHT...N to NW winds 10 to 20 kt. Seas 4 to 6 ft. Scattered
+showers and tstms. 
+.TUE...N to NE winds 10 to 20 kt. Seas 5 to 6 ft. Scattered
+showers and tstms. 
+.TUE NIGHT...NE winds 15 to 25 kt. Seas 4 to 7 ft. Scattered
+showers and scattered tstms. 
+.WED...E to NE winds 10 to 20 kt. Seas 5 to 7 ft. 
+.WED NIGHT...E winds 5 to 15 kt. Seas 4 to 7 ft. 
+.THU...E winds 15 to 25 kt. Seas 5 to 7 ft. 
+.THU NIGHT...E to SE winds 15 to 25 kt. Seas 5 to 7 ft. 
+.FRI...E to SE winds 15 to 25 kt. Seas 5 to 8 ft. 
+.FRI NIGHT...S to SE winds 15 to 25 kt. Seas 7 to 10 ft. 
+
+$$
+
+ANZ835-250230-
+Cape Fear to 31N to 1000 FM-
+1049 AM EDT Mon Apr 24 2023
+
+.TODAY...N to NE winds 5 to 15 kt. Seas 3 to 4 ft. 
+.TONIGHT...N to NE winds 5 to 15 kt, becoming NE 10 to 20 kt.
+Seas 3 to 5 ft. Scattered showers. Scattered tstms. 
+.TUE...NE winds 15 to 25 kt. Seas 4 to 7 ft. Scattered showers
+and tstms. 
+.TUE NIGHT...E winds 15 to 25 kt. Seas 4 to 8 ft. Scattered
+showers and tstms. 
+.WED...E winds 15 to 25 kt. Seas 5 to 9 ft. 
+.WED NIGHT...E winds 10 to 20 kt, becoming SE 10 to 15 kt. Seas
+4 to 8 ft. 
+.THU...E to SE winds 5 to 15 kt. Seas 3 to 6 ft. 
+.THU NIGHT...E to SE winds 10 to 20 kt, becoming S to SE. Seas
+3 to 6 ft. 
+.FRI...S to SW winds 15 to 25 kt. Seas 4 to 8 ft. 
+.FRI NIGHT...SW winds 10 to 20 kt, becoming W. Seas 5 to 9 ft. 
+
+$$
+
+ANZ935-250230-
+Cape Fear to 31N east of 1000 FM to 250 NM offshore-
+1049 AM EDT Mon Apr 24 2023
+
+.TODAY...N to NE winds 5 to 10 kt. Seas 3 to 5 ft. 
+.TONIGHT...N to NE winds 5 to 15 kt. Seas 4 to 5 ft. Scattered
+showers. Scattered tstms. 
+.TUE...E to NE winds 5 to 15 kt, becoming E 10 to 20 kt. Seas
+4 to 6 ft. Scattered showers and tstms. 
+.TUE NIGHT...E to NE winds 20 to 30 kt. Seas 5 to 9 ft.
+Scattered showers and tstms. 
+.WED...E winds 20 to 30 kt. Seas 6 to 10 ft. 
+.WED NIGHT...E to SE winds 10 to 20 kt, becoming SE 10 to 15 kt.
+Seas 5 to 7 ft. 
+.THU...E to SE winds 5 to 15 kt. Seas 5 to 6 ft. 
+.THU NIGHT...E winds 10 to 15 kt, becoming SE 10 to 20 kt. Seas
+5 to 6 ft. 
+.FRI...S to SE winds 15 to 25 kt. Seas 5 to 8 ft. 
+.FRI NIGHT...S winds 15 to 20 kt, becoming SW. Seas 7 to 9 ft. 
+
+$$
+
+.Forecaster Collins. Ocean Prediction Center.

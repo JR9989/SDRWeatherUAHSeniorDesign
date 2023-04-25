@@ -1,0 +1,99 @@
+FXUS64 KMEG 241453
+AFDMEG
+
+Area Forecast Discussion
+National Weather Service Memphis TN
+953 AM CDT Mon Apr 24 2023
+
+...New UPDATE...
+
+.UPDATE...
+Issued at 953 AM CDT Mon Apr 24 2023
+
+Mostly sunny and dry weather is anticipated across the Mid-South
+today. Following a chilly morning in which much of West TN saw
+temperatures in the 30s, temperatures will climb into the mid 60s.
+Winds will remain light with relative humidity falling to 25-30
+percent this afternoon. No noteworthy changes were made to the
+forecast this morning.
+
+MJ
+
+&&
+
+.SYNOPSIS...
+Issued at 320 AM CDT Mon Apr 24 2023
+
+Temperatures today will be cool as afternoon highs climb into the
+mid to low 60s. Rain chances will return late Tuesday and remain
+in the forecast through the remainder of the week. In addition,
+expect temperatures to remain below average as daily temps max 
+out in the 60s and 70s. 
+
+ANS
+
+&&
+
+.DISCUSSION...
+(Today through Sunday)
+Issued at 320 AM CDT Mon Apr 24 2023
+
+Temperatures across the Mid-South as of 3AM are in upper 30s to
+low 40s, with the coldest areas along the Tennessee River in West
+Tennessee. Additional cooling is expected over the next few hours as
+skies remain clear and winds stay light. As a result, frost
+development is likely across portions of the Mid-South. A Frost
+Advisory is in effect until 8AM. By this afternoon, conditions
+will be clear and cool with high temperatures in the low to mid
+60s. 
+
+Unfortunately, the dry weather is not expected to continue as a
+shortwave approaches the region on Tuesday. This shortwave will
+provide ascent across the region by Tuesday evening, allowing for
+rain chances to return to the forecast. Soundings for Tuesday 
+evening show a dry layer of air situated in the lower levels of 
+the atmosphere. Therefore, onset of showers may occur later in the
+night, but should be in place by Wednesday morning. QPF for this 
+time will remain low as Precipitable Water values remain at and 
+below the 50th percentile. 
+
+By Thursday, a more robust upper level low will transverse the
+region, keeping rain in the forecast. There are a few model
+discrepancies on the trek of the low, but overall trends suggest a
+very minimal severe weather threat for this time. Rather, the
+bigger threat will be heavy rain as PWATs increase to around 1.3
+inches, which is right at the 90th percentile for this time of
+year. Rain showers and a few thunderstorms are expected to persist
+through early Friday.
+
+A brief dry period is expected Friday as a broad upper level 
+trough approaches the region, eventually arriving by early 
+Saturday. Thus, rain chances will yet again return for the 
+weekend. 
+
+ANS
+
+&&
+
+.AVIATION...
+(12Z TAFS)
+Issued at 639 AM CDT Mon Apr 24 2023
+
+VFR conds will prevail through the period. Light winds will become
+ENE around 10 kts this morning then diminish to light and 
+variable tonight.
+
+&&
+
+.MEG WATCHES/WARNINGS/ADVISORIES...
+AR...None.
+MO...None.
+MS...None.
+TN...None.
+&&
+
+$$
+
+UPDATE...MJ
+PUBLIC FORECAST...ANS
+AVIATION...SJM

@@ -1,0 +1,62 @@
+ASUS44 KOUN 241510
+RWROK 
+
+WEATHER ROUNDUP FOR OKLAHOMA
+NATIONAL WEATHER SERVICE NORMAN OK
+1000 AM CDT MON APR 24 2023
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+      SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+OKZ001>007-009>012-014-015-017-241600-
+NORTHWEST OKLAHOMA AND THE PANHANDLE
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+GAGE           CLOUDY    51  32  48 S17G26    30.10S                  
+GUYMON         CLOUDY    47  36  65 S21G28    30.01S                  
+ENID/WOODRING  MOSUNNY   46  34  61 S15G23    30.15S                  
+$$
+
+OKZ016-021>023-033>039-044-045-241600-
+SOUTHWEST OKLAHOMA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+LAWTON/REGL    CLOUDY    54  40  59 S9        30.16S                  
+LAWTON/FT SILL   N/A     54  42  64 S7        30.14R                  
+FREDERICK      CLOUDY    53  40  61 S10       30.13S                  
+CLINTON        CLOUDY    49  35  58 S15       30.15R                  
+HOBART         CLOUDY    52  37  56 S15G25    30.16R                  
+ALTUS AFB      CLOUDY    50  39  65 S10       30.14R                  
+$$
+
+OKZ018>020-024>031-241600-
+CENTRAL OKLAHOMA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+OKLAHOMA CITY  PTSUNNY   53  40  61 S14       30.16R                  
+OKC/WILEY POST CLOUDY    55  37  50 S15       30.16R                  
+OKC/TINKER AFB MOSUNNY   54  39  57 S15       30.12R                  
+STILLWATER     MOSUNNY   59  35  40 S14       30.15S                  
+GUTHRIE        PTSUNNY   56  33  42 S15       30.14R                  
+$$
+
+OKZ008-013-054>072-241600-
+NORTHEAST OKLAHOMA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+TULSA          MOSUNNY   58  33  39 S17G24    30.17S                  
+TULSA/JONES    SUNNY     57  36  45 S14       30.17S                  
+PONCA CITY     SUNNY     58  34  40 SW7       30.15R                  
+BARTLESVILLE   SUNNY     58  31  35 S13G18    30.19R                  
+MUSKOGEE       SUNNY     56  38  50 SE12      30.21S                  
+$$
+
+OKZ032-040>043-046>053-073>077-241600-
+SOUTH CENTRAL/SOUTHEAST OKLAHOMA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ARDMORE/DWNTWN PTSUNNY   56  41  56 SE13      30.17F                  
+MCALESTER      MOSUNNY   54  44  69 SE9       30.19S                  
+$$
+
+  

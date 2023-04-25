@@ -1,0 +1,144 @@
+FNUS74 KEPZ 241535
+FWSEPZ
+
+Spot Forecast for Cedar Breaks...Gila National Forest
+National Weather Service El Paso Tx/Santa Teresa NM
+935 AM MDT Mon Apr 24 2023
+
+Forecast is based on ignition time of 1000 MDT on April 24. 
+If conditions become unrepresentative, contact the National Weather
+Service.
+
+.DISCUSSION...
+
+Continued dry conditions through Friday. There is a very slight chances
+of a light shower Tuesday, but most activity should remain north 
+and east of this location. Can't rule out dry lightning because of
+this. Breezy winds today, but winds will increase on Tuesday,
+bringing near critical fire conditions, though MAX RFTI values are
+1. Temperatures through the week increase a little each day. Breezy
+afternoon conditions continue Wednesday through Friday though 
+they stay below critical thresholds. Min RH stays below 15% and 
+daily MAX RFTI values hover around 4. Max Vent Rates very good to
+excellent this week. 
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny (20-30 percent). 
+Chance of pcpn......10 percent. 
+LAL.................1. 
+Max temperature.....Around 77. 
+Min humidity........11 percent. 
+Wind (20 ft)........Southwest winds 9 to 15 mph. 
+Mixing height.......11100 ft AGL. 
+Transport winds.....West 14 to 18 mph. 
+Smoke dispersal.....Excellent (150000 knot-ft). 
+Haines Index........3 to 5 or very low to moderate potential for 
+                    large plume dominated fire growth. 
+
+TIME (MDT)      10 AM  NOON   2 PM   4 PM   
+Sky (%).........13     17     17     37     
+Weather cov.....NONE   NONE   NONE   NONE   
+Weather type....NONE   NONE   NONE   NONE   
+Tstm cov........NONE   NONE   NONE   NONE   
+Chc of pcpn (%).0      10     10     10     
+LAL.............1      1      1      1      
+Temp............63     71     76     77     
+RH..............28     20     15     11     
+20 ft wind......SW 5   SW 10  SW 12  SW 15  
+20 ft wind gust.10     15     23     25     
+Mix hgt (ft)....11100  11100  11000  11000  
+Transport wind..W 14   W 14   SW 18  SW 18  
+Haines index....3      4      5      5      
+Vrate kt-ft/1K..150    150    187    187    
+Ventrate Cat....EXNT   EXNT   EXNT   EXNT   
+
+.TONIGHT...
+
+Sky/weather.........Partly cloudy (25-35 percent). 
+Chance of pcpn......0 percent. 
+LAL.................1. 
+Min temperature.....Around 39. 
+Max humidity........70 percent. 
+Wind (20 ft)........West winds 6 to 10 mph with gusts to around 21 
+                    mph in the evening becoming light. 
+Mixing height.......100 ft AGL. 
+Transport winds.....West around 15 mph decreasing to around 5 mph 
+                    in the late evening and overnight, then 
+                    shifting to the east around 2 mph overnight. 
+Smoke dispersal.....Excellent (176600 knot-ft) decreasing to poor 
+                    (200 knot-ft) in the late evening and 
+                    overnight. 
+Haines Index........3 to 5 or very low to moderate potential for 
+                    large plume dominated fire growth. 
+
+TIME (MDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........46     46     31     19     19     13     
+Weather cov.....NONE   NONE   NONE   NONE   NONE   NONE   
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........NONE   NONE   NONE   NONE   NONE   NONE   
+Chc of pcpn (%).0      0      0      0      0      0      
+LAL.............1      1      1      1      1      1      
+Temp............73     60     53     49     45     41     
+RH..............13     23     31     39     47     56     
+20 ft wind......W 10   W 10   NW 6   NW 1   NW 1   NW 0   
+20 ft wind gust.21     21     12     5      5             
+Mix hgt (ft)....9800   9800   100    100    100    100    
+Transport wind..W 15   W 15   W 5    W 5    E 2    E 2    
+Haines index....5      4      4      3      3      3      
+Vrate kt-ft/1K..177    177    0      0      0      0      
+Ventrate Cat....EXNT   EXNT   POOR   POOR   POOR   POOR   
+
+.TUESDAY...
+
+Sky/weather.........Sunny (10-20 percent). 
+Chance of pcpn......10 percent. 
+LAL.................1. 
+Max temperature.....Around 78. 
+Min humidity........14 percent. 
+Wind (20 ft)........Light winds becoming west around 24 mph with 
+                    gusts to around 41 mph. 
+Mixing height.......10600 ft AGL. 
+Transport winds.....Southwest around 7 mph increasing to west 
+                    around 31 mph. 
+Smoke dispersal.....Poor (21800 knot-ft) increasing to excellent 
+                    (225800 knot-ft) in the late morning and 
+                    afternoon. 
+Haines Index........3 to 4 or very low to low potential for large 
+                    plume dominated fire growth. 
+
+TIME (MDT)      6 AM      9 AM      NOON      3 PM      
+Sky (%).........10        12        14        16        
+Weather cov.....NONE      NONE      NONE      NONE      
+Weather type....NONE      NONE      NONE      NONE      
+Tstm cov........NONE      NONE      NONE      NONE      
+Chc of pcpn (%).0         0         10        10        
+LAL.............1         1         1         1         
+Temp............39        55        71        78        
+RH..............70        40        21        15        
+20 FT wind......NW 3G7    W 10G21   W 19G37   W 24G41   
+Mix hgt (ft)....2200      2200      10200     10600     
+Transport wind..SW 7      SW 7      W 21      W 31      
+Haines index....3         3         3         4         
+Vrate kt-ft/1K..22        22        226       269       
+Ventrate Cat....POOR      POOR      EXNT      EXNT      
+
+.FORECAST DAYS 3 THROUGH 5...
+.WEDNESDAY...
+Mostly clear. Lows around 40. Highs in the upper 70s. North winds
+12 to 23 mph. 
+.THURSDAY...
+Mostly clear. Lows in the lower 40s. Highs around 80. West winds
+10 to 15 mph. 
+.FRIDAY...
+Mostly clear. Lows in the mid 40s. Highs in the lower 80s.
+Northwest winds 15 to 16 mph. 
+
+$$
+Forecaster...REYNOLDS
+Requested by...Gila National Forest
+Type of request...PRESCRIBED
+.TAG 2310299.2/EPZ
+.DELDT 04/24/23
+.FormatterVersion 2.0.0
+.EMAIL nmsdc@firenet.gov

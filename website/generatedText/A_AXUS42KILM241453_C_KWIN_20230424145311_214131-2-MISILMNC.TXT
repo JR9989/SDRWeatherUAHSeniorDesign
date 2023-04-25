@@ -1,0 +1,62 @@
+AXUS42 KILM 241453
+MISILM
+SUPPLEMENTAL RAINFALL DATA
+NATIONAL WEATHER SERVICE WILMINGTON NC
+1000 AM EST MON APR 24 2023
+
+THROUGH 04-23-2023:
+
+WILMINGTON NC
+                              TOTAL    NORMAL   DEPARTURE  PERCENT
+                            RAINFALL    VALUE     FROM         OF
+                                                 NORMAL     NORMAL
+
+      ONE MONTH (30 DAYS)      5.83      3.18      2.65       183%
+     TWO MONTHS (60 DAYS)      6.72      7.01     -0.29        96%
+   THREE MONTHS (90 DAYS)     10.24     10.80     -0.56        95%
+    SIX MONTHS (180 DAYS)     16.59     21.42     -4.83        77%
+                ONE YEAR      42.45     60.15    -17.70        71%
+           FIFTEEN MONTHS     49.47     70.30    -20.83        70%
+
+LUMBERTON NC
+                              TOTAL    NORMAL   DEPARTURE  PERCENT
+                            RAINFALL    VALUE     FROM         OF
+                                                 NORMAL     NORMAL
+
+      ONE MONTH (30 DAYS)      5.06      2.91      2.15       174%
+     TWO MONTHS (60 DAYS)      6.07      6.00      0.07       101%
+   THREE MONTHS (90 DAYS)      9.96      8.89      1.07       112%
+    SIX MONTHS (180 DAYS)     16.73     17.36     -0.63        96%
+                ONE YEAR      37.29     42.62     -5.33        87%
+           FIFTEEN MONTHS     43.10     51.07     -7.97        84%
+
+NORTH MYRTLE BEACH SC
+                              TOTAL    NORMAL   DEPARTURE  PERCENT
+                            RAINFALL    VALUE     FROM         OF
+                                                 NORMAL     NORMAL
+
+      ONE MONTH (30 DAYS)      3.28      2.98      0.30       110%
+     TWO MONTHS (60 DAYS)      4.64      6.35     -1.71        73%
+   THREE MONTHS (90 DAYS)      8.42      9.80     -1.38        86%
+    SIX MONTHS (180 DAYS)     14.87     18.91     -4.04        79%
+                ONE YEAR      44.74     48.47     -3.73        92%
+           FIFTEEN MONTHS     52.21     57.72     -5.51        90%
+
+FLORENCE SC
+                              TOTAL    NORMAL   DEPARTURE  PERCENT
+                            RAINFALL    VALUE     FROM         OF
+                                                 NORMAL     NORMAL
+
+      ONE MONTH (30 DAYS)      6.28      3.03      3.25       207%
+     TWO MONTHS (60 DAYS)      7.87      6.13      1.74       128%
+   THREE MONTHS (90 DAYS)     12.11      9.28      2.83       130%
+    SIX MONTHS (180 DAYS)     21.32     18.18      3.14       117%
+                ONE YEAR      41.60     45.30     -3.70        92%
+           FIFTEEN MONTHS     50.64     54.08     -3.44        94%
+
+THIS PRODUCT IS CREATED AUTOMATICALLY FROM QUALITY CONTROLLED DATA.
+HOWEVER, THE PRODUCT ITSELF HAS NOT BEEN QUALITY CONTROLLED.
+
+MORE DETAIL IS AVAILABLE ON OUR WEBSITE AT:
+
+                http://weather.gov/media/ilm/procdata.pdf

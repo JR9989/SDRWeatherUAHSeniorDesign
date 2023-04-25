@@ -1,0 +1,84 @@
+FZNT32 KNHC 241503
+OFFN21
+
+Marine Weather HF Voice Broadcast
+NWS National Hurricane Center Miami, FL
+1103 AM EDT Mon Apr 24 2023
+
+Marine Weather HF Voice Broadcast for the Gulf of Mexico
+
+Seas given as significant wave height, which is the average
+height of the highest 1/3 of the waves. Individual waves may be
+more than twice the significant wave height.
+
+Synopsis for the Gulf of Mexico
+
+.SYNOPSIS...A dissipating stationary front extends from the Big
+Bend area of Florida to off southern Texas. Meanwhile, a strong
+line of convection is affecting the Bay of Campeche, moving
+quickly eastward. However, the lightning activity has decreased.
+The frontal boundary is expected to dissipate later today. Fresh
+to strong east winds along and just offshore the northern
+Yucatan Peninsula will diminish by early this afternoon, then
+redevelop Wed night. Another frontal boundary will enter the NW
+Gulf late this week but no appreciable increase in winds or seas
+is forecast. 
+
+Gulf of Mexico N of 26N W of 87W
+
+.THIS AFTERNOON...NE winds 10 to 20 kt. Seas 6 to 9 ft. 
+.TONIGHT...E winds 10 to 20 kt. Seas 5 to 7 ft. 
+.TUE...E winds 10 to 15 kt. Seas 4 to 6 ft. 
+.TUE NIGHT...E winds 10 to 15 kt. Seas 3 to 5 ft. 
+.WED...SE winds 10 kt. Seas 3 to 4 ft. 
+.WED NIGHT...E winds 10 to 15 kt. Seas 3 to 4 ft. 
+.THU...SE winds 10 to 15 kt. Seas 3 to 5 ft. 
+.THU NIGHT...SE winds 10 to 15 kt, shifting to W after midnight.
+Seas 4 to 6 ft. 
+.FRI...NW winds 10 to 15 kt. Seas 3 to 5 ft. 
+.FRI NIGHT...N winds less than 10 kt. Seas 3 to 4 ft. 
+
+Gulf of Mexico from 22N to 26N W of 87W
+
+.THIS AFTERNOON...E winds 10 to 20 kt. Seas 6 to 9 ft. 
+.TONIGHT...E winds 10 to 15 kt. Seas 5 to 7 ft. 
+.TUE...SE winds less than 10 kt. Seas 4 to 6 ft.
+.TUE NIGHT...SE winds less than 10 kt. Seas 3 to 4 ft. 
+.WED...SE winds 10 to 15 kt. Seas 3 to 4 ft. 
+.WED NIGHT...SE winds 10 to 15 kt. Seas 3 to 5 ft. 
+.THU...SE winds 10 to 15 kt. Seas 3 to 5 ft. 
+.THU NIGHT...E winds 10 to 15 kt. Seas 3 to 5 ft. 
+.FRI...NE winds 10 to 15 kt. Seas 3 to 5 ft. 
+.FRI NIGHT...E winds 10 to 15 kt. Seas 3 to 4 ft. 
+
+SW Gulf of Mexico S of 22N W of 87W
+
+.THIS AFTERNOON...N winds 10 to 20 kt. Seas 3 to 5 ft. 
+.TONIGHT...N winds 10 to 15 kt, diminishing to less than 10 kt
+after midnight. Seas 4 to 6 ft. 
+.TUE...Variable winds less than 10 kt. Seas 3 to 5 ft. 
+.TUE NIGHT...Within 60 nm of coast of Veracruz, E winds less
+than 10 kt. Elsewhere, NE winds less than 10 kt, shifting to E
+after midnight. Seas 3 ft. 
+.WED...SE winds less than 10 kt. Seas 3 ft. 
+.WED NIGHT...E winds less than 10 kt, increasing to 10 to 15 kt
+after midnight. Seas 3 ft. 
+.THU...SE winds 10 to 15 kt. Seas 3 to 4 ft. 
+.THU NIGHT...E winds less than 10 kt, shifting to NE after
+midnight. Seas 3 to 4 ft. 
+.FRI...N winds 10 to 15 kt. Seas 3 to 4 ft. 
+.FRI NIGHT...NE winds less than 10 kt. Seas 3 to 4 ft. 
+
+Gulf of Mexico E of 87W
+
+.THIS AFTERNOON...SE winds less than 10 kt. Seas 3 to 4 ft. 
+.TONIGHT...E winds less than 10 kt. Seas 3 to 5 ft. 
+.TUE...SE winds less than 10 kt. Seas 3 to 4 ft.
+.TUE NIGHT...E winds less than 10 kt. Seas 2 ft or less. 
+.WED...SE winds 10 to 15 kt. Seas 2 ft or less, building to 3 to
+4 ft in the afternoon. 
+.WED NIGHT...SE winds 10 to 15 kt. Seas 3 to 4 ft. 
+.THU...SE winds 10 to 15 kt. Seas 3 to 5 ft. 
+.THU NIGHT...SE winds 10 to 15 kt. Seas 4 to 6 ft. 
+.FRI...S winds 10 to 15 kt. Seas 4 to 6 ft. 
+.FRI NIGHT...SW winds 10 to 15 kt. Seas 3 to 5 ft.

@@ -1,0 +1,57 @@
+WGUS82 KMFL 241459
+FLSMFL
+
+Flood Advisory
+National Weather Service Miami FL
+1059 AM EDT Mon Apr 24 2023
+
+FLC086-241700-
+/O.NEW.KMFL.FA.Y.0041.230424T1459Z-230424T1700Z/
+/00000.N.ER.000000T0000Z.000000T0000Z.000000T0000Z.OO/
+Miami-Dade FL-
+1059 AM EDT Mon Apr 24 2023
+
+...FLOOD ADVISORY IN EFFECT UNTIL 1 PM EDT THIS AFTERNOON...
+
+* WHAT...Flooding caused by excessive rainfall is expected.
+
+* WHERE...A portion of South Florida, including the following 
+  county, Miami-Dade.
+
+* WHEN...Until 100 PM EDT.
+
+* IMPACTS...Minor flooding in low-lying and poor drainage areas. 
+  Ponding of water in urban or other areas is occurring or is 
+  imminent.
+
+* ADDITIONAL DETAILS...
+  - At 1059 AM EDT, Doppler radar and automated rain gauges
+    indicated heavy rain due to thunderstorms. Minor flooding is
+    ongoing or expected to begin shortly in the advisory area.
+    Between 1 and 1.5 inches of rain have fallen.
+  - Additional rainfall amounts of 1 to 2 inches are expected
+    over the area. This additional rain will result in minor
+    flooding.
+  - Some locations that will experience flooding include...
+    Miami, Hialeah, Miami Gardens, North Miami, Miami Lakes,
+    Hialeah Gardens, Opa-Locka, Miami Shores, El Portal, Medley,
+    Westview, West Little River, Pinewood and Golden Glades.
+  - http://www.weather.gov/safety/flood
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Turn around, don't drown when encountering flooded roads. Most flood 
+deaths occur in vehicles.
+
+Please report observed flooding to local emergency services or law 
+enforcement and request they pass this information to the National 
+Weather Service when you can do so safely.
+
+&&
+
+LAT...LON 2592 8033 2591 8020 2585 8019 2585 8033
+
+
+$$
+
+Hadi

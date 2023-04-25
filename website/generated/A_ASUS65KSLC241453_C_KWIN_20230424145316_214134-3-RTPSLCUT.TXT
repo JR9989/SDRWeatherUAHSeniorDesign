@@ -1,0 +1,118 @@
+ASUS65 KSLC 241453
+RTPUT 
+MAX/MIN TEMPERATURE AND PRECIPITATION TABLE FOR UTAH
+NATIONAL WEATHER SERVICE SALT LAKE CITY UTAH
+852 AM MDT MON APR 24 2023
+
+*********************************************************************
+* COOPERATIVE OBSERVER DATA:
+* REPORTS ARE FOR THE 24 HOUR PERIOD ENDING AT OBSERVATION TIME
+*********************************************************************
+
+
+DATE: MON APR 24 2023
+.BR SLC 0424 M DH06/TAIRZX/TAIRZN/PPDRZZ 
+:                          OBS     MAX    MIN
+:ID     STATION            TIME    TEMP   TEMP    PCPN
+:       UTAH....  
+BFBU1  :BULLFROG        : DH0700 /  71 /   43 /   0.10
+CALU1  :CALLAO          : DH0800 /  66 /   33 /   0.00
+TEAU1  :CAPITOL REEF NP : DH0800 /  63 /   40 /   0.15
+CECU1  :CEDAR CITY      : DH0700 /  66 /   34 /   0.20
+PLTU1  :DEER CREEK DAM  : DH0800 /  56 /   27 /   0.00
+FIPU1  :FREMNT INDIAN SP: DH0800 /  64 /   28 /   0.07
+GOBU1  :GOBLIN VALLEY   : DH0800 /  64 /   35 /   0.00
+HAFU1  :HANS FLAT RS    : DH0800 /  58 /   38 /   0.20
+MARU1  :MANTI RADIO     : DH2400 /  60 /   26 /   0.00
+NHRU1  :NEW HARMONY     : DH0800 /  66 /   38 /   0.05
+OAKU1  :OAK CITY        : DH0705 /  63 /   32 /   0.00
+OGBU1  :OGDEN NE BENCH  : DH0800 /  58 /   35 /      T
+PRWU1  :PARAGONAH       : DH0700 /  66 /   29 /   0.44
+SGUU1  :ST. GEORGE      : DH0700 /  80 /   50 /   0.00
+ZNPU1  :ZION NP         : DH0800 /  77 /   49 /   0.01
+:
+:
+:       WYOMING...
+LYMW4  :LYMAN WY        : DH0700 /  44 /   24 /   0.00
+:
+.END
+
+*********************************************************************
+* COOPERATIVE OBSERVER DATA FROM SITES NEAR THE
+* SALT LAKE CITY FORECAST AREA
+* REPORTS ARE FOR THE 24 HOUR PERIOD ENDING AT OBSERVATION TIME
+*********************************************************************
+
+
+.B SLC 0424 M DH06/TAIRZX/TAIRZN/PPDRZZ
+:                          OBS     MAX    MIN
+:ID     STATION            TIME    TEMP   TEMP    PCPN
+:       UTAH....
+CNYU1  :CANYONLANDS NP  : DH0800 /  60 /   37 /   0.00
+CNDU1  :CNYLANDS NEEDLES: DH0800 /  65 /   40 /   0.02
+MTOU1  :MONTICELLO #2   : DH0700 /  55 /   33 /   0.00
+NBMU1  :NATURAL BRIDGES : DH0800 /  61 /   37 /   0.10
+VELU1  :VERNAL          : DH0630 /  54 /   31 /   0.00
+:
+:
+.END
+
+*********************************************************************
+* AUTOMATED DATA FROM ASOS AND AWOS SITES:
+* YESTERDAY'S HIGH TEMPERATURE
+* LOW TEMPERATURE PAST 12 HOURS ENDING 600 AM MDT
+* 24 HOUR PRECIPITATION ENDING 600 AM MDT
+*********************************************************************
+
+
+.BR SLC 0424 M DH01/TAIRZX/DH06/TAIRZP/PPDRZZ
+:                        MAX    MIN
+:ID   STATION            TEMP   TEMP    PCPN
+:     UTAH....
+BCE  :BRYCE CANYON    :   52 /   32 /   0.56
+CDC  :CEDAR CITY      :   65 /   40 /   0.29
+LGU  :LOGAN           :   55 /   36 /   0.00
+MLF  :MILFORD         :   63 /   40 /   0.02
+OGD  :OGDEN           :    M /    M /   0.00
+PUC  :PRICE           :   59 /   34 /   0.00
+SLC  :SALT LAKE CITY  :   62 /   46 /   0.00
+SGU  :ST GEORGE       :   78 /   53 /      T
+ENV  :WENDOVER        :   60 /   45 /   0.00
+:
+:     WYOMING...
+EVW  :EVANSTON        :   42 /   26 /   0.00
+:
+.END
+
+*********************************************************************
+* AUTOMATED DATA FROM ASOS AND AWOS SITES NEAR THE 
+* SALT LAKE CITY FORECAST AREA. 
+* YESTERDAY'S HIGH TEMPERATURE
+* LOW TEMPERATURE PAST 12 HOURS ENDING 600 AM MDT
+* 24 HOUR PRECIPITATION ENDING 600 AM MDT
+*********************************************************************
+
+
+.B SLC 0424 M DH01/TAIRZX/DH06/TAIRZP/PPDRZZ
+:                        MAX    MIN
+:ID   STATION            TEMP   TEMP    PCPN
+:     UTAH....
+CNY  :CANYONLANDS     :   64 /   41 /   0.00
+VEL  :VERNAL          :   55 /   29 /   0.00
+:
+:
+:     ARIZONA...
+PGA  :PAGE            :   75 /   50 /   0.03
+:
+.END
+
+THESE DATA ARE PRELIMINARY AND HAVE NOT UNDERGONE FINAL QUALITY 
+CONTROL BY THE NATIONAL CENTER FOR ENVIRONMENTAL INFORMATION.  
+THEREFORE, THESE DATA ARE SUBJECT TO REVISION.  
+FINAL AND CERTIFIED CLIMATE DATA CAN BE ACCESSED AT 
+WWW.NCDC.NOAA.GOV.
+
+
+ $$
+
+ TO VIEW THIS DATA ON A MAP, GO TO HTTPS://WWW.WEATHER.GOV/SLC/MAPRTP

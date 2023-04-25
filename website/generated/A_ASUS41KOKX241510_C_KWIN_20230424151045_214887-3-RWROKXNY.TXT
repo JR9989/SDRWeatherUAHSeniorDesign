@@ -1,0 +1,165 @@
+ASUS41 KOKX 241510
+RWROKX
+
+Regional Weather Roundup
+National Weather Service New York NY
+1100 AM EDT MON APR 24 2023
+
+Note: "FAIR" indicates few or no clouds below 12,000 feet with no
+significant weather and/or obstructions to visibility.
+
+NYZ071-072-176-178-NJZ106-104-241600-
+New York City Metro Area
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+Central Park   SUNNY     54  33  45 NW5       30.08S                  
+World Trd Ctr  NOT AVBL                                               
+Bronx Lehman C   N/A     54  34  47 W5          N/A                   
+LaGuardia Arpt MOSUNNY   54  35  48 CALM      30.05F                  
+Queens College   N/A     52  34  50 NW5         N/A                   
+Kennedy Intl   PTSUNNY   53  37  54 NW7       30.06S                  
+Breezy Point     N/A     52 N/A N/A W6          N/A                   
+Brooklyn Coll    N/A     52  32  46 NW9         N/A                   
+Staten Island    N/A     54  32  43 W6          N/A                   
+Newark/Liberty MOSUNNY   57  33  40 VRB6      30.05F                  
+Teterboro      SUNNY     54  36  50 NW7       30.05S                  
+$$
+ 
+NYZ177-179-078>081-241600-
+Long Island New York
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+Jones Beach      N/A     52 N/A N/A SW5         N/A                   
+Wantagh          N/A     54  37  54 NW3         N/A                   
+Hempstead      NOT AVBL                                               
+Matinecock Pt    N/A     50 N/A N/A SW5         N/A                   
+Farmingdale    MOSUNNY   54  40  59 VRB5      30.05S                  
+MacArthur/ISP  MOSUNNY   54  38  54 N7        30.04F                  
+Stony Brook      N/A     50  37  62 NW5         N/A                   
+Shirley        MOSUNNY   55  39  54 NW7       30.05S                  
+Mt Sinai Harb    N/A     52 N/A N/A NW6         N/A                   
+Westhampton    PTSUNNY   55  32  41 VRB6      30.05S                  
+East Hampton   CLOUDY    51  38  61 NW5       30.04R                  
+Southold         N/A     48  41  76 W6          N/A                   
+Montauk          N/A     51  43  74 NW5       30.05R                  
+$$
+ 
+NYZ052-065-067-241600-
+Hudson Valley
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+White Plains   PTSUNNY   52  37  56 VRB3      30.04S                  
+Larchmont Harb   N/A     50 N/A N/A CALM        N/A                   
+Croton On Huds   N/A     50 N/A N/A W3          N/A                   
+Somers           N/A     48  34  57 W3          N/A                   
+Brewster         N/A     50  37  62 N6          N/A                   
+Newburgh       MOSUNNY   50  37  62 VRB6      30.03F                  
+Montgomery     PTSUNNY   50  30  46 VRB3      30.03S                  
+Otisville        N/A     50  30  46 W8          N/A                   
+Warwick          N/A     50  34  53 NW9         N/A                   
+Suffern          N/A     50  32  50 N5          N/A                   
+Poughkeepsie   PTSUNNY   50  37  61 CALM      30.04S                  
+Albany         CLOUDY    49  37  63 NW5       30.06S                  
+$$
+ 
+NJZ001-105-106-008-010-013-015-019>022-104-241600-
+New Jersey
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+Newark/Liberty MOSUNNY   57  33  40 VRB6      30.05F                  
+Teterboro      SUNNY     54  36  50 NW7       30.05S                  
+Caldwell       MOSUNNY   53  28  38 NW6       30.06F                  
+Somerville     MOSUNNY   54  33  45 N8        30.05F                  
+Linden         FAIR      55  32  41 N6        30.05F                  
+Perth Amboy      N/A     50 N/A N/A NW7         N/A                   
+Sussex         MOSUNNY   53  35  50 VRB5      30.05F                  
+Andover          N/A     54  33  45 VRB5      30.05F                  
+Trenton        MOSUNNY   53  33  46 NW5       30.06F                  
+Millville      CLOUDY    51  35  54 NW6       30.09F                  
+Atlantic City  CLOUDY    52  35  52 N6        30.08S                  
+Wrightstown    MOSUNNY   54  34  46 NW7       30.07F                  
+Toms River     NOT AVBL                                               
+Belmar         CLOUDY    51  38  60 W5        30.08S                  
+$$
+ 
+PAZ047>061-062-071-241600-
+Eastern Pennsylvania
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+Philadelphia   MOSUNNY   52  28  39 W8        30.08F                  
+Allentown      SUNNY     51  30  44 NW3       30.07S                  
+Scranton       CLOUDY    47  30  51 MISG      30.06S                  
+$$
+
+CTZ002-004>006-009-010-012-RIZ004-006-007-MAZ004-011-015-241600-
+Southern New England
+
+ In CT
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+Bradley Intl   PTSUNNY   52  38  58 NW13      30.03R                  
+Hartford       PTSUNNY   52  38  58 NW6       30.03S                  
+Danbury        PTSUNNY   53  35  50 VRB3      30.05S                  
+Wtrbury/Oxford PTSUNNY   50  37  61 NW12      30.03S                  
+Norwalk Harbor   N/A    N/A N/A N/A SW7         N/A                   
+Bridgeport     MOSUNNY   54  36  50 VRB6      30.04S                  
+Meriden        PTSUNNY   55  35  47 MISG      30.03S                  
+New Haven      SUNNY     54  43  66 S9        30.04S                  
+Chester        FAIR      57  36  44 VRB7G14   30.03R                  
+Groton         PTSUNNY   54  46  74 S9        30.03R                  
+Willimantic    PTSUNNY   50  41  71 MISG      30.03S                  
+
+ In RI
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+Providence     PTSUNNY   51  45  79 CALM      30.03R                  
+Block Island   CLOUDY    46  44  93 NE6       30.05R                  
+Westerly       PTSUNNY   53  46  77 SW3       30.03R                  
+ 
+In MA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+Boston         PTSUNNY   51  43  74 CALM      30.03R                  
+Worcester      PTSUNNY   50  36  58 W6        29.99R                  
+Westfield      CLOUDY    49  38  65 SW3       30.03R                  
+Provincetown   CLOUDY    47  45  93 W10       30.04R                  
+Nantucket      CLOUDY    50  46  86 N6        30.03R                  
+$$
+
+ANZ330-335-338-340-345-350-353-355-241600-
+Coastal Marine Observations
+
+  
+STATION/POSITION TIME  SKY/WX   TEMP    WIND        PRES    VSBY  WAVE
+                                AIR SEA DIR/SP/G                  HT/PER
+                 (UTC)          (F)     (DEG/KT/KT) (MB)    (MI)  (FT/S)
+NY Harb Entrance 1450               52              1017.2          4/ 7
+20 S Fire Island 1450               51              1016.7          4/ 7
+Great South Bay  NOT AVBL
+23 SSW Montauk P NOT AVBL
+15 E Barnegat Li 1426               53                N/A           4/ 7
+Hudson Canyon    1450            50 51  320/ 10/ 12 1017.8          4/ 8
+Kings Point      1430            50 54   10/  3/  4 1018.2
+Execution Rocks  NOT AVBL
+Western LI Sound NOT AVBL
+Central LI Sound NOT AVBL
+Robbins Reef     1430            50     330/  5/ 10 1017.8
+$$
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> KEY <<<<<<<<<<<<<<<<<<<<<<<<<<<
+>                                                          <
+>     SKY/WX - Sky Condition/Present Weather               <
+>     TMP    - Temperature in Fahrenheit                   <
+>     DP     - Dew Point in Fahrenheit                     <
+>     RH     - Relative Humidity in Percent                <
+>     WIND   - Direction (from) and Speed in MPH           <
+>     PRES   - Mean Sea Level Pressure (inches of Hg)      <
+>     WCI    - Wind Chill Index                            <
+>     VSB    - Visibility in Miles                         <
+>     HX     - Heat Index                                  <
+>     TC     - Temperature in Celsius                      <
+>     VRB    - Variable Wind Direction                     <
+>                                                          <
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> KEY <<<<<<<<<<<<<<<<<<<<<<<<<<<
+  

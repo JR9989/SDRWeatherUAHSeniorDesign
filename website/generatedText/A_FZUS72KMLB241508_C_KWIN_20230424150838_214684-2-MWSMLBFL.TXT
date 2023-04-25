@@ -1,0 +1,43 @@
+FZUS72 KMLB 241508
+MWSMLB
+
+Marine Weather Statement
+National Weather Service Melbourne FL
+1108 AM EDT Mon Apr 24 2023
+
+AMZ552-555-572-575-241615-
+1108 AM EDT Mon Apr 24 2023
+
+...STRONG THUNDERSTORMS OVER THE WATERS...
+
+The areas affected include...
+  Sebastian Inlet to Jupiter Inlet 0-20 nm...
+  Sebastian Inlet to Jupiter Inlet 20-60 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 0-20 nm...
+  Volusia-Brevard County Line to Sebastian Inlet 20-60 nm...
+
+At 1108 AM EDT, Doppler radar indicated strong thunderstorms, capable
+of producing winds to around 30 knots. These thunderstorms were
+located along a line extending from 12 nm east of South Beach to 14
+nm northeast of Saint Lucie Nuclear Power Plant to near Jupiter
+Island, moving northeast at 5 knots.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners can expect gusty winds to around 30 knots, locally higher
+waves, and lightning strikes. Boaters should seek safe harbor
+immediately until these storms pass.
+
+Waterspouts are possible with this activity. Remain on the alert in
+case warnings are issued for waterspout development.
+
+&&
+
+LAT...LON 2697 8011 2711 8018 2715 8022 2713 8027
+      2723 8035 2728 8035 2729 8032 2724 8026
+      2746 8037 2765 8041 2789 8055 2804 7952
+      2760 7941 2697 7951
+
+$$
+
+Haley

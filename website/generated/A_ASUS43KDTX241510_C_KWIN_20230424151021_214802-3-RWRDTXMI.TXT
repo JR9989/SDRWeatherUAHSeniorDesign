@@ -1,0 +1,115 @@
+ASUS43 KDTX 241510
+RWRMI 
+MICHIGAN HOURLY REGIONAL WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE DETROIT/PONTIAC MI
+1100 AM EDT MON APR 24 2023
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+SIGNIFICANT WEATHER AND/OR OBSTRUCTION TO VISIBILITY.
+
+MIZ047>049-052>055-059>063-066>070-074>076-081>083-241600-
+SOUTHEAST LOWER MICHIGAN
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ADRIAN         CLOUDY    40  30  67 NW13      30.18S WCI  32 TC   4   
+ALMA           CLOUDY    42  26  53 NW10      30.14F TC   6           
+ANN ARBOR      CLOUDY    40  28  62 W8        30.15S WCI  34 TC   4   
+BAD AXE        CLOUDY    39  31  75 W3        30.12R TC   4           
+CARO           CLOUDY    41  31  66 W9        30.13S TC   5           
+DETROIT CITY   CLOUDY    44  26  49 W8        30.15R TC   7           
+DETROIT        CLOUDY    42  28  57 W12G20    30.16S TC   6           
+FLINT          CLOUDY    41  30  65 W12       30.15R TC   5           
+GROSSE ILE     CLOUDY    41  28  60 NW8       30.16R TC   5           
+HILLSDALE      CLOUDY    38  31  78 W10       30.16S WCI  31 TC   3   
+HOWELL         CLOUDY    40  31  71 W9        30.15S WCI  34 TC   5   
+
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+JACKSON        CLOUDY    39  29  67 W8        30.16S WCI  33 TC   4   
+LAMBERTVILLE   CLOUDY    41  29  62 W7        30.18R TC   5           
+LANSING        CLOUDY    41  29  62 W9        30.16S TC   5           
+LAPEER         CLOUDY    41  29  63 SW8       30.14R TC   5           
+MASON          CLOUDY    40  31  68 NW5       30.16S TC   5           
+MONROE         CLOUDY    42  28  58 W12       30.17R TC   5           
+MT. CLEMENS    CLOUDY    41  28  60 NW8       30.12R TC   5           
+PONTIAC        CLOUDY    38  29  70 W8        30.14R WCI  32 TC   3   
+PORT HOPE        N/A     43  27  53 VRB6      30.10S TC   6           
+TRI CITIES     MOSUNNY   41  31  67 W8        30.14S TC   5           
+MIDLAND        CLOUDY    42  26  54 W7        30.13S TC   6           
+TROY           CLOUDY    41  28  60 W7        30.17R TC   5           
+SAGINAW HB     CLOUDY    40  34  79 W7        30.15R TC   5           
+$$
+MIZ043>046-050>051-056>058-064>065-071>073-077>080-241600-
+SOUTHWEST LOWER MICHIGAN
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BATTLE CREEK   CLOUDY    42  26  53 W13       30.17R TC   6           
+BENTON HARBOR  PTSUNNY   45  32  60 W9        30.20R TC   7           
+BIG RAPIDS     PTSUNNY   42  23  46 W12G17    30.13F TC   6           
+COLDWATER      CLOUDY    41  30  64 W10       30.17S TC   5           
+FREMONT        PTSUNNY   43  26  51 W7        30.15S TC   6           
+HOLLAND        SUNNY     46  26  45 NW8       30.18S TC   8           
+GRAND RAPIDS   PTSUNNY   43  21  41 NW10      30.16S TC   6           
+IONIA          PTSUNNY   43  22  42 NW8       30.15S TC   6           
+KALAMAZOO      CLOUDY    44  26  49 W9        30.17S TC   7           
+LUDINGTON      SUNNY     45  23  41 CALM      30.15S TC   7           
+MARSHALL       PTSUNNY   41  31  67 W6        30.16S TC   5           
+MOUNT PLEASANT PTSUNNY   44  24  44 W9G16     30.13S TC   7           
+MUSKEGON       MOSUNNY   48  24  39 W9        30.17S TC   9           
+SOUTH HAVEN    SUNNY     45  34  66 NW7       30.19S TC   7           
+$$
+MIZ016>042-241600-
+NORTHERN LOWER MICHIGAN
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ALPENA         PTSUNNY   39  24  55 W9G20     30.10S WCI  33 TC   4   
+BEAVER ISLAND  CLOUDY    38  28  68 W12       30.13S WCI  30 TC   3   
+BELLAIRE       CLOUDY    38  26  61 SW7       30.15S WCI  33 TC   3   
+CADILLAC       MOSUNNY   40  22  49 NW9G17    30.11R WCI  33 TC   4   
+CHARLEVOIX     CLOUDY    38  24  55 W10       30.14S WCI  32 TC   4   
+FRANKFORT      SUNNY     41  28  59 N3        30.16S TC   5           
+GAYLORD        CLOUDY    35  23  61 W12G18    30.10R WCI  27 TC   2   
+GRAYLING       CLOUDY    37  24  61 NW9       30.11S WCI  30 TC   3   
+HARBOR SPRINGS CLOUDY    35  27  73 W10       30.12S WCI  28 TC   2   
+HOUGHTON LAKE  PTSUNNY   39  23  52 NW14G20   30.11S WCI  31 TC   4   
+MANISTEE       SUNNY     42  25  50 VRB6      30.16R TC   6           
+OSCODA         CLOUDY    42  26  54 W12       30.10S TC   5           
+PELLSTON       CLOUDY    35  28  75 W9        30.13R WCI  28 TC   2   
+ROGERS CITY    CLOUDY    36  30  79 W8        30.11S WCI  30 TC   2   
+TRAVERSE CITY  PTSUNNY   41  26  55 NW7       30.14S TC   5           
+$$
+MIZ007>008-015-241600-
+EASTERN UPPER MICHIGAN
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+KINROSS        LGT SNOW  34  31  88 W7        30.09S FOG     WCI  28  
+MACKINAC ISLAN CLOUDY    35  29  80 W13       30.10S WCI  26 TC   2   
+NEWBERRY       CLOUDY    36  31  80 W9        30.09S WCI  29 TC   2   
+S. S. MARIE    LGT SNOW  34  33  96 W7        30.07R VSB 1   WCI  28  
+$$
+MIZ004>006-011>014-085-241600-
+CENTRAL UPPER MICHIGAN
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MANISTIQUE     CLOUDY    38  26  61 NW8       30.12S WCI  33 TC   4   
+ESCANABA       SUNNY     39  21  48 N10       30.15F WCI  32 TC   4   
+MENOMINEE      PTSUNNY   37  25  61 CALM      30.18S TC   3           
+SAWYER-GWINN   MOSUNNY   37  23  56 NW12G20   30.12S WCI  30 TC   3   
+MUNISING         N/A     33  29  85 NW12G21   30.13R WCI  24 TC   1   
+$$
+MIZ001>003-009>011-084-241600-
+WESTERN UPPER MICHIGAN
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+IRON MOUNTAIN  MOSUNNY   38  18  44 NW9       30.12F WCI  31 TC   3   
+HOUGHTON       CLOUDY    36  23  59 N14       30.15R WCI  27 TC   2   
+COPPER HARBOR    N/A     34  30  85 NE12      30.16R WCI  25 TC   1   
+IRONWOOD       MOSUNNY   36  23  59 SW5       30.15S WCI  32 TC   2   
+$$
+
+ABBREVIATIONS USED IN REMARKS
+   TC - TEMPERATURE IN CELSIUS
+  WCI - WIND CHILL INDEX
+   HX - HEAT INDEX
+  VSB - VISIBILITY
+
+  

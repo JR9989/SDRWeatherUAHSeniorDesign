@@ -1,0 +1,74 @@
+ASUS45 KGGW 241510
+RWRGGW
+HOURLY REGIONAL WEATHER ROUNDUP FOR NORTHEAST MONTANA
+NATIONAL WEATHER SERVICE GLASGOW MONTANA
+900 AM MDT MON APR 24 2023
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISISBILITY.
+
+NORTHEAST MONTANA
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+GLASGOW        CLOUDY    39  21  48 SE28      29.88S                  
+WOLF POINT     PTSUNNY   41  24  51 E14       29.95F                  
+JORDAN           N/A     43  26  51 SE12      29.84F                  
+SIDNEY         SUNNY     44  19  36 SE6       30.01F                  
+GLENDIVE       SUNNY     42  20  41 E13       29.96F                  
+MALTA            N/A     42  16  34 E7          N/A                   
+
+FORT PECK REPORTS
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+FORT PECK        N/A     37  23  56 E17         N/A                   
+THE PINES        N/A     41  21  44 E3G12       N/A                   
+
+SOUTHEAST MONTANA
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BILLINGS       MOSUNNY   44  30  57 CALM      29.81F                  
+MILES CITY     SUNNY     43  27  53 E7        29.88F                  
+BAKER          SUNNY     43  21  41 SE17      29.94F                  
+LIVINGSTON     CLOUDY    49  28  44 E5        29.80S                  
+
+CENTRAL MONTANA
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+HAVRE          MOSUNNY   41  30  65 CALM      29.79R                  
+LEWISTOWN      CLOUDY    39  27  62 E5        29.78S                  
+GREAT FALLS    CLOUDY    46  35  65 SW13      29.76S                  
+CUT BANK       PTSUNNY   44  34  67 E5        29.74S                  
+HELENA         PTSUNNY   44  33  65 CALM      29.79F                  
+BUTTE          CLOUDY    43  31  62 SE3       29.81F                  
+BOZEMAN        PTSUNNY   47  30  51 CALM      29.80S                  
+
+WESTERN MONTANA
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MISSOULA       LGT RAIN  45  42  89 NW7       29.82R                  
+KALISPELL      NOT AVBL                                               
+
+NORTH DAKOTA
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+WILLISTON      SUNNY     40  24  53 SE17G24   30.03S                  
+DICKINSON      SUNNY     43  18  36 SE12      30.00S                  
+MINOT          SUNNY     38  26  62 SE9       30.12S                  
+BISMARCK       SUNNY     37  25  61 E9        30.12S                  
+
+SOUTHERN SASKATCHEWAN
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+REGINA         PTSUNNY   36  25  64 SE17      30.06F                  
+MOOSE JAW      PTSUNNY   32  23  69 SE16      30.02S                  
+ESTEVAN        NOT AVBL                                               
+SWIFT CURRENT  MOSUNNY   39  23  52 SE24      29.86S                  
+
+  

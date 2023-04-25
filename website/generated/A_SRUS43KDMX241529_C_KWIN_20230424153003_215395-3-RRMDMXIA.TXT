@@ -1,0 +1,7 @@
+SRUS43 KDMX 241529
+RRMDMX
+
+: NWS Des Moines LARC gage precipitation reports
+:
+
+.A RWCI4 20230424 DH1500/PCIRP 12.60

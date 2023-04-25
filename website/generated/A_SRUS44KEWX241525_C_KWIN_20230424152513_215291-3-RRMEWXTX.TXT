@@ -1,0 +1,216 @@
+SRUS44 KEWX 241525
+RRMEWX
+LCRA Reports
+National Weather Service Austin/San Antonio TX
+1025 AM CDT Mon Apr 24 2023
+
+LCRA HOURLY REPORTS
+                                    WIND     HRLY  OBS
+  STATION               TEMP  RH  DIR  SPD   PCPN  TIME
+
+
+...MILLS COUNTY...
+MILLS 6W                 51                 0.00    Mon 10 AM
+
+
+...LAMPASAS COUNTY...
+LOMETA 2WNW              49                 0.00    Mon 10 AM
+LAMPASAS 15WNW           50                 0.00    Mon 10 AM
+LAMPASAS 9SW             49                 0.00    Mon 10 AM
+SAN SABA 15 ESE          50                 0.00    Mon 10 AM
+
+
+...MCCULLOCH COUNTY...
+BRADY 8SSE               50   98            0.00    Mon 10 AM
+
+
+...SAN SABA COUNTY...
+RIVER BEND               51                 0.00    Mon 10 AM
+CHEROKEE 4SSE            50                 0.00    Mon 10 AM
+CHEROKEE 8NNE            49                 0.00    Mon 10 AM
+NEAR BEND                50                 0.00    Mon 10 AM
+CHEROKEE 10WNW           48                 0.00    Mon 10 AM
+CHEROKEE 2NNW            50  100            0.00    Mon 10 AM
+SAN SABA                 51                 0.00    Mon 10 AM
+SAN SABA                 51                 0.00    Mon 10 AM
+SAN SABA 8W              49                 0.00    Mon 10 AM
+SAN SABA 6S              50                 0.00    Mon 10 AM
+TOW 11N                  50                 0.00    Mon 10 AM
+
+
+...KIMBLE COUNTY...
+HARPER 6NW               49                 0.00    Mon 10 AM
+HARPER 13NW              49                 0.00    Mon 10 AM
+JUNCTION 18ENE           50  100            0.00    Mon 10 AM
+JUNCTION 14SE            50                 0.00    Mon 10 AM
+JUNCTION                 51                 0.00    Mon 10 AM
+JUNCTION 2E              51                 0.01    Mon 10 AM
+
+
+...MASON COUNTY...
+MASON 3NNE               51                 0.00    Mon 10 AM
+MASON 3NNE               51                 0.00    Mon 10 AM
+MASON 2NE                                                    
+MASON 2E                 52                 0.00    Mon 10 AM
+MASON 2NE                50                 0.00    Mon 10 AM
+MASON 13WNW                50                 0.00    Mon 10 AM
+MASON 15W                50                 0.00    Mon 10 AM
+MASON 17SE               49  100            0.00    Mon 10 AM
+MASON 15ENE              52                 0.00    Mon 10 AM
+MASON 14SSW              49                 0.00    Mon 10 AM
+MASON 2NE                52                 0.00    Mon 10 AM
+MASON 15NNE              51                 0.00    Mon 10 AM
+
+
+...MENARD COUNTY...
+MENARD 12SSE             48  100            0.00    Mon 10 AM
+MENARD                   50  100            0.00    Mon 10 AM
+
+
+...LLANO COUNTY...
+TOW 10ESE                52                 0.00    Mon 10 AM
+CASTELL 4SSE             51                 0.00    Mon 10 AM
+HONEY CK NR KINGSLAND    54                 0.00    Mon 10 AM
+KINGSLAND 7WNW                                               
+KINGSLAND 6ESE           53                 0.00    Mon 10 AM
+KINGSLAND                54                 0.00    Mon 10 AM
+KINGSLAND 10SE           55                 0.00    Mon 10 AM
+LLANO 9NW                52   88            0.00    Mon 10 AM
+NEAR LLANO               53                 0.00    Mon 10 AM
+TOW 2SSE                                                     
+LLANO                    53                 0.00    Mon 10 AM
+CASTELL                  52                 0.00    Mon 10 AM
+CASTELL                  53                 0.00    Mon 10 AM
+LLANO 19SW               50                 0.00    Mon 10 AM
+LLANO 2NE                53                 0.00    Mon 10 AM
+LLANO 11SE               49                 0.00    Mon 10 AM
+LLANO 5SSW               53                 0.00    Mon 10 AM
+LLANO 19WNW              51                 0.00    Mon 10 AM
+LLANO 13SSW              52                 0.00    Mon 10 AM
+LLANO 7NNE               51                 0.00    Mon 10 AM
+TOW 9NNE                 49                 0.00    Mon 10 AM
+MARBLE FALLS             55                 0.00    Mon 10 AM
+KINGSLAND SH1431         55                 0.00    Mon 10 AM
+SANDY HARBOR             55                 0.00    Mon 10 AM
+OXFORD                   54                 0.00    Mon 10 AM
+KINGSLAND 9WSW                                               
+CLICK                    54                 0.00    Mon 10 AM
+TOW 5SSW                 52                 0.00    Mon 10 AM
+TOW 5W                   49                 0.00    Mon 10 AM
+TOW 10NNW                49                 0.00    Mon 10 AM
+KINGSLAND                55                 0.00    Mon 10 AM
+
+
+...BURNET COUNTY...
+BURNET 5NNW              49                 0.00    Mon 10 AM
+BERTRAM 8SSW             52                 0.00    Mon 10 AM
+MARBLE FALLS 6ENE        54                 0.00    Mon 10 AM
+BURNET 6SSE              53   88            0.00    Mon 10 AM
+BURNET 6WSW              52                 0.00    Mon 10 AM
+BURNET                   50                         Mon 08 AM
+BURNET 1WSW              51   89         3  0.00    Mon 10 AM
+SPICEWOOD 4S             53                 0.00    Mon 10 AM
+MARBLE FALLS 14 ESE      53                 0.00    Mon 10 AM
+SPICEWOOD 5WNW           54                 0.00    Mon 10 AM
+TOW 11 ENE               50   94            0.00    Mon 10 AM
+MARBLE FALLS 4WSW        54   96     4   1  0.00             
+
+
+...GILLESPIE COUNTY...
+HEDWIGS HILL 2ESE        53                 0.00    Mon 10 AM
+FREDERICKSBURG 10WSW     52                 0.00    Mon 10 AM
+FREDERICKSBURG 12NW      50   99            0.00    Mon 10 AM
+FREDERICKSBURG 5N        52                 0.00    Mon 10 AM
+FREDERICKSBURG 10NNE     49                 0.00    Mon 10 AM
+FREDERICKSBURG 9SW       52                 0.00    Mon 10 AM
+FREDERICKSBURG           52                 0.00    Mon 10 AM
+FREDERICKSBURG 10SSE     51                 0.00    Mon 10 AM
+HARPER 8NE               51                 0.00    Mon 10 AM
+HARPER 8SSE              50                 0.00    Mon 10 AM
+S GRAPE NR LUCKENBACH    54                 0.00    Mon 10 AM
+STONEWALL 7NNE           51                 0.00    Mon 10 AM
+WILLOW CITY 9NW          52                 0.00    Mon 10 AM
+WILLOW CITY 3NNW         49                 0.00    Mon 10 AM
+WILLOW CITY 10NNE        55                 0.00    Mon 10 AM
+WILLOW CITY 6ENE         52                 0.00    Mon 10 AM
+WILLOW CITY 6SSW         50  100            0.00    Mon 10 AM
+
+
+...BLANCO COUNTY...
+BLANCO 5NNE              54   90            0.00    Mon 10 AM
+BLANCO 13WNW             52                 0.00    Mon 10 AM
+CYPRESS CREEK            54                 0.00    Mon 10 AM
+JOHNSON CITY 10E         55                 0.00    Mon 10 AM
+JOHNSON CITY 5SSW        52                 0.00    Mon 10 AM
+JOHNSON CITY 7E          57   57            0.00    Mon 10 AM
+JOHNSON CITY 4NNW        53                 0.00    Mon 10 AM
+JOHNSON CITY 9NNE        53                 0.00    Mon 10 AM
+JOHNSON CITY 10NNW       52   93            0.00    Mon 10 AM
+NORTH GRAPE CREEK        54                 0.00    Mon 10 AM
+ROUND MOUNTAIN 11WNW     53                 0.00    Mon 10 AM
+ROUND MOUNTAIN           53                 0.00    Mon 10 AM
+
+
+...WILLIAMSON COUNTY...
+LEANDER 5SW              53                 0.00    Mon 10 AM
+
+
+...TRAVIS COUNTY...
+LAKEWAY 2E               55   80         1  0.00    Mon 10 AM
+LAKEWAY 6W               54   84            0.00    Mon 10 AM
+MANSFIELD DAM            55  100            0.00    Mon 10 AM
+CEDAR PARK 3SSW          53   77     7   0  0.00    Mon 10 AM
+DEL VALLE                                                    
+LOOP 360 AT BARTON CK    56                         Mon 10 AM
+LOOP 360 AT BULL CK      55   80            0.00    Mon 10 AM
+LAKE AUSTIN              56         18   0  0.00    Mon 10 AM
+COLORADO RIVER AT 183    55                 0.00    Mon 10 AM
+ONION CK AT 183          56                 0.00    Mon 10 AM
+ELGIN 8NW                54   99            0.00    Mon 10 AM
+MANOR                    55   85            0.00    Mon 10 AM
+WEBBERVILLE RD           56                 0.00    Mon 10 AM
+
+
+...HAYS COUNTY...
+DRIPPING SPRINGS 8W      53                 0.00    Mon 10 AM
+DRIPPING SPRINGS 4NNE    54   84     2   0  0.00    Mon 10 AM
+DRIPPING SPRINGS 5SSW    54                 0.00    Mon 10 AM
+MANCHACA 4W              56                 0.00    Mon 10 AM
+BUDA                     58   94         0  0.00    Mon 10 AM
+
+
+...LEE COUNTY...
+GIDDINGS 3WSW            55   81            0.00    Mon 10 AM
+
+
+...BASTROP COUNTY...
+BASTROP                  57                 0.00    Mon 10 AM
+BASTROP 2S               58                 0.00    Mon 10 AM
+ELGIN 9SSW               55   88            0.00    Mon 10 AM
+ELGIN 6SSE               56   72            0.00    Mon 10 AM
+ROSANKY 1W               55   85            0.00    Mon 10 AM
+SMITHVILLE               58                 0.00    Mon 10 AM
+
+
+...CALDWELL COUNTY...
+LOCKHART 6NE             56                 0.00    Mon 10 AM
+
+
+...FAYETTE COUNTY...
+CARMINE 1SSW             57                 0.00    Mon 10 AM
+LAGRANGE 2NW             58                 0.00    Mon 10 AM
+BASTROP                  57                 0.00    Mon 10 AM
+MULDOON 6WSW             57   78            0.00    Mon 10 AM
+MULDOON 2NE              58                 0.00    Mon 10 AM
+
+
+...COLORADO COUNTY...
+COLUMBUS                 57                 0.00    Mon 10 AM
+EAGLE LAKE                                                   
+GARWOOD                                                      
+FRELSBURG 4SW            52                 0.00    Mon 10 AM
+WEIMAR                   56                 0.00    Mon 10 AM
+
+
+$$
+

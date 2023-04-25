@@ -1,0 +1,89 @@
+WGUS83 KMKX 241508
+FLSMKX
+
+Flood Statement
+National Weather Service Milwaukee/Sullivan WI
+1008 AM CDT Mon Apr 24 2023
+
+...The Flood Warning continues for the following rivers in 
+Wisconsin...
+
+  Wisconsin River At Portage affecting Columbia County.
+
+
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Caution is urged when walking near riverbanks.
+
+Turn around, don't drown when encountering flooded roads. Most flood 
+deaths occur in vehicles.
+
+Additional information is available at www.weather.gov.
+
+The next statement will be issued this evening at 1015 PM CDT.
+
+&&
+
+WIC021-250315-
+/O.CON.KMKX.FL.W.0010.000000T0000Z-230426T1800Z/
+/PORW3.1.RS.230405T0604Z.230419T1630Z.230426T1200Z.NO/
+1008 AM CDT Mon Apr 24 2023
+
+...FLOOD WARNING REMAINS IN EFFECT UNTIL EARLY WEDNESDAY AFTERNOON...
+
+* WHAT...Minor flooding is occurring and minor flooding is forecast.
+
+* WHERE...Wisconsin River at Portage.
+
+* WHEN...Until early Wednesday afternoon.
+
+* IMPACTS...At 17.0 feet, There is general overflow of the river. 
+  Water is near homes in the Blackhawk Park area of Portage on the 
+  south side of the river along Old River Road. Floodwaters are over 
+  West Lake Road and Blackhawk Road in the Blackhawk Park area.
+
+* ADDITIONAL DETAILS...
+  - At 3:30 AM CDT Monday the stage was 17.2 feet.
+  - Bankfull stage is 12.7 feet.
+  - Recent Activity...The maximum river stage in the 24 hours
+    ending at 3:30 AM CDT Monday was 17.3 feet.
+  - Forecast...The river is expected to rise to a crest of 17.2
+    feet this morning. It will then fall below flood stage
+    Wednesday morning.
+  - Flood stage is 17.0 feet.
+  - Flood History...This crest compares to a previous crest of
+    17.1 feet on 05/07/1993.
+  - http://www.weather.gov/safety/flood
+
+&&
+
+River forecasts are available for some but not all river gaging
+locations. The 7 day river forecast takes into account past
+precipitation, soil moisture conditions, and predicted
+precipitation for the basin. Precipitation is for the next 24 hours
+in the future from April through September and for 48 hours in the
+future from October through March.
+
+(Stages in ft.)       Bank-       Latest         Forecast stages   
+-               Flood full       observed        ...for 1 pm...    
+Location        stage stage     stage/time    Tue  Wed  Thu  Fri   
+Portage         17.0  12.7  17.19 3 am 4/24   16.5 15.6 14.5 13.9  
+
+-                    Highest       24 hour change                    
+-                    observed      in river stage                    
+-                    stage in        (ft.) up to     Highest stage   
+-                    the last      latest observed    forecast in    
+-                     7 days            stage         next 7 days    
+Portage         19.04 11 am 4/19       -0.06       17.20 7 pm 4/24   
+
+
+&&
+
+LAT...LON 4351 8970 4365 8966 4359 8937 4339 8939
+      4344 8965 4350 8957
+
+
+$$
+
+PATTERSON

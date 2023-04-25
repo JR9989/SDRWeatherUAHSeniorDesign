@@ -1,0 +1,1230 @@
+FNUS53 KLOT 241524
+FWFLOT
+
+Fire Weather Planning Forecast For Northern IL and Northwest IN
+National Weather Service Chicago/Romeoville IL
+1024 AM CDT Mon Apr 24 2023
+
+.DISCUSSION...
+Temperatures will moderate into the low to mid 50s across the 
+region today. The exception to this will be along the Lake 
+Michigan shore, where a lake breeze will develop by early 
+afternoon and limit temperatures to the 40s. Otherwise, mainly 
+dry weather is expected beneath partly to mostly cloudy skies 
+and with west to northwest winds 10 to 15 mph. Afternoon relative
+humidity will drop to the 30 to 35 percent range. Clouds will 
+thicken by tonight, with rain developing across much of the area 
+which will persist into Tuesday. Areas south of the I-88 corridor
+across northern Illinois and northeast Indiana will see the 
+greatest rainfall, with up to two tenths of an inch possible in 
+spots.
+
+Moderating temperatures are expected mid-week, though we will be 
+near to still slightly below average for late April. Daily lake 
+breezes will also keep temperatures cooler near Lake Michigan, 
+along with lower mixing heights there. The next chance of wetting
+rain looks to be Friday into the weekend, also with a return to 
+cooler weather once again.
+
+
+ILZ014-251015-
+Cook-
+Including the cities of Chicago, Schaumburg, Evanston, Oak Lawn, 
+Lemont, Orland Park, and Park Forest
+1024 AM CDT Mon Apr 24 2023
+
+                      Today        Tonight      Tue          Tue Night    
+
+Cloud Cover           pcldy        mcldy        mcldy        mclear       
+Precip Type           none         showers      showers      none         
+Chance Precip (%)                  50           40                        
+Max Temp (24HR Trend) 53 (+8)                   49                        
+Min RH % (24HR Trend) 29 (-25)                  57                        
+Min Temp (24HR Trend)              39 (+6)                   32           
+Max RH % (24HR Trend)              92 (+13)                  92           
+20FT Wind AM (MPH)    W 6-7                     S 5-9                     
+20FT Wind PM (MPH)    NW 6-7       S 5          N 5-9        N 6-9        
+Peak Wind Gusts (MPH)                           19                        
+Precip Amount (IN)    0.00         0.05-0.10    0.01-0.05    0.00         
+11 AM Mixing Hgt (FT) 7500                      2200                      
+Max Mixing Hgt (FT)   9300                      3200                      
+Transport Wnd (MPH)   NW 16                     N 16                      
+Vent Rate (MPH-FT)    138300                    44800                     
+Vent Rate Category    very good                 poor                      
+LAL                   1            1            1            1            
+Haines Index          5-Med                     4-Low                     
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+(WINDS ARE 20 FT LEVEL)
+
+.WEDNESDAY...Sunny. Highs around 50. Northeast winds around
+10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Areas of frost. Lows in the mid
+30s. Northeast winds around 5 mph. 
+.THURSDAY...Partly sunny. Highs around 60. Southeast winds around
+10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Lows in the lower 40s. East
+winds around 10 mph. 
+.FRIDAY...Partly sunny with a chance of showers. Highs in the
+lower 60s. Southeast winds around 10 mph. 
+.FRIDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the mid 40s. East winds around 10 mph. 
+.SATURDAY...Mostly cloudy with showers likely. Highs in the mid
+50s. East winds around 10 mph. 
+.SATURDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the lower 40s. Northwest winds around 10 mph. 
+.SUNDAY...Mostly cloudy with showers likely. Highs in the lower
+50s. Northwest winds around 15 mph. 
+.SUNDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the lower 40s. Northwest winds around 15 mph. 
+
+$$
+
+ILZ006-251015-
+Lake IL-
+Including the cities of Waukegan, Buffalo Grove, Mundelein, 
+and Gurnee
+1024 AM CDT Mon Apr 24 2023
+
+                      Today        Tonight      Tue          Tue Night    
+
+Cloud Cover           pcldy        mcldy        mcldy        clear        
+Precip Type           none         showers      showers      none         
+Chance Precip (%)     10           40           20                        
+Max Temp (24HR Trend) 51 (+6)                   48                        
+Min RH % (24HR Trend) 33 (-24)                  53                        
+Min Temp (24HR Trend)              36 (+4)                   29           
+Max RH % (24HR Trend)              95 (+12)                  96           
+20FT Wind AM (MPH)    W 6                       NE 5-10                   
+20FT Wind PM (MPH)    NW 6         S 4-5        NE 5-10      N 5-7        
+Peak Wind Gusts (MPH)                           19                        
+Precip Amount (IN)    0.00         0.01-0.05    0.01-0.05    0.00         
+11 AM Mixing Hgt (FT) 7500                      2300                      
+Max Mixing Hgt (FT)   9200                      3400                      
+Transport Wnd (MPH)   W 14                      N 17                      
+Vent Rate (MPH-FT)    130100                    50900                     
+Vent Rate Category    very good                 fair                      
+LAL                   1            1            1            1            
+Haines Index          5-Med                     4-Low                     
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+(WINDS ARE 20 FT LEVEL)
+
+.WEDNESDAY...Sunny. Patchy frost. Highs in the upper 40s.
+Northeast winds around 5 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Areas of frost. Lows in the
+lower 30s. East winds around 5 mph. 
+.THURSDAY...Partly sunny. Highs in the upper 50s. Southeast winds
+around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Lows in the lower 40s. East
+winds around 10 mph. 
+.FRIDAY...Partly sunny with a chance of showers. Highs in the
+upper 50s. East winds around 10 mph. 
+.FRIDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the mid 40s. East winds around 10 mph. 
+.SATURDAY...Mostly cloudy with showers likely. Highs in the mid
+50s. East winds around 10 mph. 
+.SATURDAY NIGHT...Mostly cloudy with a chance of showers. Lows
+around 40. Northwest winds around 10 mph. 
+.SUNDAY...Mostly cloudy with showers likely. Highs in the lower
+50s. Northwest winds around 15 mph. 
+.SUNDAY NIGHT...Mostly cloudy with a chance of showers. Lows
+around 40. Northwest winds around 15 mph. 
+
+$$
+
+INZ001-251015-
+Lake IN-
+Including the cities of Gary, Hammond, and Merrillville
+1024 AM CDT Mon Apr 24 2023
+
+                      Today        Tonight      Tue          Tue Night    
+
+Cloud Cover           pcldy        pcldy        mcldy        pcldy        
+Precip Type           none         showers      showers      none         
+Chance Precip (%)                  60           50           10           
+Max Temp (24HR Trend) 52 (+7)                   51                        
+Min RH % (24HR Trend) 30 (-24)                  59                        
+Min Temp (24HR Trend)              37 (+5)                   32           
+Max RH % (24HR Trend)              94 (+12)                  97           
+20FT Wind AM (MPH)    W 8-9                     S 7-10                    
+20FT Wind PM (MPH)    NW 8-9       S 4-5        N 7-10       N 7-9        
+Peak Wind Gusts (MPH) 17                        19           17           
+Precip Amount (IN)    0.00         0.05-0.10    0.05-0.10    0.00         
+11 AM Mixing Hgt (FT) 7300                      2200                      
+Max Mixing Hgt (FT)   9000                      3100                      
+Transport Wnd (MPH)   NW 14                     NW 12                     
+Vent Rate (MPH-FT)    121800                    32900                     
+Vent Rate Category    very good                 poor                      
+LAL                   1            1            1            1            
+Haines Index          5-Med                     3-Very low                
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+(WINDS ARE 20 FT LEVEL)
+
+.WEDNESDAY...Sunny. Highs in the lower 50s. Northeast winds
+around 10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Areas of frost. Lows in the
+lower 30s. Northeast winds around 5 mph. 
+.THURSDAY...Mostly sunny. Not as cool. Highs in the lower 60s.
+Southeast winds around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Lows in the lower 40s. East
+winds around 10 mph. 
+.FRIDAY...Partly sunny with a chance of showers. Highs in the
+lower 60s. East winds around 10 mph. 
+.FRIDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the mid 40s. Northeast winds around 10 mph. 
+.SATURDAY...Mostly cloudy with showers likely. Highs in the mid
+50s. East winds around 10 mph. 
+.SATURDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the lower 40s. West winds around 15 mph. 
+.SUNDAY...Mostly cloudy with showers likely. Highs in the lower
+50s. Northwest winds around 15 mph. 
+.SUNDAY NIGHT...Mostly cloudy with a chance of showers. Lows
+around 40. Northwest winds around 15 mph. 
+
+$$
+
+INZ002-251015-
+Porter-
+Including the cities of Portage, Valparaiso, and Chesterton
+1024 AM CDT Mon Apr 24 2023
+
+                      Today        Tonight      Tue          Tue Night    
+
+Cloud Cover           pcldy        pcldy        mcldy        pcldy        
+Precip Type           none         showers      showers      none         
+Chance Precip (%)                  50           50           10           
+Max Temp (24HR Trend) 51 (+6)                   50                        
+Min RH % (24HR Trend) 31 (-27)                  60                        
+Min Temp (24HR Trend)              36 (+3)                   32           
+Max RH % (24HR Trend)              91 (+6)                   95           
+20FT Wind AM (MPH)    W 7-9                     S 7-10                    
+20FT Wind PM (MPH)    NW 7-9       S 4-6        NW 7-10      N 6-9        
+Peak Wind Gusts (MPH) 16                        18           17           
+Precip Amount (IN)    0.00         0.05-0.10    0.05-0.10    0.00         
+11 AM Mixing Hgt (FT) 7400                      2100                      
+Max Mixing Hgt (FT)   8800                      2900                      
+Transport Wnd (MPH)   NW 14                     W 12                      
+Vent Rate (MPH-FT)    113700                    30200                     
+Vent Rate Category    good                      poor                      
+LAL                   1            1            1            1            
+Haines Index          5-Med                     3-Very low                
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+(WINDS ARE 20 FT LEVEL)
+
+.WEDNESDAY...Sunny. Highs around 50. North winds around 10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Areas of frost. Lows in the
+lower 30s. Northeast winds around 5 mph. 
+.THURSDAY...Partly sunny. Not as cool. Highs in the lower 60s.
+Southeast winds around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Lows in the lower 40s. East
+winds around 10 mph. 
+.FRIDAY...Partly sunny with a chance of showers. Highs in the
+lower 60s. East winds around 10 mph. 
+.FRIDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the mid 40s. Northeast winds around 10 mph. 
+.SATURDAY...Mostly cloudy with showers likely. Highs in the upper
+50s. East winds around 10 mph. 
+.SATURDAY NIGHT...Mostly cloudy with showers likely. Lows in the
+lower 40s. West winds around 15 mph. 
+.SUNDAY...Mostly cloudy with showers likely. Highs in the lower
+50s. West winds around 15 mph. 
+.SUNDAY NIGHT...Mostly cloudy with a chance of showers. Lows
+around 40. Northwest winds around 15 mph. 
+
+$$
+
+ILZ013-251015-
+DuPage-
+Including the cities of Naperville, Wheaton, Downers Grove, 
+Lombard, and Carol Stream
+1024 AM CDT Mon Apr 24 2023
+
+                      Today        Tonight      Tue          Tue Night    
+
+Cloud Cover           pcldy        mcldy        mcldy        mclear       
+Precip Type           none         showers      showers      none         
+Chance Precip (%)     10           50           30                        
+Max Temp (24HR Trend) 53 (+8)                   50                        
+Min RH % (24HR Trend) 29 (-25)                  54                        
+Min Temp (24HR Trend)              38 (+6)                   32           
+Max RH % (24HR Trend)              93 (+12)                  91           
+20FT Wind AM (MPH)    W 7-8                     SE 5-9                    
+20FT Wind PM (MPH)    NW 7-8       S 4-5        N 5-9        NE 6-8       
+Peak Wind Gusts (MPH)                           17                        
+Precip Amount (IN)    0.00         0.05-0.10    0.01-0.05    0.00         
+11 AM Mixing Hgt (FT) 7300                      2200                      
+Max Mixing Hgt (FT)   9200                      3500                      
+Transport Wnd (MPH)   W 18                      N 14                      
+Vent Rate (MPH-FT)    165800                    51100                     
+Vent Rate Category    very good                 fair                      
+LAL                   1            1            1            1            
+Haines Index          5-Med                     3-Very low                
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+(WINDS ARE 20 FT LEVEL)
+
+.WEDNESDAY...Sunny. Highs in the lower 50s. Northeast winds
+around 10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Areas of frost. Lows in the
+lower 30s. East winds around 5 mph. 
+.THURSDAY...Partly sunny. Highs in the lower 60s. Southeast winds
+around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Lows in the lower 40s. Southeast
+winds around 10 mph. 
+.FRIDAY...Partly sunny with a chance of showers. Highs in the mid
+60s. East winds around 10 mph. 
+.FRIDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the mid 40s. East winds around 10 mph. 
+.SATURDAY...Mostly cloudy with showers likely. Highs in the upper
+50s. Northeast winds around 10 mph. 
+.SATURDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the lower 40s. Northwest winds around 10 mph. 
+.SUNDAY...Mostly cloudy with showers likely. Highs in the lower
+50s. Northwest winds around 15 mph. 
+.SUNDAY NIGHT...Mostly cloudy with a chance of showers. Lows
+around 40. Northwest winds around 15 mph. 
+
+$$
+
+ILZ012-251015-
+Kane-
+Including the cities of Aurora and Elgin
+1024 AM CDT Mon Apr 24 2023
+
+                      Today        Tonight      Tue          Tue Night    
+
+Cloud Cover           pcldy        mcldy        mcldy        mclear       
+Precip Type           none         showers      showers      none         
+Chance Precip (%)     10           50           30                        
+Max Temp (24HR Trend) 53 (+8)                   52                        
+Min RH % (24HR Trend) 31 (-27)                  52                        
+Min Temp (24HR Trend)              37 (+6)                   29           
+Max RH % (24HR Trend)              93 (+9)                   96           
+20FT Wind AM (MPH)    W 8-9                     E 6-10                    
+20FT Wind PM (MPH)    NW 8-9       S 4-5        NE 6-10      NE 5-8       
+Peak Wind Gusts (MPH) 15                        16                        
+Precip Amount (IN)    0.00         0.05-0.10    0.01-0.05    0.00         
+11 AM Mixing Hgt (FT) 6700                      2200                      
+Max Mixing Hgt (FT)   8700                      3900                      
+Transport Wnd (MPH)   NW 17                     N 16                      
+Vent Rate (MPH-FT)    150900                    58700                     
+Vent Rate Category    very good                 fair                      
+LAL                   1            1            1            1            
+Haines Index          5-Med                     4-Low                     
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+(WINDS ARE 20 FT LEVEL)
+
+.WEDNESDAY...Sunny. Patchy frost. Highs in the mid 50s. Northeast
+winds around 10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Areas of frost. Lows in the
+lower 30s. East winds around 5 mph. 
+.THURSDAY...Partly sunny. Highs in the lower 60s. Southeast winds
+around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Lows in the lower 40s. Southeast
+winds around 10 mph. 
+.FRIDAY...Partly sunny with a chance of showers. Highs in the mid
+60s. Southeast winds around 10 mph. 
+.FRIDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the lower 40s. East winds around 10 mph. 
+.SATURDAY...Mostly cloudy with showers likely. Highs in the upper
+50s. North winds around 10 mph. 
+.SATURDAY NIGHT...Mostly cloudy with a chance of showers. Lows
+around 40. Northwest winds around 10 mph. 
+.SUNDAY...Mostly cloudy with showers likely. Highs in the lower
+50s. Northwest winds around 15 mph. 
+.SUNDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the upper 30s. Northwest winds around 15 mph. 
+
+$$
+
+ILZ005-251015-
+McHenry-
+Including the cities of Crystal Lake, Algonquin, McHenry, 
+and Woodstock
+1024 AM CDT Mon Apr 24 2023
+
+                      Today        Tonight      Tue          Tue Night    
+
+Cloud Cover           pcldy        mcldy        mcldy        clear        
+Precip Type           none         showers      showers      none         
+Chance Precip (%)     10           40           20                        
+Max Temp (24HR Trend) 51 (+7)                   49                        
+Min RH % (24HR Trend) 34 (-23)                  52                        
+Min Temp (24HR Trend)              36 (+6)                   29           
+Max RH % (24HR Trend)              96 (+10)                  97           
+20FT Wind AM (MPH)    W 6-8                     NE 6-10                   
+20FT Wind PM (MPH)    W 6-8        Lgt/Var      NE 6-10      NE 5-7       
+Peak Wind Gusts (MPH)                           17                        
+Precip Amount (IN)    0.00         0.01-0.05    0.00         0.00         
+11 AM Mixing Hgt (FT) 7000                      2500                      
+Max Mixing Hgt (FT)   8900                      4000                      
+Transport Wnd (MPH)   W 17                      NE 16                     
+Vent Rate (MPH-FT)    144100                    61100                     
+Vent Rate Category    very good                 fair                      
+LAL                   1            1            1            1            
+Haines Index          4-Low                     4-Low                     
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+(WINDS ARE 20 FT LEVEL)
+
+.WEDNESDAY...Mostly sunny. Patchy frost. Highs in the lower 50s.
+Northeast winds around 5 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Areas of frost. Lows in the
+lower 30s. East winds around 5 mph. 
+.THURSDAY...Partly sunny. Highs in the lower 60s. South winds
+around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Lows in the lower 40s. Southeast
+winds around 10 mph. 
+.FRIDAY...Partly sunny with a chance of showers. Highs in the
+lower 60s. Southeast winds around 10 mph. 
+.FRIDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the lower 40s. East winds around 10 mph. 
+.SATURDAY...Mostly cloudy with showers likely. Highs in the mid
+50s. East winds around 10 mph. 
+.SATURDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the upper 30s. Northwest winds around 10 mph. 
+.SUNDAY...Mostly cloudy with showers likely. Highs in the lower
+50s. Northwest winds around 15 mph. 
+.SUNDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the upper 30s. Northwest winds around 15 mph. 
+
+$$
+
+ILZ004-251015-
+Boone-
+Including the city of Belvidere
+1024 AM CDT Mon Apr 24 2023
+
+                      Today        Tonight      Tue          Tue Night    
+
+Cloud Cover           pcldy        mcldy        mcldy        mclear       
+Precip Type           none         showers      showers      none         
+Chance Precip (%)     10           30           20                        
+Max Temp (24HR Trend) 52 (+7)                   50                        
+Min RH % (24HR Trend) 35 (-17)                  49                        
+Min Temp (24HR Trend)              36 (+6)                   29           
+Max RH % (24HR Trend)              95 (+10)                  94           
+20FT Wind AM (MPH)    W 7-8                     NE 6-10                   
+20FT Wind PM (MPH)    W 7-8        Lgt/Var      NE 6-10      NE 5-7       
+Peak Wind Gusts (MPH)                           16                        
+Precip Amount (IN)    0.00         0.01-0.05    0.00         0.00         
+11 AM Mixing Hgt (FT) 6400                      2700                      
+Max Mixing Hgt (FT)   8400                      4600                      
+Transport Wnd (MPH)   W 17                      NE 16                     
+Vent Rate (MPH-FT)    140500                    67700                     
+Vent Rate Category    very good                 fair                      
+LAL                   1            1            1            1            
+Haines Index          4-Low                     4-Low                     
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+(WINDS ARE 20 FT LEVEL)
+
+.WEDNESDAY...Mostly sunny. Patchy frost. Highs in the lower 50s.
+Northeast winds around 5 mph. 
+.WEDNESDAY NIGHT...Partly cloudy. Areas of frost. Lows in the
+lower 30s. East winds around 10 mph. 
+.THURSDAY...Partly sunny. Highs in the lower 60s. South winds
+around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Lows in the lower 40s. Southeast
+winds around 10 mph. 
+.FRIDAY...Partly sunny with a chance of showers. Highs in the mid
+60s. Southeast winds around 10 mph. 
+.FRIDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the lower 40s. East winds around 10 mph. 
+.SATURDAY...Mostly cloudy with showers likely. Highs in the mid
+50s. North winds around 15 mph. 
+.SATURDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the upper 30s. Northwest winds around 10 mph. 
+.SUNDAY...Mostly cloudy with showers likely. Highs in the lower
+50s. Northwest winds around 15 mph. 
+.SUNDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the upper 30s. Northwest winds around 15 mph. 
+
+$$
+
+ILZ011-251015-
+De Kalb-
+Including the cities of DeKalb and Sycamore
+1024 AM CDT Mon Apr 24 2023
+
+                      Today        Tonight      Tue          Tue Night    
+
+Cloud Cover           pcldy        mcldy        mcldy        mclear       
+Precip Type           none         showers      showers      none         
+Chance Precip (%)     10           40           20                        
+Max Temp (24HR Trend) 53 (+8)                   52                        
+Min RH % (24HR Trend) 31 (-28)                  50                        
+Min Temp (24HR Trend)              38 (+7)                   29           
+Max RH % (24HR Trend)              93 (+8)                   95           
+20FT Wind AM (MPH)    W 7-9                     NE 5-10                   
+20FT Wind PM (MPH)    W 7-9        S 4-5        NE 5-10      NE 6-9       
+Peak Wind Gusts (MPH) 15                        16           16           
+Precip Amount (IN)    0.00         0.05-0.10    0.01-0.05    0.00         
+11 AM Mixing Hgt (FT) 6300                      2500                      
+Max Mixing Hgt (FT)   8500                      4300                      
+Transport Wnd (MPH)   W 16                      N 14                      
+Vent Rate (MPH-FT)    137400                    61100                     
+Vent Rate Category    very good                 fair                      
+LAL                   1            1            1            1            
+Haines Index          5-Med                     4-Low                     
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+(WINDS ARE 20 FT LEVEL)
+
+.WEDNESDAY...Mostly sunny. Patchy frost. Highs in the mid 50s.
+Northeast winds around 5 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Areas of frost. Lows in the
+lower 30s. East winds around 10 mph. 
+.THURSDAY...Partly sunny. Highs in the lower 60s. Southeast winds
+around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Lows in the lower 40s. Southeast
+winds around 10 mph. 
+.FRIDAY...Partly sunny with a chance of showers. Highs in the mid
+60s. Southeast winds around 10 mph. 
+.FRIDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the lower 40s. East winds around 10 mph. 
+.SATURDAY...Mostly cloudy with showers likely. Highs in the mid
+50s. North winds around 15 mph. 
+.SATURDAY NIGHT...Mostly cloudy with a chance of showers. Lows
+around 40. Northwest winds around 10 mph. 
+.SUNDAY...Mostly cloudy with showers likely. Highs in the lower
+50s. Northwest winds around 15 mph. 
+.SUNDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the upper 30s. Northwest winds around 15 mph. 
+
+$$
+
+ILZ003-251015-
+Winnebago-
+Including the city of Rockford
+1024 AM CDT Mon Apr 24 2023
+
+                      Today        Tonight      Tue          Tue Night    
+
+Cloud Cover           pcldy        mcldy        mcldy        mclear       
+Precip Type           none         showers      showers      none         
+Chance Precip (%)     10           30           20                        
+Max Temp (24HR Trend) 52 (+7)                   51                        
+Min RH % (24HR Trend) 35 (-16)                  48                        
+Min Temp (24HR Trend)              37 (+6)                   29           
+Max RH % (24HR Trend)              91 (+9)                   92           
+20FT Wind AM (MPH)    W 6                       NE 6-9                    
+20FT Wind PM (MPH)    W 6          Lgt/Var      NE 6-9       NE 5-7       
+Peak Wind Gusts (MPH)                           16                        
+Precip Amount (IN)    0.00         0.01-0.05    0.00         0.00         
+11 AM Mixing Hgt (FT) 6300                      2800                      
+Max Mixing Hgt (FT)   8300                      4700                      
+Transport Wnd (MPH)   W 14                      N 14                      
+Vent Rate (MPH-FT)    121200                    70000                     
+Vent Rate Category    very good                 good                      
+LAL                   1            1            1            1            
+Haines Index          5-Med                     4-Low                     
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+(WINDS ARE 20 FT LEVEL)
+
+.WEDNESDAY...Mostly sunny. Patchy frost. Highs in the mid 50s.
+Northeast winds around 5 mph. 
+.WEDNESDAY NIGHT...Partly cloudy. Lows in the lower 30s. East
+winds around 10 mph. 
+.THURSDAY...Partly sunny. Highs in the lower 60s. South winds
+around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Lows in the lower 40s. Southeast
+winds around 10 mph. 
+.FRIDAY...Partly sunny with a chance of showers. Highs in the mid
+60s. Southeast winds around 10 mph. 
+.FRIDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the lower 40s. East winds around 10 mph. 
+.SATURDAY...Mostly cloudy with showers likely. Cooler. Highs in
+the mid 50s. North winds around 15 mph. 
+.SATURDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the upper 30s. Northwest winds around 10 mph. 
+.SUNDAY...Mostly cloudy with showers likely. Highs in the lower
+50s. Northwest winds around 15 mph. 
+.SUNDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the upper 30s. Northwest winds around 15 mph. 
+
+$$
+
+ILZ008-251015-
+Ogle-
+Including the cities of Rochelle, Oregon, and Byron
+1024 AM CDT Mon Apr 24 2023
+
+                      Today        Tonight      Tue          Tue Night    
+
+Cloud Cover           pcldy        mcldy        mcldy        mclear       
+Precip Type           none         showers      showers      none         
+Chance Precip (%)     10           40           10                        
+Max Temp (24HR Trend) 53 (+8)                   52                        
+Min RH % (24HR Trend) 31 (-26)                  47                        
+Min Temp (24HR Trend)              38 (+7)                   29           
+Max RH % (24HR Trend)              92 (+7)                   92           
+20FT Wind AM (MPH)    W 6-7                     NE 6-9                    
+20FT Wind PM (MPH)    W 6-7        S 4-5        NE 6-9       NE 6-8       
+Peak Wind Gusts (MPH)                           15                        
+Precip Amount (IN)    0.00         0.01-0.05    0.00         0.00         
+11 AM Mixing Hgt (FT) 6100                      2700                      
+Max Mixing Hgt (FT)   8500                      5000                      
+Transport Wnd (MPH)   W 14                      N 13                      
+Vent Rate (MPH-FT)    124100                    65800                     
+Vent Rate Category    very good                 fair                      
+LAL                   1            1            1            1            
+Haines Index          5-Med                     4-Low                     
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+(WINDS ARE 20 FT LEVEL)
+
+.WEDNESDAY...Mostly sunny. Patchy frost. Highs in the mid 50s.
+Northeast winds around 5 mph. 
+.WEDNESDAY NIGHT...Partly cloudy. Lows in the lower 30s. East
+winds around 10 mph. 
+.THURSDAY...Partly sunny. Highs in the mid 60s. Southeast winds
+around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Lows in the lower 40s. Southeast
+winds around 10 mph. 
+.FRIDAY...Partly sunny with a chance of showers. Highs in the mid
+60s. Southeast winds around 10 mph. 
+.FRIDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the lower 40s. East winds around 10 mph. 
+.SATURDAY...Mostly cloudy with showers likely. Highs in the mid
+50s. North winds around 15 mph. 
+.SATURDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the upper 30s. Northwest winds around 10 mph. 
+.SUNDAY...Mostly cloudy with a chance of showers. Highs in the
+lower 50s. Northwest winds around 15 mph. 
+.SUNDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the upper 30s. West winds around 15 mph. 
+
+$$
+
+ILZ010-251015-
+Lee-
+Including the city of Dixon
+1024 AM CDT Mon Apr 24 2023
+
+                      Today        Tonight      Tue          Tue Night    
+
+Cloud Cover           pcldy        mcldy        mcldy        mclear       
+Precip Type           none         showers      showers      none         
+Chance Precip (%)     10           50           20                        
+Max Temp (24HR Trend) 54 (+9)                   54                        
+Min RH % (24HR Trend) 30 (-25)                  47                        
+Min Temp (24HR Trend)              40 (+10)                  30           
+Max RH % (24HR Trend)              93 (+7)                   89           
+20FT Wind AM (MPH)    W 6-8                     N 5-10                    
+20FT Wind PM (MPH)    W 6-8        S 4-5        N 5-10       NE 6-10      
+Peak Wind Gusts (MPH)                           16           17           
+Precip Amount (IN)    0.00         0.10-0.25    0.00         0.00         
+11 AM Mixing Hgt (FT) 6000                      2700                      
+Max Mixing Hgt (FT)   8400                      5100                      
+Transport Wnd (MPH)   W 14                      N 13                      
+Vent Rate (MPH-FT)    125900                    64300                     
+Vent Rate Category    very good                 fair                      
+LAL                   1            1            1            1            
+Haines Index          5-Med                     4-Low                     
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+(WINDS ARE 20 FT LEVEL)
+
+.WEDNESDAY...Sunny. Highs in the mid 50s. Northeast winds around
+10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Lows in the lower 30s. East
+winds around 10 mph. 
+.THURSDAY...Partly sunny. Highs in the mid 60s. Southeast winds
+around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Lows in the lower 40s. Southeast
+winds around 10 mph. 
+.FRIDAY...Partly sunny with a chance of showers. Highs in the mid
+60s. Southeast winds around 10 mph. 
+.FRIDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the lower 40s. East winds around 10 mph. 
+.SATURDAY...Mostly cloudy with showers likely. Cooler. Highs in
+the mid 50s. Northwest winds around 15 mph. 
+.SATURDAY NIGHT...Mostly cloudy with a chance of showers. Lows
+around 40. Northwest winds around 10 mph. 
+.SUNDAY...Mostly cloudy with showers likely. Highs in the lower
+50s. Northwest winds around 15 mph. 
+.SUNDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the upper 30s. Northwest winds around 15 mph. 
+
+$$
+
+ILZ019-251015-
+La Salle-
+Including the cities of Ottawa, Streator, La Salle, Mendota, 
+and Marseilles
+1024 AM CDT Mon Apr 24 2023
+
+                      Today        Tonight      Tue          Tue Night    
+
+Cloud Cover           pcldy        cloudy       mcldy        mclear       
+Precip Type           none         showers      showers      none         
+Chance Precip (%)     10           60           30                        
+Max Temp (24HR Trend) 55 (+9)                   55                        
+Min RH % (24HR Trend) 27 (-25)                  49                        
+Min Temp (24HR Trend)              41 (+11)                  31           
+Max RH % (24HR Trend)              93 (+9)                   88           
+20FT Wind AM (MPH)    W 7-8                     SW 5-10                   
+20FT Wind PM (MPH)    NW 7-8       S 4-5        N 5-10       NE 7-10      
+Peak Wind Gusts (MPH)                           16           17           
+Precip Amount (IN)    0.00         0.10-0.25    0.01-0.05    0.00         
+11 AM Mixing Hgt (FT) 6600                      2700                      
+Max Mixing Hgt (FT)   8500                      4600                      
+Transport Wnd (MPH)   NW 17                     N 13                      
+Vent Rate (MPH-FT)    146200                    58800                     
+Vent Rate Category    very good                 fair                      
+LAL                   1            1            1            1            
+Haines Index          5-Med                     4-Low                     
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+(WINDS ARE 20 FT LEVEL)
+
+.WEDNESDAY...Sunny. Highs in the upper 50s. Northeast winds
+around 10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Areas of frost. Lows in the
+lower 30s. East winds around 10 mph. 
+.THURSDAY...Partly sunny. Highs in the mid 60s. Southeast winds
+around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Lows in the lower 40s. Southeast
+winds around 10 mph. 
+.FRIDAY...Partly sunny with a chance of showers. Highs in the mid
+60s. Southeast winds around 10 mph. 
+.FRIDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the mid 40s. East winds around 10 mph. 
+.SATURDAY...Mostly cloudy with showers likely. Highs in the upper
+50s. Southwest winds around 15 mph. 
+.SATURDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the lower 40s. West winds around 10 mph. 
+.SUNDAY...Mostly cloudy with a chance of showers. Highs in the
+mid 50s. Northwest winds around 15 mph. 
+.SUNDAY NIGHT...Mostly cloudy with a chance of showers. Lows
+around 40. Northwest winds around 15 mph. 
+
+$$
+
+ILZ020-251015-
+Kendall-
+Including the cities of Oswego, Yorkville, and Plano
+1024 AM CDT Mon Apr 24 2023
+
+                      Today        Tonight      Tue          Tue Night    
+
+Cloud Cover           pcldy        mcldy        mcldy        mclear       
+Precip Type           none         showers      showers      none         
+Chance Precip (%)                  60           30                        
+Max Temp (24HR Trend) 54 (+8)                   53                        
+Min RH % (24HR Trend) 29 (-30)                  51                        
+Min Temp (24HR Trend)              39 (+8)                   31           
+Max RH % (24HR Trend)              94 (+10)                  92           
+20FT Wind AM (MPH)    W 8-9                     S 5-10                    
+20FT Wind PM (MPH)    NW 8-9       S 4-5        N 5-10       NE 5-9       
+Peak Wind Gusts (MPH) 15                        16           17           
+Precip Amount (IN)    0.00         0.05-0.10    0.01-0.05    0.00         
+11 AM Mixing Hgt (FT) 6400                      2300                      
+Max Mixing Hgt (FT)   8500                      4200                      
+Transport Wnd (MPH)   NW 16                     N 13                      
+Vent Rate (MPH-FT)    139100                    57500                     
+Vent Rate Category    very good                 fair                      
+LAL                   1            1            1            1            
+Haines Index          5-Med                     4-Low                     
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+(WINDS ARE 20 FT LEVEL)
+
+.WEDNESDAY...Sunny. Patchy frost. Highs in the mid 50s. Northeast
+winds around 10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Areas of frost. Lows in the
+lower 30s. East winds around 5 mph. 
+.THURSDAY...Partly sunny. Highs in the lower 60s. Southeast winds
+around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Lows in the lower 40s. Southeast
+winds around 10 mph. 
+.FRIDAY...Partly sunny with a chance of showers. Highs in the mid
+60s. East winds around 10 mph. 
+.FRIDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the mid 40s. East winds around 10 mph. 
+.SATURDAY...Mostly cloudy with showers likely. Highs in the upper
+50s. North winds around 10 mph. 
+.SATURDAY NIGHT...Mostly cloudy with a chance of showers. Lows
+around 40. West winds around 10 mph. 
+.SUNDAY...Mostly cloudy with showers likely. Highs in the lower
+50s. Northwest winds around 15 mph. 
+.SUNDAY NIGHT...Mostly cloudy with a chance of showers. Lows
+around 40. Northwest winds around 15 mph. 
+
+$$
+
+ILZ021-251015-
+Grundy-
+Including the cities of Morris, Coal City, and Minooka
+1024 AM CDT Mon Apr 24 2023
+
+                      Today        Tonight      Tue          Tue Night    
+
+Cloud Cover           pcldy        mcldy        mcldy        mclear       
+Precip Type           none         showers      showers      none         
+Chance Precip (%)                  60           30                        
+Max Temp (24HR Trend) 56 (+10)                  54                        
+Min RH % (24HR Trend) 26 (-31)                  52                        
+Min Temp (24HR Trend)              40 (+9)                   32           
+Max RH % (24HR Trend)              91 (+6)                   93           
+20FT Wind AM (MPH)    W 8-9                     SW 5-9                    
+20FT Wind PM (MPH)    NW 8-9       S 4-5        N 5-9        NE 6-10      
+Peak Wind Gusts (MPH) 17                        16           17           
+Precip Amount (IN)    0.00         0.10-0.25    0.01-0.05    0.00         
+11 AM Mixing Hgt (FT) 6500                      2500                      
+Max Mixing Hgt (FT)   8600                      4500                      
+Transport Wnd (MPH)   NW 19                     N 13                      
+Vent Rate (MPH-FT)    165900                    58700                     
+Vent Rate Category    very good                 fair                      
+LAL                   1            1            1            1            
+Haines Index          5-Med                     3-Very low                
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+(WINDS ARE 20 FT LEVEL)
+
+.WEDNESDAY...Sunny. Highs in the mid 50s. Northeast winds around
+10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Areas of frost. Lows in the
+lower 30s. East winds around 10 mph. 
+.THURSDAY...Mostly sunny. Highs in the mid 60s. Southeast winds
+around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Lows in the lower 40s. Southeast
+winds around 10 mph. 
+.FRIDAY...Partly sunny with a chance of showers. Highs in the mid
+60s. East winds around 10 mph. 
+.FRIDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the mid 40s. East winds around 10 mph. 
+.SATURDAY...Mostly cloudy with showers likely. Highs in the upper
+50s. Southwest winds around 10 mph. 
+.SATURDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the lower 40s. West winds around 15 mph. 
+.SUNDAY...Mostly cloudy with showers likely. Highs in the mid
+50s. Northwest winds around 15 mph. 
+.SUNDAY NIGHT...Mostly cloudy with a chance of showers. Lows
+around 40. Northwest winds around 15 mph. 
+
+$$
+
+ILZ022-251015-
+Will-
+Including the cities of Joliet, Bolingbrook, and Wilmington
+1024 AM CDT Mon Apr 24 2023
+
+                      Today        Tonight      Tue          Tue Night    
+
+Cloud Cover           pcldy        mcldy        mcldy        mclear       
+Precip Type           none         showers      showers      none         
+Chance Precip (%)                  60           40                        
+Max Temp (24HR Trend) 53 (+8)                   53                        
+Min RH % (24HR Trend) 29 (-30)                  55                        
+Min Temp (24HR Trend)              38 (+6)                   31           
+Max RH % (24HR Trend)              95 (+10)                  94           
+20FT Wind AM (MPH)    W 8                       S 6-10                    
+20FT Wind PM (MPH)    NW 8         S 4-5        N 6-10       NE 6-9       
+Peak Wind Gusts (MPH)                           17           17           
+Precip Amount (IN)    0.00         0.05-0.10    0.01-0.05    0.00         
+11 AM Mixing Hgt (FT) 6900                      2400                      
+Max Mixing Hgt (FT)   8800                      3700                      
+Transport Wnd (MPH)   NW 19                     N 14                      
+Vent Rate (MPH-FT)    167900                    49800                     
+Vent Rate Category    very good                 fair                      
+LAL                   1            1            1            1            
+Haines Index          5-Med                     3-Very low                
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+(WINDS ARE 20 FT LEVEL)
+
+.WEDNESDAY...Sunny. Highs in the mid 50s. Northeast winds around
+10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Areas of frost. Lows in the
+lower 30s. East winds around 5 mph. 
+.THURSDAY...Mostly sunny. Highs in the lower 60s. Southeast winds
+around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Lows in the lower 40s. East
+winds around 10 mph. 
+.FRIDAY...Partly sunny with a chance of showers. Highs in the mid
+60s. East winds around 10 mph. 
+.FRIDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the mid 40s. East winds around 10 mph. 
+.SATURDAY...Mostly cloudy with showers likely. Highs in the upper
+50s. West winds around 10 mph. 
+.SATURDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the lower 40s. West winds around 10 mph. 
+.SUNDAY...Mostly cloudy with showers likely. Highs in the lower
+50s. Northwest winds around 15 mph. 
+.SUNDAY NIGHT...Mostly cloudy with a chance of showers. Lows
+around 40. Northwest winds around 15 mph. 
+
+$$
+
+ILZ032-251015-
+Livingston-
+Including the cities of Pontiac, Dwight, and Fairbury
+1024 AM CDT Mon Apr 24 2023
+
+                      Today        Tonight      Tue          Tue Night    
+
+Cloud Cover           pcldy        cloudy       mcldy        pcldy        
+Precip Type           none         showers      showers      none         
+Chance Precip (%)     10           70           30                        
+Max Temp (24HR Trend) 56 (+9)                   56                        
+Min RH % (24HR Trend) 26 (-20)                  55                        
+Min Temp (24HR Trend)              41 (+13)                  32           
+Max RH % (24HR Trend)              91 (+2)                   93           
+20FT Wind AM (MPH)    W 7-9                     SW 7-8                    
+20FT Wind PM (MPH)    NW 7-9       SE 4-6       N 7-8        NE 8-10      
+Peak Wind Gusts (MPH) 18                                     18           
+Precip Amount (IN)    0.00         0.10-0.25    0.05-0.10    0.00         
+11 AM Mixing Hgt (FT) 6800                      2500                      
+Max Mixing Hgt (FT)   8500                      3800                      
+Transport Wnd (MPH)   NW 18                     N 12                      
+Vent Rate (MPH-FT)    156100                    45500                     
+Vent Rate Category    very good                 poor                      
+LAL                   1            1            1            1            
+Haines Index          5-Med                     3-Very low                
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+(WINDS ARE 20 FT LEVEL)
+
+.WEDNESDAY...Sunny. Highs in the upper 50s. Northeast winds
+around 10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Lows in the lower 30s. Northeast
+winds around 10 mph. 
+.THURSDAY...Mostly sunny. Highs in the mid 60s. East winds around
+10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Lows in the lower 40s. East
+winds around 10 mph. 
+.FRIDAY...Mostly sunny with a chance of showers. Highs in the mid
+60s. East winds around 10 mph. 
+.FRIDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the mid 40s. East winds around 10 mph. 
+.SATURDAY...Mostly cloudy with showers likely. Highs in the upper
+50s. Southwest winds around 15 mph. 
+.SATURDAY NIGHT...Mostly cloudy with a chance of showers. Lows
+around 40. West winds around 15 mph. 
+.SUNDAY...Mostly cloudy with a chance of showers. Highs in the
+mid 50s. Northwest winds around 15 mph. 
+.SUNDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the upper 30s. West winds around 15 mph. 
+
+$$
+
+ILZ023-251015-
+Kankakee-
+Including the cities of Kankakee, Bourbonnais, and Bradley
+1024 AM CDT Mon Apr 24 2023
+
+                      Today        Tonight      Tue          Tue Night    
+
+Cloud Cover           pcldy        mcldy        mcldy        pcldy        
+Precip Type           none         showers      showers      none         
+Chance Precip (%)                  60           40           10           
+Max Temp (24HR Trend) 54 (+8)                   54                        
+Min RH % (24HR Trend) 27 (-27)                  56                        
+Min Temp (24HR Trend)              39 (+9)                   32           
+Max RH % (24HR Trend)              94 (+8)                   96           
+20FT Wind AM (MPH)    W 8-9                     S 7-9                     
+20FT Wind PM (MPH)    NW 8-9       S 4-5        N 7-9        NE 6-9       
+Peak Wind Gusts (MPH) 17                        17           17           
+Precip Amount (IN)    0.00         0.05-0.10    0.01-0.05    0.00         
+11 AM Mixing Hgt (FT) 6800                      2400                      
+Max Mixing Hgt (FT)   8600                      3700                      
+Transport Wnd (MPH)   NW 19                     N 14                      
+Vent Rate (MPH-FT)    167800                    51600                     
+Vent Rate Category    very good                 fair                      
+LAL                   1            1            1            1            
+Haines Index          5-Med                     3-Very low                
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+(WINDS ARE 20 FT LEVEL)
+
+.WEDNESDAY...Sunny. Highs in the mid 50s. Northeast winds around
+10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Areas of frost. Lows in the
+lower 30s. Northeast winds around 10 mph. 
+.THURSDAY...Mostly sunny. Highs in the lower 60s. Southeast winds
+around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Lows in the lower 40s. East
+winds around 10 mph. 
+.FRIDAY...Partly sunny with a chance of showers. Highs in the mid
+60s. East winds around 10 mph. 
+.FRIDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the lower 40s. East winds around 10 mph. 
+.SATURDAY...Mostly cloudy with showers likely. Highs in the upper
+50s. Southwest winds around 10 mph. 
+.SATURDAY NIGHT...Mostly cloudy with a chance of showers. Lows
+around 40. West winds around 15 mph. 
+.SUNDAY...Mostly cloudy with showers likely. Highs in the mid
+50s. Northwest winds around 15 mph. 
+.SUNDAY NIGHT...Mostly cloudy with a chance of showers. Lows
+around 40. Northwest winds around 15 mph. 
+
+$$
+
+ILZ039-251015-
+Ford-
+Including the cities of Paxton and Gibson City
+1024 AM CDT Mon Apr 24 2023
+
+                      Today        Tonight      Tue          Tue Night    
+
+Cloud Cover           pcldy        cloudy       cloudy       pcldy        
+Precip Type           none         showers      showers      none         
+Chance Precip (%)     10           60           30           10           
+Max Temp (24HR Trend) 55 (+9)                   56                        
+Min RH % (24HR Trend) 26 (-16)                  55                        
+Min Temp (24HR Trend)              41 (+12)                  32           
+Max RH % (24HR Trend)              86 (+1)                   91           
+20FT Wind AM (MPH)    W 7-10                    SW 8                      
+20FT Wind PM (MPH)    NW 7-10      SE 4-5       NW 8         NE 9-11      
+Peak Wind Gusts (MPH) 18                                     18           
+Precip Amount (IN)    0.00         0.05-0.10    0.01-0.05    0.00         
+11 AM Mixing Hgt (FT) 7100                      2400                      
+Max Mixing Hgt (FT)   8400                      3700                      
+Transport Wnd (MPH)   NW 16                     NW 13                     
+Vent Rate (MPH-FT)    134500                    50900                     
+Vent Rate Category    very good                 fair                      
+LAL                   1            1            1            1            
+Haines Index          5-Med                     3-Very low                
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+(WINDS ARE 20 FT LEVEL)
+
+.WEDNESDAY...Sunny. Highs in the upper 50s. Northeast winds
+around 10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Lows in the lower 30s. Northeast
+winds around 10 mph. 
+.THURSDAY...Partly sunny. Highs in the mid 60s. East winds around
+10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Lows in the lower 40s. East
+winds around 10 mph. 
+.FRIDAY...Partly sunny. Highs in the mid 60s. East winds around
+10 mph. 
+.FRIDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the mid 40s. East winds around 10 mph. 
+.SATURDAY...Mostly cloudy with showers likely. Highs in the upper
+50s. Southwest winds around 15 mph. 
+.SATURDAY NIGHT...Mostly cloudy with a chance of showers. Lows
+around 40. West winds around 15 mph. 
+.SUNDAY...Mostly cloudy with a chance of showers. Highs in the
+mid 50s. Northwest winds around 15 mph. 
+.SUNDAY NIGHT...Mostly cloudy with a chance of showers. Lows
+around 40. West winds around 15 mph. 
+
+$$
+
+ILZ033-251015-
+Iroquois-
+Including the cities of Watseka and Gilman
+1024 AM CDT Mon Apr 24 2023
+
+                      Today        Tonight      Tue          Tue Night    
+
+Cloud Cover           pcldy        mcldy        cloudy       pcldy        
+Precip Type           none         showers      showers      none         
+Chance Precip (%)                  60           30           10           
+Max Temp (24HR Trend) 54 (+8)                   55                        
+Min RH % (24HR Trend) 27 (-18)                  56                        
+Min Temp (24HR Trend)              40 (+10)                  32           
+Max RH % (24HR Trend)              89 (+5)                   92           
+20FT Wind AM (MPH)    W 8-9                     S 8                       
+20FT Wind PM (MPH)    NW 8-9       S 3-5        NW 8         NE 8-10      
+Peak Wind Gusts (MPH) 18                                     17           
+Precip Amount (IN)    0.00         0.05-0.10    0.05-0.10    0.00         
+11 AM Mixing Hgt (FT) 7100                      2200                      
+Max Mixing Hgt (FT)   8500                      3700                      
+Transport Wnd (MPH)   NW 17                     N 13                      
+Vent Rate (MPH-FT)    150300                    49100                     
+Vent Rate Category    very good                 fair                      
+LAL                   1            1            1            1            
+Haines Index          5-Med                     3-Very low                
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+(WINDS ARE 20 FT LEVEL)
+
+.WEDNESDAY...Sunny. Highs in the upper 50s. Northeast winds
+around 10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Lows in the lower 30s. Northeast
+winds around 10 mph. 
+.THURSDAY...Mostly sunny. Highs in the lower 60s. East winds
+around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Lows in the lower 40s. East
+winds around 10 mph. 
+.FRIDAY...Partly sunny. Highs in the mid 60s. East winds around
+10 mph. 
+.FRIDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the mid 40s. East winds around 10 mph. 
+.SATURDAY...Mostly cloudy with showers likely. Highs around 60.
+Southwest winds around 10 mph. 
+.SATURDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the lower 40s. West winds around 15 mph. 
+.SUNDAY...Mostly cloudy with a chance of showers. Highs in the
+mid 50s. West winds around 15 mph. 
+.SUNDAY NIGHT...Mostly cloudy with a chance of showers. Lows
+around 40. West winds around 15 mph. 
+
+$$
+
+INZ010-251015-
+Newton-
+Including the cities of Roselawn, Kentland, and Morocco
+1024 AM CDT Mon Apr 24 2023
+
+                      Today        Tonight      Tue          Tue Night    
+
+Cloud Cover           pcldy        mcldy        cloudy       pcldy        
+Precip Type           none         showers      showers      none         
+Chance Precip (%)                  60           40           10           
+Max Temp (24HR Trend) 53 (+7)                   53                        
+Min RH % (24HR Trend) 28 (-24)                  56                        
+Min Temp (24HR Trend)              39 (+8)                   32           
+Max RH % (24HR Trend)              90 (+6)                   96           
+20FT Wind AM (MPH)    W 8-10                    S 8-9                     
+20FT Wind PM (MPH)    NW 8-10      S 4-5        NW 8-9       NE 7-10      
+Peak Wind Gusts (MPH) 17                        18           17           
+Precip Amount (IN)    0.00         0.05-0.10    0.05-0.10    0.00         
+11 AM Mixing Hgt (FT) 7000                      2300                      
+Max Mixing Hgt (FT)   8700                      3700                      
+Transport Wnd (MPH)   W 18                      N 14                      
+Vent Rate (MPH-FT)    157300                    50100                     
+Vent Rate Category    very good                 fair                      
+LAL                   1            1            1            1            
+Haines Index          5-Med                     3-Very low                
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+(WINDS ARE 20 FT LEVEL)
+
+.WEDNESDAY...Sunny. Highs in the mid 50s. Northeast winds around
+10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Areas of frost. Lows in the
+lower 30s. North winds around 10 mph. 
+.THURSDAY...Mostly sunny. Highs in the lower 60s. Southeast winds
+around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Lows in the lower 40s. East
+winds around 10 mph. 
+.FRIDAY...Partly sunny. Highs in the mid 60s. East winds around
+10 mph. 
+.FRIDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the mid 40s. Northeast winds around 10 mph. 
+.SATURDAY...Mostly cloudy with showers likely. Highs in the upper
+50s. Southwest winds around 10 mph. 
+.SATURDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the lower 40s. West winds around 15 mph. 
+.SUNDAY...Mostly cloudy with a chance of showers. Highs in the
+mid 50s. Northwest winds around 15 mph. 
+.SUNDAY NIGHT...Mostly cloudy with a chance of showers. Lows
+around 40. West winds around 15 mph. 
+
+$$
+
+INZ011-251015-
+Jasper-
+Including the cities of Rensselaer and DeMotte
+1024 AM CDT Mon Apr 24 2023
+
+                      Today        Tonight      Tue          Tue Night    
+
+Cloud Cover           pcldy        mcldy        mcldy        pcldy        
+Precip Type           none         showers      showers      none         
+Chance Precip (%)                  50           40           10           
+Max Temp (24HR Trend) 53 (+7)                   52                        
+Min RH % (24HR Trend) 28 (-25)                  58                        
+Min Temp (24HR Trend)              38 (+7)                   32           
+Max RH % (24HR Trend)              89 (+3)                   96           
+20FT Wind AM (MPH)    W 8-10                    S 8-9                     
+20FT Wind PM (MPH)    NW 8-10      S 4-5        NW 8-9       N 6-10       
+Peak Wind Gusts (MPH) 17                        19           16           
+Precip Amount (IN)    0.00         0.05-0.10    0.05-0.10    0.00         
+11 AM Mixing Hgt (FT) 7200                      2200                      
+Max Mixing Hgt (FT)   8900                      3500                      
+Transport Wnd (MPH)   W 17                      N 16                      
+Vent Rate (MPH-FT)    156600                    50400                     
+Vent Rate Category    very good                 fair                      
+LAL                   1            1            1            1            
+Haines Index          5-Med                     3-Very low                
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+(WINDS ARE 20 FT LEVEL)
+
+.WEDNESDAY...Sunny. Patchy frost. Highs in the mid 50s. Northeast
+winds around 10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Areas of frost. Lows in the
+lower 30s. Northeast winds around 10 mph. 
+.THURSDAY...Mostly sunny. Highs in the lower 60s. Southeast winds
+around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Lows in the lower 40s. East
+winds around 10 mph. 
+.FRIDAY...Partly sunny. Highs in the mid 60s. East winds around
+10 mph. 
+.FRIDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the mid 40s. East winds around 10 mph. 
+.SATURDAY...Mostly cloudy with showers likely. Highs in the upper
+50s. Southwest winds around 10 mph. 
+.SATURDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the lower 40s. West winds around 15 mph. 
+.SUNDAY...Mostly cloudy with showers likely. Highs in the mid
+50s. West winds around 15 mph. 
+.SUNDAY NIGHT...Mostly cloudy with a chance of showers. Lows
+around 40. West winds around 15 mph. 
+
+$$
+
+INZ019-251015-
+Benton-
+Including the cities of Fowler and Oxford
+1124 AM EDT Mon Apr 24 2023
+
+                      Today        Tonight      Tue          Tue Night    
+
+Cloud Cover           pcldy        mcldy        cloudy       pcldy        
+Precip Type           none         showers      showers      none         
+Chance Precip (%)                  50           30           10           
+Max Temp (24HR Trend) 53 (+7)                   55                        
+Min RH % (24HR Trend) 29 (-22)                  57                        
+Min Temp (24HR Trend)              39 (+8)                   33           
+Max RH % (24HR Trend)              86 (+4)                   91           
+20FT Wind AM (MPH)    W 8-9                     S 8-9                     
+20FT Wind PM (MPH)    NW 8-9       S 4-5        NW 8-9       NE 8-10      
+Peak Wind Gusts (MPH) 17                                     16           
+Precip Amount (IN)    0.00         0.01-0.05    0.10-0.25    0.00         
+11 AM Mixing Hgt (FT) 7000                      1800                      
+Max Mixing Hgt (FT)   8400                      3400                      
+Transport Wnd (MPH)   NW 16                     NW 14                     
+Vent Rate (MPH-FT)    136100                    47200                     
+Vent Rate Category    very good                 fair                      
+LAL                   1            1            1            1            
+Haines Index          5-Med                     3-Very low                
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+(WINDS ARE 20 FT LEVEL)
+
+.WEDNESDAY...Sunny. Highs in the mid 50s. Northeast winds around
+10 mph. 
+.WEDNESDAY NIGHT...Mostly clear. Lows in the lower 30s. North
+winds around 10 mph. 
+.THURSDAY...Partly sunny. Highs in the lower 60s. East winds
+around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Lows in the lower 40s. East
+winds around 10 mph. 
+.FRIDAY...Partly sunny. Highs in the mid 60s. East winds around
+10 mph. 
+.FRIDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the mid 40s. East winds around 10 mph. 
+.SATURDAY...Mostly cloudy with a chance of showers. Highs in the
+upper 50s. Southwest winds around 10 mph. 
+.SATURDAY NIGHT...Mostly cloudy with a chance of showers. Lows in
+the lower 40s. West winds around 15 mph. 
+.SUNDAY...Mostly cloudy with a chance of showers. Highs in the
+mid 50s. West winds around 15 mph. 
+.SUNDAY NIGHT...Mostly cloudy with a chance of showers. Lows
+around 40. West winds around 15 mph. 
+
+$$
+
+Kluber

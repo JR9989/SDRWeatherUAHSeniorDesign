@@ -1,0 +1,107 @@
+ASUS44 KMOB 241511
+RWRMOB
+REGIONAL WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE MOBILE AL
+1000 AM CDT MON APR 24 2023
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+      SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+  * THESE STATIONS ARE PART OF THE UNIVERSITY OF SOUTH ALABAMA 
+    MESONET AND ARE NOT UNDER NWS OR FAA QUALITY CONTROL. 
+
+ALZ061>064-241600-
+COASTAL ALABAMA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MOBILE REG APT CLOUDY    63  45  51 NE12      30.10F                  
+BROOKLEY FIELD PTSUNNY   62  47  57 N13       30.11F                  
+USA CAMPUS*    NOT AVBL                                               
+DOG RIVER*     NOT AVBL                                               
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+GULF SHORES    MOSUNNY   64  48  55 SE14G21   30.07S                  
+
+$$
+
+ALZ051>060-241600-
+INTERIOR SOUTHWEST AND SOUTH CENTRAL ALABAMA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+GREENVILLE     CLOUDY    53  43  68 NE8       30.14R                  
+EVERGREEN      CLOUDY    61  45  55 N9        30.13R                  
+ATMORE*          N/A     59  48  67 CALM      30.12S                  
+ANDALUSIA/OPP  CLOUDY    64  46  52 NE8       30.11S                  
+ANDALUSIA*       N/A     59  46  63 NE5       30.12S                  
+FLORALA APT    CLOUDY    63  46  54 NE12      30.13S                  
+FLORALA*       NOT AVBL                                               
+
+$$
+
+FLZ001>006-241600-
+WESTERN FLORIDA PANHANDLE
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PENSACOLA      PTSUNNY   65  47  52 N10G22    30.07S                  
+NAS PENSACOLA  PTSUNNY   66  44  45 N17       30.07S                  
+MILTON         CLOUDY    61  48  62 NE10      30.10R                  
+WHTNG S FIELD  CLOUDY    62  48  60 N10       30.10R                  
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+JAY*           NOT AVBL                                               
+DUKE FIELD     PTSUNNY   63  46  54 NE12      30.07F                  
+CRESTVIEW      CLOUDY    64  47  53 VRB5      30.10F                  
+VALPARAISO     PTSUNNY   67  46  46 NE15      30.07S                  
+DESTIN         PTSUNNY   68  48  48 N14G21    30.07S                  
+
+$$
+
+MSZ076-079-241600-
+INTERIOR SOUTHEAST MISSISSIPPI
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+LEAKESVILLE*   NOT AVBL                                               
+AGRICOLA*        N/A     59  43  55 NE8       30.10                   
+
+$$
+
+MARINE OBSERVATIONS
+  
+STATION/POSITION TIME  TEMP    WIND        PRES    WAVE
+                       AIR SEA DIR/SP/G            HT/PER
+                 (UTC) (F)     (DEG/KT/KT) (MB)    (FT/S)
+PETIT BOIS ISLND 1430   61      40/ 19/ 23 1017.8R
+GRAND BAY        1345   59      30/ 10     1019.0S
+E DAUPHIN ISLAND NOT AVBL
+USCG MOBILE BAY  1430   59 71   30/ 10/ 14 1019.2F
+STATE DOCKS      1430   60 74              1017.8F
+WEEKS BAY        1345   59                 1019.0S
+FORT MORGAN      1430   62                 1018.2S
+12 S ORANGE BCH  NOT AVBL
+PENSACOLA BAY    1430   65 73   30/  9/ 13 1018.7R
+64 S DAUPHIN ISL 1450   69 71   30/ 23/ 29 1016.6F   5/ 6
+
+$$
+
+SELECTED LOCATIONS ACROSS THE REGION
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+NEW ORLEANS    CLOUDY    61  49  64 NE14      30.08S                  
+GULFPORT       PTSUNNY   63  47  55 NE9       30.09R                  
+PASCAGOULA AP  CLOUDY    63  48  58 NE10G17   30.08S                  
+PASCAGOULA*    NOT AVBL                                               
+HATTIESBURG    CLOUDY    59  40  49 NE7       30.14R                  
+LAUREL         CLOUDY    57  41  55 NE12      30.15R                  
+MERIDIAN         N/A    N/A N/A N/A MISG      30.16R                  
+JACKSON        PTSUNNY   59  37  44 NE12G20   30.16R                  
+MONTGOMERY     CLOUDY    59  41  51 NE8       30.16R                  
+TROY           CLOUDY    61  41  47 NE12      30.15R                  
+ASHFORD*         N/A     59  46  63 NE5       30.12S                  
+DOTHAN         CLOUDY    63  46  54 NE9       30.15R                  
+PANAMA CITY    PTSUNNY   68  46  45 N16G25    30.05S                  
+
+$$
+
+  

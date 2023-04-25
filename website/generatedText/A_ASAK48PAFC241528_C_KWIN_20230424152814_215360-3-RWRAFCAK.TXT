@@ -1,0 +1,152 @@
+ASAK48 PAFC 241528
+RWRAK 
+
+Weather Roundup for Alaska
+National Weather Service, Anchorage AK
+0700 AM AKDT Mon Apr 24 2023
+
+                                                                 Wind
+ID   City             Weather         Temp  Rh   Wind     Press  Chill  Vis
+
+N.SLOPE/NORTHWEST
+Station PASA not found in any database list
+Station PASH not found in any database list
+Station PAKK not found in any database list
+Station PADE not found in any database list
+Station PAGH not found in any database list
+PAKP Anaktuvuk        Snow             -11  77  NE08      30.26   -29     9
+PABR Barrow           Fog                0  87  NE06      30.67   -13     4
+PABA Barter Island    Cloudy           -17  83  SW07      30.64   -34    10
+PASC Deadhorse        Fog              -17  81  SW05      30.61   -32  13/4
+PAGM Gambell          Clear             21  74  NE23      30.16     4    10
+PAVL Kivalina         Clear             13  58  VR04      30.29     5    10
+PAOT Kotzebue         Clear              4  72  NE04      30.25    -5    10
+PAOM Nome             Clear             18  53  NE14      30.12     3    10
+PAQT Nuiqsut          Cloudy            -7  91  Calm      30.66          10
+PAPO Point Hope       Clear             11  73  NE08      30.35    -2    10
+PPIZ Point Lay        Fog               -8  82  NE19      30.57   -33   3/4
+PADG Red Dog Mine     No Report         10  61  NE18      30.21    -9    15
+PASA Savoonga         Not Available   
+PASK Selawik          Not Available   
+PASH Shishmaref       Not Available   
+PATC Tin City         Clear             12  62  NE14      30.18    -5    10
+PAUN Unalakleet       Clear             17  55   N07      30.03     7    10
+PAWI Wainwright       Cloudy            -8  82  NE07      30.63   -24    10
+PAGL Golovin          MostlyCldy        20  56  NE18G23   30.11     4    10
+PAKK Koyuk            Not Available   
+PAIW Wales            Clear             15  60   E11G35   30.23     1    10
+PATE Teller           Clear             12  63  SE07      30.17     0    10
+PAIK Kiana            Not Available   
+PAFM Ambler           Clear             13  53   N09      30.24    -0    10
+PABL Buckland         Clear             15  60   E17      30.19    -2    10
+PADE Deering          Not Available   
+PFNO Noorvik          Clear             10  66  NE17      30.24    -9    10
+PAWN Noatak           Clear             15  58  NE06         MM     5    10
+PAGH Shungnak         Not Available   
+PAMK St Michael       MostlyCldy        16  87  NE12      30.02     2    10
+PAWM White Mountain   Clear             18  53   N11G17   30.10     5     8
+PFSH Shaktoolik       MostlyCldy        15  73   N21      30.07    -4    10
+
+INTERIOR
+Station PAGA not found in any database list
+Station PAML not found in any database list
+Station PABN not found in any database list
+Station PANN not found in any database list
+PARC Arctic Village   Not Available   
+PABT Bettles          MostlyClear        6  62  Calm      30.20          10
+PABI Delta Junction   MostlyCldy        10  73   E08      29.85    -3    10
+PAIN Denali Park      MostlyClear       -8  84  Calm      29.75          10
+PAEG Eagle            Cloudy             7  45  VR04      30.04    -2    10
+PAEI Eielson AFB      MostlyCldy        10  54   N07      29.90    -2    10
+PFYU Fort Yukon       Clear              2  62  NE13      30.26   -17    10
+PAFA Fairbanks        MostlyCldy        10  52  NE10      29.96    -5    10
+PAFB Ft. Wainwright   MostlyClear        9  53  NE09G16   29.94    -5    10
+PAGA Galena           Not Available   
+PAHL Huslia           Clear             15  58  NE11G18   30.13     1    10
+PAKV Kaltag           Clear             15  53  NE16G23   30.06    -2    10
+PAMH Lake Minchumina  Cloudy             9  57  NE05      29.86    -1      
+PAML Manley           Not Available   
+PAMC McGrath          No Report         MM  MM            29.87            
+PABN Nabesna          Not Available   
+PANN Nenana           Not Available   
+PAOR Northway         Cloudy            10  79  NW05      29.77     0    10
+PATA Tanana           MostlyCldy        10  49   E10      30.04    -5    10
+PARY Ruby             Clear              9  63   E06      29.98    -2    10
+
+WESTERN/ALEUTIANS
+Station PAHP not found in any database list
+Station PAEM not found in any database list
+Station PARS not found in any database list
+PANI Aniak            Clear             13  64  VR06      29.92     3    10
+PANV Anvik            Clear             15  60  NE11G20   29.92     1    10
+PABE Bethel           Clear             15  73   N10      29.90     2    10
+PACZ Cape Romanzof    Clear             19  51  NE17      29.92     3    10
+PACD Cold Bay         MostlyClear       27  81  Calm      29.85          10
+PADL Dillingham       Cloudy            20  56   N09      29.82     9    10
+PADU Dutch Harbor     Rain/Snow         35  88   S03      29.84    32     7
+PAHP Hooper Bay       Not Available   
+PAIL Iliamna          Clear              7  83  Calm      29.74          10
+PAKN King Salmon      Clear             14  67  Calm      29.79          10
+PAMY Mekoryuk         Clear             10  91  Calm      29.22          10
+PASM Saint Marys      Clear              7  76  NE03      29.97     0    10
+PASN Saint Paul       Fog/Snow          32  92   E17G25   29.72    20  11/2
+PASD Sand Point       MostlyCldy        31  69   N07      29.83    23    10
+PASL Sleetmute        Cloudy            13  66   N06      29.87     3    10
+PATG Togiak           Not Available   
+PAEM Emmonak          Not Available   
+PARS Russian Mission  Not Available   
+PADM Marshall         Clear             13  66   N10      29.98    -1    10
+PAMO Mountain Villag  Clear             13  64  NE09      29.97    -0    10
+PACM Scammon Bay      Clear              9  91  Calm      30.03            
+PAHC Holy Cross       Clear             14  63   N06      29.92     4    10
+PADK Adak             Cloudy            38  89   W13      29.75    29      
+PAAK Atka             Not Available   
+PAJZ Koliganek        Clear             12  66  NW06      29.85     2    10
+PASY Shemya           PartlyCldy        36  86  SW10      29.70    28     7
+PAPH Port Heiden      Cloudy            21  74  NE10      29.83     9    10
+PAPB Saint George     Rain              43  60  SE22G27   29.69    33  21/2
+
+SOUTHCENTRAL
+PANC Anchorage        PartlyCldy        23  54   N04      29.56    17    10
+PABV Birchwood        Clear             24  62   S10      29.56    13    10
+PAED Elmendorf AFB    MostlyCldy        24  55   N03      29.54    19    10
+PAGK Glennallen       Cloudy            17  73  SE04      29.61    10    10
+PAHO Homer            Clear             29  56  NE07      29.58    21    10
+PAEN Kenai            Clear             21  77  Calm      29.58          10
+PADQ Kodiak           Clear             32  53  NW12      29.58    22    10
+PALH Lake Hood        Clear             23  57  NW04      29.57    17    10
+PAMR Merrill Field    PartlyCldy        24  57  Calm      29.56          10
+PAMD Middleton Isl.   Rain              36  MM   S05      29.39    31    10
+PASO Seldovia         Clear             32  66   N05      29.58    26    10
+PACV Cordova          Cloudy            37  89  Calm      29.43          10
+PAWD Seward           Cloudy            32  45            29.48          10
+PASX Soldotna         Clear             20  84  Calm      29.61          10
+PATK Talkeetna        Clear             25  52  Calm      29.55          10
+PAWS Wasilla          Clear             31  45  NE08G18   29.54    23    10
+PAWR Whittier         Snow              29  64  SW24G40   29.46    14     2
+PAVD Valdez           Cloudy            36  46  VR06      29.55    30    10
+PATO Portage          Cloudy            26  81  VR05      29.55    19    10
+PAZK Eureka           Clear              7  76  Calm      29.50          10
+PAAQ Palmer           Clear             27  57  Calm      29.53          10
+
+SOUTHEAST
+PAJN Juneau           FGRA              42  82  SE19G25   29.64    33     6
+PAKT Ketchikan        Cloudy            44  89  SE07      29.86    40    10
+PAMM Metlakatla       FGRA              43  86   S07      29.88    38     6
+PAPG Petersburg       FGRA              41  89  VR06      29.77    36     5
+PASI Sitka            Cloudy            42  76  SE08      29.67    37    10
+PAGY Skagway          Rain              43  86   S16G22   29.59    35    10
+PAYA Yakutat          Rain              39  96   E05      29.55    35    10
+
+CANADA - YUKON AND NORTHWEST TERRITORIES
+CYDB Burwash Landing  Snow              12  85  NW09      29.64    -1  21/2
+CYDA Dawson City      Snow              12  66  SW06      29.84     2    20
+CYYE Fort Nelson      Cloudy            27  68  NW08      30.03    17    15
+CYEV Inuvik           Cloudy            -4  77   N05      30.56   -16    15
+CYMA Mayo             Cloudy            18  62   N17G28   29.76     1    20
+CYQH Watson Lake      Snow              28  86   E13G18   29.74    17     3
+CYXY Whitehorse       Snow              32 100  Calm      29.50           4
+
+RUSSIA - FAR EAST
+UHMM Magadan          PartlyCldy        32  93  Calm      29.41           6
+

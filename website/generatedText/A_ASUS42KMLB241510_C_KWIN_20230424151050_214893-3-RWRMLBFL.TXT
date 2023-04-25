@@ -1,0 +1,62 @@
+ASUS42 KMLB 241510
+RWRMLB
+HOURLY WEATHER ROUNDUP AROUND FLORIDA
+NATIONAL WEATHER SERVICE OFFICE MELBOURNE FL
+1100 AM EDT MON APR 24 2023
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MELBOURNE      CLOUDY    80  67  64 E9        30.00R                  
+FORT PIERCE    PTSUNNY   79  67  66 E8        30.00R                  
+ORLANDO INTL   CLOUDY    78  65  63 E8        30.01R                  
+DAYTONA BEACH  CLOUDY    77  62  59 E13       30.04R                  
+VERO BEACH     PTSUNNY   79  70  74 E8        30.00R                  
+$$
+...ELSEWHERE ACROSS CENTRAL FLORIDA...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PATRICK AFB    CLOUDY    81  66  60 E8        29.98R                  
+KSC            CLOUDY   N/A N/A N/A E9        30.00R                  
+CAPE CANAVERAL PTSUNNY   80  66  62 SE9       29.99R                  
+TITUSVILLE     PTSUNNY   82  64  54 SE8       30.02R                  
+SEBASTIAN      LGT RAIN  75  70  83 MISG      30.01R                  
+ORLANDO EXEC   CLOUDY    80  67  64 E8        30.01R                  
+LEESBURG       CLOUDY    73  66  78 NE13      30.02F                  
+SANFORD        CLOUDY    77  67  71 NE6       30.02R                  
+DELAND         CLOUDY    76  64  64 NE10      30.04R                  
+NEW SMYRNA BCH CLOUDY    77  66  69 E12G17    30.03R                  
+ORMOND BEACH   MOSUNNY   75  64  69 NE8       30.04R                  
+WINTER HAVEN   CLOUDY    77  67  71 E10       30.01S                  
+KISSIMMEE      CLOUDY    77  68  73 E12       30.01F                  
+OKEECHOBEE     PTSUNNY   82  72  69 VRB3      29.97F                  
+TAMPA          PTSUNNY   76  67  73 E7        29.98F                  
+$$
+...NORTHERN FLORIDA...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PALM COAST     MOSUNNY   77  61  57 E9        30.05R                  
+ST AUGUSTINE   CLOUDY    75  63  66 NE9       30.06R                  
+OCALA          PTSUNNY   76  64  66 E12       30.03F                  
+GAINESVILLE    CLOUDY    74  63  68 NE9       30.07S                  
+JACKSONVILLE   PTSUNNY   74  62  66 NE9       30.06R                  
+TALLAHASSEE    CLOUDY    64  50  60 N8        30.08R                  
+$$
+...ALONG THE SOUTHEAST COAST TO THE KEYS...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+WEST PALM BCH  TSTM      75  71  87 S10       29.99R FOG              
+MIAMI          CLOUDY    80  69  69 SE8       29.98R                  
+KEY WEST       SUNNY     81  72  74 VRB5      29.96S                  
+$$
+...MARINE REPORTS...
+  
+STATION/POSITION TIME  TEMP    WIND        PRES    WAVE   SWELL
+                       AIR SEA DIR/SP/G            HT/PER HT/PER
+                 (UTC) (F)     (DEG/KT/KT) (MB)    (FT/S) (FT/S)
+ST AUGUSTINE FP  1500   73 72   40/  9/ 10 1017.9R
+20NM E CAPE CANA 1450          120/  8/ 12 1014.9R   3/ 8   3/ 8
+TRIDENT PIER     1430   78 81  140/  6/  9 1015.1R
+4NM E PORT CANAV 1426      77                N/A     2/ 8
+6NM NE FPR INLET 1426      76                N/A     4/ 8
+SETTLEMENT PT GB 1500   76     110/ 11/ 13 1015.7R
+$$
+  

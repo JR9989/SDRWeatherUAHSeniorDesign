@@ -1,0 +1,62 @@
+ASUS43 KFSD 241510
+RWRFSD
+
+WEATHER ROUNDUP FOR SE SOUTH DAKOTA/SW MINNESOTA/NW IOWA
+NATIONAL WEATHER SERVICE SIOUX FALLS SD
+1000 AM CDT MON APR 24 2023
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+SIGNIFICANT WEATHER AND OR OBSTRUCTIONS TO VISIBILITY.
+
+
+SDZ038>040-050-052>070-241600-
+SOUTHEAST SOUTH DAKOTA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BROOKINGS      SUNNY     41  28  60 NE13      30.12S TC   5           
+CHAMBERLAIN    SUNNY     50  25  37 SE9       30.06S TC  10           
+HURON          SUNNY     45  27  49 E9        30.10F TC   7           
+MADISON        SUNNY     41  28  60 NE13G18   30.10S TC   5           
+MITCHELL       SUNNY     43  27  53 VRB3      30.10S TC   6           
+SIOUX FALLS    MOSUNNY   48  25  40 NE6       30.10S TC   9           
+WINNER         PTSUNNY   48  26  42 E14       30.03F TC   9           
+YANKTON        MOSUNNY   45  30  55 E5        30.09F TC   7           
+$$
+
+MNZ071-072-080-081-089-090-097-098-241600-
+SOUTHWEST MINNESOTA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+FAIRMONT       PTSUNNY   41  28  60 N3        30.15S TC   5           
+JACKSON        SUNNY     43  27  52 NE8       30.13S TC   6           
+LUVERNE        SUNNY     41  27  56 NE3       30.12S TC   5           
+MARSHALL       CLOUDY    39  33  79 N9        30.16S TC   4           
+MONTEVIDEO     CLOUDY    36  34  93 NE7       30.17S TC   2           
+REDWOOD FALLS  PTSUNNY   41  33  73 N6        30.15S TC   5           
+TRACY          CLOUDY    37  34  87 N9        30.15R TC   3           
+WINDOM         SUNNY     41  30  65 N9        30.13S TC   5           
+WORTHINGTON    SUNNY     42  24  49 NE7       30.13S TC   6           
+$$
+
+IAZ001>003-012>014-020>022-031-032-NEZ013-014-SDZ071-241600-
+NORTHWEST IOWA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CHEROKEE       SUNNY     48  30  50 S7        30.11F TC   9           
+DENISON          N/A    N/A N/A N/A MISG        N/A                   
+ESTHERVILLE    SUNNY     45  25  45 VRB5      30.13S TC   7           
+LE MARS        PTSUNNY   48  30  49 SE7       30.09F TC   9           
+MAURICE        FAIR      48  28  46 S10       30.08F TC   9           
+SHELDON        SUNNY     46  27  46 VRB5      30.09F TC   8           
+SIOUX CITY     CLOUDY    47  29  49 SE8       30.09F TC   8           
+SPENCER        SUNNY     48  25  40 SW6       30.12S TC   9           
+STORM LAKE     MOSUNNY   48  27  43 S10       30.11S TC   9           
+$$
+ 
+ABBREVIATIONS USED IN REMARKS
+   TC - TEMPERATURE IN CELSIUS
+  WCI - WIND CHILL INDEX
+   HX - HEAT INDEX
+  VSB - VISIBILITY
+
+  

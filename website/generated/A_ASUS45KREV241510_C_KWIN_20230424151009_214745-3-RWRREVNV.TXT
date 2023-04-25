@@ -1,0 +1,70 @@
+ASUS45 KREV 241510
+RWRNV 
+NEVADA REGIONAL WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE RENO NV
+800 AM PDT MON APR 24 2023
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+NVZ001-003-004-241600-
+WESTERN NEVADA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+RENO           SUNNY     51  28  41 SW5       29.98R                  
+CARSON CITY    FAIR      48  27  43 W3        30.00S                  
+MINDEN         FAIR      46  28  49 VRB6      30.00R                  
+PYRAMID LAKE     N/A     59 N/A N/A S3          N/A                   
+FALLON         MOSUNNY   56  28  34 S7        29.94R                  
+LOVELOCK       SUNNY     51  28  41 N6        29.93R                  
+HAWTHORNE      SUNNY     55  28  35 CALM      29.96F                  
+$$
+
+NVZ002-CAZ072-073-241600-
+NORTHERN AND CENTRAL SIERRA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+S. LAKE TAHOE  SUNNY     35  26  69 S5        30.04R                  
+TRUCKEE        MOSUNNY   34  30  86 CALM      30.06R                  
+BLUE CANYON    SUNNY     50  38  63 S3        30.04R                  
+SUSANVILLE     FAIR      54  32  43 NW9       29.97R                  
+MAMMOTH LAKES  FAIR      35  27  72 SE3       30.07S                  
+BRIDGEPORT       N/A     32  27  80 NE2         N/A                   
+$$
+
+NVZ030-031-036-241600-
+NORTHERN NEVADA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ELKO           PTSUNNY   40  38  93 SW3       29.91S                  
+WINNEMUCCA     SUNNY     52  36  54 S5        29.91S                  
+BATTLE MOUNTAI SUNNY     43  41  93 S5        29.93S                  
+WENDOVER       PTSUNNY   50  36  58 NE3       29.89F                  
+$$
+
+NVZ035-037-241600-
+CENTRAL NEVADA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ELY            MOSUNNY   37  34  89 S12       29.97S                  
+EUREKA           N/A     45  38  76 SW6       29.96R                  
+$$
+
+NVZ013-014-241600-
+SOUTH CENTRAL NEVADA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+TONOPAH        SUNNY     52  30  43 N5        29.99S                  
+$$
+
+NVZ017-020-022-241600-
+SOUTHERN NEVADA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+LAS VEGAS      PTSUNNY   67  38  34 SE3       29.85R                  
+N. LAS VEGAS   MOSUNNY   71  37  28 NW8       29.83R                  
+NELLIS AFB     MOSUNNY   70  38  32 E9        29.81R                  
+HENDERSON      MOSUNNY   66  38  35 CALM      29.88R                  
+MERCURY        SUNNY     65  36  34 N9        29.89R                  
+$$
+  

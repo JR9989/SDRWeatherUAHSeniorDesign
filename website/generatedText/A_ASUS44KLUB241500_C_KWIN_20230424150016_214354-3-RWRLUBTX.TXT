@@ -1,0 +1,154 @@
+ASUS44 KLUB 241500
+RWRLUB
+WEST TEXAS WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE LUBBOCK TX
+1000 AM CDT MON APR 24 2023
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+TXZ004-006>008-010-012-014-016-OKZ002-241600-
+TEXAS PANHANDLE/OKLAHOMA PANHANDLE
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+AMARILLO       CLOUDY    45  37  73 S21G26    30.05R                  
+BORGER         CLOUDY    49  36  61 SE13G24   30.08S                  
+DALHART        CLOUDY    47  36  65 S21       30.00F                  
+GUYMON         CLOUDY    47  36  65 S21G28    30.01S                  
+PERRYTON       CLOUDY    42  29  61 S18       30.05F                  
+$$
+
+TXZ026-029-035-045-048-241600-
+SOUTHERN PANHANDLE/SOUTH PLAINS/ROLLING PLAINS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CHILDRESS      CLOUDY    49  38  65 S9        30.14F                  
+LUBBOCK        CLOUDY    45  40  82 SE13      30.07S                  
+SNYDER         CLOUDY    47  44  89 S7        30.13R                  
+$$
+
+TXZ052-054-060>062-072-078-127-140-154-169-241600-
+PERMIAN BASIN/CONCHO VALLEY/BIG COUNTRY/EDWARDS PLATEAU  
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ABILENE        CLOUDY    51  44  77 SE6       30.14R                  
+JUNCTION       CLOUDY    51  50  96 E5        30.12F                  
+MIDLAND        CLOUDY    47  47 100 SE13      30.08F                  
+ODESSA         CLOUDY    47  45  93 SE10      30.08F FOG              
+SAN ANGELO     CLOUDY    50  49  96 E7        30.11S                  
+$$
+
+TXZ055-058-074-075-080-082-241600-
+FAR WEST/SOUTHWEST MOUNTAINS/TRANS PECOS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+EL PASO        MOSUNNY   56  36  47 SE7       29.97S                  
+FORT STOCKTON  CLOUDY    49  44  83 SE9       30.06F                  
+GUADALUPE PASS   N/A    N/A N/A N/A MISG        N/A                   
+MARFA          CLOUDY    48  40  73 SE9       30.08S                  
+$$
+
+TXZ014-016-019-021>030-083-241600
+TEXAS TECH WEST TEXAS MESONET/TEXAS PANHANDLE/NORTHERN SOUTH PLAINS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ABERNATHY 5ENE   N/A     44  41  91 S13       30.10R                  
+AMARILLO 9NNE    N/A     45  37  71 S14       30.07R                  
+AMARILLO 7SSE    N/A     45  37  72 S16       30.07S                  
+AMHERST 1NE      N/A     43  40  88 SE8       30.07F                  
+BOOTLEG 11WNW    N/A     41  41 100 S12       30.07S                  
+CANADIAN 6E      N/A     48  35  61 S17       30.09S                  
+CHILDRESS 2NNE   N/A     49  38  67 SE10      30.14F                  
+CLARENDON 2WSW   N/A     46  37  70 S16       30.10S                  
+CLAUDE 12SW      N/A     43  36  76 S13       30.08S                  
+DIMMITT 2NE      N/A     43  38  82 S15       30.06F                  
+FLOYDADA 2NNE    N/A     45  40  82 SE17      30.09F                  
+FRIONA 2NE       N/A     43  38  84 S16       30.05S                  
+GOODLETT 3W      N/A     50  40  67 S7        30.15S                  
+HART 3N          N/A     42  39  87 S10       30.08S                  
+HEREFORD 2NW     N/A     43  37  78 S13       30.06S                  
+MCLEAN 1E        N/A     44  35  69 S14       30.10R                  
+MEMPHIS 1NE      N/A     48  37  66 SE8       30.14S                  
+MULESHOE 2SSW    N/A     43  38  85 SE9       30.06S                  
+OLTON 6S         N/A     44  40  86 SE12      30.07F                  
+PALO DURO SP     N/A     44  36  71 S15       30.08F                  
+PAMPA 2E         N/A     45  36  69 S18       30.09F                  
+PLAINVIEW 1S     N/A     44  39  82 SE13      30.08R                  
+SILVERTON 7ESE   N/A     46  39  78 S15       30.08S                  
+TULIA 2ENE       N/A     44  38  79 S13       30.09R                  
+TURKEY 2WSW      N/A     48  40  74 SE13      30.09F                  
+UMBARGER 3NNE    N/A     44  37  77 S17       30.06F                  
+$$
+
+TXZ033>036-039>041-045>048-241600
+TEXAS TECH WEST TEXAS MESONET/SOUTH PLAINS  
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+AIKEN 3WSW       N/A     44  40  88 S17       30.09R                  
+ANDREWS 2NE      N/A     47  46  96 SE12      30.07F                  
+ANTON 6SSW       N/A     44  40  87 SE13      30.07F                  
+BROWNFIELD 2S    N/A     44  43  95 S10       30.09R                  
+DENVR CTY 7WNW   N/A     45  42  90 S10       30.07R                  
+GAIL 2ESE        N/A     48  44  85 SE12      30.10F                  
+LAMESA 2SE       N/A     46  44  92 SE16      30.08F                  
+LUBBOCK 3WNW     N/A     44  41  87 SE7       30.08S                  
+MORTON 1ENE      N/A     43  41  92 S12       30.07S                  
+ODONNELL 1N      N/A     46  43  89 S12G24    30.10R                  
+PLAINS 3N        N/A     44  42  91 S15       30.07R                  
+RALLS 1SE        N/A     46  40  80 SE12      30.08F                  
+REESE CENTER     N/A     44  41  89 SE12      30.08F                  
+SEAGRAVES 1SW    N/A     46  43  90 S21       30.05R                  
+SEMINOLE 2NNE    N/A     47  44  90 SE13      30.06F                  
+SLATON 2NE       N/A     44  40  86 SE9       30.10R                  
+SNYDER 3E        N/A     48  44  84 S9        30.12R                  
+SUNDOWN 8SW      N/A     44  42  94 S14       30.07F                  
+TAHOKA 3NNE      N/A     45  43  93 SE5       30.09R                  
+WOLFFORTH 6SSW   N/A     44  42  90 SE14      30.08F                  
+$$
+
+TXZ031-032-036>038-042>044-241600-
+TEXAS TECH WEST TEXAS MESONET/ROLLING PLAINS 
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ASPERMONT 3NE    N/A     51  43  75 SE6       30.12F                  
+FLUVANNA 3WNW    N/A     46  43  90 S13       30.11S                  
+GRAHAM 5SSW      N/A     45  43  93 SE12G29   30.09F                  
+GUTHRIE 10WSW    N/A     49  40  73 SE7       30.13S                  
+HASKELL 1NW      N/A     51  43  75 SE5       30.14S                  
+JAYTON 1SSE      N/A     49  42  75 SE7       30.12F                  
+KNOX CITY 3NW    N/A     51  42  73 S7        30.16S                  
+LK A HENRY 1NW   N/A     48  43  83 S9        30.11F                  
+NORTHFIELD 1S    N/A     48  40  73 SE9       30.11F                  
+ODELL 4ENE       N/A     50  41  70 S7        30.17S                  
+PADUCAH 10SW     N/A     49  41  75 SE7       30.16F                  
+POST 1NE         N/A     47  42  82 SE6       30.10F                  
+RRING SPRGS 3N   N/A     47  40  74 SE14      30.11F                  
+SEYMOUR 3NW      N/A     51  43  73 S6        30.17R                  
+SPUR 1W          N/A     47  41  77 SE6       30.10F                  
+WEINERT 2NNE     N/A     51  41  68 S7        30.16F                  
+WHITE RVR 6NE    N/A     46  39  79 E12       30.09F                  
+$$
+
+TXZ052-054-060>062-072-078-127-140-154-169-241600-
+TEXAS TECH WEST TEXAS MESONET/PERMIAN BASIN/
+CONCHO VALLEY/BIG COUNTRY/EDWARDS PLATEAU
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+COYANOSA 2N      N/A     50  46  84 E12       30.09S                  
+JUNCTION 1SSW    N/A     50  49  96 CALM      30.13F                  
+MERTZON 3NNE     N/A     48  48 100 E6        30.13S                  
+SAN ANGELO 7NW   N/A     50  48  95 E7        30.12S                  
+STRLNG CT 4WSW   N/A     48  45  90 E7        30.12F                  
+ST LAWRNCE 5SW   N/A     47  45  91 E8        30.11S                  
+SWEETWATR 11SW   N/A     49  44  81 SE7       30.13F                  
+WALL 1E          N/A     50  49  96 E7        30.13F                  
+$$
+
+TXZ055-058-074-075-080-082-241600-
+TEXAS TECH WEST TEXAS MESONET/FAR WEST/SOUTHWEST MOUNTAINS/TRANS PECOS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PRSMN GAP BBNP   N/A     51  44  77 NE16      30.06F                  
+GUADLPE MTN NP   N/A     41  37  85 CALM      30.05S                  
+$$
+  

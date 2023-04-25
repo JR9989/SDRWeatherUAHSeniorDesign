@@ -1,0 +1,39 @@
+FGUS53 KGRR 241515
+RVDGRR
+MIC123-133-251714-
+Daily River and Lake Summary 
+National Weather Service Grand Rapids MI
+1115 AM EDT Mon Apr 24 2023
+
+These river inflow forecasts include expected precipitation during
+the 24 hour period ending 8 am Tuesday morning.
+
+River forecasts are in cubic feet per second.
+ 
+.B GRR 0424 DC042411 DH12/DRH+24/QIIFF/DRH+24/QIIFF
+.B1/DRH+72/QIIFF/DRH+96/QIIFF/DRH+120/QIIFF/PPDFN
+ 
+:   Station                                                    Qpf
+: ID      Name                8am Inflow Forecasts In CFS     24-hr
+:                          Tue    Wed    Thu    Fri    Sat
+: Muskegon River
+EVRM4  :Evart         :   1697/  1590/  1487/  1388/  1294/   0.00
+: Little Muskegon River
+OKGM4  :Oak Grove     :    510/   480/   460/   450/   430/   0.00
+.END
+
+CFS = Cubic feet per second
+QPF 24-hr = Forecast average rainfall in inches over the basin for 
+the next 24 hours...starting from 8 am today.
+
+Additional weather and river information can be found on our homepage
+at www.weather.gov/grr 
+
+Routine daily river forecasts for the above points are issued from 
+April 1st to November 30th.  River forecasts from December through 
+March will be issued on an as needed basis.  
+
+ 
+ 
+$$
+

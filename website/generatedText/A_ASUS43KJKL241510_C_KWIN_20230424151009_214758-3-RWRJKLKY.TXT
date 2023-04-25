@@ -1,0 +1,85 @@
+ASUS43 KJKL 241510
+RWRJKL
+
+EAST KENTUCKY HOURLY WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE JACKSON KY
+1100 AM EDT MON APR 24 2023
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH
+NO SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+* THESE REPORTS ARE NOT UNDER NWS QUALITY CONTROL AND MAY NOT
+  REPORT WEATHER SUCH AS PRECIPITATION AND FOG.
+
+KYZ079-080-083-085-087-088-110-112-115-119-120-241600
+...EASTERN KENTUCKY...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+JACKSON        MOSUNNY   50  28  42 VRB3      30.20R                  
+LONDON           N/A     50  29  44 MISG      30.22R                  
+SOMERSET*      SUNNY     48  30  49 NW8       30.22R                  
+MONTICELLO*    MOSUNNY   49  27  42 VRB5      30.25S                  
+WILLIAMSBURG*  FAIR      46  28  49 N3        30.23R                  
+MIDDLESBORO*   SUNNY     50  27  40 NE6       30.22S                  
+HARLAN APT*    SUNNY     50  23  34 NW10      30.20S                  
+PIKE CO APT*   FAIR      47  25  42 W5        30.19S                  
+BIG SANDY APT* SUNNY     48  26  42 N6        30.20S                  
+MOREHEAD APT*  MOSUNNY   48  27  43 W9        30.21R                  
+ASHLAND*       MOSUNNY   50  29  44 VRB7      30.20R                  
+$$
+
+KYZ035-036-041-042-044-050-067-078-099-241600
+...CENTRAL KENTUCKY...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MT STERLING*   SUNNY     46  32  57 W9        30.23R                  
+FLEMING/MASON* SUNNY     45  29  54 NW9       30.22R                  
+DANVILLE*      SUNNY     46  30  53 NW7       30.24S                  
+RICHMOND*      FAIR      48  32  53 W8        30.24R                  
+LEXINGTON      SUNNY     49  28  44 NW12      30.22R                  
+FRANKFORT      SUNNY     45  24  43 W10G23    30.23R                  
+LOUISVILLE     MOSUNNY   49  22  34 NW10      30.26R                  
+LEBANON*       FAIR      50  25  37 NW6       30.25R                  
+GLASGOW*       SUNNY     49  32  52 N3        30.25R                  
+BOWLING GREEN  SUNNY     52  32  46 VRB5      30.26R                  
+$$
+
+KYZ091>093-OHZ055-061-077-WVZ005-015-034-035-042-241600
+...SOUTHERN OHIO/WEST VIRGINIA...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+COVINGTON      PTSUNNY   42  27  55 NW6       30.22R                  
+COLUMBUS       PTSUNNY   46  28  49 W10       30.17S                  
+DAYTON         PTSUNNY   43  30  60 W10       30.21R                  
+WILMINGTON     CLOUDY    44  27  51 W8        30.19R                  
+HUNTINGTON     MOSUNNY   50  26  39 SW9       30.18R                  
+CHARLESTON     MOSUNNY   48  22  35 VRB6G16   30.18S                  
+PINEVILLE*     PTSUNNY   49  27  43 MISG      30.21S                  
+BECKLEY        PTSUNNY   43  25  49 CALM      30.14S                  
+BLUEFIELD      SUNNY     41  24  51 W7G20     30.13S                  
+LOGAN CO APT*  FAIR      46  23  39 VRB7      30.17S                  
+$$
+
+VAZ002-007-008-TNZ017-027-036-066-071-241600
+...SOUTHWEST VIRGINIA/EAST TENNESSEE...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+WISE*          SUNNY     41  23  48 N8        30.17S                  
+JONESVILLE*    FAIR      48  23  37 W3        30.21R                  
+ABINGDON*      SUNNY     44  25  45 N5        30.16F                  
+BRISTOL        MOSUNNY   50  27  40 NW7       30.18S                  
+SEVIERVILLE*   SUNNY     52  30  43 CALM      30.21S                  
+KNOXVILLE      MOSUNNY   52  28  39 N10       30.20S                  
+LAFOLLETTE*    SUNNY     50  23  34 NE9G18    30.25S                  
+OAK RIDGE      SUNNY     51  27  39 E7        30.22S                  
+CROSSVILLE     SUNNY     48  25  40 N8        30.20S                  
+NASHVILLE      MOSUNNY   55  31  39 NE6       30.26R                  
+$$
+
+...KEY TO REMARKS...
+VSB - VISIBILITY IN MILES
+WCI - WIND CHILL INDEX
+HX  - HEAT INDEX
+
+$$
+  

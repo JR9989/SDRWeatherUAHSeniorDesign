@@ -1,0 +1,62 @@
+CDUS45 KBOI 241639
+CLIBOI
+
+CLIMATE REPORT 
+NATIONAL WEATHER SERVICE BOISE ID
+1039 AM MDT MON APR 24 2023
+
+...................................
+
+...THE BOISE ID CLIMATE SUMMARY FOR APRIL 24 2023...
+VALID AS OF 0900 AM LOCAL TIME.
+
+CLIMATE NORMAL PERIOD 1991 TO 2020
+CLIMATE RECORD PERIOD 1875 TO 2023
+
+
+WEATHER ITEM   OBSERVED TIME   RECORD YEAR NORMAL  LAST               
+                VALUE   (LST)  VALUE       VALUE   YEAR              
+...........................................................
+TEMPERATURE (F)                                                          
+ TODAY                                                               
+  MAXIMUM         51    859 AM  91    1910  65      64               
+                                      1977                           
+  MINIMUM         46    715 AM  22    1950  41      33               
+  AVERAGE         49                        53      49             
+
+PRECIPITATION (IN)                                                    
+  TODAY            0.00          0.95 1980   0.04    0.00             
+  MONTH TO DATE    0.60                      1.00    0.75             
+  SINCE OCT 1      9.37                      8.27    6.84             
+  SINCE JAN 1      4.27                      4.74    2.30             
+
+...........................................................
+
+
+RELATIVE HUMIDITY (PERCENT)
+ HIGHEST    80           800 AM                                      
+
+..........................................................
+
+
+THE BOISE ID CLIMATE NORMALS FOR TOMORROW
+                         NORMAL    RECORD    YEAR                     
+ MAXIMUM TEMPERATURE (F)   65        92      1946                      
+ MINIMUM TEMPERATURE (F)   42        26      1921                      
+                                             1961                     
+
+
+SUNRISE AND SUNSET                                                    
+APRIL 24 2023.........SUNRISE   648 AM MDT   SUNSET   839 PM MDT     
+APRIL 25 2023.........SUNRISE   646 AM MDT   SUNSET   840 PM MDT     
+
+
+-  INDICATES NEGATIVE NUMBERS.
+R  INDICATES RECORD WAS SET OR TIED.
+MM INDICATES DATA IS MISSING.
+T  INDICATES TRACE AMOUNT.
+
+
+
+
+$$

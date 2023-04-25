@@ -1,0 +1,30 @@
+ABUS23 KWBC 241530
+TPTWRN
+
+HOURLY TEMPERATURE/WEATHER FOR WESTERN UNITED STATES
+NWS TELECOMMUNICATION OPERATIONS CENTER SILVER SPRING MD
+800 AM PDT MON APR 24 2023
+
+CITY                     F    C      WEATHER
+
+ALBUQUERQUE              51   11      CLDY     
+ANCHORAGE                23   -5      PCLDY    
+BOISE                    48    9      CLDY     
+CASPER                   46    8      WINDY    
+FAIRBANKS                10  -12      CLDY     
+GREAT FALLS              46    8      CLDY     
+HONOLULU                 71   22      FAIR     
+LAS VEGAS                66   19      CLDY     
+LOS ANGELES              60   16      CLDY     
+MEDFORD                  46    8      CLDY     
+PENDLETON                48    9      CLDY     
+PHOENIX                  71   22      FAIR     
+PORTLAND OR              48    9      CLDY     
+RENO                     51   11      FAIR     
+SALT LAKE CITY           51   11      CLDY     
+SAN DIEGO                60   16      CLDY     
+SAN FRANCISCO            53   12      FAIR     
+SEATTLE                  44    7      CLDY     
+SPOKANE                  42    6      WINDY    
+
+$$ 

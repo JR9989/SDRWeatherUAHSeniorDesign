@@ -1,0 +1,768 @@
+FOUS53 KIWX 241456
+PFMIWX
+
+Point Forecast Matrices
+National Weather Service Northern Indiana
+1056 AM EDT Mon Apr 24 2023
+
+INZ104-242100-
+South Bend Regional Aiport-St. Joseph IN
+41.71N  86.32W Elev. 799 ft
+1056 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      51          35          51          33          53
+Temp                44 46 48 48 40 37 35 38 42 47 50 45 38 35 33 34 44 51 52 48
+Dewpt               30 23 22 23 24 24 26 31 34 35 34 32 32 30 28 29 29 27 26 26
+RH                  57 40 35 37 52 59 69 76 73 63 54 60 79 82 82 82 55 39 36 42
+Wind dir             W NW NW  N  E SE SE  S  S SW NW  N  N  N  N  N  N  N  N  N
+Wind spd            10 12 10  5  3  4  4  5 10  9 10 10  9  6  5  6 10 10 11 10
+Clouds              B1 B1 FW FW SC B1 B2 OV OV OV B2 SC FW FW FW FW FW FW FW FW
+PoP 12hr                     10          30          60           0           0
+QPF 12hr                      0        0.01        0.08           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                             S  C  L  C                              
+Wind chill          38                      36          32 29    28 38         
+Min chill              36          33    31    35          29    28    31      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          32    62      41    65      45    60      42    54
+Temp          34 34 59 58   46 43 61 59   50 46 57 55   47 43 51 51
+Dewpt         27 28 30 32   32 35 39 41   42 42 43 41   41 40 38 37
+PWind dir        NE    SE       E     E       E     S       W     W
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    FW SC SC B1   B1 B1 B2 B1   B2 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     5      20    30      50    70      60    70
+Rain shwrs                      S  S  C    C  C  L  L    L  L  L  L
+
+$$
+INZ018-242100-
+Fort Wayne International Aiport-Allen IN
+41.00N  85.20W Elev. 814 ft
+1056 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      51          33          51          33          56
+Temp                43 46 47 48 39 36 34 36 43 47 50 49 41 37 34 35 44 52 56 52
+Dewpt               31 27 25 24 23 24 26 28 34 34 36 36 34 32 31 30 31 28 27 28
+RH                  62 47 42 39 52 61 72 72 70 60 58 61 76 82 89 82 60 39 32 39
+Wind dir             W  W NW NW NW SW  S  S  S SW SW NW  N  N  N  N  N  N  N  N
+Wind spd             9 11 11  5  3  3  3  5  8 11  9  8  6  5  5  5  8  6  8  6
+Clouds              B2 B2 B2 SC FW SC B1 OV OV OV OV B1 B1 SC FW FW FW FW FW FW
+PoP 12hr                     10          20          60           5           0
+QPF 12hr                      0           0        0.04           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                C  L  C  C                           
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          32    61      41    62      46    61      43    55
+Temp          36 35 57 56   44 43 58 57   48 48 59 57   47 44 52 52
+Dewpt         29 29 30 33   34 37 42 43   44 45 45 43   44 42 41 39
+PWind dir        NE     E       E    NE       E     S      SW     W
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    FW FW SC SC   B1 B2 B2 B2   B2 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     5      20    30      40    60      50    60
+Rain shwrs                   S  S  C  C    C  C  L  L    C  C  L  C
+
+$$
+INZ005-242100-
+Goshen Municipal Airport-Elkhart IN
+41.53N  85.79W Elev. 827 ft
+1056 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      52          34          51          33          55
+Temp                42 46 47 47 39 36 35 37 43 47 50 47 40 36 34 34 45 52 55 51
+Dewpt               32 26 23 23 24 25 26 30 35 36 36 34 33 31 30 30 31 29 27 27
+RH                  67 45 38 38 54 64 69 75 73 65 58 60 76 82 85 85 58 41 34 39
+Wind dir             W  W NW  N  N SE SE  S  S SW SW  N  N  N  N  N  N  N  N  N
+Wind spd            10 12 11  5  3  4  4  5  9 10  9 10  8  5  5  6  9  9  9 10
+Clouds              B1 B2 SC FW FW SC B1 B2 OV OV B2 B1 SC FW FW FW FW B1 FW FW
+PoP 12hr                     10          30          60           5           0
+QPF 12hr                      0           0        0.09           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                             S  C  L  C  S                           
+Wind chill          36                                           28            
+Min chill              35          32    31    35          31    28    32      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          32    61      41    64      47    61      44    55
+Temp          35 35 58 57   45 43 60 59   50 47 58 57   47 44 52 51
+Dewpt         28 29 32 33   34 36 41 42   44 44 45 43   43 42 40 38
+PWind dir        NE    SE       E     E       E     S      SW     W
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    FW FW SC B1   B1 B1 B2 B2   B2 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     5      20    30      40    60      60    60
+Rain shwrs                      S  S  C    C  C  L  L    L  L  L  L
+
+$$
+INZ023-242100-
+Grissom Air Reserve Base-Miami IN
+40.65N  86.15W Elev. 812 ft
+1056 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      52          36          52          32          56
+Temp                42 47 50 49 40 37 38 40 44 50 52 50 41 37 34 34 44 52 56 53
+Dewpt               29 26 25 28 28 28 29 33 36 39 41 40 37 35 32 32 33 32 31 32
+RH                  60 43 37 44 62 70 70 76 73 66 66 68 85 92 92 92 65 46 38 44
+Wind dir             W  W NW NW  E SE  S  S  S SW  W  N  N  N  N NE NE NE  N  N
+Wind spd            10 12 10  4  4  5  5  5 10 11 10 10 10  8  6  6  9  9  9  8
+Clouds              SC B2 B1 SC SC B1 OV OV OV OV B2 B1 B1 SC SC FW FW FW FW FW
+PoP 12hr                      0          30          60           5           0
+QPF 12hr                      0           0        0.14           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                             S  L  L  C                              
+Wind chill          35                      38          35 31 28 28            
+Min chill              33          32    31    36          31    28    31      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          32    61      42    62      45    59      42    54
+Temp          36 35 57 57   46 44 57 57   47 47 57 56   47 43 51 51
+Dewpt         31 31 34 38   37 39 44 46   46 45 48 46   44 42 44 42
+PWind dir        NE     E       E     E       E     S      SW     W
+Wind char        GN    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    FW SC SC B1   B1 B1 B2 B2   B1 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     5      20    30      40    60      50    50
+Rain shwrs                   S  S  S  C    C  C  L  L    C  C  C  C
+
+$$
+MIZ177-242100-
+Benton Harbor Southwest Michigan Regional Airport-Berrien MI
+42.13N  86.43W Elev. 643 ft
+1056 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      47          37          46          35          46
+Temp                44 43 43 47 41 39 39 38 42 45 44 43 40 39 37 36 41 44 45 44
+Dewpt               32 29 26 26 27 27 28 32 35 36 35 33 33 32 31 30 30 30 29 29
+RH                  62 57 51 43 57 62 64 79 76 70 70 67 76 76 79 79 65 57 53 55
+Wind dir             W  W NW  N SE SE SE  S  S  W  N  N  N  N  N NE  N  N  N  N
+Wind spd            11 11  6  3  3  5  6  8 10  8 10 12 10  9  9  8 10 11 11  9
+Clouds              SC SC FW FW B1 B1 B2 OV OV B2 B1 SC FW FW FW FW FW FW CL FW
+PoP 12hr                      5          30          50           0           0
+QPF 12hr                      0           0        0.01           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                             S  C  C  S                              
+Wind chill          38 37                32 36    38 36 33 33 30 30 35 38 39   
+Min chill              37    37    35    32    33    36    33    30    32    38
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          35    56      44    60      45    55      42    51
+Temp          37 37 52 55   46 45 56 55   48 46 51 51   45 43 47 50
+Dewpt         30 29 35 36   34 35 40 41   42 42 43 41   41 40 40 39
+PWind dir        NE    SE       E     E       E     W       W    NW
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    FW FW SC B1   B1 B1 B1 B1   B2 B1 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     5      10    20      50    60      60    60
+Rain shwrs                            S    C  C  L  L    L  L  L  L
+
+$$
+OHZ004-242100-
+Defiance Memorial Airport-Defiance OH
+41.34N  84.43W Elev. 707 ft
+1056 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      51          32          51          34          55
+Temp                43 46 47 47 38 34 33 34 45 46 48 49 43 38 35 35 45 52 55 52
+Dewpt               31 28 29 25 25 24 24 26 31 35 36 36 34 32 31 31 32 30 28 28
+RH                  62 49 49 42 59 66 69 72 58 65 63 61 70 79 85 85 60 43 35 39
+Wind dir             W  W  W NW  W  W  W  S SW SW SW  W NW  N  N  N  N  N  N  N
+Wind spd             8 11 11  6  4  4  2  2  6  9  9  5  5  5  5  5  5  6  5  5
+Clouds              B2 B2 B2 SC FW FW SC B1 OV OV OV B1 B1 B1 SC SC SC B1 B1 FW
+PoP 12hr                     30           5          70           5           0
+QPF 12hr                      0           0        0.06           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs           S  C  S                 C  L  C                           
+Snowshwrs            S                                                         
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          32    60      41    62      47    62      45    55
+Temp          37 35 57 56   44 43 58 56   50 48 59 58   50 45 52 53
+Dewpt         30 30 31 32   34 36 42 43   44 45 46 44   44 43 42 39
+PWind dir        NE     E       E    NE       E     S      SW     W
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    FW FW SC SC   B1 B2 B2 B2   B2 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     5      20    30      40    60      60    60
+Rain shwrs                      S  C  C    C  C  L  L    C  L  L  C
+
+$$
+OHZ025-242100-
+Lima Allen County Airport-Allen OH
+40.71N  84.03W Elev. 975 ft
+1056 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      50          32          52          35          56
+Temp                41 45 47 47 39 34 33 36 47 49 51 49 43 39 36 37 46 52 55 51
+Dewpt               32 28 28 28 28 27 26 28 32 35 38 39 37 36 34 34 34 32 31 32
+RH                  70 51 47 47 64 75 75 72 56 58 61 68 79 89 92 89 63 46 40 48
+Wind dir             W  W  W  W  W SW SW  S SW SW SW  W NW  N  N  N  N  N  N  N
+Wind spd             9 11 11  5  4  4  4  4  8  9  8  5  5  5  5  5  6  6  8  6
+Clouds              B2 B2 B2 B1 FW FW FW B1 OV OV OV B2 B1 B1 SC SC SC FW FW FW
+PoP 12hr                     30           5          50          10           0
+QPF 12hr                      0           0        0.04           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              C  S                 S  C  C                           
+Wind chill          35 39                                                      
+Min chill              33          30    27    35          35    31    36      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          34    60      43    60      47    62      45    55
+Temp          36 37 56 55   45 45 57 56   49 48 59 57   50 46 53 53
+Dewpt         31 31 32 37   35 40 47 48   46 47 49 48   46 45 45 42
+PWind dir         E     E       E     E      SE     S       S    SW
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    FW FW SC SC   B1 B2 B2 B2   B2 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0    10      30    40      40    60      50    60
+Rain shwrs                   S  C  C  C    C  C  C  L    C  C  L  C
+
+$$
+INZ216-242100-
+Warsaw Municipal Airport-Kosciusko IN
+41.27N  85.84W Elev. 850 ft
+1056 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      50          34          50          32          54
+Temp                41 45 48 48 38 36 36 38 42 46 49 47 38 35 32 34 45 52 54 51
+Dewpt               30 26 25 23 23 23 26 30 34 34 36 34 33 31 29 30 30 27 26 27
+RH                  65 47 40 37 54 59 67 73 73 63 61 60 82 85 88 85 55 38 34 39
+Wind dir             W  W NW  N NE SE  S  S  S SW  W  N  N  N  N  N  N  N  N  N
+Wind spd            10 12 11  5  3  4  4  5 10 10  9  9  8  6  5  5  9  9  9  9
+Clouds              B1 B2 B1 FW FW SC B1 OV OV OV B2 B1 SC FW FW FW FW FW FW FW
+PoP 12hr                      0          30          70           5           0
+QPF 12hr                      0        0.01        0.09           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                             S  C  L  C  S                           
+Wind chill          35 39                   36          32 29 26               
+Min chill              32          32    30    35          29    26    33      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          32    60      41    63      46    60      43    53
+Temp          34 34 57 56   44 43 59 57   48 48 57 57   47 44 50 50
+Dewpt         28 29 30 32   33 36 39 41   43 43 44 42   42 41 39 37
+PWind dir        NE    SE       E     E       E     S      SW     W
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    FW FW SC B1   B1 B1 B2 B2   B2 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     5      20    30      40    60      60    60
+Rain shwrs                   S  S  S  C    C  C  L  L    L  C  L  C
+
+$$
+INZ003-242100-
+Michigan City Municipal Airport-La Porte IN
+41.70N  86.82W Elev. 655 ft
+1056 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      50          37          49          35          49
+Temp                43 46 47 48 41 39 38 39 45 48 47 43 39 37 36 36 44 49 47 44
+Dewpt               31 27 26 28 26 26 28 35 37 38 37 34 33 32 31 30 31 30 30 29
+RH                  62 47 43 46 55 59 67 85 73 68 68 70 79 82 82 79 60 48 51 55
+Wind dir             W NW  N NE  E SE  S  S  S SW  N  N  N  N  N NE  N  N  N  N
+Wind spd            10 10  6  4  4  6  8  8 10  9 10 11 10  8  8  6  9 10 10 10
+Clouds              SC SC FW FW SC B1 B2 OV OV B2 B1 SC FW FW FW FW FW FW FW FW
+PoP 12hr                      0          40          50           0           0
+QPF 12hr                      0        0.06        0.08           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                             C  C  C  S                              
+Wind chill          37                32 33          37 32 31 30 30          38
+Min chill              37          34    32    34    37    31    30    34    38
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          34    60      44    63      45    57      42    53
+Temp          36 35 57 56   46 45 60 57   48 46 54 52   45 42 50 50
+Dewpt         28 28 34 37   34 36 41 43   43 42 44 42   41 40 40 40
+PWind dir        NE    SE       E     E       E    SW       W    NW
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    FW SC SC B1   B1 B1 B1 B1   B1 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     5      20    30      50    60      60    60
+Rain shwrs                      S  S  C    C  C  L  L    L  C  L  L
+
+$$
+INZ015-242100-
+Rochester Fulton County Airport-Fulton IN
+41.07N  86.18W Elev. 790 ft
+1056 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      51          37          51          33          55
+Temp                43 47 50 49 40 37 37 39 44 47 51 48 39 37 33 34 45 52 55 51
+Dewpt               28 25 24 24 28 28 29 35 37 37 38 36 37 34 32 32 32 29 28 29
+RH                  55 42 36 37 62 70 72 85 76 68 61 63 92 89 96 92 60 41 35 42
+Wind dir             W  W NW  N  E SE  S  S  S SW  W  N  N  N  N  N  N  N  N  N
+Wind spd             9 11  9  4  4  5  5  6 10 10  9  9  9  8  5  5  8  8  9  9
+Clouds              B1 B2 B1 SC SC B1 B2 OV OV OV B2 B1 SC SC FW FW FW FW FW FW
+PoP 12hr                      0          40          70           5           0
+QPF 12hr                      0        0.04        0.11           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                             S  L  L  C                              
+Wind chill                                  38          33 31                  
+Min chill              36          32    32    36          31    28    33      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          33    61      43    63      47    60      44    54
+Temp          36 35 57 57   46 45 60 59   49 48 58 57   47 44 51 51
+Dewpt         31 31 32 35   37 40 41 43   46 46 45 44   45 44 41 40
+PWind dir        NE    SE       E     E       E     S       W     W
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    FW SC SC B1   B1 B1 B2 B2   B1 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     5      20    30      40    60      50    60
+Rain shwrs                   S  S  S  C    C  C  L  L    C  C  L  C
+
+$$
+INZ012-242100-
+Knox Starke County Airport-Starke IN
+41.33N  86.66W Elev. 685 ft
+956 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      51          36          51          32          53
+Temp                45 47 50 49 39 37 36 39 44 49 50 45 37 34 32 34 45 51 53 46
+Dewpt               28 24 23 24 26 26 29 35 36 36 36 34 33 31 31 31 31 27 26 27
+RH                  51 40 34 37 59 64 75 85 73 61 58 65 85 89 96 89 58 39 35 47
+Wind dir             W NW NW  N  E SE  S  S  S SW NW  N  N  N  N  N NE  N  N  N
+Wind spd            10 10  9  5  4  5  6  6 10 10 10 10 10  6  5  6  8  9 10 10
+Clouds              SC B2 SC FW SC B1 B2 OV OV OV B1 SC SC FW FW FW FW FW FW FW
+PoP 12hr                      0          50          60           0           0
+QPF 12hr                      0        0.06        0.11           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                             C  L  C  S                              
+Wind chill          39                30    38          30 28 26 28            
+Min chill              38          32    30    35          28    26    33      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          31    61      41    64      45    59      42    53
+Temp          33 33 58 56   44 43 61 57   47 47 57 54   45 43 50 49
+Dewpt         28 28 30 33   34 38 39 41   44 44 43 42   41 41 39 37
+PWind dir        NE    SE       E     E       E     S       W     W
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    FW SC SC B1   B1 B1 B2 B1   B1 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     5      20    30      50    60      60    60
+Rain shwrs                   S  S  S  C    C  C  L  L    L  C  L  L
+
+$$
+INZ007-242100-
+Angola Tri-State Steuben County Airport-Steuben IN
+41.64N  85.08W Elev. 995 ft
+1056 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      50          32          47          32          53
+Temp                41 45 46 47 38 35 34 36 42 44 46 47 41 36 33 34 43 50 53 51
+Dewpt               31 28 25 24 23 23 24 27 36 38 38 36 34 32 31 31 33 31 29 30
+RH                  67 51 43 40 54 61 66 69 79 79 73 65 76 85 92 89 67 48 39 44
+Wind dir             W  W NW NW NW  W SE  S  S SW SW  N  N  N  N  N  N  N NW  N
+Wind spd             9 11 12  8  4  2  3  3  9  9  8  8  6  5  5  5  6  6  6  5
+Clouds              B2 B2 B1 FW FW SC B1 B2 OV OV OV B1 B1 FW SC B1 B1 B1 B1 FW
+PoP 12hr                     20          10          70           5           0
+QPF 12hr                      0           0        0.06           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs           S  S                 C  L  L  C                           
+Snowshwrs            S                                                         
+Wind chill          35 39                   36                                 
+Min chill              33    39    32    30    34          31    28    32      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          32    59      40    60      47    59      43    52
+Temp          36 35 56 55   43 42 57 56   48 47 56 57   47 44 50 50
+Dewpt         31 30 33 33   34 37 43 44   45 45 47 45   44 43 44 40
+PWind dir        NE    SE       E     E       E     S      SW     W
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    FW FW SC SC   B1 B1 B2 B2   B2 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     5      20    30      50    70      60    70
+Rain shwrs                      S  C  C    C  C  L  L    L  L  L  L
+
+$$
+INZ009-242100-
+Auburn De Kalb County Airport-De Kalb IN
+41.31N  85.06W Elev. 880 ft
+1056 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      49          33          48          33          53
+Temp                43 46 47 46 37 34 34 35 42 44 46 47 41 36 33 34 44 51 53 50
+Dewpt               32 27 26 24 23 25 25 28 34 36 36 36 34 33 31 32 31 30 28 29
+RH                  65 47 43 42 56 69 69 75 73 73 68 65 76 89 92 92 60 44 38 44
+Wind dir             W  W  W NW NW NW  E SE  S SW SW NW  N  N  N  N  N  N  N  N
+Wind spd             9 11 11  6  3  3  3  3  6  9  9  6  6  5  5  5  6  6  6  5
+Clouds              B2 B2 B1 SC FW SC B1 B2 OV OV OV B1 SC SC SC SC FW B1 B1 FW
+PoP 12hr                     20          20          70           5           0
+QPF 12hr                      0           0        0.08           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              S                 S  L  L  C                           
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          32    59      41    60      47    60      44    53
+Temp          36 34 56 54   43 43 58 55   48 47 57 56   47 45 50 50
+Dewpt         31 31 32 33   35 38 42 43   45 46 46 44   45 44 42 40
+PWind dir        NE     E       E     E       E     S      SW     W
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    FW FW SC SC   B1 B2 B2 B2   B2 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     5      20    30      40    60      60    60
+Rain shwrs                      S  C  C    C  C  L  L    L  L  L  C
+
+$$
+MIZ081-242100-
+Hillsdale Municipal Airport-Hillsdale MI
+41.92N  84.59W Elev. 1182 ft
+1056 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      48          31          48          32          52
+Temp                39 44 45 44 35 32 31 34 42 44 46 43 38 35 32 34 42 49 51 48
+Dewpt               31 28 26 21 21 21 21 25 28 30 31 31 30 30 29 30 28 25 23 25
+RH                  73 53 47 39 56 63 66 69 57 57 55 62 73 82 88 85 57 39 33 40
+Wind dir             W  W NW NW  W  W NW NE SW  S SW  N  N  N  N  N  N NW NW  N
+Wind spd             9 10 12  6  4  4  3  3  6  9  8  8  5  5  5  5  8  8  8  5
+Clouds              B2 B2 B2 SC CL SC SC B2 OV OV B2 B1 B1 B1 B1 B1 B1 B1 B1 SC
+PoP 12hr                     30          10          70           5           0
+QPF 12hr                      0           0        0.05           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs           S  C  S              S  C  L  C                           
+Snowshwrs            S                                                         
+Wind chill          32 38 39                                  26               
+Min chill              30    38    27    28    37    38    30    26    32      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          31    57      39    60      46    59      42    52
+Temp          35 35 54 51   41 42 56 54   47 46 56 54   47 43 49 48
+Dewpt         28 30 27 28   32 36 37 39   43 44 42 41   42 42 38 36
+PWind dir        NE    SE       E     E       E    SE       S     W
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    SC FW SC SC   B1 B1 B2 B2   B2 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     5      20    30      40    70      60    70
+Rain shwrs                      S  C  C    C  C  L  L    L  L  L  L
+
+$$
+MIZ079-242100-
+Sturgis Kirsch Municipal Airport-St. Joseph MI
+41.81N  85.44W Elev. 924 ft
+1056 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      49          33          48          32          53
+Temp                43 46 47 45 37 34 34 36 41 45 47 44 39 35 32 33 43 50 53 48
+Dewpt               31 25 22 18 21 21 23 26 31 32 30 29 30 29 28 28 28 25 22 24
+RH                  62 43 37 33 52 58 64 67 67 60 51 55 70 78 85 82 55 37 29 39
+Wind dir             W  W NW NW NW  S SE  S  S  S  W  N  N  N  N  N  N  N NW NW
+Wind spd             9 11 11  6  3  2  3  4  9 10  9  9  6  5  5  6  9  9  9  9
+Clouds              B2 B2 B1 FW FW SC B2 B2 OV OV B2 B1 SC FW FW SC FW B1 B1 FW
+PoP 12hr                     20          20          60           5           0
+QPF 12hr                      0           0        0.06           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs           S  S              S  C  C  C  C                           
+Snowshwrs            S                                                         
+Wind chill                                  35                26 27            
+Min chill              36          34    29    33    39    30    26    30      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          32    59      41    62      46    59      42    52
+Temp          34 34 56 54   43 43 59 56   48 48 58 54   47 43 49 49
+Dewpt         27 28 27 28   31 34 37 37   42 43 41 39   41 41 37 34
+PWind dir        NE    SE       E     E       E     S      SW     W
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    FW FW SC B1   B1 B1 B2 B2   B2 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     5      10    30      40    60      60    70
+Rain shwrs                         S  C    C  C  L  L    L  L  L  L
+
+$$
+MIZ079-242100-
+Three Rivers Municipal Dr Haines Airport-St. Joseph MI
+41.96N  85.59W Elev. 824 ft
+1056 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      50          33          48          32          53
+Temp                44 46 47 46 38 35 34 36 42 45 47 44 40 35 32 33 43 50 53 48
+Dewpt               31 25 23 21 23 23 25 27 34 34 33 33 32 31 29 30 30 27 26 27
+RH                  60 43 38 37 54 61 69 69 73 65 58 65 73 85 88 89 60 41 35 44
+Wind dir             W  W NW NW  W  S SE  S  S  S  W  N  N  N  N  N  N  N NW NW
+Wind spd             9 12 11  5  3  3  3  4  9  9  8  9  5  5  5  5  9  9 10 10
+Clouds              B2 B2 SC FW FW SC B2 OV OV OV B2 B1 FW FW FW SC FW B1 FW FW
+PoP 12hr                     20          20          60           0           0
+QPF 12hr                      0           0        0.06           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs           S  S              S  C  C  C  S                           
+Snowshwrs            S                                                         
+Wind chill                                  36                26               
+Min chill              37          32    29    34    39    30    26    30      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          31    60      41    62      46    60      43    53
+Temp          34 34 57 55   44 43 60 57   48 48 58 55   47 44 50 50
+Dewpt         29 30 31 32   32 36 39 41   44 45 44 43   43 42 40 37
+PWind dir        NE    SE       E     E       E     S      SW     W
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    FW FW SC B1   B1 B1 B2 B2   B2 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     5      20    30      40    60      60    70
+Rain shwrs                      S  S  C    C  C  L  L    L  L  L  L
+
+$$
+INZ020-242100-
+Monticello White County Airport-White IN
+40.71N  86.77W Elev. 676 ft
+1056 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      53          38          54          33          56
+Temp                45 49 52 51 43 40 40 40 45 52 54 50 41 37 35 35 45 54 56 53
+Dewpt               25 25 24 26 26 28 31 35 36 39 41 37 35 33 32 31 32 31 30 29
+RH                  45 39 33 37 51 62 70 82 70 61 61 61 79 85 89 85 60 41 37 39
+Wind dir             W  W NW NW  E SE  S  S  S SW NW  N  N  N  N NE NE NE NE  N
+Wind spd             9 11 10  4  3  5  4  6 10 10 10 10 10 10  8  6 10  9 10  9
+Clouds              SC B1 B1 SC B1 B2 OV OV OV B2 B2 B1 B1 SC FW FW FW FW FW FW
+PoP 12hr                      0          50          60           5           0
+QPF 12hr                      0        0.02        0.14           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                             C  L  C  S                              
+Wind chill                                              35 30 28 29            
+Min chill              37          36    35    36          30    28    32      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          32    62      42    63      45    59      42    54
+Temp          36 34 59 59   46 44 59 59   47 47 57 57   46 44 52 51
+Dewpt         28 30 33 36   36 39 43 44   44 45 46 44   43 42 41 40
+PWind dir        NE     E       E     E       E    SW       W     W
+Wind char        GN    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    FW FW SC B1   B1 B1 B2 B1   B1 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     5      20    20      40    60      50    50
+Rain shwrs                   S  S  S  S    C  C  C  L    C  C  C  C
+
+$$
+INZ021-242100-
+Logansport Cass County Airport-Cass IN
+40.71N  86.37W Elev. 738 ft
+1056 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      52          37          53          32          56
+Temp                42 47 50 50 41 38 39 40 44 50 53 49 40 37 34 34 44 53 56 53
+Dewpt               28 26 24 28 28 28 30 35 36 39 41 39 37 34 32 31 33 31 30 31
+RH                  57 43 36 42 59 67 70 82 73 66 64 68 89 89 92 89 65 43 37 43
+Wind dir             W  W NW  N  E SE  S  S  S SW  W  N  N  N  N NE NE NE  N  N
+Wind spd            10 11 10  4  5  5  6  6 10 11 10 10 10  8  6  6  9  9  9  9
+Clouds              SC B2 B1 SC SC B1 OV OV OV OV B2 B1 B1 SC SC FW FW FW FW FW
+PoP 12hr                      0          40          60           5           0
+QPF 12hr                      0           0        0.15           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                             S  L  C  S                              
+Wind chill          36                      38          33 31 28 28            
+Min chill              33          34    32    36          31    28    31      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          32    61      42    63      45    59      42    54
+Temp          36 35 58 58   46 45 58 59   47 47 57 57   47 43 51 51
+Dewpt         30 31 33 37   37 39 44 46   45 45 46 46   44 42 42 41
+PWind dir        NE     E       E     E       E     S      SW     W
+Wind char        GN    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    FW SC SC B1   B1 B1 B2 B2   B1 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0     5      20    30      40    60      50    50
+Rain shwrs                   S  S  S  C    C  C  L  L    C  C  C  C
+
+$$
+INZ032-242100-
+Marion Municipal Airport-Grant IN
+40.49N  85.68W Elev. 859 ft
+1056 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      51          34          53          34          56
+Temp                43 46 49 49 40 36 34 38 45 50 53 50 41 38 34 34 45 52 56 53
+Dewpt               29 25 25 28 28 28 28 32 36 38 41 40 38 37 33 32 34 32 31 32
+RH                  57 43 39 44 62 72 78 79 70 63 64 68 89 96 96 92 65 46 38 44
+Wind dir            NW NW NW NW  E SE  S  S  S SW  W NW  N  N  N NE NE NE  N NE
+Wind spd             9 11 10  4  3  4  5  5 10 12 10  8  6  8  6  6  9  8  8  6
+Clouds              SC B2 B2 SC SC SC B2 OV OV OV B2 B1 B1 SC SC SC FW FW FW FW
+PoP 12hr                      5          20          60          10           0
+QPF 12hr                      0           0        0.12           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                C  L  C  S                           
+Wind chill          37                                     32 28 28            
+Min chill              36          32    29    35          32    28    32      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          33    61      43    61      45    60      43    54
+Temp          37 36 57 58   46 45 58 58   49 45 58 57   47 43 53 52
+Dewpt         31 31 35 38   37 40 46 47   46 44 49 47   45 43 45 43
+PWind dir        NE     E       E    NE       E     S      SW     W
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    FW FW SC B1   B1 B2 B2 B2   B2 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0    10      20    30      40    60      50    60
+Rain shwrs                   S  S  S  C    C  C  C  L    C  C  C  L
+Tstms                                               S              
+
+$$
+INZ034-242100-
+Portland Municipal Airport-Jay IN
+40.45N  84.99W Elev. 925 ft
+1056 AM EDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+EDT 3hrly     05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17 20
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      50          33          52          34          56
+Temp                43 45 47 48 39 35 33 37 45 50 52 50 43 38 35 35 46 53 56 52
+Dewpt               30 26 25 26 26 25 26 28 33 34 36 39 37 34 33 32 32 30 29 30
+RH                  60 47 42 42 59 66 75 70 62 54 54 66 79 85 92 89 58 41 35 43
+Wind dir            NW NW NW NW  W  S  S  S SW SW SW NW  N  N  N  N NE  N  N  N
+Wind spd             9 11 10  5  3  3  5  5  9 10  9  6  5  5  5  6  8  8  8  5
+Clouds              B1 B2 B2 B1 FW SC SC B2 OV OV OV B1 B1 B1 SC SC FW FW FW FW
+PoP 12hr                     10          10          50          10           0
+QPF 12hr                      0           0        0.08           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                S  C  C  C                           
+Wind chill          37 39                                        29            
+Min chill              36          32    28    36          34    29    34      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+EDT 6hrly     02 08 14 20   02 08 14 20   02 08 14 20   02 08 14 20
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          32    60      43    60      45    60      43    54
+Temp          36 36 57 56   45 45 56 56   47 47 58 57   48 44 51 51
+Dewpt         30 30 31 35   35 39 44 46   44 45 48 46   44 43 43 41
+PWind dir        NE     E       E    NE      SE     S      SW     W
+Wind char        LT    GN      GN    GN      GN    GN      GN    BZ
+Avg clouds    FW SC SC B1   B2 B2 B2 B2   B2 B2 B2 B2   B2 B2 B2 B2
+PoP 12hr          0    10      30    30      40    60      50    50
+Rain shwrs                   S  C  C  C    C  C  C  L    C  C  C  C
+Tstms                                               S              
+
+$$

@@ -1,0 +1,76 @@
+WGUS84 KLZK 241523 RRA
+FLSLZK
+
+Flood Statement
+National Weather Service Little Rock AR
+1023 AM CDT Mon Apr 24 2023
+
+...The Flood Warning continues for the following rivers in 
+Arkansas...
+
+  White River At Des Arc affecting Prairie County.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Motorists should not attempt to drive around barricades or drive 
+cars through flooded areas.
+
+Turn around, don't drown when encountering flooded roads. Most flood 
+deaths occur in vehicles.
+
+River forecasts are based on current conditions and rainfall 
+forecasted to occur over the next 24 hours. During periods of 
+flooding...Evening forecasts are reissued with updated rainfall 
+forecasts.
+
+Observed and forecasted stage data plots are available on our 
+Advanced Hydrologic Prediction Service web page at...
+ www.weather.gov/lzk
+
+Under the Current Conditions section...Select River and Lakes AHPS.
+
+&&
+
+
+ARC117-251530-
+/O.EXT.KLZK.FL.W.0027.000000T0000Z-230504T1800Z/
+/DSCA4.1.ER.000000T0000Z.230401T0900Z.230503T1200Z.NO/
+1023 AM CDT Mon Apr 24 2023
+
+...FLOOD WARNING NOW IN EFFECT UNTIL THURSDAY, MAY 04...
+
+* WHAT...Minor flooding is occurring and minor flooding is forecast.
+
+* WHERE...White River At Des Arc.
+
+* WHEN...Until Thursday, May 04.
+
+* IMPACTS...At 27.0 feet, Water is backing up Bayou Des Arc and 
+  Cypress Bayou. West Park Drive is inundated.
+
+* ADDITIONAL DETAILS...
+  - At 9:00 AM CDT Monday the stage was 25.9 feet.
+  - Forecast...The river is expected to fall below flood stage
+    Wednesday, May 03 and continue falling to 23.8 feet Thursday,
+    May 04.
+  - Flood stage is 24.0 feet.
+
+
+&&
+
+           Fld   Observed        Forecast 1 PM      Crest           
+Location   Stg   Stg Day/Time   Tue   Wed   Thu  Crest  Time  Date  
+
+White River
+Des Arc    24.0  25.9 Mon 9 AM  25.5 25.2 25.0   *** Crested ***     
+
+
+&&
+
+LAT...LON 3466 9139 3477 9150 3500 9155 3498 9142
+      3482 9138 3472 9129
+
+
+$$
+
+53

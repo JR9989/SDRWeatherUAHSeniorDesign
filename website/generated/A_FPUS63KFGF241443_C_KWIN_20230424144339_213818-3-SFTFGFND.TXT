@@ -1,0 +1,73 @@
+FPUS63 KFGF 241443
+SFTND 
+NDZ001>054-242300-
+
+Tabular State Forecast for North Dakota
+National Weather Service Grand Forks ND
+943 AM CDT Mon Apr 24 2023
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Today    Tue      Wed      Thu      Fri      Sat      Sun      
+   Apr 24   Apr 25   Apr 26   Apr 27   Apr 28   Apr 29   Apr 30   
+
+Bismarck
+   Sunny    Ptcldy   Shwrs    Ptcldy   Mocldy   Ptcldy   Ptcldy   
+     /50    24/51    34/58    33/55    33/47    31/52    32/52    
+      /00    00/00    10/60    10/40    40/30    10/20    10/20   
+
+Bottineau
+   Sunny    Sunny    Shwrs    Shwrs    Ptcldy   Ptcldy   Ptcldy   
+     /46    24/47    31/51    32/49    31/46    29/49    30/47    
+      /00    00/00    10/70    20/50    40/30    20/20    10/10   
+
+Devils Lake
+   Sunny    Sunny    Shwrs    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+     /41    24/46    27/45    31/47    31/43    28/47    29/47    
+      /00    00/00    10/70    30/40    40/30    20/20    20/10   
+
+Dickinson
+   Sunny    Ptcldy   Mocldy   Shwrs    Mocldy   Ptcldy   Ptcldy   
+     /54    27/51    37/57    35/54    33/45    31/52    32/53    
+      /00    00/00    10/30    00/50    40/30    10/20    10/10   
+
+Fargo
+   Sunny    Sunny    Mocldy   Ptcldy   Mocldy   Ptcldy   Ptcldy   
+     /48    26/51    29/51    34/53    35/47    31/48    33/49    
+      /00    00/00    00/40    70/40    40/40    20/30    20/30   
+
+Grand Forks
+   Sunny    Sunny    Shwrs    Ptcldy   Ptcldy   Ptcldy   Ptcldy   
+     /46    25/50    26/48    32/51    32/46    29/48    31/48    
+      /00    00/00    00/60    60/40    40/30    20/30    20/20   
+
+Hettinger
+   Sunny    Mocldy   Mocldy   Ptcldy   Mocldy   Ptcldy   Ptcldy   
+     /55    28/50    36/61    36/59    33/47    30/53    32/54    
+      /00    00/10    10/20    00/40    40/20    10/10    10/10   
+
+Jamestown
+   Sunny    Sunny    Shwrs    Ptcldy   Mocldy   Ptcldy   Ptcldy   
+     /45    20/44    26/50    32/52    31/44    28/48    29/48    
+      /00    00/00    10/60    40/40    40/40    20/20    20/20   
+
+Minot
+   Sunny    Ptcldy   Shwrs    Shwrs    Ptcldy   Ptcldy   Ptcldy   
+     /49    24/51    35/55    35/52    33/48    32/52    32/51    
+      /00    00/00    10/60    10/50    40/30    20/20    10/10   
+
+Williston
+   Sunny    Ptcldy   Mocldy   Shwrs    Mocldy   Ptcldy   Sunny    
+     /49    27/51    37/53    35/50    32/46    31/51    31/51    
+      /00    00/00    20/40    10/50    40/30    10/20    10/10   
+
+
+$$
+

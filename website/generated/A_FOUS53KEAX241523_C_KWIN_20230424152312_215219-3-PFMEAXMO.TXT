@@ -1,0 +1,346 @@
+FOUS53 KEAX 241523
+PFMEAX
+
+Point Forecast Matrices
+National Weather Service Kansas City/Pleasant Hill MO
+1022 AM CDT Mon Apr 24 2023
+
+MOZ028-242200-
+Kansas City Intl Airport-Platte MO
+39.30N  94.73W Elev. 1000 ft
+1022 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      66          45          61          44          65
+Temp                   62 66 64 55 52 47 46 53 57 60 60 51 49 45 44 52 61 64 62
+Dewpt                  34 35 36 35 36 38 39 41 42 41 40 38 39 38 38 40 41 40 39
+RH                     35 32 35 47 54 71 76 64 57 49 47 61 68 76 79 63 48 41 43
+Wind dir               SW SW SW  S SW SW  S  S  S SE  E  E  E  E  E  E  E  E  E
+Wind spd               13 13 11  8 11 10  8  9  6  9  8  8 12 11 13 13 13 13 12
+Clouds                 B1 B1 OV B2 SC FW B1 B1 B1 B1 B1 OV B1 B1 B2 B1 B1 B1 B1
+PoP 12hr                      5           5           5           5          10
+QPF 12hr                      0           0           0           0        0.01
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                                    S
+Wind chill                                                    39 37            
+Min chill                                39                      36            
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          44    64      47    58      41    55      39    61
+Temp          49 44 59 62   51 48 56 53   44 41 49 54   44 39 56 58
+Dewpt         38 39 45 43   43 44 45 43   39 36 38 34   33 33 36 35
+PWind dir         E    SE       S     W      NW    NW      NW    NW
+Wind char        GN    GN      GN    GN      BZ    BZ      BZ    BZ
+Avg clouds    B1 B1 B1 B1   B1 B1 B2 B2   B2 B2 B1 B1   SC SC SC SC
+PoP 12hr         20    10      20    50      40    30      20    20
+Rain shwrs     S  S             S  C  C    C  C  C  S    S     S  S
+
+$$
+MOZ037-242200-
+Downtown Kansas City-Jackson MO
+39.12N  94.60W Elev. 735 ft
+1022 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      67          46          62          44          66
+Temp                   62 66 64 56 53 48 46 54 59 61 61 53 49 45 44 52 61 65 62
+Dewpt                  33 33 34 36 37 39 40 41 42 41 40 40 40 40 40 41 41 40 39
+RH                     33 29 32 47 54 71 79 61 53 48 46 61 71 82 86 66 48 40 43
+Wind dir               SW SW SW  S SW SW  S  S  S SE  E  E  E  E  E  E  E  E  E
+Wind spd               11 11 11  9 11 10  9  8  6  8  6  6 11 10 12 12 13 12 11
+Clouds                 B1 B2 B2 B2 B1 SC SC B1 B1 B1 B1 B2 B2 B1 B2 B1 B1 B1 B2
+PoP 12hr                      5           5           5           5          10
+QPF 12hr                      0           0           0           0        0.03
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                                    S
+Wind chill                                                       38            
+Min chill                                                        38            
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          45    64      47    59      42    55      40    61
+Temp          51 45 59 61   51 47 56 53   47 42 52 53   45 40 57 58
+Dewpt         40 40 45 45   45 44 46 45   41 38 38 36   36 34 37 35
+PWind dir         E    SE       S     W      NW    NW      NW    NW
+Wind char        GN    GN      GN    GN      BZ    BZ      BZ    BZ
+Avg clouds    B2 B1 B1 B1   B1 B1 B2 B2   B2 B1 B1 B1   SC SC SC SC
+PoP 12hr         20    20      20    50      40    30      20    20
+Rain shwrs     S  S  S          S  C  C    C  C  C  C    S     S  S
+
+$$
+KSZ105-242200-
+Olathe-Johnson KS
+38.83N  94.73W Elev. 994 ft
+1022 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      66          45          60          43          64
+Temp                   63 66 63 55 51 47 45 53 57 59 59 51 47 44 44 52 61 63 60
+Dewpt                  34 34 35 35 36 40 40 41 42 41 41 39 39 39 40 41 41 41 39
+RH                     34 30 35 47 56 76 82 64 57 51 51 63 74 82 86 66 48 44 46
+Wind dir               SW SW  S  S SW  S  S  S  S SE SE  E  E  E  E  E  E  E  E
+Wind spd               12 12 10  9 12 10 10 10  9 10  8  5  9 10 11 13 13 13 12
+Clouds                 SC B2 B2 B2 B1 B1 SC B1 B2 B2 B1 B2 B2 B2 B2 B1 B1 B2 B2
+PoP 12hr                      5           5          10           5          20
+QPF 12hr                      0           0           0           0        0.12
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                              S  S  S
+Wind chill                                                    38 38            
+Min chill                                39                      36    39      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          44    63      46    59      41    55      39    61
+Temp          49 44 58 60   49 46 56 53   45 41 52 53   44 39 57 59
+Dewpt         40 40 46 45   44 44 46 44   40 37 38 35   35 34 37 35
+PWind dir         E    SE       S     W      NW    NW      NW    NW
+Wind char        GN    GN      GN    GN      BZ    BZ      BZ    BZ
+Avg clouds    B2 B1 B1 B1   B1 B1 B2 B2   B2 B1 B1 B1   SC SC FW SC
+PoP 12hr         30    20      20    50      30    30      10    20
+Rain shwrs     S  C  S          S  C  C    C  C  C  C          S   
+
+$$
+MOZ020-242200-
+St Joseph-Buchanan MO
+39.77N  94.92W Elev. 971 ft
+1022 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      67          43          62          42          65
+Temp                   62 67 64 54 49 45 44 53 59 60 61 51 48 44 43 52 61 64 62
+Dewpt                  36 35 35 36 37 38 39 42 42 41 41 39 39 37 36 39 40 38 37
+RH                     38 30 34 50 63 76 82 66 53 49 48 63 71 76 76 61 46 38 39
+Wind dir               SW SW SW SW SW SW  S  S  S SE  E  E  E  E  E  E  E  E  E
+Wind spd               12 12 10  8 10  8  4  8  5  8  6 10 11 11 13 12 13 12 10
+Clouds                 B2 B2 B2 B2 FW FW B1 B1 B1 B1 B1 B2 B2 B2 B2 B1 B1 B1 B1
+PoP 12hr                      5           5           5           0          10
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Wind chill                                                    37 35            
+Min chill                                39                      34    38      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          42    65      47    58      40    55      39    61
+Temp          46 42 62 62   49 47 55 53   44 40 52 54   43 39 56 58
+Dewpt         37 37 44 43   43 43 45 41   38 36 38 35   33 33 36 35
+PWind dir         E     S       S    NW      NW    NW      NW    NW
+Wind char        GN    GN      GN    GN      BZ    BZ      BZ    BZ
+Avg clouds    B1 SC B1 B1   B1 B2 B2 B2   B2 B2 B1 B1   B1 SC SC SC
+PoP 12hr         10    10      20    50      30    30      10    20
+Rain shwrs                      S  C  C    C  C  C  S       S  S   
+
+$$
+MOZ023-242200-
+Chillicothe-Livingston MO
+39.82N  93.58W Elev. 761 ft
+1022 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      66          42          63          43          64
+Temp                   60 66 64 54 49 44 42 53 61 62 61 53 48 45 43 51 61 64 62
+Dewpt                  32 34 36 36 35 36 37 42 42 40 42 39 37 36 35 37 38 37 35
+RH                     35 30 35 50 58 73 82 66 49 44 49 59 65 70 73 59 42 37 36
+Wind dir                S SW  S SW SW SW  W SW SW SE  E  E  E  E  E  E  E  E  E
+Wind spd               13 13  9  8  8  8  4  6  5  6  6 12 11 10 13 14 13 12 11
+Clouds                 B1 B2 B2 B2 B1 SC SC B1 B1 B1 B1 B2 B2 B1 B2 B1 SC SC B1
+PoP 12hr                     10          10          10           0           5
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Wind chill                                                    39 36            
+Min chill                                38                      36            
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          42    65      45    61      41    55      40    60
+Temp          47 42 60 62   49 45 59 56   46 41 51 54   45 40 56 57
+Dewpt         34 35 42 40   40 41 44 41   39 37 38 35   34 33 36 33
+PWind dir         E    SE       S     W      NW    NW      NW    NW
+Wind char        GN    GN      GN    GN      GN    BZ      BZ    BZ
+Avg clouds    B1 SC B1 B1   B1 B1 B2 B2   B2 B2 B2 B1   B1 SC B1 SC
+PoP 12hr         10    10      20    50      40    40      20    20
+Rain shwrs                      S  C  C    C  C  C  C    S  S  S  S
+
+$$
+MOZ045-242200-
+Sedalia-Pettis MO
+38.70N  93.18W Elev. 899 ft
+1022 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      65          44          63          42          65
+Temp                   61 64 62 53 51 46 44 56 62 62 61 51 48 44 42 54 63 64 61
+Dewpt                  30 31 35 34 33 36 38 40 39 38 39 37 39 38 39 41 40 39 39
+RH                     31 29 36 48 50 68 79 55 43 41 44 59 71 79 89 61 43 40 44
+Wind dir               SW SW  S  S SW SW  S  S  S SE SE  E  E  E  E  E  E  E  E
+Wind spd               10 10  6  8 12 11  6  9  6  8  5  5  8  6 10 13 13 13 11
+Clouds                 SC SC B2 B2 B2 B1 FW FW SC B1 B2 B2 B2 B1 B1 B1 B1 B1 B2
+PoP 12hr                      5           5           5           5          10
+QPF 12hr                      0           0           0           0        0.04
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                                    S
+Wind chill                                                       36            
+Min chill                                                        35    39      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          44    62      44    63      42    54      39    59
+Temp          49 44 59 59   48 44 60 57   48 43 51 52   45 39 55 55
+Dewpt         39 38 43 43   43 43 46 43   43 39 40 37   35 34 36 35
+PWind dir         E     E       S     W      NW    NW      NW    NW
+Wind char        GN    GN      LT    GN      GN    BZ      BZ    BZ
+Avg clouds    B2 B1 B1 B1   B1 B1 B1 B2   B2 B2 B2 B1   B1 SC SC SC
+PoP 12hr         20    20      10    50      40    40      20    20
+Rain shwrs     S  S  S  S          C  C    C  C  C  C    S     S  S
+
+$$
+MOZ017-242200-
+Kirksville-Adair MO
+40.10N  92.52W Elev. 935 ft
+1022 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      61          41          61          39          62
+Temp                   56 60 58 49 46 43 41 53 60 60 56 47 44 40 39 48 59 62 58
+Dewpt                  30 32 35 37 37 37 38 42 42 42 42 37 35 33 33 34 34 33 32
+RH                     37 35 42 63 71 79 89 66 51 51 59 68 70 76 79 58 39 33 37
+Wind dir                S SW  S  E  E  S  W  W NW NE NE NE NE  E  E  E  E  E  E
+Wind spd               13 13  8  8  8  8  8 10  8  8 10 10 11 11 13 14 13 12 10
+Clouds                 B2 B2 B2 OV B1 B1 SC B1 B1 B1 B1 B1 B1 B1 B1 SC SC SC SC
+PoP 12hr                     20          30          10           0           5
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                    C  C                                             
+Wind chill                                                 38 32 31            
+Min chill                                36    39          38    31    35      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          38    65      43    62      40    54      38    57
+Temp          43 38 61 61   46 43 60 55   45 40 51 51   42 38 53 54
+Dewpt         31 32 38 38   39 40 43 41   41 37 38 35   35 34 36 33
+PWind dir         E    SE       S    SW      NW    NW      NW    NW
+Wind char        GN    GN      GN    GN      GN    BZ      BZ    BZ
+Avg clouds    B1 SC SC B1   B1 B1 B1 B2   B2 B2 B2 B1   B1 B1 B1 B1
+PoP 12hr          5    10      10    50      40    50      30    30
+Rain shwrs                         C  C    C  C  C  C    C  S  C  C
+
+$$
+MOZ002-242200-
+Maryville-Nodaway MO
+40.35N  92.83W Elev. 1099 ft
+1022 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      66          41          61          41          64
+Temp                   60 66 63 52 48 43 41 50 58 60 58 51 48 43 41 50 60 63 62
+Dewpt                  36 36 37 37 37 37 38 42 43 43 43 39 37 35 34 37 40 38 36
+RH                     41 33 38 56 65 79 89 74 57 53 57 63 65 73 76 61 47 39 38
+Wind dir               SW SW SW SW SW  S SE  S SE  E  E  E  E  E  E  E  E  E  E
+Wind spd               10 12 10  8  9  5  4  5  5  8 10 11 12 11 13 13 12 11 10
+Clouds                 B1 B1 B2 B1 SC SC SC B1 B1 B1 B1 B2 B2 B2 B1 B1 SC B1 SC
+PoP 12hr                     20          10          10           0           5
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Wind chill                                                    36 34            
+Min chill                                38                      33    37      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          42    66      47    56      40    55      39    60
+Temp          46 42 63 63   51 47 54 52   45 40 51 54   43 40 56 57
+Dewpt         35 35 43 43   41 43 44 39   36 35 38 35   33 32 36 33
+PWind dir         E     S       S    NW      NW    NW      NW    NW
+Wind char        GN    GN      GN    GN      BZ    BZ      BZ    BZ
+Avg clouds    B1 SC SC B1   B1 B2 B2 B2   B2 B2 B1 B1   B1 SC SC SC
+PoP 12hr          5    10      30    50      30    30      20    20
+Rain shwrs                      C  C  C    C  C  C  S    S  S  S  S
+
+$$
+MOZ054-242200-
+Clinton-Henry MO
+38.40N  93.77W Elev. 718 ft
+1022 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      66          45          62          42          66
+Temp                   63 65 63 54 51 46 45 54 60 61 60 50 47 44 43 55 63 65 62
+Dewpt                  30 32 36 35 35 39 39 41 40 39 39 38 39 38 40 41 40 39 39
+RH                     29 29 36 48 54 76 79 61 47 44 46 63 74 79 89 59 43 38 43
+Wind dir               SW SW  S  S  S SW  S  S  S SE SE  E  E  E NE  E  E  E  E
+Wind spd               10 10  8  8 12 11  6 10  8  8  5  5  5  5  9 13 13 13 12
+Clouds                 FW B1 B2 B2 B2 B1 SC FW B1 B1 B2 B2 B2 B1 B2 B1 B1 B1 B2
+PoP 12hr                      5           5           5          10          20
+QPF 12hr                      0           0           0           0        0.16
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                              S  S  S
+Wind chill                                                       37            
+Min chill                                39                      36            
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          45    63      45    64      42    56      39    62
+Temp          50 45 59 59   50 45 62 57   48 42 52 53   44 39 58 58
+Dewpt         41 41 44 44   44 44 47 45   43 39 39 36   35 34 36 35
+PWind dir         E     E      SE     W      NW    NW      NW    NW
+Wind char        GN    GN      LT    GN      GN    BZ      GN    BZ
+Avg clouds    B2 B1 B2 B1   B1 B1 B1 B2   B2 B2 B2 B1   SC SC SC SC
+PoP 12hr         30    20      10    50      40    40      10    20
+Rain shwrs     S  C  S  S          C  C    C  C  C  C    S  S  S  S
+
+$$

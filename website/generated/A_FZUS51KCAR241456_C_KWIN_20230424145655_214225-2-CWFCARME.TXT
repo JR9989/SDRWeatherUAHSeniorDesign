@@ -1,0 +1,98 @@
+FZUS51 KCAR 241456
+CWFCAR
+
+Coastal Waters Forecast for Maine
+National Weather Service Caribou ME
+1056 AM EDT Mon Apr 24 2023
+
+ANZ005-250300-
+1056 AM EDT Mon Apr 24 2023
+
+.Synopsis for Eastport ME to Stonington ME Out 25 NM...
+A trof will approach today, then slowly cross the region through 
+mid week. High pres will build toward the area Thu night through
+Sat.
+
+$$
+
+ANZ050-250300-
+Coastal Waters from Eastport, ME to Schoodic Point, ME out 25 NM-
+1056 AM EDT Mon Apr 24 2023
+
+...SMALL CRAFT ADVISORY IN EFFECT UNTIL 8 PM EDT THIS EVENING...
+
+.THIS AFTERNOON...E winds 15 to 20 kt, diminishing to 10 to 15 kt.
+Gusts up to 25 kt. Seas 4 to 6 ft. Scattered showers. Vsby 1 to 3
+NM. 
+.TONIGHT...SE winds 10 to 15 kt with gusts up to 25 kt. Seas 3 to
+5 ft. Scattered showers. Vsby 1 to 3 NM after midnight. 
+.TUE...SE winds 10 to 15 kt with gusts up to 20 kt. Seas 2 to 4 
+ft. A chance of showers. Vsby 1 to 3 NM until mid morning. 
+.TUE NIGHT...SE winds 5 to 10 kt. Gusts up to 20 kt in the
+evening. Seas 2 to 4 ft. A chance of showers. 
+.WED...SE winds around 5 kt. Seas around 2 ft. A chance of
+showers in the morning. 
+.WED NIGHT...SW winds around 5 kt. Seas around 1 foot. 
+.THU...SW winds 5 to 10 kt, becoming NW after midnight. Seas
+around 1 foot. 
+.FRI...NE winds around 10 kt, becoming SE in the afternoon, then
+becoming SW in the evening, becoming N after midnight. Seas
+1 foot, then around 2 ft. 
+
+$$
+
+ANZ051-250300-
+Coastal Waters from Schoodic Point, ME to Stonington, ME out
+25 NM-
+1056 AM EDT Mon Apr 24 2023
+
+...SMALL CRAFT ADVISORY IN EFFECT UNTIL 8 PM EDT THIS EVENING...
+
+.THIS AFTERNOON...E winds 15 to 20 kt with gusts up to 25 kt. 
+Seas 5 to 7 ft. Rain likely. Vsby 1 to 3 NM. 
+.TONIGHT...SE winds 15 to 20 kt with gusts up to 25 kt. Seas 4 to
+6 ft. Scattered showers. Vsby 1 to 3 NM. 
+.TUE...SE winds 10 to 15 kt with gusts up to 20 kt. Seas 3 to 4 
+ft. Patchy fog until mid morning. A chance of showers. Vsby 1 to 
+3 NM until mid morning. 
+.TUE NIGHT...SE winds 5 to 10 kt. Seas 2 to 3 ft. A chance of
+showers. 
+.WED...SE winds around 5 kt. Seas around 2 ft. A chance of
+showers in the morning. 
+.WED NIGHT...SW winds around 5 kt. Seas around 2 ft. 
+.THU...SW winds 5 to 10 kt, becoming NW after midnight. Seas
+around 1 foot. 
+.FRI...NE winds around 10 kt, becoming SE in the afternoon, then
+becoming S in the evening, becoming N after midnight. Seas 1 foot,
+then around 2 ft. 
+
+$$
+
+ANZ052-250300-
+Intra Coastal Waters from Schoodic Point, ME to Stonington, ME-
+1056 AM EDT Mon Apr 24 2023
+
+...SMALL CRAFT ADVISORY IN EFFECT UNTIL 6 PM EDT THIS EVENING...
+
+.THIS AFTERNOON...E winds 15 to 20 kt with gusts up to 25 kt. 
+Seas 4 to 6 ft. Rain likely. Vsby 1 to 3 NM. 
+.TONIGHT...SE winds 10 to 15 kt with gusts up to 20 kt. Seas 2 to
+4 ft. Rain likely in the evening, then showers likely after
+midnight. Patchy fog. Vsby 1 to 3 NM. 
+.TUE...E winds 10 to 15 kt with gusts up to 20 kt. Seas 2 to
+3 ft. Patchy fog until mid morning. Showers likely, mainly in the
+morning. Vsby 1 to 3 NM until mid morning. 
+.TUE NIGHT...E winds 5 to 10 kt. Seas around 2 ft. A chance of
+showers. 
+.WED...SE winds around 5 kt. Seas 1 foot or less. A chance of
+showers in the morning. 
+.WED NIGHT...SW winds around 5 kt. Seas 1 foot or less. 
+.THU...SW winds 5 to 10 kt, becoming NW after midnight. Seas
+1 foot or less. 
+.FRI...NE winds 5 to 10 kt, becoming SE in the afternoon, then
+becoming SW in the evening, becoming N after midnight. Seas
+1 foot or less, then around 2 ft.  
+
+$$
+
+Norcross

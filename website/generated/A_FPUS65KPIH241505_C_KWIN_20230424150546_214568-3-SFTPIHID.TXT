@@ -1,0 +1,186 @@
+FPUS65 KPIH 241505
+SFTPIH
+IDZ051>75-250000-
+
+Tabular State Forecast for Southeast Idaho
+National Weather Service Pocatello ID
+905 AM MDT Mon Apr 24 2023
+
+ROWS INCLUDE...
+   Daily predominant daytime weather 6AM-6PM
+   Forecast temperatures...early morning low/daytime high
+         Probability of precipitation nighttime 6PM-6AM/daytime 6AM-6PM
+          - indicates temperatures below zero
+         MM indicates missing data
+
+
+   FCST     FCST     FCST     FCST     FCST     FCST     FCST     
+   Today    Tue      Wed      Thu      Fri      Sat      Sun      
+   Apr 24   Apr 25   Apr 26   Apr 27   Apr 28   Apr 29   Apr 30   
+
+...CENTRAL IDAHO MOUNTAINS...
+   Arco
+   Snoshwr  Sunny    Sunny    Ptcldy   Sunny    Sunny    Sunny    
+     /48    27/50    28/52    30/60    31/57    32/62    36/64    
+      /60    60/00    00/00    00/00    10/00    00/00    00/10   
+
+   Carey
+   Shwrs    Sunny    Sunny    Ptcldy   Sunny    Sunny    Sunny    
+     /51    29/53    33/56    35/65    37/60    37/65    41/69    
+      /60    30/00    00/00    00/00    00/00    00/00    00/00   
+
+   Challis
+   Shwrs    Sunny    Sunny    Ptcldy   Ptcldy   Sunny    Sunny    
+     /57    31/59    30/65    35/65    37/62    37/68    41/70    
+      /90    40/00    00/00    00/00    00/00    00/00    00/00   
+
+   Hailey
+   Shwrs    Sunny    Sunny    Ptcldy   Sunny    Sunny    Sunny    
+     /50    31/54    33/58    37/62    38/59    39/65    42/68    
+      /50    30/00    00/00    00/00    00/00    00/00    00/00   
+
+   Mackay
+   Snoshwr  Sunny    Sunny    Ptcldy   Sunny    Sunny    Sunny    
+     /46    26/47    31/52    35/54    33/52    34/57    38/58    
+      /90    70/00    00/00    00/00    10/00    00/00    00/10   
+
+   Stanley
+   Snoshwr  Sunny    Sunny    Ptcldy   Sunny    Sunny    Sunny    
+     /46    16/51    20/57    25/61    26/63    27/66    30/66    
+      /90    50/00    00/00    00/00    00/00    00/00    00/10   
+
+   Sun Valley/Ketchum
+   Shwrs    Sunny    Sunny    Ptcldy   Sunny    Sunny    Sunny    
+     /51    27/55    30/59    33/64    33/62    34/66    37/68    
+      /70    40/00    00/00    00/00    00/00    00/00    00/10   
+
+...SNAKE RIVER VALLEY...
+   American Falls
+   Tstrms   Ptcldy   Sunny    Ptcldy   Sunny    Sunny    Sunny    
+     /56    35/57    36/61    40/67    42/63    40/69    45/74    
+      /80    40/00    00/00    00/00    10/00    00/00    00/10   
+
+   Blackfoot
+   Tstrms   Ptcldy   Sunny    Ptcldy   Sunny    Sunny    Sunny    
+     /56    34/58    32/62    35/65    39/63    36/67    41/71    
+      /90    60/00    00/00    00/00    10/00    00/00    00/10   
+
+   Burley
+   Tstrms   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+     /58    34/60    35/66    38/71    43/68    41/74    45/79    
+      /60    40/00    00/00    00/00    00/00    00/00    00/00   
+
+   Dubois
+   Snoshwr  Ptcldy   Sunny    Ptcldy   Sunny    Sunny    Sunny    
+     /47    31/54    27/58    30/59    32/57    32/61    36/65    
+      /80    70/00    00/00    00/10    10/00    00/00    00/10   
+
+   Idaho Falls
+   Tstrms   Ptcldy   Sunny    Ptcldy   Sunny    Sunny    Sunny    
+     /54    32/58    30/61    34/64    35/60    33/65    37/69    
+      /90    70/00    00/00    00/00    10/00    00/00    00/00   
+
+   INEEL
+   Shwrs    Ptcldy   Sunny    Ptcldy   Sunny    Sunny    Sunny    
+     /54    30/56    30/59    32/63    34/60    32/65    37/68    
+      /70    70/00    00/00    00/00    10/00    00/00    00/10   
+
+   Mud Lake
+   Tstrms   Ptcldy   Sunny    Ptcldy   Sunny    Sunny    Sunny    
+     /54    30/59    29/61    31/63    34/60    31/64    35/68    
+      /80    70/00    00/00    00/10    10/00    00/00    00/10   
+
+   Pocatello
+   Tstrms   Ptcldy   Sunny    Sunny    Sunny    Sunny    Sunny    
+     /57    35/58    35/63    39/67    40/63    39/70    44/73    
+      /90    50/00    00/00    00/00    10/00    00/00    00/10   
+
+   Rigby
+   Tstrms   Ptcldy   Sunny    Ptcldy   Sunny    Sunny    Sunny    
+     /53    32/58    31/61    34/63    34/60    32/64    37/67    
+      /90    70/00    00/00    00/10    10/00    00/00    00/10   
+
+   Rexburg
+   Tstrms   Ptcldy   Sunny    Ptcldy   Sunny    Sunny    Sunny    
+     /49    29/56    30/59    32/61    31/57    30/62    35/65    
+      /90    70/00    00/00    00/10    10/00    00/00    00/10   
+
+   Rupert
+   Tstrms   Sunny    Sunny    Ptcldy   Sunny    Sunny    Sunny    
+     /58    35/60    35/66    38/71    44/67    41/74    45/78    
+      /60    40/00    00/00    00/00    00/00    00/00    00/00   
+
+   Shoshone
+   Ptcldy   Sunny    Sunny    Ptcldy   Sunny    Sunny    Sunny    
+     /58    32/61    34/65    39/72    43/69    42/75    45/80    
+      /40    20/00    00/00    00/00    00/00    00/00    00/00   
+
+   St. Anthony
+   Tstrms   Ptcldy   Sunny    Ptcldy   Sunny    Sunny    Sunny    
+     /46    27/53    26/57    29/59    28/57    27/60    32/64    
+      /90    70/00    00/00    00/10    10/00    00/00    00/10   
+
+...SOUTHEAST IDAHO MOUNTAINS...
+   Ashton
+   Shwrs    Ptcldy   Sunny    Ptcldy   Sunny    Sunny    Sunny    
+     /44    27/49    26/51    30/56    27/54    27/57    32/60    
+      /90    70/10    00/00    00/10    10/00    00/00    00/10   
+
+   Downey
+   Tstrms   Ptcldy   Sunny    Ptcldy   Sunny    Sunny    Sunny    
+     /50    28/50    28/58    31/60    33/57    31/62    36/66    
+      /90    60/10    00/00    00/00    10/10    00/00    00/10   
+
+   Driggs
+   Snoshwr  Mocldy   Sunny    Ptcldy   Ptcldy   Sunny    Sunny    
+     /43    25/44    24/47    31/54    26/52    27/55    32/58    
+      /90    60/20    00/00    00/10    10/10    00/00    00/10   
+
+   Island Park
+   Snoshwr  Ptcldy   Sunny    Ptcldy   Ptcldy   Sunny    Sunny    
+     /44    24/52    21/55    25/56    23/53    24/58    27/60    
+      /90    70/10    00/00    00/20    20/10    00/00    00/10   
+
+   Lava Hot Springs
+   Tstrms   Ptcldy   Sunny    Sunny    Sunny    Sunny    Sunny    
+     /44    29/44    27/51    30/55    33/52    31/57    34/61    
+      /90    60/10    00/00    00/00    10/10    00/00    00/10   
+
+   Malad
+   Tstrms   Ptcldy   Sunny    Sunny    Sunny    Sunny    Sunny    
+     /55    30/54    30/61    33/62    36/60    34/63    40/68    
+      /90    60/10    00/00    00/00    10/10    00/00    00/10   
+
+   Malta
+   Tstrms   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+     /62    34/62    33/70    36/72    41/68    40/73    45/78    
+      /80    50/00    00/00    00/00    00/00    00/00    00/00   
+
+   Montpelier
+   Tstrms   Mocldy   Sunny    Ptcldy   Ptcldy   Sunny    Sunny    
+     /41    22/40    22/45    25/52    27/50    25/52    29/55    
+      /90    70/20    00/00    00/00    10/10    00/00    00/10   
+
+   Oakley
+   Tstrms   Sunny    Sunny    Sunny    Sunny    Sunny    Sunny    
+     /61    34/62    34/68    38/72    44/68    43/75    47/79    
+      /70    50/00    00/00    00/00    00/00    00/00    00/00   
+
+   Preston
+   Tstrms   Mocldy   Sunny    Sunny    Sunny    Sunny    Sunny    
+     /53    29/49    28/58    31/60    35/57    32/61    38/65    
+      /90    70/20    00/00    00/00    10/10    00/00    00/10   
+
+   Soda Springs
+   Tstrms   Mocldy   Sunny    Sunny    Sunny    Sunny    Sunny    
+     /39    24/38    23/43    27/52    28/49    27/53    31/56    
+      /90    60/30    00/00    00/10    10/10    00/00    00/10   
+
+   Swan Valley
+   Tstrms   Mocldy   Sunny    Ptcldy   Ptcldy   Sunny    Sunny    
+     /48    28/51    29/56    31/58    31/55    31/60    34/61    
+      /90    60/20    00/00    00/10    10/10    00/00    00/10   
+
+
+$$
+

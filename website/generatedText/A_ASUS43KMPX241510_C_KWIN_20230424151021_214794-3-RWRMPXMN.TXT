@@ -1,0 +1,166 @@
+ASUS43 KMPX 241510
+RWRMN 
+WEATHER ROUNDUP FOR MINNESOTA
+NATIONAL WEATHER SERVICE TWIN CITIES/CHANHASSEN MN
+1000 AM CDT MON APR 24 2023
+
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY. N/A MEANS
+CURRENT SKY AND/OR WEATHER CONDITIONS ARE NOT AVAILABLE.
+
+MNZ060>063-068>070-241600-
+   Twin Cities Metro   
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+TWIN CITIES    MOSUNNY   43  30  60 N6        30.15S                  
+ST PAUL        PTSUNNY   42  30  62 N5        30.16S                  
+CRYSTAL        MOSUNNY   40  29  64 W3        30.14S                  
+BLAINE         PTSUNNY   41  30  65 CALM      30.14F                  
+LAKEVILLE      SUNNY     41  27  56 NW3       30.15S                  
+EDEN PRAIRIE   PTSUNNY   42  28  57 VRB6      30.14S                  
+SOUTH ST PAUL  PTSUNNY   40  28  62 N3        30.15S                  
+LAKE ELMO      PTSUNNY   39  30  70 CALM      30.16S                  
+$$
+MNZ001>005-007-008-013>017-022>024-027-028-241600-
+   Northwest Minnesota   
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BEMIDJI        MOSUNNY   36  22  56 CALM      30.15S                  
+HALLOCK        CLOUDY    34  28  80 N3        30.20S                  
+ROSEAU         SUNNY     36  27  69 CALM      30.18S                  
+WARROAD        PTSUNNY   37  25  60 NW7       30.18R                  
+THIEF RVR FALL MOSUNNY   36  24  62 NE7       30.19S                  
+CROOKSTON      SUNNY     37  27  65 NE7       30.19S                  
+FOSSTON        SUNNY     32  27  80 N5        30.17S WCI  27          
+DETROIT LAKES  SUNNY     36  27  69 N6        30.15F                  
+MOORHEAD       SUNNY     36  30  80 NE5       30.19S                  
+PARK RAPIDS    SUNNY     37  22  54 N3        30.14S                  
+MAHNOMEN       FAIR      35  30  82 NE3       30.16F                  
+$$
+MNZ006-009>011-018-025>026-241600-
+   North Central Minnesota   
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BAUDETTE       CLOUDY    38  25  59 MISG      30.17R                  
+FLAG ISLAND    SUNNY     32  21  64 CALM      30.18R                  
+INTL FALLS     MOSUNNY   33  21  61 SE8       30.16S WCI  26          
+WASKISH        SUNNY     36  28  75 CALM      30.16S                  
+BIG FORK       SUNNY     39  19  45 CALM      30.19S                  
+LONGVILLE      SUNNY     36  19  51 N3        30.15S                  
+GRAND RAPIDS   SUNNY     37  22  54 NW6       30.16F                  
+CRANE LAKE     SUNNY     34  21  60 NE3       30.20S                  
+ORR            MOSUNNY   37  19  48 CALM      30.13S                  
+COOK           SUNNY     36  16  44 NE5       30.15S                  
+WALKER         CLOUDY    33  23  64 N5        30.15S WCI  29          
+$$
+MNZ012-019>021-037-241600-
+   Northeast Minnesota   
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+DULUTH         CLOUDY    35  23  61 E6        30.14R WCI  30          
+ELY            SUNNY     32  21  64 CALM      30.16S                  
+HIBBING        SUNNY     36  16  44 CALM      30.14S                  
+EVELETH        SUNNY     37  19  48 CALM      30.15S                  
+DULUTH HARBOR  CLOUDY    36  30  80 NE14      30.18R                  
+TWO HARBORS    SUNNY     36  23  60 E7        30.15S                  
+GRAND MARAIS     N/A     34  26  72 SE6       30.20R WCI  29          
+G MARAIS ARPRT SUNNY     30  16  55 N9        30.13R WCI  22          
+$$
+MNZ029>031-032-039>041-046>048-054>057-064-241600-
+   West Central Minnesota   
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+FERGUS FALLS   SUNNY     37  28  70 E5        30.15S                  
+WHEATON        SUNNY     37  30  75 N6        30.19S                  
+MORRIS         SUNNY     37  27  65 N7        30.17R                  
+ALEXANDRIA     SUNNY     38  24  57 N7        30.15S                  
+ELBOW LAKE     FAIR      35  35 100 NE5       30.17S WCI  31          
+WADENA         SUNNY     37  21  52 N3        30.15S                  
+GLENWOOD       SUNNY     37  28  70 N9        30.15S                  
+APPLETON         N/A     39  25  56 NE6       30.17R                  
+BENSON         SUNNY     37  30  75 CALM      30.17S                  
+ORTONVILLE     MOSUNNY   37  27  65 NE6       30.16S                  
+MADISON        MOSUNNY   41  30  65 NE7       30.18R                  
+WILLMAR        FAIR      39  28  65 N8        30.18F                  
+$$
+MNZ033>034-036-042>043-049>051-058-059-241600-
+   Central Minnesota     
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ST CLOUD       MOSUNNY   42  26  53 N7        30.14F                  
+SAUK CENTRE    FAIR      37  27  67 N3        30.15S                  
+PAYNESVILLE    SUNNY     34  32  93 N5        30.16S WCI  30          
+AITKIN         SUNNY     39  25  56 CALM      30.14F                  
+PINE RIVER     SUNNY     37  19  48 N8        30.18S                  
+BRAINERD       SUNNY     39  22  50 NE7       30.15S                  
+STAPLES        SUNNY     37  21  52 CALM      30.15S                  
+LONG PRAIRIE   FAIR      34  27  75 N5        30.15F WCI  30          
+LITTLE FALLS   SUNNY     37  23  56 N3        30.14F                  
+CAMP RIPLEY    FAIR      40  22  48 NE6       30.13                   
+LITCHFIELD     SUNNY     37  30  75 NE3       30.15S                  
+BUFFALO        SUNNY     37  30  75 N6        30.15S                  
+MAPLE LAKE     SUNNY     40  29  65 N3        30.16S                  
+HUTCHINSON     MOSUNNY   40  29  64 N7        30.16F                  
+$$
+MNZ037-044-045-052-053-241600-
+   East Central Minnesota   
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PRINCETON      SUNNY     43  25  49 NW5       30.15F                  
+MORA           PTSUNNY   39  25  56 NW3       30.18S                  
+CAMBRIDGE      PTSUNNY   41  23  48 N3        30.15S                  
+RUSH CITY      MOSUNNY   45  31  57 CALM      30.15R                  
+MOOSE LAKE     MOSUNNY   37  27  65 CALM      30.15S                  
+HINCKLEY       CLOUDY    41  23  48 NE5       30.14S                  
+CLOQUET        MOSUNNY   36  21  55 NE5       30.13S                  
+MCGREGOR       MOSUNNY   37  27  65 NE3       30.15S                  
+$$
+MNZ071>073-080-081-089-090-097-098-241600-
+   Southwest Minnesota   
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MONTEVIDEO     CLOUDY    36  34  93 NE7       30.17S                  
+GRANITE FALLS  SUNNY     41  32  70 N8        30.17F                  
+CANBY          CLOUDY    38  31  73 N5        30.17S                  
+MARSHALL       CLOUDY    39  33  79 N9        30.16S                  
+REDWOOD FALLS  PTSUNNY   41  33  73 N6        30.15S                  
+OLIVIA         MOSUNNY   37  30  75 NE7       30.15S                  
+WINDOM         SUNNY     41  30  65 N9        30.13S                  
+WORTHINGTON    SUNNY     42  24  49 NE7       30.13S                  
+JACKSON        SUNNY     43  27  52 NE8       30.13S                  
+TRACY          CLOUDY    37  34  87 N9        30.15R                  
+SLAYTON        SUNNY     40  21  47 NE7       30.13S                  
+$$
+MNZ065>067-074>077-082>085-091>093-241600-
+   South Central Minnesota  
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MANKATO        PTSUNNY   40  32  73 N5        30.16S                  
+NEW ULM          N/A     39  30  70 N5        30.15S                  
+ST JAMES         N/A     39  32  75 N6        30.15S                  
+FAIRMONT       PTSUNNY   41  28  60 N3        30.15S                  
+GLENCOE        SUNNY     39  30  71 N5        30.15S                  
+FARIBAULT      CLOUDY    41  30  65 CALM      30.15S                  
+OWATONNA       PTSUNNY   39  30  70 N7        30.14F                  
+WASECA         PTSUNNY   41  32  70 CALM      30.16S                  
+ALBERT LEA       N/A     43  28  56 CALM      30.14S                  
+$$
+MNZ078>079-086>088-094>096-241600-
+   Southeast Minnesota   
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ROCHESTER      PTSUNNY   40  32  73 NW8       30.15S                  
+RED WING       PTSUNNY   41  27  56 CALM      30.15S                  
+STANTON        SUNNY     42  32  69 CALM      30.15S                  
+DODGE CENTER   MOSUNNY   39  32  75 NW6       30.14S                  
+WINONA         PTSUNNY   41  30  65 NW6       30.17S                  
+AUSTIN         SUNNY     41  30  65 CALM      30.14S                  
+$$
+ABBREVIATIONS USED IN REMARKS
+   TC - TEMPERATURES IN CELSIUS
+  WCI - WIND CHILL INDEX
+   HX - HEAT INDEX
+  VSB - VISIBILITY 
+$$
+  

@@ -1,0 +1,77 @@
+WGUS84 KLZK 241523
+FLSLZK
+
+Flood Statement
+National Weather Service Little Rock AR
+1023 AM CDT Mon Apr 24 2023
+
+...The Flood Warning continues for the following rivers in 
+Arkansas...
+
+  White River At Georgetown affecting Woodruff, White and Prairie 
+  Counties.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Motorists should not attempt to drive around barricades or drive 
+cars through flooded areas.
+
+Turn around, don't drown when encountering flooded roads. Most flood 
+deaths occur in vehicles.
+
+River forecasts are based on current conditions and rainfall 
+forecasted to occur over the next 24 hours. During periods of 
+flooding...Evening forecasts are reissued with updated rainfall 
+forecasts.
+
+Observed and forecasted stage data plots are available on our 
+Advanced Hydrologic Prediction Service web page at...
+ www.weather.gov/lzk
+
+Under the Current Conditions section...Select River and Lakes AHPS.
+
+&&
+
+
+ARC117-145-147-251530-
+/O.EXT.KLZK.FL.W.0039.000000T0000Z-230428T0000Z/
+/GEOA4.1.ER.230304T1516Z.230330T1215Z.230426T1800Z.NO/
+1023 AM CDT Mon Apr 24 2023
+
+...FLOOD WARNING NOW IN EFFECT UNTIL THURSDAY EVENING...
+
+* WHAT...Minor flooding is occurring and minor flooding is forecast.
+
+* WHERE...White River At Georgetown.
+
+* WHEN...Until Thursday evening.
+
+* IMPACTS...At 21.0 feet, Hurricane Lake Wildlife Management Area 
+  and Raft Creek Bottoms inundated. Roads in the bottoms are flooded.
+
+* ADDITIONAL DETAILS...
+  - At 9:00 AM CDT Monday the stage was 21.5 feet.
+  - Forecast...The river is expected to fall below flood stage
+    early Wednesday afternoon and continue falling to 19.5 feet
+    Thursday, May 04.
+  - Flood stage is 21.0 feet.
+
+
+&&
+
+           Fld   Observed        Forecast 1 PM      Crest           
+Location   Stg   Stg Day/Time   Tue   Wed   Thu  Crest  Time  Date  
+
+White River
+Georgetown 21.0  21.5 Mon 9 AM  21.1 21.0 20.8   *** Crested ***     
+
+
+&&
+
+LAT...LON 3500 9155 3508 9151 3514 9152 3515 9137
+      3506 9139 3498 9142
+
+
+$$
+
+53

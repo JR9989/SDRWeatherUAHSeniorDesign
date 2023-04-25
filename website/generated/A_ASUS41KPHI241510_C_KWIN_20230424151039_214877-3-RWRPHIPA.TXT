@@ -1,0 +1,93 @@
+ASUS41 KPHI 241510
+RWRPHI
+
+REGIONAL WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE MOUNT HOLLY NJ
+1100 AM EDT MON APR 24 2023
+
+NOTE:  "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+ * = STATION DOES NOT REPORT PRECIPITATION (E.G. RAIN, SNOW, ETC.) 
+        OR FOG.
+
+NJZ015>026-241600-
+SOUTHERN NEW JERSEY
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+POMONA         CLOUDY    52  35  52 N6        30.08S                  
+WILDWOOD*      CLOUDY    50  38  63 N6        30.11R                  
+MILLVILLE      CLOUDY    51  35  54 NW6       30.09F                  
+WRIGHTSTOWN    MOSUNNY   54  34  46 NW7       30.07F                  
+MOUNT HOLLY    MOSUNNY   53  33  46 VRB3      30.08S                  
+TRENTON        MOSUNNY   53  33  46 NW5       30.06F                  
+
+$$
+NJZ001>014-241600-
+NORTHERN NEW JERSEY
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+SUSSEX         MOSUNNY   53  35  50 VRB5      30.05F                  
+ANDOVER*         N/A     54  33  45 VRB5      30.05F                  
+MORRISTOWN     MOSUNNY   54  36  50 N3        30.06F                  
+NEWARK         MOSUNNY   57  33  40 VRB6      30.05F                  
+TETERBORO      SUNNY     54  36  50 NW7       30.05S                  
+CALDWELL       MOSUNNY   53  28  38 NW6       30.06F                  
+SOMERVILLE     MOSUNNY   54  33  45 N8        30.05F                  
+ALLAIRE*       CLOUDY    51  38  60 W5        30.08S                  
+
+$$
+PAZ043-044-047-054-055-060>062-066>071-241600-
+EASTERN PENNSYLVANIA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PHILADELPHIA   MOSUNNY   52  28  39 W8        30.08F                  
+NORTH PHILA    MOSUNNY   55  33  43 VRB7      30.09S                  
+BLUE BELL*     SUNNY     52  32  47 W5        30.09S                  
+DOYLESTOWN     SUNNY     54  30  40 VRB5      30.06F                  
+QUAKERTOWN*    SUNNY     52  30  43 NW8       30.07F                  
+PERKASIE*      FAIR      52  30  43 NW7       30.08S                  
+POTTSTOWN      SUNNY     50  29  44 VRB6      30.10S                  
+LANCASTER      MOSUNNY   53  35  50 VRB3      30.09F                  
+COATESVILLE      N/A    N/A N/A N/A MISG        N/A                   
+WEST CHESTER   FAIR      52  28  40 W6        30.08F                  
+READING        MOSUNNY   53  32  44 N6        30.08S                  
+ALLENTOWN      SUNNY     51  30  44 NW3       30.07S                  
+QN CITY/ALNTWN FAIR      50  32  50 W7        30.09S                  
+MOUNT POCONO   MOSUNNY   46  28  49 NW12      30.02S                  
+HAZLETON       PTSUNNY   46  30  53 NW3       30.08S                  
+LEHIGHTON      FAIR      50  28  43 W6        30.08S                  
+WILKES BARRE   CLOUDY    47  30  51 MISG      30.06S                  
+
+$$
+DEZALL-MDZ008-012-015-019-020-241600-
+DELAWARE AND EASTERN MARYLAND
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+WILMINGTON     MOSUNNY   55  31  39 VRB5      30.10S                  
+DOVER          PTSUNNY   52  31  45 CALM      30.09S                  
+CHESWOLD       MOSUNNY   52  32  46 NW5       30.09F                  
+GEORGETOWN     CLOUDY    52  36  54 VRB5      30.11R                  
+EASTON         MOSUNNY   52  32  46 NW5       30.15R                  
+STEVENSVILLE   MOSUNNY   53  31  43 N7        30.12S                  
+ABERDEEN       MOSUNNY   54  32  43 NW5       30.11S                  
+PATUXENT       PTSUNNY   56  31  38 NW6       30.12S                  
+OCEAN CITY     CLOUDY    50  41  71 NW6       30.11                   
+WALLOPS ISLAND CLOUDY    49  41  74 NW6       30.12R                  
+CAMBRIDGE      PTSUNNY   52  32  46 NW8       30.12S                  
+SALISBURY      CLOUDY    51  37  58 NW6       30.11R                  
+
+$$
+PAZ001-021-NYZ056-072-MDZ011-DCZ001-241600-
+OTHER NEARBY LOCATIONS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+HARRISBURG     MOSUNNY   52  34  50 W8        30.09F                  
+WILLIAMSPORT   PTSUNNY   49  33  54 SW10      30.07F                  
+BINGHAMTON     PTSUNNY   44  31  60 VRB7      30.03R                  
+NEW YORK CITY  SUNNY     54  33  45 NW5       30.08S                  
+BALTIMORE      MOSUNNY   56  31  38 NW10      30.10F                  
+WASHINGTON DC  MOSUNNY   54  31  41 NW7       30.13F                  
+
+$$
+  

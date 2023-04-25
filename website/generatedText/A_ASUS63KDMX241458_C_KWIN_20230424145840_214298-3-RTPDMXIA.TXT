@@ -1,0 +1,288 @@
+ASUS63 KDMX 241458
+RTPIA 
+
+Max/Min Temperature and Precipitation Table for Iowa
+National Weather Service Des Moines IA
+958 AM CDT Mon Apr 24 2023
+
+.BR DMX 0424 C DH01/DC2304240952/TAIRZX/DH07/TAIRZP/PP/SF/SD
+:
+: Values represent highs yesterday...12-hour lows...
+: and 24-hour precipitation ending at  7 AM Central Time
+:
+: ASOS...AWOS and other automated observing locations in Iowa.
+:
+: Note...Information for selected locations near Iowa
+:   is available immediately below the Iowa list.
+:
+:                            Max   Min                Snow
+:      Location             Temp  Temp   Pcpn   Snow Depth
+:
+: ...Northwestern Iowa...
+CKP  : Cherokee AWOS      :  50 /  24 /     M /      /
+EST  : Estherville ASOS   :  48 /  28 /  0.00 /      /
+LRJ  : Le Mars AWOS       :  50 /  25 /     M /      /
+SXK  : Maurice AWOS       :  48 /  28 /     M /      /
+SHL  : Sheldon AWOS       :  48 /  25 /     M /      /
+SPW  : Spencer ASOS       :  50 /  25 /  0.00 /      /
+SLB  : Storm Lake AWOS    :  48 /  28 /     M /      /
+:
+: ...North Central Iowa...
+AXA  : Algona AWOS        :  45 /  28 /     M /      /
+CCY  : Charles City AWOS  :  43 /  28 /  0.00 /      /
+CAV  : Clarion AWOS       :  45 /  28 /     M /      /
+FXY  : Forest City AWOS   :  43 /  23 /     M /      /
+HPT  : Hampton AWOS       :  46 /  28 /     M /      /
+MCW  : Mason City ASOS    :  45 /  25 /  0.00 /      /
+:
+: ...Northeastern Iowa...
+DEH  : Decorah AWOS       :  41 /  30 /  0.00 /      /
+DBQ  : Dubuque ASOS       :  44 /  26 /  0.00 /  0.0 /   0
+IIB  : Independence AWOS  :  46 /  24 /     M /      /
+OLZ  : Oelwein AWOS       :  45 /  25 /  0.00 /      /
+ALO  : Waterloo ASOS      :  49 /  23 /  0.00 /  0.0 /   0
+:
+: ...West Central Iowa...
+ADU  : Audubon AWOS       :  48 /  21 /     M /      /
+CIN  : Carroll AWOS       :  50 /  28 /     M /      /
+DNS  : Denison AWOS       :   M /   M /     M /      /
+HNR  : Harlan AWOS        :  50 /  27 /  0.00 /      /
+SUX  : Sioux City ASOS    :  53 /  27 /  0.00 /  0.0 /   0
+:
+: ...Central Iowa...
+AMW  : Ames ASOS          :  51 /  26 /  0.00 /      /
+IKV  : Ankeny AWOS        :  50 /  27 /     M /      /
+BNW  : Boone AWOS         :  48 /  28 /     M /      /
+DSM  : Des Moines ASOS    :  51 /  35 /  0.00 /  0.0 /   0
+FOD  : Fort Dodge AWOS    :  47 /  23 /  0.00 /      /
+GGI  : Grinnell AWOS      :  49 /  33 /     M /      /
+IFA  : Iowa Falls AWOS    :  46 /  31 /     M /      /
+MIW  : Marshalltown ASOS  :  48 /  26 /  0.00 /      /
+TNU  : Newton AWOS        :  48 /  30 /     M /      /
+DMX  : NWS Johnston*      :  50 /  33 /  0.00 /  0.0 /   0
+PRO  : Perry AWOS         :  51 /  28 /     M /      /
+NSSI4: Prairie City/NS NWR:  50 /  31 /     M /      /
+EBS  : Webster City AWOS  :  48 /  25 /     M /      /
+:
+: ...East Central Iowa...
+CID  : Cedar Rapids ASOS  :  48 /  26 /  0.00 /      /
+CWI  : Clinton AWOS       :  45 /  25 /     M /      /
+DVN  : Davenport ASOS     :  47 /  27 /  0.00 /  0.0 /   0
+IOW  : Iowa City ASOS     :  49 /  26 /  0.00 /      /
+MXO  : Monticello AWOS    :   M /   M /     M /      /
+MUT  : Muscatine AWOS     :  48 /  25 /     M /      /
+VTI  : Vinton AWOS        :  51 /  27 /     M /      /
+:
+: ...Southwestern Iowa...
+AIO  : Atlantic AWOS      :  50 /  25 /     M /      /
+ICL  : Clarinda AWOS      :   M /   M /     M /      /
+CBF  : Council Bluffs AWOS:  52 /  36 /  0.00 /      /
+RDK  : Red Oak AWOS       :  54 /  36 /  0.00 /      /
+SDA  : Shenandoah AWOS    :  54 /  36 /  0.00 /      /
+:
+: ...South Central Iowa...
+TVK  : Centerville AWOS   :  50 /  30 /     M /      /
+CNC  : Chariton AWOS      :  50 /  28 /     M /      /
+CSQ  : Creston AWOS       :  48 /  30 /     M /      /
+OXV  : Knoxville AWOS     :  50 /  37 /     M /      /
+LWD  : Lamoni ASOS        :  51 /  34 /  0.00 /      /
+SSFI4: Lucas/Stephens SF  :  55 /  31 /     M /      /
+I75  : Osceola AWOS       :  51 /  31 /     M /      /
+PEA  : Pella AWOS         :  49 /  33 /     M /      /
+:
+: ...Southeastern Iowa...
+BRL  : Burlington ASOS    :  48 /  28 /  0.00 /      /
+FFL  : Fairfield AWOS     :  48 /  28 /     M /      /
+FSW  : Fort Madison AWOS  :  48 /  34 /     M /      /
+EOK  : Keokuk AWOS        :  48 /  30 /     M /      /
+MPZ  : Mount Pleasant AWOS:  46 /  28 /     M /      /
+OOA  : Oskaloosa AWOS     :  51 /  35 /     M /      /
+OTM  : Ottumwa ASOS       :  49 /  30 /  0.00 /      /
+AWG  : Washington AWOS    :  48 /  28 /     M /      /
+:
+:* Cooperative weather observation site
+:
+.END
+
+
+: Selected ASOS...AWOS and other automated observing
+:   locations near Iowa
+:
+:                            Max   Min                Snow
+:      Location             Temp  Temp   Pcpn   Snow Depth
+:
+: ...Minnesota...
+AUM  : Austin AWOS        :  43 /  28 /  0.00 /      /
+MJQ  : Jackson AWOS       :  45 /  28 /       /      /
+LYV  : Luverne AWOS       :  46 /  27 /       /      /
+RST  : Rochester ASOS     :  42 /  28 /  0.00 /  0.0 /   0
+OTG  : Worthington AWOS   :  46 /  26 /       /      /
+:
+: ...Wisconsin...
+OVS  : Boscobel AWOS      :  48 /  23 /  0.00 /      /
+LSE  : La Crosse ASOS     :  46 /  30 /  0.00 /  0.0 /   0
+PVB  : Platteville AWOS   :  44 /  29 /  0.00 /      /
+PDC  : Prairie du Chien AW:  44 /  26 /  0.00 /      /
+:
+: ...Illinois...
+MQB  : Macomb AWOS        :  49 /  29 /       /      /
+MLI  : Quad City ASOS     :  50 /  27 /  0.00 /  0.0 /   0
+SQI  : Sterling AWOS      :  44 /  27 /       /      /
+:
+: ...Nebraska...
+AFK  : Nebraska City AWOS :  55 /  38 /  0.00 /      /
+OMA  : Omaha/Eppley ASOS  :  56 /  36 /  0.00 /  0.0 /   0
+OFF  : Omaha/Offutt ASOS  :  56 /  39 /       /      /    
+PMV  : Plattsmouth AWOS   :  54 /  38 /  0.00 /      /
+TQE  : Tekamah ASOS       :  55 /  28 /  0.00 /      /
+:
+: ...South Dakota...
+FSD  : Sioux Falls ASOS   :  52 /  24 /  0.00 /  0.0 /   0
+:
+:END
+
+
+.BR DMX 0424 C DH0952/DC2304240952/TX/TN/PP/SF/SD
+:
+: Values represent the 24 hours ending around 7 AM Central Time
+:
+: Cooperative observer and other locations
+:
+:                          Date/Time   Max   Min                Snow
+:      Location               DDHHMM  Temp  Temp   Pcpn   Snow Depth
+:
+: ...Northwestern Iowa...
+CKPI4: Cherokee           : DD240800/  50 /  22 /  0.00 /  0.0 /   0
+ESTI4: Estherville        : DD240700/  46 /  26 /  0.00 /      /    
+ORCI4: Orange City        : DD240700/     /     /  0.00 /  0.0 /   0
+POCI4: Pocahontas         : DD240800/  47 /  23 /  0.00 /      /    
+RMSI4: Remsen             : DD240700/     /     /  0.00 /  0.0 /   0
+SHDI4: Sheldon            : DD240700/     /     /  0.00 /  0.0 /   0
+SIBI4: Sibley             : DD240800/  47 /  22 /  0.00 /      /    
+SXRI4: Sioux Rapids       : DD240600/  49 /  24 /  0.00 /  0.0 /   0
+SPRI4: Spirit Lake        : DD240700/  50 /  26 /  0.00 /  0.0 /   0
+SLBI4: Storm Lake         : DD240800/  49 /  28 /  0.00 /  0.0 /   0
+:
+: ...North Central Iowa...
+ALGI4: Algona             : DD240700/  45 /  27 /  0.00 /  0.0 /   0
+FSCI4: Forest City        : DD240700/  44 /  27 /  0.00 /      /    
+HPTI4: Hampton            : DD240700/  45 /  26 /  0.00 /      /    
+LMLI4: Lake Mills         : DD240700/     /     /  0.00 /      /    
+MCWI4: Mason City         : DD240700/  45 /  27 /  0.00 /      /    
+OSAI4: Osage              : DD240740/  44 /  24 /  0.00 /      /    
+SANI4: St Ansgar          : DD240630/     /     /  0.00 /  0.0 /   0
+:
+: ...Northeastern Iowa...
+EKRI4: Elkader            : DD240700/  46 /  21 /  0.00 /  0.0 /    
+FYTI4: Fayette            : DD240700/  44 /  23 /  0.00 /  0.0 /   0
+GTTI4: Guttenberg         : DD240800/  44 /  29 /  0.00 /  0.0 /   0
+IONI4: Ionia              : DD240700/     /     /  0.00 /  0.0 /   0
+MHRI4: Manchester         : DD240700/  45 /  23 /  0.00 /  0.0 /   0
+NHPI4: New Hampton        : DD240700/  43 /  24 /  0.00 /  0.0 /   0
+OLNI4: Oelwein            : DD240630/  46 /  28 /  0.00 /  0.0 /   0
+WAUI4: Waukon             : DD240800/  42 /  29 /  0.00 /  0.0 /   0
+:
+: ...West Central Iowa...
+AUDI4: Audubon            : DD240800/  47 /  22 /  0.00 /      /    
+COOI4: Coon Rapids        : DD240700/     /     /  0.00 /      /    
+GTHI4: Guthrie Center     : DD240800/  50 /  23 /  0.00 /      /    
+HLYI4: Holly Springs      : DD240700/     /     /  0.00 /  0.0 /   0
+JFFI4: Jefferson          : DD240702/  49 /  27 /  0.00 /      /    
+LSXI4: Little Sioux       : DD240700/  55 /  23 /  0.00 /  0.0 /   0
+LOGI4: Logan              : DD240700/  52 /  25 /  0.00 /  0.0 /   0
+MPTI4: Mapleton           : DD240700/  52 /  23 /  0.00 /  0.0 /   0
+RKWI4: Rockwell City      : DD240700/  48 /  24 /  0.00 /  0.0 /   0
+RWCI4: Rockwell City      : DD240700/     /     /  0.00 /      /    
+SACI4: Sac City           : DD240600/  50 /  24 /  0.00 /  0.0 /   0
+SXGI4: Sioux City         : DD240600/  52 /  23 /  0.00 /      /    
+:
+: ...Central Iowa...
+AESI4: Ames               : DD240600/  48 /  26 /  0.00 /  0.0 /   0
+BNWI4: Boone              : DD240800/  51 /  24 /  0.00 /      /    
+CLUI4: Clutier            : DD240700/     /     /  0.00 /      /    
+WGCI4: Des Moines Waveland: DD240700/     /     /  0.00 /  0.0 /   0
+WMTI4: Fort Dodge         : DD240705/  47 /  27 /  0.00 /  0.0 /   0
+GRII4: Grinnell           : DD240700/  50 /  22 /  0.00 /      /    
+GNDI4: Grundy Center      : DD240720/  46 /  25 /  0.00 /      /    
+MSHI4: Marshalltown       : DD240700/  47 /  22 /  0.00 /      /    
+MXWI4: Maxwell            : DD240700/     /     /  0.00 /      /    
+NWTI4: Newton             : DD240700/  49 /  28 /  0.00 /      /    
+OGDI4: Ogden              : DD240700/     /     /  0.00 /      /    
+PERI4: Perry              : DD240700/  51 /  28 /  0.00 /      /    
+STYI4: Story City         : DD240700/     /     /  0.00 /      /    
+TLDI4: Toledo             : DD240700/  47 /  28 /  0.00 /  0.0 /   0
+WEBI4: Webster City       : DD240700/  46 /  24 /  0.00 /  0.0 /   0
+:
+: ...East Central Iowa...
+BLLI4: Belle Plaine       : DD240700/  48 /  23 /  0.00 /  0.0 /   0
+CCTI4: Central City       : DD240800/     /     /  0.00 /  0.0 /   0
+ICYI4: Iowa City          : DD240700/     /     /  0.00 /  0.0 /   0
+LWDI4: Lowden             : DD240700/     /     /  0.00 /  0.0 /   0
+MKTI4: Maquoketa          : DD240700/  45 /  25 /  0.00 /  0.0 /   0
+MCLI4: Monticello         : DD240800/     /     /  0.00 /      /    
+MSTI4: Muscatine          : DD240700/  48 /  29 /  0.00 /  0.0 /   0
+VNTI4: Vinton             : DD240800/  48 /  20 /  0.00 /      /    
+WLBI4: Williamsburg       : DD240700/  46 /  23 /  0.00 /  0.0 /   0
+:
+: ...Southwestern Iowa...
+ADAI4: Adair              : DD240700/     /     /  0.00 /      /    
+ATLI4: Atlantic           : DD240700/  52 /  24 /  0.00 /      /    
+CLDI4: Clarinda           : DD240600/  53 /  25 /  0.00 /  0.0 /   0
+CRNI4: Corning            : DD240700/  50 /  28 /  0.00 /  0.0 /   0
+HSII4: Hastings 4NE       : DD240800/     /     /  0.00 /  0.0 /   0
+RANI4: Randolph           : DD240800/     /     /  0.00 /  0.0 /   0
+SDHI4: Shenandoah         : DD240730/  54 /  33 /  0.00 /  0.0 /   0
+UNDI4: Underwood          : DD240700/     /     /  0.00 /  0.0 /   0
+:
+: ...South Central Iowa...
+CNTI4: Centerville        : DD240700/  50 /  26 /  0.00 /      /    
+CMBI4: Columbia           : DD240700/     /     /  0.00 /      /    
+KNXI4: Knoxville          : DD240800/  49 /  33 /  0.00 /      /    
+3OI  : Lamoni             : DD240700/  50 /  28 /  0.00 /      /    
+OSEI4: Osceola            : DD240700/  51 /  25 /  0.00 /  0.0 /   0
+PEAI4: Pella              : DD240700/     /     /  0.00 /  0.0 /   0
+RADI4: Rathbun Dam        : DD240700/  50 /  30 /  0.00 /      /    
+:
+: ...Southeastern Iowa...
+COJI4: Columbus Junction  : DD240730/  47 /  26 /  0.00 /      /    
+DNNI4: Donnellson         : DD240700/  50 /  31 /  0.00 /      /    
+EOKI4: Keokuk             : DD240600/  49 /  32 /  0.00 /      /    
+SGYI4: Sigourney          : DD240800/  48 /  24 /  0.00 /      /    
+WSHI4: Washington         : DD240700/  49 /  23 /  0.00 /      /    
+:
+:END
+
+
+.BR DMX 0424 C DH0952/DC2304240952/GDIRVZ/GTIRVZ
+:
+: ...Frost Depth...
+:
+: This information is normally provided during the cool season. The
+:   most recent information is provided for each location. The date
+:   and time of each observation are in Central Time. Note that the
+:   observation may not be from the current day. Frost Depth refers
+:   to the depth of frost penetration into the ground, in inches.
+:   Frost Top refers to the depth of the top of the frost layer, 
+:   in inches. A value of zero means frost exists from the ground
+:   surface to the frost depth.
+:
+:
+: Cooperative Observer Locations
+:
+:                          Date/Time  Frost   Frost
+:      Location               DDHHMM  Depth     Top
+:
+DVNI4: NWS Davenport  : DY2304240700/     0 /      
+TLDI4: Toledo         : DY2304240700/     0 /     0
+ARX  : NWS La Crosse  : DY2304220700/     0 /      
+:
+.END
+
+
+These data are preliminary and have not undergone final quality 
+control /QC/ by NCEI. Therefore, these data are subject to revision.
+Final and certified climate data can be accessed at the National 
+Centers for Environmental Information /NCEI/ - www.ncei.noaa.gov .
+
+$$
+

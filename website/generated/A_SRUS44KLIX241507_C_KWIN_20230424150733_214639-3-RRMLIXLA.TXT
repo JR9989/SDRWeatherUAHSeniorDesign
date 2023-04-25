@@ -1,0 +1,181 @@
+SRUS44 KLIX 241507
+RRMLIX
+LAZ034-036>037-039>040-046>050-057>058-060>072-MSZ068-070>071-077- 
+080>082-251507-
+Supplementary Rainfall Reports
+National Weather Service New Orleans/Baton Rouge, LA
+1007 AM CDT Mon Apr 24 2023
+
+             24-Hours Ending About 7 AM CST Today
+
+
+Station            Rainfall    Station               Rainfall
+
+
+Southeast Louisiana Official Cooperative Rainfall Reports
+
+
+Belle Chasse NAS     0.00      Lutcher                      
+Boothville           0.00      Marrero 9SW                  
+Convent 2S                     Thibodaux 4SE                
+Donaldsonville 4SW   0.00      N.O. Intl. Airport         T 
+Dutchtown #2         0.00      N.O. Lakefront Airport     T 
+Chalmette                      Port of S LA at Reserve  0.00
+Galliano                       
+
+
+East-Central Louisiana Official Cooperative Rainfall Reports
+
+
+Abita River          0.00      Killian                      
+Abita Springs FT               Livingston                   
+Baker                          LSU Ben Hur Farm             
+Baton Rouge                    Mount Hermon                 
+BTR Concord                    Mandeville Lakefront         
+BTR Sherwood         0.00      Norwood                      
+BTR Airport          0.00      Oaknolia                     
+Bayou Manchac Pt               Pearl River                  
+Clinton 5SE                    Ponchatoula 4SE          0.00
+Clinton Forestry               St. Francisville             
+Denham Springs                 St. Francisville 1NE     0.00
+Franklinton                    Slidell City             0.00
+Gonzales             0.00      Slidell WFO              0.00
+Hammond                        Sun                      0.00
+Hammond 5E                     Tallisheek                   
+
+
+Central Louisiana Official Cooperative Rainfall Reports
+
+
+New Roads                      Port Allen                   
+
+
+South-Central Louisiana Official Cooperative Rainfall Reports
+
+
+Bayou Sorrel Lock    0.00      Napoleonville                
+Carville 2SW                   Plaquemine 2N            0.00
+Donaldsonville       0.00      St. Gabriel                  
+Dulac 3N                 
+
+
+South Mississippi Official Cooperative Rainfall Reports
+
+
+Biloxi                         Pascagoula Airport       0.00
+Biloxi 9WNW                    
+Gloster              0.04      Poplarville                  
+Liberty                        
+Gulfport-Biloxi AP   0.00      Saucier                      
+Gulfport-Wolf River            Stennis Diamondhead         
+Long Beach                     Waveland                     
+McComb               0.01      
+Ocean Springs        0.00
+
+
+Rainfall Reports from Automated Gauges 
+
+
+   	       Buffalo River Basin
+Woodville MS         0.00      Moores Branch                
+
+
+               Mississippi River Basin
+Red River Landing    0.01      St. Francisville         0.00
+N. O./Carrollton     0.00      Bayou Petit Caillou      0.00
+
+
+               Barataria Bay and Waterway
+Woodmere 3SSE                  
+
+
+               Bayou Lafourche
+Donaldsonville                 Donaldsonville 1WSW          
+
+
+               Amite River Basin
+Grangeville          0.00      Clinton                      
+Jones Ck/Millerville 0.00      Little Sandy Ck/Milldale 0.01
+Alligator Bayou      0.00      Bayou Fountain           0.00
+Denham Springs       0.00      Muddy Creek/Oak Grove    0.00
+Dawson Ck/Inniswold  0.10      Ward Creek/Inniswwold    0.00
+Ward Ck/Westminster  0.00      Welsh Gully/Prairieville 0.00
+French Settlement    0.00      Grand Goudine/Duplesis   0.00
+Gonzales/Black Bayou 0.00      Bayou Conway/Sorrento    0.00
+Prairieville         0.00      Henderson Bayou          0.00
+Gonzales/B. Francois 0.00      Colyell 1NNW                 
+West Colyell Creek             Port Vincent             0.00
+Grays Creek/Port Vincent     
+
+
+               Comite River Basin
+Comite Joor Rd       0.00      Milldale                 0.00
+Olive Branch         0.00      Zachary                  0.00
+Baker                0.00      Comite Dr/Baton Rouge    0.00
+Hooper Road          0.00      Greenwell Springs Rd          
+White Bayou/Zachary  0.00      Wax Rd near Baton Rouge  0.00
+
+
+       Lake Pontchartrain and Big Branch Wildlife Refuge
+Mandeville 2WNW      0.00      Lacombe                  0.00
+Rigolets             0.00      Pontchartrain Beach      0.00
+West End                       17th St Canal/West End       
+
+
+               Tickfaw River Basin
+Liverpool            0.00      Holden                       
+
+
+               Natalbany River Basin
+Baptist                  
+
+
+               Tangipahoa River Basin
+Kentwood                       Amite                    0.00
+Robert                         McComb/Pike County AP MS 0.00
+
+
+               Tchefuncte River Basin
+Covington            0.00      Madisonville             0.00
+
+
+               Bogue Falaya River Basin
+Covington            0.00
+
+
+               Abita River Basin
+Abita Springs        0.00
+
+
+               Bogue Chitto River Basin
+Tylertown MS         0.00      Franklinton              0.00
+Bush                 0.00      
+
+
+               Lower Pearl River Basin
+Walkiah Bluff MS               
+FWS Bogue Chitto MS  0.00      Canal #3/Sun             0.00
+Bogalusa             0.00      Canal #2/Bush            0.00
+Pools Bluff                    Canal #1/Pearl River     0.00
+
+
+               Jourdan River Basin        
+Kiln                           Kiln 3NW                     
+Mill Creek/Fenton              Diamondhead                  
+Rotten Bayou                        
+
+
+               Wolf River Basin
+Landon                         
+
+
+               Biloxi River Basin            
+Wortham              0.00      Wool Market              0.00
+
+
+               Pascagoula River Basin
+Merrill                        Gautier 6NNW             0.00
+Grand Bay/Moss Point           Orange Grove 2NE         0.00
+
+
+$$

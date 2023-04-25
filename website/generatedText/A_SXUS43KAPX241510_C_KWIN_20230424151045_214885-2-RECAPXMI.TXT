@@ -1,0 +1,44 @@
+SXUS43 KAPX 241510
+RECAPX
+
+Recreational Forecast for Mackinac Island
+National Weather Service Gaylord MI
+1100 AM EDT Mon Apr 24 2023
+
+
+
+.TODAY...
+
+
+TIME (EDT)      11 AM     2 PM      5 PM      
+Temp (F)........35        38        39        
+Chc Of Pcpn (%).10        20        20        
+Weather Type....NONE      SNOW      RNSN      
+Sky (%).........93        88        90        
+Wind (MPH)......W 11G16   W 12G14   W 11G14   
+Waves (FT)......1         2         2         
+
+Water Temp (F)..39        39        39        
+
+.TONIGHT...
+
+
+TIME (EDT)      6 PM      9 PM      MIDNGT    3 AM      
+Temp (F)........38        37        35        35        
+Chc Of Pcpn (%).20        30        40        50        
+Weather Type....RNSN      RAIN      RNSN      RNSN      
+Sky (%).........89        83        84        92        
+Wind (MPH)......W 10G14   NW 7G11   NW 6G10   NW 6G8    
+Waves (FT)......2         1         1         1         
+
+.TUESDAY...
+
+
+TIME (EDT)      6 AM      9 AM      NOON      3 PM      
+Temp (F)........34        36        39        40        
+Chc Of Pcpn (%).50        20        20        20        
+Weather Type....RNSN      SNOW      SNOW      RNSN      
+Sky (%).........91        82        82        69        
+Wind (MPH)......N 6G7     N 5G6     N 6G8     NW 8G11   
+Waves (FT)......0         0         0         1         
+

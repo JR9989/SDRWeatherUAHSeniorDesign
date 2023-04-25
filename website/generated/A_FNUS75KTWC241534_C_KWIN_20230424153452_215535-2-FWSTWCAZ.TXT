@@ -1,0 +1,77 @@
+FNUS75 KTWC 241534
+FWSTWC
+
+Spot Forecast for LESLIE CANYON...AZ STATE FORESTRY
+National Weather Service Tucson AZ
+834 AM MST Mon Apr 24 2023
+
+Forecast is based on forecast start time of 0900 MST on April 24. 
+...FIRE WEATHER WATCH IN EFFECT FROM TUESDAY AFTERNOON THROUGH
+TUESDAY EVENING...
+
+.DISCUSSION...Southerly 20-foot winds of 8 to 10 mph this morning
+and then shifting to the southwesterly by the late morning.
+20-foot winds speeds will increase to 14 mph with gusts up to 28
+mph. Min RHs will be in the single digits for the afternoon with
+some decent overnight recoveries in the lower end of the 40s. 
+Tomorrow, critical fire weather conditions are expected with the 
+single digit RHs and the breezy to gusty conditions, therefore a 
+Fire Weather Watch is in effect for Tuesday afternoon. 
+
+.REST OF TODAY...
+
+Sky/weather.........Sunny. 
+CWR.................0 percent. 
+LAL.................1. 
+Max temperature.....Between 82 to 85 degrees. 
+Min humidity........9 percent. 
+20-foot winds.......Southerly winds of 8 to 10 mph then by the late morning
+                    shifting to the southwest winds 10 to 14 mph with gusts up to 28 mph 
+                    throughout the afternoon. 
+Haines Index........5 or moderate potential for large plume 
+                    dominated fire growth. 
+Mixing height.......4200 ft AGL increasing to 12600 ft AGL. 
+Transport winds.....Southwest 9 to 16 knots. 
+
+.TONIGHT...
+
+Sky/weather.........Clear. 
+CWR.................0 percent. 
+LAL.................1. 
+Min temperature.....Between 48 to 50 degrees. 
+Max humidity........44 percent. 
+20-foot winds.......Southwest winds 10 to 15 mph with gusts to 
+                    around 22 mph shifting to the southeast 5 to 9 
+                    mph just before midnight. 
+Haines Index........4 or low potential for large plume dominated 
+                    fire growth. 
+Mixing height.......8500 ft AGL decreasing to 100 ft AGL. 
+Transport winds.....Southwest around 15 knots shifting to the south 
+                    around 7 knots overnight. 
+
+.TUESDAY...
+
+Sky/weather.........Sunny. Patchy blowing dust in the afternoon. 
+CWR.................0 percent. 
+LAL.................1. 
+Max temperature.....Around 83. 
+Min humidity........10 percent. 
+20-foot winds.......South winds 6 to 11 mph in the morning and shifting to the 
+                    west 14 to 19 mph with gusts to around 30 mph in the 
+                    afternoon. 
+Haines Index........4 or low potential for large plume dominated 
+                    fire growth. 
+Mixing height.......2000 ft AGL increasing to 11300 ft AGL. 
+Transport winds.....South around 10 knots increasing to west around 
+                    21 knots in the afternoon. 
+
+$$
+Forecaster...STRONGMAN
+Requested by...ARMSTRONG
+Type of request...WILDFIRE
+.TAG 2310491.0/TWC
+.DELDT 04/24/23
+.FormatterVersion 2.0.0
+.EMAIL aidclogistics@dffm.az.gov
+
+Visit us on Facebook...Twitter...YouTube...and at weather.gov/Tucson

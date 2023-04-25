@@ -1,0 +1,651 @@
+SXUS42 KGSP 241452 AAA
+RECGSP
+GAZ010-017-018-026-028-029-NCZ033-035>037-048>053-056>059-062>065-
+068>072-082-501>510-SCZ008>014-019-101>109-250500-
+
+Recreational Forecast
+National Weather Service Greenville-Spartanburg SC
+1052 AM EDT Mon Apr 24 2023
+
+...THE FORECAST FOR MOUNT MITCHELL NC AT 6684 FT...
+
+.TODAY...Sunny. Highs around 40. Northwest winds 10 to 15 mph. 
+.TONIGHT...Clear. Lows in the mid 20s. West winds 10 to 15 mph. 
+.TUESDAY...Partly sunny. Highs in the lower 40s. West winds around
+10 mph, becoming south in the afternoon. 
+
+Detailed Forecast Data...
+
+Date             Mon 04/24/23      Tue 04/25/23
+Time (EDT)       08 11 14 17 20 23 02 05 08 11 14 17 20
+Temp (F)         26 32 38 39 33 30 26 24 29 38 42 42 37
+Wind Dir         NW NW NW NW NW NW  W  W  W SW NW SE  S
+Wind Spd (MPH)   14 16 10 12 11 12 11 10 10  9  9  4  5
+Wind Gust (MPH)  19 23 14 18 17 21 12 10 10 17 20  9 10
+Wind Chl (F)     14 21 31 31 24 20 15 14 20 32 36 39 32
+Prob Precip (%)   3  0  0  0  0  0  0  0  0  1  1  2  4
+Prob Thunder (%)  0  0  0  0  0  0  0  0  0  0  1  1  0
+Cld Hgt (100FT)                 80 70 60 60 60 70 70 60
+
+&&
+
+...THE FORECAST FOR BEECH MOUNTAIN NC AT 5506 FT...
+
+.TODAY...Sunny. Highs in the lower 40s. Northwest winds 10 to
+15 mph. 
+.TONIGHT...Clear. Lows in the upper 20s. Northwest winds 5 to
+10 mph, increasing to 10 to 15 mph after midnight. 
+.TUESDAY...Partly sunny. Highs in the mid 40s. West winds 10 to
+15 mph, becoming southwest around 5 mph in the afternoon. 
+
+Detailed Forecast Data...
+
+Date             Mon 04/24/23      Tue 04/25/23
+Time (EDT)       08 11 14 17 20 23 02 05 08 11 14 17 20
+Temp (F)         29 29 38 41 35 30 29 27 31 39 44 46 39
+Wind Dir         NW NW NW NW NW  N  N NW  N SW NW SE SW
+Wind Spd (MPH)   11 12 11 12 11  6  9 13 11 12  5  4  5
+Wind Gust (MPH)  16 19 17 18 17 11 10 18 12 24 11  8 10
+Wind Chl (F)     19 19 31 34 27 23 20 16 22 31 41 44 35
+Prob Precip (%)   2  0  0  0  0  0  0  0  0  0  0  1  3
+Prob Thunder (%)  0  0  0  0  0  0  0  0  0  0  0  1  1
+Cld Hgt (100FT)                                   70 70
+
+&&
+
+...THE FORECAST FOR GRANDFATHER MOUNTAIN NC AT 5946 FT...
+
+.TODAY...Sunny. Highs in the lower 40s. Northwest winds around
+10 mph. 
+.TONIGHT...Clear. Lows in the mid 20s. Northwest winds around
+10 mph. 
+.TUESDAY...Partly sunny. Highs in the mid 40s. West winds around
+5 mph, becoming south in the afternoon. 
+
+Detailed Forecast Data...
+
+Date             Mon 04/24/23      Tue 04/25/23
+Time (EDT)       08 11 14 17 20 23 02 05 08 11 14 17 20
+Temp (F)         32 30 38 41 34 29 31 25 28 40 42 44 40
+Wind Dir         NW NW NW NW NW NW NW NW NW SW  W SE  S
+Wind Spd (MPH)   11 10 10 11 11 10 10  8  6  5  5  6  5
+Wind Gust (MPH)  19 16 17 18 19 20 14 13 11 11 12 12 10
+Wind Chl (F)     23 21 31 34 26 20 22 16 21 36 38 40 36
+Prob Precip (%)   2  0  0  0  0  0  0  0  0  0  0  1  3
+Prob Thunder (%)  0  0  0  0  0  0  0  0  0  0  0  1  0
+Cld Hgt (100FT)                                   60 60
+
+&&
+
+...THE FORECAST FOR MOUNT PISGAH NC AT 5691 FT...
+
+.TODAY...Sunny. Highs in the mid 40s. Northwest winds 10 to 15 mph. 
+.TONIGHT...Clear. Lows in the upper 20s. Northwest winds 10 to
+15 mph. 
+.TUESDAY...Partly sunny. Highs in the mid 40s. East winds 5 to
+10 mph. 
+
+Detailed Forecast Data...
+
+Date             Mon 04/24/23      Tue 04/25/23
+Time (EDT)       08 11 14 17 20 23 02 05 08 11 14 17 20
+Temp (F)         34 31 43 43 36 35 31 27 32 41 45 43 40
+Wind Dir         NW NW NW  N  N  N NW NW  W  E  N SE SE
+Wind Spd (MPH)    5 13  8 10  9  3 16  9  8 10  5  8  5
+Wind Gust (MPH)   8 20 12 12 13  5 23 10  9 18 10 13  9
+Wind Chl (F)     29 21 38 37 29 32 20 18 25 35 42 38 36
+Prob Precip (%)   2  0  0  0  0  0  0  0  0  0  1  2  4
+Prob Thunder (%)  0  0  0  0  0  0  0  0  0  0  1  2  0
+Cld Hgt (100FT)              70 70 60 60 60 60 60 60 60
+
+&&
+
+...THE FORECAST FOR CLINGMANS DOME NC AT 6643 FT...
+
+.TODAY...Sunny. Highs around 40. Northwest winds around 10 mph,
+decreasing to around 5 mph in the afternoon. 
+.TONIGHT...Clear. Lows in the mid 20s. North winds 5 to 10 mph,
+increasing to east 10 to 15 mph after midnight. 
+.TUESDAY...Partly sunny. Highs in the upper 40s. West winds 5 to
+10 mph. 
+
+Detailed Forecast Data...
+
+Date             Mon 04/24/23      Tue 04/25/23
+Time (EDT)       08 11 14 17 20 23 02 05 08 11 14 17 20
+Temp (F)         29 35 39 39 35 30 26 26 29 40 44 47 39
+Wind Dir          N NW NW NW  N  N NE SE SE  W NW  W  E
+Wind Spd (MPH)    9 11  6  6  5  1 12  9  5  5  6  8  6
+Wind Gust (MPH)  14 19 10  9  9  2 12 10  5  6 11 16 12
+Wind Chl (F)     20 27 34 34 30 30 15 17 23 36 40 43 34
+Prob Precip (%)   2  0  0  0  0  0  0  0  0  1  2  4  7
+Prob Thunder (%)  0  0  0  0  0  0  0  0  0  0  1  2  1
+Cld Hgt (100FT)                                60 60 45
+
+&&
+
+...THE FORECAST FOR RABUN BALD GA AT 4696 FT...
+
+.TODAY...Sunny. Highs in the lower 50s. Northwest winds 5 to 10 mph.
+.TONIGHT...Clear. Lows in the lower 30s. Northeast winds 5 to
+10 mph. 
+.TUESDAY...Partly sunny. Highs in the lower 50s. Light winds. 
+
+Detailed Forecast Data...
+
+Date             Mon 04/24/23      Tue 04/25/23
+Time (EDT)       08 11 14 17 20 23 02 05 08 11 14 17 20
+Temp (F)         37 41 50 52 43 39 34 32 36 45 51 52 47
+Wind Dir          N NW  W NW  N  N  N NE  E  E SE  S SE
+Wind Spd (MPH)    5  6  5  8  8  5 10  6  3  2  3  6  8
+Wind Gust (MPH)   9 13 12 14 17 12 11  6  3  3  6 12 14
+Wind Chl (F)     32 36 48 49 38 35 26 26 33 45 50 50 43
+Prob Precip (%)   2  0  0  0  0  0  0  0  0  0  1  3  7
+Prob Thunder (%)  0  0  0  0  0  0  0  0  0  0  1  2  1
+Cld Hgt (100FT)                 70    50 50 50 60 60 70
+
+&&
+
+...THE FORECAST FOR RICHLAND BALSAM OVERLOOK AT 6053 FT...
+
+.TODAY...Sunny. Highs in the mid 40s. Northwest winds 5 to 10 mph. 
+.TONIGHT...Clear. Lows in the upper 20s. North winds 5 to 10 mph,
+becoming west after midnight. 
+.TUESDAY...Partly sunny. Highs in the upper 40s. West winds 5 to
+10 mph, becoming south in the afternoon. 
+
+Detailed Forecast Data...
+
+Date             Mon 04/24/23      Tue 04/25/23
+Time (EDT)       08 11 14 17 20 23 02 05 08 11 14 17 20
+Temp (F)         29 32 43 44 37 32 27 27 31 41 45 46 42
+Wind Dir         NW NW NW NW  N  N  N SW SW  W NW SE SE
+Wind Spd (MPH)   10 10  9  8  6  6  8  6  8  8  4  6  8
+Wind Gust (MPH)  12 13 18 12  9 12  9  6  9 12  8 12 12
+Wind Chl (F)     20 24 38 39 32 26 19 20 24 36 43 42 37
+Prob Precip (%)   2  0  0  0  0  0  0  0  0  0  1  3  6
+Prob Thunder (%)  0  0  0  0  0  0  0  0  0  0  1  2  1
+Cld Hgt (100FT)                 70 60 60 60 60 70 60 50
+
+&&
+
+...THE FORECAST FOR ROAN MOUNTAIN AT 6285 FT...
+
+.TODAY...Sunny. Highs in the lower 40s. Northwest winds 15 to
+20 mph, decreasing to 10 to 15 mph in the afternoon. Gusts up to
+31 mph. 
+.TONIGHT...Clear. Lows in the mid 20s. Northwest winds 10 to 15 mph,
+increasing to north 15 to 20 mph after midnight. 
+.TUESDAY...Partly sunny. Highs in the upper 40s. West winds 5 to
+10 mph in the morning, becoming light winds. 
+
+Detailed Forecast Data...
+
+Date             Mon 04/24/23      Tue 04/25/23
+Time (EDT)       08 11 14 17 20 23 02 05 08 11 14 17 20
+Temp (F)         31 33 40 40 37 32 30 26 33 44 46 47 41
+Wind Dir         NW NW NW NW NW  N  N  N  N  W NW  S  S
+Wind Spd (MPH)   12 21 11 12  9  3 19 11  9  6  5  2  4
+Wind Gust (MPH)  16 31 17 17 13  5 23 13  9 12 11  4  9
+Wind Chl (F)     21 21 33 33 30 29 17 15 25 40 43 47 38
+Prob Precip (%)   3  1  0  0  0  0  0  0  0  0  0  1  3
+Prob Thunder (%)  0  0  0  0  0  0  0  0  0  0  0  1  1
+Cld Hgt (100FT)                                   70 50
+
+&&
+
+...THE FORECAST FOR FONTANA LAKE...
+
+.TODAY...Northwest winds 5 to 10 mph. Waters a light chop. 
+.TONIGHT...North winds 5 to 10 mph until midnight, becoming light
+winds. Waters a light chop, decreasing to waters smooth after
+midnight. 
+.TUESDAY...Light winds. Waters smooth. 
+
+Detailed Forecast Data...
+
+Date             Mon 04/24/23      Tue 04/25/23
+Time (EDT)       08 11 14 17 20 23 02 05 08 11 14 17 20
+Temp (F)         36 50 57 59 51 42 36 34 34 53 63 65 59
+Wind Dir          N  N NW NW  N  N  E  E  E NW  W  W NE
+Wind Spd (MPH)    3  6  6  9  6  4  3  2  3  2  3  4  4
+Wind Gust (MPH)   8 10 11 12 13 10  4  3  3  4  5  8 10
+Wind Chl (F)     32 47 56 58 48 39 34 33 33 53 63 65 59
+Prob Precip (%)   1  0  0  0  0  0  0  0  0  0  1  3  6
+Prob Thunder (%)  0  0  0  0  0  0  0  0  0  0  1  2  1
+Sky Cover (%)     8  6  4  2  6  3  6 18 27 63 45 49 70
+Vsby     (SM)     9  9  9  9  9  9  9  9  9  9  9  
+Sta Pres (IN)   27.13 27.12 27.10 27.12 27.14 27.12  
+
+&&
+
+...THE FORECAST FOR HIGH ROCK LAKE...
+
+.TODAY...North winds 5 to 10 mph in the morning, becoming light
+winds. Waters a light chop, decreasing to waters smooth in the
+afternoon. 
+.TONIGHT...Light winds, becoming north 5 to 10 mph after midnight.
+Waters smooth, increasing to waters a light chop after midnight. 
+.TUESDAY...Northeast winds 5 to 10 mph. Waters a light chop. 
+
+Detailed Forecast Data...
+
+Date             Mon 04/24/23      Tue 04/25/23
+Time (EDT)       08 11 14 17 20 23 02 05 08 11 14 17 20
+Temp (F)         46 56 62 65 59 49 44 40 42 56 63 65 59
+Wind Dir          N  N NW  W  N  N  N  N NE NE NE NE NE
+Wind Spd (MPH)    6  8  4  5  2  4  6  6  8  8  4  3  3
+Wind Gust (MPH)  16 10 11 12  8 11 11 11 17 11  9  6  5
+Wind Chl (F)     43 54 62 65 59 47 40 34 37 54 63 65 59
+Prob Precip (%)   2  0  0  0  0  0  0  0  0  0  0  1  2
+Prob Thunder (%)  0  0  0  0  0  0  0  0  0  0  0  0  0
+Sky Cover (%)    21  7  6  9  9 10 21  8 21 19 42 50 59
+Vsby     (SM)     9  9  9  9  9  9  9  9  9  9  9  
+Sta Pres (IN)   29.34 29.31 29.29 29.34 29.40 29.37  
+
+&&
+
+...THE FORECAST FOR LAKE ADGER...
+
+.TODAY...Northwest winds around 5 mph. Waters smooth. 
+.TONIGHT...Northwest winds around 5 mph. Waters smooth. 
+.TUESDAY...Northeast winds around 5 mph, becoming east in the
+afternoon. Waters smooth. 
+
+Detailed Forecast Data...
+
+Date             Mon 04/24/23      Tue 04/25/23
+Time (EDT)       08 11 14 17 20 23 02 05 08 11 14 17 20
+Temp (F)         43 57 65 67 59 49 44 40 41 56 64 67 60
+Wind Dir          N  N NW NW NW  N NW NW  N NE  E SE SE
+Wind Spd (MPH)    5  5  5  5  6  5  3  3  3  5  4  5  3
+Wind Gust (MPH)   6  6 11  9 13 11  5  4  5  8  6  8  5
+Wind Chl (F)     40 56 65 67 58 46 41 38 39 55 64 67 60
+Prob Precip (%)   2  0  0  0  0  0  0  0  0  0  0  1  3
+Prob Thunder (%)  0  0  0  0  0  0  0  0  0  0  0  1  0
+Sky Cover (%)     7  4  6 11 18 15 20 21 21 18 46 46 47
+Vsby     (SM)     9  9  9  9  9  9  9  9  9  9  9  
+Sta Pres (IN)   28.47 28.44 28.43 28.47 28.51 28.5  
+
+&&
+
+...THE FORECAST FOR LAKE BOWEN...
+
+.TODAY...North winds around 5 mph, becoming west in the afternoon.
+Waters smooth. 
+.TONIGHT...North winds 5 to 10 mph. Waters a light chop. 
+.TUESDAY...East winds 5 to 10 mph. Waters a light chop. 
+
+Detailed Forecast Data...
+
+Date             Mon 04/24/23      Tue 04/25/23
+Time (EDT)       08 11 14 17 20 23 02 05 08 11 14 17 20
+Temp (F)         45 56 64 68 62 52 46 42 43 56 64 67 61
+Wind Dir          N  N  W  W  N  N  N  N NE NE  E  E  E
+Wind Spd (MPH)    6  6  4  4  4  6  6  6  8  9  5  5  4
+Wind Gust (MPH)  10  6  9 11 13 14 12 10 14 13 10  9  8
+Wind Chl (F)     41 54 64 68 62 50 42 38 38 54 64 67 61
+Prob Precip (%)   2  0  0  0  0  0  0  0  0  0  0  1  3
+Prob Thunder (%)  0  0  0  0  0  0  0  0  0  0  0  1  0
+Sky Cover (%)    30  8  7 16 29 13 18 23 23  8 47 41 54
+Vsby     (SM)     9  9  9  9  9  9  9  9  9  9  9  
+Sta Pres (IN)   29.17 29.13 29.10 29.15 29.20 29.18  
+
+&&
+
+...THE FORECAST FOR LAKE BURTON...
+
+.TODAY...Northwest winds 5 to 10 mph. Waters a light chop. 
+.TONIGHT...North winds around 5 mph. Waters smooth. 
+.TUESDAY...Southeast winds 5 to 10 mph. Waters a light chop. 
+
+Detailed Forecast Data...
+
+Date             Mon 04/24/23      Tue 04/25/23
+Time (EDT)       08 11 14 17 20 23 02 05 08 11 14 17 20
+Temp (F)         38 54 63 64 56 46 41 37 40 55 62 64 58
+Wind Dir          N  N  W  W NW  N  N  N NE  E SE SE SE
+Wind Spd (MPH)    5  4  5  6  6  5  5  4  5  8  6  5  5
+Wind Gust (MPH)  12  5 12 11 13 13  8  5  5 12 11 10 10
+Wind Chl (F)     34 53 63 64 55 43 37 34 36 53 62 64 57
+Prob Precip (%)   2  0  0  0  0  0  0  0  0  0  1  3  6
+Prob Thunder (%)  0  0  0  0  0  0  0  0  0  0  1  1  2
+Sky Cover (%)    16 13  6  3  7  4 13 16 23 28 45 37 61
+Vsby     (SM)     9  9  9  9  9  9  9  9  9  9  9  
+Sta Pres (IN)   27.80 27.79 27.76 27.79 27.84 27.82  
+
+&&
+
+...THE FORECAST FOR LAKE GLENVILLE...
+
+.TODAY...Northwest winds 5 to 10 mph. Waters a light chop. 
+.TONIGHT...North winds around 5 mph. Waters smooth. 
+.TUESDAY...East winds around 5 mph, becoming south in the afternoon.
+Waters smooth. 
+
+Detailed Forecast Data...
+
+Date             Mon 04/24/23      Tue 04/25/23
+Time (EDT)       08 11 14 17 20 23 02 05 08 11 14 17 20
+Temp (F)         35 49 58 59 48 39 34 32 37 53 59 58 51
+Wind Dir          N NW  W NW NW  N  N  N  E  E  W  S SE
+Wind Spd (MPH)    8  5  6  6  6  5  5  3  3  4  5  6  6
+Wind Gust (MPH)  12 10 14 11 11 14  6  4  3  9 10 12 13
+Wind Chl (F)     29 46 57 58 45 35 29 29 34 52 58 57 48
+Prob Precip (%)   2  0  0  0  0  0  0  0  0  1  2  4  8
+Prob Thunder (%)  0  0  0  0  0  0  0  0  0  0  1  2  1
+Sky Cover (%)     7  4  5  3  3  8 17 17 22 40 53 55 51
+Vsby     (SM)     9  9  9  9  9  9  9  9  9  9  9  
+Sta Pres (IN)   26.71 26.71 26.69 26.72 26.76 26.75  
+
+&&
+
+...THE FORECAST FOR LAKE GREENWOOD...
+
+.TODAY...Northeast winds 5 to 10 mph, becoming northwest in the
+afternoon. Waters a light chop, decreasing to waters smooth in the
+afternoon. 
+.TONIGHT...Light winds, becoming northeast 5 to 10 mph after
+midnight. Waters smooth, increasing to waters a light chop after
+midnight. 
+.TUESDAY...Northeast winds 5 to 10 mph. Waters a light chop. 
+
+Detailed Forecast Data...
+
+Date             Mon 04/24/23      Tue 04/25/23
+Time (EDT)       08 11 14 17 20 23 02 05 08 11 14 17 20
+Temp (F)         49 58 65 69 62 52 48 46 46 58 67 69 62
+Wind Dir          N NE  N  W NW NE NE NE NE NE NE  E NE
+Wind Spd (MPH)    6  8  3  4  2  2  8  9 11  9  6  5  4
+Wind Gust (MPH)  17 12  8 10  8  9 13 14 20 13 10  9  5
+Wind Chl (F)     46 56 65 69 62 52 45 41 41 56 67 69 62
+Prob Precip (%)   4  2  0  0  0  0  0  0  0  0  0  1  3
+Prob Thunder (%)  0  0  0  0  0  0  0  0  0  0  0  1  1
+Sky Cover (%)    86 54 18 20  3  4 10 14 19 36 46 44 64
+Vsby     (SM)     9  9  9  9  9  9  9  9  9  9  9  
+Sta Pres (IN)   29.52 29.51 29.46 29.51 29.55 29.54  
+
+&&
+
+...THE FORECAST FOR LAKE HARTWELL...
+
+.TODAY...Northeast winds 5 to 10 mph, becoming southwest in the
+afternoon. Waters a light chop, decreasing to waters smooth in the
+afternoon. 
+.TONIGHT...North winds 5 to 10 mph, increasing to northeast 10 to
+15 mph after midnight. Waters a light chop, increasing to Waters a
+moderate chop, with choppiest waters in the west after midnight. 
+.TUESDAY...Northeast winds 10 to 15 mph, becoming east 5 to 10 mph
+in the afternoon. Waters a moderate chop, with choppiest waters in
+the west, decreasing to Waters a light chop in the afternoon. 
+
+Detailed Forecast Data...
+
+Date             Mon 04/24/23      Tue 04/25/23
+Time (EDT)       08 11 14 17 20 23 02 05 08 11 14 17 20
+Temp (F)         49 58 64 68 64 53 49 46 46 57 65 68 64
+Wind Dir         NE NE SW SW  W NE NE NE NE  E  E  E  E
+Wind Spd (MPH)    6  5  3  5  4  4  8  9 12 11  8  5  5
+Wind Gust (MPH)  12  6  9 11  9 13 11 13 20 17 12 10  9
+Wind Chl (F)     46 57 64 68 64 52 45 41 41 55 65 68 64
+Prob Precip (%)   3  0  0  0  0  0  0  0  0  0  1  2  4
+Prob Thunder (%)  0  0  0  0  0  0  0  0  0  0  0  1  1
+Sky Cover (%)    61 13 15  8  4 13 19 25 24 29 34 36 54
+Vsby     (SM)     9  9  9  9  9  9  9  9  9  9  9  
+Sta Pres (IN)   29.34 29.31 29.26 29.30 29.35 29.34  
+
+&&
+
+...THE FORECAST FOR LAKE JAMES...
+
+.TODAY...Light winds, becoming northwest 5 to 10 mph in the
+afternoon. Waters smooth, increasing to waters a light chop in the
+afternoon. 
+.TONIGHT...North winds 5 to 10 mph until midnight, becoming light
+winds. Waters a light chop, decreasing to waters smooth after
+midnight. 
+.TUESDAY...Light winds. Waters smooth. 
+
+Detailed Forecast Data...
+
+Date             Mon 04/24/23      Tue 04/25/23
+Time (EDT)       08 11 14 17 20 23 02 05 08 11 14 17 20
+Temp (F)         41 54 63 66 57 46 40 36 38 54 63 66 59
+Wind Dir          N NW  W NW NW  N  N  N NE NE  E SE SE
+Wind Spd (MPH)    3  5  5  8  8  5  2  2  2  4  3  4  4
+Wind Gust (MPH)   6  9 12 13 13  9  4  3  4  5  5  6  6
+Wind Chl (F)     39 53 63 66 56 43 40 36 38 53 63 66 59
+Prob Precip (%)   2  0  0  0  0  0  0  0  0  0  0  1  2
+Prob Thunder (%)  0  0  0  0  0  0  0  0  0  0  0  1  0
+Sky Cover (%)     6  1  3  4  2  5 11 20 26 29 52 41 58
+Vsby     (SM)     9  9  9  9  9  9  9  9  9  9  9  
+Sta Pres (IN)   28.35 28.32 28.31 28.36 28.40 28.38  
+
+&&
+
+...THE FORECAST FOR LAKE JOCASSEE...
+
+.TODAY...Light winds, becoming south around 5 mph in the afternoon.
+Waters smooth. 
+.TONIGHT...North winds 5 to 10 mph. Waters a light chop. 
+.TUESDAY...East winds around 5 mph. Waters smooth. 
+
+Detailed Forecast Data...
+
+Date             Mon 04/24/23      Tue 04/25/23
+Time (EDT)       08 11 14 17 20 23 02 05 08 11 14 17 20
+Temp (F)         41 57 63 66 60 50 44 41 42 55 63 66 60
+Wind Dir          N SE  S  S  N  N  N  N NE  E SE SE SE
+Wind Spd (MPH)    4  2  5  5  5  8  8  5  5  5  4  4  4
+Wind Gust (MPH)  10  4 11 10 13 16 12  8  8  8  8  6  6
+Wind Chl (F)     38 57 63 66 60 47 40 38 38 54 63 66 60
+Prob Precip (%)   1  0  0  0  0  0  0  0  0  0  1  3  7
+Prob Thunder (%)  0  0  0  0  0  0  0  0  0  0  1  1  1
+Sky Cover (%)    13  7  9  9 25 18 16 19 23 21 49 40 50
+Vsby     (SM)     9  9  9  9  9  9  9  9  9  9  9  
+Sta Pres (IN)   28.04 28.03 28.01 28.05 28.09 28.09  
+
+&&
+
+...THE FORECAST FOR LAKE KEOWEE...
+
+.TODAY...East winds around 5 mph, becoming southwest in the
+afternoon. Waters smooth. 
+.TONIGHT...Northeast winds 5 to 10 mph. Waters a light chop. 
+.TUESDAY...East winds 5 to 10 mph. Waters a light chop. 
+
+Detailed Forecast Data...
+
+Date             Mon 04/24/23      Tue 04/25/23
+Time (EDT)       08 11 14 17 20 23 02 05 08 11 14 17 20
+Temp (F)         44 57 66 70 63 53 47 44 45 58 66 69 63
+Wind Dir          N  E SW SW NW  N  N NE NE  E  E SE  E
+Wind Spd (MPH)    4  3  4  5  4  5  4  5  8  8  5  4  4
+Wind Gust (MPH)   6  3 10 10  9 11  8  6 11 13 10  8  8
+Wind Chl (F)     42 57 66 70 63 52 45 40 40 57 66 69 63
+Prob Precip (%)   2  0  0  0  0  0  0  0  0  0  1  3  5
+Prob Thunder (%)  0  0  0  0  0  0  0  0  0  0  1  1  1
+Sky Cover (%)    28  9  9  6 15 14 24 21 30 25 37 32 57
+Vsby     (SM)     9  9  9  9  9  9  9  9  9  9  9  
+Sta Pres (IN)   29.03 29.01 28.96 29.02 29.06 29.05  
+
+&&
+
+...THE FORECAST FOR LAKE LURE...
+
+.TODAY...Northwest winds 5 to 10 mph. Waters a light chop. 
+.TONIGHT...Northwest winds around 5 mph. Waters smooth. 
+.TUESDAY...Northeast winds around 5 mph, becoming southeast in the
+afternoon. Waters smooth. 
+
+Detailed Forecast Data...
+
+Date             Mon 04/24/23      Tue 04/25/23
+Time (EDT)       08 11 14 17 20 23 02 05 08 11 14 17 20
+Temp (F)         41 56 65 67 59 48 42 38 40 56 64 67 60
+Wind Dir          N  N  W NW NW  N NW NW  N NE  E SE SE
+Wind Spd (MPH)    4  5  5  6  6  5  3  3  3  4  4  5  3
+Wind Gust (MPH)   6  5 12 12 13 10  5  4  4  5  6  8  5
+Wind Chl (F)     39 55 65 67 58 45 40 36 38 56 64 67 60
+Prob Precip (%)   1  0  0  0  0  0  0  0  0  0  0  1  3
+Prob Thunder (%)  0  0  0  0  0  0  0  0  0  0  0  1  0
+Sky Cover (%)     5  4  3  7 16 12 17 23 22 22 46 48 50
+Vsby     (SM)     9  9  9  9  9  9  9  9  9  9  9  
+Sta Pres (IN)   28.28 28.26 28.25 28.29 28.34 28.31  
+
+&&
+
+...THE FORECAST FOR LAKE NORMAN...
+
+.TODAY...North winds 5 to 10 mph, becoming northwest in the
+afternoon. Waters a light chop, decreasing to waters smooth in the
+afternoon. 
+.TONIGHT...North winds 5 to 10 mph. Waters a light chop. 
+.TUESDAY...Northeast winds 5 to 10 mph. Waters a light chop. 
+
+Detailed Forecast Data...
+
+Date             Mon 04/24/23      Tue 04/25/23
+Time (EDT)       08 11 14 17 20 23 02 05 08 11 14 17 20
+Temp (F)         46 54 62 66 61 51 45 41 42 54 63 66 61
+Wind Dir          N  N NW  W NW  N  N  N NE NE NE NE NE
+Wind Spd (MPH)    8  8  4  5  3  4  9  8  9  8  4  4  3
+Wind Gust (MPH)  17 10 10 11  9 13 14 13 17 12  9  8  5
+Wind Chl (F)     42 52 62 66 61 49 40 36 36 52 63 66 61
+Prob Precip (%)   2  1  0  0  0  0  0  0  0  0  0  1  2
+Prob Thunder (%)  0  0  0  0  0  0  0  0  0  0  0  0  0
+Sky Cover (%)    10  5  3  8 13 13  8 10 19 13 48 53 53
+Vsby     (SM)     9  9  9  9  9  9  9  9  9  9  9  
+Sta Pres (IN)   29.23 29.19 29.17 29.22 29.28 29.26  
+
+&&
+
+...THE FORECAST FOR LAKE RUSSELL...
+
+.TODAY...Northeast winds 5 to 10 mph in the morning, becoming light
+winds. Waters a light chop, decreasing to waters smooth in the
+afternoon. 
+.TONIGHT...North winds 5 to 10 mph, increasing to northeast 10 to
+15 mph after midnight. Waters a light chop, increasing to Waters A
+moderate chop, with choppiest waters in the south after midnight. 
+.TUESDAY...Northeast winds 10 to 15 mph, becoming east 5 to 10 mph
+in the afternoon. Waters a moderate chop, with choppiest waters in
+the west, decreasing to Waters a light chop in the afternoon. 
+
+Detailed Forecast Data...
+
+Date             Mon 04/24/23      Tue 04/25/23
+Time (EDT)       08 11 14 17 20 23 02 05 08 11 14 17 20
+Temp (F)         51 57 65 69 62 54 49 47 47 57 66 69 64
+Wind Dir         NE NE NW  W  W  N NE NE NE  E  E  E  E
+Wind Spd (MPH)    6  6  3  4  2  3  8 10 12 10  6  5  4
+Wind Gust (MPH)  17 11  8 10  6  9 11 13 21 17 12 10  8
+Wind Chl (F)     48 56 65 69 62 54 46 42 42 55 66 69 64
+Prob Precip (%)   4  2  0  0  0  0  0  0  0  0  1  2  4
+Prob Thunder (%)  0  0  0  0  0  0  0  0  0  0  0  1  1
+Sky Cover (%)    80 41 29 23  5  5 16 19 29 32 41 49 60
+Vsby     (SM)     9  9  9  9  9  9  9  9  9  9  9  
+Sta Pres (IN)   29.55 29.54 29.48 29.52 29.57 29.55  
+
+&&
+
+...THE FORECAST FOR LAKE TOXAWAY...
+
+.TODAY...West winds 5 to 10 mph. Waters a light chop. 
+.TONIGHT...North winds 5 to 10 mph. Waters a light chop. 
+.TUESDAY...Northeast winds around 5 mph, becoming south in the
+afternoon. Waters smooth. 
+
+Detailed Forecast Data...
+
+Date             Mon 04/24/23      Tue 04/25/23
+Time (EDT)       08 11 14 17 20 23 02 05 08 11 14 17 20
+Temp (F)         35 49 56 59 51 41 37 35 39 52 56 57 51
+Wind Dir          N NW SW SW  N  N  N  N  N  E NW  S SE
+Wind Spd (MPH)    8  3  6  5  4  6  8  6  5  5  6  6  5
+Wind Gust (MPH)  12  8 13 11 11 14 10  6  5 10 12 11 10
+Wind Chl (F)     28 48 54 58 50 36 31 29 35 50 54 56 49
+Prob Precip (%)   1  0  0  0  0  0  0  0  0  0  1  4  8
+Prob Thunder (%)  0  0  0  0  0  0  0  0  0  0  1  2  1
+Sky Cover (%)    12  7  6  6 17 14 17 16 20 28 51 45 50
+Vsby     (SM)     9  9  9  9  9  9  9  9  9  9  9  
+Sta Pres (IN)   27.05 27.05 27.03 27.07 27.10 27.09  
+
+&&
+
+...THE FORECAST FOR LAKE WYLIE...
+
+.TODAY...North winds 5 to 10 mph, becoming northwest in the
+afternoon. Waters a light chop, decreasing to waters smooth in the
+afternoon. 
+.TONIGHT...Light winds, becoming northeast around 10 mph after
+midnight. Waters smooth, increasing to waters a light chop after
+midnight. 
+.TUESDAY...Northeast winds 5 to 10 mph. Waters a light chop. 
+
+Detailed Forecast Data...
+
+Date             Mon 04/24/23      Tue 04/25/23
+Time (EDT)       08 11 14 17 20 23 02 05 08 11 14 17 20
+Temp (F)         48 58 66 68 61 52 47 43 44 58 66 69 62
+Wind Dir          N  N NW  W NW  N  N NE NE NE NE NE NE
+Wind Spd (MPH)    8  8  4  5  2  3  8  8 10  9  5  4  4
+Wind Gust (MPH)  19 12 11 11  6 10 12 13 20 14  9  8  6
+Wind Chl (F)     44 56 66 68 61 51 43 38 39 56 66 69 62
+Prob Precip (%)   2  1  0  0  0  0  0  0  0  0  0  1  3
+Prob Thunder (%)  0  0  0  0  0  0  0  0  0  0  0  0  0
+Sky Cover (%)    45 16 13 25 14 12  7 14 18  9 38 49 57
+Vsby     (SM)     9  9  9  9  9  9  9  9  9  9  9  
+Sta Pres (IN)   29.40 29.38 29.34 29.38 29.45 29.43  
+
+&&
+
+...THE FORECAST FOR NANTAHALA LAKE...
+
+.TODAY...Northwest winds 5 to 10 mph. Waters a light chop. 
+.TONIGHT...Northeast winds 5 to 10 mph. Waters a light chop. 
+.TUESDAY...Northeast winds around 5 mph, becoming southwest in the
+afternoon. Waters smooth. 
+
+Detailed Forecast Data...
+
+Date             Mon 04/24/23      Tue 04/25/23
+Time (EDT)       08 11 14 17 20 23 02 05 08 11 14 17 20
+Temp (F)         33 47 57 58 48 38 34 32 34 52 60 62 54
+Wind Dir          N  N NW NW  N  N NE  E  E NE  W SW SE
+Wind Spd (MPH)    6  6  6  8  8  5  5  4  3  4  4  5  5
+Wind Gust (MPH)  12 12 12 11 14 11  8  4  4  8  9 10 11
+Wind Chl (F)     27 44 55 57 45 34 29 28 31 51 60 62 52
+Prob Precip (%)   1  0  0  0  0  0  0  0  0  0  1  3  7
+Prob Thunder (%)  0  0  0  0  0  0  0  0  0  0  1  2  1
+Sky Cover (%)     7  7  7  3 10  2 11 16 25 57 63 55 63
+Vsby     (SM)     9  9  9  9  9  9  9  9  9  9  9  
+Sta Pres (IN)   27.0 26.98 26.96 27.0 27.01 27.0  
+
+&&
+
+...THE FORECAST FOR SANTEETLAH LAKE...
+
+.TODAY...Northwest winds 5 to 10 mph. Waters a light chop. 
+.TONIGHT...North winds around 5 mph until midnight, becoming light
+winds. Waters smooth. 
+.TUESDAY...Light winds. Waters smooth. 
+
+Detailed Forecast Data...
+
+Date             Mon 04/24/23      Tue 04/25/23
+Time (EDT)       08 11 14 17 20 23 02 05 08 11 14 17 20
+Temp (F)         34 50 60 62 53 42 36 33 34 56 66 67 60
+Wind Dir          N  N NW NW  N  N  N  E  E NW  W NW NE
+Wind Spd (MPH)    4  8  8  9  6  4  3  2  3  2  3  4  3
+Wind Gust (MPH)   8 12 12 13 13 11  4  3  3  3  6  9  9
+Wind Chl (F)     31 47 59 61 51 39 34 33 33 56 66 67 60
+Prob Precip (%)   1  0  0  0  0  0  0  0  0  0  1  3  7
+Prob Thunder (%)  0  0  0  0  0  0  0  0  0  0  1  1  1
+Sky Cover (%)     7  6  6  4 10  3  8 18 25 64 51 49 66
+Vsby     (SM)     9  9  9  9  9  9  9  9  9  9  9  
+Sta Pres (IN)   27.23 27.22 27.20 27.22 27.23 27.21  
+
+&&
+
+$$

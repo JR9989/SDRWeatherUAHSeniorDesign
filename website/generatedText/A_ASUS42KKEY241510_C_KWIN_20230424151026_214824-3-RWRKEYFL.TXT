@@ -1,0 +1,63 @@
+ASUS42 KKEY 241510
+RWRKEY
+
+FLORIDA KEYS REGIONAL WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE KEY WEST FLORIDA
+1100 AM EDT MON APR 24 2023
+
+...FLORIDA KEYS...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+KEY WEST       SUNNY     81  72  74 VRB5      29.96S                  
+BOCA CHICA NAS MOSUNNY   82  72  71 VRB7      29.96S                  
+MARATHON       SUNNY     87  72  60 S5        29.96R HX  93           
+KEY LARGO      FAIR      82  73  74 SE12G17   29.96R                  
+
+...SOUTH FLORIDA...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+HOMESTEAD      PTSUNNY   81  70  69 SE9       29.96S                  
+WEST KENDALL   PTSUNNY   78  72  81 SE8       29.98R                  
+MIAMI          CLOUDY    80  69  69 SE8       29.98R                  
+OPA LOCKA      LGT RAIN  72  68  87 SE15      29.99S                  
+PEMBROKE PINES LGT RAIN  73  70  90 SE8       29.99S                  
+FT LAUDERDALE  PTSUNNY   75  72  88 S7        29.97S                  
+FT LAUD EXEC   PTSUNNY   81  69  67 S10       29.98R                  
+POMPANO BEACH  PTSUNNY   79  68  69 E13G22    29.98S                  
+BOCA RATON     PTSUNNY   81  72  74 SE12G20   29.99R                  
+WEST PALM BCH  TSTM      75  71  87 S10       29.99R FOG              
+
+...SOUTHWEST FLORIDA...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MARCO ISLAND   NOT AVBL                                               
+NAPLES         PTSUNNY   83  71  67 S6        29.96S                  
+FT MYERS-SW AP PTSUNNY   79  71  76 E7        29.97S                  
+FORT MYERS     PTSUNNY   81  68  64 SE8       29.96S                  
+
+...ADJACENT COASTAL WATERS...
+  
+STATION/POSITION TIME  SKY/WX   TEMP    WIND        PRES    WAVE
+                                AIR SEA DIR/SP/G            HT/PER
+                 (UTC)          (F)     (DEG/KT/KT) (MB)    (FT/S)
+PULASKI SHOAL LT NOT AVBL
+SAND KEY         NOT AVBL
+SOMBRERO KEY     1450            79     240/  6/  8 1013.7R
+LONG KEY         1450            80     200/  5/  6 1014.0R
+FOWEY ROCKS      NOT AVBL
+SATAN SHL BUOY   1430            81 80                N/A     1/ 4
+LOOP CURR BUOY   1335            78     100/  4/  6 1014.8R
+PULLEY RDG BUOY  1456               78                N/A     2/ 6
+
+...INTERNATIONAL WEATHER...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+NASSAU         MOSUNNY   81  66  61 E9        29.99R                  
+HAVANA         PTSUNNY   82  72  69 S7        29.94S                  
+VARADERO       MOSUNNY   82  68  61 VRB3      29.97S                  
+CANCUN         PTSUNNY   82  73  74 E9        29.92R                  
+COZUMEL        PTSUNNY   82  73  74 SE12      29.92R                  
+BELIZE CITY    PTSUNNY   86  75  70 E8        29.88R HX  95           
+
+$$
+  

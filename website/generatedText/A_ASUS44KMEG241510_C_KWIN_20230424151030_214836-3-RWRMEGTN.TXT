@@ -1,0 +1,101 @@
+ASUS44 KMEG 241510
+RWRMEG
+MEMPHIS CWA HOURLY WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE MEMPHIS TN
+1000 AM CDT MON APR 24 2023
+
+...WEST TENNESSEE...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MEMPHIS INTL   MOSUNNY   57  35  43 NE5       30.23R                  
+NWS MEMPHIS      N/A     56 N/A N/A MISG        N/A                   
+FRAYSER        SUNNY     55  41  57 NW6       30.22R                  
+JACKSON        SUNNY     53  35  50 E6        30.25R                  
+COVINGTON      SUNNY     54  39  58 CALM      30.25R                  
+SOMERVILLE     SUNNY     55  34  44 VRB5      30.22S                  
+BOLIVAR        SUNNY     55  36  47 VRB5      30.22S                  
+LEXINGTON      SUNNY     54  32  43 NE9       30.24S                  
+SELMER           N/A     54  34  47 NE10      30.23R                  
+SAVANNAH       SUNNY     55  36  47 VRB6G12   30.22S                  
+DYERSBURG      SUNNY     55  36  48 VRB3      30.27R                  
+UNION CITY     SUNNY     55  34  44 VRB5      30.25R                  
+PARIS          SUNNY     54  34  47 VRB5      30.24S                  
+HUNTINGDON     SUNNY     54  34  47 NE5       30.24R                  
+
+
+...EASTERN ARKANSAS...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+JONESBORO      SUNNY     53  42  66 NE8       30.25R                  
+WEST MEMPHIS   SUNNY     57  35  43 NE6       30.23R                  
+BATESVILLE     SUNNY     54  34  46 CALM      30.25R                  
+NEWPORT        SUNNY     52  44  74 VRB5      30.26R                  
+WALNUT RIDGE   SUNNY     54  40  59 NE7       30.25R                  
+BLYTHEVILLE    SUNNY     55  39  54 VRB6      30.25R                  
+SEARCY         SUNNY     56  42  59 E5        30.25R                  
+STUTTGART      SUNNY     56  43  61 NE8       30.23S                  
+PINE BLUFF     SUNNY     58  44  60 NE8       30.22R                  
+MONTICELLO     SUNNY     59  40  49 NE12      30.20R                  
+
+
+...NORTH MISSISSIPPI...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+TUPELO         SUNNY     58  36  43 NE13      30.21S                  
+OXFORD         SUNNY     55  36  47 E10       30.23S                  
+BATESVILLE       N/A     57  37  47 CALM      30.22S                  
+OLIVE BRANCH   SUNNY     55  32  41 NE8       30.22S                  
+TUNICA         SUNNY     57  41  55 NE9       30.23S                  
+CLARKSDALE     SUNNY     57  39  51 E7        30.23R                  
+CORINTH        SUNNY     55  34  44 NE6G12    30.23R                  
+IUKA           FAIR      54  35  48 NE7       30.22S                  
+GREENWOOD      SUNNY     61  38  42 NE9       30.19S                  
+COLUMBUS       SUNNY     57  36  44 NE13      30.16S                  
+STARKVILLE     MOSUNNY   57  41  54 NE10      30.17S                  
+GOLDEN TRIANGL SUNNY     57  39  51 VRB7      30.20S                  
+
+
+...SOUTHEAST MISSOURI...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+KENNETT        SUNNY     55  37  50 NE6       30.25R                  
+MALDEN         SUNNY     52  41  66 E5        30.27S                  
+WEST PLAINS    SUNNY     52  24  33 E8        30.24R                  
+POPLAR BLUFF   SUNNY     52  38  58 N3        30.26R                  
+CAPE GIRARDEAU SUNNY     52  38  58 CALM      30.26R                  
+
+
+...NORTHWEST ALABAMA...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MUSCLE SHOALS  SUNNY     55  34  45 E10       30.22S                  
+
+
+...MIDDLE TENNESSEE...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+NASHVILLE      MOSUNNY   55  31  39 NE6       30.26R                  
+CLARKSVILLE    SUNNY     52  34  50 NW5       30.25R                  
+DICKSON        SUNNY     52  27  37 CALM      30.23R                  
+COLUMBIA       SUNNY     52  32  46 NE8       30.22R                  
+LAWRENCEBURG   SUNNY     52  30  43 NE6G15    30.21S                  
+LEWISBURG      SUNNY     54  32  43 NE7       30.23R                  
+
+
+...WESTERN KENTUCKY...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PADUCAH        SUNNY     51  35  54 VRB3      30.26R                  
+FORT CAMPBELL  SUNNY     50  33  52 N3        30.24R                  
+
+
+...CENTRAL ARKANSAS...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+LITTLE ROCK    PTSUNNY   56  39  53 E5        30.23R                  
+
+
+SKY/WX REPORTED AS FAIR MEANS FEW OR NO CLOUDS BELOW
+12 THOUSAND FEET.
+
+  

@@ -1,0 +1,151 @@
+FXUS62 KGSP 241458
+AFDGSP
+
+Area Forecast Discussion
+National Weather Service Greenville-Spartanburg SC
+1058 AM EDT Mon Apr 24 2023
+
+.SYNOPSIS...
+High pressure remains in place through midweek. A pattern change 
+arrives Wednesday as a series of upper waves cross the South, 
+bringing rain chances through Friday. A cold front late Saturday 
+brings a chance of thunderstorms.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+As of 1040 AM EDT Monday: Mid cloud deck lingering across our
+extreme southern tier, but overall, sunny skies expected today,
+as cold front sags further south. Temps are basically on track,
+with highs expected to be 5-8 deg below normal. Dewpts are expected
+to mix out a tad, and critical RH for fire wx still looks good
+(See Fire Wx Section below). Have upgraded the Freeze Watch to a
+Freeze Warning for all the counties along the TN border and also
+Macon and northern Jackson, where temps will dip near 30. The rest
+of the NC mountains will have a Frost Advisory for min temps in
+the 33-36 deg range. Patchy frost may also be possible out across
+the I-40 corridor in the NC Foothills and NW Piedmont. But there
+may be enough wind to preclude more widespread formation there.
+
+Otherwise, today will be another pleasant day, as a surface high
+translates across the upper Ohio Valley.  The continued strength
+of winds looks to precipitate another round of lee troughing by
+late morning...with the 925mb chart depicting a WSW wind that
+should mix down during the afternoon hours as mostly sunny skies
+promote a daytime mixed layer.  In light of the cold front(s) that
+have graced us with their presence the last two days, afternoon
+highs will only creep into the upper 60s outside the NC mountains,
+some 6-8 degrees below normal.  After a long night of persistent
+winds and the reinforcement of dry dewpoints by the ongoing FROPA,
+much of the forecast area will likely see Min RHs in the mid-20s
+during the afternoon.
+
+Tonight, as high pressure slides into the Mid-Atlantic, winds
+will veer to the NE, and most of the CAMs depict another round of
+weak CAA.  Consequently, winds outside the Appalachians should once
+again stay elevated overnight.  This will hamper frost formation
+even as forecast lows fall 2-3 degrees compared to this morning's.
+In the mountains, though, NE flow is likely to have a more difficult
+time producing consistent channeled winds in many of the bigger
+mountain valleys (not to mention it being colder), so here,
+there's better confidence on frost formation.
+
+&&
+
+.SHORT TERM /TUESDAY THROUGH WEDNESDAY NIGHT/...
+As of 310 AM Monday: The center of high pressure moves into the Mid-
+Atlantic Tuesday and remains in place through the end of the period 
+in a cold air damming pattern. A series of short waves will cross 
+the area in the nearly zonal or low amplitude cyclonic flow around 
+an upper low over the Great Lakes. Tuesday remains dry but with 
+increasing clouds as moisture slowly increases. Highs will be 5 to 
+10 degrees below normal. This and the slight increase in moisture 
+should keep RH values near or just above 25%. That said, any delay 
+in the increase in moisture could lead to another day of increased 
+fire danger for NE GA. Deep moisture and isentropic lift move in 
+Tuesday night and maximize during the day Wednesday. There will also 
+be upper divergence as well. Despite this, QPF will be light as an in 
+situ wedge sets up keeping the air mass stable and limiting the 
+chance of convection. Precip chances taper off Wednesday night as 
+the synoptic and isentropic lift weaken, but clouds remain. Lows 
+remain nearly steady near to 5 degrees below normal. Highs Wednesday 
+will be significantly cooler given the CAD, but not as cold as a 
+full on classical CAD but still 15 to 20 degrees below normal.
+
+&&
+
+.LONG TERM /THURSDAY THROUGH SUNDAY/...
+As of 205 AM Monday: The first in a series of waves crosses the area 
+Thursday night as an upper low over the southern Plains opens and 
+moves east in the nearly zonal flow. Short wave ridge develops 
+Friday between the departing wave and an upper low diving into the 
+Midwest. A strong short wave rotating around the low crosses the 
+area late Saturday night or early Sunday with deep cyclonic flow 
+developing in the wake of the short wave. At the surface, precip 
+returns across the area Thursday into Thursday night as deep moisture 
+and forcing move in ahead of the surface low associated with the 
+short wave. Some weak in situ damming may remain ahead of this low, 
+but weak elevated instability develops as the associated frontal 
+systems put a squeeze play on the damming. Therefore, isolated 
+thunderstorms will be possible. There looks to be a break in the 
+precip chances late Friday night into Saturday morning between 
+systems. Precip chances return late Saturday into Sunday morning as 
+the cold front associated with the next system crosses the area. 
+Right now, instability looks limited given the timing of the front, 
+but a few thunderstorms will be possible. Precip ends during the 
+afternoon. Highs will be 5 to 10 degrees below normal Thursday and 
+Friday, rising to near normal Saturday and dropping a few degrees 
+Sunday. Lows remain nearly steady up to 5 degrees above normal 
+through Saturday night, then fall behind the front Sunday night.
+
+&&
+
+.AVIATION /15Z MONDAY THROUGH FRIDAY/...
+At KCLT and elsewhere: VFR continues for all terminals.  BKN/OVC
+clouds around 10-12 kft for the Upstate sites as a weak cold
+front sags south and east of the area this morning.  Light NW
+winds at all terminals at this point as the front pushes east,
+and perhaps even some NNE over the next few hours.  Today, clouds
+gradually decrease and another round of lee troughing is expected
+- resulting in a period of WSW winds advertised at the Upstate
+sites and KCLT.  Winds then become increasingly NE Monday night as
+high pressure migrates across the Upper Ohio Valley and into the
+Mid-Atlantic...and the resulting stratification portends increasing
+clouds in the last 6 hours of the new TAF period Tuesday morning.
+
+Outlook: Dry high pressure promotes continued VFR conditions into
+Tuesday afternoon. Moisture will begin to increase Tuesday night as
+the high migrates east. Unsettled wx is expected mid to late week,
+with a series of low pressure waves crossing the region.
+
+&&
+
+.FIRE WEATHER...
+RHs across the region will fall into the mid-20s this afternoon,
+with a few locations even seeing RHs in the upper teens.  Sunday was
+breezy enough (and with only limited relief during the overnight
+hours) that 1h fuel moisture has dropped considerably.  So, although
+winds are marginal for fire danger, RH alone warrants issuance of
+a Fire Danger Statement for all six NE GA counties...and caution
+should be exercised when burning across the forecast area.
+
+&&
+
+.GSP WATCHES/WARNINGS/ADVISORIES...
+GA...Increased Fire Danger until 8 PM EDT this evening for GAZ010-
+     017-018-026-028-029.
+NC...Freeze Warning from 2 AM to 9 AM EDT Tuesday for NCZ033-
+     048>052-058-059-062.
+     Frost Advisory from 2 AM to 9 AM EDT Tuesday for NCZ053-
+     063>065-501-503-505.
+SC...None.
+
+&&
+
+$$
+SYNOPSIS...RWH
+NEAR TERM...ARK/MPR
+SHORT TERM...RWH
+LONG TERM...RWH
+AVIATION...MPR
+FIRE WEATHER...MPR

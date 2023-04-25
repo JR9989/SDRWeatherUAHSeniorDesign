@@ -1,0 +1,151 @@
+SXUS54 KHUN 241523
+OSOHUN
+ALC033-043-049-059-071-077-079-083-089-095-103-TNC051-103-
+127-251523-
+ 
+Daily Temperatures and Precipitation
+National Weather Service Huntsville AL
+1023 AM CDT Mon Apr 24 2023
+
+Overnight Automated and Observer Reports - 24 hours ending at 
+Midnight LST
+ 
+STATION                      HIGH      LOW      PCPN
+ 
+Albertville - Airport          59       45
+Athens Water Plant             53       42      0.00
+Bankhead Natl Forest           55       41      0.00
+Courtland - Airport            54       43      0.00
+Crossville - CRN               59       44      0.00
+Cullman HCN-M                  57       43      0.00
+Decatur - Airport              54       42      0.00
+Fort Payne Airport             60       38                 
+Huntsville - Airport           56       43      0.00
+Huntsville - UAH               55       43      0.00
+Meridianville - Airport        52       42      
+Muscle Shoals - Airport        54       46      0.00
+Scottsboro - Airport           58       43      0.00
+Valley Head - Water Bd         59       42      0.00
+Vinemont - Cullman Arpt        55       43
+ 
+Coop Observer Temperature Reports - 24 hours ending at 7AM LST Today
+ 
+STATION                      HIGH      LOW       7AM
+  
+Decatur/Point Mallard          57       43        45         
+Guntersville                   60       46        46         
+Guntersville Water Plant       59       46        47   
+Lynchburg                      52       32        33         
+Madison 2N - COOP              52       41        42         
+Moulton                        52       38        46         
+Muscle Shoals                  53       41        46         
+Owens Crossroads               56       39        40 
+Univ of the South              44       37        40         
+
+
+All precipitation reports - 24 hours ending at 7AM LST Today
+Additional Precipitation Reports may be found in the CoCoRaHs
+daily summary at product identifier HUNLCOHUN.
+
+
+STATION NAME                           PCPN
+
+
+...Colbert County...
+Muscle Shoals                          0.00
+Muscle Shoals Airport                  0.00
+ 
+...Cullman County...
+No reports received. 
+ 
+...Dekalb County...
+Grove Oak                              0.00
+Henagar                                0.00
+Valley Head Water Bd.                  0.00
+
+
+...Franklin County Alabama...
+No reports received. 
+
+
+...Franklin County Tennessee...
+Anderson                               0.00
+Salem                                  0.00
+Sewanee                                0.00
+Tims Ford Dam                          0.00
+Univ of the South                      0.00
+
+
+...Jackson County...
+Flat Rock                              0.00
+Lim Rock                               0.00
+Scottsboro - HCN-M                     0.00
+Widows Creek                           0.00
+
+
+...Lauderdale County...
+Wright                                 0.00
+ 
+...Lawrence County...
+Moulton                                0.00
+Moulton TVA                            0.00
+Town Creek                             0.00
+Wheeler Dam                            0.00
+ 
+...Limestone County...
+Decatur Airport                        0.00
+ 
+...Lincoln County...
+No reports received. 
+ 
+...Madison County...
+Farley                                 0.00
+Haden                                  0.00
+Huntsville - Airport                   0.00
+Huntsville - Downtown                  0.00
+Huntsville - North                     0.00
+Huntsville - NSSTC                     0.00
+Madison - Madison Blvd                 0.00
+Madison 2N Coop                        0.00
+Owens Cross Roads                      0.00
+ 
+...Marshall County...
+Albertville                            0.00
+Guntersville                           0.00
+Guntersville Dam                       0.00
+ 
+...Moore County...
+Lynchburg                              0.00
+ 
+...Morgan County...
+Decatur - Point Mallard                0.00
+Falkville                              0.00
+ 
+Evening COOP Observer Reports - 24 hours prior ending at time 
+indicated Yesterday
+ 
+STATION            TIME      HIGH      LOW      PCPN
+ 
+Joppa              6 PM        64       41      0.00
+Vinemont 2NNW      7 PM        66       43      0.00
+Fayetteville COOP  8 PM        66       41      0.00
+ 
+...Local Agricultural Station Observations...
+HIGH...LOW...AND PRECIP ENDING AT 7 AM.
+ 
+                           AIR TEMP    24HR     7AM SOIL TEMPS
+STATION                  HI   LO  7AM  PCPN   2IN 4IN 8IN 20IN 40IN
+ 
+Courtland - CRN          51   38   43  0.00        
+Crossville - CRN         59   41   43  0.00    58  58  60  61   61
+Cullman HCN-M            57   43   43  0.02        
+Valley Head HCN-M        59   37   39  0.00        
+
+
+Data furnished by the Tennessee Valley Authority...the United States 
+Geological Survey...the U.S. Department of Agriculture...the NASA 
+CHARM Raingage Network...and the National Weather Service network of 
+Cooperative Observers and Backyard Weather Observers.
+ 
+$$
+

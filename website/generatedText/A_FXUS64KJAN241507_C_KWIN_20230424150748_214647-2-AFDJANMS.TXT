@@ -1,0 +1,108 @@
+FXUS64 KJAN 241507 AAB
+AFDJAN
+
+Area Forecast Discussion...UPDATED
+National Weather Service Jackson MS
+1007 AM CDT Mon Apr 24 2023
+
+...New MESOSCALE UPDATE...
+
+.MESOSCALE UPDATE...
+Issued at 1005 AM CDT Mon Apr 24 2023
+
+Rest of Today...Zonal flow aloft persists across the region today. 
+High pressure centered over the Ohio River Valley will continue to 
+settle into the forecast area today.  This will result in another 
+day of overall pleasant conditions across the CWA as a cooler drier 
+resides across the region.  Skies will continue to clear through the 
+course of the day, as highs range from the middle 60s to around 70 
+this afternoon with occasionally breezy northeast winds. 
+
+The ongoing forecast for today is in good shape.  Other than some 
+minor adjustments to hourly elements of the forecast based on 
+current trends, no major changes will be made on this morning's 
+update. /19/
+
+&&
+
+.DISCUSSION...
+Issued at 530 AM CDT Mon Apr 24 2023
+
+Today and Tonight:
+
+Early this morning, our forecast area remains beneath the right 
+entrance region of a departing jet streak. At the surface, the cold 
+front associated with this departing system is draped along the Gulf 
+Coast. As high pressure builds farther southward through the lower 
+levels, mesoanalysis fields show weak cold air advection and some 
+lower-level and mid-level frontogenesis sloping back to the north 
+under the favorable jet dynamics. There continue to be weak returns 
+on regional radars where some light precip is being generated from 
+the mid cloud deck. Subsidence will become more dominant as the jet 
+streak pulls out to the east today, and any sprinkles should die out 
+by mid morning. Before then expect only trace amounts of precip. The 
+dry air associated with the surface high will push afternoon RH 
+values down to around 30 percent over the northern half of our area, 
+so will maintain the "Limited" fire danger highlighted in our 
+Hazardous Weather Outlook text and graphics. /NF/
+
+Midweek: Mid level zonal flow will be draped across the Gulf Coast 
+extending from S Texas to the FL Panhandle. However, southerly lower 
+level flow looks to increase moisture, bringing rain chances back 
+into the forecast on Wednesday. While QPF seems to be relatively 
+low, the chance for an occasional heavy downpour or two can not be 
+ruled out. A shortwave trough will enter from NE Texas bringing the 
+possibly for some severe weather on Thursday. With steep lapse rates 
+(around 6.5-7 C/km) and some pretty decent MUCAPE values (between 
+2500 to 3000 J/kg), early model guidance shows the potential for an 
+environment favorable for isolated severe storms. Being that we are 
+still a couple of days away from this event, we will continue to 
+monitor for possible changes. Highs will be in the mid-upper 70s for 
+most of our CWA with some areas in the Pine Belt reaching low 80s. 
+Lows will begin in the high 40s to low 50s on Tuesday, warming up to 
+the high 50s to low 60s by Thursday. 
+
+Friday through Monday: The previous trough will be exiting our 
+region by Friday morning, although some showers may linger. Weather 
+should be mainly quiet through midday, giving us only a short break 
+as a long wave trough developing over the Central Plains makes its 
+way eastward. At the moment, models are still debating on the depth 
+of this trough with the ECMWF dipping this closed low down to 
+Central MS. The severe potential seems limited due to lack of 
+instability with the short recovering time in the mid levels as this 
+system enters only two days after the Thursday front. Nonetheless, 
+we will continue to monitor this system since we are a little less 
+than a week away. Highs will be low to mid 70s for the weekend, with 
+lows in the low to mid 50s. /LCP/
+
+&&
+
+.AVIATION...
+(06Z TAFS)
+Issued at 1236 AM CDT Mon Apr 24 2023
+
+VFR conditions with winds from the north-northeast around 5-10 kts
+are expected to prevail at all TAF sites through the period. /NF/
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Jackson       69  50  74  56 /   0   0  20  30 
+Meridian      70  47  75  55 /   0   0  10  30 
+Vicksburg     69  50  73  57 /   0   0  20  40 
+Hattiesburg   70  50  78  58 /   0   0  20  30 
+Natchez       69  52  74  59 /   0   0  30  30 
+Greenville    67  50  67  54 /   0  10  20  50 
+Greenwood     68  49  68  54 /   0  10  20  40 
+
+&&
+
+.JAN WATCHES/WARNINGS/ADVISORIES...
+MS...None.
+LA...None.
+AR...None.
+&&
+
+$$
+
+19

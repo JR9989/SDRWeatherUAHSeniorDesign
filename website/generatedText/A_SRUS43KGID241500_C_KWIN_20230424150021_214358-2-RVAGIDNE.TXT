@@ -1,0 +1,207 @@
+SRUS43 KGID 241500
+RVAGID
+NEC019-035-047-065-079-081-083-093-099-121-125-129-137-163-181- 
+KSC089-123-141-147-157-163-183-250600-
+
+Hydrologic Summary 
+National Weather Service Hastings NE
+1000 AM CDT Mon Apr 24 2023
+
+Station           Flood  Latest  Flood    6 Hr   24 Hr   Latest Obs
+                  Stage   Stage  Status   Change Change  Date/Time
+
+...Nebraska Rivers (Forecast Points)...
+
+PLATTE RIVER
+ Overton            7.5    2.67 Nonflood  -0.03   0.00   04/24 09:00
+ Kearney            7.0    2.26 Nonflood  -0.01  -0.02   04/24 09:15
+ Grand Island       6.5    3.33 Nonflood   0.01   0.01   04/24 09:15
+
+BEAVER CREEK
+ Genoa             15.0    3.22 Nonflood   0.01   0.00   04/24 09:45
+
+BEAVER CREEK
+ Beaver City       11.0    2.94 Nonflood   0.00   0.00   04/24 09:30
+
+LITTLE BLUE RIVER
+ Deweese           10.0    2.42 Nonflood   0.01   0.01   04/24 09:15
+
+CEDAR RIVER
+ Fullerton          9.0    2.03 Nonflood   0.01  -0.02   04/24 09:45
+
+LOUP RIVER
+ Genoa             10.5    4.27 Nonflood  -0.11  -0.04   04/24 09:45
+
+MIDDLE LOUP RIVER
+ Saint Paul         8.0    1.19 Nonflood  -0.08  -0.14   04/24 09:15
+
+MUD CREEK
+ Sweetwater        16.5    5.94 Nonflood   0.06   0.05   04/24 09:45
+
+NORTH LOUP RIVER
+ Saint Paul         7.0    2.57 Nonflood  -0.06  -0.07   04/24 09:15
+
+REPUBLICAN RIVER
+ Cambridge          9.0    1.22 Nonflood   0.00   0.00   04/24 09:45
+ Guide Rock        12.5    2.83 Nonflood   0.01   0.00   04/24 09:30
+ Hardy             11.0    1.30 Nonflood  -0.01  -0.01   04/24 09:30
+
+SAPPA CREEK
+ Stamford          19.0    6.77 Nonflood   0.00   0.01   04/24 09:15
+
+SOUTH LOUP RIVER
+ Saint Michael      9.5    2.37 Nonflood   0.00  -0.01   04/24 09:45
+
+WOOD RIVER
+ Alda              10.0    1.35 Nonflood   0.00   0.01   04/24 08:45
+
+...Kansas Rivers (Forecast Points)...
+
+BOW CREEK
+ Stockton           9.0    4.39 Nonflood   0.01   0.02   04/24 09:45
+
+N FORK OF THE SOLOMON RIVER
+ Glade             11.0    2.90 Nonflood   0.01   0.00   04/24 09:30
+ Portis            15.0    3.73 Nonflood   0.00  -0.03   04/24 09:30
+
+PRAIRIE DOG CREEK
+ Woodruff          19.0    1.40 Nonflood   0.00  -0.01   04/24 09:30
+
+SOLOMON RIVER
+ Beloit            20.0    2.79 Nonflood   0.01   0.00   04/24 09:45
+
+S FORK OF THE SOLOMON RIVER
+ Woodston          12.0    3.96 Nonflood   0.00  -0.02   04/24 09:30
+ Osborne           14.0    3.29 Nonflood   0.00   0.00   04/24 09:30
+
+...Central Nebraska and North Central Kansas Reservoir Data...
+
+Pool...Top of Conservation or Irrigation Pool
+Elev...Current water elevation above sea level
+
+Nebraska Reservoir        Pool (ft)    Elev (ft)    24 Hour Change 
+
+Calamus                   2244.00      2244.08        0.00
+Davis Creek               2094.00      2057.64        0.58
+Harlan                    1945.73      1939.62       -0.01
+
+Kansas Reservoir          Pool (ft)     ELEV (ft)    24 Hour Change
+
+Glen Elder                1455.60      1450.71       -0.04
+Kirwin                    1729.25      1723.95        0.01
+Lovewell                  1582.60      1581.62        0.03
+Norton                    2304.30      2290.91        0.00
+Webster                   1892.45      1883.06        0.04
+ 
+Other sites across Nebraska
+
+  Station           Flood  Latest  Latest Obs  24 hour
+  Name              Stage   Stage   Day/Time    Change 
+
+  ...Big Sandy Creek...
+Alexandria         13.5     3.29   Mon 09 AM     0.01
+
+
+  ...Buffalo Creek...
+Overton 2E           11     2.48   Mon 10 AM     0.00
+
+
+  ...Cedar River...
+Spalding 3WNW         8     2.89   Mon 10 AM     0.25
+  ...Center Creek...
+Franklin              9     1.06   Mon 09 AM     0.00
+
+
+  ...Clear Creek...
+Shelby 9N             8     3.89   Mon 10 AM     0.00
+
+
+  ...Elm Creek...
+Amboy              14.5     8.03   Mon 09 AM    -0.03
+Elm Creek 1W        9.5     0.56   Mon 10 AM     0.00
+
+
+  ...Little Blue River...
+Deshler              18     5.72   Mon 10 AM     0.01
+Hebron             13.5     2.72   Mon 09 AM     0.00
+
+
+  ...Mira Creek...
+North Loup 1NW        9     0.98   Mon 10 AM     0.00
+
+
+  ...Muddy Creek...
+Arapahoe 4NW         29     5.79   Mon 10 AM     0.01
+Arapahoe             24        M   M                M
+
+
+  ...North Loup River...
+Ord #2              5.5     2.44   Mon 10 AM    -0.05
+
+
+  ...Platte River...
+Overton 3W          7.5     2.59   Mon 09 AM     0.00
+Odessa                7     2.60   Mon 09 AM     0.00
+
+
+  ...Prairie Creek...
+Silver Creek          9     1.78   Mon 10 AM     0.01
+
+
+  ...Republican River...
+Orleans 2W            9     1.02   Mon 10 AM    -0.01
+Riverton              9     1.63   Mon 09 AM     0.01
+
+
+  ...Silver Creek...
+Silver Creek          9     2.82   Mon 10 AM     0.00
+
+
+  ...Spring Creek...
+Overton 3S          8.5     2.39   Mon 10 AM    -0.01
+
+
+  ...Thompson Creek...
+Riverton           10.5     3.92   Mon 09 AM     0.02
+
+
+  ...Turkey Creek...
+Dannebrog 3N         17     4.21   Mon 09 AM     0.01
+Edison 5NNE          18     4.75   Mon 10 AM     0.02
+Edison 2E          17.5     4.00   Mon 09 AM     0.00
+Naponee              10     1.28   Mon 09 AM     0.01
+
+
+  ...Warm Slough...
+Central City         10     2.19   Mon 10 AM     0.00
+
+
+  ...Wood River...
+Alda 1SW             10     1.35   Mon 09 AM     0.01
+Grand Island Diversion     10.22   Mon 09 AM     0.76
+ 
+Other sites across Kansas
+
+  ...Solomon River...
+Glen Elder           21     7.37   Mon 09 AM     0.00
+
+
+  ...South Fork Solomon River...
+Damar 4N            8.5     2.41   Mon 09 AM     0.01
+
+
+  ...White Rock Creek...
+Burr Oak 4NE         15     1.63   Mon 10 AM     0.00
+Lovewell 3NW         13        M   M                M
+ 
+ For real-time river observations and forecasts go to: 
+ water.weather.gov/ahps2/index.php?wfo=gid 
+
+ This product is computer generated and is not monitored directly for
+ quality control. Data sources include the U.S. Geological Survey,
+ U.S. Bureau of Reclamation, U.S. Army Corps of Engineers, state 
+ agencies and the National Weather Service. 
+
+
+$$
+

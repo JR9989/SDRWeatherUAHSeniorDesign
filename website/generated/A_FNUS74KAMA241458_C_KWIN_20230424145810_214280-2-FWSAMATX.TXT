@@ -1,0 +1,145 @@
+FNUS74 KAMA 241458
+FWSAMA
+
+Spot Forecast for Armstrong 1705...tfs
+National Weather Service Amarillo TX
+958 AM CDT Mon Apr 24 2023
+
+Forecast is based on forecast start time of 1000 CDT on April 24. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office at (806) 335-1421, if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+Neither elevated nor critical fire weather conditions are anticipated 
+at the burn site through Tuesday as twenty foot winds are expected
+to remain generally below 15 mph and minimum relative humidity values
+are forecast to remain well above 20 percent both today and Tuesday. 
+There is a chance of showers and perhaps isolated thunderstorms 
+today and tonight, with precipitation becoming more likely Tuesday.
+Winds may be gusty and erratic in and near any thunderstorms that
+develop today through Tuesday. 
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly cloudy (70-80 percent). Slight chance of 
+                    rain showers late in the morning. Slight chance 
+                    of rain showers late in the afternoon. 
+Chance of pcpn......20 percent. 
+LAL.................No Tstms. 
+Temperature.........43 at forecast start...Max 58. 
+RH..................89 percent at forecast start...Min 62 percent. 
+Wind (20 ft)........Winds south at 11 mph at forecast 
+                    start...otherwise South winds 12 to 16 mph. 
+Mixing height.......1900 ft AGL at forecast start...otherwise 3800 
+                    ft AGL. 
+Transport winds.....South 20 to 23 mph. 
+Smoke dispersal.....Good /32600 knot-ft/ at forecast start. 
+                    Max...excellent /76500 knot-ft/. 
+Haines Index........3 or very low potential for large plume 
+                    dominated fire growth at forecast start...max 
+                    3. 
+
+TIME (CDT)      10 AM  NOON   2 PM   4 PM   
+Sky cover.......CLOUDY CLOUDY CLOUDY MCLDY  
+Weather cov.....S CHC  S CHC         S CHC  
+Weather type....RNSHWR RNSHWR NONE   RNSHWR 
+Tstm cov........                            
+Chc of pcpn (%).20     20     10     20     
+LAL.............1      1      1      1      
+Temp............43     45     48     53     
+RH..............89     84     77     69     
+20 ft wind......S 12   S 13   S 14   S 15   
+20 ft wind gust.14     16     19     20     
+Mix hgt (kft)...1.9    2.5    3.1    3.6    
+Transport wind..S 20   S 20   S 21   S 22   
+Haines index....3      3      3      3      
+Vrate kt-ft/1K..33     43     56     69     
+Ventrate Cat....POOR   FAIR   FAIR   GOOD   
+
+.TONIGHT...
+
+Sky/weather.........Mostly cloudy (70-80 percent). Slight chance of 
+                    rain showers early in the evening, then chance 
+                    of rain showers. Slight chance of thunderstorms 
+                    overnight. 
+Chance of pcpn......50 percent. 
+LAL.................No Tstms until 0100, then 1-8 strikes. 
+Temperature.........Min 47. 
+RH..................Max 100 percent. 
+Wind (20 ft)........Southeast winds 9 to 16 mph. Gusty and erratic 
+                    winds expected near thunderstorms overnight. 
+Mixing height.......700 ft AGL. 
+Transport winds.....South 15 to 22 mph. 
+Smoke dispersal.....Excellent (67400 knot-ft) early in the evening 
+                    decreasing to poor (9100 knot-ft) late in the 
+                    night. 
+Haines Index........3 or very low potential for large plume 
+                    dominated fire growth. 
+
+TIME (CDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky cover.......MCLDY  MCLDY  MCLDY  CLOUDY MCLDY  CLOUDY 
+Weather cov.....S CHC  CHANCE CHANCE CHANCE CHANCE CHANCE 
+Weather type....RNSHWR RNSHWR RNSHWR RNSHWR RNSHWR RNSHWR 
+Tstm cov........                            S CHC  S CHC  
+Chc of pcpn (%).20     40     40     40     30     50     
+LAL.............1      1      1      1      2      2      
+Temp............54     54     49     53     51     51     
+RH..............66     70     88     74     86     89     
+20 ft wind......S 16   SE 14  SE 16  SE 14  SE 13  SE 10  
+20 ft wind gust.21     18     22     19     18     15     
+Mix hgt (kft)...3.5    1.7    0.7    0.7    0.7    1.1    
+Transport wind..S 22   SE 17  SE 18  SE 16  S 15   S 15   
+Haines index....3      3      3      3      3      3      
+Vrate kt-ft/1K..67     25     11     10     9      15     
+Ventrate Cat....GOOD   POOR   POOR   POOR   POOR   POOR   
+
+.TUESDAY...
+
+Sky/weather.........Mostly cloudy (80-90 percent). Chance of rain 
+                    showers and slight chance of thunderstorms in 
+                    the morning, then rain showers likely and 
+                    chance of thunderstorms in the afternoon. 
+Chance of pcpn......70 percent. 
+LAL.................1-8 strikes until 1000, then No Tstms until 
+                    1600, then 9-15 strikes. 
+Temperature.........Max 74. 
+RH..................Min 37 percent. 
+Wind (20 ft)........South winds 7 to 13 mph. Gusty and erratic 
+                    winds expected near thunderstorms early in the 
+                    morning. Gusty and erratic winds expected near 
+                    thunderstorms late in the afternoon. 
+Mixing height.......6400 ft AGL. 
+Transport winds.....South 12 to 20 mph. 
+Smoke dispersal.....Poor (9500 knot-ft) early in the morning 
+                    increasing to excellent (96200 knot-ft) in the 
+                    afternoon. 
+Haines Index........3 or very low potential for large plume 
+                    dominated fire growth. 
+
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky cover.......CLOUDY CLOUDY MCLDY  MCLDY  MCLDY  MCLDY  
+Weather cov.....CHANCE CHANCE CHANCE CHANCE LIKELY LIKELY 
+Weather type....RNSHWR RNSHWR RNSHWR RNSHWR RNSHWR RNSHWR 
+Tstm cov........S CHC  S CHC                       CHANCE 
+Chc of pcpn (%).50     50     50     50     70     70     
+LAL.............2      2      1      1      1      3      
+Temp............50     48     55     63     70     73     
+RH..............89     100    80     58     42     37     
+20 ft wind......SE 9   S 7    S 9    S 9    S 10   SE 12  
+20 ft wind gust.13     12     11     13     14     16     
+Mix hgt (kft)...1.3    1.3    1.7    3.2    4.9    6.4    
+Transport wind..S 15   S 12   S 14   S 15   S 15   SW 17  
+Haines index....3      3      3      3      3      3      
+Vrate kt-ft/1K..16     13     20     42     64     96     
+Ventrate Cat....POOR   POOR   POOR   FAIR   GOOD   GOOD   
+
+$$
+Forecaster...Andrade
+Requested by...Seth Graham
+Type of request...WILDFIRE
+.TAG 2310483.0/AMA
+.DELDT 04/24/23
+.FormatterVersion 2.0.0

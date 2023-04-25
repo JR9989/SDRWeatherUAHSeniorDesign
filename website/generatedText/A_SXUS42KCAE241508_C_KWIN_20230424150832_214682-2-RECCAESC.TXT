@@ -1,0 +1,56 @@
+SXUS42 KCAE 241508
+RECCAE
+
+Lake Wind Forecast
+National Weather Service Columbia SC
+1108 AM EDT Mon Apr 24 2023
+
+SCZ031-037-038-137-250300-
+Lake Marion-
+1108 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...N winds 5 to 10 kt. 
+.TONIGHT...NE winds around 5 kt. 
+.TUE...NE winds 5 to 10 kt. 
+.TUE NIGHT...E winds around 5 kt. 
+.WED...E winds 5 to 10 kt.  
+
+$$
+
+SCZ020-026>028-250300-
+Lake Murray-Monticello Reservoir-
+1108 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...N winds 5 to 10 kt. 
+.TONIGHT...NW winds around 5 kt, becoming NE around 5 kt after
+midnight. 
+.TUE...NE winds 5 to 10 kt. 
+.TUE NIGHT...E winds around 5 kt. 
+.WED...E winds around 5 kt.  
+
+$$
+
+GAZ040-063-064-SCZ018-250300-
+Lake Thurmond-
+1108 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...NE winds around 5 kt, becoming NW. 
+.TONIGHT...N winds around 5 kt, becoming NE after midnight. 
+.TUE...NE winds 5 to 10 kt. 
+.TUE NIGHT...E winds around 5 kt. 
+.WED...NE winds 5 to 10 kt.  
+
+$$
+
+SCZ021-022-250300-
+Lake Wateree-
+1108 AM EDT Mon Apr 24 2023
+
+.THIS AFTERNOON...N winds around 5 kt. 
+.TONIGHT...N winds around 5 kt. 
+.TUE...NE winds 5 to 10 kt. 
+.TUE NIGHT...E winds around 5 kt. 
+.WED...NE winds around 5 kt.  
+
+$$
+

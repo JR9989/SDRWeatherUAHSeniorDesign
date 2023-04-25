@@ -1,0 +1,57 @@
+SHUS44 KBRO 241533
+AGOBRO
+Temperature And Precipitation Summary For Deep South Texas
+National Weather Service Brownsville Tx
+1033 AM CDT Mon Apr 24 2023
+
+Highest Temp Yesterday/Lowest Temp since Yesterday's Observation
+
+
+                            Air            24HR   Dew/Frost   Evap
+   Station             HI   LO  7-8AM      PCPN
+
+Armstrong              77   60   60        2.07          
+Brownsville*           85   64   66        0.85              -0.53
+Edinburg               86   61   61        0.50          
+Falcon Dam              M   58   61        1.13               0.48                                              
+Harlingen               M   64   64        0.81                                                      
+Isla Blanca/S.Padre     M    M    M        1.33                                                           
+McAllen                85   62   62        0.53          
+McCook                 84   60   60        0.46               0.11
+Port Isabel            84   62   63        1.71          
+Port Mansfield         80    M   61        1.05                                                    
+Rio Grande City        80   60   62        1.30               0.95
+San Manuel             86   60   60        1.00                                                               
+Weslaco                87   61   61        0.56               0.00
+
+
+      Dew                            Frost
+
+
+0 ... None                     0 ... None
+1 ... Light                    5 ... Light
+2 ... Moderate                 6 ... Moderate
+3 ... Heavy                    7 ... Heavy
+4 ... Very Heavy               8 ... Freeze Damage/No Frost
+9 ... Missing                  9 ... Missing
+
+
+*Observation period 12 am to 12 am, all others 7 am to 7 am
+
+
+$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

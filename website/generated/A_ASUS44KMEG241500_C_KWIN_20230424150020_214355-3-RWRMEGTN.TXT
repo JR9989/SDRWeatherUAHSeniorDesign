@@ -1,0 +1,58 @@
+ASUS44 KMEG 241500
+RWRTN 
+TENNESSEE HOURLY STATE WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE MEMPHIS TN
+1000 AM CDT MON APR 24 2023
+
+TNZ002-004-019-021-049-052-054-088>092-241600-
+WEST TENNESSEE
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MEMPHIS INTL   MOSUNNY   57  35  43 NE5       30.23R                  
+NWS MEMPHIS      N/A     56 N/A N/A MISG        N/A                   
+JACKSON        SUNNY     53  35  50 E6        30.25R                  
+DYERSBURG      SUNNY     55  36  48 VRB3      30.27R                  
+$$
+
+TNZ008-025-027-028-033-062-065-066-241600-
+NORTH MIDDLE TENNESSEE
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+NASHVILLE      MOSUNNY   55  31  39 NE6       30.26R                  
+CLARKSVILLE    SUNNY     52  34  50 NW5       30.25R                  
+SMYRNA         SUNNY     53  31  42 N5        30.26R                  
+CROSSVILLE     SUNNY     48  25  40 N8        30.20S                  
+$$
+
+TNZ061-075-076-078-094-096-097-241600-
+SOUTH MIDDLE TENNESSEE
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+$$
+
+TNZ017-018-042-046-047-241600-
+NORTHEAST TENNESSEE
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+TRI CITIES     MOSUNNY   50  27  40 NW7       30.18S                  
+$$
+
+TNZ012-013-036-069-073-074-241600-
+CENTRAL EAST TENNESSEE
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+KNOXVILLE      MOSUNNY   52  28  39 N10       30.20S                  
+OAK RIDGE      SUNNY     51  27  39 E7        30.22S                  
+$$
+
+TNZ083-085-099-241600-
+SOUTHEAST TENNESSEE
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CHATTANOOGA    MOSUNNY   55  31  39 N10       30.21R                  
+$$
+
+SKY/WX REPORTED AS FAIR MEANS FEW OR NO CLOUDS BELOW
+12 THOUSAND FEET.
+
+  

@@ -1,0 +1,43 @@
+SRUS43 KKRF 241445
+RVMKRF
+ 
+RESERVOIR DATA
+NWS Missouri Basin River Forecast Center Pleasant Hill MO 
+1445Z Mon Apr 24 2023
+ 
+U.S. Army Corps of Engineers - Omaha District 
+and U.S. Bureau of Reclamation Reservoir Data 
+ 
+ 
+:data date/time is 04-24-2023 00:00 
+
+.B KRF 20230424 C DH00/HP/QID/QTD
+:
+:LID    Reservoir           Pool Elev    Inflow      Outflow
+:                           Feet MSL     KCFS        KCFS
+TBRM8 : Tiber Dam         :  2980.88  /   0.525  /    0.525 
+CLKM8 : Clark Canyon Dam  :  5533.49  /   0.217  /    0.028 
+CYNM8 : Canyon Ferry Dam  :  3779.62  /   5.172  /    5.881 
+SBDW4 : Boysen Dam        :  4712.50  /   1.219  /    2.987 
+CDYW4 : Buffalo Bill Dam  :  5362.30  /   0.388  /    1.554 
+BHRM8 : Yellowtail Dam    :  3618.31  /   5.301  /    5.500 
+JMDN8 : Jamestown Dam     :  1432.92  /   0.467  /    0.051 
+GLUN8 : Heart Butte Dam   :  2068.20  /   0.515  /    2.088 
+KEYW4 : Keyhole Dam       :  4091.89  /   0.000  /    0.000 
+PACS2 : Pactola Dam       :  4575.50  /   0.056  /    0.031 
+SHAS2 : Shadehill Dam     :  2268.48  /   0.228  /    0.022 
+GLEW4 : Glendo Dam        :  4622.92  / -9999.000  /  -9999.000 
+BWNN8 : Bowman-Haley Dam  :  2752.80  /   0.048  /    0.114 
+JAMN8 : Pipestem Dam      :  1459.13  /   1.256  /    0.107 
+CFDC2 : Chatfield Dam     :  5434.38  /   0.007  /    0.000 
+EGDC2 : Cherry Creek Dam  :  5546.92  /   0.029  /    0.022 
+BCDC2 : Bear Creek Dam    :  5551.99  /   0.005  /    0.004 
+.END
+ 
+ 
+:END OF MESSAGE
+ 
+
+$$
+
+

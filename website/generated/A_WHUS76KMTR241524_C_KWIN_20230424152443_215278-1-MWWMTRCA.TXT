@@ -1,0 +1,260 @@
+WHUS76 KMTR 241524
+MWWMTR
+
+URGENT - MARINE WEATHER MESSAGE
+National Weather Service San Francisco Bay Area
+824 AM PDT Mon Apr 24 2023
+
+PZZ570-242330-
+/O.CON.KMTR.GL.W.0028.000000T0000Z-230425T1000Z/
+Waters from Point Arena to Point Reyes 10-60 NM-
+824 AM PDT Mon Apr 24 2023
+
+...GALE WARNING REMAINS IN EFFECT UNTIL 3 AM PDT TUESDAY...
+
+* WHAT...Northwest winds 20 to 25 kt with gusts up to 40 kt and 
+  seas around 11 ft.
+
+* WHERE...Waters from Point Arena to Point Reyes 10-60 NM.
+
+* WHEN...Until 3 AM PDT Tuesday.
+
+* IMPACTS...Strong winds will cause hazardous seas which could 
+  capsize or damage vessels and reduce visibility.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners should alter plans to avoid these hazardous conditions.
+Remain in port, seek safe harbor, alter course, and/or secure the
+vessel for severe conditions.
+
+&&
+
+$$
+
+PZZ571-242330-
+/O.CON.KMTR.GL.W.0028.000000T0000Z-230425T1000Z/
+Waters from Point Reyes to Pigeon Point 10-60 NM-
+824 AM PDT Mon Apr 24 2023
+
+...GALE WARNING REMAINS IN EFFECT UNTIL 3 AM PDT TUESDAY...
+
+* WHAT...Northwest winds 20 to 30 kt with gusts up to 40 kt and 
+  seas around 11 ft.
+
+* WHERE...Waters from Point Reyes to Pigeon Point 10-60 NM.
+
+* WHEN...Until 3 AM PDT Tuesday.
+
+* IMPACTS...Strong winds will cause hazardous seas which could 
+  capsize or damage vessels and reduce visibility.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners should alter plans to avoid these hazardous conditions.
+Remain in port, seek safe harbor, alter course, and/or secure the
+vessel for severe conditions.
+
+&&
+
+$$
+
+PZZ575-242330-
+/O.CON.KMTR.GL.W.0028.000000T0000Z-230425T1000Z/
+Waters from Pigeon Point to Point Pinos 10-60 NM-
+824 AM PDT Mon Apr 24 2023
+
+...GALE WARNING REMAINS IN EFFECT UNTIL 3 AM PDT TUESDAY...
+
+* WHAT...Northwest winds 15 to 25 kt with gusts up to 35 kt and 
+  seas 9 to 11 ft.
+
+* WHERE...Waters from Pigeon Point to Point Pinos 10-60 NM.
+
+* WHEN...Until 3 AM PDT Tuesday.
+
+* IMPACTS...Strong winds will cause hazardous seas which could 
+  capsize or damage vessels and reduce visibility.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners should alter plans to avoid these hazardous conditions.
+Remain in port, seek safe harbor, alter course, and/or secure the
+vessel for severe conditions.
+
+&&
+
+$$
+
+PZZ576-242330-
+/O.CON.KMTR.GL.W.0028.000000T0000Z-230425T1000Z/
+Waters from Point Pinos to Point Piedras Blancas 10-60 NM-
+824 AM PDT Mon Apr 24 2023
+
+...GALE WARNING REMAINS IN EFFECT UNTIL 3 AM PDT TUESDAY...
+
+* WHAT...Northwest winds 20 to 25 kt with gusts up to 35 kt and 
+  seas 9 to 11 ft.
+
+* WHERE...Waters from Point Pinos to Point Piedras Blancas 10- 
+  60 NM.
+
+* WHEN...Until 3 AM PDT Tuesday.
+
+* IMPACTS...Strong winds will cause hazardous seas which could 
+  capsize or damage vessels and reduce visibility.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners should alter plans to avoid these hazardous conditions.
+Remain in port, seek safe harbor, alter course, and/or secure the
+vessel for severe conditions.
+
+&&
+
+$$
+
+PZZ540-242330-
+/O.CON.KMTR.GL.W.0028.000000T0000Z-230425T0400Z/
+Coastal Waters from Point Arena to Point Reyes California out to
+10 nm-
+824 AM PDT Mon Apr 24 2023
+
+...GALE WARNING REMAINS IN EFFECT UNTIL 9 PM PDT THIS EVENING...
+
+* WHAT...Northwest winds 20 to 30 kt with gusts up to 40 kt and 
+  seas 6 to 11 ft.
+
+* WHERE...Coastal Waters from Point Arena to Point Reyes 
+  California out to 10 nm.
+
+* WHEN...Until 9 PM PDT this evening.
+
+* IMPACTS...Strong winds will cause hazardous seas which could 
+  capsize or damage vessels and reduce visibility.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners should alter plans to avoid these hazardous conditions.
+Remain in port, seek safe harbor, alter course, and/or secure the
+vessel for severe conditions.
+
+&&
+
+$$
+
+PZZ565-242330-
+/O.CON.KMTR.GL.W.0028.000000T0000Z-230425T0400Z/
+Coastal Waters from Point Pinos to Point Piedras Blancas
+California out to 10 nm-
+824 AM PDT Mon Apr 24 2023
+
+...GALE WARNING REMAINS IN EFFECT UNTIL 9 PM PDT THIS EVENING...
+
+* WHAT...Northwest winds 15 to 25 kt with gusts up to 35 kt and 
+  seas 8 to 10 ft.
+
+* WHERE...Coastal Waters from Point Pinos to Point Piedras 
+  Blancas California out to 10 nm.
+
+* WHEN...Until 9 PM PDT this evening.
+
+* IMPACTS...Strong winds will cause hazardous seas which could 
+  capsize or damage vessels and reduce visibility.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Mariners should alter plans to avoid these hazardous conditions.
+Remain in port, seek safe harbor, alter course, and/or secure the
+vessel for severe conditions.
+
+&&
+
+$$
+
+PZZ545-242330-
+/O.CON.KMTR.SC.Y.0078.000000T0000Z-230425T1000Z/
+Coastal Waters from Point Reyes to Pigeon Point California out to
+10 nm-
+824 AM PDT Mon Apr 24 2023
+
+...SMALL CRAFT ADVISORY REMAINS IN EFFECT UNTIL 3 AM PDT
+TUESDAY...
+
+* WHAT...Northwest winds 15 to 25 kt with gusts up to 35 kt and 
+  seas 8 to 10 ft, resulting in hazardous conditions near harbor 
+  entrances.
+
+* WHERE...Coastal Waters from Point Reyes to Pigeon Point 
+  California out to 10 nm.
+
+* WHEN...Until 3 AM PDT Tuesday.
+
+* IMPACTS...Conditions will be hazardous to small craft 
+  especially when navigating in or near harbor entrances.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Small craft should use extreme caution when navigating in or near
+harbor entrances.
+
+&&
+
+$$
+
+PZZ560-242330-
+/O.CON.KMTR.SC.Y.0078.000000T0000Z-230425T1000Z/
+Coastal Waters from Pigeon Point to Point Pinos California out to
+10 nm-
+824 AM PDT Mon Apr 24 2023
+
+...SMALL CRAFT ADVISORY REMAINS IN EFFECT UNTIL 3 AM PDT
+TUESDAY...
+
+* WHAT...Northwest winds 15 to 25 kt with gusts up to 35 kt and 
+  seas 8 to 10 ft.
+
+* WHERE...Coastal Waters from Pigeon Point to Point Pinos 
+  California out to 10 nm.
+
+* WHEN...Until 3 AM PDT Tuesday.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&&
+
+$$
+
+PZZ535-242330-
+/O.CON.KMTR.SC.Y.0079.230424T1700Z-230425T0400Z/
+Monterey Bay-
+824 AM PDT Mon Apr 24 2023
+
+...SMALL CRAFT ADVISORY REMAINS IN EFFECT UNTIL 9 PM PDT THIS
+EVENING...
+
+* WHAT...Northwest winds 15 to 25 kt with gusts up to 30 kt 
+  expected.
+
+* WHERE...Monterey Bay.
+
+* WHEN...Until 9 PM PDT this evening.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&&
+
+$$
+
+For more information from the National Weather Service visit
+http://weather.gov/sanfrancisco

@@ -1,0 +1,132 @@
+ASUS45 KBOU 241510
+RWRCO 
+
+WEATHER ROUNDUP FOR COLORADO
+NATIONAL WEATHER SERVICE DENVER/BOULDER CO
+900 AM MDT MON APR 24 2023
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12000 FEET WITH NO
+SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+COZ001>005-013-030-031-241600-
+...NORTHWEST COLORADO...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CRAIG          FAIR      38  27  64 CALM      29.96F                  
+HAYDEN         NOT AVBL                                               
+MEEKER         PTSUNNY   40  27  59 CALM      29.95F                  
+RANGELY        FAIR      42  31  66 CALM      29.94F                  
+RABBIT EARS PA NOT AVBL                                               
+STEAMBOAT SPGS FAIR      30  25  79 CALM      29.96F                  
+WALDEN         FAIR      36  23  60 SE3       29.98S                  
+$$
+
+COZ006>008-011-241600-
+...WEST CENTRAL VALLEYS...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+GRAND JUNCTION PTSUNNY   50  32  50 SE8       29.92F                  
+MONTROSE       CLOUDY    48  36  63 SE9       29.97S                  
+EAGLE          FAIR      38  25  59 CALM      30.00F                  
+RIFLE          FAIR      42  30  62 CALM      29.96F                  
+DELTA          CLOUDY    51  28  42 CALM      29.96S                  
+NUCLA          NOT AVBL                                               
+$$
+
+COZ017>023-064>068-241600-
+...SOUTHWEST COLORADO...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+DURANGO        LGT RAIN  45  34  65 SW6       29.99F                  
+CORTEZ         FAIR      44  39  82 CALM      29.98F                  
+PAGOSA SPRINGS LGT RAIN  36  36 100 CALM      30.03S                  
+TELLURIDE      CLOUDY    34  30  86 CALM      30.04S                  
+WOLF CREEK PAS SNOW      23  23 100 SW20G26   30.10S VSB<1/4 WCI   8  
+$$
+
+COZ009-010-012-014-032>034-037-058>063-241600-
+...CENTRAL COLORADO...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ASPEN          FAIR      40  18  41 CALM      29.96F                  
+BUENA VISTA    FAIR      42  22  44 CALM      29.97S                  
+COPPER MTN     CLOUDY    28  18  64 W3        30.06S                  
+BERTHOUD PASS  CLOUDY    18  12  79 NW14G21   30.03S WCI   4          
+DAKOTA HILL    FAIR      25  16  68 NW10G25   30.01R WCI  15          
+COTTONWOOD PAS FAIR      37  19  48 CALM      30.00S                  
+GUNNISON       CLOUDY    38  24  57 VRB5      30.00F                  
+GRANBY         CLOUDY    29  23  76 S3        30.02S                  
+KREMMLING      PTSUNNY   32  27  80 CALM      30.01S                  
+LEADVILLE      FAIR      34  15  46 CALM      29.99F                  
+SALIDA         FAIR      44  25  48 N6        30.03F                  
+SUNLIGHT       FAIR      28  18  64 CALM      30.07F                  
+WILKERSON PASS FAIR      32  14  47 CALM      30.06S                  
+$$
+
+COZ069>075-241600-
+...SAN LUIS VALLEY/SANGRE DE CRISTO MOUNTAINS...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ALAMOSA        CLOUDY    42  26  53 N9        29.97S                  
+DEL NORTE      DRIZZLE   37  33  84 W3        30.00F                  
+LA VETA PASS   FAIR      32  21  64 W10       30.02R WCI  24          
+SAGUACHE         N/A     43  21  42 NW9       30.01S                  
+$$
+
+COZ035-036-038>040-241600-
+...NORTHERN COLORADO FRONT RANGE...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+DENVER INTL AP PTSUNNY   47  26  44 W9        29.92R                  
+AURORA         PTSUNNY   46  23  40 W5        29.91S                  
+WATKINS        NOT AVBL                                               
+ERIE           FAIR      45  25  45 CALM      29.92F                  
+BOULDER        FAIR      43  28  56 CALM      29.91S                  
+CENTENNIAL     PTSUNNY   44  27  51 CALM      29.92S                  
+BROOMFIELD     PTSUNNY   45  27  49 CALM      29.93S                  
+FORT COLLINS   FAIR      46  26  45 VRB3      29.92F                  
+LONGMONT       FAIR      46  31  56 S3        29.94S                  
+$$
+
+COZ041-046-047-076>085-087-088-241600-
+...PIKES PEAK/PALMER DIVIDE AND SOUTHERN FOOTHILLS...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+COLO. SPRINGS  PTSUNNY   50  27  40 CALM      29.92F                  
+A. F. ACADEMY  FAIR      44  29  55 N6        29.91F                  
+SCHRIEVER AFB  FAIR      50  25  38 W7        29.89S                  
+CHEYENNE MTN     N/A     48  27  43 N7        29.91F                  
+ELLICOTT       FAIR      49  28  43 NW8       29.92S                  
+FALCON         FAIR      47  28  46 W7        29.94F                  
+FORT CARSON    CLOUDY    47  28  47 N12       29.89F                  
+LIMON          FAIR      50  29  44 W5        29.90S                  
+MONUMENT HILL  FAIR      43  30  61 W7        29.96S                  
+CANON CITY     FAIR      50  32  50 W13       29.90F                  
+WALSENBURG     NOT AVBL                                               
+TRINIDAD       FAIR      49  33  54 W13       29.91F                  
+$$
+
+COZ042>045-048>051-090-091-241600-
+...NORTHEAST COLORADO...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+GREELEY        FAIR      43  24  47 CALM      29.92F                  
+AKRON          PTSUNNY   49  28  44 W7        29.90F                  
+BURLINGTON     FAIR      49  35  58 S10       29.93S                  
+WRAY           PTSUNNY   52  32  46 CALM      29.92F                  
+YUMA           PTSUNNY   46  28  49 NW3       29.91F                  
+STERLING       FAIR      43  30  61 CALM      29.90F                  
+HOLYOKE        FAIR      52  30  43 S5        29.92F                  
+FORT MORGAN    FAIR      43  27  52 CALM      29.91S                  
+$$
+
+COZ086-089-092>099-241600-
+...SOUTHEAST COLORADO...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PUEBLO         PTSUNNY   45  30  55 SW5       29.90F                  
+LA JUNTA       FAIR      46  31  55 W8        29.89F                  
+LAMAR          FAIR      52  35  52 S14       29.88F                  
+SPRINGFIELD      N/A     49  35  58 S25G33    29.92F                  
+$$
+  

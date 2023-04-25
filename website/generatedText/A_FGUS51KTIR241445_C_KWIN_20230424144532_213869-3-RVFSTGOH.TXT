@@ -1,0 +1,252 @@
+FGUS51 KTIR 241445
+RVFSTG
+River Stage Forecasts
+National Weather Service, Ohio River Forecast Center, Wilmington, Ohio
+1044 AM EDT Monday, April 24, 2023
+ 
+This is an INTERNAL guidance product issued by the River Forecast Center.
+Official forecasts/warnings are issued by local NWS offices.
+ 
+The following OHRFC guidance forecasts include QPF through at least 48 hours...
+All forecasts are given in feet.
+--------------------------------------------------------------------------------
+Ohio River            8am EDT                          Crest     A/Abv FS   Foot
+Forecast Point    FS    Obsv Apr 25 Apr 26 Apr 27  Stage Da/Time B/Blo FS   Note
+Pittsburgh       25.0   16.4   16.6   16.6   16.6                               
+Dashields Lock   25.0   14.6   14.6   14.6   14.5                               
+Montgomery Lock  33.0   13.0   13.0   12.6   12.5                               
+New Cumberland   36.0   14.0   13.9   13.6   13.4                               
+Pike Island L&D  37.0   13.6   13.4   13.2   13.1                               
+Wheeling         36.0   16.4   16.3   16.1   16.0                               
+Hannibal Dam     35.0   12.9   13.0   12.8   12.6                               
+Willow Island L  37.0   14.4   14.5   14.2   13.8                               
+Marietta         35.0   16.9   17.0   16.8   16.4                               
+Parkersburg      36.0   21.9   22.0   21.8   21.6                               
+Belleville L&D   35.0   14.1   13.9   13.5   13.3                               
+Racine Lock & D  41.0   15.3   15.0   14.5   14.1                               
+Point Pleasant   40.0   25.4   25.5   25.3   25.2                               
+R C Byrd Dam     50.0   17.2   16.3   15.3   14.6                               
+Huntington       50.0   26.4   26.1   25.9   25.7                               
+Ashland River G  52.0    M     34.3   34.2   34.1                               
+Grayson          21.0    5.1    4.7    4.6    4.5                               
+Lloyd Greenup D  54.0   18.8   18.7   17.9   17.0                               
+Portsmouth       50.0   18.8   18.6   17.6   17.2                               
+Maysville        50.0   34.2   34.4   34.0   34.0                               
+Meldahl Dam      51.0   17.6   18.0   16.7   16.1                               
+Cincinnati       52.0   28.0   28.3   27.8   27.3                               
+Markland Dam     51.0   17.5   18.5   17.4   16.2                               
+McAlpine Upper   23.0   12.7   12.6   12.6   12.6                               
+McAlpine Lower   55.0   16.0   16.8   16.5   14.8                               
+Cannelton Dam    42.0   13.4   14.2   14.4   13.5                               
+Newburgh Lock &  38.0   15.7   16.7   17.0   16.4                               
+Evansville       42.0   15.4   16.0   16.2   15.7                               
+J T Myers Dam    37.0   16.9   18.0   18.4   17.9                               
+Shawneetown      33.0   17.2   17.5   17.8   17.6                               
+Golconda         40.0   30.3   30.3   30.4   30.3                               
+--------------------------------------------------------------------------------
+Allegheny River       8am EDT                          Crest     A/Abv FS   Foot
+Forecast Point    FS    Obsv Apr 25 Apr 26 Apr 27  Stage Da/Time B/Blo FS   Note
+Eldred           23.0    3.9    3.7    3.6    3.5                               
+Olean            12.0    2.7    2.5    2.4    2.2                               
+Salamanca        12.0    3.9    3.8    3.7    3.6                               
+West Hickory     14.0    5.0    4.9    4.8    4.8                               
+Meadville        14.0    5.0    4.6    4.1    3.7                               
+Franklin         17.0    5.4    5.2    5.0    4.9                               
+Parker           20.0    4.6    4.5    4.3    4.1                               
+St Charles       17.0    3.8    3.7    3.6    3.5                               
+Kittanning L&D   21.0   11.6   11.6   11.4   11.3                               
+Seward           12.0    2.5    2.7    2.6    2.6                               
+Clinton Lk #6    21.0   10.2   10.3   10.2   10.0                               
+Natrona L&D #4   21.0   11.8   11.9   11.7   11.6                               
+C.W. Bill Young  17.0   11.2   11.1   11.0   10.9                               
+Sharpsburg L&D   21.0   11.4   11.4   11.4   11.3                               
+--------------------------------------------------------------------------------
+Monongahela River     8am EDT                          Crest     A/Abv FS   Foot
+Forecast Point    FS    Obsv Apr 25 Apr 26 Apr 27  Stage Da/Time B/Blo FS   Note
+Clarksburg       14.0    1.7    1.6    1.6    1.6                               
+Dailey River Ga  14.0    1.4    1.2    1.1    1.1                               
+Philippi         19.0    4.1    4.0    4.0    3.9                               
+Morgantown L&D   22.0    9.7    9.7    9.6    9.6                               
+Parsons          18.5    3.2    3.1    3.0    2.9                               
+Rowlesburg       16.0    2.0    1.9    1.7    1.7                               
+Albright         27.0   11.0   10.8   10.7   10.6                               
+Point Marion Da  26.0   10.2   10.2   10.1   10.1                               
+Grays Landing    21.0   10.2   10.2   10.1   10.0                               
+Confluence       12.0    2.4    2.2    2.1    2.0                               
+Ohiopyle         20.0    1.9    1.6    1.5    1.5                               
+Connellsville    12.0    2.7    2.6    2.5    2.4                               
+Sutersville      20.0    3.9    3.8    3.7    3.6                               
+Maxwell L&D      32.0    9.8    9.7    9.7    9.7                               
+Charleroi        28.0   10.7   10.4   10.3   10.1                               
+Elizabeth        20.0   10.4   10.3   10.3   10.2                               
+Braddock         22.0   11.7   12.0   12.0   12.0                               
+--------------------------------------------------------------------------------
+Beaver River          8am EDT                          Crest     A/Abv FS   Foot
+Forecast Point    FS    Obsv Apr 25 Apr 26 Apr 27  Stage Da/Time B/Blo FS   Note
+Leavittsburg     12.5    5.1    4.4    4.0    3.9                               
+Beaver Falls     15.0    6.4    6.0    5.7    5.5                               
+--------------------------------------------------------------------------------
+Little Kanawha River  8am EDT                          Crest     A/Abv FS   Foot
+Forecast Point    FS    Obsv Apr 25 Apr 26 Apr 27  Stage Da/Time B/Blo FS   Note
+Glenville        23.0    2.8    2.7    2.7    2.7                               
+Grantsville Riv  36.0    7.2    7.1    7.1    7.0                               
+Little Kanawha   36.0   14.5   14.4   14.4   14.3                               
+--------------------------------------------------------------------------------
+Muskingum River       8am EDT                          Crest     A/Abv FS   Foot
+Forecast Point    FS    Obsv Apr 25 Apr 26 Apr 27  Stage Da/Time B/Blo FS   Note
+New Philadelphi   7.5    3.5    2.8    2.4    2.2                               
+Killbuck         15.0   12.6   12.1   11.3   10.7                               
+Coshocton        15.0   10.4   10.0    9.2    8.5                               
+Cambridge        15.0    3.7    3.4    3.2    3.1                               
+Zanesville       25.0   12.0   11.7   11.2   10.8                               
+McConnelsville   11.0    5.6    5.5    4.9    4.5                               
+Beverly          29.0   19.1   19.2   18.4   17.8                               
+Athens           20.0    5.9    5.1    4.7    4.5                               
+--------------------------------------------------------------------------------
+Kanawha River         8am EDT                          Crest     A/Abv FS   Foot
+Forecast Point    FS    Obsv Apr 25 Apr 26 Apr 27  Stage Da/Time B/Blo FS   Note
+Galax             9.0    1.9    1.8    1.7    1.7                               
+Allisonia         8.0    2.2    2.0    2.0    1.9                               
+Radford          14.0    2.8    2.7    2.6    2.5                               
+Buckeye          15.0    2.8    2.6    2.6    2.5                               
+Alderson         14.0    3.3    3.2    3.0    3.0                               
+Hinton           15.0    2.8    2.7    2.7    2.5                               
+Camden-On-Gaule  19.0    2.6    2.4    2.2    2.2                               
+Queen Shoals     19.0    4.6    4.6    4.5    4.5                               
+Kanawha Falls    27.0    4.2    4.2    4.1    3.9                               
+Charleston       30.0    7.4    7.4    7.4    7.4                               
+Tornado River G  25.0   10.4   10.3   10.2   10.2                               
+--------------------------------------------------------------------------------
+Sandy River           8am EDT                          Crest     A/Abv FS   Foot
+Forecast Point    FS    Obsv Apr 25 Apr 26 Apr 27  Stage Da/Time B/Blo FS   Note
+Logan            23.0    5.6    5.5    5.4    5.3                               
+Litwar River Ga  24.0    4.4    4.3    4.3    4.2                               
+Williamson       27.0    4.2    4.1    4.1    4.1                               
+Haysi            19.0    2.7    2.6    2.6    2.5                               
+Paintsville      35.0    4.3    4.1    4.0    3.8                               
+Fullers Station  49.0    5.5    5.4    5.4    5.3                               
+--------------------------------------------------------------------------------
+Scioto River          8am EDT                          Crest     A/Abv FS   Foot
+Forecast Point    FS    Obsv Apr 25 Apr 26 Apr 27  Stage Da/Time B/Blo FS   Note
+Worthington      11.0    2.2    2.1    2.1    2.0                               
+Columbus         24.0    6.3    6.1    6.0    5.9                               
+Piketon          20.0    5.2    3.4    2.7    2.3                               
+--------------------------------------------------------------------------------
+Miami River           8am EDT                          Crest     A/Abv FS   Foot
+Forecast Point    FS    Obsv Apr 25 Apr 26 Apr 27  Stage Da/Time B/Blo FS   Note
+Milford          17.0    5.9    5.5    5.4    5.5                               
+Sidney           10.0    1.5    1.4    1.3    1.3                               
+Lockington Dam   35.0    0.8    0.7    0.7    0.7                               
+Piqua            14.0    1.6    1.4    1.3    1.3                               
+Troy             14.0    2.5    2.3    2.2    2.2                               
+Taylorsville Da  22.0    2.6    2.4    2.3    2.2                               
+Englewood Dam    58.0    3.1    3.0    3.0    2.9                               
+Springfield       8.0    1.4    1.3    1.3    1.3                               
+Huffman Dam      25.0    3.1    2.9    2.9    2.9                               
+Dayton           41.0   25.0   24.8   24.7   24.6                               
+Miamisburg       16.0    4.6    4.4    4.3    4.2                               
+Franklin         14.0    1.6    1.4    1.3    1.3                               
+Germantown Dam   62.0    1.4    1.3    1.3    1.3                               
+Middletown       12.0    M      2.5    2.5    2.4                               
+Hamilton         75.0   63.5   63.3   63.2   63.2                               
+Brookville       20.0    2.8    2.8    2.8    2.7                               
+--------------------------------------------------------------------------------
+Licking River         8am EDT                          Crest     A/Abv FS   Foot
+Forecast Point    FS    Obsv Apr 25 Apr 26 Apr 27  Stage Da/Time B/Blo FS   Note
+Falmouth         33.0    2.6    2.4    1.8    1.5                               
+Catawba           M      6.9    6.7    6.3    6.1                               
+--------------------------------------------------------------------------------
+Kentucky River        8am EDT                          Crest     A/Abv FS   Foot
+Forecast Point    FS    Obsv Apr 25 Apr 26 Apr 27  Stage Da/Time B/Blo FS   Note
+Jackson          29.0    2.8    2.1    1.9    1.8                               
+Heidelberg Lock  20.0   10.8   10.2    9.9    9.8                               
+Clay City        17.0    3.9    3.4    3.1    3.0                               
+Ford Lock 10     26.0   11.8   11.3   10.9   10.8                               
+Camp Nelson      30.0   13.7   13.3   12.8   12.6                               
+High Bridge Loc  30.0   11.0   10.7   10.1    9.9                               
+Frankfort        31.0    8.3    8.1    7.8    7.6                               
+Peaks Mill       10.0    3.1    2.7    2.5    2.5                               
+Lockport Lock 2  33.0   10.3   10.1    9.8    9.4                               
+Shepherdsville   32.0    M      1.9    1.8    1.8                               
+--------------------------------------------------------------------------------
+Green River           8am EDT                          Crest     A/Abv FS   Foot
+Forecast Point    FS    Obsv Apr 25 Apr 26 Apr 27  Stage Da/Time B/Blo FS   Note
+Bowling Green    28.0    4.7    4.6    4.6    4.5                               
+Paradise        380.0  366.0  365.7  365.1  364.9                               
+Calhoun          23.0   11.3   11.2   10.9   10.7                               
+--------------------------------------------------------------------------------
+East Fork White       8am EDT                          Crest     A/Abv FS   Foot
+Forecast Point    FS    Obsv Apr 25 Apr 26 Apr 27  Stage Da/Time B/Blo FS   Note
+Edinburgh        11.0    3.0    2.9    2.8    2.8                               
+Columbus          9.0   -0.2   -0.2   -0.3   -0.3                               
+Seymour          12.0    4.8    4.5    4.4    4.3                               
+Rivervale        20.0    6.8    6.8    6.6    6.4                               
+Shoals           20.0    5.2    5.2    5.2    5.1                               
+--------------------------------------------------------------------------------
+White River           8am EDT                          Crest     A/Abv FS   Foot
+Forecast Point    FS    Obsv Apr 25 Apr 26 Apr 27  Stage Da/Time B/Blo FS   Note
+Nora             11.0    2.9    2.8    2.8    2.7                               
+Indianapolis     16.0    3.9    3.8    3.8    3.7                               
+Zionsville        9.0    1.7    1.7    1.7    1.7                               
+Centerton        12.0    1.8    1.4    1.3    1.2                               
+Spencer          14.0    4.3    3.9    3.4    3.1                               
+Newberry         13.0    5.2    4.9    4.6    4.3                               
+Petersburg       16.0    7.8    7.8    7.5    7.3                               
+--------------------------------------------------------------------------------
+Wabash River          8am EDT                          Crest     A/Abv FS   Foot
+Forecast Point    FS    Obsv Apr 25 Apr 26 Apr 27  Stage Da/Time B/Blo FS   Note
+Portland         11.0    2.4    2.3    2.3    2.3                               
+Lafayette        10.0    3.6    3.5    3.5    3.4                               
+West Lafayette   11.0    4.0    3.6    3.4    3.3                               
+Terre Haute      16.5    7.6    7.1    6.6    6.0                               
+Riverton         15.0    7.5    7.0    6.4    5.9                               
+Vincennes        16.0    6.6    6.4    6.0    5.5                               
+Mount Carmel     19.0    8.0    7.9    7.7    7.3                               
+New Harmony      15.0    5.9    5.8    5.6    5.4                               
+--------------------------------------------------------------------------------
+Little Wabash River   8am EDT                          Crest     A/Abv FS   Foot
+Forecast Point    FS    Obsv Apr 25 Apr 26 Apr 27  Stage Da/Time B/Blo FS   Note
+Carmi            27.0   16.6   16.6   16.9   16.3                               
+--------------------------------------------------------------------------------
+Maumee River          8am EDT                          Crest     A/Abv FS   Foot
+Forecast Point    FS    Obsv Apr 25 Apr 26 Apr 27  Stage Da/Time B/Blo FS   Note
+Fort Wayne       17.0    2.7    2.6    2.5    2.4                               
+Findlay          12.0    1.2    1.1    1.0    1.0                               
+Blanchard River  23.0    5.4    5.4    5.3    5.3                               
+Kalida           19.0    4.6    4.4    4.3    4.2                               
+Defiance         10.0    2.1    1.5    1.5    1.4                              5
+Waterville       11.0    2.6    2.5    2.5    2.5                               
+--------------------------------------------------------------------------------
+Great Lakes Drainages 8am EDT                          Crest     A/Abv FS   Foot
+Forecast Point    FS    Obsv Apr 25 Apr 26 Apr 27  Stage Da/Time B/Blo FS   Note
+Tiffin            9.0    1.8    1.8    1.8    1.7                               
+Fremont          10.0    1.4    1.4    1.4    1.4                               
+Milan            18.0    6.5    6.3    6.3    6.4                               
+Independence     17.0    5.6    4.9    4.8    4.6                               
+Painesville      12.5    5.5    5.1    4.8    4.5                               
+--------------------------------------------------------------------------------
+Cumberland River      8am EDT                          Crest     A/Abv FS   Foot
+Forecast Point    FS    Obsv Apr 25 Apr 26 Apr 27  Stage Da/Time B/Blo FS   Note
+Pineville      1002.0  977.7  977.5  977.4  977.2                               
+Barbourville     27.0    2.9    2.7    2.5    2.4                               
+Williamsburg     21.0    5.4    4.8    4.5    4.2                               
+Celina           40.0   15.2   15.2   14.8   14.6                               
+Carthage         40.0   11.0   12.3   12.6   12.7                               
+Antioch          14.0    2.8    2.8    2.8    2.7                               
+Woodbine         14.0    2.8    2.8    2.7    2.7                               
+Nashville        40.0   17.3   17.9   17.8   17.8                               
+Franklin         30.0    4.0    4.0    4.0    3.9                               
+Bellevue         20.0    2.1    1.9    1.8    1.8                               
+Clarksville      46.0   28.0   28.2   28.1   28.0                               
+ 
+Footnotes:
+ 1 Gage reading may be affected by ice.
+   Forecast stage represents estimate of unobstructed flow.
+ 2 Gage reading untrustworthy due to nearby construction.
+ 3 Gage reading inaccurate.  Awaiting repair.
+ 4 Gage reading intermittent.  Awaiting repair.
+ 5 Gage reading not trusted, ignored.
+ 6 Gage reading may be affected by ice.
+   Forecast stage not representative of actual flow.
+ 
+$$

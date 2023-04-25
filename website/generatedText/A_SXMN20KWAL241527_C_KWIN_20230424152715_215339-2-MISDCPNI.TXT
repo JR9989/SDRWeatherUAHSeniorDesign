@@ -1,0 +1,20 @@
+SXMN20 KWAL 241527
+221200F4 114152700 
+ :LLuvia 0 #0 0.0
+ :LLuvia 0 #0 0.0
+ :LLuvia 0 #0 0.0
+ :LLuvia 0 #0 0.0
+ :LLuvia 0 #0 0.0
+ :LLuvia 0 #0 0.0
+ :LLuvia 0 #0 0.0
+ :LLuvia 0 #0 0.0
+ :LLuvia 0 #0 0.6
+ :Nivel 0 #0 0.6
+ :Nivel 0 #0 0.6
+ :Nivel 0 #0 0.6
+ :Nivel 0 #0 0.6
+ :Nivel 0 #0 0.6
+ :Nivel 0 #0 0.6
+ :Nivel 0 #0 0.6
+ :VB 0 #0  13
+ :VB 0 37-0NN  57E

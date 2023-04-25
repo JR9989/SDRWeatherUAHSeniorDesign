@@ -1,0 +1,2965 @@
+FNUS53 KFGF 241444
+FWFFGF
+
+Fire Weather Planning Forecast for E ND, NW and WC MN
+National Weather Service Grand Forks ND
+943 AM CDT Mon Apr 24 2023
+
+...The morning observed Haines indices were 5 (Moderate) at 
+International Falls, 4 (Low) at Bismarck, and 4 (Low) at Aberdeen...
+
+.DISCUSSION...
+
+Below normal temperatures will continue through the week. Resultant 
+high temperatures in the 30s to 40s are expected through Tuesday, 
+with attendant minimum RH values in the 40-50% range, highest where 
+snow cover lingers. By Tuesday, some drying does look to occur, with 
+minimum RH values across Tuesday and Wednesday dropping into the 
+30s, particularly across northwestern and west central Minnesota. 
+Snow showers are possible this afternoon across north-central 
+Minnesota. Additional chances for rain arrive mid-week with multiple 
+chances thereafter through the rest of the week.
+
+NDZ027-242100-
+Grand Forks-
+Including the city of Grand Forks
+943 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...
+Sky/weather.........Mostly sunny. 
+Max temperature.....43-48. 
+   24 hr trend......Little change. 
+Min humidity........53-58 percent. 
+   24 hr trend......Little change. 
+20-foot winds.......North winds 5 to 10 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...10. 
+Haines index........4 (low). 
+Smoke dispersal.....Poor (around 18900 Knot-ft). 
+Mixing height.......Around 4100 ft agl. 
+Transport winds.....North around 5 mph. 
+
+.TONIGHT...
+Sky/weather.........Mostly clear. 
+Min temperature.....23-28. 
+   24 hr trend......5 degrees warmer. 
+Max humidity........70-75 percent. 
+   24 hr trend......21 percent lower. 
+20-foot winds.......Northeast winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+
+.TUESDAY...
+Sky/weather.........Sunny. 
+Max temperature.....45-50. 
+   24 hr trend......Little change. 
+Min humidity........41-46 percent. 
+   24 hr trend......13 percent lower. 
+20-foot winds.......Southeast winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...11. 
+Smoke dispersal.....Poor (around 24300 Knot-ft). 
+Mixing height.......Around 4300 ft agl. 
+Transport winds.....East around 5 mph. 
+
+
+.Forecast days 3 through 7......
+.TUESDAY NIGHT...Partly cloudy. Lows in the mid 20s. Southeast
+winds around 10 mph. 
+.WEDNESDAY...Mostly cloudy. Showers likely. Highs in the mid 40s.
+South winds around 20 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows
+in the lower 30s. Southwest winds around 15 mph. 
+.THURSDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. Northwest winds around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+lower 30s. North winds around 15 mph. 
+.FRIDAY...Partly sunny. Chance of showers. Highs in the mid 40s.
+North winds around 20 mph. 
+.FRIDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows in
+the upper 20s. North winds around 15 mph. 
+.SATURDAY...Partly sunny. Slight chance of showers. Highs in the
+upper 40s. North winds around 15 mph. 
+.SATURDAY NIGHT...Partly cloudy. Slight chance of showers. Lows
+in the lower 30s. North winds around 15 mph. 
+.SUNDAY...Mostly sunny. Slight chance of showers. Highs in the
+upper 40s. North winds around 20 mph. 
+
+$$
+
+NDZ039-242100-
+Cass-
+Including the city of Fargo
+943 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...
+Sky/weather.........Sunny. 
+Max temperature.....43-48. 
+   24 hr trend......Little change. 
+Min humidity........49-54 percent. 
+   24 hr trend......5 percent lower. 
+20-foot winds.......Northeast winds 5 to 10 mph increasing to 
+                    around 15 mph late in the afternoon. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...11. 
+Haines index........4 (low). 
+Smoke dispersal.....Poor (around 20000 Knot-ft). 
+Mixing height.......Around 3400 ft agl. 
+Transport winds.....North around 10 mph. 
+
+.TONIGHT...
+Sky/weather.........Mostly clear. 
+Min temperature.....23-28. 
+   24 hr trend......Little change. 
+Max humidity........75-80 percent. 
+   24 hr trend......10 percent lower. 
+20-foot winds.......Northeast winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+
+.TUESDAY...
+Sky/weather.........Sunny. 
+Max temperature.....47-52. 
+   24 hr trend......Little change. 
+Min humidity........38-43 percent. 
+   24 hr trend......16 percent lower. 
+20-foot winds.......East winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...12. 
+Smoke dispersal.....Poor (around 32100 Knot-ft). 
+Mixing height.......Around 4400 ft agl. 
+Transport winds.....East around 10 mph. 
+
+
+.Forecast days 3 through 7......
+.TUESDAY NIGHT...Partly cloudy. Lows in the upper 20s. Southeast
+winds around 10 mph. 
+.WEDNESDAY...Mostly cloudy. Chance of showers. Highs around 50.
+South winds around 20 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy. Showers likely. Lows in the
+lower 30s. Southwest winds around 15 mph. 
+.THURSDAY...Partly sunny. Chance of showers. Highs in the lower
+50s. West winds around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+lower 30s. North winds around 15 mph. 
+.FRIDAY...Partly sunny. Chance of showers. Highs in the mid 40s.
+North winds around 20 mph. 
+.FRIDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows in
+the upper 20s. North winds around 15 mph. 
+.SATURDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. North winds around 15 mph. 
+.SATURDAY NIGHT...Partly cloudy. Slight chance of showers. Lows
+in the lower 30s. North winds around 15 mph. 
+.SUNDAY...Mostly sunny. Slight chance of showers. Highs in the
+upper 40s. North winds around 20 mph. 
+
+$$
+
+NDZ006-242100-
+Towner-
+Including the city of Cando
+943 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...
+Sky/weather.........Sunny. 
+Max temperature.....41-46. 
+   24 hr trend......Little change. 
+Min humidity........49-54 percent. 
+   24 hr trend......6 percent higher. 
+20-foot winds.......East winds 5 to 10 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...11. 
+Haines index........2 (very low). 
+Smoke dispersal.....Poor (around 19400 Knot-ft). 
+Mixing height.......Around 3800 ft agl. 
+Transport winds.....East 5 to 10 mph. 
+
+.TONIGHT...
+Sky/weather.........Mostly clear. 
+Min temperature.....20-25. 
+   24 hr trend......Little change. 
+Max humidity........75-80 percent. 
+   24 hr trend......25 percent lower. 
+20-foot winds.......East winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+
+.TUESDAY...
+Sky/weather.........Sunny. 
+Max temperature.....43-48. 
+   24 hr trend......Little change. 
+Min humidity........45-50 percent. 
+   24 hr trend......Little change. 
+20-foot winds.......Southeast winds 5 to 10 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...10. 
+Smoke dispersal.....Poor (around 35200 Knot-ft). 
+Mixing height.......Around 3800 ft agl. 
+Transport winds.....Southeast around 10 mph. 
+
+
+.Forecast days 3 through 7......
+.TUESDAY NIGHT...Mostly cloudy. Lows in the mid 20s. Southeast
+winds around 15 mph. 
+.WEDNESDAY...Mostly cloudy. Showers likely. Highs in the lower
+40s. South winds around 20 mph. 
+.WEDNESDAY NIGHT...Partly cloudy. Slight chance of rain and snow
+showers. Lows in the upper 20s. West winds around 10 mph. 
+.THURSDAY...Partly sunny. Chance of showers. Highs in the mid
+40s. Northwest winds around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+upper 20s. North winds around 15 mph. 
+.FRIDAY...Partly sunny. Chance of showers. Highs in the lower
+40s. North winds around 15 mph. 
+.FRIDAY NIGHT...Mostly cloudy. Slight chance of snow showers.
+Lows in the mid 20s. North winds around 15 mph. 
+.SATURDAY...Mostly sunny. Slight chance of showers. Highs in the
+mid 40s. North winds around 15 mph. 
+.SATURDAY NIGHT...Partly cloudy. Lows in the upper 20s. North
+winds around 15 mph. 
+.SUNDAY...Mostly sunny. Highs in the mid 40s. North winds around
+15 mph. 
+
+$$
+
+NDZ007-242100-
+Cavalier-
+Including the city of Langdon
+943 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...
+Sky/weather.........Sunny. 
+Max temperature.....40-45. 
+   24 hr trend......Little change. 
+Min humidity........53-58 percent. 
+   24 hr trend......9 percent higher. 
+20-foot winds.......East winds 5 to 10 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...11. 
+Haines index........2 (very low). 
+Smoke dispersal.....Poor (around 14100 Knot-ft). 
+Mixing height.......Around 3300 ft agl. 
+Transport winds.....Northeast 5 to 10 mph. 
+
+.TONIGHT...
+Sky/weather.........Mostly clear. 
+Min temperature.....22-27. 
+   24 hr trend......7 degrees warmer. 
+Max humidity........73-78 percent. 
+   24 hr trend......22 percent lower. 
+20-foot winds.......East winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+
+.TUESDAY...
+Sky/weather.........Sunny. 
+Max temperature.....42-47. 
+   24 hr trend......Little change. 
+Min humidity........49-54 percent. 
+   24 hr trend......9 percent lower. 
+20-foot winds.......Southeast winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...11. 
+Smoke dispersal.....Poor (around 20700 Knot-ft). 
+Mixing height.......Around 3200 ft agl. 
+Transport winds.....Southeast around 10 mph. 
+
+
+.Forecast days 3 through 7......
+.TUESDAY NIGHT...Mostly cloudy. Lows in the mid 20s. South winds
+around 10 mph. 
+.WEDNESDAY...Mostly cloudy. Showers likely. Highs in the lower
+40s. South winds around 20 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy. Chance of showers. Lows around
+30. West winds around 10 mph. 
+.THURSDAY...Partly sunny. Chance of showers. Highs in the mid
+40s. Northwest winds around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+lower 30s. North winds around 15 mph. 
+.FRIDAY...Partly sunny. Chance of showers. Highs in the lower
+40s. North winds around 15 mph. 
+.FRIDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows in
+the upper 20s. North winds around 15 mph. 
+.SATURDAY...Mostly sunny. Slight chance of showers. Highs in the
+mid 40s. North winds around 15 mph. 
+.SATURDAY NIGHT...Partly cloudy. Lows around 30. North winds
+around 15 mph. 
+.SUNDAY...Mostly sunny. Slight chance of showers. Highs in the
+mid 40s. North winds around 15 mph. 
+
+$$
+
+NDZ008-242100-
+Pembina-
+Including the cities of Cavalier, Walhalla, Drayton, Pembina, 
+Neche, and St. Thomas
+943 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...
+Sky/weather.........Mostly sunny. 
+Max temperature.....43-48. 
+   24 hr trend......Little change. 
+Min humidity........47-52 percent. 
+   24 hr trend......9 percent lower. 
+20-foot winds.......North winds up to 5 mph shifting to the 
+                    northeast late in the afternoon. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...10. 
+Haines index........4 (low). 
+Smoke dispersal.....Poor (around 27200 Knot-ft). 
+Mixing height.......Around 4700 ft agl. 
+Transport winds.....North around 10 mph. 
+
+.TONIGHT...
+Sky/weather.........Mostly clear. 
+Min temperature.....24-29. 
+   24 hr trend......5 degrees warmer. 
+Max humidity........72-77 percent. 
+   24 hr trend......18 percent lower. 
+20-foot winds.......Northeast winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+
+.TUESDAY...
+Sky/weather.........Sunny. 
+Max temperature.....47-52. 
+   24 hr trend......5 degrees warmer. 
+Min humidity........39-44 percent. 
+   24 hr trend......10 percent lower. 
+20-foot winds.......East winds around 5 mph shifting to the 
+                    southeast in the afternoon. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...11. 
+Smoke dispersal.....Poor (around 24400 Knot-ft). 
+Mixing height.......Around 4500 ft agl. 
+Transport winds.....East around 5 mph. 
+
+
+.Forecast days 3 through 7......
+.TUESDAY NIGHT...Mostly cloudy. Lows in the upper 20s. South
+winds around 5 mph. 
+.WEDNESDAY...Mostly cloudy. Showers likely. Highs in the mid 40s.
+South winds around 20 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+lower 30s. Southwest winds around 10 mph. 
+.THURSDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. Northwest winds around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+lower 30s. North winds around 10 mph. 
+.FRIDAY...Partly sunny. Chance of showers. Highs in the mid 40s.
+North winds around 15 mph. 
+.FRIDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows
+around 30. North winds around 15 mph. 
+.SATURDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. North winds around 15 mph. 
+.SATURDAY NIGHT...Partly cloudy. Lows in the lower 30s. North
+winds around 15 mph. 
+.SUNDAY...Mostly sunny. Slight chance of showers. Highs in the
+upper 40s. North winds around 15 mph. 
+
+$$
+
+NDZ014-242100-
+Benson-
+Including the cities of Fort Totten, Maddock, Leeds, 
+and Minnewaukan
+943 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...
+Sky/weather.........Sunny. 
+Max temperature.....40-45. 
+   24 hr trend......Little change. 
+Min humidity........55-60 percent. 
+   24 hr trend......11 percent higher. 
+20-foot winds.......East winds 10 to 15 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...11. 
+Haines index........3 (very low). 
+Smoke dispersal.....Poor (around 17200 Knot-ft). 
+Mixing height.......Around 3200 ft agl. 
+Transport winds.....East 5 to 10 mph. 
+
+.TONIGHT...
+Sky/weather.........Mostly clear. 
+Min temperature.....21-26. 
+   24 hr trend......5 degrees warmer. 
+Max humidity........79-84 percent. 
+   24 hr trend......15 percent lower. 
+20-foot winds.......East winds 5 to 10 mph. 
+LAL.................1. 
+Precipitation.......None.
+
+.TUESDAY...
+Sky/weather.........Sunny. 
+Max temperature.....43-48. 
+   24 hr trend......Little change. 
+Min humidity........46-51 percent. 
+   24 hr trend......9 percent lower. 
+20-foot winds.......Southeast winds 5 to 10 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...10. 
+Smoke dispersal.....Poor (around 35100 Knot-ft). 
+Mixing height.......Around 3500 ft agl. 
+Transport winds.....Southeast around 10 mph. 
+
+
+.Forecast days 3 through 7......
+.TUESDAY NIGHT...Mostly cloudy. Lows in the upper 20s. Southeast
+winds around 15 mph. 
+.WEDNESDAY...Mostly cloudy. Showers likely. Highs in the mid 40s.
+South winds around 20 mph. 
+.WEDNESDAY NIGHT...Partly cloudy. Slight chance of showers. Lows
+in the lower 30s. West winds around 10 mph. 
+.THURSDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. Northwest winds around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+lower 30s. North winds around 15 mph. 
+.FRIDAY...Partly sunny. Slight chance of showers. Highs in the
+lower 40s. North winds around 15 mph. 
+.FRIDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows in
+the upper 20s. North winds around 15 mph. 
+.SATURDAY...Mostly sunny. Slight chance of showers. Highs in the
+upper 40s. North winds around 15 mph. 
+.SATURDAY NIGHT...Partly cloudy. Slight chance of showers. Lows
+in the upper 20s. North winds around 15 mph. 
+.SUNDAY...Mostly sunny. Highs in the mid 40s. North winds around
+15 mph. 
+
+$$
+
+NDZ015-242100-
+Ramsey-
+Including the city of Devils Lake
+943 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...
+Sky/weather.........Sunny. 
+Max temperature.....39-44. 
+   24 hr trend......Little change. 
+Min humidity........54-59 percent. 
+   24 hr trend......Little change. 
+20-foot winds.......East winds 5 to 10 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...11. 
+Haines index........2 (very low). 
+Smoke dispersal.....Poor (around 13400 Knot-ft). 
+Mixing height.......Around 3000 ft agl. 
+Transport winds.....Northeast 5 to 10 mph. 
+
+.TONIGHT...
+Sky/weather.........Mostly clear. 
+Min temperature.....22-27. 
+   24 hr trend......7 degrees warmer. 
+Max humidity........72-77 percent. 
+   24 hr trend......20 percent lower. 
+20-foot winds.......East winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+
+.TUESDAY...
+Sky/weather.........Sunny. 
+Max temperature.....43-48. 
+   24 hr trend......Little change. 
+Min humidity........47-52 percent. 
+   24 hr trend......Little change. 
+20-foot winds.......Southeast winds 5 to 10 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...11. 
+Smoke dispersal.....Poor (around 25300 Knot-ft). 
+Mixing height.......Around 3400 ft agl. 
+Transport winds.....East around 10 mph. 
+
+
+.Forecast days 3 through 7......
+.TUESDAY NIGHT...Mostly cloudy. Lows in the mid 20s. Southeast
+winds around 10 mph. 
+.WEDNESDAY...Mostly cloudy. Chance of showers. Highs in the lower
+40s. South winds around 20 mph. 
+.WEDNESDAY NIGHT...Partly cloudy. Chance of showers. Lows around
+30. West winds around 10 mph. 
+.THURSDAY...Partly sunny. Chance of showers. Highs in the mid
+40s. Northwest winds around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Chance of showers. Lows around
+30. North winds around 15 mph. 
+.FRIDAY...Partly sunny. Chance of showers. Highs in the lower
+40s. North winds around 20 mph. 
+.FRIDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows in
+the upper 20s. North winds around 15 mph. 
+.SATURDAY...Mostly sunny. Slight chance of showers. Highs in the
+mid 40s. North winds around 15 mph. 
+.SATURDAY NIGHT...Partly cloudy. Slight chance of showers. Lows
+in the upper 20s. North winds around 15 mph. 
+.SUNDAY...Mostly sunny. Slight chance of showers. Highs in the
+mid 40s. North winds around 15 mph. 
+
+$$
+
+NDZ054-242100-
+Western Walsh-
+Including the cities of Edinburg, Adams, and Lankin
+943 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...
+Sky/weather.........Sunny. 
+Max temperature.....40-45. 
+   24 hr trend......Little change. 
+Min humidity........57-62 percent. 
+   24 hr trend......9 percent higher. 
+20-foot winds.......Northeast winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...11. 
+Haines index........2 (very low). 
+Smoke dispersal.....Poor (around 13100 Knot-ft). 
+Mixing height.......Around 3200 ft agl. 
+Transport winds.....Northeast around 5 mph. 
+
+.TONIGHT...
+Sky/weather.........Mostly clear. 
+Min temperature.....23-28. 
+   24 hr trend......9 degrees warmer. 
+Max humidity........72-77 percent. 
+   24 hr trend......21 percent lower. 
+20-foot winds.......Northeast winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+
+.TUESDAY...
+Sky/weather.........Sunny. 
+Max temperature.....42-47. 
+   24 hr trend......Little change. 
+Min humidity........48-53 percent. 
+   24 hr trend......9 percent lower. 
+20-foot winds.......East winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...11. 
+Smoke dispersal.....Poor (around 22700 Knot-ft). 
+Mixing height.......Around 3300 ft agl. 
+Transport winds.....East 5 to 10 mph. 
+
+
+.Forecast days 3 through 7......
+.TUESDAY NIGHT...Mostly cloudy. Lows in the mid 20s. Southeast
+winds around 10 mph. 
+.WEDNESDAY...Mostly cloudy. Showers likely. Highs in the lower
+40s. South winds around 20 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy. Chance of showers. Lows around
+30. West winds around 15 mph. 
+.THURSDAY...Partly sunny. Chance of showers. Highs in the mid
+40s. Northwest winds around 15 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+lower 30s. North winds around 15 mph. 
+.FRIDAY...Partly sunny. Chance of showers. Highs in the lower
+40s. North winds around 20 mph. 
+.FRIDAY NIGHT...Mostly cloudy. Slight chance of rain and snow
+showers. Lows in the upper 20s. North winds around 15 mph. 
+.SATURDAY...Partly sunny. Chance of showers. Highs in the mid
+40s. North winds around 15 mph. 
+.SATURDAY NIGHT...Partly cloudy. Lows around 30. North winds
+around 15 mph. 
+.SUNDAY...Mostly sunny. Slight chance of showers. Highs in the
+mid 40s. North winds around 20 mph. 
+
+$$
+
+NDZ016-242100-
+Eastern Walsh-
+Including the cities of Grafton and Park River
+943 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...
+Sky/weather.........Mostly sunny. 
+Max temperature.....42-47. 
+   24 hr trend......Little change. 
+Min humidity........52-57 percent. 
+   24 hr trend......Little change. 
+20-foot winds.......North winds 5 to 10 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...10. 
+Haines index........4 (low). 
+Smoke dispersal.....Poor (around 27500 Knot-ft). 
+Mixing height.......Around 4800 ft agl. 
+Transport winds.....North 5 to 10 mph. 
+
+.TONIGHT...
+Sky/weather.........Mostly clear. 
+Min temperature.....24-29. 
+   24 hr trend......5 degrees warmer. 
+Max humidity........70-75 percent. 
+   24 hr trend......21 percent lower. 
+20-foot winds.......Northeast winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+
+.TUESDAY...
+Sky/weather.........Sunny. 
+Max temperature.....46-51. 
+   24 hr trend......Little change. 
+Min humidity........41-46 percent. 
+   24 hr trend......11 percent lower. 
+20-foot winds.......Southeast winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...11. 
+Smoke dispersal.....Poor (around 24400 Knot-ft). 
+Mixing height.......Around 4500 ft agl. 
+Transport winds.....East around 5 mph. 
+
+
+.Forecast days 3 through 7......
+.TUESDAY NIGHT...Partly cloudy. Lows in the upper 20s. Southeast
+winds around 10 mph. 
+.WEDNESDAY...Mostly cloudy. Showers likely. Highs in the mid 40s.
+South winds around 20 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+lower 30s. Southwest winds around 10 mph. 
+.THURSDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. Northwest winds around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+lower 30s. North winds around 15 mph. 
+.FRIDAY...Partly sunny. Chance of showers. Highs in the mid 40s.
+North winds around 15 mph. 
+.FRIDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows in
+the upper 20s. North winds around 15 mph. 
+.SATURDAY...Partly sunny. Slight chance of showers. Highs in the
+upper 40s. North winds around 15 mph. 
+.SATURDAY NIGHT...Partly cloudy. Slight chance of showers. Lows
+in the lower 30s. North winds around 15 mph. 
+.SUNDAY...Mostly sunny. Slight chance of showers. Highs in the
+upper 40s. North winds around 15 mph. 
+
+$$
+
+NDZ024-242100-
+Eddy-
+Including the city of New Rockford
+943 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...
+Sky/weather.........Sunny. 
+Max temperature.....39-44. 
+   24 hr trend......Little change. 
+Min humidity........60-65 percent. 
+   24 hr trend......14 percent higher. 
+20-foot winds.......East winds 5 to 10 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...11. 
+Haines index........3 (very low). 
+Smoke dispersal.....Poor (around 13200 Knot-ft). 
+Mixing height.......Around 2700 ft agl. 
+Transport winds.....East 5 to 10 mph. 
+
+.TONIGHT...
+Sky/weather.........Mostly clear. 
+Min temperature.....18-23. 
+   24 hr trend......Little change. 
+Max humidity........83-88 percent. 
+   24 hr trend......12 percent lower. 
+20-foot winds.......East winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+
+.TUESDAY...
+Sky/weather.........Sunny. 
+Max temperature.....42-47. 
+   24 hr trend......Little change. 
+Min humidity........51-56 percent. 
+   24 hr trend......12 percent lower. 
+20-foot winds.......Southeast winds 5 to 10 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...10. 
+Smoke dispersal.....Poor (around 27600 Knot-ft). 
+Mixing height.......Around 3300 ft agl. 
+Transport winds.....East around 10 mph. 
+
+
+.Forecast days 3 through 7......
+.TUESDAY NIGHT...Mostly cloudy. Lows in the upper 20s. Southeast
+winds around 10 mph. 
+.WEDNESDAY...Mostly cloudy. Chance of showers. Highs in the mid
+40s. South winds around 20 mph. 
+.WEDNESDAY NIGHT...Partly cloudy. Chance of showers. Lows in the
+lower 30s. West winds around 10 mph. 
+.THURSDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. Northwest winds around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+lower 30s. North winds around 15 mph. 
+.FRIDAY...Partly sunny. Chance of showers. Highs in the lower
+40s. North winds around 20 mph. 
+.FRIDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows in
+the upper 20s. North winds around 15 mph. 
+.SATURDAY...Partly sunny. Slight chance of showers. Highs in the
+upper 40s. North winds around 15 mph. 
+.SATURDAY NIGHT...Partly cloudy. Slight chance of showers. Lows
+in the upper 20s. North winds around 15 mph. 
+.SUNDAY...Mostly sunny. Slight chance of showers. Highs in the
+mid 40s. North winds around 15 mph. 
+
+$$
+
+NDZ026-242100-
+Nelson-
+Including the cities of Lakota, Mcville, Aneta, and Tolna
+943 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...
+Sky/weather.........Sunny. 
+Max temperature.....39-44. 
+   24 hr trend......Little change. 
+Min humidity........58-63 percent. 
+   24 hr trend......9 percent higher. 
+20-foot winds.......East winds 5 to 10 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...11. 
+Haines index........2 (very low). 
+Smoke dispersal.....Poor (around 11900 Knot-ft). 
+Mixing height.......Around 2800 ft agl. 
+Transport winds.....Northeast 5 to 10 mph. 
+
+.TONIGHT...
+Sky/weather.........Mostly clear. 
+Min temperature.....21-26. 
+   24 hr trend......8 degrees warmer. 
+Max humidity........73-78 percent. 
+   24 hr trend......17 percent lower. 
+20-foot winds.......Northeast winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+
+.TUESDAY...
+Sky/weather.........Sunny. 
+Max temperature.....41-46. 
+   24 hr trend......Little change. 
+Min humidity........49-54 percent. 
+   24 hr trend......9 percent lower. 
+20-foot winds.......East winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...11. 
+Smoke dispersal.....Poor (around 21900 Knot-ft). 
+Mixing height.......Around 3000 ft agl. 
+Transport winds.....East around 10 mph. 
+
+
+.Forecast days 3 through 7......
+.TUESDAY NIGHT...Mostly cloudy. Lows in the mid 20s. Southeast
+winds around 10 mph. 
+.WEDNESDAY...Mostly cloudy. Showers likely. Highs in the lower
+40s. South winds around 20 mph. 
+.WEDNESDAY NIGHT...Partly cloudy. Chance of showers. Lows around
+30. West winds around 10 mph. 
+.THURSDAY...Partly sunny. Chance of showers. Highs in the mid
+40s. Northwest winds around 15 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+lower 30s. North winds around 15 mph. 
+.FRIDAY...Partly sunny. Chance of showers. Highs in the lower
+40s. North winds around 20 mph. 
+.FRIDAY NIGHT...Mostly cloudy. Slight chance of rain and snow
+showers. Lows in the upper 20s. North winds around 15 mph. 
+.SATURDAY...Partly sunny. Slight chance of showers. Highs in the
+mid 40s. North winds around 15 mph. 
+.SATURDAY NIGHT...Partly cloudy. Slight chance of showers. Lows
+in the upper 20s. North winds around 15 mph. 
+.SUNDAY...Mostly sunny. Slight chance of showers. Highs in the
+mid 40s. North winds around 20 mph. 
+
+$$
+
+NDZ028-242100-
+Griggs-
+Including the city of Cooperstown
+943 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...
+Sky/weather.........Sunny. 
+Max temperature.....41-46. 
+   24 hr trend......Little change. 
+Min humidity........61-66 percent. 
+   24 hr trend......Little change. 
+20-foot winds.......East winds 5 to 10 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...11. 
+Haines index........3 (very low). 
+Smoke dispersal.....Poor (around 13300 Knot-ft). 
+Mixing height.......Around 2900 ft agl. 
+Transport winds.....Northeast 5 to 10 mph. 
+
+.TONIGHT...
+Sky/weather.........Mostly clear. 
+Min temperature.....20-25. 
+   24 hr trend......8 degrees warmer. 
+Max humidity........79-84 percent. 
+   24 hr trend......18 percent lower. 
+20-foot winds.......Northeast winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+
+.TUESDAY...
+Sky/weather.........Sunny. 
+Max temperature.....42-47. 
+   24 hr trend......Little change. 
+Min humidity........51-56 percent. 
+   24 hr trend......10 percent lower. 
+20-foot winds.......East winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...11. 
+Smoke dispersal.....Poor (around 27400 Knot-ft). 
+Mixing height.......Around 3600 ft agl. 
+Transport winds.....East around 10 mph. 
+
+
+.Forecast days 3 through 7......
+.TUESDAY NIGHT...Mostly cloudy. Lows in the mid 20s. Southeast
+winds around 10 mph. 
+.WEDNESDAY...Mostly cloudy. Slight chance of showers. Highs in
+the lower 40s. South winds around 20 mph. 
+.WEDNESDAY NIGHT...Partly cloudy. Chance of showers. Lows around
+30. West winds around 10 mph. 
+.THURSDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. Northwest winds around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+lower 30s. North winds around 15 mph. 
+.FRIDAY...Partly sunny. Chance of showers. Highs in the lower
+40s. North winds around 20 mph. 
+.FRIDAY NIGHT...Mostly cloudy. Slight chance of rain and snow
+showers. Lows in the upper 20s. North winds around 15 mph. 
+.SATURDAY...Partly sunny. Chance of showers. Highs in the mid
+40s. North winds around 15 mph. 
+.SATURDAY NIGHT...Partly cloudy. Slight chance of showers. Lows
+in the upper 20s. North winds around 15 mph. 
+.SUNDAY...Mostly sunny. Slight chance of showers. Highs in the
+mid 40s. North winds around 20 mph. 
+
+$$
+
+NDZ029-242100-
+Steele-
+Including the cities of Finley and Hope
+943 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...
+Sky/weather.........Mostly sunny. 
+Max temperature.....41-46. 
+   24 hr trend......Little change. 
+Min humidity........56-61 percent. 
+   24 hr trend......Little change. 
+20-foot winds.......Northeast winds 5 to 10 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...11. 
+Haines index........3 (very low). 
+Smoke dispersal.....Poor (around 13600 Knot-ft). 
+Mixing height.......Around 3100 ft agl. 
+Transport winds.....Northeast around 5 mph. 
+
+.TONIGHT...
+Sky/weather.........Mostly clear. 
+Min temperature.....22-27. 
+   24 hr trend......6 degrees warmer. 
+Max humidity........74-79 percent. 
+   24 hr trend......7 percent lower. 
+20-foot winds.......Northeast winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+
+.TUESDAY...
+Sky/weather.........Sunny. 
+Max temperature.....44-49. 
+   24 hr trend......Little change. 
+Min humidity........46-51 percent. 
+   24 hr trend......13 percent lower. 
+20-foot winds.......East winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...11. 
+Smoke dispersal.....Poor (around 28800 Knot-ft). 
+Mixing height.......Around 4000 ft agl. 
+Transport winds.....East 5 to 10 mph. 
+
+
+.Forecast days 3 through 7......
+.TUESDAY NIGHT...Partly cloudy. Lows in the mid 20s. Southeast
+winds around 10 mph. 
+.WEDNESDAY...Mostly cloudy. Showers likely. Highs in the mid 40s.
+South winds around 20 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows
+in the lower 30s. West winds around 15 mph. 
+.THURSDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. Northwest winds around 15 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+lower 30s. North winds around 15 mph. 
+.FRIDAY...Partly sunny. Chance of showers. Highs in the lower
+40s. North winds around 20 mph. 
+.FRIDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows in
+the upper 20s. North winds around 15 mph. 
+.SATURDAY...Partly sunny. Chance of showers. Highs in the mid
+40s. North winds around 15 mph. 
+.SATURDAY NIGHT...Partly cloudy. Slight chance of showers. Lows
+around 30. North winds around 15 mph. 
+.SUNDAY...Mostly sunny. Slight chance of showers. Highs in the
+upper 40s. North winds around 20 mph. 
+
+$$
+
+NDZ030-242100-
+Traill-
+Including the cities of Mayville, Hillsboro, Hatton, and Portland
+943 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...
+Sky/weather.........Mostly sunny. 
+Max temperature.....43-48. 
+   24 hr trend......Little change. 
+Min humidity........52-57 percent. 
+   24 hr trend......6 percent higher. 
+20-foot winds.......North winds 5 to 10 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...10. 
+Haines index........4 (low). 
+Smoke dispersal.....Poor (around 12300 Knot-ft). 
+Mixing height.......Around 3200 ft agl. 
+Transport winds.....North around 5 mph. 
+
+.TONIGHT...
+Sky/weather.........Mostly clear. 
+Min temperature.....22-27. 
+   24 hr trend......6 degrees warmer. 
+Max humidity........69-74 percent. 
+   24 hr trend......21 percent lower. 
+20-foot winds.......Northeast winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+
+.TUESDAY...
+Sky/weather.........Sunny. 
+Max temperature.....46-51. 
+   24 hr trend......Little change. 
+Min humidity........38-43 percent. 
+   24 hr trend......13 percent lower. 
+20-foot winds.......East winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...12. 
+Smoke dispersal.....Poor (around 23600 Knot-ft). 
+Mixing height.......Around 4400 ft agl. 
+Transport winds.....East around 5 mph. 
+
+
+.Forecast days 3 through 7......
+.TUESDAY NIGHT...Partly cloudy. Lows in the mid 20s. Southeast
+winds around 10 mph. 
+.WEDNESDAY...Mostly cloudy. Chance of showers. Highs in the upper
+40s. South winds around 20 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy. Showers likely. Lows around 30.
+Southwest winds around 15 mph. 
+.THURSDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. West winds around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+lower 30s. North winds around 15 mph. 
+.FRIDAY...Partly sunny. Chance of showers. Highs in the mid 40s.
+North winds around 20 mph. 
+.FRIDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows in
+the upper 20s. North winds around 15 mph. 
+.SATURDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. North winds around 15 mph. 
+.SATURDAY NIGHT...Partly cloudy. Slight chance of showers. Lows
+in the upper 20s. North winds around 15 mph. 
+.SUNDAY...Mostly sunny. Slight chance of showers. Highs in the
+upper 40s. North winds around 20 mph. 
+
+$$
+
+NDZ038-242100-
+Barnes-
+Including the city of Valley City
+943 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...
+Sky/weather.........Sunny. 
+Max temperature.....43-48. 
+   24 hr trend......Little change. 
+Min humidity........59-64 percent. 
+   24 hr trend......Little change. 
+20-foot winds.......Northeast winds 5 to 10 mph increasing to 
+                    around 15 mph late in the afternoon. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...11. 
+Haines index........3 (very low). 
+Smoke dispersal.....Poor (around 19200 Knot-ft). 
+Mixing height.......Around 3200 ft agl. 
+Transport winds.....Northeast around 10 mph. 
+
+.TONIGHT...
+Sky/weather.........Mostly clear. 
+Min temperature.....21-26. 
+   24 hr trend......Little change. 
+Max humidity........82-87 percent. 
+   24 hr trend......19 percent lower. 
+20-foot winds.......Northeast winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+
+.TUESDAY...
+Sky/weather.........Sunny. 
+Max temperature.....44-49. 
+   24 hr trend......Little change. 
+Min humidity........48-53 percent. 
+   24 hr trend......16 percent lower. 
+20-foot winds.......East winds 5 to 10 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...11. 
+Smoke dispersal.....Poor (around 37000 Knot-ft). 
+Mixing height.......Around 3800 ft agl. 
+Transport winds.....East around 10 mph. 
+
+
+.Forecast days 3 through 7......
+.TUESDAY NIGHT...Mostly cloudy. Lows in the mid 20s. Southeast
+winds around 10 mph. 
+.WEDNESDAY...Mostly cloudy. Showers likely. Highs in the upper
+40s. South winds around 20 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+lower 30s. West winds around 10 mph. 
+.THURSDAY...Partly sunny. Chance of showers. Highs around 50.
+West winds around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+lower 30s. North winds around 15 mph. 
+.FRIDAY...Partly sunny. Chance of showers. Highs in the lower
+40s. North winds around 20 mph. 
+.FRIDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows in
+the upper 20s. North winds around 15 mph. 
+.SATURDAY...Partly sunny. Slight chance of showers. Highs in the
+upper 40s. North winds around 15 mph. 
+.SATURDAY NIGHT...Partly cloudy. Slight chance of showers. Lows
+around 30. North winds around 15 mph. 
+.SUNDAY...Mostly sunny. Slight chance of showers. Highs in the
+mid 40s. North winds around 20 mph. 
+
+$$
+
+NDZ049-242100-
+Ransom-
+Including the cities of Lisbon and Enderlin
+943 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...
+Sky/weather.........Sunny. 
+Max temperature.....44-49. 
+   24 hr trend......Little change. 
+Min humidity........49-54 percent. 
+   24 hr trend......Little change. 
+20-foot winds.......Northeast winds 5 to 10 mph increasing to 
+                    around 15 mph late in the afternoon. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...11. 
+Haines index........3 (very low). 
+Smoke dispersal.....Poor (around 34600 Knot-ft) becoming fair 
+                    (around 43800 Knot-ft) by afternoon. 
+Mixing height.......Around 4700 ft agl. 
+Transport winds.....Northeast around 10 mph. 
+
+.TONIGHT...
+Sky/weather.........Mostly clear. 
+Min temperature.....23-28. 
+   24 hr trend......5 degrees warmer. 
+Max humidity........81-86 percent. 
+   24 hr trend......22 percent lower. 
+20-foot winds.......Northeast winds 5 to 10 mph. 
+LAL.................1. 
+Precipitation.......None.
+
+.TUESDAY...
+Sky/weather.........Sunny. 
+Max temperature.....47-52. 
+   24 hr trend......Little change. 
+Min humidity........41-46 percent. 
+   24 hr trend......9 percent lower. 
+20-foot winds.......East winds 5 to 10 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...12. 
+Smoke dispersal.....Fair (around 52200 Knot-ft). 
+Mixing height.......Around 5000 ft agl. 
+Transport winds.....East around 10 mph. 
+
+
+.Forecast days 3 through 7......
+.TUESDAY NIGHT...Partly cloudy. Lows in the upper 20s. Southeast
+winds around 10 mph. 
+.WEDNESDAY...Mostly cloudy. Chance of showers. Highs in the lower
+50s. South winds around 20 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy. Showers likely. Lows in the
+lower 30s. Southwest winds around 15 mph. 
+.THURSDAY...Partly sunny. Chance of showers. Highs in the lower
+50s. West winds around 15 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+lower 30s. North winds around 15 mph. 
+.FRIDAY...Mostly cloudy. Chance of showers. Highs in the mid 40s.
+North winds around 20 mph. 
+.FRIDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows in
+the upper 20s. North winds around 15 mph. 
+.SATURDAY...Partly sunny. Slight chance of showers. Highs in the
+upper 40s. North winds around 15 mph. 
+.SATURDAY NIGHT...Partly cloudy. Slight chance of showers. Lows
+in the lower 30s. North winds around 15 mph. 
+.SUNDAY...Mostly sunny. Slight chance of showers. Highs in the
+upper 40s. North winds around 20 mph. 
+
+$$
+
+NDZ052-242100-
+Sargent-
+Including the cities of Gwinner, Milnor, Forman, and Rutland
+943 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...
+Sky/weather.........Sunny. 
+Max temperature.....44-49. 
+   24 hr trend......Little change. 
+Min humidity........50-55 percent. 
+   24 hr trend......Little change. 
+20-foot winds.......Northeast winds 5 to 10 mph increasing to 
+                    around 15 mph late in the afternoon. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...12. 
+Haines index........3 (very low). 
+Smoke dispersal.....Poor (around 33200 Knot-ft). 
+Mixing height.......Around 4700 ft agl. 
+Transport winds.....Northeast around 10 mph. 
+
+.TONIGHT...
+Sky/weather.........Mostly clear. 
+Min temperature.....22-27. 
+   24 hr trend......Little change. 
+Max humidity........85-90 percent. 
+   24 hr trend......12 percent lower. 
+20-foot winds.......Northeast winds 5 to 10 mph. 
+LAL.................1. 
+Precipitation.......None.
+
+.TUESDAY...
+Sky/weather.........Sunny. 
+Max temperature.....47-52. 
+   24 hr trend......Little change. 
+Min humidity........42-47 percent. 
+   24 hr trend......9 percent lower. 
+20-foot winds.......East winds 5 to 10 mph. Gusts up to 20 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...12. 
+Smoke dispersal.....Good (around 60200 Knot-ft). 
+Mixing height.......Around 4900 ft agl. 
+Transport winds.....East 10 to 15 mph. 
+
+
+.Forecast days 3 through 7......
+.TUESDAY NIGHT...Partly cloudy. Lows in the upper 20s. Southeast
+winds around 10 mph. 
+.WEDNESDAY...Mostly cloudy. Chance of showers. Highs in the mid
+50s. South winds around 15 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy. Showers likely. Lows in the
+lower 30s. Southwest winds around 15 mph. 
+.THURSDAY...Partly sunny. Chance of showers. Highs in the mid
+50s. West winds around 15 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+lower 30s. North winds around 15 mph. 
+.FRIDAY...Mostly cloudy. Chance of showers. Highs in the mid 40s.
+North winds around 20 mph. 
+.FRIDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows in
+the upper 20s. North winds around 15 mph. 
+.SATURDAY...Partly sunny. Slight chance of showers. Highs in the
+upper 40s. North winds around 15 mph. 
+.SATURDAY NIGHT...Partly cloudy. Slight chance of showers. Lows
+around 30. North winds around 15 mph. 
+.SUNDAY...Mostly sunny. Slight chance of showers. Highs in the
+upper 40s. North winds around 20 mph. 
+
+$$
+
+NDZ053-242100-
+Richland-
+Including the city of Wahpeton
+943 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...
+Sky/weather.........Sunny. 
+Max temperature.....44-49. 
+   24 hr trend......Little change. 
+Min humidity........42-47 percent. 
+   24 hr trend......9 percent lower. 
+20-foot winds.......Northeast winds 5 to 10 mph increasing to 
+                    around 15 mph late in the afternoon. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...11. 
+Haines index........4 (low). 
+Smoke dispersal.....Poor (around 36900 Knot-ft) becoming fair 
+                    (around 41500 Knot-ft) by afternoon. 
+Mixing height.......Around 5400 ft agl. 
+Transport winds.....North around 10 mph. 
+
+.TONIGHT...
+Sky/weather.........Mostly clear. 
+Min temperature.....24-29. 
+   24 hr trend......5 degrees warmer. 
+Max humidity........81-86 percent. 
+   24 hr trend......11 percent lower. 
+20-foot winds.......Northeast winds 5 to 10 mph. 
+LAL.................1. 
+Precipitation.......None.
+
+.TUESDAY...
+Sky/weather.........Sunny. 
+Max temperature.....48-53. 
+   24 hr trend......5 degrees warmer. 
+Min humidity........32-37 percent. 
+   24 hr trend......7 percent lower. 
+20-foot winds.......East winds 5 to 10 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...12. 
+Smoke dispersal.....Fair (around 48300 Knot-ft). 
+Mixing height.......Around 5500 ft agl. 
+Transport winds.....East around 10 mph. 
+
+
+.Forecast days 3 through 7......
+.TUESDAY NIGHT...Partly cloudy. Lows in the upper 20s. Southeast
+winds around 10 mph. 
+.WEDNESDAY...Mostly cloudy. Chance of showers. Highs in the lower
+50s. South winds around 15 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows
+in the lower 30s. Southwest winds around 15 mph. 
+.THURSDAY...Partly sunny. Chance of showers. Highs in the mid
+50s. West winds around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+lower 30s. North winds around 10 mph. 
+.FRIDAY...Mostly cloudy. Chance of showers. Highs in the mid 40s.
+North winds around 20 mph. 
+.FRIDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows
+around 30. North winds around 15 mph. 
+.SATURDAY...Partly sunny. Slight chance of showers. Highs in the
+upper 40s. North winds around 15 mph. 
+.SATURDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows
+in the lower 30s. North winds around 15 mph. 
+.SUNDAY...Mostly sunny. Slight chance of showers. Highs in the
+upper 40s. North winds around 20 mph. 
+
+$$
+
+MNZ004-242100-
+Kittson-
+Including the cities of Hallock, Karlstad, and Lancaster
+943 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...
+Sky/weather.........Mostly sunny. 
+Max temperature.....44-49. 
+   24 hr trend......Little change. 
+Min humidity........42-47 percent. 
+   24 hr trend......Little change. 
+20-foot winds.......North winds up to 5 mph increasing to around 10 
+                    mph late in the afternoon. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...10. 
+Haines index........4 (low). 
+Smoke dispersal.....Good (around 38300 Knot-ft). 
+Mixing height.......Around 5900 ft agl. 
+Transport winds.....North around 10 mph. 
+
+.TONIGHT...
+Sky/weather.........Mostly clear. 
+Min temperature.....24-29. 
+   24 hr trend......Little change. 
+Max humidity........68-73 percent. 
+   24 hr trend......21 percent lower. 
+20-foot winds.......Northeast winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+
+.TUESDAY...
+Sky/weather.........Sunny. 
+Max temperature.....48-53. 
+   24 hr trend......Little change. 
+Min humidity........33-38 percent. 
+   24 hr trend......11 percent lower. 
+20-foot winds.......Southeast winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...11. 
+Smoke dispersal.....Fair (around 29400 Knot-ft). 
+Mixing height.......Around 5800 ft agl. 
+Transport winds.....East around 5 mph. 
+
+
+.Forecast days 3 through 7......
+.TUESDAY NIGHT...Partly cloudy. Lows in the upper 20s. Southeast
+winds around 10 mph. 
+.WEDNESDAY...Mostly cloudy. Showers likely. Highs in the upper
+40s. South winds around 20 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows
+in the lower 30s. South winds around 15 mph. 
+.THURSDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. Northwest winds around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+lower 30s. North winds around 10 mph. 
+.FRIDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. North winds around 15 mph. 
+.FRIDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows
+around 30. North winds around 10 mph. 
+.SATURDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. North winds around 15 mph. 
+.SATURDAY NIGHT...Partly cloudy. Lows in the lower 30s. North
+winds around 15 mph. 
+.SUNDAY...Mostly sunny. Slight chance of showers. Highs in the
+upper 40s. North winds around 15 mph. 
+
+$$
+
+MNZ005-242100-
+Roseau-
+Including the cities of Roseau, Warroad, and Greenbush
+943 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...
+Sky/weather.........Mostly sunny. Chance of sprinkles in the 
+                    afternoon. 
+Max temperature.....43-48. 
+   24 hr trend......Little change. 
+Min humidity........35-40 percent. 
+   24 hr trend......Little change. 
+20-foot winds.......Northeast winds 5 to 10 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...9. 
+Haines index........4 (low). 
+Smoke dispersal.....Good (around 32700 Knot-ft). 
+Mixing height.......Around 6700 ft agl. 
+Transport winds.....Northeast around 5 mph. 
+
+.TONIGHT...
+Sky/weather.........Mostly clear. 
+Min temperature.....23-28. 
+   24 hr trend......Little change. 
+Max humidity........67-72 percent. 
+   24 hr trend......21 percent lower. 
+20-foot winds.......East winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+
+.TUESDAY...
+Sky/weather.........Sunny. 
+Max temperature.....46-51. 
+   24 hr trend......Little change. 
+Min humidity........30-35 percent. 
+   24 hr trend......6 percent lower. 
+20-foot winds.......East winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...11. 
+Smoke dispersal.....Fair (around 27900 Knot-ft). 
+Mixing height.......Around 5500 ft agl. 
+Transport winds.....East around 5 mph. 
+
+
+.Forecast days 3 through 7......
+.TUESDAY NIGHT...Partly cloudy. Lows in the upper 20s. Southeast
+winds around 5 mph. 
+.WEDNESDAY...Partly sunny. Chance of showers. Highs around 50.
+South winds around 15 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+lower 30s. South winds around 15 mph. 
+.THURSDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. Northwest winds around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+lower 30s. Northeast winds around 10 mph. 
+.FRIDAY...Partly sunny. Chance of showers. Highs in the mid 40s.
+North winds around 15 mph. 
+.FRIDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows in
+the lower 30s. North winds around 10 mph. 
+.SATURDAY...Partly sunny. Slight chance of showers. Highs in the
+upper 40s. North winds around 15 mph. 
+.SATURDAY NIGHT...Partly cloudy. Slight chance of showers. Lows
+in the lower 30s. North winds around 10 mph. 
+.SUNDAY...Partly sunny. Slight chance of showers. Highs in the
+upper 40s. North winds around 15 mph. 
+
+$$
+
+MNZ006-242100-
+Lake Of The Woods-
+Including the city of Baudette
+943 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...
+Sky/weather.........Mostly sunny. Slight chance of snow showers in 
+                    the afternoon. 
+Max temperature.....43-48. 
+   24 hr trend......Little change. 
+Min humidity........31-36 percent. 
+   24 hr trend......Little change. 
+20-foot winds.......Northeast winds 5 to 10 mph. 
+LAL.................1. 
+Precipitation.......Isolated in the afternoontrace to 0.10 inch 
+                    amounts. 
+Hours of Sunshine...9. 
+Haines index........4 (low). 
+Smoke dispersal.....Poor (around 29700 Knot-ft). 
+Mixing height.......Around 7100 ft agl. 
+Transport winds.....North around 5 mph. 
+
+.TONIGHT...
+Sky/weather.........Partly cloudy. 
+Min temperature.....21-26. 
+   24 hr trend......Little change. 
+Max humidity........71-76 percent. 
+   24 hr trend......21 percent lower. 
+20-foot winds.......East winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+
+.TUESDAY...
+Sky/weather.........Mostly sunny. 
+Max temperature.....46-51. 
+   24 hr trend......5 degrees warmer. 
+Min humidity........30-35 percent. 
+   24 hr trend......Little change. 
+20-foot winds.......East winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...10. 
+Smoke dispersal.....Poor (around 26000 Knot-ft). 
+Mixing height.......Around 5600 ft agl. 
+Transport winds.....Northeast around 5 mph. 
+
+
+.Forecast days 3 through 7......
+.TUESDAY NIGHT...Partly cloudy. Lows in the mid 20s. Southeast
+winds around 5 mph. 
+.WEDNESDAY...Partly sunny. Slight chance of showers. Highs in the
+lower 50s. South winds around 10 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy. Showers likely. Lows in the
+lower 30s. South winds around 15 mph. 
+.THURSDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. Southwest winds around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+lower 30s. Northeast winds around 10 mph. 
+.FRIDAY...Partly sunny. Chance of showers. Highs in the mid 40s.
+North winds around 15 mph. 
+.FRIDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows in
+the lower 30s. North winds around 10 mph. 
+.SATURDAY...Partly sunny. Slight chance of showers. Highs in the
+upper 40s. North winds around 15 mph. 
+.SATURDAY NIGHT...Mostly cloudy. Slight chance of rain and snow
+showers. Lows in the lower 30s. North winds around 10 mph. 
+.SUNDAY...Partly sunny. Chance of rain and snow showers. Highs in
+the upper 40s. North winds around 15 mph. 
+
+$$
+
+MNZ007-242100-
+West Marshall-
+Including the cities of Warren, Stephen, and Argyle
+943 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...
+Sky/weather.........Mostly sunny. 
+Max temperature.....43-48. 
+   24 hr trend......Little change. 
+Min humidity........44-49 percent. 
+   24 hr trend......16 percent lower. 
+20-foot winds.......North winds up to 5 mph increasing to around 10 
+                    mph late in the afternoon. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...10. 
+Haines index........4 (low). 
+Smoke dispersal.....Good (around 33900 Knot-ft). 
+Mixing height.......Around 5400 ft agl. 
+Transport winds.....North around 10 mph. 
+
+.TONIGHT...
+Sky/weather.........Mostly clear. 
+Min temperature.....24-29. 
+   24 hr trend......5 degrees warmer. 
+Max humidity........69-74 percent. 
+   24 hr trend......25 percent lower. 
+20-foot winds.......Northeast winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+
+.TUESDAY...
+Sky/weather.........Sunny. 
+Max temperature.....48-53. 
+   24 hr trend......Little change. 
+Min humidity........34-39 percent. 
+   24 hr trend......Little change. 
+20-foot winds.......Southeast winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...11. 
+Smoke dispersal.....Fair (around 27900 Knot-ft). 
+Mixing height.......Around 5300 ft agl. 
+Transport winds.....East around 5 mph. 
+
+
+.Forecast days 3 through 7......
+.TUESDAY NIGHT...Partly cloudy. Lows in the upper 20s. Southeast
+winds around 10 mph. 
+.WEDNESDAY...Mostly cloudy. Chance of showers. Highs in the upper
+40s. South winds around 20 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows
+in the lower 30s. Southwest winds around 15 mph. 
+.THURSDAY...Partly sunny. Chance of showers. Highs around 50.
+Northwest winds around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+lower 30s. North winds around 10 mph. 
+.FRIDAY...Partly sunny. Chance of showers. Highs in the mid 40s.
+North winds around 15 mph. 
+.FRIDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows
+around 30. North winds around 15 mph. 
+.SATURDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. North winds around 15 mph. 
+.SATURDAY NIGHT...Partly cloudy. Slight chance of showers. Lows
+in the lower 30s. North winds around 15 mph. 
+.SUNDAY...Mostly sunny. Slight chance of showers. Highs in the
+upper 40s. North winds around 15 mph. 
+
+$$
+
+MNZ008-242100-
+East Marshall-
+Including the cities of Newfolden, Middle River, and Grygla
+943 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...
+Sky/weather.........Mostly sunny. Chance of sprinkles in the 
+                    afternoon. 
+Max temperature.....42-47. 
+   24 hr trend......Little change. 
+Min humidity........36-41 percent. 
+   24 hr trend......7 percent lower. 
+20-foot winds.......North winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...9. 
+Haines index........4 (low). 
+Smoke dispersal.....Good (around 30100 Knot-ft). 
+Mixing height.......Around 6600 ft agl. 
+Transport winds.....North around 5 mph. 
+
+.TONIGHT...
+Sky/weather.........Mostly clear. 
+Min temperature.....23-28. 
+   24 hr trend......Little change. 
+Max humidity........70-75 percent. 
+   24 hr trend......22 percent lower. 
+20-foot winds.......East winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+
+.TUESDAY...
+Sky/weather.........Mostly sunny. 
+Max temperature.....47-52. 
+   24 hr trend......5 degrees warmer. 
+Min humidity........30-35 percent. 
+   24 hr trend......5 percent lower. 
+20-foot winds.......Southeast winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...10. 
+Smoke dispersal.....Fair (around 28900 Knot-ft). 
+Mixing height.......Around 5900 ft agl. 
+Transport winds.....East around 5 mph. 
+
+
+.Forecast days 3 through 7......
+.TUESDAY NIGHT...Partly cloudy. Lows in the upper 20s. Southeast
+winds around 5 mph. 
+.WEDNESDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. South winds around 20 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy. Showers likely. Lows in the
+lower 30s. South winds around 15 mph. 
+.THURSDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. West winds around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+lower 30s. Northeast winds around 10 mph. 
+.FRIDAY...Partly sunny. Chance of showers. Highs in the mid 40s.
+North winds around 15 mph. 
+.FRIDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows
+around 30. North winds around 15 mph. 
+.SATURDAY...Partly sunny. Slight chance of showers. Highs in the
+upper 40s. North winds around 15 mph. 
+.SATURDAY NIGHT...Partly cloudy. Slight chance of showers. Lows
+in the lower 30s. North winds around 15 mph. 
+.SUNDAY...Mostly sunny. Slight chance of showers. Highs in the
+upper 40s. North winds around 15 mph. 
+
+$$
+
+MNZ009-242100-
+North Beltrami-
+Including the cities of Red Lake, Redby, and Ponemah
+943 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...
+Sky/weather.........Mostly sunny. Chance of sprinkles and slight 
+                    chance of snow showers in the afternoon. 
+Max temperature.....42-47. 
+   24 hr trend......Little change. 
+Min humidity........34-39 percent. 
+   24 hr trend......Little change. 
+20-foot winds.......Northeast winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......Isolated in the afternoontrace to 0.10 inch 
+                    amounts. 
+Hours of Sunshine...8. 
+Haines index........4 (low). 
+Smoke dispersal.....Poor (around 26400 Knot-ft). 
+Mixing height.......Around 6700 ft agl. 
+Transport winds.....North around 5 mph. 
+
+.TONIGHT...
+Sky/weather.........Partly cloudy. 
+Min temperature.....21-26. 
+   24 hr trend......Little change. 
+Max humidity........73-78 percent. 
+   24 hr trend......22 percent lower. 
+20-foot winds.......East winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+
+.TUESDAY...
+Sky/weather.........Mostly sunny. 
+Max temperature.....46-51. 
+   24 hr trend......5 degrees warmer. 
+Min humidity........31-36 percent. 
+   24 hr trend......Little change. 
+20-foot winds.......East winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...11. 
+Smoke dispersal.....Poor (around 25400 Knot-ft). 
+Mixing height.......Around 5200 ft agl. 
+Transport winds.....East around 5 mph. 
+
+
+.Forecast days 3 through 7......
+.TUESDAY NIGHT...Mostly clear. Lows in the mid 20s. Southeast
+winds around 5 mph. 
+.WEDNESDAY...Partly sunny. Slight chance of showers. Highs in the
+lower 50s. South winds around 10 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy. Showers likely. Lows in the
+lower 30s. South winds around 15 mph. 
+.THURSDAY...Partly sunny. Chance of showers. Highs in the lower
+50s. West winds around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+lower 30s. Northeast winds around 10 mph. 
+.FRIDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. North winds around 15 mph. 
+.FRIDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows in
+the lower 30s. North winds around 10 mph. 
+.SATURDAY...Partly sunny. Slight chance of showers. Highs in the
+upper 40s. North winds around 15 mph. 
+.SATURDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows
+in the lower 30s. North winds around 10 mph. 
+.SUNDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. North winds around 15 mph. 
+
+$$
+
+MNZ001-242100-
+West Polk-
+Including the cities of Crookston and East Grand Forks
+943 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...
+Sky/weather.........Mostly sunny. 
+Max temperature.....43-48. 
+   24 hr trend......Little change. 
+Min humidity........46-51 percent. 
+   24 hr trend......7 percent lower. 
+20-foot winds.......North winds 5 to 10 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...10. 
+Haines index........4 (low). 
+Smoke dispersal.....Fair (around 28500 Knot-ft). 
+Mixing height.......Around 4700 ft agl. 
+Transport winds.....North around 5 mph. 
+
+.TONIGHT...
+Sky/weather.........Mostly clear. 
+Min temperature.....24-29. 
+   24 hr trend......5 degrees warmer. 
+Max humidity........72-77 percent. 
+   24 hr trend......22 percent lower. 
+20-foot winds.......Northeast winds around 5 mph shifting to the 
+                    east after midnight. 
+LAL.................1. 
+Precipitation.......None.
+
+.TUESDAY...
+Sky/weather.........Sunny. 
+Max temperature.....47-52. 
+   24 hr trend......Little change. 
+Min humidity........33-38 percent. 
+   24 hr trend......10 percent lower. 
+20-foot winds.......Southeast winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...11. 
+Smoke dispersal.....Fair (around 24800 Knot-ft). 
+Mixing height.......Around 5000 ft agl. 
+Transport winds.....East around 5 mph. 
+
+
+.Forecast days 3 through 7......
+.TUESDAY NIGHT...Partly cloudy. Lows in the upper 20s. Southeast
+winds around 10 mph. 
+.WEDNESDAY...Mostly cloudy. Chance of showers. Highs in the upper
+40s. South winds around 20 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy. Showers likely. Lows in the
+lower 30s. Southwest winds around 15 mph. 
+.THURSDAY...Partly sunny. Chance of showers. Highs around 50.
+West winds around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+lower 30s. North winds around 10 mph. 
+.FRIDAY...Partly sunny. Chance of showers. Highs in the mid 40s.
+North winds around 15 mph. 
+.FRIDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows in
+the upper 20s. North winds around 15 mph. 
+.SATURDAY...Partly sunny. Slight chance of showers. Highs in the
+upper 40s. North winds around 15 mph. 
+.SATURDAY NIGHT...Partly cloudy. Slight chance of showers. Lows
+around 30. North winds around 15 mph. 
+.SUNDAY...Mostly sunny. Slight chance of showers. Highs in the
+upper 40s. North winds around 15 mph. 
+
+$$
+
+MNZ013-242100-
+Pennington-
+Including the city of Thief River Falls
+943 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...
+Sky/weather.........Mostly sunny. Chance of sprinkles in the 
+                    afternoon. 
+Max temperature.....42-47. 
+   24 hr trend......Little change. 
+Min humidity........38-43 percent. 
+   24 hr trend......7 percent lower. 
+20-foot winds.......North winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...9. 
+Haines index........3 (very low). 
+Smoke dispersal.....Good (around 30700 Knot-ft). 
+Mixing height.......Around 6000 ft agl. 
+Transport winds.....North around 5 mph. 
+
+.TONIGHT...
+Sky/weather.........Mostly clear. 
+Min temperature.....23-28. 
+   24 hr trend......Little change. 
+Max humidity........73-78 percent. 
+   24 hr trend......22 percent lower. 
+20-foot winds.......East winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+
+.TUESDAY...
+Sky/weather.........Mostly sunny. 
+Max temperature.....47-52. 
+   24 hr trend......5 degrees warmer. 
+Min humidity........31-36 percent. 
+   24 hr trend......5 percent lower. 
+20-foot winds.......Southeast winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...11. 
+Smoke dispersal.....Fair (around 28200 Knot-ft). 
+Mixing height.......Around 5700 ft agl. 
+Transport winds.....East around 5 mph. 
+
+
+.Forecast days 3 through 7......
+.TUESDAY NIGHT...Partly cloudy. Lows in the upper 20s. Southeast
+winds around 5 mph. 
+.WEDNESDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. South winds around 15 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy. Showers likely. Lows in the
+lower 30s. South winds around 15 mph. 
+.THURSDAY...Partly sunny. Chance of showers. Highs around 50.
+West winds around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+lower 30s. North winds around 10 mph. 
+.FRIDAY...Partly sunny. Chance of showers. Highs in the mid 40s.
+North winds around 15 mph. 
+.FRIDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows
+around 30. North winds around 10 mph. 
+.SATURDAY...Partly sunny. Slight chance of showers. Highs in the
+upper 40s. North winds around 15 mph. 
+.SATURDAY NIGHT...Partly cloudy. Slight chance of showers. Lows
+in the lower 30s. North winds around 10 mph. 
+.SUNDAY...Mostly sunny. Slight chance of showers. Highs in the
+upper 40s. North winds around 15 mph. 
+
+$$
+
+MNZ014-242100-
+Red Lake-
+Including the city of Red Lake Falls
+943 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...
+Sky/weather.........Mostly sunny. Chance of sprinkles in the 
+                    afternoon. 
+Max temperature.....42-47. 
+   24 hr trend......5 degrees warmer. 
+Min humidity........38-43 percent. 
+   24 hr trend......13 percent lower. 
+20-foot winds.......North winds 5 to 10 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...9. 
+Haines index........3 (very low). 
+Smoke dispersal.....Fair (around 27600 Knot-ft) becoming good 
+                    (around 31100 Knot-ft) by afternoon. 
+Mixing height.......Around 5600 ft agl. 
+Transport winds.....North around 5 mph. 
+
+.TONIGHT...
+Sky/weather.........Mostly clear. 
+Min temperature.....23-28. 
+   24 hr trend......Little change. 
+Max humidity........73-78 percent. 
+   24 hr trend......26 percent lower. 
+20-foot winds.......Northeast winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+
+.TUESDAY...
+Sky/weather.........Mostly sunny. 
+Max temperature.....47-52. 
+   24 hr trend......5 degrees warmer. 
+Min humidity........30-35 percent. 
+   24 hr trend......5 percent lower. 
+20-foot winds.......Southeast winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...11. 
+Smoke dispersal.....Fair (around 28100 Knot-ft). 
+Mixing height.......Around 5700 ft agl. 
+Transport winds.....East around 5 mph. 
+
+
+.Forecast days 3 through 7......
+.TUESDAY NIGHT...Partly cloudy. Lows in the upper 20s. Southeast
+winds around 5 mph. 
+.WEDNESDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. South winds around 15 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy. Showers likely. Lows in the
+lower 30s. South winds around 15 mph. 
+.THURSDAY...Partly sunny. Chance of showers. Highs around 50.
+West winds around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+lower 30s. North winds around 10 mph. 
+.FRIDAY...Partly sunny. Chance of showers. Highs in the mid 40s.
+North winds around 15 mph. 
+.FRIDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows in
+the upper 20s. North winds around 10 mph. 
+.SATURDAY...Partly sunny. Slight chance of showers. Highs in the
+upper 40s. North winds around 15 mph. 
+.SATURDAY NIGHT...Partly cloudy. Slight chance of showers. Lows
+in the lower 30s. North winds around 15 mph. 
+.SUNDAY...Mostly sunny. Slight chance of showers. Highs in the
+upper 40s. North winds around 15 mph. 
+
+$$
+
+MNZ015-242100-
+East Polk-
+Including the cities of Fosston, Fertile, McIntosh, and Erskine
+943 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...
+Sky/weather.........Mostly sunny. Chance of sprinkles in the 
+                    afternoon. 
+Max temperature.....42-47. 
+   24 hr trend......6 degrees warmer. 
+Min humidity........40-45 percent. 
+   24 hr trend......8 percent lower. 
+20-foot winds.......North winds 5 to 10 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...9. 
+Haines index........3 (very low). 
+Smoke dispersal.....Fair (around 26400 Knot-ft). 
+Mixing height.......Around 5400 ft agl. 
+Transport winds.....North around 5 mph. 
+
+.TONIGHT...
+Sky/weather.........Mostly clear. 
+Min temperature.....23-28. 
+   24 hr trend......Little change. 
+Max humidity........73-78 percent. 
+   24 hr trend......22 percent lower. 
+20-foot winds.......Northeast winds around 5 mph shifting to the 
+                    east after midnight. 
+LAL.................1. 
+Precipitation.......None.
+
+.TUESDAY...
+Sky/weather.........Mostly sunny. 
+Max temperature.....47-52. 
+   24 hr trend......5 degrees warmer. 
+Min humidity........30-35 percent. 
+   24 hr trend......9 percent lower. 
+20-foot winds.......East winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...11. 
+Smoke dispersal.....Fair (around 28600 Knot-ft). 
+Mixing height.......Around 5800 ft agl. 
+Transport winds.....East around 5 mph. 
+
+
+.Forecast days 3 through 7......
+.TUESDAY NIGHT...Mostly clear. Lows in the upper 20s. Southeast
+winds around 5 mph. 
+.WEDNESDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. South winds around 15 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+lower 30s. South winds around 15 mph. 
+.THURSDAY...Partly sunny. Chance of showers. Highs in the lower
+50s. West winds around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+lower 30s. North winds around 10 mph. 
+.FRIDAY...Partly sunny. Chance of showers. Highs in the mid 40s.
+North winds around 15 mph. 
+.FRIDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows
+around 30. North winds around 15 mph. 
+.SATURDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. North winds around 15 mph. 
+.SATURDAY NIGHT...Partly cloudy. Slight chance of showers. Lows
+in the lower 30s. North winds around 15 mph. 
+.SUNDAY...Mostly sunny. Chance of showers. Highs in the upper
+40s. North winds around 15 mph. 
+
+$$
+
+MNZ016-242100-
+North Clearwater-
+Including the cities of Bagley and Clearbrook
+943 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...
+Sky/weather.........Mostly sunny. Chance of sprinkles and slight 
+                    chance of snow showers in the afternoon. 
+Max temperature.....41-46. 
+   24 hr trend......Little change. 
+Min humidity........32-37 percent. 
+   24 hr trend......6 percent lower. 
+20-foot winds.......Northeast winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......Isolated in the afternoontrace to 0.10 inch 
+                    amounts. 
+Hours of Sunshine...10. 
+Haines index........4 (low). 
+Smoke dispersal.....Fair (around 28800 Knot-ft). 
+Mixing height.......Around 6100 ft agl. 
+Transport winds.....North around 5 mph. 
+
+.TONIGHT...
+Sky/weather.........Mostly clear. 
+Min temperature.....21-26. 
+   24 hr trend......Little change. 
+Max humidity........73-78 percent. 
+   24 hr trend......18 percent lower. 
+20-foot winds.......East winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+
+.TUESDAY...
+Sky/weather.........Sunny. 
+Max temperature.....47-52. 
+   24 hr trend......5 degrees warmer. 
+Min humidity........29-34 percent. 
+   24 hr trend......Little change. 
+20-foot winds.......East winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...11. 
+Smoke dispersal.....Fair (around 26800 Knot-ft). 
+Mixing height.......Around 5300 ft agl. 
+Transport winds.....East around 5 mph. 
+
+
+.Forecast days 3 through 7......
+.TUESDAY NIGHT...Mostly clear. Lows in the mid 20s. Southeast
+winds around 5 mph. 
+.WEDNESDAY...Partly sunny. Chance of showers. Highs in the lower
+50s. South winds around 10 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+mid 30s. South winds around 15 mph. 
+.THURSDAY...Partly sunny. Chance of showers. Highs in the lower
+50s. West winds around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+lower 30s. Northeast winds around 10 mph. 
+.FRIDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. North winds around 15 mph. 
+.FRIDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows in
+the lower 30s. North winds around 10 mph. 
+.SATURDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. North winds around 15 mph. 
+.SATURDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows
+in the lower 30s. North winds around 10 mph. 
+.SUNDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. North winds around 15 mph. 
+
+$$
+
+MNZ017-242100-
+South Beltrami-
+Including the city of Bemidji
+943 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...
+Sky/weather.........Mostly sunny. Slight chance of snow showers in 
+                    the afternoon. 
+Max temperature.....44-49. 
+   24 hr trend......Little change. 
+Min humidity........30-35 percent. 
+   24 hr trend......Little change. 
+20-foot winds.......Northeast winds 5 to 10 mph. 
+LAL.................1. 
+Precipitation.......Isolated in the afternoontrace to 0.10 inch 
+                    amounts. 
+Hours of Sunshine...8. 
+Haines index........4 (low). 
+Smoke dispersal.....Good (around 30500 Knot-ft). 
+Mixing height.......Around 6600 ft agl. 
+Transport winds.....North around 5 mph. 
+
+.TONIGHT...
+Sky/weather.........Partly cloudy. 
+Min temperature.....22-27. 
+   24 hr trend......Little change. 
+Max humidity........78-83 percent. 
+   24 hr trend......7 percent lower. 
+20-foot winds.......East winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+
+.TUESDAY...
+Sky/weather.........Sunny. 
+Max temperature.....47-52. 
+   24 hr trend......Little change. 
+Min humidity........30-35 percent. 
+   24 hr trend......Little change. 
+20-foot winds.......East winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...11. 
+Smoke dispersal.....Fair (around 26400 Knot-ft). 
+Mixing height.......Around 5300 ft agl. 
+Transport winds.....Northeast around 5 mph. 
+
+
+.Forecast days 3 through 7......
+.TUESDAY NIGHT...Mostly clear. Lows in the mid 20s. Southeast
+winds around 5 mph. 
+.WEDNESDAY...Partly sunny. Slight chance of showers. Highs in the
+lower 50s. South winds around 10 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy. Showers likely. Lows in the mid
+30s. South winds around 15 mph. 
+.THURSDAY...Partly sunny. Chance of showers. Highs in the mid
+50s. West winds around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+mid 30s. Northeast winds around 10 mph. 
+.FRIDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. North winds around 15 mph. 
+.FRIDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows in
+the lower 30s. North winds around 10 mph. 
+.SATURDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. North winds around 15 mph. 
+.SATURDAY NIGHT...Mostly cloudy. Slight chance of rain and snow
+showers. Lows in the lower 30s. North winds around 10 mph. 
+.SUNDAY...Partly sunny. Chance of rain and snow showers. Highs in
+the upper 40s. North winds around 15 mph. 
+
+$$
+
+MNZ002-242100-
+Norman-
+Including the cities of Ada, Twin Valley, and Halstad
+943 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...
+Sky/weather.........Mostly sunny. 
+Max temperature.....44-49. 
+   24 hr trend......Little change. 
+Min humidity........45-50 percent. 
+   24 hr trend......6 percent lower. 
+20-foot winds.......North winds 5 to 10 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...9. 
+Haines index........4 (low). 
+Smoke dispersal.....Fair (around 26700 Knot-ft) becoming good 
+                    (around 31300 Knot-ft) by afternoon. 
+Mixing height.......Around 4900 ft agl. 
+Transport winds.....North 5 to 10 mph. 
+
+.TONIGHT...
+Sky/weather.........Mostly clear. 
+Min temperature.....24-29. 
+   24 hr trend......5 degrees warmer. 
+Max humidity........74-79 percent. 
+   24 hr trend......18 percent lower. 
+20-foot winds.......Northeast winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+
+.TUESDAY...
+Sky/weather.........Sunny. 
+Max temperature.....47-52. 
+   24 hr trend......Little change. 
+Min humidity........31-36 percent. 
+   24 hr trend......9 percent lower. 
+20-foot winds.......East winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...11. 
+Smoke dispersal.....Fair (around 26700 Knot-ft). 
+Mixing height.......Around 5200 ft agl. 
+Transport winds.....East around 5 mph. 
+
+
+.Forecast days 3 through 7......
+.TUESDAY NIGHT...Partly cloudy. Lows in the mid 20s. Southeast
+winds around 10 mph. 
+.WEDNESDAY...Mostly cloudy. Chance of showers. Highs in the upper
+40s. South winds around 20 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy. Showers likely. Lows in the
+lower 30s. Southwest winds around 15 mph. 
+.THURSDAY...Partly sunny. Chance of showers. Highs around 50.
+West winds around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+lower 30s. North winds around 10 mph. 
+.FRIDAY...Partly sunny. Chance of showers. Highs in the mid 40s.
+North winds around 15 mph. 
+.FRIDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows in
+the upper 20s. North winds around 15 mph. 
+.SATURDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. North winds around 15 mph. 
+.SATURDAY NIGHT...Partly cloudy. Slight chance of showers. Lows
+around 30. North winds around 15 mph. 
+.SUNDAY...Mostly sunny. Chance of showers. Highs in the mid 40s.
+North winds around 15 mph. 
+
+$$
+
+MNZ022-242100-
+Mahnomen-
+Including the cities of Mahnomen, Naytahwaush, and Waubun
+943 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...
+Sky/weather.........Mostly sunny. Chance of sprinkles in the 
+                    afternoon. 
+Max temperature.....42-47. 
+   24 hr trend......5 degrees warmer. 
+Min humidity........39-44 percent. 
+   24 hr trend......15 percent lower. 
+20-foot winds.......North winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...9. 
+Haines index........3 (very low). 
+Smoke dispersal.....Fair (around 28400 Knot-ft). 
+Mixing height.......Around 5100 ft agl. 
+Transport winds.....North around 5 mph. 
+
+.TONIGHT...
+Sky/weather.........Mostly clear. 
+Min temperature.....23-28. 
+   24 hr trend......Little change. 
+Max humidity........74-79 percent. 
+   24 hr trend......22 percent lower. 
+20-foot winds.......Northeast winds around 5 mph shifting to the 
+                    east after midnight. 
+LAL.................1. 
+Precipitation.......None.
+
+.TUESDAY...
+Sky/weather.........Mostly sunny. 
+Max temperature.....47-52. 
+   24 hr trend......5 degrees warmer. 
+Min humidity........30-35 percent. 
+   24 hr trend......9 percent lower. 
+20-foot winds.......East winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...11. 
+Smoke dispersal.....Fair (around 29300 Knot-ft). 
+Mixing height.......Around 5900 ft agl. 
+Transport winds.....East around 5 mph. 
+
+
+.Forecast days 3 through 7......
+.TUESDAY NIGHT...Mostly clear. Lows in the upper 20s. Southeast
+winds around 5 mph. 
+.WEDNESDAY...Partly sunny. Chance of showers. Highs around 50.
+South winds around 15 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy. Showers. Lows in the lower 30s.
+South winds around 15 mph. 
+.THURSDAY...Partly sunny. Chance of showers. Highs in the lower
+50s. West winds around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+lower 30s. Northeast winds around 10 mph. 
+.FRIDAY...Partly sunny. Chance of showers. Highs in the mid 40s.
+North winds around 15 mph. 
+.FRIDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows
+around 30. North winds around 15 mph. 
+.SATURDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. North winds around 15 mph. 
+.SATURDAY NIGHT...Partly cloudy. Slight chance of showers. Lows
+around 30. North winds around 15 mph. 
+.SUNDAY...Mostly sunny. Chance of showers. Highs in the upper
+40s. North winds around 15 mph. 
+
+$$
+
+MNZ023-242100-
+South Clearwater-
+Including the cities of Alida, Ebro, Lake Itasca, Long Lost Lake, 
+Lower Rice Lake, Roy Lake, and Upper Rice Lake
+943 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...
+Sky/weather.........Mostly sunny. Chance of sprinkles and slight 
+                    chance of snow showers in the afternoon. 
+Max temperature.....41-46. 
+   24 hr trend......Little change. 
+Min humidity........32-37 percent. 
+   24 hr trend......Little change. 
+20-foot winds.......Northeast winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......Isolated in the afternoontrace to 0.10 inch 
+                    amounts. 
+Hours of Sunshine...9. 
+Haines index........4 (low). 
+Smoke dispersal.....Fair (around 28600 Knot-ft). 
+Mixing height.......Around 5700 ft agl. 
+Transport winds.....North around 5 mph. 
+
+.TONIGHT...
+Sky/weather.........Mostly clear. 
+Min temperature.....22-27. 
+   24 hr trend......Little change. 
+Max humidity........71-76 percent. 
+   24 hr trend......22 percent lower. 
+20-foot winds.......East winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+
+.TUESDAY...
+Sky/weather.........Sunny. 
+Max temperature.....47-52. 
+   24 hr trend......6 degrees warmer. 
+Min humidity........28-33 percent. 
+   24 hr trend......Little change. 
+20-foot winds.......East winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...11. 
+Smoke dispersal.....Fair (around 29100 Knot-ft). 
+Mixing height.......Around 5800 ft agl. 
+Transport winds.....East around 5 mph. 
+
+
+.Forecast days 3 through 7......
+.TUESDAY NIGHT...Mostly clear. Lows in the mid 20s. Southeast
+winds around 5 mph. 
+.WEDNESDAY...Partly sunny. Slight chance of showers. Highs in the
+lower 50s. South winds around 10 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+mid 30s. South winds around 15 mph. 
+.THURSDAY...Partly sunny. Chance of showers. Highs in the mid
+50s. West winds around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+lower 30s. Northeast winds around 10 mph. 
+.FRIDAY...Mostly cloudy. Chance of showers. Highs in the upper
+40s. North winds around 15 mph. 
+.FRIDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows in
+the lower 30s. North winds around 15 mph. 
+.SATURDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. North winds around 15 mph. 
+.SATURDAY NIGHT...Mostly cloudy. Slight chance of rain and snow
+showers. Lows in the lower 30s. North winds around 15 mph. 
+.SUNDAY...Partly sunny. Chance of rain and snow showers. Highs in
+the upper 40s. North winds around 15 mph. 
+
+$$
+
+MNZ003-242100-
+Clay-
+Including the city of Moorhead
+943 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...
+Sky/weather.........Mostly sunny. 
+Max temperature.....44-49. 
+   24 hr trend......Little change. 
+Min humidity........39-44 percent. 
+   24 hr trend......9 percent lower. 
+20-foot winds.......North winds 5 to 10 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...10. 
+Haines index........4 (low). 
+Smoke dispersal.....Good (around 34300 Knot-ft). 
+Mixing height.......Around 5300 ft agl. 
+Transport winds.....North around 10 mph. 
+
+.TONIGHT...
+Sky/weather.........Mostly clear. 
+Min temperature.....25-30. 
+   24 hr trend......Little change. 
+Max humidity........75-80 percent. 
+   24 hr trend......14 percent lower. 
+20-foot winds.......Northeast winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+
+.TUESDAY...
+Sky/weather.........Sunny. 
+Max temperature.....48-53. 
+   24 hr trend......Little change. 
+Min humidity........31-36 percent. 
+   24 hr trend......6 percent lower. 
+20-foot winds.......East winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...12. 
+Smoke dispersal.....Good (around 34700 Knot-ft). 
+Mixing height.......Around 5400 ft agl. 
+Transport winds.....East 5 to 10 mph. 
+
+
+.Forecast days 3 through 7......
+.TUESDAY NIGHT...Partly cloudy. Lows in the upper 20s. Southeast
+winds around 10 mph. 
+.WEDNESDAY...Mostly cloudy. Chance of showers. Highs around 50.
+South winds around 15 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows
+in the lower 30s. Southwest winds around 15 mph. 
+.THURSDAY...Partly sunny. Chance of showers. Highs in the lower
+50s. West winds around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+mid 30s. North winds around 10 mph. 
+.FRIDAY...Partly sunny. Chance of showers. Highs in the mid 40s.
+North winds around 15 mph. 
+.FRIDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows
+around 30. North winds around 15 mph. 
+.SATURDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. North winds around 15 mph. 
+.SATURDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows
+in the lower 30s. North winds around 15 mph. 
+.SUNDAY...Mostly sunny. Chance of showers. Highs in the upper
+40s. North winds around 15 mph. 
+
+$$
+
+MNZ027-242100-
+West Becker-
+Including the city of Detroit Lakes
+943 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...
+Sky/weather.........Mostly sunny. Chance of sprinkles in the 
+                    afternoon. 
+Max temperature.....41-46. 
+   24 hr trend......Little change. 
+Min humidity........40-45 percent. 
+   24 hr trend......Little change. 
+20-foot winds.......North winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...9. 
+Haines index........3 (very low). 
+Smoke dispersal.....Good (around 31100 Knot-ft). 
+Mixing height.......Around 5300 ft agl. 
+Transport winds.....North around 5 mph. 
+
+.TONIGHT...
+Sky/weather.........Mostly clear. 
+Min temperature.....24-29. 
+   24 hr trend......5 degrees warmer. 
+Max humidity........73-78 percent. 
+   24 hr trend......22 percent lower. 
+20-foot winds.......East winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+
+.TUESDAY...
+Sky/weather.........Sunny. 
+Max temperature.....46-51. 
+   24 hr trend......5 degrees warmer. 
+Min humidity........32-37 percent. 
+   24 hr trend......8 percent lower. 
+20-foot winds.......East winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...11. 
+Smoke dispersal.....Good (around 31300 Knot-ft). 
+Mixing height.......Around 5900 ft agl. 
+Transport winds.....East 5 to 10 mph. 
+
+
+.Forecast days 3 through 7......
+.TUESDAY NIGHT...Partly cloudy. Lows in the mid 20s. Southeast
+winds around 5 mph. 
+.WEDNESDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. South winds around 15 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy. Showers. Lows in the lower 30s.
+Southwest winds around 15 mph. 
+.THURSDAY...Partly sunny. Chance of showers. Highs in the lower
+50s. West winds around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+lower 30s. North winds around 10 mph. 
+.FRIDAY...Mostly cloudy. Chance of showers. Highs in the mid 40s.
+North winds around 15 mph. 
+.FRIDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows in
+the upper 20s. North winds around 15 mph. 
+.SATURDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. North winds around 15 mph. 
+.SATURDAY NIGHT...Partly cloudy. Slight chance of showers. Lows
+around 30. North winds around 15 mph. 
+.SUNDAY...Mostly sunny. Chance of showers. Highs in the upper
+40s. North winds around 15 mph. 
+
+$$
+
+MNZ028-242100-
+East Becker-
+Including the city of Wolf Lake
+943 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...
+Sky/weather.........Mostly sunny. Chance of sprinkles and slight 
+                    chance of snow showers in the afternoon. 
+Max temperature.....41-46. 
+   24 hr trend......Little change. 
+Min humidity........33-38 percent. 
+   24 hr trend......13 percent lower. 
+20-foot winds.......Northeast winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......Isolated in the afternoonNone. 
+Hours of Sunshine...9. 
+Haines index........3 (very low). 
+Smoke dispersal.....Fair (around 28800 Knot-ft) becoming good 
+                    (around 30100 Knot-ft) by afternoon. 
+Mixing height.......Around 5700 ft agl. 
+Transport winds.....North around 5 mph. 
+
+.TONIGHT...
+Sky/weather.........Mostly clear. 
+Min temperature.....23-28. 
+   24 hr trend......6 degrees warmer. 
+Max humidity........73-78 percent. 
+   24 hr trend......22 percent lower. 
+20-foot winds.......East winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+
+.TUESDAY...
+Sky/weather.........Sunny. 
+Max temperature.....47-52. 
+   24 hr trend......6 degrees warmer. 
+Min humidity........28-33 percent. 
+   24 hr trend......5 percent lower. 
+20-foot winds.......East winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...11. 
+Smoke dispersal.....Good (around 32800 Knot-ft). 
+Mixing height.......Around 6000 ft agl. 
+Transport winds.....East 5 to 10 mph. 
+
+
+.Forecast days 3 through 7......
+.TUESDAY NIGHT...Mostly clear. Lows in the mid 20s. Southeast
+winds around 5 mph. 
+.WEDNESDAY...Partly sunny. Slight chance of showers. Highs in the
+lower 50s. South winds around 10 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy. Showers. Lows in the lower 30s.
+South winds around 20 mph. 
+.THURSDAY...Partly sunny. Chance of showers. Highs in the mid
+50s. West winds around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+lower 30s. North winds around 10 mph. 
+.FRIDAY...Mostly cloudy. Chance of showers. Highs in the upper
+40s. North winds around 15 mph. 
+.FRIDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows in
+the upper 20s. North winds around 15 mph. 
+.SATURDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. North winds around 15 mph. 
+.SATURDAY NIGHT...Partly cloudy. Slight chance of showers. Lows
+around 30. North winds around 15 mph. 
+.SUNDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. North winds around 20 mph. 
+
+$$
+
+MNZ024-242100-
+Hubbard-
+Including the city of Park Rapids
+943 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...
+Sky/weather.........Mostly sunny. Slight chance of snow showers and 
+                    rain showers in the afternoon. 
+Max temperature.....43-48. 
+   24 hr trend......Little change. 
+Min humidity........30-35 percent. 
+   24 hr trend......9 percent lower. 
+20-foot winds.......Northeast winds 5 to 10 mph. 
+LAL.................1. 
+Precipitation.......Isolated in the afternoontrace to 0.10 inch 
+                    amounts. 
+Hours of Sunshine...8. 
+Haines index........4 (low). 
+Smoke dispersal.....Good (around 31500 Knot-ft). 
+Mixing height.......Around 6300 ft agl. 
+Transport winds.....North around 5 mph. 
+
+.TONIGHT...
+Sky/weather.........Mostly clear. 
+Min temperature.....21-26. 
+   24 hr trend......Little change. 
+Max humidity........79-84 percent. 
+   24 hr trend......15 percent lower. 
+20-foot winds.......East winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+
+.TUESDAY...
+Sky/weather.........Sunny. 
+Max temperature.....47-52. 
+   24 hr trend......5 degrees warmer. 
+Min humidity........28-33 percent. 
+   24 hr trend......Little change. 
+20-foot winds.......East winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...11. 
+Smoke dispersal.....Good (around 30700 Knot-ft). 
+Mixing height.......Around 5600 ft agl. 
+Transport winds.....Northeast around 5 mph. 
+
+
+.Forecast days 3 through 7......
+.TUESDAY NIGHT...Mostly clear. Lows in the mid 20s. Southeast
+winds around 5 mph. 
+.WEDNESDAY...Partly sunny. Slight chance of showers. Highs in the
+lower 50s. South winds around 10 mph. 
+.WEDNESDAY NIGHT...Showers. Lows in the mid 30s. South winds
+around 15 mph. 
+.THURSDAY...Partly sunny. Chance of showers. Highs in the mid
+50s. West winds around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+mid 30s. Northeast winds around 10 mph. 
+.FRIDAY...Mostly cloudy. Chance of showers. Highs in the upper
+40s. North winds around 15 mph. 
+.FRIDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows
+around 30. North winds around 15 mph. 
+.SATURDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. North winds around 15 mph. 
+.SATURDAY NIGHT...Mostly cloudy. Slight chance of rain and snow
+showers. Lows in the lower 30s. North winds around 15 mph. 
+.SUNDAY...Partly sunny. Chance of rain and snow showers. Highs in
+the upper 40s. North winds around 20 mph. 
+
+$$
+
+MNZ029-242100-
+Wilkin-
+Including the city of Breckenridge
+943 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...
+Sky/weather.........Mostly sunny. 
+Max temperature.....43-48. 
+   24 hr trend......Little change. 
+Min humidity........39-44 percent. 
+   24 hr trend......12 percent lower. 
+20-foot winds.......North winds 5 to 10 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...10. 
+Haines index........4 (low). 
+Smoke dispersal.....Good (around 36600 Knot-ft). 
+Mixing height.......Around 5700 ft agl. 
+Transport winds.....North around 10 mph. 
+
+.TONIGHT...
+Sky/weather.........Mostly clear. 
+Min temperature.....25-30. 
+   24 hr trend......5 degrees warmer. 
+Max humidity........81-86 percent. 
+   24 hr trend......15 percent lower. 
+20-foot winds.......Northeast winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+
+.TUESDAY...
+Sky/weather.........Sunny. 
+Max temperature.....47-52. 
+   24 hr trend......Little change. 
+Min humidity........32-37 percent. 
+   24 hr trend......7 percent lower. 
+20-foot winds.......East winds 5 to 10 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...12. 
+Smoke dispersal.....Good (around 44100 Knot-ft). 
+Mixing height.......Around 5700 ft agl. 
+Transport winds.....East around 10 mph. 
+
+
+.Forecast days 3 through 7......
+.TUESDAY NIGHT...Mostly clear. Lows in the upper 20s. Southeast
+winds around 10 mph. 
+.WEDNESDAY...Partly sunny. Chance of showers. Highs in the lower
+50s. South winds around 15 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+mid 30s. Southwest winds around 15 mph. 
+.THURSDAY...Partly sunny. Chance of showers. Highs in the mid
+50s. West winds around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+mid 30s. North winds around 10 mph. 
+.FRIDAY...Partly sunny. Chance of showers. Highs in the mid 40s.
+North winds around 15 mph. 
+.FRIDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows
+around 30. North winds around 15 mph. 
+.SATURDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. North winds around 15 mph. 
+.SATURDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows
+in the lower 30s. North winds around 15 mph. 
+.SUNDAY...Mostly sunny. Slight chance of showers. Highs in the
+upper 40s. North winds around 20 mph. 
+
+$$
+
+MNZ030-242100-
+West Otter Tail-
+Including the city of Fergus Falls
+943 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...
+Sky/weather.........Mostly sunny. 
+Max temperature.....42-47. 
+   24 hr trend......Little change. 
+Min humidity........38-43 percent. 
+   24 hr trend......11 percent lower. 
+20-foot winds.......North winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...10. 
+Haines index........4 (low). 
+Smoke dispersal.....Good (around 33600 Knot-ft). 
+Mixing height.......Around 5700 ft agl. 
+Transport winds.....North 5 to 10 mph. 
+
+.TONIGHT...
+Sky/weather.........Mostly clear. 
+Min temperature.....25-30. 
+   24 hr trend......Little change. 
+Max humidity........78-83 percent. 
+   24 hr trend......15 percent lower. 
+20-foot winds.......East winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+
+.TUESDAY...
+Sky/weather.........Sunny. 
+Max temperature.....47-52. 
+   24 hr trend......5 degrees warmer. 
+Min humidity........33-38 percent. 
+   24 hr trend......Little change. 
+20-foot winds.......East winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...12. 
+Smoke dispersal.....Good (around 40900 Knot-ft). 
+Mixing height.......Around 5700 ft agl. 
+Transport winds.....East 5 to 10 mph. 
+
+
+.Forecast days 3 through 7......
+.TUESDAY NIGHT...Mostly clear. Lows in the upper 20s. Southeast
+winds around 5 mph. 
+.WEDNESDAY...Partly sunny. Slight chance of showers. Highs in the
+lower 50s. South winds around 15 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy. Showers. Lows in the mid 30s.
+Southwest winds around 15 mph. 
+.THURSDAY...Partly sunny. Chance of showers. Highs in the mid
+50s. West winds around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+mid 30s. North winds around 10 mph. 
+.FRIDAY...Partly sunny. Chance of showers. Highs in the mid 40s.
+North winds around 15 mph. 
+.FRIDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows in
+the lower 30s. North winds around 15 mph. 
+.SATURDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. North winds around 15 mph. 
+.SATURDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows
+in the lower 30s. North winds around 15 mph. 
+.SUNDAY...Mostly sunny. Chance of showers. Highs in the upper
+40s. North winds around 20 mph. 
+
+$$
+
+MNZ031-242100-
+East Otter Tail-
+Including the cities of Perham, New York Mills, Parkers Prairie, 
+Henning, and Battle Lake
+943 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...
+Sky/weather.........Mostly sunny. Chance of sprinkles in the 
+                    afternoon. 
+Max temperature.....41-46. 
+   24 hr trend......Little change. 
+Min humidity........37-42 percent. 
+   24 hr trend......9 percent lower. 
+20-foot winds.......Northeast winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...10. 
+Haines index........3 (very low). 
+Smoke dispersal.....Good (around 30100 Knot-ft). 
+Mixing height.......Around 5700 ft agl. 
+Transport winds.....North around 5 mph. 
+
+.TONIGHT...
+Sky/weather.........Mostly clear. 
+Min temperature.....23-28. 
+   24 hr trend......Little change. 
+Max humidity........78-83 percent. 
+   24 hr trend......19 percent lower. 
+20-foot winds.......East winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+
+.TUESDAY...
+Sky/weather.........Sunny. 
+Max temperature.....47-52. 
+   24 hr trend......6 degrees warmer. 
+Min humidity........31-36 percent. 
+   24 hr trend......Little change. 
+20-foot winds.......East winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...12. 
+Smoke dispersal.....Good (around 39400 Knot-ft). 
+Mixing height.......Around 5900 ft agl. 
+Transport winds.....East 5 to 10 mph. 
+
+
+.Forecast days 3 through 7......
+.TUESDAY NIGHT...Mostly clear. Lows in the mid 20s. Southeast
+winds around 5 mph. 
+.WEDNESDAY...Partly sunny. Slight chance of showers. Highs in the
+lower 50s. South winds around 10 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+mid 30s. South winds around 15 mph. 
+.THURSDAY...Partly sunny. Chance of showers. Highs in the mid
+50s. West winds around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+mid 30s. North winds around 10 mph. 
+.FRIDAY...Mostly cloudy. Chance of showers. Highs in the upper
+40s. North winds around 15 mph. 
+.FRIDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows in
+the lower 30s. North winds around 15 mph. 
+.SATURDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. North winds around 15 mph. 
+.SATURDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows
+in the lower 30s. North winds around 15 mph. 
+.SUNDAY...Mostly sunny. Chance of showers. Highs in the upper
+40s. North winds around 20 mph. 
+
+$$
+
+MNZ032-242100-
+Wadena-
+Including the cities of Wadena and Menahga
+943 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...
+Sky/weather.........Mostly sunny. Chance of sprinkles in the 
+                    afternoon. 
+Max temperature.....43-48. 
+   24 hr trend......Little change. 
+Min humidity........32-37 percent. 
+   24 hr trend......12 percent lower. 
+20-foot winds.......Northeast winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...9. 
+Haines index........3 (very low). 
+Smoke dispersal.....Good (around 31100 Knot-ft). 
+Mixing height.......Around 6300 ft agl. 
+Transport winds.....North around 5 mph. 
+
+.TONIGHT...
+Sky/weather.........Mostly clear. 
+Min temperature.....22-27. 
+   24 hr trend......Little change. 
+Max humidity........78-83 percent. 
+   24 hr trend......19 percent lower. 
+20-foot winds.......East winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+
+.TUESDAY...
+Sky/weather.........Sunny. 
+Max temperature.....47-52. 
+   24 hr trend......Little change. 
+Min humidity........29-34 percent. 
+   24 hr trend......Little change. 
+20-foot winds.......East winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...12. 
+Smoke dispersal.....Good (around 36400 Knot-ft). 
+Mixing height.......Around 5900 ft agl. 
+Transport winds.....East 5 to 10 mph. 
+
+
+.Forecast days 3 through 7......
+.TUESDAY NIGHT...Mostly clear. Lows in the mid 20s. Southeast
+winds around 5 mph. 
+.WEDNESDAY...Partly sunny. Highs in the lower 50s. South winds
+around 10 mph. 
+.WEDNESDAY NIGHT...Showers likely. Lows in the mid 30s. South
+winds around 15 mph. 
+.THURSDAY...Partly sunny. Chance of showers. Highs in the mid
+50s. West winds around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+mid 30s. North winds around 10 mph. 
+.FRIDAY...Mostly cloudy. Chance of showers. Highs in the upper
+40s. North winds around 15 mph. 
+.FRIDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows in
+the lower 30s. North winds around 15 mph. 
+.SATURDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. North winds around 15 mph. 
+.SATURDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows
+in the lower 30s. North winds around 15 mph. 
+.SUNDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. North winds around 20 mph. 
+
+$$
+
+MNZ040-242100-
+Grant-
+Including the cities of Elbow Lake, Hoffman, Ashby, Herman, 
+and Barrett
+943 AM CDT Mon Apr 24 2023
+
+.REST OF TODAY...
+Sky/weather.........Mostly sunny. 
+Max temperature.....43-48. 
+   24 hr trend......Little change. 
+Min humidity........36-41 percent. 
+   24 hr trend......16 percent lower. 
+20-foot winds.......North winds up to 5 mph shifting to the 
+                    northeast late in the afternoon. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...11. 
+Haines index........4 (low). 
+Smoke dispersal.....Good (around 34000 Knot-ft). 
+Mixing height.......Around 6000 ft agl. 
+Transport winds.....North 5 to 10 mph. 
+
+.TONIGHT...
+Sky/weather.........Mostly clear. 
+Min temperature.....24-29. 
+   24 hr trend......Little change. 
+Max humidity........82-87 percent. 
+   24 hr trend......11 percent lower. 
+20-foot winds.......East winds up to 5 mph. 
+LAL.................1. 
+Precipitation.......None.
+
+.TUESDAY...
+Sky/weather.........Sunny. 
+Max temperature.....48-53. 
+   24 hr trend......Little change. 
+Min humidity........30-35 percent. 
+   24 hr trend......Little change. 
+20-foot winds.......East winds 5 to 10 mph. 
+LAL.................1. 
+Precipitation.......None.
+Hours of Sunshine...13. 
+Smoke dispersal.....Good (around 48000 Knot-ft). 
+Mixing height.......Around 5500 ft agl. 
+Transport winds.....East around 10 mph. 
+
+
+.Forecast days 3 through 7......
+.TUESDAY NIGHT...Mostly clear. Lows in the upper 20s. East winds
+around 10 mph. 
+.WEDNESDAY...Partly sunny. Slight chance of showers. Highs in the
+lower 50s. South winds around 15 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy. Showers likely. Lows in the mid
+30s. South winds around 15 mph. 
+.THURSDAY...Partly sunny. Chance of showers. Highs in the upper
+50s. West winds around 10 mph. 
+.THURSDAY NIGHT...Mostly cloudy. Chance of showers. Lows in the
+mid 30s. North winds around 10 mph. 
+.FRIDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. North winds around 15 mph. 
+.FRIDAY NIGHT...Mostly cloudy. Slight chance of showers. Lows in
+the lower 30s. North winds around 15 mph. 
+.SATURDAY...Partly sunny. Chance of showers. Highs in the upper
+40s. North winds around 15 mph. 
+.SATURDAY NIGHT...Partly cloudy. Slight chance of showers. Lows
+in the lower 30s. Northwest winds around 15 mph. 
+.SUNDAY...Mostly sunny. Slight chance of showers. Highs in the
+upper 40s. North winds around 20 mph. 
+
+$$
+

@@ -1,0 +1,287 @@
+WGUS83 KFGF 241452
+FLSFGF
+
+Flood Statement
+National Weather Service Grand Forks ND
+952 AM CDT Mon Apr 24 2023
+
+...The Flood Warning continues for the following rivers in North 
+Dakota...Minnesota...
+
+  Red River of the North at Wahpeton affecting Wilkin and Richland 
+  Counties.
+
+  Red River of the North at Drayton affecting Kittson, Walsh, 
+  Pembina and Marshall Counties.
+
+  Red River of the North at Pembina affecting Kittson and Pembina 
+  Counties.
+
+  Red River of the North at Oslo affecting Grand Forks, Polk, Walsh 
+  and Marshall Counties.
+
+  Red River of the North at Halstad affecting Traill and Norman 
+  Counties.
+
+  Red River of the North at East Grand Forks affecting Grand Forks 
+  and Polk Counties.
+
+  Red River of the North at Fargo affecting Cass and Clay Counties.
+
+.Red River basin river flooding to continue. Slow rises are still 
+ongoing across the far northern basin, while the new snowmelt will 
+result in a slower recession or long slow crest from the central and 
+southern parts of the basin.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Please report observed flooding to local emergency services or law 
+enforcement and request they pass this information to the National 
+Weather Service when you can do so safely.
+
+Safety message - Turn around, don't drown. Don't travel through 
+flooded areas. Most flood deaths occur in vehicles.
+
+&&
+
+Additional information is available at www.weather.gov.
+
+
+MNC167-NDC077-252100-
+/O.EXT.KFGF.FL.W.0003.000000T0000Z-230428T0600Z/
+/WHNN8.1.SM.230415T0515Z.230419T2015Z.230427T0000Z.NO/
+952 AM CDT Mon Apr 24 2023
+
+...FLOOD WARNING FOR SNOWMELT NOW IN EFFECT UNTIL EARLY FRIDAY 
+MORNING...
+
+* WHAT...Minor flooding is occurring and minor flooding is forecast.
+
+* WHERE...Red River of the North at Wahpeton.
+
+* WHEN...Until early Friday morning.
+
+* IMPACTS...At 11.6 feet, Otter Tail River water starts to flow into 
+  the Breckenridge Diversion.  Water on Main Street (Breckenridge).
+
+* ADDITIONAL DETAILS...
+  - At 9:30 AM CDT Monday the stage was 11.5 feet.
+  - Recent Activity...The maximum river stage in the 24 hours
+    ending at 9:30 AM CDT Monday was 11.7 feet.
+  - Forecast...The river is expected to fall below flood stage
+    Wednesday evening and continue falling to 10.5 feet Monday
+    morning.
+  - Flood stage is 11.0 feet.
+
+
+&&
+
+LAT...LON 4650 9684 4650 9663 4603 9641 4602 9672
+
+
+$$
+
+MNC069-089-NDC067-099-252100-
+/O.CON.KFGF.FL.W.0024.000000T0000Z-000000T0000Z/
+/DRTN8.2.SM.230420T0921Z.230430T0000Z.000000T0000Z.NO/
+952 AM CDT Mon Apr 24 2023
+
+...FLOOD WARNING FOR SNOWMELT REMAINS IN EFFECT UNTIL FURTHER 
+NOTICE...
+
+* WHAT...Moderate flooding is occurring and moderate flooding is 
+  forecast.
+
+* WHERE...Red River of the North at Drayton.
+
+* WHEN...Until further notice.
+
+* IMPACTS...At 39.0 feet, Rural road damages begin.
+
+* ADDITIONAL DETAILS...
+  - At 8:45 AM CDT Monday the stage was 38.2 feet.
+  - Recent Activity...The maximum river stage in the 24 hours
+    ending at 8:45 AM CDT Monday was 38.2 feet.
+  - Forecast...The river is expected to rise to 40.0 feet
+    Saturday evening. Additional rises are possible thereafter.
+  - Flood stage is 32.0 feet.
+
+
+&&
+
+LAT...LON 4874 9702 4846 9705 4848 9725 4881 9734
+
+
+$$
+
+MNC069-NDC067-252100-
+/O.CON.KFGF.FL.W.0023.000000T0000Z-000000T0000Z/
+/PBNN8.2.SM.230420T2226Z.230501T1200Z.000000T0000Z.NO/
+952 AM CDT Mon Apr 24 2023
+
+...FLOOD WARNING FOR SNOWMELT REMAINS IN EFFECT UNTIL FURTHER 
+NOTICE...
+
+* WHAT...Minor flooding is occurring and moderate flooding is 
+  forecast.
+
+* WHERE...Red River of the North at Pembina.
+
+* WHEN...Until further notice.
+
+* IMPACTS...At 46.6 feet, MN 175 bridge (south of Pembina and north 
+  of Drayton) approaches flood (MN DOT).
+
+* ADDITIONAL DETAILS...
+  - At 9:30 AM CDT Monday the stage was 42.5 feet.
+  - Recent Activity...The maximum river stage in the 24 hours
+    ending at 9:30 AM CDT Monday was 42.5 feet.
+  - Forecast...The river is expected to rise to 47.2 feet Monday
+    morning. Additional rises are possible thereafter.
+  - Flood stage is 39.0 feet.
+
+
+&&
+
+LAT...LON 4874 9701 4877 9732 4900 9740 4900 9700
+
+
+$$
+
+MNC089-119-NDC035-099-252100-
+/O.CON.KFGF.FL.W.0019.000000T0000Z-000000T0000Z/
+/OSLM5.3.SM.230418T1022Z.230425T0000Z.000000T0000Z.NO/
+952 AM CDT Mon Apr 24 2023
+
+...FLOOD WARNING FOR SNOWMELT REMAINS IN EFFECT UNTIL FURTHER 
+NOTICE...
+
+* WHAT...Major flooding is occurring and major flooding is forecast.
+
+* WHERE...Red River of the North at Oslo.
+
+* WHEN...Until further notice.
+
+* IMPACTS...At 36.5 feet, ND State Highway 54 has water over the 
+  road.
+
+* ADDITIONAL DETAILS...
+  - At 9:15 AM CDT Monday the stage was 36.2 feet.
+  - Recent Activity...The maximum river stage in the 24 hours
+    ending at 9:15 AM CDT Monday was 36.3 feet.
+  - Forecast...The river is expected to rise to a crest of 36.3
+    feet this evening.
+  - Flood stage is 26.0 feet.
+
+
+&&
+
+LAT...LON 4848 9725 4846 9706 4807 9698 4810 9721
+
+
+$$
+
+MNC107-NDC097-252100-
+/O.CON.KFGF.FL.W.0018.000000T0000Z-000000T0000Z/
+/HILN8.2.SM.230418T0543Z.230423T2030Z.000000T0000Z.NO/
+952 AM CDT Mon Apr 24 2023
+
+...FLOOD WARNING FOR SNOWMELT REMAINS IN EFFECT UNTIL FURTHER 
+NOTICE...
+
+* WHAT...Moderate flooding is occurring and moderate flooding is 
+  forecast.
+
+* WHERE...Red River of the North at Halstad.
+
+* WHEN...Until further notice.
+
+* IMPACTS...At 33.0 feet, Considerable rural and farmland flooding.
+
+* ADDITIONAL DETAILS...
+  - At 9:30 AM CDT Monday the stage was 34.2 feet.
+  - Recent Activity...The maximum river stage in the 24 hours
+    ending at 9:30 AM CDT Monday was 34.3 feet.
+  - Forecast...The river is expected to fall to 31.1 feet Monday
+    morning.
+  - Flood stage is 26.0 feet.
+
+
+&&
+
+LAT...LON 4767 9698 4767 9673 4715 9673 4724 9695
+
+
+$$
+
+MNC119-NDC035-252100-
+/O.CON.KFGF.FL.W.0017.000000T0000Z-000000T0000Z/
+/EGFM5.2.SM.230418T0852Z.230430T0000Z.000000T0000Z.NO/
+952 AM CDT Mon Apr 24 2023
+
+...FLOOD WARNING FOR SNOWMELT REMAINS IN EFFECT UNTIL FURTHER 
+NOTICE...
+
+* WHAT...Moderate flooding is occurring and moderate flooding is 
+  forecast.
+
+* WHERE...Red River of the North at East Grand Forks.
+
+* WHEN...Until further notice.
+
+* IMPACTS...At 41.5 feet, Flood gates on English Coulee are closed, 
+  pump station and diversion gates are activated. (Grand Forks)
+
+* ADDITIONAL DETAILS...
+  - At 8:45 AM CDT Monday the stage was 40.8 feet.
+  - Recent Activity...The maximum river stage in the 24 hours
+    ending at 8:45 AM CDT Monday was 40.8 feet.
+  - Forecast...The river is expected to rise to a crest of 41.0
+    feet Saturday evening.
+  - Flood stage is 28.0 feet.
+
+
+&&
+
+LAT...LON 4767 9699 4810 9719 4807 9698 4768 9674
+
+
+$$
+
+MNC027-NDC017-252100-
+/O.CON.KFGF.FL.W.0004.000000T0000Z-000000T0000Z/
+/FGON8.2.SM.230416T0922Z.230422T1215Z.000000T0000Z.NO/
+952 AM CDT Mon Apr 24 2023
+
+...FLOOD WARNING FOR SNOWMELT REMAINS IN EFFECT UNTIL FURTHER 
+NOTICE...
+
+* WHAT...Moderate flooding is occurring and moderate flooding is 
+  forecast.
+
+* WHERE...Red River of the North at Fargo.
+
+* WHEN...Until further notice.
+
+* IMPACTS...At 28.0 feet, Rivershore Drive underpass at I-94 is 
+  closed (Moorhead). 12th Avenue N/15th Avenue N bridge over Red 
+  River is closed (Fargo/Moorhead).
+
+* ADDITIONAL DETAILS...
+  - At 9:15 AM CDT Monday the stage was 28.6 feet.
+  - Recent Activity...The maximum river stage in the 24 hours
+    ending at 9:15 AM CDT Monday was 29.3 feet.
+  - Forecast...The river is expected to fall to 24.2 feet Monday
+    morning.
+  - Flood stage is 18.0 feet.
+
+
+&&
+
+LAT...LON 4677 9671 4676 9689 4724 9694 4724 9683
+      4715 9673
+
+
+$$
+
+NR

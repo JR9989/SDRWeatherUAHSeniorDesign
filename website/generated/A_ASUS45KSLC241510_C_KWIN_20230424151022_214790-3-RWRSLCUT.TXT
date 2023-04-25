@@ -1,0 +1,86 @@
+ASUS45 KSLC 241510
+RWRUT 
+
+UTAH REGIONAL WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE SALT LAKE CITY UT
+900 AM MDT MON APR 24 2023
+
+UTZ101>105-107>111-241600-
+
+NORTHERN UTAH
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BRIGHAM CITY   CLOUDY    44  38  81 E10       29.90S                  
+DUGWAY         MOSUNNY   49  38  66 E3        29.94S                  
+HILL AFB       LGT RAIN  43  36  75 SE7       29.88R                  
+LOGAN          CLOUDY    42  34  73 SW3       29.89F                  
+OGDEN          NOT AVBL                                               
+SALT LAKE CITY CLOUDY    52  37  56 SE8       29.88F                  
+TOOELE VALLEY  LGT RAIN  52  34  50 S17       29.88F                  
+WENDOVER       PTSUNNY   50  36  58 NE3       29.89F                  
+HEBER CITY     PTSUNNY   36  30  80 CALM      29.92F                  
+WEST JORDAN    CLOUDY    53  37  53 S12       29.90S                  
+
+$$
+
+UTZ024>027-106-112>120-241600-
+
+CENTRAL/NORTHEAST UTAH
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PROVO AIRPORT  CLOUDY    50  35  56 S5        29.92F                  
+MOAB/CANYONLAN SUNNY     52  39  61 CALM      29.90S                  
+DELTA          MOSUNNY   46  37  71 S14       29.93R                  
+MANTI          CLOUDY    38  34  87 CALM      29.95F                  
+PRICE          SUNNY     48  30  49 SW3       29.92S                  
+DUCHESNE       SUNNY     43  25  49 W6        29.94S                  
+VERNAL         SUNNY     45  27  49 CALM      29.94S                  
+
+$$
+
+UTZ121>131-241600-
+
+SOUTHERN UTAH
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BRYCE CANYON   MOSUNNY   38  35  89 W6        30.00S WCI  33          
+CEDAR CITY     MOSUNNY   46  40  79 CALM      29.96S                  
+MILFORD        MOSUNNY   48  41  76 S14       29.93S                  
+PANGUITCH      FOG       34  34 100 CALM      30.02S VSB 1/2          
+ST GEORGE      PTSUNNY   60  41  49 E7        29.90S                  
+HANKSVILLE     SUNNY     50  41  71 CALM      29.93S                  
+KANAB          SUNNY     52  41  66 N12       29.97F                  
+BLANDING         N/A     46  42  86 E6        30.03F                  
+
+$$
+
+REGIONAL REPORTS     COLORADO/ARIZONA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CRAIG, CO      SUNNY     38  27  64 CALM      29.96F                  
+GRAND JUNCTION PTSUNNY   50  32  50 SE8       29.92F                  
+RIFLE, CO      MOSUNNY   42  30  62 CALM      29.96F                  
+MONTROSE, CO   CLOUDY    48  36  63 SE9       29.97S                  
+CORTEZ, CO     PTSUNNY   44  39  82 CALM      29.98F                  
+COLORADO CITY    N/A     52  39  62 S5        29.97S                  
+PAGE, AZ       SUNNY     55  45  68 N7        29.93S                  
+GRAND CANYON   SUNNY     53  35  50 VRB3      30.00R                  
+KINGMAN, AZ    SUNNY     63  38  39 CALM      29.87R                  
+FLAGSTAFF, AZ  SUNNY     52  32  46 CALM      30.02S                  
+
+$$
+
+REGIONAL REPORTS    NEVADA/IDAHO/WYOMING
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+LAS VEGAS, NV  PTSUNNY   67  38  34 SE3       29.85R                  
+ELY, NV        MOSUNNY   37  34  89 S12       29.97S WCI  29          
+ELKO, NV       PTSUNNY   40  38  93 SW3       29.91S                  
+POCATELLO, ID  PTSUNNY   50  35  56 S9        29.86F                  
+BURLEY, ID     PTSUNNY   49  39  68 SW10      29.84F                  
+EVANSTON, WY   PTSUNNY   34  25  69 S6        29.92F WCI  29          
+ROCK SPRINGS,  MOSUNNY   39  23  52 VRB5      29.93F                  
+KEMMERER, WY   PTSUNNY   32  21  64 N13       29.93F WCI  22          
+
+$$
+  

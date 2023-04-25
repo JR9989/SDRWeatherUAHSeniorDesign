@@ -1,0 +1,52 @@
+SRUS42 KMFL 241507
+RVAMFL
+FLC011-021-043-051-086-087-099-AMZ610-251507-
+ 
+HYDROLOGIC SUMMARY
+NATIONAL WEATHER SERVICE MIAMI FL
+1107 AM EDT Mon Apr 24 2023
+
+Location                       Flood   7AM   24HR      7AM   24HR
+                               Stage  HW Stg Chng      TW    Chng
+Lake Okeechobee
+
+
+  12 midnight avg lake lvl            14.3    0.0 
+
+
+Caloosahatchee Headwater and Tailwater Elevations
+
+
+  Moore Haven Lock                    14.2    0.2     10.7   -0.3 
+  Ortona Lock                         10.7   -0.3      3.0   -0.2 
+  WP Franklin Lock and Dam             3.1   -0.2      1.4   -0.4 
+
+
+Fisheating Creek Gage Height
+
+
+  Palmdale                             0.3   -0.0           
+
+
+Clewiston Industrial Canal Gage Height
+
+
+  Clewiston Ind. Canal                14.3   -0.0           
+
+
+St. Lucie Canal Headwater and Tailwater Elevations
+
+
+  Port Mayaca Lock                    14.1    0.0     14.1    0.2 
+  St. Lucie Lock and Dam              14.2    0.2      1.1    0.5 
+
+
+This data was provided with the cooperation of the U.S. Army Corps
+of Engineers...the South Florida Water Management District...and 
+the U.S. Geological Survey
+
+
+$$
+
+
+

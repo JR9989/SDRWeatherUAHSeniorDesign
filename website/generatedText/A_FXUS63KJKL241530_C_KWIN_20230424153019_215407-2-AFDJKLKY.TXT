@@ -1,0 +1,195 @@
+FXUS63 KJKL 241530
+AFDJKL
+
+AREA FORECAST DISCUSSION
+National Weather Service Jackson KY
+1130 AM EDT Mon Apr 24 2023
+
+.UPDATE...
+Issued at 1129 AM EDT MON APR 24 2023
+
+Made a couple updates this morning so far. First was to load in
+the latest observations to make sure the near-term portion of the
+forecast was on track. Otherwise let everything ride until just
+after 10am when the ongoing NPW dropped off. Resent the NPW to
+take out last night/morning wording and continue on with the
+upcoming hazards for tonight/Tuesday morning. Also redid the HWO
+and Zones to update hazards wording, and to remove any morning fog
+wording. All updates have been published and sent to NDFD/web.
+Collaboration is going on with the neighbors to start upgrading
+the freeze watch to a freeze warning - so will send out another
+update when this is done. 
+
+UPDATE Issued at 710 AM EDT MON APR 24 2023
+
+Fog has continued to develop through early this morning, 
+expanding more along the Kentucky, Cumberland, and also the 
+Licking River basins. Have freshened up the forecast to account 
+for this, as well as updated the diurnal temperature curve through
+this morning, incorporating the latest trends in the observations. 
+Updates have been sent. 
+
+&&
+
+.SHORT TERM...(Today through Tuesday)
+Issued at 511 AM EDT MON APR 24 2023
+
+The latest upper level map features a persistent low spiraling
+over the Minnesota/Ontario border, with several vorticity lobes 
+gyring around the periphery of the center. Broad troughing still 
+expands south through the northern Gulf Coastal region. Upstream, 
+ridging is aligned from the Alberta/Saskatchewan border through 
+the northern/central Rockies, with short wave energy moving in 
+over the Pacific Northwest. At the surface, high pressure is 
+situated from the middle Mississippi Valley through the Ohio 
+Valley. Scattered to broken higher-based stratocu continues to 
+remain on the northeastern fringe of our forecast area, associated
+with a passing short wave trough. Temperatures have dipped below 
+30 degrees in places generally near and west of I-75, where more 
+sustained clearing has taken place overnight. Temperatures across 
+the Bluegrass and east of I-75 are currently in the low to mid 
+30s, with mid 30s more common in far eastern Kentucky, where 
+clouds have hung on longer. The satellite fog channel also reveals
+some fog within portions of the Cumberland and Kentucky River 
+basins.
+
+The models are in good agreement through the period, with the
+upper level low to gyre its way east southeast, residing across
+southeastern Ontario by late Tuesday. This will result in a
+maintenance of cyclonic flow across the Great Lakes and Ohio
+Valley through the period, with a gradual increase in 500 mb
+heights. At the surface, high pressure will meander east, reaching 
+the Upper Ohio River Basin and through the Mid-Atlantic region by
+the end of the period. Dry and cool weather will continue across
+eastern Kentucky, with another night of near or sub-freezing
+temperatures and frost. 
+
+Clouds should be a little less prevalent today, with drier low
+level air in place, along with some 500 mb height recovery.
+This will allow for slightly warmer highs compared to yesterday,
+with mid 50s occurring north of I-64, to around 60 bordering
+Tennessee. Mostly clear skies and calming winds tonight will allow
+for another chilly night, with lows in the low to mid 30s west, 
+with a few spots dipping to below 30 degrees. As such, have
+hoisted another Frost Advisory. Further east, and in coordination
+with surrounding offices, a Freeze Watch has been issued, with a 
+good chance of a light to hard freeze in the deeper valleys by 
+dawn Tuesday morning, as some of typically colder valleys see 
+temperatures around 27 degrees. An increase in mid and high level 
+clouds will occur from the west during the pre-dawn hours, and 
+these should help keep temperatures in check in our west. These 
+clouds will continue to stream in aloft on Tuesday, with the 
+thicker cloud cover expected during the morning hours, and some 
+thinning likely in the afternoon. Highs will modify to mainly the
+lower 60s, with a few mid 60 degree readings, still below our 
+normal highs in the lower 70s for this time of year. 
+
+.LONG TERM...(Tuesday night through Sunday)
+Issued at 513 AM EDT MON APR 24 2023
+
+Key Messages:
+
+1. Slightly below normal temperatures prevail through the long-term 
+period.
+
+2. Multiple disturbances will bring opportunities for rainfall 
+each day, culminating with the passage of a strong cold front over
+the upcoming weekend.
+
+3. Well below normal temperatures are favored heading into the first 
+few days of May. 
+
+Analysis:
+
+The 24/00z model suite 500H analysis beginning late Tuesday evening 
+shows weakly cyclonic to quasi-zonal flow over the Commonwealth, 
+courtesy an ~540 dam low over the Ottawa Valley. The upstream 
+pattern is unsettled with a disturbance over the Southern Plains 
+just ahead of an ~558 dam low/shortwave trough over the Upper 
+Colorado River Basin. Another potent trough will be shearing away 
+from an ~518 dam low near/over the Alaska Peninsula. At the surface, 
+regional analysis shows a surface trough extending from weak low 
+pressure in the Ottawa Valley southwestward into the Lower Ohio 
+Valley. A wavering boundary is also found well to our south from the 
+Georgia Coast, north of the Gulf Coast and then across Texas to a 
+surface low pressure in the lee of the Southern Rockies, just ahead 
+of the aforementioned ~558 dam low/shortwave trough. 
+
+The leading disturbance will shift across the Southeast US Tuesday 
+Night and Wednesday, spreading mid and high cloud cover across the 
+CWA and brushing the southern portions of Commonwealth with some low 
+end rain chances. Most locations north of the Hal Rogers/KY-80 
+corridor will likely stay dry. Expect Wednesday morning's lows to 
+range from the upper 30s in the valleys to mid 40s over thermal belt 
+ridges. A smattering of mid 30s are probable in the sheltered 
+valleys north of the Mountain Parkway where cloud cover will be 
+thinner. Highs on Wednesday should reach the lower to upper 60s, 
+coolest in the Tennessee border counties (where cloud cover will 
+be thickest and rain chances highest). 
+
+Shortwave ridging briefly returns as that disturbance departs 
+Wednesday evening and the more well-defined shortwave trough and 
+surface low approach. Model guidance continues to struggle with the 
+arrival of precipitation in eastern Kentucky as the surface low 
+rides the wavering frontal boundary to our south. The GFS falls on 
+the faster end of guidance with rainfall spreading across most of 
+the forecast area by 12z Thursday whereas the slower end of guidance 
+shows the showers moving in mainly after 18z Thursday. After morning 
+lows in the mid 30s (cooler valleys) to mid 40s (warmer ridges), the 
+precipitation arrival time should prove crucial for realized 
+temperatures. A faster arrival would tend to tamp down high 
+temperatures while a slower onset would allow for more diurnal 
+heating. The NBM maximum temperatures of 63 to 70 were retained and 
+would be realized with a slower rainfall onset time (which is 
+favored). Rainfall will likely continue through Thursday night. A 
+rumble of thunder cannot be ruled out with this system but left out 
+mention in the forecast and HWO for now due to uncertainty with 
+timing and very limited instability. Showers should diminish from 
+west-to-east on Friday as low pressure departs. Once again, high 
+temperatures are forecast to reach the mid to upper 60s on Friday. 
+
+Energy sheared off of the deep upper low near/over the Alaska 
+Peninsula will cross the far northern Canadian Rockies on Wednesday 
+and then drop across the Plains while forming a generally deepening 
+closed low dropping into the Central CONUS and then passing over the 
+Mississippi Valley late Saturday or early Sunday. Model agreement on 
+this low's track, intensity, and potential interactions with another 
+deep trough over Nunavut is still quite poor. As such, the specific 
+details as to the timing of precipitation and the passage of an 
+associated cold front are not yet ascertainable. With that said, 
+there is potential for another widespread wetting rainfall and 
+period of gusty gradient winds all followed by sharply cooler 
+temperatures for the first days of May. 
+
+&&
+
+.AVIATION...(For the 12Z TAFS through 12Z Tuesday morning)
+ISSUED AT 710 AM EDT MON APR 24 2023
+
+Besides some IFR or lower fog seen along the deeper river valleys
+through 13z, VFR conditions will prevail through the period. Few 
+to scattered stratocu ranging from 5-7K feet agl will develop this
+afternoon, with the better coverage expected towards I-64. These 
+clouds will clear out towards dusk. Some mid and high level clouds
+will move in from the west and southwest towards the end of the 
+period. Light and variable winds will become northwesterly at 5 to
+8 kts during the afternoon, before diminishing by early this 
+evening. 
+
+&&
+
+.JKL WATCHES/WARNINGS/ADVISORIES...
+Frost Advisory from 2 AM to 9 AM EDT Tuesday for KYZ044-050>052-
+058>060-068-069-079-080-083>085.
+
+Freeze Watch from late tonight through Tuesday morning for 
+KYZ086>088-104-106>120.
+
+&&
+
+$$
+
+UPDATE...JMW
+SHORT TERM...GEOGERIAN 
+LONG TERM...GEERTSON 
+AVIATION...GEOGERIAN

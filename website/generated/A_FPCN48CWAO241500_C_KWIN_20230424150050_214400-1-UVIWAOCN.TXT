@@ -1,0 +1,71 @@
+FPCN48 CWAO 241500
+ULTRAVIOLET (UV) INDEX FORECAST FOR CANADIAN CITIES ISSUED BY ENVIRONMENT CANADA
+AT 11 AM EDT MONDAY 24 APRIL 2023 FOR MONDAY.
+
+UV INDEX IS RELATED TO SKY CONDITIONS AND PRECIPITATIONS.
+UV INDEX WOULD BE HIGHER THAN STATED DURING SUNNY BREAKS OR IF WEATHER
+CONDITIONS IMPROVE.
+
+ALL TIMES ARE IN LOCAL TIME.
+
+MONDAY
+LOCATION       WEATHER FORECAST             UV INDEX  CATEGORY   TIME ABOVE 3
+
+RESOLUTE       LIGHT SNOW                   0         LOW        NONE
+INUVIK         FLURRIES                     2         LOW        NONE
+RANKIN INLET   CLEARING                     4         MODERATE   11 AM TO  3 PM
+YELLOWKNIFE    SUNNY                        3         MODERATE   12 PM TO  3 PM
+WHITEHORSE     SNOW OR RAIN                 1         LOW        NONE
+VANCOUVER      CHANCE OF SHOWERS            5         MODERATE   11 AM TO  4 PM
+VICTORIA       CHANCE OF SHOWERS            6         HIGH       11 AM TO  4 PM
+KAMLOOPS       A MIX OF SUN AND CLOUD       5         MODERATE   10 AM TO  4 PM
+NANAIMO        CHANCE OF SHOWERS            6         HIGH       11 AM TO  4 PM
+PORT HARDY     CHANCE OF SHOWERS            4         MODERATE   11 AM TO  4 PM
+PRINCE RUPERT  SHOWERS                      2         LOW        NONE
+KELOWNA        CHANCE OF SHOWERS            5         MODERATE   11 AM TO  3 PM
+PRINCE GEORGE  CHANCE OF SHOWERS            4         MODERATE   11 AM TO  3 PM
+CRANBROOK      CHANCE OF SHOWERS            3         MODERATE   12 PM TO  3 PM
+CASTLEGAR      CHANCE OF SHOWERS            3         MODERATE    1 PM TO  3 PM
+EDMONTON       A MIX OF SUN AND CLOUD       5         MODERATE   11 AM TO  4 PM
+CALGARY        CHANCE OF SHOWERS            3         MODERATE   12 PM TO  3 PM
+LETHBRIDGE     CHANCE OF SHOWERS            4         MODERATE   11 AM TO  4 PM
+RED DEER       MAINLY CLOUDY                4         MODERATE   12 PM TO  4 PM
+MEDICINE HAT   CHANCE OF SHOWERS            4         MODERATE   11 AM TO  4 PM
+BANFF          RAIN SHOWERS OR FLURRIES     3         MODERATE   12 PM TO  3 PM
+GRANDE PRAIRIE CHANCE OF SHOWERS            3         MODERATE    1 PM TO  3 PM
+SASKATOON      A MIX OF SUN AND CLOUD       5         MODERATE   11 AM TO  3 PM
+REGINA         MAINLY SUNNY                 5         MODERATE   10 AM TO  3 PM
+YORKTON        MAINLY SUNNY                 5         MODERATE   10 AM TO  3 PM
+THOMPSON       SUNNY                        4         MODERATE   11 AM TO  4 PM
+WINNIPEG       A MIX OF SUN AND CLOUD       5         MODERATE   11 AM TO  4 PM
+THUNDER BAY    FLURRIES                     4         MODERATE   11 AM TO  3 PM
+SUDBURY        FLURRIES OR RAIN SHOWERS     2         LOW        NONE
+WINDSOR        RAIN SHOWERS OR FLURRIES     4         MODERATE   12 PM TO  3 PM
+TORONTO        CHANCE OF SHOWERS            3         MODERATE   12 PM TO  3 PM
+BARRIE         RAIN SHOWERS OR FLURRIES     3         MODERATE   12 PM TO  3 PM
+LONDON         RAIN SHOWERS OR FLURRIES     3         MODERATE   12 PM TO  3 PM
+OTTAWA         A FEW SHOWERS                2         LOW        NONE
+KINGSTON       CHANCE OF SHOWERS            6         HIGH       10 AM TO  4 PM
+MONTREAL       PERIODS OF RAIN              2         LOW        NONE
+SHERBROOKE     PERIODS OF RAIN              2         LOW        NONE
+QUEBEC         RAIN                         1         LOW        NONE
+STE-ADELE      PERIODS OF RAIN              2         LOW        NONE
+FREDERICTON    MAINLY CLOUDY                6         HIGH       11 AM TO  4 PM
+SAINT JOHN NB  MAINLY CLOUDY                6         HIGH       11 AM TO  5 PM
+SYDNEY         MAINLY CLOUDY                5         MODERATE    2 PM TO  4 PM
+HALIFAX        A MIX OF SUN AND CLOUD       7         HIGH       10 AM TO  4 PM
+CHARLOTTETOWN  MAINLY CLOUDY                5         MODERATE   12 PM TO  4 PM
+ST. JOHN'S NF  PERIODS OF DRIZZLE           2         LOW        NONE
+GOOSE BAY      MAINLY SUNNY                 7         HIGH       10 AM TO  4 PM
+
+UV CATEGORIES      UV INDEX RANGE (ROUNDED VALUES)
+
+EXTREME                 11 OR HIGHER
+VERY HIGH                8 TO 10
+HIGH                     6 TO 7
+MODERATE                 3 TO 5
+LOW                      2 OR LESS
+
+FOR SUN PROTECTION TIPS YOU CAN VISIT ENVIRONMENT CANADA'S WEB SITE AT
+WWW.CANADA.CA/UV-INDEX.
+

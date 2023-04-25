@@ -1,0 +1,817 @@
+FPUS53 KGRB 241446
+ZFPGRB
+
+North-Central and Northeast Wisconsin Zone Forecast
+National Weather Service Green Bay WI
+945 AM CDT Mon Apr 24 2023
+
+WIZ005-242100-
+Vilas-
+Including the cities of Eagle River and Lac Du Flambeau
+946 AM CDT Mon Apr 24 2023
+
+.TODAY...Mostly cloudy. A chance of snow showers and rain showers
+in the afternoon. Highs around 40. Light and variable wind
+becoming north 5 to 10 mph in the afternoon. Chance of
+precipitation 40 percent. 
+.TONIGHT...Mostly cloudy with a slight chance of snow showers in
+the evening, then partly cloudy after midnight. Lows in the lower
+20s. Northeast wind 5 to 10 mph. Chance of snow 20 percent. 
+.TUESDAY...Mostly cloudy. Highs around 40. North wind 5 to
+10 mph. 
+.TUESDAY NIGHT...Mostly clear. Lows around 20. North wind 5 to
+10 mph in the evening becoming light and variable. 
+.WEDNESDAY...Mostly sunny. Highs around 50. Light and variable
+wind becoming west around 5 mph in the afternoon. 
+.WEDNESDAY NIGHT...Mostly cloudy with a chance of light rain.
+Lows around 30. Chance of rain 40 percent. 
+.THURSDAY...Blustery. Mostly cloudy with a chance of light rain.
+Highs in the lower 50s. Chance of rain 50 percent. 
+.THURSDAY NIGHT...Mostly cloudy with a 40 percent chance of light
+rain. Lows in the middle 30s. 
+.FRIDAY AND FRIDAY NIGHT...Mostly cloudy with a 50 percent chance
+of light rain. Highs in the lower 50s. Lows in the lower 30s. 
+.SATURDAY...Light rain likely. Highs in the upper 40s. Chance of
+rain 60 percent. 
+.SATURDAY NIGHT AND SUNDAY...Light rain likely. Lows in the lower
+30s. Highs in the middle 40s. Chance of rain 60 percent. 
+
+$$
+
+WIZ010-242100-
+Oneida-
+Including the city of Rhinelander
+946 AM CDT Mon Apr 24 2023
+
+.TODAY...Partly cloudy in the morning then becoming mostly
+cloudy. A slight chance of snow showers in the morning, then a
+chance of snow showers and rain showers in the afternoon. Highs
+in the lower 40s. Light and variable wind becoming northwest 5 to
+10 mph in the afternoon. Chance of precipitation 50 percent. 
+.TONIGHT...Mostly cloudy with a chance of snow showers. Lows in
+the middle 20s. Northeast wind 5 to 10 mph. Chance of snow
+40 percent. 
+.TUESDAY...Partly sunny. Highs in the lower 40s. North wind 5 to
+10 mph. 
+.TUESDAY NIGHT...Clear. Lows in the lower 20s. North wind 5 to
+10 mph in the evening becoming light and variable. 
+.WEDNESDAY...Mostly sunny. Highs in the lower 50s. Light and
+variable wind becoming west around 5 mph in the afternoon. 
+.WEDNESDAY NIGHT...Mostly cloudy with a 30 percent chance of
+light rain. Lows in the lower 30s. 
+.THURSDAY...Blustery. Mostly cloudy with a 50 percent chance of
+light rain. Highs in the lower 50s. 
+.THURSDAY NIGHT...Mostly cloudy with a 40 percent chance of light
+rain. Lows in the middle 30s. 
+.FRIDAY AND FRIDAY NIGHT...Mostly cloudy with a 50 percent chance
+of light rain. Highs in the middle 50s. Lows in the middle 30s. 
+.SATURDAY...Light rain likely. Highs in the upper 40s. Chance of
+rain 60 percent. 
+.SATURDAY NIGHT...Mostly cloudy with light rain likely. Lows in
+the middle 30s. Chance of rain 60 percent. 
+.SUNDAY...Light rain likely. Highs in the upper 40s. Chance of
+rain 70 percent. 
+
+$$
+
+WIZ011-242100-
+Forest-
+Including the city of Crandon
+946 AM CDT Mon Apr 24 2023
+
+.TODAY...Partly sunny. A chance of snow showers and rain showers
+in the afternoon. Highs in the lower 40s. Light and variable wind
+becoming north around 5 mph in the afternoon. Chance of
+precipitation 50 percent. 
+.TONIGHT...Mostly cloudy with a chance of snow showers. Lows in
+the middle 20s. Northeast wind 5 to 10 mph. Chance of snow
+50 percent. 
+.TUESDAY...Mostly cloudy. Highs in the lower 40s. North wind 5 to
+10 mph. 
+.TUESDAY NIGHT...Mostly clear. Lows in the lower 20s. North wind
+5 to 10 mph. 
+.WEDNESDAY...Mostly sunny in the morning then becoming partly
+cloudy. Highs around 50. North wind around 5 mph shifting to the
+west in the afternoon. 
+.WEDNESDAY NIGHT...Mostly cloudy. Lows around 30. 
+.THURSDAY...Blustery. Mostly cloudy with a chance of light rain.
+Highs in the lower 50s. Chance of rain 50 percent. 
+.THURSDAY NIGHT AND FRIDAY...Mostly cloudy with a 40 percent
+chance of light rain. Lows in the middle 30s. Highs in the middle
+50s. 
+.FRIDAY NIGHT...Mostly cloudy with a 50 percent chance of light
+rain. Lows in the middle 30s. 
+.SATURDAY...Light rain likely. Highs in the upper 40s. Chance of
+rain 60 percent. 
+.SATURDAY NIGHT...Light rain likely. Lows in the middle 30s.
+Chance of rain 60 percent. 
+.SUNDAY...Light rain likely. Highs in the upper 40s. Chance of
+rain 70 percent. 
+
+$$
+
+WIZ012-242100-
+Florence-
+Including the cities of Aurora, Commonwealth, and Spread Eagle
+946 AM CDT Mon Apr 24 2023
+
+.TODAY...Partly cloudy in the morning then becoming mostly
+cloudy. A chance of rain showers and snow showers in the
+afternoon. Highs in the lower 40s. Light and variable wind
+becoming north 5 to 10 mph in the afternoon. Chance of
+precipitation 40 percent. 
+.TONIGHT...Mostly cloudy. A chance of snow showers in the
+evening. Lows in the middle 20s. Northeast wind 5 to 10 mph.
+Chance of snow 30 percent. 
+.TUESDAY...Mostly cloudy. Highs in the lower 40s. North wind 5 to
+10 mph. 
+.TUESDAY NIGHT...Mostly clear. Lows in the lower 20s. North wind
+5 to 10 mph. 
+.WEDNESDAY...Mostly sunny in the morning then becoming partly
+cloudy. Highs in the lower 50s. Northwest wind 5 to 10 mph. 
+.WEDNESDAY NIGHT...Mostly cloudy. Lows in the upper 20s. 
+.THURSDAY...Mostly cloudy with a chance of light rain. Highs in
+the lower 50s. Chance of rain 50 percent. 
+.THURSDAY NIGHT AND FRIDAY...Mostly cloudy with a 40 percent
+chance of light rain. Lows in the middle 30s. Highs in the middle
+50s. 
+.FRIDAY NIGHT...Mostly cloudy with a 50 percent chance of light
+rain. Lows in the upper 30s. 
+.SATURDAY THROUGH SUNDAY...Light rain likely. Highs in the upper
+40s. Lows in the middle 30s. Chance of rain 60 percent. 
+
+$$
+
+WIZ018-242100-
+Lincoln-
+Including the cities of Merrill and Tomahawk
+946 AM CDT Mon Apr 24 2023
+
+.TODAY...Mostly sunny in the morning then becoming mostly cloudy.
+A slight chance of snow showers in the morning, then a chance of
+rain showers and snow showers in the afternoon. Highs in the
+lower 40s. Light and variable wind. Chance of precipitation
+50 percent. 
+.TONIGHT...Mostly cloudy. A chance of snow showers and rain
+showers in the evening, then a slight chance of snow showers
+after midnight. Lows in the upper 20s. Northeast wind 5 to
+10 mph. Chance of precipitation 50 percent. 
+.TUESDAY...Partly sunny. Highs in the middle 40s. Northeast wind
+5 to 10 mph. 
+.TUESDAY NIGHT...Mostly clear. Lows in the lower 20s. North wind
+5 to 10 mph in the evening becoming light and variable. 
+.WEDNESDAY...Mostly sunny. Highs in the lower 50s. Light and
+variable wind becoming southwest 5 to 10 mph in the afternoon. 
+.WEDNESDAY NIGHT...Mostly cloudy. Lows in the lower 30s. 
+.THURSDAY...Blustery. Mostly cloudy with a 50 percent chance of
+light rain. Highs in the lower 50s. 
+.THURSDAY NIGHT...Mostly cloudy with a 40 percent chance of light
+rain. Lows in the upper 30s. 
+.FRIDAY AND FRIDAY NIGHT...Mostly cloudy with a 50 percent chance
+of light rain. Highs in the middle 50s. Lows in the upper 30s. 
+.SATURDAY...Light rain likely. Highs in the upper 40s. Chance of
+rain 60 percent. 
+.SATURDAY NIGHT...Mostly cloudy with a 50 percent chance of light
+rain. Lows in the middle 30s. 
+.SUNDAY...Light rain likely. Highs in the upper 40s. Chance of
+rain 70 percent. 
+
+$$
+
+WIZ019-242100-
+Langlade-
+Including the city of Antigo
+946 AM CDT Mon Apr 24 2023
+
+.TODAY...Partly cloudy in the morning then becoming mostly
+cloudy. A chance of rain showers and snow showers in the
+afternoon. Highs in the lower 40s. Light and variable wind
+becoming west around 5 mph in the afternoon. Chance of
+precipitation 50 percent. 
+.TONIGHT...Mostly cloudy. A chance of snow showers and rain
+showers in the evening, then a chance of snow showers after
+midnight. Lows in the upper 20s. Northeast wind 5 to 10 mph.
+Chance of precipitation 50 percent. 
+.TUESDAY...Partly sunny. Highs in the middle 40s. Northeast wind
+5 to 10 mph. 
+.TUESDAY NIGHT...Partly cloudy in the evening then clearing. Lows
+in the lower 20s. North wind 5 to 10 mph. 
+.WEDNESDAY...Sunny in the morning then becoming partly cloudy.
+Highs around 50. North wind around 5 mph shifting to the west in
+the afternoon. 
+.WEDNESDAY NIGHT...Mostly cloudy. Lows in the lower 30s. 
+.THURSDAY...Blustery. Mostly cloudy with a 50 percent chance of
+light rain. Highs in the lower 50s. 
+.THURSDAY NIGHT...Mostly cloudy with a 40 percent chance of light
+rain. Lows in the upper 30s. 
+.FRIDAY AND FRIDAY NIGHT...Mostly cloudy with a 50 percent chance
+of light rain. Highs in the middle 50s. Lows in the upper 30s. 
+.SATURDAY AND SATURDAY NIGHT...Light rain likely. Highs in the
+upper 40s. Lows in the middle 30s. Chance of rain 60 percent. 
+.SUNDAY...Light rain likely. Highs in the upper 40s. Chance of
+rain 70 percent. 
+
+$$
+
+WIZ013-242100-
+Northern Marinette County-
+Including the cities of Niagara and Wausaukee
+946 AM CDT Mon Apr 24 2023
+
+.TODAY...Partly cloudy in the morning then becoming mostly
+cloudy. A chance of rain showers and snow showers in the
+afternoon. Highs in the middle 40s. Light and variable wind
+becoming northwest around 5 mph in the afternoon. Chance of
+precipitation 40 percent. 
+.TONIGHT...Mostly cloudy. A chance of snow showers and rain
+showers in the evening, then a slight chance of snow showers
+after midnight. Lows in the upper 20s. Northeast wind 5 to
+10 mph. Chance of precipitation 40 percent. 
+.TUESDAY...Mostly cloudy. Highs in the middle 40s. North wind
+5 to 10 mph. 
+.TUESDAY NIGHT...Mostly clear. Lows in the middle 20s. North wind
+5 to 10 mph. 
+.WEDNESDAY...Mostly sunny in the morning then becoming partly
+cloudy. Highs in the lower 50s. North wind around 5 mph shifting
+to the west in the afternoon. 
+.WEDNESDAY NIGHT...Mostly cloudy. Lows around 30. 
+.THURSDAY AND THURSDAY NIGHT...Mostly cloudy with a 40 percent
+chance of light rain. Highs in the lower 50s. Lows in the upper
+30s. 
+.FRIDAY...Mostly cloudy with a 40 percent chance of light rain.
+Highs in the upper 50s. 
+.FRIDAY NIGHT...Mostly cloudy with a 50 percent chance of light
+rain. Lows in the upper 30s. 
+.SATURDAY THROUGH SUNDAY...Light rain likely. Highs around 50.
+Lows in the upper 30s. Chance of rain 60 percent. 
+
+$$
+
+WIZ021-242100-
+Northern Oconto County-
+Including the cities of Mountain, Lakewood, and Townsend
+946 AM CDT Mon Apr 24 2023
+
+.TODAY...Mostly cloudy. A chance of rain showers and snow showers
+in the afternoon. Highs in the middle 40s. Light and variable
+wind. Chance of precipitation 50 percent. 
+.TONIGHT...Mostly cloudy. A chance of snow showers and rain
+showers in the evening, then a chance of snow showers after
+midnight. Lows in the upper 20s. Northeast wind 5 to 10 mph.
+Chance of precipitation 50 percent. 
+.TUESDAY...Partly sunny. Highs in the middle 40s. North wind 5 to
+10 mph. 
+.TUESDAY NIGHT...Partly cloudy in the evening then clearing. Lows
+in the middle 20s. North wind 5 to 10 mph. 
+.WEDNESDAY...Sunny in the morning then becoming partly cloudy.
+Highs in the lower 50s. North wind around 5 mph shifting to the
+southwest in the afternoon. 
+.WEDNESDAY NIGHT...Mostly cloudy. Lows in the lower 30s. 
+.THURSDAY...Mostly cloudy with a 50 percent chance of light rain.
+Highs in the middle 50s. 
+.THURSDAY NIGHT AND FRIDAY...Mostly cloudy with a 40 percent
+chance of light rain. Lows in the upper 30s. Highs in the upper
+50s. 
+.FRIDAY NIGHT...Mostly cloudy with a 50 percent chance of light
+rain. Lows in the upper 30s. 
+.SATURDAY AND SATURDAY NIGHT...Light rain likely. Highs in the
+lower 50s. Lows in the upper 30s. Chance of rain 60 percent. 
+.SUNDAY...Light rain likely. Highs in the lower 50s. Chance of
+rain 70 percent. 
+
+$$
+
+WIZ073-242100-
+Southern Marinette County-
+Including the cities of Harmony, Peshtigo, Porterfield, Crivitz, 
+High Falls Reservoir, Loomis, and Middle Inlet
+946 AM CDT Mon Apr 24 2023
+
+.TODAY...Mostly cloudy. A chance of rain showers and snow showers
+in the afternoon. Highs in the middle 40s. Light and variable
+wind. Chance of precipitation 40 percent. 
+.TONIGHT...Mostly cloudy. A chance of snow showers and rain
+showers in the evening, then a chance of snow showers after
+midnight. Lows in the upper 20s. East wind 5 to 10 mph shifting
+to the northeast after midnight. Chance of precipitation
+40 percent. 
+.TUESDAY...Partly sunny. Highs in the middle 40s. Northeast wind
+5 to 10 mph. 
+.TUESDAY NIGHT...Mostly clear. Lows in the middle 20s. North wind
+5 to 10 mph. 
+.WEDNESDAY...Mostly sunny in the morning then becoming partly
+cloudy. Highs in the lower 50s. North wind 5 to 10 mph shifting
+to the south in the afternoon. 
+.WEDNESDAY NIGHT...Partly cloudy. Lows in the lower 30s. 
+.THURSDAY...Mostly cloudy with a 40 percent chance of light rain.
+Highs in the middle 50s. 
+.THURSDAY NIGHT...Mostly cloudy with a 30 percent chance of light
+rain. Lows in the upper 30s. 
+.FRIDAY...Mostly cloudy with a 40 percent chance of light rain.
+Highs in the upper 50s. 
+.FRIDAY NIGHT...Mostly cloudy with a 50 percent chance of light
+rain. Lows in the lower 40s. 
+.SATURDAY THROUGH SUNDAY...Light rain likely. Highs in the lower
+50s. Lows in the upper 30s. Chance of rain 60 percent. 
+
+$$
+
+WIZ074-242100-
+Southern Oconto County-
+Including the cities of Little Suamico, Sobieski, Brookside, 
+Oconto, and Pensaukee
+946 AM CDT Mon Apr 24 2023
+
+.TODAY...Partly sunny. A chance of rain showers in the afternoon.
+Highs in the middle 40s. Light and variable wind. Chance of rain
+50 percent. 
+.TONIGHT...Mostly cloudy. A chance of rain showers and snow
+showers in the evening, then a chance of snow showers after
+midnight. Lows around 30. East wind 5 to 10 mph. Chance of
+precipitation 50 percent. 
+.TUESDAY...Partly sunny. A slight chance of snow showers in the
+morning. Highs in the upper 40s. Northeast wind 5 to 10 mph.
+Chance of snow 20 percent. 
+.TUESDAY NIGHT...Mostly clear. Lows in the upper 20s. Northeast
+wind 5 to 10 mph. 
+.WEDNESDAY...Mostly sunny. Highs in the lower 50s. North wind
+5 to 10 mph shifting to the south in the afternoon. 
+.WEDNESDAY NIGHT...Mostly cloudy. Lows in the lower 30s. 
+.THURSDAY...Mostly cloudy with a 40 percent chance of light rain.
+Highs in the middle 50s. 
+.THURSDAY NIGHT...Mostly cloudy with a 30 percent chance of light
+rain. Lows around 40. 
+.FRIDAY...Mostly cloudy with a 40 percent chance of light rain.
+Highs in the upper 50s. 
+.FRIDAY NIGHT...Mostly cloudy with a 50 percent chance of light
+rain. Lows in the lower 40s. 
+.SATURDAY THROUGH SUNDAY...Light rain likely. Highs in the lower
+50s. Lows in the upper 30s. Chance of rain 60 percent. 
+
+$$
+
+WIZ030-242100-
+Marathon-
+Including the city of Wausau
+946 AM CDT Mon Apr 24 2023
+
+.TODAY...Mostly cloudy with a chance of rain showers and snow
+showers. Highs in the lower 40s. Light and variable wind becoming
+west 5 to 10 mph in the afternoon. Chance of precipitation
+50 percent. 
+.TONIGHT...Mostly cloudy. A chance of snow showers and rain
+showers in the evening, then a slight chance of snow showers
+after midnight. Lows in the upper 20s. Northeast wind 5 to
+10 mph. Chance of precipitation 50 percent. 
+.TUESDAY...Partly sunny. Highs in the middle 40s. Northeast wind
+5 to 10 mph. 
+.TUESDAY NIGHT...Partly cloudy in the evening then clearing. Lows
+in the middle 20s. Northeast wind 5 to 10 mph. 
+.WEDNESDAY...Mostly sunny. Highs in the lower 50s. Northeast wind
+around 5 mph shifting to the southwest in the afternoon. 
+.WEDNESDAY NIGHT...Mostly cloudy. Lows in the middle 30s. 
+.THURSDAY...Blustery. Mostly cloudy with a 50 percent chance of
+light rain. Highs in the middle 50s. 
+.THURSDAY NIGHT...Mostly cloudy with a 40 percent chance of light
+rain. Lows around 40. 
+.FRIDAY AND FRIDAY NIGHT...Mostly cloudy with a 50 percent chance
+of light rain. Highs in the upper 50s. Lows in the upper 30s. 
+.SATURDAY...Light rain likely. Highs around 50. Chance of rain
+60 percent. 
+.SATURDAY NIGHT...Mostly cloudy with a 50 percent chance of light
+rain. Lows in the upper 30s. 
+.SUNDAY...Light rain likely. Highs in the upper 40s. Chance of
+rain 70 percent. 
+
+$$
+
+WIZ035-242100-
+Wood-
+Including the cities of Marshfield and Wisconsin Rapids
+946 AM CDT Mon Apr 24 2023
+
+.TODAY...Mostly cloudy with a chance of rain showers and snow
+showers. Highs in the middle 40s. West wind 5 to 10 mph. Chance
+of precipitation 40 percent. 
+.TONIGHT...Mostly cloudy. A slight chance of rain showers and
+snow showers in the evening. Lows in the lower 30s. Northeast
+wind 5 to 10 mph. Chance of precipitation 20 percent. 
+.TUESDAY...Partly sunny. Highs in the upper 40s. Northeast wind
+5 to 10 mph. 
+.TUESDAY NIGHT...Mostly clear. Lows in the upper 20s. Northeast
+wind 5 to 10 mph. 
+.WEDNESDAY...Mostly sunny. Highs in the lower 50s. East wind 5 to
+10 mph shifting to the southwest in the afternoon. 
+.WEDNESDAY NIGHT...Partly cloudy. Lows in the middle 30s. 
+.THURSDAY AND THURSDAY NIGHT...Blustery. Mostly cloudy with a
+40 percent chance of light rain. Highs in the upper 50s. Lows in
+the lower 40s. 
+.FRIDAY AND FRIDAY NIGHT...Mostly cloudy with a 50 percent chance
+of light rain. Highs in the upper 50s. Lows around 40. 
+.SATURDAY...Light rain likely. Highs in the lower 50s. Chance of
+rain 60 percent. 
+.SATURDAY NIGHT...Mostly cloudy with a 50 percent chance of light
+rain. Lows in the upper 30s. 
+.SUNDAY...Blustery. Light rain likely. Highs around 50. Chance of
+rain 60 percent. 
+
+$$
+
+WIZ036-242100-
+Portage-
+Including the cities of Stevens Point and Plover
+946 AM CDT Mon Apr 24 2023
+
+.TODAY...Partly sunny. A chance of rain showers and snow showers
+in the afternoon. Highs in the middle 40s. Light and variable
+wind becoming west 5 to 10 mph in the afternoon. Chance of
+precipitation 50 percent. 
+.TONIGHT...Mostly cloudy. A chance of rain showers and snow
+showers in the evening, then a slight chance of snow showers
+after midnight. Lows in the lower 30s. Light and variable wind
+becoming northeast 5 to 10 mph after midnight. Chance of
+precipitation 40 percent. 
+.TUESDAY...Partly sunny. Highs in the middle 40s. Northeast wind
+5 to 10 mph. 
+.TUESDAY NIGHT...Partly cloudy. Lows in the upper 20s. Northeast
+wind 5 to 10 mph. 
+.WEDNESDAY...Mostly sunny. Highs in the lower 50s. Northeast wind
+around 5 mph shifting to the southwest in the afternoon. 
+.WEDNESDAY NIGHT...Partly cloudy. Lows in the middle 30s. 
+.THURSDAY AND THURSDAY NIGHT...Mostly cloudy with a 40 percent
+chance of light rain. Highs in the upper 50s. Lows in the lower
+40s. 
+.FRIDAY AND FRIDAY NIGHT...Mostly cloudy with a 50 percent chance
+of light rain. Highs around 60. Lows in the lower 40s. 
+.SATURDAY...Light rain likely. Highs in the lower 50s. Chance of
+rain 70 percent. 
+.SATURDAY NIGHT...Mostly cloudy with a 50 percent chance of light
+rain. Lows in the upper 30s. 
+.SUNDAY...Light rain likely. Highs in the lower 50s. Chance of
+rain 70 percent. 
+
+$$
+
+WIZ020-242100-
+Menominee-
+Including the cities of Keshena and Neopit
+946 AM CDT Mon Apr 24 2023
+
+.TODAY...Partly cloudy in the morning then becoming mostly
+cloudy. A chance of rain showers and snow showers in the
+afternoon. Highs in the middle 40s. Light and variable wind.
+Chance of precipitation 50 percent. 
+.TONIGHT...Mostly cloudy. A chance of rain showers and snow
+showers in the evening, then a chance of snow showers after
+midnight. Lows in the upper 20s. Light and variable wind becoming
+northeast 5 to 10 mph after midnight. Chance of precipitation
+50 percent. 
+.TUESDAY...Partly sunny. Highs in the middle 40s. Northeast wind
+5 to 10 mph. 
+.TUESDAY NIGHT...Partly cloudy in the evening then clearing. Lows
+in the middle 20s. Northeast wind 5 to 10 mph. 
+.WEDNESDAY...Sunny in the morning then becoming partly cloudy.
+Highs in the lower 50s. North wind around 5 mph shifting to the
+southwest in the afternoon. 
+.WEDNESDAY NIGHT...Mostly cloudy. Lows in the lower 30s. 
+.THURSDAY THROUGH FRIDAY...Mostly cloudy with a 40 percent chance
+of light rain. Highs in the upper 50s. Lows in the upper 30s. 
+.FRIDAY NIGHT...Mostly cloudy with a 50 percent chance of light
+rain. Lows in the lower 40s. 
+.SATURDAY THROUGH SUNDAY...Light rain likely. Highs in the lower
+50s. Lows in the upper 30s. Chance of rain 60 percent. 
+
+$$
+
+WIZ031-242100-
+Shawano-
+Including the city of Shawano
+946 AM CDT Mon Apr 24 2023
+
+.TODAY...Mostly sunny in the morning then becoming mostly cloudy.
+A chance of rain showers and snow showers in the afternoon. Highs
+in the middle 40s. Light and variable wind becoming west 5 to
+10 mph in the afternoon. Chance of precipitation 50 percent. 
+.TONIGHT...Mostly cloudy. A chance of rain showers and snow
+showers in the evening, then a chance of snow showers after
+midnight. Lows around 30. Northeast wind 5 to 10 mph. Chance of
+precipitation 50 percent. 
+.TUESDAY...Partly sunny. A slight chance of snow showers in the
+morning. Highs in the middle 40s. Northeast wind 5 to 10 mph.
+Chance of snow 20 percent. 
+.TUESDAY NIGHT...Mostly clear. Lows in the upper 20s. Northeast
+wind 5 to 10 mph. 
+.WEDNESDAY...Mostly sunny. Highs in the lower 50s. North wind
+around 5 mph shifting to the southwest in the afternoon. 
+.WEDNESDAY NIGHT...Partly cloudy. Lows in the lower 30s. 
+.THURSDAY AND THURSDAY NIGHT...Mostly cloudy with a 40 percent
+chance of light rain. Highs in the middle 50s. Lows in the lower
+40s. 
+.FRIDAY AND FRIDAY NIGHT...Mostly cloudy with a 50 percent chance
+of light rain. Highs in the upper 50s. Lows in the lower 40s. 
+.SATURDAY THROUGH SUNDAY...Light rain likely. Highs in the lower
+50s. Lows in the upper 30s. Chance of rain 60 percent. 
+
+$$
+
+WIZ037-242100-
+Waupaca-
+Including the cities of New London, Waupaca, and Clintonville
+946 AM CDT Mon Apr 24 2023
+
+.TODAY...Partly cloudy in the morning then becoming mostly
+cloudy. A chance of rain showers and snow showers in the
+afternoon. Highs in the middle 40s. Light and variable wind
+becoming west 5 to 10 mph in the afternoon. Chance of
+precipitation 40 percent. 
+.TONIGHT...Mostly cloudy. A chance of rain showers and snow
+showers in the evening, then a slight chance of snow showers
+after midnight. Lows in the lower 30s. Light and variable wind
+becoming northeast 5 to 10 mph after midnight. Chance of
+precipitation 50 percent. 
+.TUESDAY...Mostly cloudy. A slight chance of snow showers in the
+morning. Highs in the upper 40s. Northeast wind 5 to 10 mph.
+Chance of snow 20 percent. 
+.TUESDAY NIGHT...Partly cloudy. Lows in the upper 20s. Northeast
+wind 5 to 10 mph. 
+.WEDNESDAY...Mostly sunny in the morning then becoming partly
+cloudy. Highs in the middle 50s. North wind around 5 mph shifting
+to the southwest in the afternoon. 
+.WEDNESDAY NIGHT...Partly cloudy. Lows in the middle 30s. 
+.THURSDAY...Mostly cloudy with a 40 percent chance of light rain.
+Highs in the upper 50s. 
+.THURSDAY NIGHT...Mostly cloudy with a 30 percent chance of light
+rain. Lows in the lower 40s. 
+.FRIDAY...Mostly cloudy with a 40 percent chance of light rain.
+Highs in the lower 60s. 
+.FRIDAY NIGHT...Mostly cloudy with a 50 percent chance of light
+rain. Lows in the lower 40s. 
+.SATURDAY...Light rain likely. Highs in the lower 50s. Chance of
+rain 70 percent. 
+.SATURDAY NIGHT AND SUNDAY...Mostly cloudy with light rain
+likely. Lows around 40. Highs in the lower 50s. Chance of rain
+60 percent. 
+
+$$
+
+WIZ045-242100-
+Waushara-
+Including the cities of Redgranite and Wautoma
+946 AM CDT Mon Apr 24 2023
+
+.TODAY...Mostly cloudy. A chance of rain showers and snow showers
+in the afternoon. Highs in the middle 40s. Light and variable
+wind becoming west 5 to 10 mph in the afternoon. Chance of
+precipitation 40 percent. 
+.TONIGHT...Mostly cloudy. A chance of rain showers and snow
+showers in the evening, then a slight chance of snow showers
+after midnight. Lows in the lower 30s. Light and variable wind
+becoming northeast 5 to 10 mph after midnight. Chance of
+precipitation 40 percent. 
+.TUESDAY...Mostly cloudy. A slight chance of rain showers and
+snow showers in the morning. Highs in the upper 40s. Northeast
+wind 10 to 15 mph. Chance of precipitation 20 percent. 
+.TUESDAY NIGHT...Partly cloudy. Lows in the upper 20s. Light and
+variable wind. 
+.WEDNESDAY...Mostly sunny. Highs in the lower 50s. Northeast wind
+5 to 10 mph shifting to the southwest in the afternoon. 
+.WEDNESDAY NIGHT...Partly cloudy. Lows in the lower 30s. 
+.THURSDAY...Mostly cloudy with a 40 percent chance of light rain.
+Highs in the upper 50s. 
+.THURSDAY NIGHT...Mostly cloudy with a 30 percent chance of light
+rain. Lows in the lower 40s. 
+.FRIDAY AND FRIDAY NIGHT...Mostly cloudy with a 50 percent chance
+of light rain. Highs in the lower 60s. Lows in the lower 40s. 
+.SATURDAY...Light rain likely. Highs in the lower 50s. Chance of
+rain 70 percent. 
+.SATURDAY NIGHT...Mostly cloudy with a 50 percent chance of light
+rain. Lows in the upper 30s. 
+.SUNDAY...Light rain likely. Highs in the lower 50s. Chance of
+rain 70 percent. 
+
+$$
+
+WIZ038-242100-
+Outagamie-
+Including the city of Appleton
+946 AM CDT Mon Apr 24 2023
+
+.TODAY...Mostly sunny in the morning, then mostly cloudy with a
+chance of rain showers in the afternoon. Highs in the upper 40s.
+Light and variable wind becoming west 5 to 10 mph in the
+afternoon. Chance of rain 40 percent. 
+.TONIGHT...Mostly cloudy. A chance of rain showers and snow
+showers in the evening, then a chance of snow showers after
+midnight. Lows in the lower 30s. East wind 5 to 10 mph. Chance of
+precipitation 50 percent. 
+.TUESDAY...Partly sunny. A slight chance of rain showers and snow
+showers in the morning. Highs in the upper 40s. Northeast wind
+5 to 10 mph. Chance of precipitation 20 percent. 
+.TUESDAY NIGHT...Partly cloudy. Lows in the upper 20s. Northeast
+wind 5 to 10 mph. 
+.WEDNESDAY...Mostly sunny. Highs in the lower 50s. North wind
+5 to 10 mph shifting to the west in the afternoon. 
+.WEDNESDAY NIGHT...Partly cloudy. Lows in the middle 30s. 
+.THURSDAY...Mostly cloudy with a 40 percent chance of light rain.
+Highs in the upper 50s. 
+.THURSDAY NIGHT...Mostly cloudy with a 30 percent chance of light
+rain. Lows in the lower 40s. 
+.FRIDAY...Mostly cloudy with a 40 percent chance of light rain.
+Highs in the lower 60s. 
+.FRIDAY NIGHT...Mostly cloudy with a 50 percent chance of light
+rain. Lows in the lower 40s. 
+.SATURDAY THROUGH SUNDAY...Light rain likely. Highs in the lower
+50s. Lows in the lower 40s. Chance of rain 60 percent. 
+
+$$
+
+WIZ039-242100-
+Brown-
+Including the city of Green Bay
+946 AM CDT Mon Apr 24 2023
+
+.TODAY...Partly cloudy in the morning then becoming mostly
+cloudy. A chance of rain showers in the afternoon. Highs in the
+middle 40s. Light and variable wind becoming southwest 5 to
+10 mph in the afternoon. Chance of rain 50 percent. 
+.TONIGHT...Mostly cloudy. A chance of rain showers and snow
+showers in the evening, then a chance of snow showers after
+midnight. Lows in the lower 30s. East wind 5 to 10 mph. Chance of
+precipitation 40 percent. 
+.TUESDAY...Partly sunny. A chance of snow showers and rain
+showers in the morning. Highs in the middle 40s. Northeast wind
+5 to 10 mph. Chance of precipitation 30 percent. 
+.TUESDAY NIGHT...Partly cloudy in the evening then clearing. Lows
+in the upper 20s. Northeast wind 5 to 10 mph. 
+.WEDNESDAY...Mostly sunny. Highs around 50. North wind 5 to
+10 mph shifting to the east in the afternoon. 
+.WEDNESDAY NIGHT...Partly cloudy. Lows in the middle 30s. 
+.THURSDAY...Mostly cloudy with a 40 percent chance of light rain.
+Highs in the middle 50s. 
+.THURSDAY NIGHT...Mostly cloudy with a 30 percent chance of light
+rain. Lows in the lower 40s. 
+.FRIDAY...Mostly cloudy with a 40 percent chance of light rain.
+Highs in the upper 50s. 
+.FRIDAY NIGHT...Mostly cloudy with a 50 percent chance of light
+rain. Lows in the lower 40s. 
+.SATURDAY THROUGH SUNDAY...Light rain likely. Highs in the lower
+50s. Lows in the lower 40s. Chance of rain 60 percent. 
+
+$$
+
+WIZ048-242100-
+Winnebago-
+Including the cities of Oshkosh, Neenah, and Menasha
+946 AM CDT Mon Apr 24 2023
+
+.TODAY...Partly cloudy in the morning then becoming mostly
+cloudy. A chance of rain showers in the afternoon. Highs in the
+upper 40s. West wind 5 to 10 mph. Chance of rain 40 percent. 
+.TONIGHT...Mostly cloudy with a chance of rain showers and snow
+showers. Lows in the middle 30s. Southeast wind 5 to 10 mph.
+Chance of precipitation 40 percent. 
+.TUESDAY...Mostly cloudy. A slight chance of rain showers and
+snow showers in the morning. Highs in the middle 40s. Northeast
+wind 10 to 15 mph. Chance of precipitation 20 percent. 
+.TUESDAY NIGHT...Partly cloudy. Lows around 30. Northeast wind
+5 to 10 mph. 
+.WEDNESDAY...Mostly sunny. Highs in the lower 50s. Northeast wind
+5 to 10 mph. 
+.WEDNESDAY NIGHT...Partly cloudy. Lows in the middle 30s. 
+.THURSDAY AND THURSDAY NIGHT...Mostly cloudy with a 30 percent
+chance of light rain. Highs in the upper 50s. Lows in the lower
+40s. 
+.FRIDAY...Mostly cloudy with a 40 percent chance of light rain.
+Highs around 60. 
+.FRIDAY NIGHT...Mostly cloudy with a 50 percent chance of light
+rain. Lows in the lower 40s. 
+.SATURDAY THROUGH SUNDAY...Light rain likely. Highs in the lower
+50s. Lows in the upper 30s. Chance of rain 60 percent. 
+
+$$
+
+WIZ049-242100-
+Calumet-
+Including the cities of Chilton, Brillion, and New Holstein
+946 AM CDT Mon Apr 24 2023
+
+.TODAY...Partly cloudy. A chance of rain showers in the
+afternoon. Highs in the upper 40s. West wind 5 to 10 mph. Chance
+of rain 40 percent. 
+.TONIGHT...Mostly cloudy. A chance of rain showers and snow
+showers in the evening, then a chance of snow showers after
+midnight. Lows in the lower 30s. Southeast wind 5 to 10 mph.
+Chance of precipitation 40 percent. 
+.TUESDAY...Mostly cloudy with a chance of rain showers and snow
+showers. Highs in the middle 40s. Northeast wind 5 to 10 mph.
+Chance of precipitation 30 percent. 
+.TUESDAY NIGHT...Partly cloudy. Lows in the upper 20s. Northeast
+wind 5 to 10 mph. 
+.WEDNESDAY...Mostly sunny. Highs in the upper 40s. North wind
+5 to 10 mph. 
+.WEDNESDAY NIGHT...Partly cloudy. Lows in the middle 30s. 
+.THURSDAY...Mostly cloudy. Highs in the middle 50s. 
+.THURSDAY NIGHT AND FRIDAY...Mostly cloudy with a 30 percent
+chance of light rain. Lows in the lower 40s. Highs in the upper
+50s. 
+.FRIDAY NIGHT...Mostly cloudy with a 50 percent chance of light
+rain. Lows in the lower 40s. 
+.SATURDAY THROUGH SUNDAY...Light rain likely. Highs around 50.
+Lows around 40. Chance of rain 60 percent. 
+
+$$
+
+WIZ022-242100-
+Door-
+Including the cities of Sturgeon Bay, Fish Creek, and Sister Bay
+946 AM CDT Mon Apr 24 2023
+
+.TODAY...Partly sunny. A slight chance of rain showers and snow
+showers in the afternoon. Highs in the lower 40s. North wind 5 to
+10 mph shifting to the southwest in the afternoon. Chance of
+precipitation 20 percent. 
+.TONIGHT...Mostly cloudy. A slight chance of rain showers and
+snow showers in the evening, then a slight chance of snow showers
+after midnight. Lows in the lower 30s. Southeast wind 5 to 10 mph
+shifting to the northeast after midnight. Chance of precipitation
+20 percent. 
+.TUESDAY...Partly sunny. Highs in the lower 40s. North wind 10 to
+15 mph. 
+.TUESDAY NIGHT...Mostly clear. Lows around 30. North wind 10 to
+15 mph. 
+.WEDNESDAY...Mostly sunny. Highs in the middle 40s. North wind
+5 to 10 mph shifting to the southeast in the afternoon. 
+.WEDNESDAY NIGHT...Partly cloudy. Lows in the middle 30s. 
+.THURSDAY THROUGH FRIDAY...Mostly cloudy with a 30 percent chance
+of light rain. Highs in the lower 50s. Lows around 40. 
+.FRIDAY NIGHT...Mostly cloudy with a 50 percent chance of light
+rain. Lows around 40. 
+.SATURDAY THROUGH SUNDAY...Light rain likely. Highs around 50.
+Lows in the upper 30s. Chance of rain 60 percent. 
+
+$$
+
+WIZ040-242100-
+Kewaunee-
+Including the cities of Kewaunee and Luxemburg
+946 AM CDT Mon Apr 24 2023
+
+.TODAY...Partly sunny. A chance of rain showers and snow showers
+in the afternoon. Highs in the lower 40s. Light and variable wind
+becoming southeast 5 to 10 mph in the afternoon. Chance of
+precipitation 40 percent. 
+.TONIGHT...Mostly cloudy. A chance of rain showers and snow
+showers in the evening, then a chance of snow showers after
+midnight. Lows in the lower 30s. Southeast wind 5 to 10 mph
+shifting to the east after midnight. Chance of precipitation
+40 percent. 
+.TUESDAY...Partly sunny. A slight chance of rain showers and snow
+showers in the morning. Highs in the middle 40s. Northeast wind
+10 to 15 mph. Chance of precipitation 20 percent. 
+.TUESDAY NIGHT...Mostly clear. Lows in the upper 20s. North wind
+5 to 10 mph. 
+.WEDNESDAY...Mostly sunny. Highs in the upper 40s. North wind
+5 to 10 mph shifting to the east in the afternoon. 
+.WEDNESDAY NIGHT...Partly cloudy. Lows in the middle 30s. 
+.THURSDAY THROUGH FRIDAY...Mostly cloudy with a 30 percent chance
+of light rain. Highs in the middle 50s. Lows around 40. 
+.FRIDAY NIGHT...Mostly cloudy with a 50 percent chance of light
+rain. Lows in the lower 40s. 
+.SATURDAY THROUGH SUNDAY...Light rain likely. Highs around 50.
+Lows around 40. Chance of rain 60 percent. 
+
+$$
+
+WIZ050-242100-
+Manitowoc-
+Including the cities of Manitowoc and Two Rivers
+946 AM CDT Mon Apr 24 2023
+
+.TODAY...Mostly sunny in the morning, then mostly cloudy with a
+chance of rain showers and snow showers in the afternoon. Nearly
+steady temperature in the lower 40s. West wind 5 to 10 mph
+shifting to the southeast in the afternoon. Chance of
+precipitation 40 percent. 
+.TONIGHT...Mostly cloudy. A chance of rain showers and snow
+showers in the evening, then a chance of snow showers after
+midnight. Lows in the middle 30s. Southeast wind 5 to 10 mph.
+Chance of precipitation 40 percent. 
+.TUESDAY...Mostly cloudy with a chance of rain showers and snow
+showers. Highs in the middle 40s. Northeast wind 5 to 10 mph.
+Chance of precipitation 30 percent. 
+.TUESDAY NIGHT...Mostly clear. Lows around 30. Northeast wind
+5 to 10 mph. 
+.WEDNESDAY...Mostly sunny. Highs in the upper 40s. North wind
+5 to 10 mph shifting to the east in the afternoon. 
+.WEDNESDAY NIGHT...Partly cloudy. Lows in the middle 30s. 
+.THURSDAY...Mostly cloudy. Highs in the middle 50s. 
+.THURSDAY NIGHT AND FRIDAY...Mostly cloudy. A 30 percent chance
+of light rain. Lows in the lower 40s. Highs in the upper 50s. 
+.FRIDAY NIGHT...Mostly cloudy with a 50 percent chance of light
+rain. Lows in the lower 40s. 
+.SATURDAY THROUGH SUNDAY...Light rain likely. Highs in the lower
+50s. Lows around 40. Chance of rain 60 percent. 
+
+$$
+
+

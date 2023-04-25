@@ -1,0 +1,163 @@
+NZUS99 KTBW 241511
+RWRTPA
+FLORIDA REGIONAL WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE TAMPA BAY RUSKIN FL
+1100 AM EDT MON APR 24 2023
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+
+  
+STATION/POSITION
+
+
+
+FLZ042-048>051-055-056-060-061-241600-
+EXTRA STATIONS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+Everglades Cty NOT AVBL                                               
+CRYSTAL RIVER  FAIR      75  64  69 E8        30.00F                  
+SEBRING        FAIR      80  69  67 E8        29.99F                  
+EGLIN AFB      PTSUNNY   63  46  54 NE12      30.07F                  
+CANAVERAL      CLOUDY    80  66  62 SE9       29.99R                  
+
+$$
+FLZ001>010-012>015-241600-
+PANHANDLE FLORIDA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PENSACOLA      CLOUDY    65  47  52 N10G22    30.07S                  
+PENSACOLA NAS  PTSUNNY   66  44  45 N17       30.07S                  
+MILTON NAS     CLOUDY    61  48  62 NE10      30.10R                  
+CRESTVIEW      CLOUDY    64  47  53 VRB5      30.10F                  
+VALPARAISO     PTSUNNY   67  46  46 NE15      30.07S                  
+MARY ESTHER    PTSUNNY   68  47  46 NE13      30.05S                  
+PANAMA CITY    FAIR      68  46  45 N16G25    30.05S                  
+TYNDALL AFB    PTSUNNY   67  49  53 NE14      30.03S                  
+APALACHICOLA   CLOUDY    68  57  68 NE12      30.02R                  
+
+STATION/POSITION
+
+
+29.2N   88.2W
+28.8N   86.0W
+28.5N   84.5W
+
+$$
+FLZ011-016>039-241600-
+NORTH FLORIDA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MARIANNA       PTSUNNY   67  47  48 NE15      30.08R                  
+TALLAHASSEE    CLOUDY    64  50  60 N8        30.08R                  
+CROSS CITY     CLOUDY    70  61  73 N6        30.05R                  
+GAINESVILLE    CLOUDY    74  63  68 NE9       30.07S                  
+MAYPORT NAS    CLOUDY    75  65  70 NE13      30.06R                  
+JACKSONVILLE   CLOUDY    74  62  66 NE9       30.06R                  
+JAX NAS        CLOUDY    74  63  68 N9        30.07R                  
+JAX CRAIG      CLOUDY    73  65  75 NE8       30.07R                  
+ST AUGUSTINE   CLOUDY    75  63  66 NE9       30.06R                  
+
+STATION/POSITION
+
+
+KEATON BEACH
+31.4N   80.9W
+ST AUGUSTINE
+
+$$
+FLZ040-043>046-052-053-057-058-063-241600-
+CENTRAL FLORIDA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+OCALA          CLOUDY    76  64  66 E12       30.03F                  
+LEESBURG       CLOUDY    73  66  78 NE13      30.02F                  
+SANFORD        CLOUDY    77  67  71 NE6       30.02R                  
+ORLANDO EXEC   CLOUDY    80  67  64 E8        30.01R                  
+ORLANDO INTL   CLOUDY    78  65  63 E8        30.01R                  
+KISSIMMEE      CLOUDY    77  68  73 E12       30.01F                  
+WINTER HAVEN   CLOUDY    77  67  71 E10       30.01S                  
+LAKELAND INTL  MOSUNNY   75  66  73 E10       30.00S                  
+BARTOW         PTSUNNY   77  68  73 E9        30.00S                  
+
+$$
+FLZ041-047-054-059-064-241600-
+EAST CENTRAL FLORIDA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+DAYTONA BEACH  CLOUDY    77  62  59 E13       30.04R                  
+JFK SPACE CTR  CLOUDY   N/A N/A N/A E9        30.00R                  
+TITUSVILLE     PTSUNNY   82  64  54 SE8       30.02R                  
+PATRICK AFB    CLOUDY    81  66  60 E8        29.98R                  
+MELBOURNE      CLOUDY    80  67  64 E9        30.00R                  
+VERO BEACH     PTSUNNY   79  70  74 E8        30.00R                  
+FT PIERCE      PTSUNNY   79  67  66 E8        30.00R                  
+
+STATION/POSITION
+
+
+
+$$
+FLZ042-048>051-055-056-060-061-241600-
+WEST CENTRAL FLORIDA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BROOKSVILLE    CLOUDY    78  67  68 E12       29.99F                  
+TAMPA          PTSUNNY   76  67  73 E7        29.98F                  
+MACDILL AFB    PTSUNNY   78  67  69 E14       29.93F                  
+ST PETERSBURG  PTSUNNY   75  68  78 E10       29.97F                  
+ST PET-WHITTED PTSUNNY   76  71  85 E13       29.96F                  
+SARASOTA       MOSUNNY   80  68  66 E10       29.94F                  
+
+STATION/POSITION
+
+
+CEDAR KEY
+28.5N   84.5W
+VENICE
+
+$$
+FLZ062-065-066-069-070-075>078-241600-
+SOUTHWEST FLORIDA AND KEYS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PUNTA GORDA    CLOUDY    79  71  76 E9        29.98S                  
+FT MYERS       PTSUNNY   81  68  64 SE8       29.96S                  
+SOUTHWEST INTL PTSUNNY   79  71  76 E7        29.97S                  
+NAPLES         PTSUNNY   83  71  67 S6        29.96S                  
+MARATHON       SUNNY     87  72  60 S5        29.96R HX  93           
+KEY WEST NAS   MOSUNNY   82  72  71 VRB7      29.96S                  
+KEY WEST INTL  SUNNY     81  72  74 VRB5      29.96S                  
+
+STATION/POSITION
+
+
+VENICE
+SOMBRERO KEY
+LONG KEY
+
+$$
+FLZ067-068-071>074-241600-
+SOUTHEAST FLORIDA 
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+W PALM BEACH   TSTM      75  71  87 S10       29.99R FOG              
+POMPANO BEACH  PTSUNNY   79  68  69 E13G22    29.98S                  
+FT LAUDER-EXEC PTSUNNY   81  69  67 S10       29.98R                  
+FT LAUDERDALE  PTSUNNY   75  72  88 S7        29.97S                  
+PEMBROKE PINES LGT RAIN  73  70  90 SE8       29.99S                  
+OPA LOCKA      LGT RAIN  72  68  87 SE15      29.99S                  
+MIAMI          CLOUDY    80  69  69 SE8       29.98R                  
+WEST KENDALL   PTSUNNY   78  72  81 SE8       29.98R                  
+HOMESTEAD      PTSUNNY   81  70  69 SE9       29.96S                  
+
+STATION/POSITION
+
+
+LAKE WORTH
+SETTLEMENT POINT
+
+$$
+  

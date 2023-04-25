@@ -4,7 +4,7 @@ SDR Satelite Communication: Weather from Above, CPE 495-496 Senior Design projec
 The goal of this project is to make a product that allows the user to easily download radar images and text data from the GEOS-16 weather satellite.  The inteneded use case is to run this software on a Raspberry Pi 4 that will connect to a SDR with an antenna connected to download the data.  To control the device, the Raspberry Pi is running an apache web server that is connectable by the user via a wireless hotspot that it will generate.  This webserver allows the user to run the commands needed to download the data and also will dynamically allow easy viewing of the data downloaded.
 
 ## Installation
-The easiest way to install this is by using the pre-imaged Raspberry Pi img that is available in the os_image directory.  Note: The os image is only of the main partition itself, so you may want to flash the base Raspberry Pi OS Partition image first to get a proper install.
+The easiest way to install this is by using the pre-imaged Raspberry Pi img that is available in the os_image directory.  Note: You must flash it to a storage device with 4GBs or greater of storage.  Larger devices are more generally recommended.  You can flash the img onto a storage device using many different tools such as balenaEtcher https://www.balena.io/etcher
 
 ## Setup
 To setup this product on your own, you will need to download the following depedencies.

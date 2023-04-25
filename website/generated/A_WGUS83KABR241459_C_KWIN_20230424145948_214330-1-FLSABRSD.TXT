@@ -1,0 +1,36 @@
+WGUS83 KABR 241459
+FLSABR
+
+Flood Statement
+National Weather Service Aberdeen SD
+959 AM CDT Mon Apr 24 2023
+
+...The Flood Warning is cancelled for the following rivers in South 
+Dakota...
+
+  Turtle Creek At Redfield affecting Spink County.
+
+SDC115-241600-
+/O.CAN.KABR.FL.W.0033.000000T0000Z-230424T1459Z/
+/ID8S2.1.SM.230417T1135Z.230419T1400Z.230424T0758Z.NO/
+959 AM CDT Mon Apr 24 2023
+
+...FLOOD WARNING FOR SNOWMELT IS CANCELLED...
+
+The Flood Warning is cancelled for
+  the Turtle Creek At Redfield.
+
+* ADDITIONAL DETAILS...
+  - At 9:00 AM CDT Monday the stage was 6.9 feet.
+  - Forecast...The river is expected to continue to slowly fall.
+  - http://www.weather.gov/safety/flood
+
+&&
+
+LAT...LON 4488 9846 4481 9854 4464 9861 4464 9871
+      4480 9871 4492 9852
+
+
+$$
+
+Parkin

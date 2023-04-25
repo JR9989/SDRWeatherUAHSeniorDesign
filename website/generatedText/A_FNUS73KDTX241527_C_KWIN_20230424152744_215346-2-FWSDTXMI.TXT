@@ -1,0 +1,81 @@
+FNUS73 KDTX 241527
+FWSDTX
+
+Spot Forecast for Lake Plain Prairie 1 & 2...Michigan DNR
+National Weather Service Detroit/Pontiac MI
+1127 AM EDT Mon Apr 24 2023
+
+Forecast is based on ignition time of 1500 EDT on April 24. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...Rain showers are becoming more likely for the Lake
+Erie shoreline this afternoon as cool and unstable air lingers
+over Lower Michigan, and rain is likely again Tuesday. Winds 
+through this period will be light to moderate and generally out of
+the west with temperatures running some 5 to 10 degrees below 
+normal. A gradual rebound closer to average temperatures is 
+expected by the end of the week.
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly cloudy (75-85 percent). Scattered rain 
+                    showers. 
+Max temperature.....Around 48. 
+Min humidity........48 percent. 
+Eye level winds.....West winds 7 to 8 mph. 
+Mixing height.......5600 ft AGL. 
+Transport winds.....West 14 to 15 mph. 
+Haines Index........4 or low potential for large plume dominated 
+                    fire growth. 
+Smoke Dispersal....Good (MAX...585). 
+
+TIME (EDT)      3PM 4PM 5PM 
+SKY (%).........81  84  79  
+WEATHER COV.....SCT SCT SCT 
+WEATHER TYPE....RW  RW  RW  
+TEMP............47  48  48  
+RH..............49  48  51  
+EYE LVL WND DIR.W   W   W   
+EYE LVL WND SPD.7   8   7   
+EYE LVL WND GST.12  12  12  
+MIX HGT (KFT)...5.6 4.9 4.8 
+HAINES INDEX....4   4   4   
+SMOKE DISPER...673006310057700
+
+.TONIGHT...
+
+Sky/weather.........Mostly cloudy (55-65 percent)becoming partly 
+                    cloudy (25-35 percent). Scattered rain showers 
+                    early in the evening. Areas of frost overnight. 
+                    Widespread frost early in the morning. 
+Min temperature.....Around 33. 
+Max humidity........78 percent. 
+Eye level winds.....West winds 5 to 7 mph. 
+Mixing height.......300 ft AGL. 
+Transport winds.....West 7 to 12 mph. 
+Haines Index........4 or low potential for large plume dominated 
+                    fire growth. 
+Smoke Dispersal....Poor (MIN...20). 
+
+TIME (EDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+SKY (%).........63     52     36     25     18     12     
+WEATHER COV.....SCTTRD                      AREAS  AREAS  
+WEATHER TYPE....RNSHWR NONE   NONE   NONE   FROST  FROST  
+TEMP............48     46     43     40     37     35     
+RH..............51     58     65     70     73     75     
+EYE LEVEL WIND..W 7    W 6    W 5    W 5    W 6    NW 5   
+EYE LEVEL WIND..11     10     8      7      8      8      
+MIX HGT (FT)....4100   1400   700    400    300    300    
+HAINES INDEX....4      4      4      4      4      4      
+SMOKE DISPER...40600  12900  6000   2700   2700   2500   
+
+$$
+
+Forecaster...Tilley
+Requested by...Lee Osterland
+Type of request...PRESCRIBED
+.TAG 2310489.0/DTX
+.DELDT 04/24/23
+.FormatterVersion 2.0.0
+.EMAIL osterlandl@michigan.gov

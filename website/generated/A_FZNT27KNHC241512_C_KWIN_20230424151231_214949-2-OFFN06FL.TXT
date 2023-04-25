@@ -1,0 +1,48 @@
+FZNT27 KNHC 241512
+OFFN06
+
+NAVTEX Marine Forecast
+NWS National Hurricane Center Miami, FL
+1112 AM EDT Mon Apr 24 2023
+
+...Please refer to Coastal Waters Forecasts (CWF) available
+through NOAA Weather Radio and other means for detailed
+Coastal Waters Forecasts...
+
+.SYNOPSIS...A dissipating stationary front extends from the Big
+Bend area of Florida to off southern Texas. Buoys in the NW 
+Gulf are reporting seas up to 10 ft. The frontal boundary is 
+expected to dissipate later today. The wave heights will decrease
+below 8 ft by Tue morning. Fresh to strong east winds along and 
+just offshore the northern Yucatan Peninsula will diminish by 
+early this afternoon, then redevelop Wed night. Another frontal 
+boundary will enter the NW Gulf late this week but no appreciable
+increase in winds or seas is forecast. 
+
+Northwest Gulf of Mexico
+
+.THIS AFTERNOON...NE to E winds 15 to 20 kt. Seas 6 to 9 ft. 
+.TONIGHT...E winds 15 to 20 kt. Seas 6 to 8 ft. 
+.TUE...E winds 10 to 15 kt. Seas 4 to 6 ft. 
+.TUE NIGHT...E to SE winds 10 to 15 kt. Seas 3 to 5 ft. 
+.WED...E to SE winds 10 kt. Seas 3 to 4 ft.
+.WED NIGHT...E to SE winds 10 to 15 kt. Seas 3 ft. 
+.THU...E winds 10 to 15 kt. Seas 3 to 4 ft. 
+.THU NIGHT...NW to N winds 10 to 15 kt. Seas 3 to 5 ft. 
+.FRI...N winds 10 to 15 kt. Seas 3 to 4 ft. 
+.FRI NIGHT...NE winds 10 kt, shifting to E to SE late. Seas 3 to
+4 ft.  
+
+North Central and Northeast Gulf of Mexico
+
+.THIS AFTERNOON...NE to E winds 15 to 20 kt. Seas 3 to 5 ft.
+Scattered showers and isolated tstms. 
+.TONIGHT...NE to E winds 10 to 15 kt. Seas 3 to 5 ft. 
+.TUE...E winds 10 to 15 kt. Seas 3 to 5 ft. 
+.TUE NIGHT...E winds 10 to 15 kt. Seas 3 ft. 
+.WED...SE winds 10 to 15 kt. Seas 3 to 4 ft. 
+.WED NIGHT...E to SE winds 10 to 15 kt. Seas 3 to 4 ft. 
+.THU...SE winds 10 to 15 kt. Seas 3 to 5 ft. 
+.THU NIGHT...S winds 10 to 15 kt. Seas 4 to 6 ft. 
+.FRI...SW to W winds 10 to 15 kt. Seas 4 to 6 ft. 
+.FRI NIGHT...W winds 10 to 15 kt. Seas 3 to 5 ft.

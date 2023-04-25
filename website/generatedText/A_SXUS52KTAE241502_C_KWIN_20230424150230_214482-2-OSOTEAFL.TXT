@@ -1,0 +1,88 @@
+SXUS52 KTAE 241502
+OSOTAE
+OSOTAE
+North Florida/South Alabama/Southwest Georgia Weather Roundup
+National Weather Service Tallahassee Florida
+1100 AM EDT MON APR 24 2023
+
+Note: "fair" indicates few or no clouds below 12,000 feet with no
+significant weather and/or obstructions to visibility.
+
+!FLZ017-115-028-034-025-241600
+...North Florida...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+TALL INTL ARPT CLOUDY    64  50  60 N8        30.08R                  
+FSU LOVE BLDG  NOT AVBL                                               
+APALACHICOLA   CLOUDY    68  57  68 NE12      30.02R                  
+PERRY          NOT AVBL                                               
+CROSS CITY     CLOUDY    70  61  73 N10       30.04F                  
+JACKSONVILLE   NOT AVBL                                               
+$$
+
+!FLZ112-006-005-002-011-241600
+...Florida Panhandle...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MARIANNA       CLOUDY    67  47  48 NE15      30.08R                  
+BONIFAY        NOT AVBL                                               
+PANAMA CITY NW FAIR      68  46  45 N16G25    30.05S                  
+TYNDALL AFB    PTSUNNY   67  49  53 NE14      30.03S                  
+TYND DRONE APT CLOUDY    68  51  55 NE15      30.00S                  
+DE FUNIAK SPR  FAIR      62  46  55 NE10G16   30.11R                  
+EGLIN AFB      CLOUDY    67  46  46 NE15      30.07S                  
+DESTIN         CLOUDY    68  48  48 N14G21    30.07S                  
+HURLBURT       PTSUNNY   68  47  46 NE13      30.05S                  
+CRESTVIEW      CLOUDY    64  47  53 VRB5      30.10F                  
+PENSACOLA      CLOUDY    65  47  52 N10G22    30.07S                  
+$$
+
+!ALZ063-066-241600
+...South Alabama...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+DOTHAN         CLOUDY    63  46  54 NE9       30.15R                  
+OZARK CAIRNS   CLOUDY    61  46  56 N10       30.11                   
+FT RUCKER HELI CLOUDY    61  47  59 N8        30.12R                  
+RUCKER HELI 3  FAIR      59  47  65 NE10      30.11R                  
+RUCKER HELI 2  CLOUDY    62  47  58 N10       30.09R                  
+FLORALA APT    CLOUDY    63  46  54 NE12      30.13S                  
+ANDALUSIA      CLOUDY    64  46  52 NE8       30.11S                  
+TROY           CLOUDY    61  41  47 NE12      30.15R                  
+EUFALA         FAIR      62  41  46 N7        30.15R                  
+MOBILE         NOT AVBL                                               
+$$
+
+!GAZ120>161-241600
+...Southwest and South Central Georgia...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+THOMASVILLE    FAIR      61  45  55 E9        30.11R                  
+BAINBRIDGE     CLOUDY    68  46  45 E17       30.10R                  
+MOODY AFB      CLOUDY    64  47  55 NE6       30.08S                  
+VALDOSTA       LGT RAIN  61  52  72 NE7       30.09S                  
+MOULTRIE       CLOUDY    64  46  51 NE7       30.11R                  
+BLAKELY        CLOUDY    59  46  63 NE3       30.11S                  
+ALBANY         CLOUDY    64  44  48 NE10      30.14R                  
+TIFTON         CLOUDY    65  46  50 VRB5      30.12F                  
+FITZGERALD     FAIR      63  42  46 NE7       30.12R                  
+CORDELE        FAIR      62  37  40 NE6       30.14R                  
+AMERICUS       CLOUDY    60  37  42 NE12      30.13R                  
+HOMERVILLE     LGT RAIN  62  51  67 N3        30.09F                  
+$$
+
+!GMZ750-755-770-775-241600
+...Coastal and Buoy Obs...
+  
+STATION/POSITION TIME  TEMP    WIND        PRES    VSBY  WAVE
+                       AIR SEA DIR/SP/G                  HT/PER
+                 (UTC) (F)     (DEG/KT/KT) (MB)    (MI)  (FT/S)
+KEATON BEACH     1400   64      30/  8/ 14 1017.4F
+CEDAR KEY        1400   69      70/ 12/ 13 1016.5F
+C TOWER          1400   68                 1016.0F
+APALACHICOLA BUO 1440   72 73   80/ 16/ 19 1013.7R
+PANAMA CITY BUOY 1440   71      40/ 14/ 17 1015.3F
+MOBILE BUOY      1440   69 71   40/ 23/ 29 1016.6F
+ORANGE BCH AL BU NOT AVBL
+$$
+  

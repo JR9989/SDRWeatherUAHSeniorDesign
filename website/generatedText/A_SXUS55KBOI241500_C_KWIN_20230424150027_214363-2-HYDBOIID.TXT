@@ -1,0 +1,108 @@
+SXUS55 KBOI 241500
+HYDBOI
+Idzall-orz061>064-251500-
+
+
+Daily Hydrometeorological Data Summary
+National Weather Service Boise ID
+900 AM MDT Mon Apr 24 2023
+
+These river observations and forecasts are intended to help
+people who are planning recreational activities near the
+following river locations. It is important to note that
+flowing water can be very dangerous even when the river is
+below levels which are generally considered safe for rafting
+and other recreational uses. River users should always be
+prepared for unforecast and changing river conditions
+especially below dams where rapid fluctuations are possible.
+     
+River Location         Observed      Forecast Valid 6 AM Each Day
+ 
+                      Mon Apr 24        Tue    Wed    Thu    Fri
+
+
+Boise River At Boise Glenwood Bridge
+Stage In Feet.....       8.95           8.91   8.90   8.89   8.88
+Flow In CFS  .....       5441           5393   5378   5361   5344
+
+
+North Fork Of Payette River Below Cascade Dam
+Flow In CFS  .....        981           1089   1087   1085   1083
+
+
+South Fork Of Payette River At Lowman
+Stage In Feet.....       3.75           3.79   3.77   3.84   4.04
+Flow In CFS  .....        648            681    661    721    908
+
+
+Payette River At Horseshoe Bend
+Stage In Feet.....       6.57           6.53   6.35   6.41   6.69
+Flow In CFS  .....       3867           3817   3604   3679   4016
+
+
+Owyhee River nr Rome (Forecast is for Owyhee Lake inflow)
+Flow In CFS  .....       4381           5903   4639   3391   2943
+
+
+Bruneau River At Hot Springs
+Stage In Feet.....       6.36           6.22   6.16   6.13   6.18
+Flow In CFS  .....        887            791    750    733    761
+
+
+Snake River Below Swan Falls Dam
+Flow In CFS  .....       7453           7612   7554   7420   7325
+
+
+Snake River Below Hells Canyon Dam
+Flow In CFS  .....      19396          19199  19199  19199  19199
+
+
+Salmon River At Salmon
+Stage In Feet.....       2.21           2.19   2.21   2.23   2.26
+Flow In CFS  .....       1139           1118   1141   1165   1191
+
+
+Middle Fork Of Salmon River At Middle Fork Lodge
+Stage In Feet.....       2.24           1.92   1.86   1.95   2.29
+Flow In CFS  .....       1191            865    817    894   1241
+
+
+Middle Fork Of Salmon River At Shoup
+Flow In CFS  .....       1989              M      M      M      M
+
+
+South Fork Of Salmon River At Krassel Ranger Station
+Flow In CFS  .....        422              M      M      M      M
+
+
+Little Salmon River At Riggins
+Stage In Feet.....       4.35           4.32   4.25   4.25   4.29
+Flow In CFS  .....       1030           1009    968    970    993
+
+
+Salmon River At White Bird
+Stage In Feet.....      14.37          14.40  14.43  14.48  14.70
+Flow In CFS  .....       7490           7557   7619   7741   8237
+
+
+Locsha River At Lowell
+Stage In Feet.....       3.51           4.77   4.21   4.28   4.78
+Flow In CFS  .....       2118           4604   3418   3564   4638
+
+
+Selway River At Lowell
+Stage In Feet.....       4.77           5.10   5.54   5.32   5.65
+Flow In CFS  .....       2718           3375   4358   3844   4609
+
+
+Clear Water River At Stites
+Stage In Feet.....       4.59           4.99   4.54   4.52   4.65
+Flow In CFS  .....       1943           2601   1875   1844   2029
+
+
+Clear Water River At Orofino
+Stage In Feet.....       5.88           7.36   7.66   7.20   7.33
+Flow In CFS  .....       8634          13786  14958  13167  13670
+
+$$
+

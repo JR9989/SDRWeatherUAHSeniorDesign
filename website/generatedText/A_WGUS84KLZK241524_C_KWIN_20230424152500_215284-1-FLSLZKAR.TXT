@@ -1,0 +1,76 @@
+WGUS84 KLZK 241524 RRA
+FLSLZK
+
+Flood Statement
+National Weather Service Little Rock AR
+1024 AM CDT Mon Apr 24 2023
+
+...The Flood Warning continues for the following rivers in 
+Arkansas...
+
+  Cache River Near Patterson affecting Woodruff and Jackson 
+  Counties.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Motorists should not attempt to drive around barricades or drive 
+cars through flooded areas.
+
+River forecasts are based on current conditions and rainfall 
+forecasted to occur over the next 24 hours. During periods of 
+flooding...Evening forecasts are reissued with updated rainfall 
+forecasts.
+
+Observed and forecasted stage data plots are available on our 
+Advanced Hydrologic Prediction Service web page at...
+ www.weather.gov/lzk
+
+Under the Current Conditions section...Select River and Lakes AHPS.
+
+&&
+
+
+ARC067-147-251530-
+/O.EXT.KLZK.FL.W.0060.230425T1000Z-230430T0600Z/
+/PTTA4.1.ER.230425T1000Z.230426T1200Z.230429T0000Z.NO/
+1024 AM CDT Mon Apr 24 2023
+
+...FLOOD WARNING NOW IN EFFECT FROM LATE TONIGHT TO EARLY SUNDAY 
+MORNING...
+
+* WHAT...Minor flooding is forecast.
+
+* WHERE...Cache River Near Patterson.
+
+* WHEN...From late tonight to early Sunday morning.
+
+* IMPACTS...At 9.0 feet, Low swampy timberland along the river 
+  begins to flood. Flood gates should be closed and equipment moved 
+  out of the low grounds along the river and tributaries.
+
+* ADDITIONAL DETAILS...
+  - At 9:15 AM CDT Monday the stage was 8.6 feet.
+  - Forecast...The river is expected to rise above flood stage
+    late tonight to a crest of 9.5 feet Wednesday morning. It
+    will then fall below flood stage Friday evening.
+  - Flood stage is 9.0 feet.
+
+
+&&
+
+           Fld   Observed        Forecast 1 PM      Crest           
+Location   Stg   Stg Day/Time   Tue   Wed   Thu  Crest  Time  Date  
+
+Cache River
+Patterson  9.0   8.6  Mon 9 AM  9.3  9.5  9.3    9.5 7 AM 4/26      
+
+
+&&
+
+LAT...LON 3510 9133 3522 9128 3539 9123 3538 9113
+      3521 9117 3508 9122
+
+
+$$
+
+53

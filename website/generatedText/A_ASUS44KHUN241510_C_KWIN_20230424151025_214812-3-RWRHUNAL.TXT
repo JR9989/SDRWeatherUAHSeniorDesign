@@ -1,0 +1,72 @@
+ASUS44 KHUN 241510
+RWRHUN
+       
+WEATHER ROUNDUP FOR THE TENNESSEE VALLEY
+NATIONAL WEATHER SERVICE HUNTSVILLE AL
+1000 AM CDT MON APR 24 2023
+
+ALZ001>004-241600-
+NORTHWEST ALABAMA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BANKHEAD NF      N/A     55  35  47 E3          N/A                   
+SHOALS AIRPORT SUNNY     55  34  45 E10       30.22S                  
+$$
+
+ALZ005>007-016-241600-
+NORTH CENTRAL ALABAMA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CULLMAN AG STN   N/A     52 N/A N/A NE9         N/A                   
+DECATUR AP     SUNNY     56  32  40 NE9       30.22S                  
+HUNTSVILLE AP  MOSUNNY   56  33  42 NE14G23   30.21S                  
+HUN NWS/UAH      N/A     54  26  33 NE7         N/A                   
+MERIDIANVILLE  SUNNY     54  28  36 MISG      30.22S                  
+VINEMONT AP    FAIR      54  32  43 NE12G21   30.20S                  
+$$
+ 
+ALZ008>010-241600-
+NORTHEAST ALABAMA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ALBERTVILLE    SUNNY     54  32  43 NE12G17   30.20R                  
+FORT PAYNE     SUNNY     54  31  40 N12       30.19R                  
+SCOTTSBORO AP  SUNNY     54  34  47 NE10G16   30.22S                  
+$$
+
+TNZ076-096-097-241600-
+SOUTHEASTERN MIDDLE TENNESSEE
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+FAYETTEVILLE   SUNNY     52  30  43 N8G17     30.23R                  
+TULLAHOMA      SUNNY     52  27  37 N9        30.21R                  
+WINCHESTER     SUNNY     52  28  40 NE8G14    30.21R                  
+$$
+ 
+...SURROUNDING SITES...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ATLANTA        PTSUNNY   57  32  38 N6        30.16R                  
+ANNISTON       MOSUNNY   58  34  40 NE12G20   30.18R                  
+BIRMINGHAM     MOSUNNY   58  31  35 NE17G26   30.19S                  
+CHATTANOOGA    MOSUNNY   55  31  39 N10       30.21R                  
+CORINTH        SUNNY     55  34  44 NE6G12    30.23R                  
+DALTON         SUNNY     54  31  42 N8G23     30.19R                  
+GADSDEN        SUNNY     56  32  40 N20       30.19F                  
+GOLDEN TRNGL   SUNNY     57  39  51 VRB7      30.20S                  
+HALEYVILLE     FAIR      54  33  45 NE9G16    30.22R                  
+JACKSON TN     SUNNY     53  35  50 E6        30.25R                  
+LAWRENCEBURG   SUNNY     52  30  43 NE6G15    30.21S                  
+LEWISBURG      SUNNY     54  32  43 NE7       30.23R                  
+MEMPHIS        MOSUNNY   57  35  43 NE5       30.23R                  
+MURFREESBORO   SUNNY     52  30  43 N9        30.22R                  
+NASHVILLE      MOSUNNY   55  31  39 NE6       30.26R                  
+OXFORD MS      SUNNY     55  36  47 E10       30.23S                  
+ROME           SUNNY     57  30  35 N13G21    30.18S                  
+SAVANNAH       SUNNY     55  36  47 VRB6G12   30.22S                  
+SELMER           N/A     54  34  47 NE10      30.23R                  
+TUPELO         SUNNY     58  36  43 NE13      30.21S                  
+TUSCALOOSA     MOSUNNY   59  37  44 NE12      30.18S                  
+$$
+
+  

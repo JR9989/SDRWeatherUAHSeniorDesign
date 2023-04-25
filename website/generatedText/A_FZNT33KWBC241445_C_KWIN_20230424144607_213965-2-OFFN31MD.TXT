@@ -1,0 +1,88 @@
+FZNT33 KWBC 241445
+OFFN31
+
+Marine Weather HF Voice Broadcast
+NWS Ocean Prediction Center Washington DC
+1045 AM EDT Mon Apr 24 2023
+
+New England continental shelf and slope waters from 25 nm
+offshore to the Hague Line, except to 1000 fm south of New
+England.
+
+Conditions given represent the highest within that period.
+
+Seas given as significant wave height, which is the average
+height of the highest 1/3 of the waves. Individual waves may be
+more than twice the significant wave height.
+
+.SYNOPSIS FOR NEW ENGLAND WATERS...Low pressure will persist near
+the SE coast of Maine today into tonight, and then dissipate Tue.
+High pressure will build over southern New England Tue night,
+overspread most of the waters Wed into Thu, and then prevail from
+the northern waters northward Thu night through Fri night as low
+pressure slowly organizes to the S of the region.  
+
+Gulf of Maine to the Hague Line
+
+.TODAY...E to SE winds 10 to 20 kt. Seas 5 to 9 ft. Showers
+likely with vsby 1 nm or less. 
+.TONIGHT...SE winds 10 to 20 kt. Seas 4 to 7 ft. Showers likely.
+.TUE...SE winds 5 to 15 kt. Seas 3 to 5 ft. Chance of showers. 
+.TUE NIGHT...SE winds 5 to 15 kt, becoming variable. Seas 3 to
+5 ft. Chance of showers. 
+.WED...E to NE winds less than 10 kt, becoming E to SE. Seas
+3 to 4 ft. 
+.WED NIGHT...S to SE winds 5 to 10 kt, becoming variable. Seas
+3 to 4 ft. 
+.THU...Variable winds less than 10 kt, becoming S to SW. Seas
+3 to 4 ft. 
+.THU NIGHT...W winds 5 to 15 kt, becoming 5 to 10 kt. Seas 3 to
+4 ft. 
+.FRI...N to NE winds 5 to 10 kt. Seas 3 to 5 ft. 
+.FRI NIGHT...E to NE winds 10 to 15 kt. Seas 3 to 6 ft. 
+
+Georges Bank...from the Northeast Channel to the Great South
+Channel including waters east of Cape Cod...to the Hague Line
+
+.TODAY...E to SE winds 10 to 20 kt. Seas 5 to 9 ft. Scattered
+showers with vsby 1 nm or less. 
+.TONIGHT...E to SE winds 5 to 15 kt. Seas 4 to 6 ft. Scattered
+showers with vsby 1 nm or less. 
+.TUE...E to SE winds less than 10 kt, becoming variable. Seas
+4 to 6 ft. Chance of showers. 
+.TUE NIGHT...Variable winds less than 10 kt. Seas 3 to 6 ft.
+Chance of showers. 
+.WED...E to NE winds 5 to 10 kt. Seas 3 to 6 ft. 
+.WED NIGHT...E to NE winds 5 to 10 kt, becoming variable. Seas
+3 to 5 ft. 
+.THU...E to NE winds 5 to 10 kt. Seas 3 to 5 ft. 
+.THU NIGHT...Variable winds less than 10 kt, becoming N to NW.
+Seas 3 to 4 ft. 
+.FRI...N to NW winds less than 10 kt, becoming N to NE. Seas
+4 to 7 ft. 
+.FRI NIGHT...NE winds 10 to 20 kt, becoming E. Seas 5 to 9 ft. 
+
+South of New England...from the Great South Channel to Hudson
+Canyon including the waters south of Marthas Vineyard and
+Nantucket Island...out to 1000 fm
+
+.TODAY...W to NW winds 5 to 10 kt, becoming W to SW 5 to 15 kt.
+Seas 3 to 6 ft. 
+.TONIGHT...W to SW winds 5 to 15 kt, becoming W to NW 5 to
+10 kt. Seas 3 to 5 ft. 
+.TUE...Variable winds 5 to 15 kt, becoming W. Seas 3 to 5 ft. 
+.TUE NIGHT...W to NW winds less than 10 kt, becoming N to NW.
+Seas 3 to 5 ft. 
+.WED...N to NE winds 5 to 10 kt, becoming variable. Seas 3 to
+5 ft. 
+.WED NIGHT...S to SE winds 5 to 10 kt, becoming W to SW. Seas
+3 to 5 ft. 
+.THU...E to NE winds 5 to 10 kt, becoming E to SE. Seas 3 to
+5 ft. 
+.THU NIGHT...E winds 5 to 10 kt, becoming 5 to 15 kt. Seas 3 to
+4 ft. 
+.FRI...E winds 5 to 15 kt, increasing to 10 to 20 kt. Seas 5 to
+8 ft. 
+.FRI NIGHT...E winds 15 to 20 kt. Seas 6 to 10 ft. 
+
+.Forecaster Collins. Ocean Prediction Center.

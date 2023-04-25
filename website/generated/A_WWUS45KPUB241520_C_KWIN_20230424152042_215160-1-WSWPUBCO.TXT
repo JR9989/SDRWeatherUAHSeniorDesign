@@ -1,0 +1,106 @@
+WWUS45 KPUB 241520
+WSWPUB
+
+URGENT - WINTER WEATHER MESSAGE
+National Weather Service Pueblo CO
+920 AM MDT Mon Apr 24 2023
+
+COZ058-060-061-063-076-077-081-082-250000-
+/O.CON.KPUB.WS.A.0012.230425T1200Z-230426T1800Z/
+Western Mosquito Range/East Lake County Above 11000 Feet-
+Eastern Sawatch Mountains Above 11000 Feet-
+Western Chaffee County Between 9000 and 11000 Feet-
+Western Mosquito Range/East Chaffee County Above 9000 Feet-
+Northwestern Fremont County Above 8500 Feet-
+Western/Central Fremont County Below 8500 Feet-
+Teller County/Rampart Range Above 7500 Feet/Pikes Peak Between
+7500 And 11000 Feet-Pikes Peak Above 11000 Feet-
+920 AM MDT Mon Apr 24 2023
+
+...WINTER STORM WATCH REMAINS IN EFFECT FROM TUESDAY MORNING
+THROUGH WEDNESDAY MORNING...
+
+* WHAT...Heavy snow possible. Total snow accumulations of 10 to 
+  20 inches possible, with higher amounts possible over Pikes 
+  Peak. Winds could gust as high as 35 mph.
+
+* WHERE...Mosquito Range above 9000 Feet, Sawatch Mountains above
+  9000 Feet, Western Fremont County, Teller County and Pikes 
+  Peak.
+
+* WHEN...From Tuesday morning through Wednesday morning.
+
+* IMPACTS...Travel could be very difficult to impossible. The 
+  hazardous conditions could impact the morning or evening 
+  commute.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Monitor the latest forecasts for updates on this situation. 
+
+&&
+
+$$
+
+COZ072>075-078>080-250000-
+/O.CON.KPUB.WS.A.0012.230425T1200Z-230426T1800Z/
+Northern Sangre de Cristo Mountains Between 8500 And 11000 Feet-
+Northern Sangre de Cristo Mountains Above 11000 Feet-
+Southern Sangre de Cristo Mountains Between 7500 and 11000 Feet-
+Southern Sangre de Cristo Mountains Above 11000 Feet-
+Wet Mountain Valley Below 8500 Feet-
+Wet Mountains between 6300 and 10000 Feet-
+Wet Mountains Above 10000 Feet-
+920 AM MDT Mon Apr 24 2023
+
+...WINTER STORM WATCH REMAINS IN EFFECT FROM TUESDAY MORNING
+THROUGH WEDNESDAY MORNING...
+
+* WHAT...Heavy snow possible. Total snow accumulations of 8 to 
+  14 inches possible, with higher amounts possible over eastern 
+  facing slopes of the Wet Mountains. Winds could gust as high 
+  as 40 mph.
+
+* WHERE...The Sangre de Cristo Mountains, the Wet Mountains, and 
+  the Wet Mountain Valley.
+
+* WHEN...From Tuesday morning through Wednesday morning.
+
+* IMPACTS...Travel could be very difficult to impossible. The 
+  hazardous conditions could impact the morning or evening 
+  commute.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Monitor the latest forecasts for updates on this situation. 
+
+&&
+
+$$
+
+COZ084-250000-
+/O.CON.KPUB.WS.A.0012.230426T0000Z-230426T1800Z/
+Northern El Paso County/Monument Ridge/Rampart Range Below
+7500 Feet-
+920 AM MDT Mon Apr 24 2023
+
+...WINTER STORM WATCH REMAINS IN EFFECT FROM TUESDAY EVENING
+THROUGH WEDNESDAY MORNING...
+
+* WHAT...Heavy snow possible. Total snow accumulations of 4 to 
+  10 inches possible. Winds could gust as high as 35 mph.
+
+* WHERE...Northern El Paso County.
+
+* WHEN...From Tuesday evening through Wednesday morning.
+
+* IMPACTS...Travel could be very difficult. The hazardous 
+  conditions could impact the morning commute.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Monitor the latest forecasts for updates on this situation. 
+
+&&
+
+$$

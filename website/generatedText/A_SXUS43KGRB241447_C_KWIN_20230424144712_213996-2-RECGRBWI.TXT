@@ -1,0 +1,22 @@
+SXUS43 KGRB 241447
+RECGRB
+WIZ048-WIZ049-242100-
+
+Recreational Forecast for Lake Winnebago
+National Weather Service Green Bay WI
+946 AM CDT Mon Apr 24 2023
+
+.TODAY...West winds around 5 knots. Chance of rain showers in the
+afternoon. Waves 1 foot or less. Highs in the mid 40s. 
+.TONIGHT...Southeast winds 5 to 10 knots. Chance of rain showers
+in the evening. Chance of snow showers through the night. Waves
+1 foot or less. Lows in the mid 30s. 
+.TUESDAY...Northeast winds 5 to 10 knots. Chance of snow showers
+in the morning. Slight chance of rain showers through the day.
+Slight chance of snow showers in the afternoon. Waves 1 foot or
+less. Highs in the mid 40s. 
+.TUESDAY NIGHT...Northeast winds around 5 knots. Partly cloudy.
+Waves 1 foot or less. Lows in the upper 20s. 
+
+$$
+

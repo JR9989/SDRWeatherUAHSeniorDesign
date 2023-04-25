@@ -1,0 +1,421 @@
+FOUS54 KAMA 241527
+PFMAMA
+
+Point Forecast Matrices
+National Weather Service Amarillo TX
+1026 AM CDT Mon Apr 24 2023
+
+TXZ012-242200-
+Amarillo-Potter TX
+35.23N 101.70W Elev. 3585 ft
+1026 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      56          46          74          45          58
+Temp                   47 52 51 46 46 46 48 53 66 72 67 55 52 48 46 50 56 53 48
+Dewpt                  40 41 41 44 45 46 46 48 45 41 43 47 48 48 45 44 42 41 40
+RH                     76 66 68 93 96100 93 83 47 33 42 74 86100 96 80 59 64 74
+Wind dir                S  S  S SE  S  S  S  S  S  S SE SE SE SE SE  E NE NE  N
+Wind spd               21 25 21 18 18 17 13 14 12 13 17 16 17 17 13 13 14 18 21
+Wind gust                          28                                        32
+Clouds                 B2 B1 B1 B1 B2 B2 OV B2 B1 B1 B2 B2 B2 OV OV B2 B2 B2 B2
+PoP 12hr                     30          40          70          90          90
+QPF 12hr                   0.04        0.07        0.04        0.16        0.28
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              C  C  C  S     C  C  C  L  L  D  D  D  D  D  D  D  D  C
+Tstms                                              C  C  S  C  C  S  S  S  S  S
+Wind chill             39       39 39 39                                       
+Min chill              35          39    39                                    
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          38    69      43    63      35    66      39    76
+Temp          43 39 59 68   51 44 58 57   43 36 56 64   45 40 68 71
+Dewpt         39 39 37 32   38 38 36 30   31 29 25 23   28 29 29 27
+PWind dir         N    NW       S     N       N    NW      NW    NW
+Wind char        BZ    GN      GN    BZ      BZ    BZ      GN    GN
+Avg clouds    B2 B2 SC FW   FW SC SC B1   B1 SC FW FW   FW FW FW FW
+PoP 12hr         50    10       5    20      20    10      10     5
+Rain shwrs     C  S                   S    S  S                    
+Tstms          S                                                   
+
+$$
+
+TXZ008-242200-
+Borger-Hutchinson TX
+35.71N 101.40W Elev. 2762 ft
+1026 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      57          47          74          45          56
+Temp                   48 53 53 47 47 47 49 55 66 73 68 56 52 49 46 49 52 54 52
+Dewpt                  40 40 41 43 45 46 47 48 47 44 46 47 48 47 46 46 43 42 40
+RH                     74 61 64 86 93 96 93 77 50 35 45 72 86 93100 89 71 64 63
+Wind dir                S  S  S SE SE SE SE  S  S SE SE  E  E  E  E  E NE NE  N
+Wind spd               20 21 18 17 16 13 12 11 12 13 16 18 13 12 12 12 17 17 17
+Wind gust              31          26                                          
+Clouds                 OV B1 B2 B1 B1 B2 OV OV B2 B2 B2 B2 B2 OV OV OV OV OV B2
+PoP 12hr                     40          40          70         100          90
+QPF 12hr                   0.08        0.08        0.04        0.46        0.57
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              C  C  C  S  C  S  C  C  L  L  D  D  D  D  D  D  D  D  C
+Tstms                            S  S     S        C  C  C  C  C  S  S  S  S  S
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          39    71      44    65      36    69      40    78
+Temp          45 40 59 70   52 45 57 61   45 36 57 67   47 41 67 75
+Dewpt         41 40 38 35   40 40 38 31   31 29 26 25   30 31 31 29
+PWind dir         N    NW       S     N       N     N      NW    NW
+Wind char        GN    GN      GN    BZ      BZ    BZ      GN    GN
+Avg clouds    B2 B2 SC FW   FW SC SC B1   B1 SC FW FW   SC FW FW FW
+PoP 12hr         50    10       5    20      20    10       5     5
+Rain shwrs     C  S                S  S    S  S                    
+Tstms          S                                                   
+
+$$
+
+TXZ010-242200-
+Canadian-Hemphill TX
+35.90N 100.40W Elev. 2394 ft
+1026 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      55          44          62          43          53
+Temp                   50 52 54 48 46 45 47 51 58 62 60 51 49 46 44 47 49 51 52
+Dewpt                  41 41 41 44 46 45 46 50 51 51 52 50 49 46 44 46 45 44 45
+RH                     71 66 61 86100100 96 96 77 67 75 96100100100 96 86 77 77
+Wind dir                S  S  S SE SE SE SE  S SE SE  E  E  E  E  E  E NE NE NE
+Wind spd               21 23 16 17 16 14 12 13 14 16 16 16 14 13 13 14 16 17 16
+Clouds                 OV B2 OV B1 B2 OV OV OV OV B2 OV OV OV OV OV OV OV OV OV
+PoP 12hr                     30          50          90         100          90
+QPF 12hr                   0.02        0.04        0.28        0.83        0.62
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              C  C  S  C  C  C  D  D  D  D  D  D  D  D  D  D  D  D  L
+Tstms                            S  C  S  C  S  S  C  C  C  C  C  S  C  S  C  S
+Wind chill                         39 39                         37            
+Min chill                          39    38    38                36    36      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          40    67      42    63      35    65      38    74
+Temp          45 41 56 66   49 43 56 59   44 36 55 63   45 39 65 71
+Dewpt         44 41 42 40   43 41 42 36   34 30 30 30   33 31 33 35
+PWind dir         N    NW       S     N       N     N      NW    NW
+Wind char        GN    GN      GN    BZ      BZ    BZ      GN    GN
+Avg clouds    OV B2 B1 SC   FW SC B1 B1   B1 SC FW FW   FW FW FW FW
+PoP 12hr         60    10      10    20      30    10      10     5
+Rain shwrs     L  C                S  S    C  S                    
+Tstms          S  S                                                
+
+$$
+
+TXZ019-242200-
+Clarendon-Donley TX
+34.92N 100.93W Elev. 2836 ft
+1026 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      52          45          69          47          58
+Temp                   45 49 50 48 47 47 49 53 62 68 65 57 53 50 48 50 53 56 53
+Dewpt                  41 43 44 46 47 47 49 51 50 49 51 52 52 50 47 49 45 45 45
+RH                     86 80 80 93100100100 93 65 51 60 83 96100 96 96 74 66 74
+Wind dir                S  S  S SE SE SE  S  S  S SE SE  E  E  E  E  E NE NE  N
+Wind spd               17 19 18 14 14 13 11 13 13 14 17 16 14 13 12 12 13 18 18
+Clouds                 OV B2 B2 B2 B2 OV OV B2 B2 B2 B2 B2 OV OV OV B2 B2 B2 B2
+PoP 12hr                     40          40          80          90          90
+QPF 12hr                   0.02        0.12        0.04        0.23        0.29
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              C  C  S  C  C  C  L  L  D  D  D  D  D  D  D  D  D  D  C
+Tstms                               S     S  S  S  C  C  C  C  S  S  S  S  S  S
+Wind chill             38                                                      
+Min chill              35    37    39                                          
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          40    69      43    67      39    67      40    76
+Temp          47 41 58 69   52 44 61 60   47 40 56 65   47 41 66 74
+Dewpt         44 41 40 38   43 41 41 35   35 32 28 27   32 31 31 32
+PWind dir         N     N      SE     N       N     N      NW    NW
+Wind char        BZ    GN      GN    BZ      BZ    BZ      GN    GN
+Avg clouds    B2 B2 SC FW   FW SC SC B1   B1 SC FW FW   FW FW FW FW
+PoP 12hr         50    10       5    20      20    10      10     5
+Rain shwrs     C  S                   S    S  S                    
+Tstms          S                                                   
+
+$$
+
+TXZ006-242200-
+Dalhart-Hartley TX
+36.03N 102.55W Elev. 3913 ft
+1026 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      62          39          74          37          50
+Temp                   50 59 57 44 42 41 41 51 66 73 65 50 48 43 39 46 49 48 44
+Dewpt                  42 42 44 44 42 41 41 46 45 40 45 49 48 43 39 44 42 43 42
+RH                     74 53 62100100100100 83 47 30 48 96100100100 93 77 83 93
+Wind dir                S  S  S SE SE  S  S  S SE  S NE  E  E  E  E NE NE  N  N
+Wind spd               21 21 13 13 16 10  5  6  6 13 16 13 13 13 11 14 21 23 20
+Wind gust                                                  25          33 36 35
+Clouds                 B1 SC B1 SC SC B1 B2 B2 B1 B1 OV OV OV B2 B2 B2 B2 B2 OV
+PoP 12hr                     30          30          60          90          90
+QPF 12hr                   0.02        0.03        0.09        0.43        0.39
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              S  C  C  S        S  S  L  L  D  D  D  D  D  D  D  D  C
+Tstms                      S  S                    C  C  S  C  C  S  S  S  S   
+Wind chill                      38 34 35                      37 32          36
+Min chill              38          33    33    36                31    33    35
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          30    69      36    59      29    65      33    73
+Temp          39 31 59 68   46 37 53 53   38 29 57 62   41 34 65 70
+Dewpt         39 31 39 35   38 36 36 32   31 27 28 27   30 29 33 32
+PWind dir         N     W       S     N       N     N       N    NW
+Wind char        GN    GN      GN    BZ      BZ    BZ      GN    GN
+Avg clouds    B2 B1 SC FW   SC SC B1 B1   B1 SC FW FW   FW FW FW FW
+PoP 12hr         30     5       5    20      20    10      10     5
+Rain shwrs     C                      S    S  S                    
+
+$$
+
+TXZ007-242200-
+Dumas-Moore TX
+35.86N 102.01W Elev. 3705 ft
+1026 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      59          42          73          41          50
+Temp                   48 56 58 45 42 43 44 53 65 73 66 52 49 46 42 48 49 48 45
+Dewpt                  40 39 40 44 42 43 44 46 43 38 41 47 48 46 41 44 41 40 39
+RH                     74 53 51 96100100100 77 45 28 40 83 96100 96 86 74 74 79
+Wind dir                S  S  S SE  S  S  S  S  S  S  E  E  E  E  E  E NE  N  N
+Wind spd               23 23 17 17 17 16 10 10 10 12 13 14 16 14 13 13 18 19 20
+Wind gust                                                                 29 31
+Clouds                 B2 SC B1 B1 B1 B2 B2 B2 B1 B1 OV OV OV OV B2 B2 B2 B2 B2
+PoP 12hr                     30          30          70          90          90
+QPF 12hr                   0.05        0.04        0.03        0.35        0.42
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              S  S  C  S  S     C  C  L  L  D  D  D  D  D  D  D  D  C
+Tstms                      S     S  S              C  C  S  C  C  S  S  S  S  S
+Wind chill                      38 34 35                      39 35          37
+Min chill              37          34    34    37                35    36    37
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          34    69      39    60      32    64      36    73
+Temp          41 35 57 68   49 40 52 54   40 33 54 63   43 37 63 71
+Dewpt         39 35 37 33   38 36 36 30   30 27 26 24   28 28 30 28
+PWind dir         N     W       S     N       N     N      NW    NW
+Wind char        BZ    GN      GN    BZ      BZ    BZ      GN    GN
+Avg clouds    B2 B1 SC FW   FW SC SC B1   B1 SC FW FW   FW FW FW FW
+PoP 12hr         40     5       5    20      30    10      10     5
+Rain shwrs     C                      S    C  S                    
+Tstms          S                                                   
+
+$$
+
+OKZ002-242200-
+Guymon-Texas OK
+36.69N 101.51W Elev. 3100 ft
+1026 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      60          42          63          39          49
+Temp                   53 58 57 46 44 43 44 50 58 63 58 48 45 42 40 42 46 48 46
+Dewpt                  40 40 41 43 44 43 44 47 47 46 46 46 45 42 39 42 41 40 39
+RH                     61 51 55 89100100100 89 67 54 64 93100100 96100 83 74 76
+Wind dir                S  S SE SE SE SE SE SE SE  E  E  E  E  E  E NE NE NE  N
+Wind spd               24 21 18 14 13 10 10 11 11 16 17 16 16 16 13 16 20 18 17
+Wind gust                                                              31      
+Clouds                 B2 B1 B2 SC B1 B2 OV OV B2 B2 OV OV OV OV OV OV OV OV OV
+PoP 12hr                     40          50          80         100         100
+QPF 12hr                   0.05        0.04        0.06        0.88        0.79
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              C  C  C  S  C  C  C  C  D  D  D  D  D  D  D  D  D  D  C
+Tstms                            S  S     S  S     S  C  C  C  C  S  S  S  S  S
+Wind chill                         37 37 38                38 34 32 34 38    39
+Min chill              38          37    36    36          37    32    32    39
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          34    68      39    59      31    64      36    73
+Temp          41 35 57 67   47 40 52 53   39 31 54 62   42 37 65 69
+Dewpt         40 35 38 35   40 38 36 29   30 27 27 25   30 29 32 31
+PWind dir         N     W       S     N       N     N      NW    NW
+Wind char        GN    GN      GN    BZ      BZ    BZ      GN    GN
+Avg clouds    B2 B1 SC FW   FW SC B1 B1   B1 SC FW FW   FW FW FW FW
+PoP 12hr         40     5      10    30      30    10       5     5
+Rain shwrs     C                   S  C    C  S                    
+Tstms          S                                                   
+
+$$
+
+TXZ016-242200-
+Hereford-Deaf Smith TX
+34.86N 102.33W Elev. 3785 ft
+1026 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      60          45          79          45          62
+Temp                   46 56 59 48 45 46 47 55 71 78 73 58 53 49 46 53 59 59 53
+Dewpt                  41 42 42 45 45 46 46 48 42 33 36 44 49 49 45 42 38 39 40
+RH                     83 59 53 89100100 96 77 35 19 26 59 86100 96 66 45 47 61
+Wind dir                S  S  S  S  S  S  S SW SW SW  W SE SE SE  S NW  N  N  N
+Wind spd               19 23 19 18 14 13 10 10 11 12 14 11 11 12 10 10 14 18 21
+Wind gust                                                                 28 34
+Clouds                 B2 B1 B1 SC B1 OV B2 B2 SC SC B2 B2 B2 B1 B1 B1 B1 B1 B2
+PoP 12hr                     30          30          50          80          70
+QPF 12hr                   0.01        0.04        0.09        0.06        0.10
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              S  S  C  S  S  S  S  S  C  C  D  D  D  D  L  L  L  L  C
+Tstms                                              S  C  S  S  S        S  S  S
+Wind chill             38          38                                          
+Min chill              35          38    39                                    
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          35    73      43    67      34    67      36    77
+Temp          42 36 60 72   52 44 60 59   42 35 56 65   45 37 66 75
+Dewpt         40 36 36 30   35 34 36 31   32 29 25 24   28 28 29 27
+PWind dir         N    NW       S     N       N     N       N     W
+Wind char        BZ    GN      GN    BZ      BZ    BZ      GN    GN
+Avg clouds    B2 B1 SC FW   FW FW SC SC   B1 SC FW FW   FW FW FW FW
+PoP 12hr         40    10       5    10      20    10       5     5
+Rain shwrs     C  S                        S  S                    
+Tstms          S                                                   
+
+$$
+
+TXZ014-242200-
+Pampa-Gray TX
+35.61N 101.00W Elev. 3245 ft
+1026 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      52          45          68          44          53
+Temp                   45 49 49 45 45 45 47 52 61 67 62 52 50 47 45 48 50 52 50
+Dewpt                  41 43 44 44 45 45 47 49 49 50 50 50 50 47 45 47 46 45 44
+RH                     86 80 83 96100100100 89 65 54 65 93100100100 96 86 77 80
+Wind dir                S  S  S SE  S  S  S  S  S SE SE  E  E  E  E  E NE NE  N
+Wind spd               23 23 21 18 18 16 13 14 17 17 20 17 16 14 13 13 17 17 17
+Wind gust              33                                                      
+Clouds                 B2 B2 B2 B1 B1 OV OV OV B2 B2 OV OV OV OV OV OV OV OV OV
+PoP 12hr                     40          50          80         100          90
+QPF 12hr                   0.02        0.17        0.08        0.51        0.60
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              C  C  C  S  C  C  L  L  D  D  D  D  D  D  D  D  D  D  L
+Tstms                            S  S     S  S     C  C  C  C  C  S  S  S  S  S
+Wind chill             36       37 37 38                         39            
+Min chill              36    38    37    37                      39            
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          39    67      42    63      35    65      40    74
+Temp          43 40 55 66   49 43 54 60   43 36 54 63   45 40 66 70
+Dewpt         43 40 40 38   42 41 41 35   34 30 29 28   32 31 33 33
+PWind dir         N    NW       S     N       N     N      NW    NW
+Wind char        GN    GN      GN    BZ      BZ    BZ      GN    GN
+Avg clouds    OV B2 B1 FW   FW SC B1 B1   B1 SC FW FW   FW FW FW FW
+PoP 12hr         60    10       5    20      30    10      10     5
+Rain shwrs     L  C                S  S    C  S                    
+Tstms          S                                                   
+
+$$
+
+TXZ004-242200-
+Perryton-Ochiltree TX
+36.41N 100.75W Elev. 2918 ft
+1026 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      54          41          60          39          49
+Temp                   47 51 52 45 43 42 43 49 56 60 57 46 44 42 40 43 45 47 48
+Dewpt                  39 40 40 41 43 42 43 48 48 48 48 45 44 42 39 43 42 41 40
+RH                     74 66 63 86100100100 96 74 64 72 96100100 96100 89 79 74
+Wind dir                S  S  S SE SE SE SE SE SE SE  E  E  E  E  E  E NE NE  N
+Wind spd               24 25 20 16 16 13 12 13 14 18 18 17 17 16 16 17 18 18 14
+Clouds                 OV B2 OV B1 B2 B2 OV OV OV B2 OV OV OV OV OV OV OV OV OV
+PoP 12hr                     40          60          80         100         100
+QPF 12hr                   0.03        0.06        0.27        0.92        0.72
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              C  C  C     C  L  L  L  D  D  D  D  D  D  D  D  D  D  L
+Tstms                               S  S  S  S     S  C  C  C  C  S  S  S  S  S
+Wind chill             39       38 35 35 36             39 36 34 31 35 38      
+Min chill              33          34    33    33          36    30    32    38
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          35    65      38    58      31    62      35    71
+Temp          41 36 55 64   46 39 52 54   40 32 53 60   42 36 62 70
+Dewpt         41 36 40 38   40 39 38 31   31 27 28 26   30 29 32 32
+PWind dir         N    NW       S     N       N     N      NW    NW
+Wind char        GN    GN      GN    BZ      BZ    BZ      GN    GN
+Avg clouds    B2 B2 B1 FW   FW SC B1 B1   SC SC FW FW   FW FW FW FW
+PoP 12hr         60    10      10    30      30    10       5     5
+Rain shwrs     L  S                S  C    C  S                    
+Tstms          S  S                                                
+
+$$
+

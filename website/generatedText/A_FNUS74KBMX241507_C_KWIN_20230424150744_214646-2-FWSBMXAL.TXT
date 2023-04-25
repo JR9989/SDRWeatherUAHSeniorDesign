@@ -1,0 +1,83 @@
+FNUS74 KBMX 241507
+FWSBMX
+
+Spot Forecast for C-1...USFS
+National Weather Service Birmingham AL
+1007 AM CDT Mon Apr 24 2023
+
+Forecast is based on ignition time of 0600 CDT on April 25. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...
+
+In the vicinity of the burn site, rain-free weather is expected 
+on Tuesday. Showers and a few storms may occur on Wednesday with 
+some initial activity possible as early as Tuesday night. 20-foot 
+winds are expected to average less than 10 knots from the east on 
+Tuesday, becoming southeast on Wednesday. Afternoon minimum RH 
+values are forecast to be in the 30s on Tuesday (%) and the upper 
+50s on Wednesday as moisture content increases with the approach 
+of the next rain maker.
+
+.TUESDAY...
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........26     19     21     28     33     36     
+Weather cov.....                                          
+Weather type....NONE   NONE   NONE   NONE   NONE   NONE   
+Tstm cov........                                          
+CWR.............10     0      10     10     10     10     
+LAL.............1      1      1      1      1      1      
+Temp............49     55     65     72     76     78     
+RH..............56     49     41     37     33     32     
+20 FT wind......NE 6   NE 6   E 6    E 5    E 3    E 3    
+20 FT wind gust.10     10     10     7      6      6      
+20 FT wind dir..050    060    080    100    110    110    
+Mix hgt (ft)....300    800    2300   5200   7100   6700   
+Transport wind..NE 9   E 9    E 9    E 8    SE 6   SW 5   
+Dispersion idx..4      4      4      52     49     37     
+LVORI...........2      2      1      1      1      2      
+
+.TUESDAY NIGHT...
+TIME (CDT)      6 PM   8 PM   10 PM  MIDNGT 2 AM   4 AM   
+Sky (%).........50     47     54     53     56     62     
+Weather cov.....       S CHC  S CHC  S CHC  S CHC  S CHC  
+Weather type....NONE   RNSHWR RNSHWR RNSHWR RNSHWR RNSHWR 
+Tstm cov........                                          
+CWR.............10     20     20     20     20     20     
+LAL.............1      1      1      1      1      1      
+Temp............74     70     64     62     60     59     
+RH..............40     51     60     65     72     78     
+20 FT wind......E 5    NE 6   E 7    E 7    E 7    E 7    
+20 FT wind gust.6      7      11     12     11     10     
+20 FT wind dir..080    050    070    080    090    090    
+Mix hgt (ft)....2400   BLW100 400    500    500    400    
+Transport wind..N 6    NE 7   E 10   E 13   E 12   E 10   
+Dispersion idx..18     1      0      11     10     9      
+LVORI...........2      2      3      3      3      4      
+
+.WEDNESDAY...
+TIME (CDT)      6 AM   8 AM   10 AM  NOON   2 PM   4 PM   
+Sky (%).........61     64     71     70     68     63     
+Weather cov.....S CHC  CHANCE CHANCE CHANCE LIKELY LIKELY 
+Weather type....RNSHWR RNSHWR RNSHWR RNSHWR RNSHWR RNSHWR 
+Tstm cov........              S CHC  S CHC  CHANCE CHANCE 
+CWR.............20     40     40     40     60     60     
+LAL.............1      1      2      2      3      3      
+Temp............58     61     67     70     73     75     
+RH..............86     84     73     68     62     58     
+20 FT wind......E 7    E 7    SE 8   SE 7   SE 7   SE 7   
+20 FT wind gust.11     13     13     11     10     10     
+20 FT wind dir..100    110    120    130    130    120    
+Mix hgt (ft)....400    900    2200   3900   5400   5400   
+Transport wind..SE 12  SE 14  SE 14  S 12   S 10   S 12   
+Dispersion idx..10     12     19     43     44     49     
+LVORI...........4      4      3      3      1      1      
+
+$$
+Forecaster...Satterwhite
+Requested by...Scott Layfield
+Type of request...PRESCRIBED
+.TAG 2310486.0/BMX
+.DELDT 04/24/23
+.FormatterVersion 2.0.0

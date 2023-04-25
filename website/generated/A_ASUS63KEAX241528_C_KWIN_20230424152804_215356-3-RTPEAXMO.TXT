@@ -1,0 +1,132 @@
+ASUS63 KEAX 241528
+RTPEAX
+
+
+Max/Min Temperature and Precipitation Table for
+Northeast Kansas...Northwest and North Central Missouri
+National Weather Service Kansas City/Pleasant Hill MO
+1027 AM CDT Mon Apr 24 2023
+
+Official Airport Reporting Stations
+Values represent yesterday's highs, morning lows through
+6 am CST/7 am CDT and precipitation over the past
+24 hours ending at 6 am CST/7 am CDT.
+Snow depth is the value at 6 am CST/7 am CDT.
+                                                 
+Precipitation, snowfall, and snow depth are in inches.
+.BR EAX 0424 C DH01/TAIRZX/DH07/TAIRZP/PPDRZZ/SFDRZZ/SDIRZZ
+:.............................................................
+:       Station            | Max | Min | 24-hr  | Snow | Snow
+:        Name              | Tmp | Tmp | Precip | Fall | Depth
+:.............................................................
+:
+MCI  :  Kansas City Intl   :  57 /  34 /  0.00  /  0.0 /   0
+STJ  :  St Joseph          :  56 /  32 /  0.00  /      /    
+MKC  :  Kansas City Dwtn   :  56 /  41 /  0.00  /      /    
+OJC  :  Johnson Co Exec    :  58 /  35 /  0.00  /      /    
+IXD  :  Olathe New Cent    :  57 /  34 /  0.00  /      /    
+CDJ  :  Chillicothe        :  56 /  32 /  0.00  /      /    
+IRK  :  Kirksville         :  51 /  28 /  0.00  /      /    
+DMO  :  Sedalia            :  58 /  34 /  0.00  /      /    
+LXT  :  Lee's Summit       :  56 /  37 /  0.00  /      /    
+:
+.END
+
+
+.BR EAX 0424 C DH07/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDIRZZ
+:Cooperative Observations
+:Values are for the previous 24 hours ending at observation time.
+:...................................................................
+:       Station           | Obs  | Max | Min | 24-hr  | Snow | Snow  
+:        Name             | Time | Tmp | Tmp | Precip | Fall | Depth
+:...................................................................
+:
+:In Extreme Eastern Kansas...
+:
+ATHK1:Atchison            :DH0700/     /     /  0.00  /  0.0 /   0
+BASK1:Basehor 3NE         :DH0700/  58 /  30 /  0.00  /      /    
+CNVK1:Centerville 4SW     :DH0700/     /     /  0.00  /      /    
+HILK1:Hillsdale Lake      :DH    /     /     /  0.00  /      /    
+LVEK1:Leavenworth 3SW     :DH0723/  59 /  26 /  0.00  /  0.0 /   0
+MODK1:Mound City 1SSW     :DH0800/  63 /  26 /  0.00  /      /    
+:
+:...................................................................
+:       Station           | Obs  | Max | Min | 24-hr  | Snow | Snow  
+:        Name             | Time | Tmp | Tmp | Precip | Fall | Depth 
+:...................................................................
+:
+:In Northwest Missouri...
+:
+ALAM7:Albany              :DH0700/  54 /  29 /  0.00  /      /    
+BEYM7:Bethany             :DH0500/  53 /  28 /  0.00  /  0.0 /   0
+CAMM7:Cameron             :DH0632/  54 /  29 /  0.00  /  0.0 /   0
+CSBM7:Cosby 2W            :DH0700/  54 /  28 /  0.00  /  0.0 /   0
+GRTM7:Grant City 5WSW     :DH0800/  54 /  30 /  0.00  /  0.0 /   0
+RKPM7:Rockport 1NNW       :DH0700/     /     /  0.00  /      /    
+SJRM7:St Joseph Rosecrans :DH0600/     /     /  0.00  /      /    
+TAKM7:Tarkio              :DH0706/  55 /  29 /  0.00  /  0.0 /   0
+:
+:...................................................................
+:       Station           | Obs  | Max | Min | 24-hr  | Snow | Snow  
+:        Name             | Time | Tmp | Tmp | Precip | Fall | Depth 
+:...................................................................
+:
+:In North-Central Missouri...
+:                                             
+CHLM7:Chillicothe 2S      :DH0700/  53 /  29 /  0.00  /  0.0 /   0
+CLMM7:Coloma              :DH0700/     /     /  0.00  /  0.0 /   0
+GRCM7:Green City          :DH0700/  51 /  25 /  0.00  /  0.0 /   0
+KRKM7:Kirksville          :DH0600/  51 /  26 /  0.00  /      /    
+LBRM7:Long Branch Res.    :DH0800/  51 /  34 /  0.00  /      /    
+PRTM7:Princeton           :DH0700/  51 /  28 /  0.00  /  0.0 /   0
+SPKM7:Spickard 7W         :DH0700/  53 /  32 /  0.00  /  0.0 /   0
+TTNM7:Trenton             :DH0700/  52 /  31 /  0.00  /  0.0 /   0
+:
+:...................................................................
+:       Station           | Obs  | Max | Min | 24-hr  | Snow | Snow  
+:        Name             | Time | Tmp | Tmp | Precip | Fall | Depth 
+:...................................................................
+:
+:In West-Central Missouri...
+:
+BLKM7:Blue Lick           :DH0700/     /     /  0.00  /  0.0 /   0
+BSPM7:Blue Springs 2SSE   :DH0600/  57 /  30 /  0.00  /  0.0 /   0
+BUTM7:Butler              :DH0700/  58 /  30 /  0.00  /  0.0 /   0
+CRLM7:Carrollton          :DH0700/  57 /  30 /  0.00  /      /    
+CLNM7:Clinton             :DH0806/  66 /  27 /  0.00  /      /    
+ELMM7:Elm                 :DH0700/  63 /  28 /  0.00  /      /    
+GEEM7:Green Ridge 3SW     :DH0615/     /     /  0.00  /      /    
+HIGM7:Higginsville        :DH0800/  54 /  34 /  0.00  /  0.0 /   0
+MRHM7:Marshall            :DH0700/  56 /  31 /  0.00  /      /    
+NAPM7:Napoleon            :DH0700/  55 /  34 /  0.00  /      /    
+PLHM7:Pleasant Hill       :DH0700/  57 /  32 /  0.00  /  0.0 /   0
+RCMM7:Richmond 3S         :DH0700/  55 /  27 /  0.00  /  0.0 /   0
+SDLM7:Sedalia COOP        :DH0700/  55 /  27 /  0.00  /      /    
+SLKM7:Smithville Lake     :DH    /     /     /  0.00  /      /    
+SSPM7:Sweet Springs       :DH0700/  64 /  26 /  0.00  /  0.0 /   0
+VALM7:Valley City         :DH0700/     /     /  0.00  /  0.0 /   0
+WRRM7:Warrensburg 4NW     :DH0845/  56 /  32 /  0.00  /  0.0 /   0
+WAVM7:Waverly             :DH0700/  57 /  35 /  0.00  /  0.0 /   0
+WNSM7:Windsor             :DH0700/  55 /  29 /  0.00  /  0.0 /   0
+:
+:...................................................................
+:       Station           | Obs  | Max | Min | 24-hr  | Snow | Snow  
+:        Name             | Time | Tmp | Tmp | Precip | Fall | Depth 
+:...................................................................
+:
+:In Central Missouri...
+:
+BNLM7:Boonville           :DH0436/  59 /  40 /  0.00  /  0.0 /   0
+WIXM7:Moberly             :DH    /     /     /  0.00  /      /    
+SBYM7:Salisbury           :DH0600/  54 /  29 /  0.00  /  0.0 /   0
+.END
+
+
+These data are preliminary and have not undergone final quality 
+control. Therefore, these data are subject to revision. Final and 
+certified climate data can be accessed at the National Centers for 
+Environmental Information (NCEI) at www.ncei.noaa.gov
+
+$$
+
+

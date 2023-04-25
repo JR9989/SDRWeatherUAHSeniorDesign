@@ -1,0 +1,141 @@
+FXUS64 KSHV 241513
+AFDSHV
+
+Area Forecast Discussion
+National Weather Service Shreveport LA
+1013 AM CDT Mon Apr 24 2023
+
+...New UPDATE...
+
+.UPDATE...
+Issued at 1005 AM CDT Mon Apr 24 2023
+
+Partly to mostly cloudy skies continue near and south of the I-20
+Corridor in the form of 5-10kft moisture. With the aid of solar
+heating, should see this cloud cover begin to thin as we go
+through the afternoon. East to northeast winds and the thinning
+cloud cover will tend to limit daytime temperatures today of which
+the current forecast has a good handle on. Did make some minor
+adjustments to sky grids and hourly temperature grids but it will
+not warrant an updated zone package for this morning. 
+
+No update necessary this morning. 
+
+13
+
+&&
+
+.SHORT TERM...
+(Monday through Tuesday)
+Issued at 349 AM CDT Mon Apr 24 2023
+
+Weak subsidence from surface ridging overhead should be enough to
+keep the forecast area dry today, but this ridge will move away
+from the area late tonight setting the stage for the return of
+precip chances tonight and into Tuesday. Mid-level moisture
+remains pooled along a weak 850 hPa front, which will slowly lift
+northward today. The persistent and relatively thick cloud cover
+combined with weak low-level cooler air advection will keep
+temperatures well below normal today. Most locations should warm
+into the mid to upper 60s.
+
+During the day Tuesday, a couple of weak disturbances in the flow
+aloft will move across the Southern Plains ahead of an upper
+trough digging through the Central Rockies. At the same time, a
+surface low will rapidly develop over the High Plains of Southeast
+Colorado/Northeast New Mexico. As a result, southeasterly surface
+winds will return to most of the forecast area by Tuesday 
+afternoon. Low-level warm air advection will quickly return along
+with moisture from the Gulf. Much of the deterministic and 
+ensemble guidance have become considerably less aggressive with 
+precip across the area during the day Tuesday, so PoPs were
+lowered somewhat from the 05z NBM values. Most of the widespread
+showers will develop across Oklahoma and Arkansas closer to the 
+weak disturbances passing overhead in a zone of warm air advection.
+
+Of greater concern is the potential for severe convection that may
+develop late Tuesday afternoon. Most of this activity should be 
+west of the forecast area in North and Central Texas near a warm 
+front that is expected to develop. Some of these storms could 
+affect our western zones in Southeast Oklahoma and East Texas. 
+However, there is a great deal of uncertainty. At this time, it 
+appears the greatest severe weather threat will be west of our 
+area, but storms moving north and east of the warm front into
+Southeast Oklahoma and East Texas could become elevated and pose 
+a threat for damaging winds and large hail. 
+
+CN
+
+&&
+
+.LONG TERM...
+(Tuesday Night through Monday)
+Issued at 349 AM CDT Mon Apr 24 2023
+
+A series of disturbances will maintain unsettled weather for the Ark-
+La-Tex through the rest of the workweek. This is a result of zonal 
+flow aloft that steers a shortwave and an upper-level trough (in 
+that order) across the Great Plains into the area. The first of 
+which will instigate chances of showers and thunderstorms through 
+Wednesday, while the following trough will keep the precipitation 
+going through Thursday. Paltry dynamics from the synoptic 
+orientation of the trough will limit higher-end severe thunderstorm 
+potential through the week. That said, the severe weather threat 
+that is possible on Wednesday, due to adequate shear and lapse 
+rates across east Texas, will involve the potential for large hail
+while tornadoes cannot be ruled out. By Friday the next frontal 
+boundary will be well on its way through the Ouachita Mountains 
+into the Four State Region, ending the wet weather pattern in time
+for the weekend. 
+
+Precipitation/cloud cover will moderate temperature maximums into 
+the 70s and minimums in the 50s (near average for this time of the 
+year) with QPF total values of about 2 to 3 inches expected before 
+calmer conditions arrive next weekend. Post-frontal temperatures 
+after Friday will trend just below average before a gradual warmup 
+by the beginning of the following week. /16/
+
+&&
+
+.AVIATION...
+(12Z TAFS)
+Issued at 634 AM CDT Mon Apr 24 2023
+
+VFR conditions will continue to prevail for the next 24 hours.
+While most locations will continue to experience abundant mid
+level clouds, some clear may occur north of Interstate 20 today
+before more clouds rapidly move into the area from the west after
+25/00z. Scattered showers, possibly a couple of thunderstorms,
+could affect portions of Northeast Texas, Southwest Arkansas, and
+Southeast Oklahoma after 25/06z. However, any convection that
+develops is expected to remain north of the TAF sites through the
+end of the period.
+
+CN
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+SHV  69  53  72  57 /   0  20  40  50 
+MLU  69  51  74  55 /   0  10  30  40 
+DEQ  69  50  63  50 /   0  40  60  70 
+TXK  70  52  67  52 /   0  20  50  70 
+ELD  68  50  69  50 /   0  20  30  50 
+TYR  68  55  73  59 /  10  30  50  60 
+GGG  68  53  73  57 /  10  20  50  60 
+LFK  70  55  77  60 /  10  20  40  50 
+
+&&
+
+.SHV WATCHES/WARNINGS/ADVISORIES...
+AR...None.
+LA...None.
+OK...None.
+TX...None.
+&&
+
+$$
+
+SHORT TERM...09
+LONG TERM....16
+AVIATION...09

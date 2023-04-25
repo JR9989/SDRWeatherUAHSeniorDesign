@@ -1,0 +1,157 @@
+FXUS66 KLOX 241636
+AFDLOX
+
+Area Forecast Discussion
+National Weather Service Los Angeles/Oxnard CA 
+936 AM PDT Mon Apr 24 2023
+
+.SYNOPSIS...24/932 AM.
+
+Offshore trends and a ridge building into the region midweek will
+shrink the marine layer influence towards the coast and result in
+warmer and drier conditions, especially for coastal valley to 
+interior areas.
+
+&&
+
+.SHORT TERM (TDY-WED)...24/932 AM.
+
+***UPDATE***
+
+As promised it looks like we are on track for our May Grey
+preview today, especially for southern areas where the marine
+layer is deepest (around 2500 feet) with the most widespread low
+clouds. A strong inversion and weak eddy will likely lead to slow
+to no clearing for some coastal areas, focused along and south of
+Santa Barbara. Temperatures today will be similar to yesterday for
+most areas. Another round of low end advisory level wind looks on
+track (50-70 percent chance) for western Antelope Valley and the
+I-5 cooridor through the mountains with a lesser (30-40) percent
+chance of reaching advisory levels for western portions South 
+Coast of Santa Barbara County. Forecast and associated hazards are
+in good shape with only minor tweaks to update cloud and patchy
+fog coverage for this morning. 
+ 
+***From Previous Discussion***
+
+It looks like the area will get a preview of May Grey today. A 
+1500 ft marine layer spun up by a decent eddy has brought low 
+clouds to the coasts and most of the vlys of VTA/LA counties. The 
+SBA south coast remains clear due to the sundowner winds but as 
+those winds subside low clouds will likely push into the SBA city 
+towards dawn. North of Point Conception onshore flow has brought 
+low clouds to the Central Coast and Santa Ynez Vly. Additionally 
+low clouds have moved in from the north and now cover the Paso 
+Robles area. The afternoon onshore push to the east is forecast to
+be 2 MB stronger than ydy and this will delay clearing and its 
+likely that more than a few beaches will remain cloudy all day. 
+The csts and vlys of VTA/LA county will cool due to the low clouds
+and onshore flow. The SBA south coast will warm as there will be 
+weak offshore flow across that area and the Central Coast will 
+warm some as the KSMX-KBFL gradient will be a little weaker in 
+the afternoon. Winds have subsided this morning but expect another
+advisory level wind event down the I-5 corridor and across the 
+western portion of the Antelope Vly. There will be another 
+sundowner as well but a little weaker than last evening's.
+
+Look for a similar stratus pattern tonight but with quicker and 
+more complete clearing in the morning due to weakening onshore
+flow esp in the W to E direction. The earlier clearing along with
+weaker onshore flow will bring about 2 to 5 degrees of warming
+most everywhere xcp for the SBA south coast where there will much
+less north flow coming off of the Santa Ynez range.
+
+Hgts rise to 578 dam on Wednesday as a ridge pushes close to the
+west coast. More importantly high pressure building into NV will
+generate offshore flow from the east (the NAM has 4 mb of offshore
+flow which seems high and think the GFS/EC blend of 2 mb is
+better) There will be much less marine layer clouds and likely
+none in the vlys. Low clouds that due develop will dissipate 
+early. Offshore flow and rising hgts equals warming temps and the 
+csts/vlys will see 5 to 10 locally 12 degrees of warming and 2 to 
+5 degrees across the interior. Most vlys temps will be in the 80s.
+
+.LONG TERM (THU-SUN)...24/314 AM.
+
+Medium range deterministic and ensemble based fcsts agree that
+ridging will cover the state through the xtnd pattern. But there
+is substantial disagreement on the sfc pressure values. The EC is
+has much weaker onshore flow each day compared to the GFS. Looking
+at the ensembles it seems that the GFS is little too aggressive
+and the forecast follows the EC. There will be a coastal night
+through morning low cloud and fog pattern. Temps will rise a
+little more on Thursday but will then not change much day to day
+Friday through the weekend. Max temps will be 5 to 10 degrees
+above normal through the period.
+
+&&
+
+.AVIATION...24/1203Z.
+
+At 0912Z at KLAX, the marine layer was around 2200 ft deep. The top
+of the inversion was around 5300 ft with a temperature of 14 C.
+
+Moderate confidence in TAFs (except good confidence in desert
+TAFs). VFR transitions may occur 2 hours later than fcst and 
+sites right at the coast have a 25% of not clearing at all. Low 
+clouds may arrive 2 hours earlier than fcst at cstl site late 
+Monday afternoon.
+
+KLAX...Moderate confidence in TAF. There is a 25% chance of no 
+clearing at all. There is a 30% chc of an 8 kt east wind 
+component 10Z-16Z both Mon and Tues.
+
+KBUR...Moderate confidence in TAF with transition to VFR conds as
+late as 18Z.
+
+&&
+
+.MARINE...24/916 AM.
+
+For the Outer Waters, moderate to high confidence in current 
+forecast. There is a 30% chance that Gale force winds drop below
+warning levels briefly this morning, but good confidence winds
+will restrengthen by this afternoon and continue through this evening.
+High confidence in winds decreasing to Small Craft Advisory (SCA)
+levels overnight tonight and continuing through Tuesday with SCA
+seas dropping below advisory levels by Tuesday evening. For 
+Wednesday and Thursday, high confidence in winds and seas dropping
+below SCA levels. There is a 30-40% chance of SCA level winds
+starting Friday afternoon.
+
+For the Inner Waters north of Point Sal, moderate to high
+confidence in current forecast. Through Tuesday, SCA level winds 
+will likely develop each afternoon and evening. For Wednesday 
+through Friday, high confidence in winds and seas remaining below 
+SCA levels.
+
+For the Inner Waters south of Point Conception, moderate to high
+confidence in current forecast. For the western half of the Santa
+Barbara Channel, there is a 60% chance of SCA level winds during 
+the afternoon/evening hours today and Tuesday. Otherwise, high 
+confidence in winds and seas remaining below SCA levels through 
+Friday for the remainder of the southern Inner Waters.
+
+&&
+
+.LOX WATCHES/WARNINGS/ADVISORIES...
+CA...Wind Advisory in effect from 3 PM this afternoon to 3 AM PDT
+      Tuesday for zones 378-381-383. (See LAXNPWLOX).
+PZ...Small Craft Advisory in effect from 3 PM this afternoon to 3
+      AM PDT Tuesday for zones 645-650. (See LAXMWWLOX).
+     Gale Warning in effect until 9 PM PDT this evening for zones
+      670-673-676. (See LAXMWWLOX).
+
+&&
+
+$$
+
+PUBLIC...Munroe/Rorke
+AVIATION...Lund
+MARINE...Sweet/Lund
+SYNOPSIS...Munroe
+
+weather.gov/losangeles
+
+Experimental Graphical Hazardous Weather Outlook at:
+https://www.weather.gov/erh/ghwo?wfo=lox

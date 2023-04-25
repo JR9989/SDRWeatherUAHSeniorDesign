@@ -1,0 +1,359 @@
+FOUS53 KBIS 241449
+PFMBIS
+
+Point Forecast Matrices
+National Weather Service Bismarck ND
+948 AM CDT Mon Apr 24 2023
+
+NDZ015-242200-
+Bismarck/Mandan-Burleigh/Morton ND
+46.79N 100.78W Elev. 1643 ft
+948 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      51          24          51          32          58
+Temp                37 46 49 48 36 29 26 25 36 46 49 49 40 36 35 35 43 52 54 53
+Dewpt               25 24 24 23 24 22 20 19 22 24 25 26 27 26 25 25 31 37 38 35
+RH                  61 42 37 37 61 75 78 78 56 42 39 40 59 67 66 66 62 56 54 50
+Wind dir             E  E  E  E  E  E  E  E  E SE SE SE SE SE SE  S  S SW  W NW
+Wind spd             8 12 14 14 13 12  9  9 11 12 13 12  9 10 13 12 13 16 16 13
+Clouds              FW FW FW SC SC SC SC SC SC SC SC SC SC B1 B1 B2 B2 B2 B2 B1
+PoP 12hr                      0           0           0          10          60
+QPF 12hr                      0           0           0           0        0.05
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  L  L   
+Wind chill          31          27 19 17 16 28          34 29 26 26 36         
+Min chill              25          19    16    17          29    25    29      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          33    56      32    48      30    53      32    53
+Temp          37 35 51 49   37 33 43 45   35 31 48 51   37 33 48 50
+Dewpt         29 28 33 34   31 29 28 27   27 27 28 30   28 27 28 27
+PWind dir         W    NW       N     N       N    NW       N     N
+Wind char        LT    GN      GN    BZ      GN    GN      GN    BZ
+Avg clouds    SC SC B1 B1   B1 B1 B1 B1   B1 SC SC SC   SC SC SC SC
+PoP 12hr         10    40      40    30      10    20      10    20
+Rain shwrs              C    C  C  C  C             S             S
+
+$$
+NDZ033-242200-
+Dickinson-Stark ND
+46.80N 102.81W Elev. 2591 ft
+848 AM MDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+MDT 3hrly     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      53          27          51          36          58
+Temp                39 48 52 51 39 32 29 27 36 45 49 49 42 39 38 37 46 52 54 53
+Dewpt               22 23 22 23 24 24 23 22 23 25 27 28 30 30 31 32 36 37 33 29
+RH                  50 37 31 33 54 72 78 81 59 45 42 44 62 70 76 82 68 56 45 39
+Wind dir            SE SE SE  E  E  E SE  E SE SE SE SE SE  S  S  S SW  W NW NW
+Wind spd            13 18 18 20 18 18 14 12 14 17 14 13 10 14 14 13 16 17 18 18
+Wind gust                       28 28 25                                  28   
+Clouds              FW FW FW FW FW SC SC SC B1 B1 B1 SC SC B2 B2 B2 B2 B2 B1 B1
+PoP 12hr                      0           0           5          10          30
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        S  S  C  C   
+Wind chill          31          30 20 18 16 27 38       36 31 29 28 39         
+Min chill              26          20    16    17          31    28    31      
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+MDT 6hrly     00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            35    54      32    45      30    52      32    52
+Temp          39   38 50 47 36   33 40 44 34   32 48 50 37   33 48 50
+Dewpt         28   29 33 32 32   30 27 27 28   27 28 29 29   28 27 27
+PWind dir           W    NW      NW     N      NW    NW      NW     N
+Wind char          GN    GN      BZ    BZ      GN    BZ      GN    GN
+Avg clouds    SC   SC B1 B2 B1   B1 B2 B2 B1   B1 B1 SC SC   SC SC SC
+PoP 12hr            5    40      40    30      10    20       5    10
+Rain shwrs             S  C  C    C  C  C             S              
+Snowshwrs                         S  C                               
+
+$$
+NDZ044-242200-
+Hettinger-Adams ND
+45.99N 102.63W Elev. 2703 ft
+848 AM MDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+MDT 3hrly     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      55          28          51          35          61
+Temp                40 50 54 53 41 34 31 28 35 44 49 49 42 39 38 37 47 56 58 56
+Dewpt               18 20 21 22 23 24 23 23 24 26 28 29 31 31 32 33 37 37 35 29
+RH                  41 30 27 29 48 66 72 81 64 49 44 46 65 73 79 85 68 49 42 35
+Wind dir            SE SE SE  E  E  E  E  E  E SE SE SE SE SE  S  S SW  W NW NW
+Wind spd            12 18 20 20 20 20 18 16 17 17 16 13 10 13 13 12 13 14 20 18
+Wind gust                          33 28 26 27                            31   
+Clouds              FW SC FW FW FW SC SC B1 B2 B2 B2 B1 B1 B1 B2 B2 B2 B2 B1 SC
+PoP 12hr                      0           5          10          10          20
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                              S  S   
+Wind chill          33          32 22 19 16 25 36       36 31 30 29            
+Min chill              27          22    16    19    39    31    28    33      
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+MDT 6hrly     00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            36    59      33    48      30    54      31    55
+Temp          40   38 54 50 36   33 41 45 35   31 48 51 37   32 49 52
+Dewpt         29   30 31 30 32   31 27 25 28   28 28 27 29   27 26 26
+PWind dir           W    NW      NW     N      NW    NW       N     N
+Wind char          GN    BZ      BZ    BZ      GN    BZ      GN    BZ
+Avg clouds    SC   SC B1 B2 B1   B1 B2 B1 B1   B1 SC B1 SC   SC SC SC
+PoP 12hr            5    40      40    20      10    10       5     5
+Rain shwrs                C  C    C  S                               
+
+$$
+NDZ011-242200-
+Minot-Ward ND
+48.28N 101.27W Elev. 1715 ft
+948 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      50          25          51          35          56
+Temp                37 46 50 48 37 29 26 25 36 46 50 49 40 37 37 38 45 49 53 52
+Dewpt               26 24 22 23 24 23 21 21 23 23 23 24 28 28 28 30 34 35 33 29
+RH                  64 42 33 37 59 78 81 84 59 40 34 37 62 70 70 73 65 58 46 41
+Wind dir            SE SE SE  E SE SE SE  E SE SE SE SE SE  S  S  S  S SW NW NW
+Wind spd             9 12 14 16 12 10  9  8 12 14 14 13 11 13 18 18 18 18 18 18
+Wind gust                                                     28 28            
+Clouds              FW FW SC SC FW FW SC SC SC SC SC SC B1 B2 B2 B2 B2 B2 SC SC
+PoP 12hr                      0           0           0          10          60
+QPF 12hr                      0           0           0           0        0.04
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        L  L  L  L  S
+Wind chill          30          29 20 17 16 28          33 28 27 28 37         
+Min chill              26          20    16    18          28    27    31      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          36    53      34    48      32    53      33    52
+Temp          40 37 50 47   38 34 44 45   37 34 49 50   39 34 48 48
+Dewpt         29 30 32 32   32 31 29 28   29 29 30 31   31 30 30 29
+PWind dir         W    NW       N     N      NW    NW       N     N
+Wind char        GN    GN      GN    BZ      GN    GN      GN    BZ
+Avg clouds    SC SC B1 B1   B1 B2 B1 B1   B1 B1 B1 SC   SC SC SC SC
+PoP 12hr         20    50      40    30      20    20      10    10
+Rain shwrs     S     C  C    C  C  C  S       S  S  S              
+
+$$
+NDZ037-242200-
+Jamestown-Stutsman ND
+46.93N  98.68W Elev. 1499 ft
+948 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      44          21          46          27          52
+Temp                37 44 43 40 30 25 23 21 34 42 44 42 32 29 29 30 38 46 49 46
+Dewpt               26 27 25 25 21 19 18 17 21 24 26 26 24 23 23 24 27 32 37 38
+RH                  64 51 49 55 69 78 81 84 58 48 49 53 72 78 78 78 64 58 63 73
+Wind dir             E  E  E  E  E  E  E  E  E  E  E  E  E SE  S  S  S  S  S SW
+Wind spd             4  8 10 10  6  6  6  6  9 10 10  9  8  8 10 11 16 19 19 14
+Wind gust                                                              29      
+Clouds              FW FW FW FW SC FW FW FW FW FW FW SC SC B1 B2 B2 B2 B2 B2 OV
+PoP 12hr                      0           0           0           5          60
+QPF 12hr                      0           0           0           0        0.13
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        S  S  L  L  C
+Wind chill                37 33 23 17 15 12 27 36 38 36 25 21 20 20 29 38      
+Min chill              31    33    17    12    15    36    21    20    23      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          32    54      31    46      29    50      30    49
+Temp          36 33 49 45   36 33 41 42   33 31 47 48   34 32 46 45
+Dewpt         31 28 34 35   31 30 31 30   27 27 30 31   29 28 31 31
+PWind dir         W     W       N     N       N     N      NW     N
+Wind char        GN    GN      GN    BZ      GN    BZ      GN    BZ
+Avg clouds    B1 SC B1 B1   B2 B1 B2 B1   B1 B1 B1 B1   SC SC SC SC
+PoP 12hr         40    40      40    40      20    20      20    20
+Rain shwrs     C        C    C  C  C  C    S  S  S  S    S     S  S
+
+$$
+NDZ001-242200-
+Williston-Williams ND
+48.17N 103.59W Elev. 1981 ft
+948 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      52          29          56          38          56
+Temp                41 50 52 50 42 34 31 29 38 49 55 55 48 42 40 40 44 50 55 54
+Dewpt               25 25 25 26 27 25 25 23 25 27 29 30 33 32 33 35 36 34 30 28
+RH                  52 37 35 39 55 69 78 78 59 42 37 38 56 67 76 82 73 54 38 36
+Wind dir            SE SE SE  E  E  E  E  E SE SE SE SE SE  S  S  S  W NW NW NW
+Wind spd            14 18 20 20 20 21 16 11 14 16 17 16 16 18 17 13 13 18 23 19
+Wind gust                       36 35 26                               28    29
+Clouds              FW SC SC SC SC B1 B1 SC SC SC SC SC B2 B2 B2 OV B2 B1 SC SC
+PoP 12hr                      0           0           0          20          30
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                  S  S  C  C  S  S   
+Wind chill          33          33 22 20 19 29             33 31 32 37         
+Min chill              29          22    19    21          33    31    33      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          35    52      33    49      32    55      32    54
+Temp          40 37 47 47   38 33 44 47   35 33 50 53   39 33 50 52
+Dewpt         29 30 34 34   32 30 29 29   29 29 31 31   31 28 30 29
+PWind dir         W    NW       N     N      NW    NW       N     N
+Wind char        GN    GN      GN    BZ      GN    GN      GN    GN
+Avg clouds    SC B1 B2 B2   B1 B1 B1 B1   B1 B1 SC SC   SC SC SC SC
+PoP 12hr         10    50      40    30      10    20       5    10
+Rain shwrs           C  C    C  S  C  S             S              
+
+$$
+NDZ021-242200-
+Garrison-McLean ND
+47.62N 101.39W Elev. 1936 ft
+948 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      50          24          50          32          56
+Temp                35 45 49 47 35 28 26 24 34 44 49 48 39 35 35 35 42 49 53 52
+Dewpt               26 24 22 23 23 23 21 20 22 24 24 26 27 28 28 28 33 37 34 30
+RH                  69 43 34 38 61 81 81 84 61 45 37 42 62 75 75 75 70 63 48 43
+Wind dir            SE SE SE  E  E  E  E  E SE SE SE SE SE SE  S  S  S SW NW NW
+Wind spd             9 12 14 16 14 12 11  9 12 12 12 12 10 13 13 14 16 16 18 18
+Clouds              FW FW SC SC SC SC SC SC SC SC SC SC SC B1 B2 B2 B2 B2 B1 SC
+PoP 12hr                      0           0           0          10          60
+QPF 12hr                      0           0           0           0        0.02
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        C  C  L  L   
+Wind chill          28 39       25 17 15 14 25 38       32 26 26 25 34         
+Min chill              24          17    14    15          26    24    28      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          33    53      31    47      29    52      30    51
+Temp          37 34 47 47   36 32 42 45   33 30 47 50   36 31 46 47
+Dewpt         29 28 33 32   31 29 28 28   27 27 31 30   29 28 29 28
+PWind dir         W    NW       N     N       N    NW       N     N
+Wind char        GN    GN      GN    BZ      GN    GN      GN    BZ
+Avg clouds    SC SC B2 B1   B2 B2 B1 B1   B1 B1 B1 SC   SC SC SC SC
+PoP 12hr         10    50      40    30      20    20      10    20
+Rain shwrs           C  C    C  C  C  C    S        S             S
+
+$$
+NDZ043-242200-
+Bowman-Bowman ND
+46.18N 103.40W Elev. 2959 ft
+848 AM MDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+MDT 3hrly     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      55          29          49          35          58
+Temp                39 50 53 53 42 36 31 29 36 42 47 48 41 39 38 37 46 54 55 54
+Dewpt               19 22 23 23 23 24 23 23 26 29 30 31 33 33 33 35 38 37 33 29
+RH                  44 33 31 31 46 61 72 78 67 60 51 51 73 79 82 92 73 52 43 38
+Wind dir            SE SE SE SE  E SE SE  E SE SE SE SE SE  S  S  S SW  W NW NW
+Wind spd            16 21 23 21 20 23 20 17 19 18 17 14 11 14 14 12 16 18 18 17
+Wind gust                       32 36 33 28                               28   
+Clouds              SC SC FW FW FW SC SC B1 B2 B2 B2 B1 B1 B1 B1 B2 B2 B2 B1 SC
+PoP 12hr                      0           0          10          10          20
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                              S  S   
+Wind chill          30          33 24 18 17 25 33       34 31 29 29 39         
+Min chill              26          24    17    17    37    31    28    31      
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+MDT 6hrly     00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            36    57      31    47      30    52      31    54
+Temp          40   38 52 48 36   32 39 43 33   31 47 50 37   32 48 51
+Dewpt         29   31 33 31 31   29 28 27 29   28 28 28 30   27 26 26
+PWind dir           W    NW      NW     N      NW    NW       N     N
+Wind char          GN    BZ      BZ    BZ      GN    BZ      GN    GN
+Avg clouds    SC   SC B2 B2 B1   B1 B2 B2 B1   B1 SC SC SC   SC SC SC
+PoP 12hr            5    40      40    30      10    10       5     5
+Rain shwrs             S  C  C    C  C                               
+Snowshwrs                         S  C                               
+Tstms                     S                                          
+
+$$
+NDZ045-242200-
+Selfridge-Sioux ND
+46.04N 100.92W Elev. 2185 ft
+948 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      51          27          51          36          60
+Temp                38 47 51 48 39 32 28 27 37 45 50 50 43 39 37 37 45 54 54 53
+Dewpt               22 20 20 23 26 24 22 22 23 22 23 24 29 28 26 28 34 37 40 34
+RH                  52 34 29 37 59 72 78 81 56 40 34 36 57 64 64 70 65 52 59 48
+Wind dir            SE  E  E  E  E  E  E  E  E  E SE SE SE SE SE  S  S SW  W NW
+Wind spd            11 13 16 18 17 16 14 12 16 16 14 13 12 14 14 16 18 20 18 17
+Wind gust                       27 26                                          
+Clouds              FW FW FW FW SC SC FW SC SC SC SC SC SC B1 B2 B2 B2 B2 B2 B1
+PoP 12hr                      0           0           5          10          60
+QPF 12hr                      0           0           0           0        0.02
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                                                        S  S  L  L   
+Wind chill          31          30 21 16 16 28 38       36 31 28 28 37         
+Min chill              25          21    16    18          31    26    30      
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          36    57      34    45      32    50      33    51
+Temp          40 38 52 50   39 35 41 45   36 33 46 49   39 34 47 50
+Dewpt         31 31 32 32   34 31 27 26   29 28 28 30   31 29 28 27
+PWind dir         W     W      NW     N       N    NW      NW     N
+Wind char        GN    GN      BZ    BZ      GN    BZ      GN    BZ
+Avg clouds    SC SC B1 B1   B1 B1 B1 B1   B1 B1 SC SC   SC SC SC SC
+PoP 12hr         10    40      40    30      10    20      10    10
+Rain shwrs              C    C  C  C  S             S              
+
+$$

@@ -1,0 +1,191 @@
+ASUS41 KAKQ 241511
+RWRAKQ
+
+REGIONAL WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE WAKEFIELD VA
+1100 AM EDT MON APR 24 2023
+
+Note: "fair" indicates few or no clouds below 12,000 feet with no
+significant weather and/or obstructions to visibility. * = Denotes
+station may not report precipitation (e.g., rain,snow,etc.),
+thunder or fog.
+
+VAZ042-051-052>054-056-241600-
+NORTHERN VIRGINIA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+WASH NATIONAL  MOSUNNY   54  31  41 NW7       30.13F                  
+DULLES         MOSUNNY   54  28  36 NW9G22    30.12F                  
+FORT BELVOIR   MOSUNNY   55  27  34 NW13G18   30.11F                  
+QUANTICO       SUNNY     56  31  38 NW8       30.14F                  
+FREDERICKSBRG* SUNNY     54  30  40 NW12      30.12F                  
+STAFFORD*      SUNNY     60  33  36 NW5       30.13F                  
+WARRENTON      MOSUNNY   56  20  24 NW9G18    30.13F                  
+CULPEPER*      PTSUNNY   54  29  38 NW6       30.14F                  
+MANASSAS*      MOSUNNY   55  30  38 NW13      30.13F                  
+LEESBURG*      MOSUNNY   54  34  47 NW14      30.14S                  
+WINCHESTER     PTSUNNY   46  28  49 W7        30.12S                  
+FRONT ROYAL*   PTSUNNY   46  28  49 N6        30.13R                  
+LURAY*         CLOUDY    48  27  43 NW9       30.13R                  
+$$
+
+VAZ048-049-060>072-079>083-241600-
+CENTRAL AND SOUTH CENTRAL VIRGINIA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+RICHMOND       PTSUNNY   56  30  37 N9        30.13F                  
+CHESTERFIELD*  PTSUNNY   53  25  33 NE7       30.15R                  
+PETERSBURG*    CLOUDY    53  28  37 CALM      30.15S                  
+HANOVER        SUNNY     56  29  35 NW8       30.14F                  
+TAPPAHANNOCK*  PTSUNNY   53  34  49 N3        30.14S                  
+QUINTON*       FAIR      54  33  44 N5        30.13S                  
+CHARLOTTSVILLE MOSUNNY   54  28  36 VRB3      30.13S                  
+GORDONSVILLE*  FAIR      52  27  38 CALM      30.13S                  
+ORANGE*        SUNNY     52  28  40 CALM      30.15S                  
+LOUISA*        SUNNY     54  29  38 N10       30.14S                  
+BUMPASS*       FAIR      53  29  39 MISG      30.13F                  
+FARMVILLE*     PTSUNNY   55  28  36 CALM      30.13S                  
+CREWE*         PTSUNNY   51  23  32 CALM      30.14S                  
+FORT PICKETT*  CLOUDY    54  29  38 NE3       30.15R                  
+CHASE CITY*    CLOUDY    53  30  42 MISG      30.14S                  
+CLARKSVILLE*   PTSUNNY   54  32  43 N3        30.15S                  
+SOUTH HILL*    PTSUNNY   54  33  44 N8        30.20R                  
+LAWRENCEVILLE* CLOUDY    55  32  42 N6        30.15S                  
+EMPORIA*       CLOUDY    53  35  49 N7        30.16R                  
+$$
+
+VAZ088>098-241600-
+SOUTHEAST VIRGINIA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+NORFOLK        CLOUDY    52  43  71 NE9       30.11S                  
+VIRGINIA BEACH CLOUDY    53  40  61 N9        30.11R                  
+NORFOLK NAVAL  CLOUDY    55  46  71 NE9       30.13S                  
+WEST POINT*    CLOUDY    52  32  46 CALM      30.14S                  
+SALUDA*        CLOUDY    51  37  60 NW6       30.13S                  
+NEWPORT NEWS   CLOUDY    52  42  69 N7        30.13S                  
+LANGLEY AFB    CLOUDY    53  46  78 NW9       30.11S                  
+FORT EUSTIS    NOT AVBL                                               
+WILLIAMSBURG*  NOT AVBL                                               
+HR EXEC AP*    CLOUDY    53  43  68 MISG      30.13R                  
+FRANKLIN*      CLOUDY    51  38  60 N3        30.14R                  
+US460-WAKEFLD  CLOUDY    53  37  54 VRB5      30.13S                  
+$$
+
+VAZ020-022-025-037-045-241600-
+WEST CENTRAL AND SOUTHWEST VIRGINIA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+STAUNTON*      PTSUNNY   49  26  41 CALM      30.14S                  
+WAYNESBORO*    FAIR      47  27  44 CALM      30.12S                  
+HOT SPRINGS VA SUNNY     40  23  50 NW10G17   30.07S                  
+LYNCHBURG      SUNNY     54  28  36 VRB6      30.13S                  
+DANVILLE       SUNNY     54  30  40 VRB7      30.15F                  
+SOUTH BOSTON*  CLOUDY    53  28  38 CALM      30.15F                  
+MARTINSVILLE   SUNNY     52  24  33 NW3       30.17F                  
+ROANOKE        SUNNY     53  25  33 NW12      30.15F                  
+BLACKSBURG     SUNNY     48  29  47 W9        30.15S                  
+DUBLIN*        SUNNY     46  29  52 CALM      30.12S                  
+MARION*        SUNNY     44  26  48 W15G22    30.15S                  
+HILLSVILLE*    SUNNY     44  22  41 NW13G18   30.10F                  
+RICHLANDS*     PTSUNNY   43  29  59 W8        30.15S                  
+WISE*          SUNNY     41  23  48 N8        30.17S                  
+ABINGDON*      SUNNY     44  25  45 N5        30.16F                  
+$$
+
+MDZ021>025-VAZ099-100-241600-
+SOUTHERN MARYLAND AND THE DELMARVA PENINSULA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PATUXENT RIVER PTSUNNY   56  31  38 NW6       30.12S                  
+BAY BRIDGE APT MOSUNNY   53  31  43 N7        30.12S                  
+LEONARDTOWN    CLOUDY    52  32  46 N3        30.14S                  
+DOVER          PTSUNNY   52  31  45 CALM      30.09S                  
+GEORGETOWN     CLOUDY    52  36  54 VRB5      30.11R                  
+EASTON         MOSUNNY   52  32  46 NW5       30.15R                  
+CAMBRIDGE      PTSUNNY   52  32  46 NW8       30.12S                  
+SALISBURY      CLOUDY    51  37  58 NW6       30.11R                  
+TANGIER        CLOUDY    52  37  56 N10       30.12S                  
+OCEAN CITY     CLOUDY    50  41  71 NW6       30.11                   
+WALLOPS ISLAND CLOUDY    49  41  74 NW6       30.12R                  
+ACCOMACK*      NOT AVBL                                               
+$$
+
+NCZ012>017-030>032-241600-
+NORTH CENTRAL AND EASTERN NORTH CAROLINA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ROANOKE RAPIDS CLOUDY    50  39  66 NE8       30.14S                  
+RALEIGH        MOSUNNY   56  32  40 NE12G18   30.14S                  
+ELIZABETH CITY CLOUDY    54  40  59 N14       30.11R                  
+AHOSKIE*       CLOUDY    50  36  58 N6        30.13S                  
+EDENTON*       CLOUDY    58  49  73 N8        30.12R                  
+CURRITUCK*     CLOUDY    53  37  54 N13G20    30.11R                  
+KILL DEVIL HLS CLOUDY    56  45  67 N8G17     30.07S                  
+MANTEO         PTSUNNY   57  46  66 NE17G23   30.08S                  
+CAPE HATTERAS  CLOUDY    62  59  90 N8        30.05R                  
+TARBORO*       CLOUDY    52  35  52 N8        30.14R                  
+GOLDSBORO      CLOUDY    54  35  49 N15       30.10R                  
+WASHINGTON     PTSUNNY   56  41  56 N10G16    30.11R                  
+GREENVILLE     CLOUDY    55  37  50 N14       30.12S                  
+NEW BERN       CLOUDY    57  48  72 N13       30.10R                  
+WILMINGTON     CLOUDY    62  53  72 N9        30.09R                  
+$$
+
+VAZ048-241600-
+ELSEWHERE
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+HARRISBURG PA  MOSUNNY   52  34  50 W8        30.09F                  
+BALTIMORE      MOSUNNY   56  31  38 NW10      30.10F                  
+ANNAPOLIS      SUNNY     53  32  44 NW8       30.11F                  
+ANDREWS AFB    SUNNY     53  31  42 N3        30.09F                  
+PHILADELPHIA   MOSUNNY   52  28  39 W8        30.08F                  
+HENDERSON NC   MOSUNNY   52  28  40 NE5       30.15S                  
+GREENSBORO     MOSUNNY   53  31  42 VRB5      30.14S                  
+ROCKY MOUNT    CLOUDY    55  33  43 N12       30.14R                  
+$$
+
+VAZ100-241600-
+MARINE
+  
+STATION/POSITION TIME  TEMP    WIND        PRES    WAVE   SWELL
+                       AIR SEA DIR/SP/G            HT/PER HT/PER
+                 (UTC) (F)     (DEG/KT/KT) (MB)    (FT/S) (FT/S)
+CAPE MAY NJ      1430   51      CALM  /  5 1019.0R
+LEWES DE         1430   50 58  350/ 10/ 11 1019.5R
+15NM E FENWICK I 1450      55  360/ 10/ 12   N/A     3/10   3/10
+OCEAN-CITY-INLET 1430   49 58  330/  5/  8 1019.7R
+44089 WALLOPS IS 1426      54                N/A     3/11   2/11
+WACHAPREAGUE VA  1424   47 63  350/  3/  6 1019.0
+THOMAS POINT MD  1500   50     320/  5/  5 1020.7F
+GOOSES REEF MD   1442   49 60  350/ 10/ 17 1021.4R   1/ 7
+COVE POINT MD    1430   50     280/ 12/ 13 1020.4R
+SOLOMONS ISLAND  1430   51 61  310/  4/  8 1018.8R
+BISHOPS HEAD MD  1430   51 62   10/  5/  8 1020.0R
+PINEY POINT MD   1424           20/  9/ 12   N/A
+POTOMAC MD       1442   51 61  340/ 12/ 16   N/A     1
+CAMBRIDGE MD     1430   51 64   30/  5/  7 1019.8R
+LEWISETTA VA     1424   52 61   10/  7/ 10 1020.0
+RAPPAHANNOCK LGT 1424          350/ 12/ 17 1020.2
+STINGRAY PT      1442   50 62  320/ 10/ 16   N/A     2/ 3
+YORK RVR RNG VA  1424   52      10/  8/ 11 1019.8
+YORKTOWN VA      1424   50 63  340/  9/ 11 1018.1
+JAMESTOWN VA     1442   50     330/  8/ 12   N/A     0
+DOMINION TERM VA 1424   52     350/  2/  5 1019.9
+KIPTOPEKE VA     1424           40/  4/  6   N/A
+CHES BAY BRIDGE  1424   50      30/  9/ 11 1018.0
+CAPE HENRY VA    1424   51      10/ 12/ 14 1019.9
+WILLOUBY STN VA  1424   53      30/ 12/ 13 1019.8
+S CRANEY ISL VA  1424   53      20/ 12/ 16 1019.5
+CAPE HENRY BUOY  1456      58                N/A     5/ 5   2/12
+1ST LANDING BUOY 1442   49 60   10/ 12/ 14 1021.0R   2/ 4
+DUCK PIER NC     1424   53 56   10/ 17/ 21 1018.2
+44100 DUCK FRF   1426      60                N/A     5/ 6   2/11
+44056 DUCK FRF   1426      58                N/A     6/ 6   2/11
+OREGON INLET NC  1424   56 62   20/ 15/ 20 1017.8
+HATTERAS NC      1424   62 69   20/ 13/ 18 1017.6
+DIAMOND SHLS NC  1450      72  350/ 10/ 14 1017.0R
+CAPE LOOKOUT NC  1400   63     330/ 10/ 13 1017.8R
+$$
+  

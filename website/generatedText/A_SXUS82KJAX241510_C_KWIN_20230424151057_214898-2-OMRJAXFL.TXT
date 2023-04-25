@@ -1,0 +1,48 @@
+SXUS82 KJAX 241510
+OMRJAX
+OTHER MARINE REPORTS
+NATIONAL WEATHER SERVICE JACKSONVILLE FLORIDA
+1100 AM EDT MON APR 24 2023
+
+AMZ354-374-450-470-241600-
+...SOUTHEAST GEORGIA ATLANTIC COASTAL AND BUOY OBSERVATIONS...
+  
+STATION/POSITION TIME  SKY/WX   TEMP    WIND        PRES    WAVE
+                                AIR SEA DIR/SP/G            HT/PER
+                 (UTC)          (F)     (DEG/KT/KT) (MB)    (FT/S)
+FT PULASKI NOS   1424            67      70/  8/ 10 1018.7
+GRAYS REEF BUOY  1450               69   40/ 14/ 16 1017.5F   3/ 8
+SAPELO ISLAND    1400            66      20/ 10     1018.0
+5E ST MARYS      1430            70 71                N/A     3/ 7
+$$
+
+AMZ452-472-454-474-241600-
+...NORTHEAST FLORIDA ATLANTIC COASTAL AND BUOY OBSERVATIONS...
+  
+STATION/POSITION TIME  SKY/WX   TEMP    WIND        PRES    WAVE
+                                AIR SEA DIR/SP/G            HT/PER
+                 (UTC)          (F)     (DEG/KT/KT) (MB)    (FT/S)
+FERNANDINA NOS   1430            72 73   10/  5/  8 1018.1R
+MAYPORT NOS      1430            70 73   30/ 12/ 14 1018.2R
+ST AUG BUOY      1430            73 72                N/A     3/ 7
+ST AUGUSTINE     1500            73 72   40/  9/ 10 1017.9R
+GUANA TOLOMATO   NOT AVBL
+BLOUNT ISLAND    NOT AVBL
+BUCKMAN BRIDGE   1430            71     350/  5/  7 1017.1R
+NAVY FUEL DEPOT  1430            71      40/  5/  9 1017.4S
+DAMES POINT      1424               74                N/A
+JACKSONVILLE UNV 1424               74                N/A
+LITTLE JETTY SJR 1430            71                   N/A
+$$
+ 
+GMZ730-765-775-850-870-241600-
+...NORTH FLORIDA GULF COASTAL AND BUOY OBSERVATIONS...
+  
+STATION/POSITION TIME  SKY/WX   TEMP    WIND        PRES    WAVE
+                                AIR SEA DIR/SP/G            HT/PER
+                 (UTC)          (F)     (DEG/KT/KT) (MB)    (FT/S)
+KEATON BEACH     1500            67      50/  8/ 12 1016.9F
+CEDAR KEY CMAN   1400            69      70/ 12/ 13 1016.5F
+$$
+
+  

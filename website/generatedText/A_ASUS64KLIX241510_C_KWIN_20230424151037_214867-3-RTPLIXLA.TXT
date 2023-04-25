@@ -1,0 +1,40 @@
+ASUS64 KLIX 241510
+RTPLIX
+Max/Min Temperature and Precipitation Table for Southeastern
+Louisiana and Southern Mississippi
+National Weather Service Orleans/Baton Rouge, LA
+1010 AM CDT Mon Apr 24 2023
+
+High Temperature Yesterday
+Low Temperature Past 12 Hours
+Precipitation for 24 hours Ending at 7 AM Local Time
+ 
+.BR LIX 0424 CD DH01/TAIRZX/DH07/TAIRZP/PPDRZZ
+ 
+NATIONAL WEATHER SERVICE COOPERATIVE OBSERVER REPORTS
+ 
+Date and Time of Observation
+High Temperature Past 24 Hours Ending at Reporting Time
+Low Temperature Past 24 Hours Ending at Reporting Time
+Current Temperature
+Precipitation For 24 Hours Ending At Reporting Time
+ 
+SOUTH CENTRAL LOUISIANA 
+DVLL1:Donaldsonville    :DD240700/ 75  / 56  / 56  / 0.00
+ 
+EAST CENTRAL LOUISIANA 
+SFLL1:St. Francisville  :DD240730/ 71  / 45  / 55  / 0.00
+SISL1:Slidell           :DD240800/ 75  / 55  / 56  / 0.00
+
+ 
+.END
+
+
+This data is preliminary and has not undergone final quality
+control by the National Centers for Environmental Information
+(NCEI), formerly the National Climatic Data Center(NCDC). 
+Therefore, this data is subject to revision. Final and certified 
+climate data can be accessed at www.ncdc.noaa.gov.
+
+
+$$

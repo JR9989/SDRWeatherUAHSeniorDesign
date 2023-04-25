@@ -1,0 +1,112 @@
+ASUS62 KMLB 241446
+RTPMLB
+Morning Regional Temperature And Precipitation Summary
+National Weather Service Melbourne, FL
+1046 AM EDT Mon Apr 24 2023
+
+Note: Data is for the 24-hour period ending at 7am(EST)/8am(EDT).
+
+:                                  High         Low       24 Hour
+:                                Yesterday   Overnight    Rainfall
+:   Airport Observations                   8 pm to 8 am   to 8 am
+:
+.BR MLB 0424 E DH00/TAIRZX/DH07/TAIRZP/PPDRZZ
+:
+DAB : Daytona Beach Intl Apt   :    80     /     69    /    0.00    
+FPR : Treasure Coast Intl Apt  :    84     /     72    /      T     
+LEE : Leesburg Intl Apt        :    84     /     63    /    0.00    
+MLB : Melbourne Intl Apt       :    83     /     74    /    0.00    
+MCO : Orlando Intl Apt         :    87     /     66    /    0.00    
+ORL : Orlando Executive Apt    :    86     /     69    /    0.00    
+SFB : Orlando Sanford Apt      :    83     /     66    /    0.00    
+VRB : Vero Beach Apt           :    84     /     74    /    0.00    
+TTS : Kennedy Space Center     :    80     /     69    /    0.00    
+XMR : Cape Canaveral SFS       :    81     /     71    /    0.00    
+COF : Patrick SFB              :    82     /     74    /    0.00    
+:
+.END
+:
+:
+: Cooperative Weather Observations
+:  High Temperature...Low Temperature and Precipitation Observations
+:  For the Past 24 Hour Ending at Observation Time 
+:                                                         24 Hour
+:                        Report Time     High     Low     Rainfall
+:
+.B MLB 0424 E DH07/TAIRZX/TAIRZN/PPDRZZ
+CLRF1: Clermont         Mon 07:00 AM  :   89   /   66   /   0.00   
+DIAF1: Daytona Bch WTP  Mon 08:30 AM  :   77   /   73   /   0.00   
+DELF1: Deland           Mon 07:00 AM  :   87   /    M   /      M   
+KENF1: Kenansville      Mon 07:50 AM  :   85   /   64   /   0.00   
+KSSF1: Kissimmee        Mon 07:00 AM  :   86   /   67   /   0.00   
+LSBF1: Lisbon           Mon 07:10 AM  :   82   /   62   /   0.00   
+MLBF1: Melbourne NWS    Mon 07:00 AM  :   81   /   72   /   0.00   
+PLTF1: Mt. Plymouth     Mon 07:00 AM  :   85   /   62   /   0.00   
+NETF1: Nettles Island   Mon 07:00 AM  :   82   /   71   /   0.00   
+PLBF1: Palm Bay         Mon 07:00 AM  :   84   /   66   /   0.00   
+PONF1: New Smyrna Beach Mon 09:00 AM  :   79   /   72   /      M   
+PTSF1: Port Salerno     Mon 07:00 AM  :   83   /   69   /   0.00   
+STRF1: Stuart           Mon 08:00 AM  :   84   /   73   /   0.00   
+TITF1: Titusville       Mon 07:15 AM  :   81   /   73   /   0.00   
+VRBF1: Vero Beach       Mon 07:40 AM  :   82   /   69   /   0.00   
+ORWF1: Windermere       Mon 07:00 AM  :   86   /   65   /   0.00   
+:
+.END
+
+
+:
+:South FL Water Mgmt Dist Gages       Pcpn 
+.B MLB 0424 E DH12/PPDRZZ
+:
+AXCF1: Basinger 11 NNW          :     0.00
+KANF1: Kenansville 2NW          :     0.00
+KEFF1: Okeechobee 2E            :     0.00
+KIRF1: Poinciana 2ENE           :     0.00
+KISF1: Kissimmee Lake           :     0.00
+KSAF1: Yeehaw Junction West     :     0.00
+KREF1: North Kissimmee River    :        M
+KSCF1: Cent Kissimmee River     :        M
+KSDF1: Cent Kissimmee River     :     0.00
+NBSF1: Nubbin Slough            :     0.00
+NCSF1: Fort Pierce 8W           :     0.00
+NELF1: Indiantown 12WSW         :     0.00
+OAKF1: Taylor Creek Tributary   :        M
+OBLF1: Country Hills Est MOBL   :     0.00
+OOPF1: Country Lake Estates 4SE :     0.00
+PCFF1: Basinger 13NW            :        M
+PTMF1: Indiantown 9WSW          :     0.03
+PSLF1: Port St Lucie S-49       :     0.00
+SCGF1: Vineland 3SE             :     0.00
+SKSF1: Kiss Rvr Below C-41A     :     0.00
+SSCF1: S65CW Cornwell 2NW       :        M
+SVWF1: Savannas Preserve        :     0.00
+SWOF1: Poinciana 6E             :     0.00
+TLCF1: Taylor Creek Mouth       :     0.00
+TMWF1: Carlton 4N               :     0.00
+TOHF1: St Cloud 5SW             :     0.00
+TPKF1: Stuart 6W                :     0.00
+WLNF1: Country Hills Est WLNB   :     0.00
+YEHF1: Yeehaw Junction 8W       :     0.01
+:
+:USGS GAGES
+CRAF1: Astor Park 5SW           :     0.00
+CTKF1: Titusville 8ENE          :     0.00
+WELF1: Bithlo 10SSW             :     0.00
+GNEF1: Geneva 5ESE              :     0.00
+MRFF1: Merritt Island 20N       :     0.00
+PRFF1: Okahumpka 2E             :     0.00
+LSPF1: Lake Mary 5WNW           :     0.00
+LGRF1: Pierson 2WSW             :     0.00
+:
+.END
+
+
+These data are preliminary and have not undergone final quality
+control by the National Centers for Environmental Information (NCEI).
+Therefore, these data are subject to revision. Final and certified 
+climate data can be accessed at www.ncdc.noaa.gov.
+
+
+$$
+
+

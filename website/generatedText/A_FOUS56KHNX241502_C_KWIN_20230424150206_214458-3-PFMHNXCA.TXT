@@ -1,0 +1,1589 @@
+FOUS56 KHNX 241502
+PFMHNX
+
+Point Forecast Matrices
+National Weather Service San Joaquin Valley - Hanford CA
+801 AM PDT Mon Apr 24 2023
+
+CAZ302-250000-
+Livingston-Merced CA
+37.39N 120.72W Elev. 131 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      80          49          82          53          88
+Temp                   70 78 80 71 59 52 49 54 68 78 82 74 62 56 53 59 75 85 88
+Dewpt                  46 46 44 46 45 46 44 47 48 46 45 48 50 49 48 49 50 48 48
+RH                     42 32 28 41 60 80 83 77 49 32 27 40 65 77 83 69 41 28 25
+Wind dir               NW NW NW NW NW NW NW NW NW NW NW NW NW NW NW  N NW NW NW
+Wind spd                9 10 12 10  6  8  8  9 10 10 10  5  5  4  4  5  5  5  5
+Clouds                 FW CL FW FW FW FW FW FW FW FW CL CL CL CL CL CL CL CL FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            56    92      58    90      56    89      54    88
+Temp          66   57 78 91 69   58 78 89 67   56 74 87 66   54 74 87
+Dewpt         54   51 53 49 53   49 50 48 47   46 48 47 49   47 48 46
+PWind dir          NW    NW      NW    NW      NW    NW      NW    NW
+Wind char          LT    LT      GN    GN      GN    GN      GN    GN
+Avg clouds    FW   FW FW FW FW   FW FW FW FW   CL CL CL CL   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ302-250000-
+Merced-Merced CA
+37.28N 120.51W Elev. 153 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      80          49          82          53          88
+Temp                   70 78 80 72 60 54 50 54 69 79 82 74 63 58 54 59 76 85 88
+Dewpt                  48 48 45 48 46 46 46 48 50 48 46 49 50 50 49 50 52 50 48
+RH                     45 35 29 42 60 74 86 80 51 34 28 41 62 75 83 72 43 30 25
+Wind dir               NW NW NW NW NW NW NW NW NW NW NW NW NW  N  N  N NW  W NW
+Wind spd                9 10 13 10 10 10  6  8  9  9 10  5  5  4  3  4  5  5  5
+Clouds                 CL CL FW FW FW FW FW FW FW FW CL CL CL CL CL CL CL CL FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            56    92      59    91      57    89      55    89
+Temp          67   57 78 91 70   59 79 89 69   57 75 87 67   55 75 87
+Dewpt         54   52 55 48 54   51 51 48 49   46 49 47 50   47 50 47
+PWind dir          NW    NW      NW    NW      NW    NW      NW    NW
+Wind char          LT    LT      GN    GN      GN    GN      GN    GN
+Avg clouds    FW   FW FW FW FW   FW FW FW FW   CL CL CL CL   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ302-250000-
+Chowchilla-Madera CA
+37.12N 120.26W Elev. 240 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      81          49          82          53          89
+Temp                   70 79 81 71 60 54 49 53 69 79 82 73 62 57 54 59 76 86 89
+Dewpt                  49 49 45 49 48 46 46 48 50 49 47 50 51 50 49 50 51 49 47
+RH                     47 35 28 46 64 74 89 83 51 35 29 44 67 77 83 72 42 28 23
+Wind dir               NW NW NW NW NW NW NW NW NW NW NW NW NW  N  N NE SW  W NW
+Wind spd                8 10 12  9 10  9  6  5  8  8  9  5  5  4  4  4  5  6  6
+Clouds                 CL CL CL FW FW FW CL FW FW FW CL CL CL CL CL CL CL CL CL
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            56    92      59    91      58    89      56    89
+Temp          67   57 79 91 69   59 79 89 69   58 76 87 68   56 76 88
+Dewpt         54   51 54 47 53   51 52 47 50   47 49 46 51   48 51 46
+PWind dir          NW    NW      NW    NW      NW    NW      NW    NW
+Wind char          LT    LT      GN    GN      GN    GN      GN    GN
+Avg clouds    FW   FW FW FW FW   FW FW FW FW   FW CL CL CL   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ301-250000-
+Los Banos-Merced CA
+37.06N 120.83W Elev. 120 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      80          49          83          55          88
+Temp                   70 78 78 66 59 54 50 55 71 80 82 72 63 58 55 61 76 85 88
+Dewpt                  46 48 48 48 45 44 43 46 48 46 45 49 50 50 48 49 51 50 49
+RH                     42 35 35 52 60 69 77 72 44 30 27 44 62 75 77 65 42 30 26
+Wind dir               NW NW NW  W  W  W  W  W  N  N  N NW  W  W  W NW  N  N  N
+Wind spd                9 10 12 12 11  9  8  8  9 10 10  5  6  5  5  5  5  5  6
+Clouds                 CL FW FW FW FW FW FW FW FW CL CL CL CL CL CL CL CL CL FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            59    91      60    91      57    89      55    88
+Temp          67   59 79 90 69   60 79 89 66   57 75 87 65   55 75 86
+Dewpt         53   52 54 51 51   50 51 51 50   46 49 49 50   47 49 48
+PWind dir          NW    NW       W    NW       W    NW       W    NW
+Wind char          LT    LT      GN    GN      GN    GN      GN    GN
+Avg clouds    FW   FW FW FW FW   FW FW FW FW   FW CL CL CL   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ302-250000-
+Madera-Madera CA
+36.96N 120.08W Elev. 253 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      81          48          82          53          89
+Temp                   70 79 81 72 60 54 49 54 69 79 82 73 62 56 53 59 76 86 89
+Dewpt                  49 49 46 48 48 46 45 47 49 49 47 49 50 49 47 49 51 49 46
+RH                     47 35 29 42 64 74 86 77 49 35 29 43 65 77 80 69 42 28 23
+Wind dir               NW NW NW NW NW NW NW NW  W NW NW NW NW  N  N NE SW  W NW
+Wind spd                8 10 13  9 10  9  6  5  6  8  9  5  4  4  4  3  5  6  6
+Clouds                 CL CL CL FW FW FW CL CL CL FW CL CL CL CL CL CL CL CL CL
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            56    92      58    91      58    90      56    89
+Temp          67   57 79 91 70   59 79 90 69   58 77 88 68   57 77 88
+Dewpt         52   49 52 46 52   49 51 47 50   46 49 46 51   47 51 46
+PWind dir          NW    NW      NW    NW      NW    NW      NW    NW
+Wind char          LT    LT      GN    GN      GN    GN      GN    GN
+Avg clouds    FW   FW FW FW FW   FW FW FW FW   FW CL CL CL   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ302-250000-
+Mendota-Fresno CA
+36.76N 120.38W Elev. 174 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      82          50          84          54          91
+Temp                   71 80 81 71 62 55 50 55 71 81 83 74 63 58 55 60 77 88 90
+Dewpt                  46 46 45 46 43 41 41 43 46 46 44 46 47 47 46 47 50 48 46
+RH                     41 30 28 41 50 59 71 64 41 29 25 37 56 67 72 62 39 25 22
+Wind dir               NW NW NW NW  W NW NW NW NW NW  N NW  W  W  W NW  N  N  N
+Wind spd               10 11 13 11  9  9  6  6 10 10 11  6  5  5  4  4  6  8  8
+Clouds                 CL FW FW FW FW FW CL CL FW CL CL CL CL CL CL CL CL CL FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            59    93      60    93      58    92      57    91
+Temp          68   59 81 92 71   60 81 91 70   58 77 90 69   57 77 90
+Dewpt         51   49 52 47 51   48 49 46 48   45 46 44 48   45 47 46
+PWind dir          NW    NW      NW    NW      NW    NW      NW    NW
+Wind char          LT    LT      GN    GN      GN    GN      GN    GN
+Avg clouds    FW   FW FW FW FW   FW FW FW FW   FW CL CL CL   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ307-250000-
+Clovis-Fresno CA
+36.81N 119.70W Elev. 355 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      82          53          82          57          91
+Temp                   70 80 82 75 65 57 53 56 70 80 82 75 66 61 57 62 78 88 90
+Dewpt                  53 51 47 49 49 48 46 48 51 50 47 51 52 51 48 49 52 48 45
+RH                     55 36 29 40 56 72 77 74 51 35 29 43 61 70 72 62 40 25 21
+Wind dir                W NW NW NW NW NW NW  W SW  W NW NW  N NE NE  E SW  W NW
+Wind spd                5 10 12  9 10  9  6  5  6  5  6  5  4  4  5  4  5  6  6
+Clouds                 CL CL CL FW FW FW CL CL CL FW CL CL CL CL CL CL CL CL CL
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            60    93      62    93      62    92      61    91
+Temp          70   60 81 91 73   62 81 91 73   62 79 90 71   61 78 90
+Dewpt         52   49 52 46 52   51 53 47 53   49 52 47 52   49 52 47
+PWind dir           N    SE      NW    NW      NW    NW      NW     W
+Wind char          LT    LT      GN    LT      GN    GN      GN    GN
+Avg clouds    FW   FW FW FW FW   FW FW FW FW   FW FW CL CL   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ307-250000-
+Fresno-Fresno CA
+36.78N 119.72W Elev. 333 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      83          54          83          58          91
+Temp                   70 80 83 76 66 59 54 56 69 79 83 77 68 62 58 62 77 88 90
+Dewpt                  50 48 45 45 47 46 46 47 48 47 45 46 49 50 49 49 49 45 42
+RH                     49 33 26 33 50 62 74 72 47 32 26 33 51 65 72 62 37 22 19
+Wind dir               NW NW NW NW NW NW NW NW SW  W NW NW  N NE NE  E  S  W NW
+Wind spd                6 10 13  9 10 10  6  5  6  5  9  6  4  4  4  4  5  6  6
+Clouds                 CL CL CL FW FW FW CL CL CL FW CL CL CL CL CL CL CL CL FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            61    93      63    93      63    92      62    91
+Temp          72   62 81 92 74   64 80 91 74   63 79 90 73   62 78 90
+Dewpt         49   49 50 43 50   51 50 44 50   49 49 44 50   49 49 43
+PWind dir          NW    NW      NW    NW      NW    NW      NW     W
+Wind char          LT    LT      LT    LT      GN    GN      GN    GN
+Avg clouds    FW   FW FW FW FW   FW FW FW FW   FW FW CL CL   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ306-250000-
+Kerman-Fresno CA
+36.72N 120.06W Elev. 220 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      82          49          83          53          90
+Temp                   70 80 82 73 62 55 50 55 70 80 83 74 63 57 53 59 76 87 90
+Dewpt                  48 49 44 46 45 42 42 45 48 48 45 47 47 47 46 48 50 48 45
+RH                     45 34 26 38 54 61 74 69 45 33 26 38 56 69 77 67 40 26 21
+Wind dir               NW NW NW NW NW NW NW NW NW NW NW NW NW NW NW NW  W  W NW
+Wind spd               10 11 13 10 11 10  8  8  9  9 10  6  5  4  4  4  5  6  8
+Clouds                 CL CL CL FW FW FW CL CL FW FW CL CL CL CL CL CL CL CL FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            57    93      60    93      59    92      58    91
+Temp          68   57 80 92 71   60 80 91 71   59 77 90 69   58 77 90
+Dewpt         50   49 52 46 51   48 50 45 49   45 48 44 49   45 49 44
+PWind dir          NW    NW      NW    NW      NW    NW      NW    NW
+Wind char          LT    LT      GN    GN      GN    GN      GN    GN
+Avg clouds    FW   FW FW FW FW   FW FW FW FW   FW FW CL CL   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ306-250000-
+Sanger-Fresno CA
+36.70N 119.55W Elev. 371 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      82          52          82          55          90
+Temp                   70 80 82 74 64 57 53 56 70 79 82 75 65 59 56 61 78 87 90
+Dewpt                  54 52 49 49 50 48 46 48 52 51 49 51 52 50 48 49 53 49 46
+RH                     57 38 32 41 60 72 77 74 53 38 32 43 63 72 74 65 42 27 22
+Wind dir               SW NW NW NW NW NW NW SW SW  W NW NW  N NE NE  E SW  W NW
+Wind spd                5  9 11 10  9  9  4  4  6  5  5  5  4  4  4  4  5  6  6
+Clouds                 CL CL CL FW FW FW CL CL CL FW CL CL CL CL CL CL CL CL FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            59    92      61    93      61    92      60    91
+Temp          68   59 81 91 71   61 80 91 72   61 79 90 71   60 79 90
+Dewpt         52   48 52 46 53   51 54 48 53   50 53 49 52   50 53 48
+PWind dir           N    SE       N    NW      NW     W      NW     W
+Wind char          LT    LT      LT    LT      GN    LT      GN    LT
+Avg clouds    FW   FW FW FW FW   FW FW FW FW   FW FW CL CL   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ312-250000-
+Reedley-Fresno CA
+36.60N 119.45W Elev. 348 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      82          52          83          55          91
+Temp                   70 80 82 75 65 57 52 57 70 80 83 76 64 59 55 61 78 88 90
+Dewpt                  54 54 49 49 50 48 47 49 52 51 50 51 52 50 48 50 53 50 47
+RH                     57 41 32 40 58 72 83 75 53 36 32 42 65 72 77 67 42 27 23
+Wind dir                S NW NW NW NW NW  W  S SW  W NW NW NE NE  E  E SW  W NW
+Wind spd                5  6 10  9  8  6  4  4  5  5  5  5  4  3  4  4  5  5  6
+Clouds                 CL CL CL FW FW FW CL CL CL FW FW CL CL CL CL CL CL CL FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            58    92      60    93      61    92      60    91
+Temp          68   58 81 91 71   60 80 91 72   61 79 90 71   60 79 90
+Dewpt         52   49 53 47 53   51 54 48 53   51 53 49 52   50 54 48
+PWind dir           N     S       N     S      NW     W      NW     W
+Wind char          LT    LT      LT    LT      GN    LT      GN    LT
+Avg clouds    FW   FW FW FW FW   FW FW FW FW   FW FW CL FW   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ306-250000-
+Selma-Fresno CA
+36.57N 119.62W Elev. 308 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      83          52          83          55          91
+Temp                   70 81 83 76 65 58 53 57 71 80 83 76 65 58 55 61 78 88 90
+Dewpt                  52 51 47 46 47 46 45 47 51 50 47 49 50 50 49 49 52 48 46
+RH                     53 35 28 34 52 64 74 69 49 35 28 39 58 75 80 65 40 25 22
+Wind dir               NW NW NW NW NW NW NW NW  W  W NW NW  N  N NE  E SW  W NW
+Wind spd                5 10 13 10 10 10  5  5  5  5  6  5  5  4  3  4  5  5  6
+Clouds                 CL CL CL FW FW FW CL CL CL FW FW CL CL CL CL CL CL CL FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            59    93      61    93      61    92      60    92
+Temp          69   59 81 92 72   61 80 92 73   61 78 90 71   60 78 91
+Dewpt         49   49 53 46 51   51 53 47 50   49 51 47 50   49 52 46
+PWind dir          NW    NW      NW    NW      NW    NW      NW    NW
+Wind char          LT    LT      LT    LT      GN    LT      GN    GN
+Avg clouds    FW   FW FW FW FW   FW FW FW FW   FW FW CL CL   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ306-250000-
+Kingsburg-Fresno CA
+36.52N 119.55W Elev. 302 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      83          52          83          55          91
+Temp                   70 81 83 75 65 57 53 56 70 80 83 76 64 58 55 61 78 88 90
+Dewpt                  53 51 47 47 48 46 45 47 51 50 47 49 50 50 49 49 52 48 46
+RH                     55 35 28 37 54 67 74 72 51 35 28 39 60 75 80 65 40 25 22
+Wind dir               NW NW NW NW NW NW NW NW  W  W NW NW  N NE NE  E SW  W NW
+Wind spd                5 10 13 10 11  9  5  5  5  5  8  6  5  4  3  4  5  5  6
+Clouds                 CL CL CL FW FW FW CL CL FW FW FW CL CL CL CL CL CL CL FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            58    93      60    93      60    92      60    92
+Temp          68   58 81 92 71   61 80 92 73   60 79 90 71   60 78 91
+Dewpt         49   49 53 46 51   51 53 47 50   49 52 48 50   49 53 47
+PWind dir          NW    NW      NW    NW      NW    NW      NW    NW
+Wind char          LT    LT      LT    LT      GN    LT      GN    GN
+Avg clouds    FW   FW FW FW SC   FW FW FW FW   FW FW CL CL   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ312-250000-
+Dinuba-Tulare CA
+36.55N 119.39W Elev. 526 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      82          52          82          55          91
+Temp                   70 80 82 74 64 57 52 57 70 80 82 75 64 58 55 61 78 88 90
+Dewpt                  55 54 50 51 50 48 47 49 52 51 50 52 52 50 48 50 53 50 48
+RH                     59 41 33 44 60 72 83 75 53 36 33 45 65 75 77 67 42 27 24
+Wind dir                S NW NW NW NW NW  W  S SW  W NW NW NE  E  E  E SW  W NW
+Wind spd                5  5 10  9  8  5  4  4  6  5  5  4  3  3  4  4  5  5  6
+Clouds                 CL FW CL FW FW FW CL CL CL FW FW CL CL CL CL CL CL CL FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            59    92      60    92      61    92      60    91
+Temp          68   59 81 91 70   60 80 91 71   61 79 90 71   60 79 90
+Dewpt         52   49 53 49 53   51 55 50 53   51 54 50 52   50 54 50
+PWind dir           N     S       N     S      NW     S      NW     W
+Wind char          LT    LT      LT    LT      GN    LT      GN    LT
+Avg clouds    FW   FW FW FW FW   FW FW FW FW   FW FW FW FW   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ311-250000-
+Lemoore-KingsCA
+36.30N 119.79W Elev. 230 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      83          51          83          53          91
+Temp                   71 80 83 73 63 57 51 57 71 80 83 73 63 57 53 59 77 88 90
+Dewpt                  49 49 45 45 45 42 41 43 48 48 45 47 47 45 45 47 51 48 44
+RH                     46 34 26 37 52 57 68 59 44 33 26 40 56 64 74 64 40 25 20
+Wind dir               NW NW  N NW NW NW NW NW NW NW  N NW NW NW NW NW NW  N  N
+Wind spd               10 11 13 12 16 11  8  8  9  8 10  8  6  5  3  4  5  6  6
+Clouds                 CL CL CL CL FW FW CL CL FW FW CL CL CL CL CL CL CL CL FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            58    94      60    94      59    92      58    92
+Temp          68   58 81 92 71   60 81 92 71   59 78 90 70   58 78 91
+Dewpt         48   49 53 45 50   49 51 46 50   46 48 46 49   46 49 45
+PWind dir          NW    NW      NW    NW      NW    NW      NW    NW
+Wind char          LT    LT      GN    GN      GN    GN      GN    GN
+Avg clouds    FW   FW FW FW SC   SC FW FW FW   FW FW FW FW   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ311-250000-
+Hanford-KingsCA
+36.32N 119.64W Elev. 242 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      84          51          85          54          92
+Temp                   72 82 84 75 65 57 52 57 72 81 84 75 64 58 55 60 78 88 91
+Dewpt                  50 49 46 46 47 44 43 46 49 48 45 48 48 48 48 49 52 47 45
+RH                     46 32 27 36 52 62 71 67 44 32 26 38 56 69 77 67 40 24 20
+Wind dir               NW NW NW NW NW NW NW NW NW NW NW NW NW  N  N  N  W NW  N
+Wind spd                8 10 12 10 13 12  6  6  8  6  8  5  5  4  2  3  4  5  5
+Clouds                 CL CL CL FW FW FW FW CL FW FW FW CL CL CL CL CL CL CL FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            58    95      60    95      60    94      59    92
+Temp          69   59 81 93 72   61 81 93 73   60 79 91 71   60 79 91
+Dewpt         49   49 53 45 50   50 52 46 50   47 50 46 49   48 51 46
+PWind dir          NW    NW      NW    NW      NW    NW      NW    NW
+Wind char          LT    LT      LT    LT      GN    GN      GN    GN
+Avg clouds    FW   FW FW FW SC   FW FW FW FW   FW FW FW FW   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ312-250000-
+Visalia-Tulare CA
+36.32N 119.39W Elev. 292 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      82          51          83          54          90
+Temp                   70 80 82 75 64 57 52 55 69 80 83 76 64 58 55 60 77 87 90
+Dewpt                  54 52 49 48 48 48 46 48 51 50 47 50 50 50 49 51 52 48 46
+RH                     57 38 32 38 56 72 80 77 53 35 28 40 60 75 80 72 42 26 22
+Wind dir                W NW NW NW NW NW  W  W SW  W NW NW  N NE  E SE SW NW NW
+Wind spd                5  9 12 10  9  9  5  4  5  5  6  5  3  3  3  3  5  5  6
+Clouds                 CL CL CL FW FW FW FW FW FW FW FW CL CL CL CL CL CL CL FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            57    93      59    93      59    92      59    91
+Temp          68   58 79 92 71   60 79 91 72   59 78 90 71   59 78 90
+Dewpt         50   50 54 47 51   51 54 48 51   50 52 48 50   51 53 47
+PWind dir           N     S       N     W      NW     W      NW    NW
+Wind char          LT    LT      LT    LT      GN    LT      LT    LT
+Avg clouds    FW   FW FW FW SC   FW FW FW FW   FW FW FW FW   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ312-250000-
+Exeter-Tulare CA
+36.29N 119.14W Elev. 400 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      82          53          83          56          91
+Temp                   70 80 82 75 65 57 53 58 71 80 83 76 65 60 57 62 78 88 90
+Dewpt                  55 54 52 53 51 50 48 50 52 50 50 52 53 50 48 51 52 50 48
+RH                     59 41 35 46 60 77 83 75 51 35 32 43 65 69 72 67 40 27 24
+Wind dir               SW  W NW  N  N  W  S  S SW  W NW  N  E  E  E  E  W NW  N
+Wind spd                5  5 10  5  5  4  3  5  6  4  5  3  3  3  6  4  5  5  6
+Clouds                 FW CL CL FW FW FW FW FW FW SC CL CL CL CL CL CL CL CL FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            59    93      61    93      61    92      60    92
+Temp          69   60 81 92 71   61 81 92 72   61 79 90 71   60 80 91
+Dewpt         52   48 52 49 53   50 53 50 53   51 53 51 53   51 54 50
+PWind dir          NE     S      NE     S       N     S       N     S
+Wind char          LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW   FW FW FW FW   FW FW FW FW   FW FW FW FW   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ312-250000-
+Tulare-Tulare CA
+36.20N 119.34W Elev. 288 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      83          52          84          54          91
+Temp                   71 81 83 76 64 57 52 56 71 81 83 75 64 58 55 60 78 88 90
+Dewpt                  53 52 49 48 48 48 46 48 51 50 47 50 50 50 49 50 52 48 46
+RH                     53 37 31 37 56 72 80 74 49 34 28 41 60 75 80 69 40 25 22
+Wind dir                W NW NW NW NW NW  W  W  W NW NW  N  N  E SE SE  W NW  N
+Wind spd                4  8 10  9  9  5  5  4  5  4  5  5  4  3  3  3  4  5  5
+Clouds                 CL CL CL FW FW FW FW FW FW FW FW CL CL CL CL CL CL FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            57    94      60    94      60    92      59    92
+Temp          68   58 81 93 70   60 81 93 72   60 79 91 71   59 79 91
+Dewpt         50   49 53 47 51   51 53 48 50   49 51 49 50   50 53 48
+PWind dir           N     S       N     W      NW     W      NW     W
+Wind char          LT    LT      LT    LT      GN    LT      LT    LT
+Avg clouds    FW   FW FW FW SC   SC SC FW FW   FW FW FW FW   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ312-250000-
+Lindsay-Tulare CA
+36.21N 119.09W Elev. 387 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      82          52          83          56          91
+Temp                   70 79 82 74 65 57 53 58 72 80 83 75 65 60 57 62 78 88 90
+Dewpt                  56 54 53 53 51 50 48 50 52 51 50 53 53 51 48 50 52 50 48
+RH                     61 42 37 48 60 77 83 75 49 36 32 46 65 72 72 65 40 27 24
+Wind dir               SW  W NW  N  N SW  S  S SW  W NW  N  E  E  E SE  W NW  N
+Wind spd                5  5 10  5  5  3  3  4  5  4  5  3  3  5  4  3  5  5  6
+Clouds                 FW CL CL FW FW FW FW CL FW SC CL CL CL CL CL CL CL CL FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            59    92      61    92      61    92      61    92
+Temp          69   60 81 91 71   61 81 91 72   61 79 90 71   61 80 91
+Dewpt         52   48 52 49 52   50 54 51 53   51 53 51 53   51 54 51
+PWind dir          NE     S      NE     S       N    SW       N    SW
+Wind char          LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW   FW FW FW SC   FW FW FW FW   FW FW FW FW   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ304-250000-
+Coalinga-Fresno CA
+36.14N 120.35W Elev. 670 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      83          54          83          58          89
+Temp                   74 81 83 73 63 59 55 60 74 81 83 74 64 61 58 66 79 87 88
+Dewpt                  46 44 42 44 42 38 35 38 41 42 41 43 42 41 41 43 45 43 43
+RH                     37 27 24 35 46 45 47 44 30 25 23 33 45 48 53 43 30 21 21
+Wind dir                E NE  N  N  W  W SW NW NE  N  N  N NW NW NW  N  E  E  N
+Wind spd                5  9 13 10  5  4  4  4  6  9 11  8  5  4  3  4  5  8  8
+Clouds                 CL CL FW FW FW FW CL CL CL CL CL CL CL CL CL CL CL CL FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            63    93      65    93      63    92      62    91
+Temp          70   63 84 91 72   65 84 91 71   63 81 90 71   62 82 89
+Dewpt         48   46 48 45 50   48 48 45 47   45 45 43 47   44 46 43
+PWind dir          NW    NE       W     N      NW     N      NW     N
+Wind char          LT    LT      GN    LT      GN    LT      GN    LT
+Avg clouds    FW   FW FW SC SC   SC FW FW FW   FW FW CL CL   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ311-250000-
+Corcoran-Kings CA
+36.08N 119.56W Elev. 207 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      84          49          83          52          91
+Temp                   72 81 84 72 62 55 50 56 72 80 83 72 62 56 52 58 78 88 90
+Dewpt                  50 50 47 46 47 45 43 46 49 48 45 48 48 48 47 49 51 47 45
+RH                     46 34 28 39 58 69 77 69 44 33 26 42 60 74 83 72 39 24 21
+Wind dir               NW NW  N NW NW  N  W NW NW NW  N  N NW NW NW  W  W NW  N
+Wind spd                6 10 11 10 12  6  5  5  6  5  8  5  5  3  2  3  4  5  5
+Clouds                 CL CL CL CL FW FW FW CL FW FW CL CL CL CL CL CL CL CL FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            56    94      58    94      58    93      58    93
+Temp          67   57 81 93 70   58 81 92 70   58 79 91 69   58 80 91
+Dewpt         49   49 54 46 49   50 52 47 50   47 49 47 49   47 51 46
+PWind dir           N    NW      NW    NW      NW    NW      NW    NW
+Wind char          LT    LT      LT    LT      GN    LT      GN    LT
+Avg clouds    FW   FW FW SC SC   SC SC FW FW   FW FW FW FW   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ312-250000-
+Porterville-Tulare CA
+36.06N 119.03W Elev. 455 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      81          53          82          57          90
+Temp                   70 79 81 74 66 59 54 59 72 80 82 75 66 61 58 63 78 87 89
+Dewpt                  55 54 52 53 51 50 48 50 51 50 50 52 52 50 46 49 51 49 48
+RH                     59 42 37 48 58 72 80 72 48 35 33 45 61 67 64 60 39 27 24
+Wind dir               SW  W NW  N NE SW  S  S SW  W NW  N  E  E  E SE  W NW  N
+Wind spd                5  5 10  6  3  3  3  4  5  4  5  3  3  3  5  4  5  6  6
+Clouds                 FW CL CL FW FW FW FW FW FW SC CL CL CL CL CL CL CL FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            60    92      62    92      61    91      61    91
+Temp          70   61 81 91 72   62 81 90 73   61 79 89 71   61 80 90
+Dewpt         51   47 52 48 51   49 53 51 53   51 52 50 53   50 53 50
+PWind dir          NE     S      NE     S      NE    SW      NE    SW
+Wind char          LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW   FW FW FW SC   FW FW FW FW   FW FW FW FW   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ304-250000-
+Avenal-Kings CA
+35.99N 120.63W Elev. 807 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      82          54          83          59          89
+Temp                   72 80 81 72 65 60 55 60 72 80 83 74 65 61 59 65 78 86 88
+Dewpt                  48 46 43 44 43 40 38 39 43 43 40 41 42 41 41 43 46 43 41
+RH                     42 30 26 37 45 47 53 46 35 27 22 30 43 48 51 45 32 22 19
+Wind dir               NE  N  N  N NW NW NW  E NE  N  N  N NW NW NW NW NE  E  N
+Wind spd                5  9 10 11 10  6  5  5  9 10 11 10  6  5  4  4  6  8  8
+Clouds                 CL CL CL SC FW FW CL CL CL CL CL CL CL CL CL CL CL FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            63    92      65    93      63    92      62    91
+Temp          70   63 81 90 72   65 82 91 72   63 79 90 71   62 80 89
+Dewpt         47   47 49 43 49   48 48 45 47   46 45 43 46   45 46 42
+PWind dir          NW     N       W    NW      NW     N      NW     N
+Wind char          LT    LT      GN    GN      GN    GN      GN    GN
+Avg clouds    FW   FW SC SC SC   SC FW FW FW   FW FW FW FW   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ310-250000-
+Delano-Kern CA
+35.76N 119.25W Elev. 321 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      82          52          83          53          91
+Temp                   71 80 82 74 63 56 53 57 71 79 83 74 64 58 54 60 78 88 90
+Dewpt                  51 51 49 50 48 48 46 48 49 48 45 48 50 49 47 49 50 47 45
+RH                     49 36 32 43 58 74 77 72 46 34 26 40 60 72 77 67 37 24 21
+Wind dir               NW NW  N  N  N NW SW SW  W NW  N  N  E SE SE  S  W NW  N
+Wind spd                5 10 10  6  5  4  3  3  5  5  8  4  4  2  2  3  5  6  6
+Clouds                 CL CL CL FW FW FW FW FW CL FW CL CL CL CL CL CL CL CL FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            57    93      60    93      60    92      59    92
+Temp          68   58 81 92 70   60 81 92 70   60 79 90 70   59 80 91
+Dewpt         50   47 52 45 49   49 52 47 50   49 48 47 49   49 51 47
+PWind dir          NE    SW      NW     W      NW    NW      NW     W
+Wind char          LT    LT      LT    LT      GN    LT      LT    LT
+Avg clouds    FW   FW FW SC SC   FW FW FW FW   FW FW FW FW   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ310-250000-
+Wasco-Kern CA
+35.59N 119.34W Elev. 328 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      82          52          83          54          91
+Temp                   72 80 82 75 64 57 53 58 72 80 83 75 64 58 55 61 79 88 90
+Dewpt                  51 50 47 49 46 47 46 47 48 46 44 47 47 48 46 46 47 45 43
+RH                     48 35 29 40 52 69 77 67 42 30 25 37 54 69 72 58 32 22 20
+Wind dir               NW NW  N  N NW NW NW SW NW NW  N  N  N  W SE  S NW  N  N
+Wind spd                6  9 10  8  6  5  3  3  5  6  8  5  4  3  2  3  5  6  6
+Clouds                 FW CL CL FW FW FW FW FW CL CL CL CL CL CL CL CL CL FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            59    93      60    93      61    92      60    92
+Temp          70   59 81 92 72   61 82 92 72   61 79 91 71   60 80 91
+Dewpt         49   47 51 44 49   48 51 47 50   49 48 45 48   48 49 46
+PWind dir          NW     W      NW    NW      NW    NW      NW    NW
+Wind char          LT    LT      GN    LT      GN    LT      GN    LT
+Avg clouds    FW   FW FW SC SC   SC SC FW FW   FW FW CL FW   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ310-250000-
+Shafter-Kern CA
+35.50N 119.27W Elev. 348 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      82          52          83          55          91
+Temp                   72 80 82 75 65 57 53 59 73 80 83 76 65 59 55 61 79 88 90
+Dewpt                  51 50 47 49 47 47 46 47 48 46 43 46 47 48 46 46 46 44 43
+RH                     48 35 29 40 52 69 77 64 41 30 24 34 52 67 72 58 31 22 20
+Wind dir                N NW  N  N NW NW NW SW NW NW  N  N NE NW SE SE NW  N  N
+Wind spd                6  9 10  8  6  5  3  3  5  6  9  5  4  3  2  4  5  8  8
+Clouds                 FW CL CL CL FW FW FW FW CL CL CL CL CL CL CL CL CL FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            59    93      61    93      61    93      61    92
+Temp          70   60 81 92 73   61 82 92 73   61 80 91 71   61 80 91
+Dewpt         49   47 50 43 49   48 51 46 50   49 48 44 49   48 48 45
+PWind dir          NW     W      NW    NW      NW    NW      NW    NW
+Wind char          LT    LT      GN    LT      GN    LT      GN    LT
+Avg clouds    FW   FW FW SC SC   FW FW FW FW   FW FW CL FW   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ314-250000-
+Bakersfield-Kern CA
+35.43N 119.06W Elev. 496 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      82          55          83          58          91
+Temp                   71 79 81 76 67 59 55 60 72 80 83 76 67 61 58 64 79 88 90
+Dewpt                  53 51 48 50 50 49 48 48 48 47 45 47 49 48 46 46 45 43 43
+RH                     53 38 32 40 54 69 77 64 42 31 26 36 52 62 64 52 30 21 20
+Wind dir               NW NW NW  N  N  N NE SE  W NW NW  N  E  E  E SE  W NW  N
+Wind spd                5 10 11  9  5  8  3  4  5  8  9  5  5  3  4  4  6  9  9
+Clouds                 FW CL CL CL FW FW FW FW CL CL CL CL CL CL CL CL CL FW CL
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            63    93      65    93      64    92      63    91
+Temp          72   63 81 92 74   65 82 92 74   64 81 91 74   63 80 91
+Dewpt         49   48 49 44 49   49 50 47 53   51 48 45 51   49 49 46
+PWind dir          NE    SW       N    NE      NW     N      NW    SW
+Wind char          LT    LT      GN    LT      GN    LT      GN    LT
+Avg clouds    FW   FW FW SC SC   FW FW FW FW   FW FW CL FW   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ316-250000-
+Lamont-Kern CA
+35.26N 118.91W Elev. 404 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      82          54          83          57          91
+Temp                   71 80 82 75 65 58 55 60 73 81 83 76 66 60 57 63 79 88 91
+Dewpt                  54 52 47 49 50 48 48 48 48 47 44 46 48 47 45 45 45 42 42
+RH                     55 38 29 40 58 69 77 64 41 30 25 34 52 62 64 52 30 20 18
+Wind dir                W NW NW  N SW SW  S  S  W NW NW NW SE  E  E  E NW NW  N
+Wind spd                5 10 12  6  6  5  5  4  5  6  9  6  5  5  5  5  9 10  9
+Clouds                 FW FW CL CL FW FW FW FW CL CL CL CL CL CL CL FW CL FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            61    93      63    93      63    93      62    92
+Temp          71   61 82 92 72   63 82 92 73   63 81 92 71   62 80 92
+Dewpt         49   48 49 44 49   49 51 46 53   51 50 45 52   49 49 44
+PWind dir          NE    SW       W    SW      NW    SW       W    SW
+Wind char          GN    LT      GN    LT      GN    LT      GN    LT
+Avg clouds    FW   FW FW SC SC   FW SC FW FW   FW FW FW FW   CL FW CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ313-250000-
+Taft-Kern CA
+35.14N 119.45W Elev. 987 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      81          57          82          59          90
+Temp                   72 79 81 74 67 62 58 62 72 80 82 74 67 62 60 66 79 87 89
+Dewpt                  49 46 42 44 42 42 42 43 43 42 38 41 40 40 39 40 40 40 38
+RH                     44 31 25 34 40 48 55 50 35 26 21 30 37 44 46 38 25 19 17
+Wind dir               NE  N  N  N NW  W  W NW NE  N  N  N SW SW  S  S NE NE  N
+Wind spd                5 10 10 10 10  8  5  5  5  8  9  6  5  5  5  5  8 10  9
+Clouds                 FW CL CL FW FW FW FW FW CL CL CL CL CL CL CL CL CL FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            64    91      67    91      66    91      66    91
+Temp          72   65 82 90 74   67 82 90 74   66 81 89 73   66 81 90
+Dewpt         44   43 45 41 45   44 46 42 46   46 44 41 44   44 43 40
+PWind dir           W     E       W     W      NW     E      NW     E
+Wind char          GN    LT      GN    LT      GN    GN      GN    GN
+Avg clouds    FW   FW FW SC SC   FW SC FW SC   FW FW CL FW   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ316-250000-
+Arvin-Kern CA
+35.20N 118.83W Elev. 449 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      81          54          83          58          91
+Temp                   71 79 81 74 65 59 55 61 73 80 83 75 66 61 58 64 80 88 90
+Dewpt                  54 51 47 49 50 49 48 48 48 47 45 47 47 46 44 44 43 40 41
+RH                     55 38 30 41 58 69 77 62 41 31 26 37 50 58 59 48 27 19 18
+Wind dir                W NW NW  N  S  S  S  S  W NW NW NW SE  E  E  E  N NW NW
+Wind spd                5 10 11  8  6  5  5  4  5  5  6  5  5  5  5  5  9 10  8
+Clouds                 FW FW CL CL FW FW SC FW CL CL CL CL CL CL CL FW CL FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            62    92      63    92      64    92      63    92
+Temp          71   62 82 91 72   63 82 91 73   64 81 91 71   63 81 91
+Dewpt         47   48 49 43 48   49 51 46 52   51 50 45 50   49 48 43
+PWind dir          NE    SW      SW    SW       W    SW       W    SW
+Wind char          LT    LT      GN    LT      GN    LT      GN    GN
+Avg clouds    FW   FW FW SC SC   FW SC FW FW   FW FW FW FW   CL FW FW
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ324-250000-
+Yosemite Valley-Mariposa CA
+37.74N 119.60W Elev. 4199 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      71          41          75          45          79
+Temp                   68 71 68 54 47 44 42 47 70 75 72 59 51 47 46 50 74 78 74
+Dewpt                  38 45 48 42 32 20 15 27 38 47 51 43 30 25 23 30 39 47 49
+RH                     33 39 49 64 56 38 33 45 31 37 48 55 44 42 40 46 28 33 41
+Wind dir                W  W  W  N NE NE NE  E  W  W  W NE  E  E  E  E SW  W NW
+Wind spd                5  8  8  4  4  5  5  4  4  6  5  4  5  5  8  5  5  8  6
+Clouds                 CL CL CL FW FW FW FW FW CL FW SC FW CL CL CL FW CL CL FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            48    80      49    82      49    81      49    80
+Temp          53   49 74 75 55   49 74 76 55   50 74 76 55   49 74 74
+Dewpt         36   28 41 49 38   32 44 51 39   31 42 50 38   31 42 50
+PWind dir           N     S       N     N       N    SE       N     S
+Wind char          LT    LT      LT    GN      GN    GN      LT    GN
+Avg clouds    FW   FW FW FW FW   FW FW FW FW   FW FW CL FW   FW FW FW
+PoP 12hr            0     0       0     0       0     0       0     5
+
+$$
+CAZ317-250000-
+Mariposa-Mariposa CA
+37.49N 119.97W Elev. 2231 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      72          51          73          55          80
+Temp                   68 70 72 65 57 53 51 56 66 70 72 66 59 57 55 61 74 78 79
+Dewpt                  46 48 47 46 45 41 37 41 45 49 49 48 47 43 39 43 45 47 46
+RH                     45 45 41 50 64 64 59 57 47 47 44 52 64 59 55 51 35 33 31
+Wind dir               SW  W NW NW  N  N NE  E SW SW  W NW NE NE NE NE SW SW  W
+Wind spd                5 10 10  6  5  5  4  3  6  8  8  4  4  5  6  5  8 10  8
+Clouds                 CL CL FW SC FW FW CL FW CL FW FW CL CL CL CL CL CL CL FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            59    82      60    83      59    82      58    81
+Temp          63   59 77 81 65   60 77 81 65   59 75 79 64   58 75 79
+Dewpt         46   41 45 46 48   45 48 46 48   44 47 46 47   42 46 45
+PWind dir           N    SE       N     N       N    SE       N    NW
+Wind char          LT    LT      LT    GN      LT    LT      LT    GN
+Avg clouds    FW   FW FW FW FW   FW FW FW FW   FW CL CL FW   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     5
+
+$$
+CAZ327-250000-
+Shaver Lake-Fresno CA
+37.14N 119.26W Elev. 5800 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      61          39          62          43          68
+Temp                   56 59 58 49 45 41 40 46 57 61 59 51 46 45 44 50 63 67 64
+Dewpt                  37 42 43 42 38 33 28 31 36 43 45 43 37 32 29 34 36 38 38
+RH                     49 53 57 77 76 73 62 55 45 51 60 74 71 60 55 54 36 34 38
+Wind dir                W  W  W  N NE NE NE NE SW SW  W  N NE NE NE NE SW SW NW
+Wind spd                5  9  8  5  4  4  4  3  5  6  6  4  5  5  8  6  8  9  6
+Clouds                 CL FW FW SC FW FW FW FW FW FW SC FW CL FW CL FW CL FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            46    70      47    71      48    71      47    70
+Temp          50   46 65 67 51   48 65 67 52   48 64 66 51   47 64 66
+Dewpt         36   31 36 40 40   36 39 44 42   36 39 43 41   35 38 43
+PWind dir           N    NW       N    NW       N    NW       N    NW
+Wind char          LT    LT      LT    GN      LT    GN      LT    GN
+Avg clouds    FW   FW FW FW FW   FW FW FW FW   FW FW FW FW   FW FW FW
+PoP 12hr            0     0       0     0       0     0       0     5
+
+$$
+CAZ318-250000-
+Oakhurst-Madera CA
+37.33N 119.65W Elev. 2260 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      74          46          76          49          82
+Temp                   69 73 74 65 55 50 47 52 69 74 75 67 57 52 50 56 75 80 81
+Dewpt                  48 50 49 48 45 40 35 40 46 50 52 50 46 39 34 40 45 47 46
+RH                     47 44 41 54 69 68 63 63 44 43 45 54 67 61 54 55 34 31 29
+Wind dir                W  W  W NW NE NE NE  E SW SW  W  N NE NE NE NE SW SW  W
+Wind spd                5  8  9  5  4  3  3  3  5  6  6  2  4  4  6  5  6 10  8
+Clouds                 CL CL FW SC FW FW FW FW CL SC SC CL CL CL CL CL CL FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            51    84      54    85      55    84      54    84
+Temp          60   52 78 82 62   55 78 83 62   55 76 81 61   54 77 81
+Dewpt         44   39 45 48 48   44 50 50 49   43 49 50 47   42 47 49
+PWind dir           N    SE       N    NW       N    SE       N    SE
+Wind char          LT    LT      LT    GN      LT    LT      LT    GN
+Avg clouds    FW   FW FW FW FW   FW FW FW FW   FW FW FW FW   FW CL FW
+PoP 12hr            0     0       0     0       0     0       0     5
+
+$$
+CAZ330-250000-
+Lodgepole-Tulare CA
+36.60N 118.73W Elev. 6735 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      58          36          59          37          63
+Temp                   53 56 54 45 41 38 37 45 54 58 57 48 43 39 38 48 58 62 59
+Dewpt                  36 44 45 39 27 20 12 21 37 45 47 39 28 22 18 26 36 43 43
+RH                     52 64 71 79 57 48 35 38 52 62 69 71 55 50 44 42 44 50 55
+Wind dir                W  W  W NE NE NE NE  E SW  W  W NE  E  E  E  E  W  W  N
+Wind spd                9  9  8  3  4  4  5  3  4  4  4  2  5  5  8  5  5  6  5
+Clouds                 FW FW SC SC FW FW CL FW FW SC B1 FW FW CL CL FW CL FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Wind chill                               31                      32            
+Min chill                          38    31    35          39    32    35      
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            39    65      41    66      41    66      41    65
+Temp          43   41 58 61 45   41 59 60 46   42 58 60 46   41 59 59
+Dewpt         30   19 36 43 31   24 40 46 33   25 40 45 31   22 39 45
+PWind dir           N     N       N    NW       N    NW       N    NW
+Wind char          LT    LT      LT    GN      LT    GN      LT    GN
+Avg clouds    FW   FW FW FW SC   FW FW FW SC   SC FW FW SC   FW FW FW
+PoP 12hr            0     0       0     0       0     0       0     5
+
+$$
+CAZ319-250000-
+Three Rivers-Tulare CA
+36.45N 118.90W Elev. 856 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      79          53          81          56          88
+Temp                   70 78 79 72 62 57 54 59 73 79 80 73 63 58 57 62 78 85 87
+Dewpt                  56 57 55 54 52 48 46 47 53 54 54 53 52 48 44 48 52 53 51
+RH                     61 48 44 53 70 72 74 64 49 42 41 49 67 69 62 60 40 33 29
+Wind dir               SW SW  W  E  E  E  E  S SW  W  W NE  E  E  E  E  W  W  N
+Wind spd                5  5  5  4  2  2  2  2  5  5  4  2  3  4  5  4  5  6  5
+Clouds                 FW FW FW FW FW FW CL FW CL SC SC FW CL CL CL CL CL CL FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            59    89      60    89      61    89      60    89
+Temp          66   59 79 87 67   60 79 87 68   61 78 87 67   60 79 87
+Dewpt         52   46 52 52 52   48 54 55 55   51 55 54 53   47 54 53
+PWind dir          NE     S       N     S       N     S       N     S
+Wind char          LT    LT      LT    LT      LT    LT      LT    LT
+Avg clouds    FW   FW FW FW FW   FW FW FW SC   FW FW FW FW   FW CL FW
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ332-250000-
+Lake Isabella-Kern CA
+35.64N 118.47W Elev. 2680 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      76          51          80          54          84
+Temp                   68 74 74 66 61 55 52 55 68 77 79 71 63 57 54 59 76 83 82
+Dewpt                  47 46 44 47 46 44 42 43 41 40 45 46 44 40 37 37 32 32 38
+RH                     47 37 34 50 58 66 69 64 37 26 30 41 50 53 52 44 20 16 21
+Wind dir               SW  W  W SW SW SW SW NE  S SW  W  W NE NE NE  E  E  S  W
+Wind spd               12 18 16 14 11  9  8  5  5 10 11 10  8  6  9 10 11 10 11
+Clouds                 CL CL FW FW FW FW FW SC CL FW FW CL CL CL CL CL CL CL CL
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            57    87      59    87      59    87      59    86
+Temp          66   57 77 84 68   59 77 84 68   59 76 84 67   59 77 84
+Dewpt         42   40 39 40 44   43 43 45 47   46 42 43 45   44 40 41
+PWind dir          NW    NW      NW    NW      NW    NW      NW    NW
+Wind char          GN    GN      GN    GN      GN    GN      GN    GN
+Avg clouds    CL   FW FW FW FW   FW FW FW FW   FW FW CL FW   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ334-250000-
+Tehachapi-Kern CA
+35.13N 118.43W Elev. 4220 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      66          45          72          47          77
+Temp                   62 66 65 57 53 49 46 52 67 72 70 58 53 49 47 55 70 75 76
+Dewpt                  46 44 42 42 43 41 38 40 35 37 41 41 39 35 31 32 27 27 30
+RH                     56 45 43 57 69 74 73 63 30 28 35 53 59 58 53 41 20 17 18
+Wind dir               NW NW NW NW  W  W  W NW NE NW  W NW NW  N NE  E  E  E  W
+Wind spd               13 19 24 21 17 16 11  6 10 13 12  8  6  5  6 11 17 13 10
+Wind gust                    34 33                                             
+Clouds                 FW FW CL FW FW FW SC FW CL FW CL FW CL CL FW CL CL FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Obvis                        BD BD                                             
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            50    79      53    79      53    80      53    78
+Temp          57   50 75 77 60   53 74 77 61   53 74 78 60   53 74 76
+Dewpt         36   36 34 36 38   40 40 41 42   42 37 38 41   41 37 37
+PWind dir          NW    NW       W     W       W    NW       W     W
+Wind char          GN    GN      GN    GN      GN    GN      GN    GN
+Avg clouds    FW   FW FW SC SC   SC SC SC SC   FW FW FW FW   FW CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ336-250000-
+Frazier Park-Kern CA
+34.82N 118.94W Elev. 5100 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      70          41          73          44          77
+Temp                   66 70 66 55 50 45 42 49 67 72 70 56 50 47 45 53 71 77 74
+Dewpt                  34 37 36 35 35 35 31 30 32 36 39 35 30 26 23 26 27 30 32
+RH                     30 30 33 47 56 68 65 48 27 27 32 45 46 43 41 35 19 18 21
+Wind dir               NW NW NW NW NW NW NW NW  N  N  N NW  W  W SE  E  E  E  N
+Wind spd               13 14 16 18 14 13 13 10  9  9 10 10  9 10 10 12 17 13 11
+Clouds                 FW FW CL FW SC B1 B1 B1 B1 FW CL FW CL CL B1 B1 CL FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Wind chill                            38 35                                    
+Min chill                                35    37                39            
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            48    80      50    79      49    79      49    78
+Temp          55   49 74 76 57   50 73 75 57   49 72 75 56   49 73 75
+Dewpt         32   31 34 36 33   33 37 40 36   36 35 37 35   34 34 35
+PWind dir          NW     N      NW    NW      NW     N       W     N
+Wind char          GN    GN      GN    GN      GN    GN      GN    GN
+Avg clouds    FW   FW FW SC SC   SC SC SC SC   FW FW FW FW   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ337-250000-
+InyoKern-Kern CA
+35.65N 117.81W Elev. 2428 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      87          55          84          57          86
+Temp                   77 85 84 74 68 61 56 63 75 82 83 76 68 63 58 63 76 83 86
+Dewpt                  31 33 33 36 36 35 33 31 28 27 24 25 29 27 26 25 22 21 20
+RH                     18 15 16 25 31 38 42 30 17 13 11 15 23 25 29 23 13 10  9
+Wind dir                E SW  W  W  W  W NW  N NE  E  E SW NW NW  N  N NE  E  S
+Wind spd                5 10 28 29 21 13  9 10 10  9  6 10 10 12 10 10 13 11 10
+Wind gust                          32                                          
+Clouds                 CL CL CL FW FW FW FW FW CL FW FW FW FW CL CL CL CL FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Obvis                        BD BD                                             
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            59    90      62    93      64    92      63    93
+Temp          70   60 82 89 73   62 83 91 73   64 82 90 73   63 83 91
+Dewpt         27   31 27 23 35   35 32 27 39   38 32 27 35   36 33 28
+PWind dir          SW    SW       W    SW       W    SW       W    SW
+Wind char          GN    GN      GN    GN      GN    GN      GN    GN
+Avg clouds    FW   FW FW FW FW   FW FW FW FW   FW FW FW FW   FW FW FW
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ337-250000-
+Ridgecrest-Kern CA
+35.63N 117.66W Elev. 2290 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      89          53          85          53          87
+Temp                   78 87 87 74 66 59 54 60 77 83 85 77 66 59 54 61 78 85 87
+Dewpt                  31 30 31 36 37 36 34 33 28 27 22 24 27 27 26 25 21 20 18
+RH                     18 13 13 25 34 42 46 36 16 13 10 14 23 29 34 25 12  9  8
+Wind dir                S SW  W  W  W SW  W NW NE NE NE NE NW NW  N  N NE NE SE
+Wind spd                4  9 18 21 13 10 11  5  9  5  5  6  8 10  8  8 10  9  9
+Wind gust                       33                                             
+Clouds                 CL CL CL FW FW FW FW FW CL CL FW FW FW CL CL CL CL CL CL
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Obvis                           BD                                             
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            58    92      60    94      62    94      60    94
+Temp          68   58 83 91 71   60 85 93 72   62 84 92 71   60 84 92
+Dewpt         25   31 27 21 35   35 33 26 39   38 32 25 34   36 33 26
+PWind dir          SW    SW      SW    SW       W     S      SW    SW
+Wind char          GN    LT      GN    GN      GN    GN      GN    GN
+Avg clouds    FW   FW FW FW FW   FW FW FW FW   FW FW CL FW   FW FW CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ339-250000-
+California City-Kern CA
+35.13N 117.99W Elev. 2405 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      84          52          83          52          85
+Temp                   77 84 79 68 64 58 53 58 74 81 83 74 63 56 52 58 76 83 85
+Dewpt                  39 35 36 38 37 37 37 37 30 27 25 30 33 32 30 28 23 20 20
+RH                     25 17 21 33 37 45 54 45 20 14 12 20 32 40 43 32 14 10  9
+Wind dir               NW  W  W  W  W NW  S  N NE NE NW NW NW NW  N NE NE  E NW
+Wind spd                8 21 27 29 29 19 10  6  8  6  5 10  6  5  5  9 13 11  9
+Wind gust                       44 46 29                                       
+Clouds                 CL CL FW FW FW FW FW CL CL FW SC FW FW CL CL CL CL CL FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Obvis                        BD BD BD                                          
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            54    90      57    91      57    91      56    91
+Temp          65   54 80 89 68   57 82 89 69   57 81 89 67   56 82 89
+Dewpt         30   34 31 25 35   38 35 32 40   41 34 30 36   39 34 30
+PWind dir          NW    SW       W     W       W     S       W    SW
+Wind char          GN    LT      GN    GN      GN    GN      GN    GN
+Avg clouds    FW   FW FW FW SC   SC FW SC FW   FW FW FW FW   FW CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ338-250000-
+Mojave-Kern CA
+35.05N 118.18W Elev. 2785 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      79          54          81          55          84
+Temp                   76 79 76 65 63 60 55 60 73 79 80 71 63 58 55 61 75 82 83
+Dewpt                  40 37 38 41 39 38 35 37 31 30 28 33 34 32 30 29 25 22 23
+RH                     27 22 25 41 41 44 47 42 21 17 15 25 34 37 38 29 15 11 11
+Wind dir               NW  W  W  W NW NW NW NW NE  E  W NW NW NW  N NE  E  E  S
+Wind spd               13 29 29 34 37 24 13  9 10  8  6 11 10  9  9 11 20 13 10
+Wind gust                       51 56 36                                       
+Clouds                 CL CL FW SC FW FW FW CL CL FW SC FW CL CL CL CL CL FW FW
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Obvis                     BD BD BD BD BD                                       
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            57    87      59    88      59    89      58    89
+Temp          66   57 80 86 68   59 81 86 69   59 80 86 67   58 80 86
+Dewpt         31   34 32 30 35   38 38 35 40   41 35 33 37   39 35 34
+PWind dir          SW    SW       W     W       W    NE       W    SW
+Wind char          GN    GN      GN    GN      GN    GN      GN    GN
+Avg clouds    FW   FW FW SC SC   SC FW FW FW   FW FW FW FW   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ339-250000-
+Edwards AFB-Kern CA
+34.91N 117.93W Elev. 2303 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      84          51          84          50          86
+Temp                   76 84 80 68 62 57 52 57 75 82 83 75 62 56 50 56 76 84 85
+Dewpt                  40 34 34 38 39 38 36 38 32 29 26 29 32 32 29 28 26 22 20
+RH                     27 17 19 33 43 49 54 49 21 14 12 18 32 40 44 34 16 10  9
+Wind dir                W  W  W  W  W SW  W NW NE NE  N NW  W NW NE NE NE NE NW
+Wind spd                9 21 28 26 23 16 10  6 10  9  6 11  9  5  5  8 16 12 10
+Wind gust                       40 34                                          
+Clouds                 FW CL CL FW FW FW FW CL CL FW FW FW CL CL CL CL CL CL CL
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Obvis                        BD BD BD                                          
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            54    90      57    91      56    91      55    91
+Temp          64   54 80 88 68   57 82 89 67   56 81 89 66   55 81 88
+Dewpt         30   34 32 25 36   38 38 33 42   41 37 32 37   39 36 33
+PWind dir           W     W      SW     W      SW     S      SW    SW
+Wind char          GN    LT      GN    GN      GN    GN      GN    GN
+Avg clouds    FW   FW FW FW SC   SC SC SC FW   FW FW FW FW   FW CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$
+CAZ339-250000-
+Rosamond-Kern CA
+34.86N 118.20W Elev. 2342 ft
+801 AM PDT Mon Apr 24 2023
+
+Date                Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+PDT 3hrly     02 05 08 11 14 17 20 23 02 05 08 11 14 17 20 23 02 05 08 11 14 17
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      84          51          84          51          86
+Temp                   76 83 79 67 63 57 52 58 75 82 83 73 62 56 52 58 76 84 85
+Dewpt                  41 35 35 39 40 38 38 38 32 30 29 34 37 34 31 31 27 23 23
+RH                     28 18 20 36 43 49 59 47 21 15 14 24 39 43 44 36 16 11 10
+Wind dir               NW NW  W  W  W  W  W NW NE NE  N  W NW NW  N NE  E  E  N
+Wind spd               10 21 25 23 25 18 11 10 11 10  8 11 10  6  5  8 19 13 10
+Wind gust                       35 37                                          
+Clouds                 CL CL CL FW FW FW FW CL CL CL FW FW CL CL CL CL CL FW CL
+PoP 12hr                      0           0           0           0           0
+QPF 12hr                      0           0           0           0           0
+Snow 12hr                 00-00       00-00       00-00                        
+Obvis                        BD BD BD                                          
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+PDT 6hrly     23   05 11 17 23   05 11 17 23   05 11 17 23   05 11 17
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            54    90      58    91      57    91      55    91
+Temp          64   54 81 88 66   58 82 88 66   57 81 88 66   55 82 87
+Dewpt         34   35 34 31 38   39 39 37 42   42 38 35 39   40 37 36
+PWind dir          NW    SW      SW     W       W    SW       W    SW
+Wind char          GN    GN      GN    GN      GN    GN      GN    GN
+Avg clouds    FW   FW FW SC SC   FW SC FW FW   FW FW FW FW   CL CL CL
+PoP 12hr            0     0       0     0       0     0       0     0
+
+$$

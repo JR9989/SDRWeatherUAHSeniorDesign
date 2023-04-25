@@ -1,0 +1,76 @@
+ASUS42 KFFC 241503
+RWRGA 
+WEATHER ROUNDUP FOR GEORGIA
+NATIONAL WEATHER SERVICE PEACHTREE CITY GA
+1100 AM EDT MON APR 24 2023
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY. 
+
+* = USE WITH CAUTION. THE STATIONS MARKED WITH AN ASTERISK MAY NOT
+REPORT WEATHER SUCH AS PRECIPITATION, FOG, OR THUNDER AND ARE NOT 
+QUALITY CONTROLLED BY NWS.
+
+THE REMARK "TC" DENOTES TEMPERATURE READING IN DEGREES CELSIUS.
+
+GAZ001>058-241600-
+NORTH GEORGIA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ATLANTA        PTSUNNY   57  32  38 N6        30.16R TC  14           
+ATHENS         CLOUDY    56  35  45 E7        30.15R TC  13           
+CHAMBLEE       PTSUNNY   55  33  43 VRB5      30.16R TC  13           
+PEACHTREE CITY CLOUDY    56  35  45 N5        30.16R TC  13           
+ROME           SUNNY     57  30  35 N13G21    30.18S TC  14           
+WEST ATLANTA   PTSUNNY   55  34  45 N6        30.16R TC  13           
+GAINESVILLE    MOSUNNY   58  31  35 VRB3      30.16R TC  14           
+CARTERSVILLE   SUNNY     54  34  47 VRB7      30.18S TC  12           
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+DALTON*        SUNNY     54  31  42 N8G23     30.19R TC  12           
+LAWRENCEVILLE* PTSUNNY   56  33  42 CALM      30.15S TC  13           
+MARIETTA       PTSUNNY   56  30  37 NE5       30.14R TC  13           
+KENNESAW*      MOSUNNY   56  29  35 N9        30.17R TC  13           
+CANTON*        SUNNY     54  27  34 NE3       30.16R TC  12           
+BLAIRSVILLE*   SUNNY     51  28  41 NE5       30.16R TC  11           
+$$
+
+GAZ059>098-102>109-241600-
+CENTRAL GEORGIA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+AUGUSTA-BUSH   CLOUDY    61  39  44 NE9       30.12R TC  16           
+AUGUSTA-DANIEL CLOUDY    58  39  49 MISG      30.14R TC  14           
+COLUMBUS       CLOUDY    56  37  49 VRB7      30.15R TC  13           
+MACON          CLOUDY    61  39  44 N8        30.13S TC  16           
+ROBINS AFB     CLOUDY    60  42  50 NW6       30.13R TC  16           
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+LAGRANGE*      CLOUDY    54  37  51 CALM      30.16R TC  12           
+SYLVANIA*      PTSUNNY   67  44  42 E6        30.12R TC  20           
+MILLEDGEVILLE* CLOUDY    57  37  47 VRB6      30.13S TC  14           
+$$
+
+GAZ099>101-110>166-241600-
+SOUTH GEORGIA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+SAVANNAH       PTSUNNY   70  44  39 NE8       30.09R TC  21           
+VALDOSTA       LGT RAIN  61  52  72 NE7       30.09S TC  16           
+ST SIMONS      CLOUDY    73  53  49 N9        30.08R TC  23           
+ALBANY         CLOUDY    64  44  48 NE10      30.14R TC  18           
+HUNTER AFB     PTSUNNY   68  47  46 N7        30.06R TC  20           
+MOODY AFB      CLOUDY    64  47  55 NE6       30.08S TC  18           
+BRUNSWICK      CLOUDY    69  50  51 N9        30.08S TC  21           
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BAINBRIDGE*    CLOUDY    68  46  45 E17       30.10R TC  20           
+MOULTRIE*      CLOUDY    64  46  51 NE7       30.11R TC  18           
+VIDALIA*       PTSUNNY   64  45  48 NE5       30.11R TC  18           
+WAYCROSS*      CLOUDY    66  46  48 E8        30.09F TC  19           
+DOUGLAS*       CLOUDY    63  45  51 NE6       30.12R TC  17           
+$$
+  

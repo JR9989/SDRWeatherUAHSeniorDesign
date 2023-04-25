@@ -1,0 +1,32 @@
+SRUS46 KPQR 241530
+RVMPQR
+
+Hydrologic Statement 
+National Weather Service Portland OR
+830 AM PDT Mon Apr 24 2023
+
+WAZ040-24830-
+830 AM PDT Mon Apr 24 2023
+
+Current status of reservoirs on the Lewis River, updated 830 AM
+Mon, Apr 24 2023.
+
+RESERVOIR        CURRENT POOL ELEV      FULL POOL
+Swift Reservoir         978              1000 FT
+Yale Lake               478               490 FT
+Lake Merwin             233               240 FT
+
+As of 830 AM PDT, Mon Apr 24, 2023, the remaining aggregate
+storage for refill at Merwin, Yale, and Swift reservoirs is
+41 feet.
+ 
+This product is updated hourly on the NWS Portland webpage at:
+www.wrh.noaa.gov/total_forecast/getprod.php?wfo=pqr&sid=PQR&pil=RVM
+or 
+http://go.usa.gov/x97zc
+ 
+Additional hydrologic information can be viewed at:
+water.weather.gov/ahps2/index.php?wfo=pqr
+
+$$
+

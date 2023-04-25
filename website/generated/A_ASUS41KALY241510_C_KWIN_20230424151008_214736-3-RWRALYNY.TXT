@@ -1,0 +1,72 @@
+ASUS41 KALY 241510
+RWRALY
+
+NEW YORK STATE HOURLY WEATHER ROUNDUP
+NATIONAL WEATHER SERVICE ALBANY NY
+1100 AM EDT MON APR 24 2023
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+SIGNIFICANT WEATHER AND/OR NO OBSTRUCTIONS TO VISIBILITY.
+
+NYZ032-033-038>043-046>054-057>066-NYZ062>081-082-084-241600-
+EAST
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ALBANY         CLOUDY    49  37  63 NW5       30.06S                  
+GLENS FALLS    CLOUDY    44  40  85 S6        30.04R                  
+POUGHKEEPSIE   PTSUNNY   50  37  61 CALM      30.04S                  
+NEWBURGH       MOSUNNY   50  37  62 VRB6      30.03F                  
+MONTGOMERY     PTSUNNY   50  30  46 VRB3      30.03S                  
+WHITE PLAINS   PTSUNNY   52  37  56 VRB3      30.04S                  
+ISLIP          MOSUNNY   54  38  54 N7        30.04F                  
+NEW YORK CITY  MOSUNNY   54  35  48 CALM      30.05F                  
+CENTRAL PARK   SUNNY     54  33  45 NW5       30.08S                  
+$$
+
+NYZ005>009-017-018-044>046-055-056-241600-
+CENTRAL
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+FULTON         CLOUDY    46  37  71 NW7       30.07R                  
+SYRACUSE       LGT RAIN  48  35  60 W9        30.07R                  
+ROME           CLOUDY    44  36  73 NW8       30.06S                  
+ELMIRA         PTSUNNY   49  37  63 W5        30.05S                  
+BINGHAMTON     PTSUNNY   44  31  60 VRB7      30.03R                  
+MONTICELLO     MOSUNNY   46  31  55 VRB7      30.04S                  
+$$
+
+NYZ026>034-041>043-087-241600-
+NORTH
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+WATERTOWN      CLOUDY    46  37  71 W8        30.05R                  
+FORT DRUM      NOT AVBL                                               
+OGDENSBURG     CLOUDY    43  39  87 W6        30.02R                  
+MASSENA        LGT RAIN  42  39  89 W9        30.04R                  
+SARANAC LAKE   LGT RAIN  39  36  89 SW5       29.99R                  
+PLATTSBURGH    NOT AVBL                                               
+$$
+
+NYZ001>004-010>016-019>021-085-241600-
+WEST
+
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+NIAGARA FALLS  LGT RAIN  43  35  73 NW6       30.07R                  
+BUFFALO        CLOUDY    43  37  79 SW13      30.07R                  
+DUNKIRK        CLOUDY    46  34  62 W9        30.10R                  
+JAMESTOWN      LGT RAIN  37  36  93 SW5       30.07R WCI  34          
+WELLSVILLE     PTSUNNY   42  30  62 SW10      30.04R                  
+ROCHESTER      PTSUNNY   44  36  73 W12       30.07R                  
+PENN YAN       PTSUNNY   47  35  63 NE5       30.05S                  
+$$
+
+             KEY
+       WCI = WIND CHILL INDEX
+       VSB = VISIBILITY
+       HX  = HEAT INDEX
+$$
+  

@@ -1,0 +1,118 @@
+FLUS42 KGSP 241446
+HWOGSP
+
+Hazardous Weather Outlook
+National Weather Service Greenville-Spartanburg SC
+1046 AM EDT Mon Apr 24 2023
+
+NCZ035>037-056-057-068>072-082-502-504-506>510-SCZ008>014-019-
+101>109-251500-
+Alexander-Iredell-Davie-Catawba-Rowan-Cleveland-Lincoln-Gaston-
+Mecklenburg-Cabarrus-Union NC-Greater Caldwell-Greater Burke-
+Eastern McDowell-Rutherford Mountains-Greater Rutherford-
+Polk Mountains-Eastern Polk-Cherokee-York-Anderson-Abbeville-Laurens-
+Union SC-Chester-Greenwood-Oconee Mountains-Pickens Mountains-
+Greenville Mountains-Greater Oconee-Greater Pickens-
+Central Greenville-Southern Greenville-Northern Spartanburg-
+Southern Spartanburg-
+1046 AM EDT Mon Apr 24 2023
+
+This Hazardous Weather Outlook is for piedmont North Carolina, 
+western North Carolina and upstate South Carolina.
+
+.DAY ONE...Today and tonight.
+
+No hazardous weather is expected at this time.
+
+.DAYS TWO THROUGH SEVEN...Tuesday through Sunday.
+
+No hazardous weather is expected at this time.
+
+.SPOTTER INFORMATION STATEMENT...
+
+None.
+
+$$
+
+NCZ033-048>052-058-059-062-251500-
+Avery-Madison-Yancey-Mitchell-Swain-Haywood-Graham-Northern Jackson-
+Macon-
+1046 AM EDT Mon Apr 24 2023
+
+...FREEZE WARNING IN EFFECT FROM 2 AM TO 9 AM EDT TUESDAY...
+
+This Hazardous Weather Outlook is for western North Carolina.
+
+.DAY ONE...Today and tonight.
+
+Please listen to NOAA Weather Radio or go to weather.gov on the
+Internet for more information about the following hazards.
+
+   Freeze Warning.
+
+.DAYS TWO THROUGH SEVEN...Tuesday through Sunday.
+
+Please listen to NOAA Weather Radio or go to weather.gov on the
+Internet for more information about the following hazards.
+
+   Freeze Warning.
+
+.SPOTTER INFORMATION STATEMENT...
+
+None.
+
+$$
+
+NCZ053-063>065-501-503-505-251500-
+Buncombe-Southern Jackson-Transylvania-Henderson-Caldwell Mountains-
+Burke Mountains-McDowell Mountains-
+1046 AM EDT Mon Apr 24 2023
+
+...FROST ADVISORY IN EFFECT FROM 2 AM TO 9 AM EDT TUESDAY...
+
+This Hazardous Weather Outlook is for western North Carolina.
+
+.DAY ONE...Today and tonight.
+
+Please listen to NOAA Weather Radio or go to weather.gov on the
+Internet for more information about the following hazards.
+
+   Frost Advisory.
+
+.DAYS TWO THROUGH SEVEN...Tuesday through Sunday.
+
+Please listen to NOAA Weather Radio or go to weather.gov on the
+Internet for more information about the following hazards.
+
+   Frost Advisory.
+
+.SPOTTER INFORMATION STATEMENT...
+
+None.
+
+$$
+
+GAZ010-017-018-026-028-029-251500-
+Rabun-Habersham-Stephens-Franklin-Hart-Elbert-
+1046 AM EDT Mon Apr 24 2023
+
+...INCREASED FIRE DANGER IN EFFECT UNTIL 8 PM EDT THIS EVENING...
+
+This Hazardous Weather Outlook is for northeast Georgia.
+
+.DAY ONE...Today and tonight.
+
+Please listen to NOAA Weather Radio or go to weather.gov on the
+Internet for more information about the following hazards.
+
+   Increased Fire Danger.
+
+.DAYS TWO THROUGH SEVEN...Tuesday through Sunday.
+
+No hazardous weather is expected at this time.
+
+.SPOTTER INFORMATION STATEMENT...
+
+None.
+
+$$

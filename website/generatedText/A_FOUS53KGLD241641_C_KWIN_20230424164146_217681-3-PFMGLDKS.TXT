@@ -1,0 +1,718 @@
+FOUS53 KGLD 241641
+PFMGLD
+FOUS53 KGLD 241641
+PFMGLD
+
+Point Forecast Matrices
+National Weather Service Goodland KS
+1041 AM MDT Mon Apr 24 2023
+
+KSZ013-242300-
+Goodland-Sherman KS
+39.38N 101.70W Elev. 3691 ft
+1041 AM MDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+MDT 3hrly     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      62          39          49          37          50
+Temp                   57 62 60 47 43 40 40 43 46 48 47 41 40 38 37 39 43 48 49
+Dewpt                  35 36 38 39 40 39 40 42 41 41 41 40 40 38 37 39 39 38 37
+RH                     43 38 44 74 89 96100 96 83 77 79 96100100100100 86 68 63
+Wind dir                S SE  E  E SE SE SE SE SE  E  E  E  E  E  E NE NE NE  E
+Wind spd               18 14 17 13 11  9  9 13 16 17 16 13 18 14 13 13 12 10  8
+Clouds                 B2 B2 B1 B1 B2 OV OV OV OV OV OV OV OV OV OV OV OV B2 B1
+PoP 12hr                     30          50          80          90          60
+QPF 12hr                      0        0.03        0.09        0.42        0.20
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                 C  C  C  C  C  L  L  D  D  D  D  D  D  L  L  C  C   
+Tstms                                           S  S  S                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+MDT 6hrly     00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            32    67      36    54      29    58      33    66
+Temp          37   32 61 64 46   37 48 51 34   29 50 57 37   33 58 64
+Dewpt         36   32 39 38 38   35 29 25 26   25 25 24 27   28 28 27
+PWind dir          SW     W      NW     N       N    NW      NW    NW
+Wind char          LT    GN      BZ    WY      BZ    BZ      GN    BZ
+Avg clouds    SC   SC SC SC SC   B2 B2 B1 SC   SC SC SC SC   SC FW FW
+PoP 12hr           10     5      50    30      20    10       5     5
+Rain shwrs                   C    C  C  C  S                         
+
+$$
+KSZ014-242300-
+Colby-Thomas KS
+39.43N 101.05W Elev. 3133 ft
+1141 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      60          40          49          39          52
+Temp                   57 59 57 47 43 40 40 43 47 48 47 43 41 39 39 41 46 50 50
+Dewpt                  40 38 40 41 40 39 40 42 44 43 44 42 41 39 39 41 41 40 39
+RH                     53 45 53 79 89 96100 96 89 83 89 96100100100100 83 68 66
+Wind dir                S SE  E SE SE SE SE SE  E  E  E  E  E  E  E NE  E  E  E
+Wind spd               17 16 17 12 11  9 10 13 14 16 14 13 14 13 13 13 11  9  6
+Clouds                 OV B2 B1 B1 B2 OV OV OV OV OV OV OV OV OV OV OV OV B2 B1
+PoP 12hr                     30          50          70          80          60
+QPF 12hr                      0        0.04        0.08        0.25        0.13
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              S  C  C  C  C  C  L  L  L  L  D  D  D  D  L  L  C  C   
+Tstms                                           S  S  S                        
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          34    67      39    55      30    58      34    65
+Temp          38 34 60 65   47 39 49 51   36 30 51 56   39 34 58 63
+Dewpt         38 34 42 40   40 36 32 28   26 27 28 27   28 29 31 29
+PWind dir        SW    SW      NW     N       N    NW      NW    NW
+Wind char        LT    GN      GN    BZ      BZ    BZ      GN    BZ
+Avg clouds    B1 SC SC SC   B1 B2 B2 B1   SC FW SC SC   SC FW FW FW
+PoP 12hr         10     5      50    30      20    10       5     5
+Rain shwrs                   C  C  C  C    S                       
+
+$$
+KSZ041-242300-
+Tribune-Greeley KS
+38.47N 101.78W Elev. 3595 ft
+1041 AM MDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+MDT 3hrly     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      63          38          51          34          47
+Temp                   59 62 59 46 42 40 39 43 48 50 47 41 39 37 35 38 42 45 45
+Dewpt                  40 37 39 40 40 39 39 43 44 43 43 40 39 37 35 38 40 39 38
+RH                     49 39 47 79 93 96100100 86 77 86 96100100100100 93 79 76
+Wind dir                S  S SE SE SE SE  E SE  E  E  E  E  E  E NE NE NE NE NE
+Wind spd               20 16 17 17 12  9  9 11 13 17 18 19 21 20 18 19 18 13 10
+Wind gust                                                  33       29         
+Clouds                 B2 B2 B1 B2 B2 OV OV OV OV OV OV OV OV OV OV OV OV OV B2
+PoP 12hr                     30          40          70          90          80
+QPF 12hr                      0        0.04        0.04        0.74        0.42
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                 C  C  C  C  C  C  C  L  L  D  D  D  D  D  D  L  L  S
+Snowshwrs                                                         S            
+Tstms                                                 S  S  S     S            
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+MDT 6hrly     00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            30    66      33    55      27    60      31    68
+Temp          37   31 59 64 45   34 48 50 34   27 52 57 37   32 61 64
+Dewpt         36   31 40 38 37   34 31 26 25   24 27 25 26   26 31 29
+PWind dir          NW     W       W     N       N     N      NW    NW
+Wind char          LT    GN      GN    WY      BZ    BZ      GN    GN
+Avg clouds    B2   SC SC SC B1   B2 B2 B1 SC   SC FW SC SC   FW FW FW
+PoP 12hr           20     5      30    30      20    10       5     5
+Rain shwrs     S             S    C  C  C  S                         
+
+$$
+KSZ016-242300-
+Hill City-Graham KS
+39.39N  99.83W Elev. 2193 ft
+1141 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      61          42          53          40          58
+Temp                   60 58 56 47 44 42 42 47 52 52 50 45 43 41 40 45 52 56 56
+Dewpt                  37 35 40 41 40 40 41 43 43 43 44 42 42 41 40 39 38 36 36
+RH                     42 42 55 79 86 93 96 86 71 71 80 89 96100100 79 59 47 47
+Wind dir                S  S SE SE SE SE  E  E  E  E  E  E  E  E NE  E  E  E  E
+Wind spd               17 16 13 12  9  8  8 11 13 13 12 11 14 12 11 13 13 11  8
+Clouds                 OV OV OV B2 B2 B2 B2 OV OV OV OV OV OV B2 OV B2 B2 B2 B2
+PoP 12hr                     30          50          70          70          50
+QPF 12hr                   0.02        0.03        0.06        0.08        0.07
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              S  C  C  C  C  C  L  L  L  L  L  L  L  L  C  C  C  C   
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          35    70      41    59      33    61      35    68
+Temp          43 36 63 68   50 41 54 55   40 33 54 58   40 35 61 65
+Dewpt         37 36 40 38   42 38 33 29   27 27 28 27   28 28 30 27
+PWind dir        NW    SW       W     N       N    NW      NW    NW
+Wind char        LT    GN      GN    BZ      BZ    BZ      GN    BZ
+Avg clouds    B1 SC SC SC   B1 B1 B1 B1   SC SC SC SC   SC FW FW FW
+PoP 12hr         10     5      50    40      20    10      10     5
+Rain shwrs                   S  C  C  C    S  S                    
+
+$$
+NEZ081-242300-
+McCook-Red Willow NE
+40.23N 100.58W Elev. 2576 ft
+1141 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      64          40          53          39          59
+Temp                   63 63 59 49 44 41 40 45 51 52 49 44 43 41 39 44 53 57 57
+Dewpt                  35 34 38 39 40 39 40 42 41 40 41 40 41 40 39 39 36 35 33
+RH                     35 34 45 68 86 92100 89 68 63 74 86 93 96100 82 52 43 40
+Wind dir                S SE SE SE SE SE  E  E  E  E  E  E  E  E NE  E  E SE SE
+Wind spd               20 18 17 13 11 10 10 14 17 17 16 13 17 11 11 13 11  9  8
+Clouds                 B2 B2 B1 B1 B2 B2 B2 OV OV OV OV B2 B2 B2 B2 B2 B2 B1 B1
+PoP 12hr                     20          40          60          60          30
+QPF 12hr                   0.02        0.03        0.06        0.04        0.01
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                 S  S  S  S  S  C  C  L  L  L  L  C  C  C  C  S  S   
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          35    71      39    57      32    59      34    66
+Temp          41 35 64 67   48 39 50 51   38 32 51 58   40 34 59 63
+Dewpt         36 34 37 37   41 36 29 26   26 26 25 23   28 28 27 25
+PWind dir        SW    SW      NW     N      NW    NW      NW    NW
+Wind char        LT    GN      GN    BZ      BZ    BZ      GN    BZ
+Avg clouds    B1 SC SC SC   B1 B2 B2 B1   SC SC SC SC   SC SC FW FW
+PoP 12hr          5    10      60    40      10    10      10     5
+Rain shwrs                   C  L  C  C                            
+Tstms                        S                                     
+
+$$
+NEZ079-242300-
+Benkelman-Dundy NE
+40.05N 101.54W Elev. 2986 ft
+1041 AM MDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+MDT 3hrly     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      63          39          51          39          55
+Temp                   62 62 60 48 43 40 39 43 48 50 49 44 42 41 39 42 49 53 54
+Dewpt                  40 37 38 40 40 40 39 43 42 42 42 42 42 41 39 41 39 38 36
+RH                     44 39 44 74 89100100100 80 74 77 93100100100 96 68 57 50
+Wind dir               SE SE SE SE SE SE  E  E  E  E  E  E  E  E  E  E  E  E SE
+Wind spd               17 17 18 13 11 11 10 13 17 18 19 16 13 13 10 11 10  8  6
+Clouds                 B2 B2 B1 B1 B2 B2 OV OV OV OV OV OV OV OV OV B2 OV B2 B1
+PoP 12hr                     20          40          60          80          40
+QPF 12hr                      0        0.01        0.12        0.10        0.02
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                 S  S  S  C  C  L  L  L  L  D  D  L  L  C  C  S  S   
+Tstms                                                 S                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+MDT 6hrly     00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            34    70      38    55      30    59      34    66
+Temp          39   34 63 66 47   38 50 52 36   30 51 57 40   34 58 64
+Dewpt         38   34 40 38 40   36 29 26 27   27 27 25 28   29 28 27
+PWind dir          SW     W      NW     N      NW    NW      NW    NW
+Wind char          LT    GN      BZ    WY      BZ    BZ      GN    BZ
+Avg clouds    SC   SC SC SC B1   B2 B2 B1 SC   FW SC SC SC   SC FW FW
+PoP 12hr            5     5      60    30      10    10       5     5
+Rain shwrs                   C    L  C  C                            
+
+$$
+COZ091-242300-
+Burlington-Kit Carson CO
+39.24N 102.29W Elev. 4167 ft
+1041 AM MDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+MDT 3hrly     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      64          38          49          35          48
+Temp                   58 64 60 47 42 40 40 42 47 48 45 40 39 37 35 38 42 46 46
+Dewpt                  35 34 36 40 40 40 39 42 41 41 41 39 39 37 35 38 38 37 37
+RH                     42 32 41 76 93100 96100 79 77 86 96100100100100 86 71 71
+Wind dir               SE SE  E  E SE SE SE SE SE  E  E  E  E  E NE NE NE NE NE
+Wind spd               12 11 16 16 11  9 10 13 14 17 14 16 21 18 16 17 14 12  8
+Wind gust                                               26 34 28               
+Clouds                 B2 B1 B1 B1 B2 OV OV OV OV OV OV OV OV OV OV OV OV B2 B2
+PoP 12hr                     30          50          80          90          70
+QPF 12hr                      0        0.03        0.16        0.57        0.22
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                 C  C  C  C  C  L  L  D  D  D  D  D  D  L  L  C  C   
+Snowshwrs                                                         S            
+Tstms                                              S  S  S                     
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+MDT 6hrly     00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            31    66      33    51      26    57      32    65
+Temp          35   31 60 62 44   34 46 47 32   26 51 55 37   32 59 62
+Dewpt         34   31 38 37 38   34 29 25 25   24 25 25 26   26 28 28
+PWind dir          SW     W      NW     N       N     N      NW    NW
+Wind char          GN    GN      GN    WY      BZ    BZ      GN    BZ
+Avg clouds    B1   SC SC SC B1   B1 B2 B1 SC   FW SC SC SC   FW FW SC
+PoP 12hr           10     5      40    40      20    10       5     5
+Rain shwrs                   C    C  C  C  S                         
+Snowshwrs                                  S                         
+
+$$
+COZ090-242300-
+Yuma-Yuma CO
+40.12N 102.72W Elev. 4144 ft
+1041 AM MDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+MDT 3hrly     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      62          37          46          36          51
+Temp                   55 62 60 48 41 40 37 42 44 45 45 40 39 37 36 40 45 49 50
+Dewpt                  34 34 34 38 40 37 37 42 43 42 41 40 39 37 36 39 38 38 36
+RH                     45 35 37 68 96 89100100 96 89 86100100100100 96 76 66 58
+Wind dir               SE SE  E  E SE SE SE SE SE  E  E  E  E  E  E  E  E  E  S
+Wind spd                9 11 14 16 12  9 11 14 17 19 20 19 18 14 12 12 10  8  8
+Wind gust                                         29 33 31 29                  
+Clouds                 B1 SC B1 B1 B2 B2 OV OV OV OV OV OV OV OV OV OV B2 B2 B1
+PoP 12hr                     20          50          80          90          50
+QPF 12hr                      0        0.03        0.21        0.19        0.02
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                 S  S  S  C  C  L  L  D  D  D  D  D  D  C  C  S  S   
+Tstms                                           S  S  S                        
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+MDT 6hrly     00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            32    66      33    50      27    57      32    63
+Temp          37   33 61 62 43   34 46 46 33   28 50 54 37   32 57 61
+Dewpt         36   33 37 35 38   33 28 24 26   25 25 24 28   28 29 27
+PWind dir          SW     W      NW     N       N    NW      NW    NW
+Wind char          GN    GN      BZ    WY      BZ    BZ      GN    GN
+Avg clouds    SC   SC SC SC B1   B2 B2 B1 B1   SC SC SC SC   SC FW FW
+PoP 12hr            5    10      60    40      20    10      10    10
+Rain shwrs                   C    L  C  C  S                         
+Snowshwrs                                  S                         
+
+$$
+KSZ001-242300-
+St. Francis-Cheyenne KS
+39.75N 101.78W Elev. 3321 ft
+1141 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      61          39          49          38          53
+Temp                   56 61 60 48 43 41 39 43 46 48 47 43 41 39 39 40 45 51 52
+Dewpt                  39 36 38 40 40 40 39 42 43 41 42 42 41 39 39 40 40 38 37
+RH                     53 39 44 74 89 96100 96 89 77 83 96100100100100 82 61 56
+Wind dir               SE SE  E SE SE SE SE SE  E  E  E  E  E  E NE NE  E  E SE
+Wind spd               14 16 17 13 11  9 10 12 16 17 17 14 17 13 11 11 10  8  6
+Clouds                 B2 B2 B1 B1 B2 B2 B2 OV OV OV OV OV OV OV OV OV OV B2 B1
+PoP 12hr                     30          50          70          90          50
+QPF 12hr                      0        0.03        0.14        0.26        0.06
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                 S  C  C  C  C  L  L  L  L  D  D  D  D  C  C  C  C   
+Tstms                                              S  S                        
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          33    69      36    54      29    58      33    65
+Temp          38 33 61 65   46 37 48 51   35 29 50 57   39 33 58 64
+Dewpt         37 33 39 38   40 36 29 25   27 27 25 25   28 29 29 27
+PWind dir        SW     W      NW     N       N    NW      NW    NW
+Wind char        LT    GN      BZ    WY      BZ    BZ      GN    BZ
+Avg clouds    SC SC SC SC   B1 B2 B2 B1   SC FW SC SC   SC SC FW FW
+PoP 12hr          5    10      50    30      20    10      10     5
+Rain shwrs                   C  C  C  C    S                       
+
+$$
+KSZ002-242300-
+Atwood-Rawlins KS
+39.81N 101.03W Elev. 2860 ft
+1141 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      61          40          50          40          54
+Temp                   60 60 58 48 43 41 40 44 48 49 49 45 42 41 40 42 49 53 53
+Dewpt                  40 37 39 41 41 40 40 42 44 43 44 43 42 41 40 41 40 39 38
+RH                     47 42 49 77 93 96100 93 86 80 83 93100100100 96 71 59 57
+Wind dir               SE SE SE SE SE SE  E SE SE  E  E  E  E  E  E  E  E  E SE
+Wind spd               17 14 18 12 11  9  9 13 16 16 16 13 16 12 11 12 10  8  6
+Clouds                 OV B2 B1 B1 B2 B2 B2 OV OV OV OV OV OV OV OV B2 OV B2 B1
+PoP 12hr                     30          40          70          80          50
+QPF 12hr                      0        0.05        0.08        0.11        0.04
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                 S  C  C  C  C  C  C  L  L  D  D  L  L  C  C  C  C   
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          34    69      39    55      31    58      34    65
+Temp          39 34 61 66   47 39 50 51   37 31 50 57   40 34 58 64
+Dewpt         38 34 42 40   41 38 32 28   26 27 28 27   28 29 31 28
+PWind dir        SW    SW      NW     N       N    NW      NW    NW
+Wind char        LT    GN      GN    WY      BZ    BZ      GN    BZ
+Avg clouds    B1 SC SC SC   B1 B2 B2 B1   SC FW SC SC   SC FW FW FW
+PoP 12hr          5     5      50    30      20    10       5     5
+Rain shwrs                   C  C  C  C    S                       
+
+$$
+KSZ003-242300-
+Oberlin-Decatur KS
+39.82N 100.51W Elev. 2623 ft
+1141 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      63          40          52          39          58
+Temp                   63 60 58 48 44 41 40 45 50 51 50 45 43 40 39 44 51 56 55
+Dewpt                  36 37 39 41 41 40 40 43 43 43 44 42 42 40 39 41 39 38 37
+RH                     36 42 49 77 89 96100 93 77 74 80 89 96100100 89 63 51 51
+Wind dir                S SE SE SE SE SE  E  E  E  E  E  E  E  E  E  E  E  E  E
+Wind spd               19 17 14 12 10  8  9 13 16 16 14 13 16 12 12 13 12  9  6
+Clouds                 OV OV B2 B1 B2 B2 OV OV OV OV B2 OV OV B2 OV B2 B2 B2 B1
+PoP 12hr                     20          40          60          70          40
+QPF 12hr                      0        0.06        0.07        0.06        0.02
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                 S  S  S  C  C  C  C  L  L  L  L  L  L  C  C  C  C   
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          34    70      39    57      32    60      34    66
+Temp          39 34 63 68   49 39 51 53   38 32 52 58   40 34 59 64
+Dewpt         36 34 40 39   42 38 32 28   26 27 28 26   28 29 30 27
+PWind dir        SW    SW      NW     N      NW    NW      NW    NW
+Wind char        LT    GN      GN    BZ      BZ    BZ      GN    BZ
+Avg clouds    B1 SC SC SC   B1 B2 B2 B1   SC SC SC SC   SC FW FW FW
+PoP 12hr          5     5      50    40      20    10       5     5
+Rain shwrs                   C  C  C  C    S                       
+
+$$
+KSZ004-242300-
+Norton-Norton KS
+39.83N  99.89W Elev. 2273 ft
+1141 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      63          40          55          39          60
+Temp                   62 62 57 48 44 41 40 46 53 55 51 45 44 41 39 45 53 58 57
+Dewpt                  38 35 38 40 41 40 40 43 43 43 42 41 41 40 39 39 38 36 35
+RH                     41 36 49 74 89 96100 89 69 64 71 86 89 96100 79 57 44 43
+Wind dir                S  S SE SE SE SE  E  E  E  E  E  E  E  E  E  E  E  E  E
+Wind spd               18 18 16 12 11  8  8 11 14 16 14 13 13 12 11 13 12 10  6
+Clouds                 B2 OV B2 B2 B2 B2 B2 OV OV OV B2 OV B2 B2 OV B2 B2 B1 B1
+PoP 12hr                     20          30          60          60          40
+QPF 12hr                   0.01        0.03        0.04        0.04        0.01
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                 S  S  S  S  S  C  C  L  L  L  L  L  L  C  C  C  C   
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          35    70      39    58      32    60      34    67
+Temp          42 35 64 68   49 40 53 53   39 32 53 57   40 34 60 64
+Dewpt         36 35 40 37   43 37 32 28   27 26 28 25   28 27 30 27
+PWind dir        SW    SW      NW     N      NW    NW      NW    NW
+Wind char        LT    GN      GN    BZ      BZ    BZ      GN    BZ
+Avg clouds    B1 SC SC SC   B1 B1 B1 B1   SC SC SC SC   SC FW FW FW
+PoP 12hr         10     5      60    40      20    10      10     5
+Rain shwrs                   C  L  C  C    S                       
+
+$$
+KSZ015-242300-
+Hoxie-Sheridan KS
+39.35N 100.43W Elev. 2703 ft
+1141 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      59          40          51          39          55
+Temp                   57 57 55 46 42 40 40 45 49 50 49 43 42 40 39 42 49 53 53
+Dewpt                  40 38 40 41 40 39 40 43 43 44 44 43 42 40 39 41 40 39 38
+RH                     53 49 57 83 93 96100 93 80 80 83100100100100 96 71 59 57
+Wind dir                S SE SE SE SE SE SE SE  E  E  E  E  E  E NE  E  E  E NE
+Wind spd               18 16 13 12 11  9  9 12 14 14 13 13 14 13 12 14 13 11  8
+Clouds                 OV OV B2 B2 B2 OV OV OV OV OV OV OV OV OV OV OV OV B2 B2
+PoP 12hr                     30          50          80          80          60
+QPF 12hr                      0        0.06        0.07        0.16        0.12
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              S  C  C  C  C  C  L  L  D  D  D  D  L  L  L  L  C  C   
+Tstms                                           S                              
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          34    69      39    56      30    60      34    67
+Temp          40 34 61 67   49 39 52 53   37 30 53 57   39 34 60 64
+Dewpt         38 34 41 40   41 38 32 29   26 27 28 28   28 28 30 29
+PWind dir         W    SW       W     N       N    NW      NW    NW
+Wind char        LT    GN      GN    BZ      BZ    BZ      GN    BZ
+Avg clouds    B1 SC SC SC   B1 B1 B2 B1   SC FW SC SC   SC FW FW FW
+PoP 12hr         10     5      50    40      20    10       5     5
+Rain shwrs                   C  C  C  C    S                       
+
+$$
+KSZ027-242300-
+Sharon Springs-Wallace KS
+38.89N 101.73W Elev. 3471 ft
+1041 AM MDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+MDT 3hrly     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      64          39          51          36          49
+Temp                   59 63 61 47 42 41 39 42 48 50 48 42 40 38 36 39 43 47 47
+Dewpt                  38 36 40 41 40 40 39 42 43 41 42 41 40 38 36 39 39 39 37
+RH                     45 36 46 79 93 96100100 83 71 80 96100100100100 86 74 68
+Wind dir                S  S SE SE SE SE  E SE  E  E  E  E  E  E NE NE NE NE NE
+Wind spd               19 13 14 16 10  9  8 12 14 17 17 17 21 18 17 17 13 12  9
+Wind gust                                                  34 28               
+Clouds                 B2 B2 B1 B1 B2 OV OV OV OV OV OV OV OV OV OV OV OV B2 B2
+PoP 12hr                     30          50          80          90          80
+QPF 12hr                      0        0.03        0.07        0.61        0.33
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                 C  C  C  C  C  L  L  D  D  D  D  D  D  D  D  C  C   
+Tstms                                              S  S  S  S                  
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+MDT 6hrly     00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            32    67      36    55      29    60      33    68
+Temp          37   32 59 64 46   36 48 52 35   29 52 58 38   33 60 64
+Dewpt         36   32 40 38 38   34 30 25 26   24 25 25 26   26 29 28
+PWind dir          NW     W       W     N       N     N      NW    NW
+Wind char          LT    GN      GN    WY      BZ    BZ      GN    BZ
+Avg clouds    B1   SC SC SC B1   B2 B2 B1 SC   SC SC SC SC   FW FW FW
+PoP 12hr           10     5      40    40      20    10       5     5
+Rain shwrs                   S    C  C  C  S                         
+
+$$
+KSZ028-242300-
+Russel Springs-Logan KS
+38.90N 101.15W Elev. 2964 ft
+1141 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      60          39          51          38          50
+Temp                   56 59 58 46 42 40 39 42 47 50 48 43 41 40 38 40 43 48 49
+Dewpt                  39 38 41 42 40 39 38 41 43 43 44 42 41 40 38 40 41 39 40
+RH                     53 45 53 86 93 96 96 96 86 77 86 96100100100100 93 71 71
+Wind dir                S SE SE SE SE SE  E  E  E  E  E  E  E  E  E NE NE NE NE
+Wind spd               23 18 18 14 12 10 10 13 16 19 18 17 18 16 16 14 14 12  9
+Wind gust                                                  28                  
+Clouds                 OV B2 B2 B2 B2 OV OV OV OV B2 OV OV OV OV OV OV OV OV B2
+PoP 12hr                     30          50          80          90          70
+QPF 12hr                   0.02        0.08        0.07        0.43        0.30
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                 C  C  C  C  C  L  L  D  D  D  D  D  D  L  L  C  C  S
+Tstms                                           S  S     S                     
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          32    67      37    56      29    60      33    68
+Temp          38 32 58 66   47 37 50 52   36 29 51 59   38 33 60 64
+Dewpt         37 32 42 40   39 36 32 28   26 25 28 25   27 27 30 29
+PWind dir        NW    SW       W     N       N    NW      NW    NW
+Wind char        LT    GN      GN    BZ      BZ    BZ      GN    BZ
+Avg clouds    B2 SC SC SC   B1 B2 B2 B1   SC FW SC SC   SC SC FW FW
+PoP 12hr         20     5      40    40      20    10       5     5
+Rain shwrs     S             S  C  C  C    S                       
+
+$$
+KSZ029-242300-
+Gove-Gove KS
+38.90N 100.42W Elev. 2639 ft
+1141 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      58          40          51          40          52
+Temp                   54 56 55 45 42 41 40 44 48 50 49 44 43 41 40 42 46 50 51
+Dewpt                  39 40 41 42 40 39 40 43 44 44 44 43 42 41 40 41 41 41 40
+RH                     57 55 59 89 93 92100 96 86 80 83 96 96100100 96 83 71 66
+Wind dir                S SE SE SE SE SE  E  E  E  E  E  E  E  E  E NE  E NE NE
+Wind spd               21 19 18 13 11 10 10 12 16 17 16 14 14 14 13 17 17 12  9
+Clouds                 OV OV B2 B2 B2 OV OV OV OV OV OV OV OV OV OV OV OV OV B2
+PoP 12hr                     30          60          80          80          70
+QPF 12hr                      0        0.10        0.10        0.33        0.27
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs              S  C  C  C  C  C  L  L  D  D  D  D  D  D  L  L  C  C  S
+Tstms                                           S     S                        
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          33    67      40    57      32    60      34    67
+Temp          40 34 59 67   48 40 52 54   38 32 52 58   40 34 60 65
+Dewpt         39 34 42 40   41 38 34 30   27 27 29 28   28 28 31 29
+PWind dir        NW    SW       W     N       N    NW      NW    NW
+Wind char        LT    GN      GN    BZ      BZ    BZ      GN    BZ
+Avg clouds    B2 SC SC SC   B1 B1 B2 B1   SC FW SC SC   SC FW FW FW
+PoP 12hr         20     5      40    40      20    10       5     5
+Rain shwrs     S             S  C  C  C    S                       
+
+$$
+KSZ042-242300-
+Leoti-Wichita KS
+38.48N 101.34W Elev. 3305 ft
+1141 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      60          37          51          36          48
+Temp                   56 59 56 45 41 39 37 42 46 50 47 42 40 39 37 40 42 46 46
+Dewpt                  39 39 41 41 38 38 37 42 44 43 44 42 40 39 37 40 40 41 40
+RH                     53 47 57 86 89 96100100 93 77 89100100100100100 93 83 79
+Wind dir                S  S SE SE SE SE  E  E  E  E  E  E  E  E  E NE NE NE NE
+Wind spd               25 21 20 17 14 11  9 12 16 18 19 18 20 20 18 20 18 13 11
+Wind gust              35                                     31               
+Clouds                 B2 B2 B2 B2 OV OV OV OV OV OV OV OV OV OV OV OV OV OV B2
+PoP 12hr                     30          50          80          90          80
+QPF 12hr                      0        0.07        0.07        0.59        0.48
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                 C  C  C  C  C  L  L  D  D  D  D  D  D  D  D  L  L  S
+Tstms                                              S  S  S  S                  
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          31    66      36    55      29    60      32    68
+Temp          37 32 59 64   46 37 49 51   35 29 52 57   38 33 60 64
+Dewpt         37 32 41 39   38 36 32 28   26 25 28 25   26 26 31 29
+PWind dir        NW     W       W     N       N     N      NW    NW
+Wind char        LT    GN      GN    WY      BZ    BZ      GN    GN
+Avg clouds    B2 SC SC SC   B1 B2 B2 B1   SC FW FW SC   SC SC FW FW
+PoP 12hr         20     5      30    30      20    10       5     5
+Rain shwrs     S                C  C  C    S                       
+
+$$
+NEZ080-242300-
+Trenton-Hitchcock NE
+40.17N 101.03W Elev. 2674 ft
+1141 AM CDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+CDT 3hrly     04 07 10 13 16 19 22 01 04 07 10 13 16 19 22 01 04 07 10 13 16 19
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      64          40          52          39          57
+Temp                   64 61 59 48 44 41 40 44 49 51 50 45 42 41 39 43 51 55 55
+Dewpt                  40 37 37 39 41 40 40 42 42 41 42 42 42 41 39 40 37 36 35
+RH                     41 41 44 71 89 96100 93 77 68 74 89100100100 89 59 49 47
+Wind dir               SE SE SE SE SE SE  E  E  E  E  E  E  E  E NE  E  E  E SE
+Wind spd               19 19 19 14 11 10 10 14 18 18 19 14 16 12 10 12 11  9  8
+Clouds                 B2 B2 B1 B1 B2 B2 B2 OV OV OV OV OV B2 B2 OV B2 B2 B1 B1
+PoP 12hr                     20          40          60          70          30
+QPF 12hr                   0.01        0.02        0.07        0.07        0.01
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                 S  S  S  S  C  C  C  L  L  L  L  L  L  C  C  S  S   
+
+
+Date          Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+CDT 6hrly     01 07 13 19   01 07 13 19   01 07 13 19   01 07 13 19
+UTC 6hrly     06 12 18 00   06 12 18 00   06 12 18 00   06 12 18 00
+
+Min/Max          34    70      39    55      31    59      34    65
+Temp          39 34 64 67   47 39 50 52   37 31 51 57   40 34 59 63
+Dewpt         37 34 39 38   40 36 29 26   26 27 26 25   28 29 28 27
+PWind dir        SW    SW      NW     N      NW    NW      NW    NW
+Wind char        LT    GN      GN    WY      BZ    BZ      GN    BZ
+Avg clouds    B1 SC SC SC   B1 B2 B2 B1   SC FW SC SC   SC FW FW FW
+PoP 12hr          5     5      60    30      10    10      10     5
+Rain shwrs                   C  L  C  C                            
+
+$$
+COZ092-242300-
+Cheyenne Wells-Cheyenne CO
+38.82N 102.33W Elev. 4296 ft
+1041 AM MDT Mon Apr 24 2023
+
+Date             Mon 04/24/23            Tue 04/25/23            Wed 04/26/23
+MDT 3hrly     03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18
+UTC 3hrly     09 12 15 18 21 00 03 06 09 12 15 18 21 00 03 06 09 12 15 18 21 00
+
+Max/Min                      64          38          50          33          46
+Temp                   56 63 61 47 42 40 39 43 48 50 47 42 39 37 34 37 41 44 44
+Dewpt                  36 34 36 41 40 39 39 42 44 43 43 40 39 37 34 37 39 39 38
+RH                     47 34 39 79 93 96100 96 86 77 86 93100100100100 92 82 79
+Wind dir                S  S SE SE SE SE SE SE  E  E  E  E  E  E NE NE NE NE NE
+Wind spd               12 10 12 17 11  9  8 11 13 18 19 20 23 18 18 20 17 12  9
+Wind gust                                         28    32 34 28    31         
+Clouds                 B2 B1 B1 B1 B2 OV OV OV OV OV OV OV OV OV OV OV OV B2 B2
+PoP 12hr                     30          40          70         100          80
+QPF 12hr                      0        0.02        0.05        0.78        0.29
+Snow 12hr                 00-00       00-00       00-00                        
+Rain shwrs                 S  C  S  C  C  C  C  L  L  D  D  D  D  D  D  C  C   
+Tstms                                                 S  S  S                  
+
+
+Date               Thu 04/27/23  Fri 04/28/23  Sat 04/29/23  Sun 04/30/23
+MDT 6hrly     00   06 12 18 00   06 12 18 00   06 12 18 00   06 12 18
+UTC 6hrly     06   12 18 00 06   12 18 00 06   12 18 00 06   12 18 00
+
+Min/Max            30    64      33    52      27    58      32    66
+Temp          35   31 58 61 44   34 46 48 33   27 50 56 37   32 59 63
+Dewpt         35   31 40 38 38   33 31 26 25   24 26 26 27   25 31 29
+PWind dir          NW     W      NW     N       N     N      NW    NW
+Wind char          LT    GN      GN    WY      BZ    BZ      GN    GN
+Avg clouds    B1   SC SC SC SC   B1 B2 B1 SC   FW FW SC FW   FW FW FW
+PoP 12hr           10     5      30    40      20    10       5     5
+Rain shwrs                   S    C  C  C  S                         
+
+$$

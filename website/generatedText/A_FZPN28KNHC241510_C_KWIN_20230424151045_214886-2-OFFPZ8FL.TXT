@@ -1,0 +1,233 @@
+FZPN28 KNHC 241510
+OFFPZ8
+
+Offshore Waters Forecast
+NWS National Hurricane Center Miami, FL
+810 AM PDT Mon Apr 24 2023
+
+Offshore Waters Forecast for the E Pacific within 250 nm of
+Central America, Colombia, and within 750 nm of Ecuador
+
+Seas given as significant wave height, which is the average
+height of the highest 1/3 of the waves. Individual waves may be
+more than twice the significant wave height.
+
+PMZ101-250315-
+Synopsis for the E Pacific within 250 nm of Central America,
+Colombia, and within 750 nm of Ecuador
+810 AM PDT Mon Apr 24 2023
+
+.SYNOPSIS...A weak pressure gradient will support light to
+gentle breezes across the region through late week. Expect
+slight to moderate combined seas primarily in S to SW swell. 
+
+$$
+
+PMZ111-250315-
+Guatemala and El Salvador to 250 nm offshore-
+810 AM PDT Mon Apr 24 2023
+
+.TODAY...Variable winds less than 5 kt. Seas 3 to 5 ft in S to
+SW swell. Period 17 seconds. Scattered showers through the day. 
+.TONIGHT...NW winds 10 kt. Seas 3 to 5 ft. Period 16 seconds. 
+.TUE...Variable winds less than 5 kt, becoming W 10 kt in the
+afternoon. Seas 3 to 5 ft. Period 15 seconds. 
+.TUE NIGHT...NW winds 10 kt. Seas 3 to 5 ft. Period 15 seconds. 
+.WED...Variable winds less than 5 kt. Seas 3 to 5 ft in S to SW
+swell. Period 14 seconds. 
+.WED NIGHT...Variable winds less than 5 kt. Seas 4 to 6 ft in S
+to SW swell. Period 19 seconds. 
+.THU...Variable winds less than 5 kt. Seas 4 to 6 ft in S to SW
+swell. Period 18 seconds. 
+.THU NIGHT...Variable winds less than 5 kt. Seas 4 to 6 ft in S
+to SW swell. Period 17 seconds. 
+.FRI...Variable winds less than 5 kt. Seas 4 to 6 ft in S to SW
+swell. Period 16 seconds. 
+.FRI NIGHT...Variable winds less than 5 kt. Seas 3 to 5 ft in S
+to SW swell. Period 15 seconds. 
+
+$$
+
+PMZ113-250315-
+El Salvador to North Costa Rica including the Gulfs of Fonseca
+and Papagayo-
+810 AM PDT Mon Apr 24 2023
+
+.TODAY...Offshore Gulf of Papagayo, SW to W winds 10 kt in the
+afternoon. Variable winds less than 5 kt in the morning.
+Elsewhere, variable less than 5 kt. Seas 3 to 5 ft in S swell.
+Period 17 seconds. 
+.TONIGHT...Variable winds less than 5 kt. Seas 3 to 5 ft in S to
+SW swell. Period 16 seconds. 
+.TUE...Offshore Gulf of Papagayo, variable winds less than 5 kt,
+becoming W 10 kt in the afternoon. Elsewhere, variable winds
+less than 5 kt. Seas 3 to 5 ft in SW swell. Period 16 seconds. 
+.TUE NIGHT...Offshore Gulf of Papagayo, W winds 10 kt in the
+evening, becoming variable less than 5 kt. Elsewhere, variable
+winds less than 5 kt. Seas 3 to 5 ft in SW swell. Period
+15 seconds. 
+.WED...E winds 10 kt Offshore Gulf of Papagayo, and variable
+less than 5 kt Elsewhere. Seas 3 to 5 ft in SW swell. Period
+15 seconds. 
+.WED NIGHT...SW winds 10 kt Offshore Gulf of Papagayo, and
+variable less than 5 kt Elsewhere. Seas 3 to 5 ft in SW swell.
+Period 19 seconds. 
+.THU...Variable winds less than 5 kt. Seas 3 to 5 ft in SW
+swell. Period 18 seconds. 
+.THU NIGHT...SW winds 10 kt Offshore Gulf of Papagayo, and
+variable less than 5 kt Elsewhere. Seas 3 to 5 ft in SW swell.
+Period 17 seconds. 
+.FRI...Variable winds less than 5 kt. Seas 3 to 5 ft in S to SW
+swell. Period 16 seconds. 
+.FRI NIGHT...SW winds 10 kt Offshore Gulf of Papagayo, and
+variable less than 5 kt Elsewhere. Seas 3 to 5 ft in SW swell.
+Period 15 seconds. 
+
+$$
+
+PMZ115-250315-
+North Costa Rica to West Panama to 250 nm offshore-
+810 AM PDT Mon Apr 24 2023
+
+.TODAY...Variable winds less than 5 kt. Seas 3 to 5 ft in S to
+SW swell. Period 20 seconds. Scattered showers through the day. 
+.TONIGHT...Variable winds less than 5 kt. Seas 3 to 5 ft in S to
+SW swell. Period 18 seconds. Scattered showers through the
+night. 
+.TUE...Near the Azuero Peninsula, SE winds 10 kt in the
+afternoon. Variable winds less than 5 kt in the morning.
+Elsewhere, variable less than 5 kt. Seas 3 to 5 ft in S to SW
+swell. Period 17 seconds. Scattered showers through the day. 
+.TUE NIGHT...Variable winds less than 5 kt. Seas 3 to 5 ft in S
+to SW swell. Period 16 seconds. 
+.WED...Variable winds less than 5 kt. Seas 3 to 5 ft in S to SW
+swell. Period 15 seconds. 
+.WED NIGHT...Variable winds less than 5 kt. Seas 3 to 5 ft in S
+to SW swell. Period 15 seconds. 
+.THU...E winds 10 kt Near the Azuero Peninsula, and variable
+less than 5 kt Elsewhere. Seas 3 to 5 ft in S to SW swell.
+Period 18 seconds. 
+.THU NIGHT...Variable winds less than 5 kt. Seas 3 to 5 ft in S
+to SW swell. Period 17 seconds. 
+.FRI...Variable winds less than 5 kt. Seas 3 to 5 ft in SW
+swell. Period 16 seconds. 
+.FRI NIGHT...Variable winds less than 5 kt. Seas 3 to 5 ft in S
+to SW swell. Period 15 seconds. 
+
+$$
+
+PMZ117-250315-
+East Panama and Colombia including the Gulf of Panama-
+810 AM PDT Mon Apr 24 2023
+
+.TODAY...Gulf of Panama, variable winds less than 5 kt.
+Elsewhere, variable winds less than 5 kt, becoming NW to N 10 kt
+in the afternoon. Seas 3 to 5 ft in S to SW swell. Period
+20 seconds. 
+.TONIGHT...Variable winds less than 5 kt. Seas 3 to 5 ft in S to
+SW swell. Period 19 seconds. 
+.TUE...Variable winds less than 5 kt. Seas 3 to 5 ft in S to SW
+swell. Period 17 seconds. 
+.TUE NIGHT...Gulf of Panama, NW winds 10 kt late.
+Variable winds less than 5 kt in the evening. Elsewhere,
+variable less than 5 kt. Seas 3 to 5 ft in S to SW swell. Period
+17 seconds. 
+.WED...N to NE winds 10 kt Gulf of Panama, and variable less
+than 5 kt Elsewhere. Seas 3 to 5 ft in S to SW swell. Period
+21 seconds. 
+.WED NIGHT...Variable winds less than 5 kt. Seas 3 to 5 ft in S
+to SW swell. Period 20 seconds. 
+.THU...N winds 10 kt Gulf of Panama, and variable less than 5 kt
+Elsewhere. Seas 3 to 5 ft in SW swell. Period 19 seconds. 
+.THU NIGHT...Variable winds less than 5 kt. Seas 3 to 5 ft in SW
+swell. Period 18 seconds. 
+.FRI...Variable winds less than 5 kt. Seas 3 to 5 ft in SW
+swell. Period 17 seconds. 
+.FRI NIGHT...Variable winds less than 5 kt. Seas 3 to 5 ft in SW
+swell. Period 16 seconds. 
+
+$$
+
+PMZ119-250315-
+Ecuador including the Gulf of Guayaquil to 250 nm offshore-
+810 AM PDT Mon Apr 24 2023
+
+.TODAY...Variable winds less than 5 kt. Seas 4 to 6 ft in S to
+SW swell. Period 17 seconds. 
+.TONIGHT...Variable winds less than 5 kt. Seas 4 to 6 ft in S to
+SW swell. Period 16 seconds. 
+.TUE...Variable winds less than 5 kt, becoming NW 10 kt in the
+afternoon. Seas 4 to 6 ft in S to SW swell. Period 15 seconds. 
+.TUE NIGHT...Variable winds less than 5 kt. Seas 4 to 6 ft in S
+to SW swell. Period 14 seconds, becoming 16 seconds late.
+Scattered showers through the night. 
+.WED...Variable winds less than 5 kt. Seas 4 to 6 ft in S to SW
+swell. Period 19 seconds. 
+.WED NIGHT...Variable winds less than 5 kt. Seas 3 to 5 ft in SW
+swell. Period 18 seconds. 
+.THU...Variable winds less than 5 kt. Seas 3 to 5 ft in SW
+swell. Period 17 seconds. 
+.THU NIGHT...Variable winds less than 5 kt. Seas 3 to 5 ft in SW
+swell. Period 16 seconds. 
+.FRI...Variable winds less than 5 kt. Seas 3 to 5 ft in SW
+swell. Period 15 seconds. 
+.FRI NIGHT...Variable winds less than 5 kt. Seas 3 to 5 ft in SW
+swell. Period 14 seconds. 
+
+$$
+
+PMZ121-250315-
+Ecuador between 250 and 500 nm offshore-
+810 AM PDT Mon Apr 24 2023
+
+.TODAY...Variable winds less than 5 kt. Seas 4 to 6 ft in S to
+SW swell. Period 16 seconds. 
+.TONIGHT...Variable winds less than 5 kt. Seas 4 to 6 ft in S to
+SW swell. Period 15 seconds. Scattered showers through the
+night. 
+.TUE...Variable winds less than 5 kt. Seas 4 to 6 ft in S to SW
+swell. Period 15 seconds. 
+.TUE NIGHT...Variable winds less than 5 kt. Seas 4 to 6 ft in S
+to SW swell. Period 14 seconds. 
+.WED...Variable winds less than 5 kt. Seas 4 to 6 ft in S to SW
+swell. Period 17 seconds. 
+.WED NIGHT...SW winds 10 kt. Seas 4 to 6 ft in S to SW swell.
+Period 17 seconds. 
+.THU...S to SW winds 10 kt. Seas 4 to 6 ft in S to SW swell.
+Period 16 seconds. 
+.THU NIGHT...Variable winds less than 5 kt. Seas 3 to 5 ft in S
+to SW swell. Period 15 seconds. 
+.FRI...Variable winds less than 5 kt. Seas 3 to 5 ft in S to SW
+swell. Period 14 seconds. 
+.FRI NIGHT...Variable winds less than 5 kt. Seas 3 to 5 ft in S
+to SW swell. Period 14 seconds. 
+
+$$
+
+PMZ123-250315-
+Offshore Galapagos Islands-
+810 AM PDT Mon Apr 24 2023
+
+.TODAY...S winds 10 kt in the morning, becoming variable less
+than 5 kt. Seas 4 to 6 ft in S to SW swell. Period 16 seconds. 
+.TONIGHT...Variable winds less than 5 kt. Seas 4 to 6 ft in S to
+SW swell. Period 15 seconds. 
+.TUE...Variable winds less than 5 kt. Seas 4 to 6 ft in S to SW
+swell. Period 15 seconds. 
+.TUE NIGHT...Variable winds less than 5 kt. Seas 4 to 6 ft in S
+to SW swell. Period 14 seconds, becoming 17 seconds late. 
+.WED...Variable winds less than 5 kt. Seas 4 to 6 ft in S to SW
+swell. Period 18 seconds. 
+.WED NIGHT...S to SW winds 10 kt. Seas 4 to 6 ft in S to SW
+swell. Period 17 seconds. 
+.THU...S to SW winds 10 kt. Seas 4 to 6 ft in S to SW swell.
+Period 16 seconds. 
+.THU NIGHT...S to SW winds 10 kt. Seas 4 to 6 ft in S to SW
+swell. Period 15 seconds. 
+.FRI...S winds 10 kt. Seas 3 to 5 ft. Period 14 seconds. 
+.FRI NIGHT...Variable winds less than 5 kt. Seas 4 to 6 ft in S
+to SW swell. Period 14 seconds. 
+
+$$
+
+Forecaster Stripling

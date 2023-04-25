@@ -1,0 +1,143 @@
+FXUS61 KCTP 241446
+AFDCTP
+
+Area Forecast Discussion
+National Weather Service State College PA
+1046 AM EDT Mon Apr 24 2023
+
+.SYNOPSIS...
+An upper level trough will park over the Great Lakes and New
+England into at least the middle of the week. This will keep it
+mainly dry with temperatures well below normal through that 
+time. A return to near normal temperatures is expected for the 
+second half of the week.
+
+&&
+
+.NEAR TERM /THROUGH TONIGHT/...
+...1045 AM UPDATE...
+Going forecast in good shape. As expected, regional radar mosaic 
+indicating sct-nmrs showers have broken out over the Allegheny 
+Plateau in the chilly unstable air mass. Diurnal heating, 
+combined with the passage of a shortwave, will result in
+continued activity through this afternoon, with increasing
+intensity across especially northern PA later today. Model 
+capes of 100-200 J/kg suggest a tsra is even possible in a few 
+parts of northern PA this afternoon. Elsewhere, model RH 
+profiles indicate early sunshine will give way to a good deal of
+cumulus across southern PA, with an afternoon shower possible 
+north of the turnpike. Mixing down from 850mb today only yields 
+max temps from the low and mid 40s over the NW Mtns, to the mid 
+50s in the Susq Valley, close to 15 degrees below average for 
+late April. 
+
+The focus tonight will turn to frost and freeze headlines, as
+skies clear in the wake of the departing shortwave. The weakest
+gradient and most favorable conditions for radiational cooling
+appear to be over southwest PA, where the GEFS 2m temp 
+anomalies are greatest. Guidance supports min temps between 
+25-30F over the Alleghenies and central mountains, where a 
+Freeze Watch has been posted. A lingering breeze further east 
+should keep most locations in the Susq Valley above freezing, 
+but areas of frost appear likely with lows in the mid 30s. Upon 
+collaboration with neighboring offices, have decided to hold off
+collaborating a Frost Advisory across eastern PA until the day 
+shift.
+
+&&
+
+.SHORT TERM /TUESDAY THROUGH THURSDAY/...
+Central PA will remain under the influence of the upper low over
+the eastern Grt Lks Tuesday, resulting in another chilly day.
+However, progged heights rise a bit, so expect slightly warmer
+and brighter conditions than today, with sparser coverage of 
+diurnally-driven showers across the northern mountains. Model 
+soundings show some very dry air above a weak inversion Tuesday 
+afternoon, a signature that usually results in dewpoints falling
+below NBM guidance. 
+
+The bulk of short range guidance indicates a shortwave rounding
+the base of the upper trough will pass over PA Tuesday night
+into early Wednesday, accompanied by scattered showers. Thermal
+profiles are marginally cold enough for snow over the N Mtns, 
+where a light coating on the ridgetops is possible by early Wed
+morning. 
+
+The shortwave will likely have passed east of the area by Wed
+afternoon. However, cold temps aloft could support additional 
+diurnally-driven rain showers. GEFS 2m temp anomalies remain 
+around 10 degrees below average Wed afternoon, translating to 
+highs mostly in the 50s.
+
+Several shortwaves embedded in cool cyclonic flow aloft will 
+maintain rain chances throughout the second half of the week and
+throughout the weekend. Recent global model runs continue to 
+shift the upper level low farther to the north and west, 
+allowing for more moisture to move into the area. The driest day
+of the period looks to be Thursday as upper level heights rise 
+slightly and weak surface high pressure attempts to build in.
+
+&&
+
+.LONG TERM /THURSDAY NIGHT THROUGH SUNDAY/...
+As noted above, the driest day of the period looks to be 
+Thursday as upper level heights rise slightly and weak surface 
+high pressure attempts to build in. This does not last long 
+though and the next disturbance moves into the region Thursday 
+night into Friday. 
+
+By the weekend, models begin to diverge in regard to the
+placement of an amplified trough and the track of its associated
+surface low. The ultimate track of these features will determine
+how much rain actually falls towards the end of the period, but
+regardless, rainfall is likely for much of the weekend.
+
+Model and ensemble consensus continues to outline below average
+temperatures across much of central PA throughout the extended
+period as the upper level low pressure continues to move
+eastward.
+
+&&
+
+.AVIATION /15Z MONDAY THROUGH FRIDAY/...
+Still low CIGS at BFD as of mid morning, while the convective
+temperature has resulted CU already forming outside the office
+here as of 9 AM.
+
+Earlier discussion below.
+
+At daybreak, considerable cloudiness persists across the
+northern and western highlands with sunshine southeast of the
+Allegheny Front. There were some borderline IFR/MVFR cigs 
+across NW PA, including in the vicinity of BFD.
+
+Cloud cover will increase areawide as the day progresses, 
+although cigs should eventually become VFR areawide. Spotty rain
+showers are possible over the higher terrain. A westerly breeze
+will increase to ~10 kts, with gusts of 15-20 kts possible.
+
+Cloud cover will decrease tonight, and winds will diminish.
+
+Outlook...
+
+Tue-Wed...Spotty light rain or wet snow showers with occasional
+MVFR conds across the N/W. Generally VFR expected elsewhere.
+
+Thu...Generally VFR.
+
+Fri...Increasing clouds with rain possible late.
+
+&&
+
+.CTP WATCHES/WARNINGS/ADVISORIES...
+Freeze Watch from late tonight through Tuesday morning for 
+PAZ004-010>012-017>019-024>027-033>035-041-045.
+
+&&
+
+$$
+SYNOPSIS...DeVoir/Dangelo
+NEAR TERM...DeVoir/Fitzgerald
+SHORT TERM...Fitzgerald
+LONG TERM...Martin/Bauco/NPB
+AVIATION...Martin/Evanego

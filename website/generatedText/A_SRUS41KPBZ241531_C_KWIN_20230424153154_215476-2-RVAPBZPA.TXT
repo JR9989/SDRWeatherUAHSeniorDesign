@@ -1,0 +1,664 @@
+SRUS41 KPBZ 241531
+RVAPBZ
+OHZ039>041-048>050-057>059-068-069-PAZ007>009-013>016-020>023-
+029-031-PAZ073>076-WVZ001>004-012-021-509>514-251530-
+
+
+Hydrologic Summary
+National Weather Service Pittsburgh PA
+1131 AM EDT Mon Apr 24 2023
+
+7am Weather reports for Apr 24
+*********************  Western Pennsylvania  ***********************
+Allegheny County.....
+                                                      _____snow_____
+                   24hr   temperatures      7am       24hr  on water
+Station________  precip  7am  max  min  weather        amt gnd equiv
+CW Bill Young      0.00   45   49   38  Sunny                       
+Allegheny Cty AP   0.00   39   46   37                        
+Braddock L/D       0.00   39   47   39                 0.0   0      
+Dashields L/D      0.00   40   47   40                              
+Elizabeth L/D      0.00   34   49   34                              
+Emsworth L/D       0.00   42   46   38                 0.0   0      
+Moon Township         T   36   46   36  Ptly Cloudy      T   0      
+Natrona L/D        0.00   39   46   37                 0.0   0   0.0
+Pittsburgh AP      0.00   38   45   36                        
+Sharpsburg L/D     0.00   37   48   35                              
+
+
+--------------------------------------------------------------------
+Armstrong County.....
+                                                      _____snow_____
+                   24hr   temperatures      7am       24hr  on water
+Station________  precip  7am  max  min  weather        amt gnd equiv
+Crooked CK Dam     0.02   33   46   33  Cloudy         0.0   0      
+Freeport L/D       0.00   38   48   38                 0.0   0      
+Mahoning Dam       0.22   34   82   34                 0.0   0   0.0
+Mc Cormick                                                          
+Sagamore                                                            
+
+
+--------------------------------------------------------------------
+Beaver County.....
+                                                      _____snow_____
+                   24hr   temperatures      7am       24hr  on water
+Station________  precip  7am  max  min  weather        amt gnd equiv
+Beaver Cty AP      0.00   40   46   38                        
+Montgomery L/D     0.00   37   45   37  Ptly Cloudy    0.0   0      
+
+
+--------------------------------------------------------------------
+Butler County.....
+                                                      _____snow_____
+                   24hr   temperatures      7am       24hr  on water
+Station________  precip  7am  max  min  weather        amt gnd equiv
+Butler                                                              
+Butler Cty AP      0.00   39   46   35                        
+Slippery Rock      0.03   39   46   35  Cloudy         0.0   0      
+
+
+--------------------------------------------------------------------
+Clarion County.....
+                                                      _____snow_____
+                   24hr   temperatures      7am       24hr  on water
+Station________  precip  7am  max  min  weather        amt gnd equiv
+Cooksburg                                                           
+Piney Dam             M   38   83   34  Cloudy               0      
+
+
+--------------------------------------------------------------------
+Fayette County.....
+                                                      _____snow_____
+                   24hr   temperatures      7am       24hr  on water
+Station________  precip  7am  max  min  weather        amt gnd equiv
+Connellsville      0.01   35   48   33  Cloudy         0.0   0      
+Grays Landing L/D  0.00   41   44   34  Sunny          0.0   0      
+Lake Lynn                                                           
+Maxwell L/D        0.00   44            Ptly Cloudy                 
+Uniontown                                                           
+
+
+--------------------------------------------------------------------
+Forest County.....
+                                                      _____snow_____
+                   24hr   temperatures      7am       24hr  on water
+Station________  precip  7am  max  min  weather        amt gnd equiv
+Tionesta Dam       0.02   39   46   39  Drizzle        0.0   0   0.0
+ 
+Fire Weather Station...
+                   24hr   temperatures  24hr wind  24hr min fuel 
+Station________  precip  7am  max  min  max (mph)  moisture (pct)
+Allegheny Forest      M   35   42   32     12           14
+
+
+--------------------------------------------------------------------
+Greene County.....
+                                                      _____snow_____
+                   24hr   temperatures      7am       24hr  on water
+Station________  precip  7am  max  min  weather        amt gnd equiv
+Point Marion L/D   0.00   43   46   35  Ptly Cloudy                 
+Waynesburg            T   35   46   32  Ptly Cloudy    0.0   0      
+
+
+--------------------------------------------------------------------
+Indiana County.....
+                                                      _____SNOW_____
+                   24HR   TEMPERATURES      7AM       24HR  ON WATER
+Station________  precip  7am  max  min  weather        amt gnd equiv
+Indiana                                                             
+Jimmy Stewart AP      M   36   45   32                        
+Center Township        
+
+
+--------------------------------------------------------------------
+Jefferson County.....
+                                                      _____snow_____
+                   24hr   temperatures      7am       24hr  on water
+Station________  precip  7am  max  min  weather        amt gnd equiv
+Du Bois AP         0.00   37   44   35                        
+
+
+--------------------------------------------------------------------
+Lawrence County.....
+                                                      _____snow_____
+                   24hr   temperatures      7am       24hr  on water
+Station________  precip  7am  max  min  weather        amt gnd equiv
+New Castle                                                          
+
+
+--------------------------------------------------------------------
+Mercer County.....
+                                                      _____snow_____
+                   24hr   temperatures      7am       24hr  on water
+Station________  precip  7am  max  min  weather        amt gnd equiv
+Sandy Lake         0.00               
+
+
+--------------------------------------------------------------------
+Venango County.....
+                                                      _____SNOW_____
+                   24HR   TEMPERATURES      7AM       24HR  ON WATER
+Station________  precip  7am  max  min  weather        amt gnd equiv
+Franklin              T   38   44   37  Cloudy         0.0   0      
+Franklin AP        0.00   36   42   34                        
+
+
+--------------------------------------------------------------------
+Washington County.....
+                                                      _____snow_____
+                   24hr   temperatures      7am       24hr  on water
+Station________  precip  7am  max  min  weather        amt gnd equiv
+Avella                                
+Donora                                                              
+Washington AirP.   0.00   38   45   35                        
+
+
+--------------------------------------------------------------------
+Westmoreland County...
+                                                      _____snow_____
+                   24hr   temperatures      7am       24hr  on water
+Station________  precip  7am  max  min  weather        amt gnd equiv
+Latrobe Airport       M   36   45   32                        
+Charleroi L/D      0.00   44   48   37                 0.0   0   0.0
+Donegal            0.00   36   43   34
+Ligonier           0.00               
+Loyalhanna Lk      0.01   33   49   31  Ptly Cloudy    0.0   0      
+Murrysville                                                         
+New Florence                                                        
+Seward             0.00               
+ 
+Fire Weather Station...
+                   24hr   temperatures  24hr wind  24hr min fuel 
+Station________  precip  7am  max  min  max (mph)  moisture (pct)
+Quarry Trail       0.00   32   39   30                   5
+
+
+
+
+*********************  East Central Ohio  **************************
+Belmont County.....
+                                                      _____snow_____
+                   24hr   temperatures      7am       24hr  on water
+Station________  precip  7am  max  min  weather        amt gnd equiv
+Barnesville                                                         
+Blaine                                
+Snt Clairsville                       
+
+
+Additional 24 hour precipitation locations...
+        Centerville                  Colerain        
+        Dilles Bottom                Morristown      
+        Somerton               0.00  Uniontown       
+--------------------------------------------------------------------
+Carroll County.....
+                                                      _____snow_____
+                   24hr   temperatures      7am       24hr  on water
+Station________  precip  7am  max  min  weather        amt gnd equiv
+Amsterdam          0.00               
+Leesville Dam      0.00
+--------------------------------------------------------------------
+Columbiana County.....
+                                                      _____snow_____
+                   24hr   temperatures      7am       24hr  on water
+Station________  precip  7am  max  min  weather        amt gnd equiv
+East Palestine     0.00               
+Goshen Twp                            
+Lisbon             0.00               
+Salem              0.00               
+
+
+Additional 24 hour precipitation locations...
+        Calcutta                     Crestview       
+  0.00  Millport                     Salem Twp       
+        Summitville                  Union           
+        West Point      
+--------------------------------------------------------------------
+Coshocton County.....
+                                                      _____snow_____
+                   24hr   temperatures      7am       24hr  on water
+Station________  precip  7am  max  min  weather        amt gnd equiv
+Cooperdale                                                          
+Coshocton                                                           
+ 
+Raws data...
+                   24hr   temperatures  24hr wind  24hr min fuel 
+Station________  precip  7am  max  min  max (mph)  moisture (pct)
+Coshocton Crn                                             
+
+
+Additional 24 hour precipitation locations...
+        Conesville                   Coshocton USDA  
+  0.00  Nellie                       Newcastle       
+        N Appalachian          0.00  Rich Downing AP 
+  0.00  Wills Creek                  Woodbury WA     
+--------------------------------------------------------------------
+Guernsey County.....
+                                                      _____snow_____
+                   24hr   temperatures      7am       24hr  on water
+Station________  precip  7am  max  min  weather        amt gnd equiv
+Cambridge          0.00
+Derwent            0.00
+North Salem        0.00
+Salt Fork Dam          
+Salt Fork Park         
+Senecaville Dam        
+--------------------------------------------------------------------
+Harrison County.....
+                                                      _____snow_____
+                   24hr   temperatures      7am       24hr  on water
+Station________  precip  7am  max  min  weather        amt gnd equiv
+Cadiz                                                               
+Cadiz Twp                             
+Piedmont Dam                          
+
+
+Additional 24 hour precipitation locations...
+        Bowerston                    Cadiz           
+        Deersville             0.04  Jewett          
+        New Athens                   Tippecanoe      
+  0.10  Tippecanoe East 
+--------------------------------------------------------------------
+Jefferson County.....
+                                                      _____snow_____
+                   24hr   temperatures      7am       24hr  on water
+Station________  precip  7am  max  min  weather        amt gnd equiv
+Hammondsvile Rvr                       
+Steubenville                  
+
+
+Additional 24 hour precipitation locations...
+        Adena                        Amsterdam       
+        Bloomingdale                 Dillonvale      
+        Hammondsville                Knoxville       
+--------------------------------------------------------------------
+Monroe County.....
+                                                      _____snow_____
+                   24hr   temperatures      7am       24hr  on water
+Station________  precip  7am  max  min  weather        amt gnd equiv
+Hannibal LK           M   34                                        
+Wayne Forest       0.00               
+
+
+Additional 24 hour precipitation locations...
+        Antioch                      Beallsville     
+        Graysville                   Lewisville      
+        Swiss Hill     
+--------------------------------------------------------------------
+Muskingum County.....
+                                                      _____snow_____
+                   24hr   temperatures      7am       24hr  on water
+Station________  precip  7am  max  min  weather        amt gnd equiv
+Zanesville AP      0.00   38   47   35                        
+ 
+Raws data...
+                   24hr   temperatures  24hr wind  24hr min fuel 
+Station________  precip  7am  max  min  max (mph)  moisture (pct)
+Blue Rock          0.00                    21           10
+
+
+Additional 24 hour precipitation locations...
+        Adamsville                   Chandlersville  
+  0.00  Dillon Dam                   Frazeysburg     
+        Roseville              0.00  Zanesville      
+--------------------------------------------------------------------
+Noble County.....
+                                                      _____snow_____
+                   24hr   temperatures      7am       24hr  on water
+Station________  precip  7am  max  min  weather        amt gnd equiv
+Caldwell                                                            
+
+
+Additional 24 hour precipitation locations....
+        Hiramsburg                   Jackson Twp     
+        Mount Ephraim                Sharon          
+        Summerfield                  Summerfield FD  
+--------------------------------------------------------------------
+Tuscarawas County.....
+                                                      _____snow_____
+                   24hr   temperatures      7am       24hr  on water
+Station________  precip  7am  max  min  weather        amt gnd equiv
+N Philadelhia AP   0.02   37   46   36                        
+
+
+Additional 24 hour precipitation locations...
+  0.00  Dover Dam                    Dundee          
+        Gilmore                      Mineral City    
+  0.01  New Philadelphia             Stone Creek     
+  0.01  Uhrichsville                 Uhrichsville N  
+
+
+*******************  Northern West Virginia  ***********************
+Hancock County.....
+                                                      _____snow_____
+                   24hr   temperatures      7am       24hr  on water
+Station________  precip  7am  max  min  weather        amt gnd equiv
+New Cumbrlnd LK    0.00   38   52   38                 0.0   0      
+ 
+Raws data...
+                   24hr   temperatures  24hr wind  24hr min fuel 
+Station________  precip  7am  max  min  max (mph)  moisture (pct)
+Tomlinson Run      0.00   40   45   36     18            0
+--------------------------------------------------------------------
+Marion County.....
+                                                      _____snow_____
+                   24hr   temperatures      7am       24hr  on water
+Station________  precip  7am  max  min  weather        amt gnd equiv
+Barrackville                          
+Fairmont                                                            
+Mannington                                                          
+Mannington WTP                        
+
+
+Additional 24 hour precipitation locations....
+        Fairview                     Glady Creek     
+        Mannington Twp               Metz            
+--------------------------------------------------------------------
+Marshall County.....
+                                                      _____snow_____
+                   24hr   temperatures      7am       24hr  on water
+Station________  precip  7am  max  min  weather        amt gnd equiv
+Cameron            0.00               
+Moundsville        0.00   40   47   35  Sunny          0.0          
+
+
+Additional 24 hour precipitation locations...
+        Belton                       Dallas          
+        Dallas FD                    Lynn Camp       
+        Rocklick        
+--------------------------------------------------------------------
+Monongalia County.....
+                                                      _____snow_____
+                   24hr   temperatures      7am       24hr  on water
+Station________  precip  7am  max  min  weather        amt gnd equiv
+Hilderbrand LK                                                      
+Lake Lynn Dam                                                       
+Morgantown AP      0.00   40   47   35                        
+Morgantown LK                                                       
+Opekiska LK                                                         
+
+
+Additional 24 hour precipitation locations...
+        Crossroads                   Dents Run       
+        Jakes Run                    Opekiska        
+        Pleasant Hill CP             Strawn Lake     
+--------------------------------------------------------------------
+Ohio County.....
+                                                      _____snow_____
+                   24hr   temperatures      7am       24hr  on water
+Station________  precip  7am  max  min  weather        amt gnd equiv
+Pike Island LK        M   38                                        
+Wheeling           0.00   38   48   38                              
+Wheeling AP        0.00   38   47   37                        
+
+
+Additional 24 hour precipitation locations...
+  0.00  Elm Grove                    Oglebay Park    
+        Valley Grove    
+--------------------------------------------------------------------
+Preston County.....
+                                                      _____snow_____
+                   24hr   temperatures      7am       24hr  on water
+Station________  precip  7am  max  min  weather        amt gnd equiv
+Afton                                                               
+Albright           0.00
+Bruceton Mills                                                     
+Fellowsville                                                        
+Rockville                             
+Rowlesburg                                                          
+Rowlesburg East                       
+Rowlesburg River                      
+Terra Alta                                                          
+ 
+Raws data...
+                   24hr   temperatures  24hr wind  24hr min fuel 
+Station________  precip  7am  max  min  max (mph)  moisture (pct)
+Kingwood           0.00   38   44   30      0            0
+--------------------------------------------------------------------
+Wetzel County.....
+                                                      _____snow_____
+                   24hr   temperatures      7am       24hr  on water
+Station________  precip  7am  max  min  weather        amt gnd equiv
+Burton                                                              
+--------------------------------------------------------------------
+Additional 24 hour precipitation locations...
+        Afton                        Big Sandy Creek 
+        Caddell Mtn                  Eby             
+        Glade Farms                  Howesville      
+        Mountain Dale                Mountain View   
+        Mount Sarah                  Stemple Ridge   
+--------------------------------------------------------------------
+Randolph County.....
+                                                      _____snow_____
+                   24hr   temperatures      7am       24hr  on water
+Station________  precip  7am  max  min  weather        amt gnd equiv
+Glady                                                               
+--------------------------------------------------------------------
+Tucker County.....
+                                                      _____snow_____
+                   24hr   temperatures      7am       24hr  on water
+Station________  precip  7am  max  min  weather        amt gnd equiv
+Canaan Valley         T   30   40   24  Ptly Cloudy      T   0      
+Canaan Valley Pk   0.00               
+Davis              0.01   26   38   24                 0.0   0   0.0
+Davis River        0.00               
+Gladwin                               
+Hendricks                             
+Parsons                                                             
+Parsons River                         
+ 
+Raws data...
+                   24hr   temperatures  24hr wind  24hr min fuel 
+Station________  precip  7am  max  min  max (mph)  moisture (pct)
+Bearden Knob       0.00   27   36   25     17           15
+Canaan Vly CRN     0.00   28   37   26     19             
+
+
+Additional 24 hour precipitation locations...
+        Beaver Creek                 Clover Run      
+        Davis Radio Twr              Forty Three     
+        Mozark Mtn                   Olson Lookout   
+        White Ridge                  Yoakum Run      
+--------------------------------------------------------------------
+Wetzel County.....
+                                                      _____snow_____
+                   24hr   temperatures      7am       24hr  on water
+Station________  precip  7am  max  min  weather        amt gnd equiv
+Wetzel County.....
+Hundred            0.00               
+
+
+**********************  Western Maryland  **************************
+Garrett County.....
+                                                      _____snow_____
+                   24hr   temperatures      7am       24hr  on water
+Station________  precip  7am  max  min  weather        amt gnd equiv
+Accident                                                            
+Accident East                         
+Friendsville                          
+Grantsville        0.00
+Kitzmiller             
+Mc Henry                                                            
+Oakland River      0.00               
+Savage Rvr Dam                                                      
+
+
+--------------------------------------------------------------------
+====================================================================
+--------------------------------------------------------------------
+
+
+Raws data...
+                   24hr   temperatures  24hr wind  24hr min fuel 
+Station________  precip  7am  max  min  max (mph)  moisture (pct)
+Forest County.....
+Alleghny NF RAWS      M   35   42   32     12           14
+
+
+7am River stages for Apr 24
+********************  Upper Allegheny Basin  *******************
+                   flood   river     upper    lower      24 hour
+Station___________ stage   stage     stage    stage      change
+West Hickory (Alg R) 14     5.37                           0.1
+Lynch (tio c)               1.76                          -0.1
+Tionesta Dam (tio c)               1091.97     2.35        0.0
+Rouseville (oil c)          3.05                          -0.4
+Utica (frnch c)             4.37                           0.1
+Franklin (alg r)     17     5.37                           0.1
+
+
+*******************  Lower Allegheny Basin  ********************
+                   flood   river     upper    lower      24 hour
+Station___________ stage   stage     stage    stage       change
+Cooksburg (clrn r)   13     3.31                          -0.0
+Piney dam (clrn r)                             3.86        0.1
+Parker (alg r)       20     4.57                           0.3
+Brookville (rdbnk c)        6.92                          -0.1
+St Charles (rdbnk c) 17     3.78                          -0.0
+Rimer (alg r)     19                                       
+Punxsutawney (mhng c)       1.76                          -0.1
+Punxsutawney (mhng c)32  1217.10                              
+Mc Cormick (l mhng c)       2.37                          -0.1
+Mahoning dam (mhng c)              1092.67     2.49       -0.0
+Mosgrove LK (alg r)  19                                       
+Kittanning LK (ALG R)21              11.60                 0.2
+Creekside (Crkd c)                                            
+Idaho (crkd c)              2.77                          -0.1
+Crooked Ck Dam (crkd c)             843.30     1.26       -0.2
+Clinton LK (alg r)   21                                       
+Freeport LK (alg r)  23              10.70    12.10        0.3
+Seward (cnmgh r)     12     2.52                          -0.1
+Homer City (ylo c)                                            
+Graceton (2lik c)           2.49                          -0.0
+Josephine (blklk c)         3.53                          -0.0
+Conemaugh dam (cnmgh r)             904.83     3.62       -0.0
+Kingston (loy c)            2.15                          -0.1
+Latrobe (loy c)             5.97                          -0.1
+Loyalhanna Dam (loy c)              921.92                    
+Vandergrift (kisk r) 25     4.48                          -0.0
+Freeport (bflo c)                                             
+Natrona lk (alg r)   21              11.78                 0.2
+Acmetonia lk (alg r) 17              11.10    11.80        0.1
+Sharpsburg lk (alg r)21              11.30    16.70        0.1
+ 
+******************  Upper Monongahela Basin  *******************
+                   flood   river     upper    lower      24 hour
+Station___________ stage   stage     stage    stage       change
+Colfax (tyg r)              4.44                          -0.2
+Barrackville (bflo c)       2.24                          -0.0
+Opekiska lk (mon r)                   9.40     9.70        0.1
+Hilderbrand lk (mon r)                        10.00        0.7
+Morgantown lk (mon r)22               9.90     9.74       -0.1
+Point marion lk (mon)26               9.80    10.20        0.0
+Gladwin (dry f r)                                             
+Hendricks (dry f r)         2.11                          -0.1
+Davis (blwtr c )            1.78                          -0.1
+Parsons (cht r)      16     3.22                          -0.0
+Rowlesburg (cht r)                                            
+Rowlesburg (cht r)   16     2.00                           0.0
+Albright (cht r)           10.95                           0.1
+Rockville (b sndy c)        4.49                          -0.1
+Lake Lynn Dam (Cht R)                          8.64           
+Shannopin (dnkd c)          1.88                           0.0
+Grays Lndng LK (mon) 21              10.22    10.10       -0.0
+ 
+******************  Lower Monongahela Basin  *******************
+                   flood   river     upper    lower      24 hour
+Station___________ stage   stage     stage    stage       change
+Marianna (10mi c)                                             
+Maxwell LK (mon r)   32              10.00     9.80        0.0
+Waltersburg (rdstn c)       1.53                          -0.1
+Charleroi lk (mon r) 28                       10.72       -0.2
+Elizabeth lk (mon r) 20              10.38    11.50       -0.3
+Oakland (ygh r)             2.28                          -0.0
+Friendsville (ygh r)        2.57                          -0.0
+Friendsville (bear c)       1.68                          -0.1
+Grantsville (cslmn r)       1.12                          -0.1
+Confluence (ygh r)   12     2.37                          -0.2
+Ohiopyle   (ygh r)          1.87                          -0.2
+White bridge (indn c)                                         
+Connellsville (ygh r)12     2.69                          -0.1
+Sutersville (ygh r)  20     3.90                           0.0
+Wilmerding (trtl c)         5.15                          -0.0
+Turtle Creek (tmpsn r)      0.78                           0.0
+Braddock LK (mon r)  22              11.66                -0.6
+ 
+*************************  Beaver Basin  ***********************
+                   flood   river     upper    lower      24 hour
+Station___________ stage   stage     stage    stage       change
+Pymatuninng Dam (pym c)             1007.79     4.90       -0.0
+Greenville (l shngo r)      1.87                           0.0
+Transfer (shngo r)          2.91                          -0.5
+Shenango dam (shngo r)              895.79     3.34        0.7
+Sharon (shngo r)                                              
+New Castle (shngo r) 19     7.39                           0.1
+Wampum (bvr r)              5.78                          -0.1
+Butler (cnqns c)                                              
+Zelienople (cnqns c)        2.22                          -0.2
+Portersville (mddy c)       1.98                          -0.0
+Wurtemburg (slp rk c)       2.19                          -0.3
+Beaver Falls (bvr r) 15     6.37                           0.0
+ 
+***********************  Ohio Basin  ***************************
+                   flood   river     upper    lower      24 hour
+Station___________ stage   stage     stage    stage       change
+Etna (pine c)               2.47                          -0.1
+Duquesne hgts (sawml r)     3.37                          -0.0
+Pittsburgh (ohio r)  25                                       
+Washington (chrts c)                                          
+Carnegie (chrts c)          1.31                          -0.1
+Emsworth lk (ohio r)                 16.50    14.50        0.1
+Imperial (mntur r)                                            
+Dashields lk (ohio r)25              14.60    13.30        0.0
+Moffatts mill (racn c)      2.01                          -0.1
+Montgomery lk (oh r) 33              12.80    13.00        0.0
+E Liverpool (l bvr c)       3.90                          -0.5
+East Liverpool (ohio)14                                       
+Wellsville (ohio r)  11                                       
+Hammondsville (ylo c)       2.04                          -0.2
+New Cumbrlnd LK (oh) 36              12.60    13.98        0.2
+Steubenville (ohio r)36                                       
+Wellsburg (ohio r)   36                                       
+Dillonvale (shrt c)         2.58                          -0.1
+Pike Island LK (ohio)37              12.90    13.67       -0.7
+Elm Grove (whl c wv)        2.63                          -0.0
+Mt De Chantal (whl c w)                                       
+Blaine (whl c oh)           1.57                          -0.1
+Wheeling (ohio r)    36    16.38                          -0.5
+Moundsville (ohio r) 37                                       
+Dilles bottom (ohio r)                                        
+Hannibal LK (ohio r) 35              12.97    12.94       -0.5
+ 
+*********************  Muskingum Basin  ************************
+                   flood   river     upper    lower      24 hour
+Station___________ stage   stage     stage    stage       change
+Bolivar Dam (sndy c)                900.66                    
+Leesville Dam (mc g c)              963.03   917.88        0.0
+Atwood Dam (indn f)                 928.05                    
+Mineral City (huf r)                                          
+Dover Dam (tus r)                   871.83                    
+Beach City Dam (sgr c)              950.18     2.63       -0.8
+New Philadelphia (tus)7     3.52                          -0.2
+Piedmont Dam (stlw c)               913.40   874.99       -0.2
+Clendening Dam (bshy f)             898.38     5.19       -0.5
+Uhrichsville (stlw c) 5     4.94                           0.1
+Tappan Dam (l stlw c)               899.34   865.23        0.0
+Newcomerstown (tus r)11     4.17                           1.2
+Mohawk Dam (wldng r)                808.82   798.33       -0.8
+Walhonding (wldng r)        4.50                          -0.7
+Coshocton (musk r)   13    10.44                           0.6
+Senecaville Dam (snc f)             832.62   803.99        0.0
+Derwent (wils c)            4.67                          -1.2
+Kipling (lthwd c)           2.95                          -0.4
+Cambridge (wils c)   15     3.70                          -1.1
+North salem (salt f)                                          
+Wills Crk Dam (wils c)              743.80   721.93        0.2
+Frazeysburg (wktk c)        5.55                          -1.0
+Dresden (musk r)           11.54                           0.4
+Dillon dam (lckng r)                738.73     6.97       -0.0
+Zanesville (musk r)  25    12.04                           0.4
+Chandlersville (salt c)     4.01                          -0.2
+
+ 
+ 
+ $$
+

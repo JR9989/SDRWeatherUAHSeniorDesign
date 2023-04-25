@@ -1,0 +1,122 @@
+FNUS73 KEAX 241530
+FWSEAX
+
+Spot Forecast for Mosaic...USFWS
+National Weather Service Kansas City/Pleasant Hill MO
+1030 AM CDT Mon Apr 24 2023
+
+Forecast is based on ignition time of 1100 CDT on April 24. 
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+Please contact our office at 1-800-438-0596, if you have questions
+or concerns with this forecast.
+
+.DISCUSSION...
+
+Overall fire weather concerns remain low. Generally SW winds expected 
+through the rest of the day. Sustained winds around 10-15 MPH with gusts 
+approaching 15-20 MPH gradually dissipating toward sunset. Minimum RH values 
+reach the upper 20 percent range during the afternoon.
+
+.REST OF TODAY...
+
+Sky/weather.........Mostly sunny (40-50 percent) then becoming 
+                    mostly cloudy (75-85 percent). 
+CWR.................4 percent. 
+Max temperature.....Around 67. 
+Min humidity........27 percent. 
+Wind (20 ft)........ 
+ Slope/valley.......Southwest winds 10 to 12 mph. 
+Mixing height.......8300 ft AGL. 
+Transport winds.....South 15 to 18 mph. 
+Haines Index........5 to 6 or moderate to high potential for large 
+                    plume dominated fire growth. 
+
+TIME (CDT)      11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........33  37  28  59  63  76  82  
+Weather cov.....                            
+Weather type....                            
+Tstm cov........                            
+CWR.............0   0   0   0   0   0   0   
+Temp............59  63  65  65  67  66  66  
+RH..............34  30  29  29  27  28  29  
+20 FT wind dir..SW  S   SW  SW  S   S   S   
+20 FT wind spd..12  12  12  12  12  12  10  
+20 FT wind gust.17  17  17  17  17  17  16  
+Mix hgt (kft)...3.6 5.0 6.6 7.7 8.1 8.3 8.1 
+Transp wind dir.S   S   S   S   S   S   S   
+Transp wind spd.18  16  15  15  16  16  17  
+Haines index....5   6   6   6   5   5   5   
+
+.TONIGHT...
+
+Sky/weather.........Mostly cloudy (75-85 percent). Slight chance of 
+                    rain showers in the late evening and overnight. 
+                    Chance of rain showers overnight, then slight 
+                    chance of rain showers after 3 am. 
+CWR.................6 percent increasing to 18 percent overnight. 
+Min temperature.....Around 45. 
+Max humidity........82 percent. 
+Wind (20 ft)........ 
+ Slope/valley.......South winds 7 to 12 mph. 
+Mixing height.......400 ft AGL. 
+Transport winds.....South 9 to 17 mph increasing to 17 to 20 mph 
+                    overnight. 
+Haines Index........3 to 5 or very low to moderate potential for 
+                    large plume dominated fire growth. 
+
+TIME (CDT)      6PM 7PM 8PM 9PM 10P 11P MID 1AM 2AM 3AM 4AM 5AM 
+Sky (%).........84  94  93  88  90  86  84  83  72  72  72  64  
+Weather cov.....                SCH SCH SCH SCH CHC SCH SCH SCH 
+Weather type....                RW  RW  RW  RW  RW  RW  RW  RW  
+Tstm cov........                                                
+CWR.............10  10  10  10  10  10  10  20  20  20  20  20  
+Temp............66  64  60  57  56  55  53  52  50  49  47  47  
+RH..............29  32  39  45  47  47  52  59  63  71  76  76  
+20 FT wind dir..S   S   S   S   S   S   S   S   SW  S   S   S   
+20 FT wind spd..10  9   7   8   10  9   12  12  12  12  12  12  
+20 FT wind gust.15  14  12  12  15  14  18  18  18  18  17  17  
+Mix hgt (kft)...6.4 0.9 0.5 0.4 0.7 0.6 0.7 1.1 1.1 1.1 1.0 0.9 
+Transp wind dir.S   S   S   S   S   S   SW  S   SW  S   S   S   
+Transp wind spd.17  13  10  9   15  15  16  20  18  18  17  17  
+Haines index....5   5   5   4   4   4   3   3   3   3   3   3   
+
+.TUESDAY...
+
+Sky/weather.........Mostly sunny (45-55 percent) then becoming 
+                    partly sunny (65-75 percent). 
+CWR.................17 percent decreasing to 7 percent. 
+Max temperature.....Around 61. 
+Min humidity........49 percent. 
+Wind (20 ft)........ 
+ Slope/valley.......South winds 9 to 12 mph. 
+Mixing height.......4400 ft AGL. 
+Transport winds.....South 12 to 17 mph. 
+Haines Index........2 to 3 or very low potential for large plume 
+                    dominated fire growth. 
+
+TIME (CDT)      6AM 7AM 8AM 9AM 10A 11A 12P 1PM 2PM 3PM 4PM 5PM 
+Sky (%).........56  37  37  42  57  61  72  63  64  59  78  72  
+Weather cov.....                                                
+Weather type....                                                
+Tstm cov........                                                
+CWR.............20  10  10  10  10  10  10  10  10  10  10  10  
+Temp............46  45  47  50  53  56  57  59  59  60  60  60  
+RH..............79  82  79  71  64  57  55  53  53  51  51  49  
+20 FT wind dir..S   S   S   S   S   S   S   S   SE  SE  SE  SE  
+20 FT wind spd..10  10  12  12  12  10  9   9   10  10  10  9   
+20 FT wind gust.15  15  18  17  17  15  14  14  14  14  14  13  
+Mix hgt (kft)...0.9 0.8 1.2 1.5 2.0 2.5 3.1 3.7 4.1 4.4 4.4 4.0 
+Transp wind dir.S   S   S   S   S   S   S   S   S   SE  SE  SE  
+Transp wind spd.15  14  16  16  17  16  14  13  12  12  12  12  
+Haines index....2   2   2   2   2   2   3   3   3   3   3   3   
+
+$$
+Forecaster...Pesel
+Requested by...Deon Steinle
+Type of request...PRESCRIBED
+.TAG 2310492.0/EAX
+.DELDT 04/24/23
+.FormatterVersion 2.0.0
+.EMAIL deon_steinle@fws.gov

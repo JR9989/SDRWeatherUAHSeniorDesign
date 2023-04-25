@@ -1,0 +1,35 @@
+FZUS72 KMFL 241446
+MWSMFL
+
+Marine Weather Statement
+National Weather Service Miami FL
+1046 AM EDT Mon Apr 24 2023
+
+AMZ650-651-241545-
+1046 AM EDT Mon Apr 24 2023
+
+...THUNDERSTORMS OVER THE NEARSHORE ATLANTIC WATERS...
+
+The areas affected include...
+  Coastal waters from Deerfield Beach to Ocean Reef FL out 20 NM...
+  Coastal waters from Jupiter Inlet to Deerfield Beach FL out 20 
+  NM...
+
+At 1046 AM EDT, Doppler radar indicated strong thunderstorms, capable
+of producing winds to around 30 knots. These thunderstorms were
+located along a line extending from near Jupiter Inlet to near
+Hillsboro Beach, moving north at 15 knots.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Waterspouts are possible with this activity. Remain on the alert in
+case warnings are issued for waterspout development.
+
+&&
+
+LAT...LON 2602 7985 2606 8018 2635 8014 2678 8011
+      2686 8015 2697 8014 2697 7979
+
+$$
+
+Hadi

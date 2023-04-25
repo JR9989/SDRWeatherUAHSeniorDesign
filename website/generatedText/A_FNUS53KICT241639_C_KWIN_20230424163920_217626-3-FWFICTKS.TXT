@@ -1,0 +1,951 @@
+FNUS53 KICT 241639
+FWFICT
+
+Fire Weather Planning Forecast for Kansas
+National Weather Service Wichita KS
+1138 AM CDT Mon Apr 24 2023
+
+.DISCUSSION...
+
+There is no noteworthy fire weather specific information for the
+next seven days. Check the latest Area Forecast Discussion for a
+general discussion of the current forecast.
+
+
+KSZ083-242200-
+Sedgwick-
+Including the cities of Derby, Haysville, Bel Aire, Park City, 
+Valley Center, and Wichita
+1138 AM CDT Mon Apr 24 2023
+
+                                Today      Tonight          Tue
+
+Cloud Cover                     Pcldy       Cloudy        Mcldy
+Precip Type                      None      Showers        Tstms
+Chance Precip (%)                   0           60           70
+Max/Min Temp                       64           45           53
+Min/Max RH %                       30           92           75
+20FtWnd (mph)             S 12-16 G22 SE 10-14 G21 SE 10-14 G20
+Precip Amount                    0.00         0.15         0.57
+Mixing Hgt(ft-agl/msl)           7420                      1970
+Transport Wnd (mph)              S 24                     SE 23
+Smoke Dispersal                     5                         5
+LAL                                 2            2            3
+Haines Index                        4            3            3
+
+Remarks...None.
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+.WEDNESDAY...Cloudy with showers likely. Lows in the lower 40s.
+Highs in the upper 50s. East winds 10 to 15 mph. 
+.THURSDAY...Mostly cloudy. A chance of showers. Lows in the mid
+40s. Highs in the mid 60s. North winds 10 to 15 mph. 
+.FRIDAY...Mostly cloudy. A chance of rain. Lows in the mid 40s.
+Highs in the lower 60s. Northwest winds 10 to 15 mph. 
+.SATURDAY...Partly cloudy. A chance of rain. Lows in the upper
+30s. Highs around 60. Northwest winds 10 to 15 mph. 
+.SUNDAY...Mostly clear. Lows in the upper 30s. Highs in the upper
+60s. Northwest winds 10 to 15 mph. 
+
+$$
+
+KSZ067-242200-
+Reno-
+Including the city of Hutchinson
+1138 AM CDT Mon Apr 24 2023
+
+                                Today      Tonight          Tue
+
+Cloud Cover                     Mcldy       Cloudy        Mcldy
+Precip Type                   Showers      Showers        Tstms
+Chance Precip (%)                  20           60           80
+Max/Min Temp                       63           43           52
+Min/Max RH %                       36           99           78
+20FtWnd (mph)             S 13-17 G23  SE 9-13 G19 SE 11-15 G20
+Precip Amount                    0.07         0.16         0.48
+Mixing Hgt(ft-agl/msl)           6920                      1790
+Transport Wnd (mph)              S 25                     SE 22
+Smoke Dispersal                     5                         5
+LAL                                 2            2            3
+Haines Index                        4            3            3
+
+Remarks...None.
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+.WEDNESDAY...Cloudy with showers likely. Lows in the lower 40s.
+Highs in the upper 50s. East winds 10 to 15 mph. 
+.THURSDAY...Mostly cloudy. A chance of showers. Lows in the lower
+40s. Highs in the mid 60s. Northwest winds 10 to 15 mph. 
+.FRIDAY...Mostly cloudy. A chance of rain. Lows in the mid 40s.
+Highs around 60. Northwest winds 10 to 15 mph. 
+.SATURDAY...Partly cloudy. Lows in the upper 30s. Highs around
+60. Northwest winds 10 to 15 mph. 
+.SUNDAY...Mostly clear. Lows in the upper 30s. Highs in the upper
+60s. Northwest winds 10 to 15 mph. 
+
+$$
+
+KSZ069-242200-
+Butler-
+Including the cities of El Dorado, Augusta, Andover, 
+and Rose Hill
+1138 AM CDT Mon Apr 24 2023
+
+                                Today      Tonight          Tue
+
+Cloud Cover                     Pcldy        Mcldy        Mcldy
+Precip Type                      None      Showers      Showers
+Chance Precip (%)                   0           60           70
+Max/Min Temp                       65           44           54
+Min/Max RH %                       26           87           66
+20FtWnd (mph)             S 11-15 G22  SE 9-13 G20 SE 10-14 G21
+Precip Amount                    0.00         0.19         0.40
+Mixing Hgt(ft-agl/msl)           8020                      2410
+Transport Wnd (mph)              S 23                     SE 22
+Smoke Dispersal                     5                         5
+LAL                                 1            2            3
+Haines Index                        5            3            3
+
+Remarks...None.
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+.WEDNESDAY...Mostly cloudy with a chance of showers. Lows in the
+lower 40s. Highs in the upper 50s. East winds 10 to 15 mph. 
+.THURSDAY...Mostly cloudy. A chance of showers. Lows in the mid
+40s. Highs in the lower 60s. Northeast winds 10 to 15 mph. 
+.FRIDAY...Mostly cloudy. A chance of rain. Lows in the mid 40s.
+Highs in the lower 60s. Northwest winds 10 to 15 mph. 
+.SATURDAY...Partly cloudy. A chance of rain. Lows in the upper
+30s. Highs in the upper 50s. Northwest winds 10 to 15 mph. 
+.SUNDAY...Mostly clear. Lows in the upper 30s. Highs in the upper
+60s. Northwest winds 10 to 15 mph. 
+
+$$
+
+KSZ049-242200-
+Saline-
+Including the city of Salina
+1138 AM CDT Mon Apr 24 2023
+
+                                Today      Tonight          Tue
+
+Cloud Cover                     Mcldy        Mcldy        Mcldy
+Precip Type                      None      Showers      Showers
+Chance Precip (%)                   0           60           60
+Max/Min Temp                       65           44           56
+Min/Max RH %                       32           89           63
+20FtWnd (mph)             S 14-18 G24  SE 9-13 G18      SE 9-13
+Precip Amount                    0.00         0.11         0.08
+Mixing Hgt(ft-agl/msl)           7120                      2930
+Transport Wnd (mph)              S 23                      E 22
+Smoke Dispersal                     5                         5
+LAL                                 1            1            1
+Haines Index                        5            3            3
+
+Remarks...None.
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+.WEDNESDAY...Mostly cloudy with a chance of showers. Lows in the
+lower 40s. Highs in the lower 60s. East winds 10 to 15 mph. 
+.THURSDAY...Mostly cloudy. A chance of showers. Lows in the lower
+40s. Highs in the upper 60s. West winds 5 to 10 mph. 
+.FRIDAY...Mostly cloudy with a chance of rain. Lows in the mid
+40s. Highs around 60. Northwest winds 10 to 15 mph. 
+.SATURDAY...Partly cloudy. A chance of rain. Lows in the upper
+30s. Highs in the lower 60s. Northwest winds 10 to 15 mph. 
+.SUNDAY...Mostly clear. Lows in the upper 30s. Highs in the upper
+60s. Northwest winds 10 to 15 mph. 
+
+$$
+
+KSZ093-242200-
+Cowley-
+Including the cities of Winfield and Arkansas City
+1138 AM CDT Mon Apr 24 2023
+
+                                Today      Tonight          Tue
+
+Cloud Cover                     Pcldy       Cloudy        Mcldy
+Precip Type                      None      Showers        Tstms
+Chance Precip (%)                   0           60           80
+Max/Min Temp                       66           44           53
+Min/Max RH %                       25           88           73
+20FtWnd (mph)                 S 11-15  SE 9-13 G19 SE 11-15 G21
+Precip Amount                    0.00         0.15         0.68
+Mixing Hgt(ft-agl/msl)           8040                      1850
+Transport Wnd (mph)              S 22                     SE 23
+Smoke Dispersal                     5                         5
+LAL                                 1            2            3
+Haines Index                        5            3            3
+
+Remarks...None.
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+.WEDNESDAY...Cloudy with showers likely. Lows in the lower 40s.
+Highs in the upper 50s. East winds 10 to 15 mph. 
+.THURSDAY...Mostly cloudy with showers likely. Lows in the mid
+40s. Highs in the lower 60s. Northeast winds 10 to 15 mph. 
+.FRIDAY...Mostly cloudy. A chance of rain. Lows in the mid 40s.
+Highs in the mid 60s. Northwest winds 10 to 15 mph. 
+.SATURDAY...Partly cloudy. A chance of rain. Lows in the upper
+30s. Highs in the lower 60s. Northwest winds 10 to 15 mph. 
+.SUNDAY...Mostly clear. Lows in the upper 30s. Highs in the upper
+60s. Northwest winds 10 to 15 mph. 
+
+$$
+
+KSZ099-242200-
+Montgomery-
+Including the cities of Coffeyville and Independence
+1138 AM CDT Mon Apr 24 2023
+
+                                Today      Tonight          Tue
+
+Cloud Cover                    Mclear        Mcldy        Mcldy
+Precip Type                      None      Showers      Showers
+Chance Precip (%)                   0           50           70
+Max/Min Temp                       67           46           55
+Min/Max RH %                       25           81           65
+20FtWnd (mph)                  S 8-12  SE 7-11 G17  SE 8-12 G17
+Precip Amount                    0.00         0.09         0.47
+Mixing Hgt(ft-agl/msl)           8370                      2640
+Transport Wnd (mph)              S 20                     SE 21
+Smoke Dispersal                     5                         5
+LAL                                 1            2            2
+Haines Index                        5            3            3
+
+Remarks...None.
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+.WEDNESDAY...Mostly cloudy with a chance of showers. Lows in the
+mid 40s. Highs in the lower 60s. East winds 10 to 15 mph. 
+.THURSDAY...Mostly cloudy with showers likely. Lows in the upper
+40s. Highs in the lower 60s. Northeast winds 10 to 15 mph. 
+.FRIDAY...Mostly cloudy. A chance of rain. Lows in the mid 40s.
+Highs in the mid 60s. West winds 10 to 15 mph. 
+.SATURDAY...Mostly cloudy. A chance of rain. Lows in the lower
+40s. Highs around 60. Northwest winds 10 to 15 mph. 
+.SUNDAY...Mostly clear. Lows around 40. Highs in the upper 60s.
+Northwest winds 10 to 15 mph. 
+
+$$
+
+KSZ068-242200-
+Harvey-
+Including the city of Newton
+1138 AM CDT Mon Apr 24 2023
+
+                                Today      Tonight          Tue
+
+Cloud Cover                     Mcldy       Cloudy        Mcldy
+Precip Type                      None      Showers      Showers
+Chance Precip (%)                   0           60           70
+Max/Min Temp                       64           45           54
+Min/Max RH %                       31           91           71
+20FtWnd (mph)             S 12-16 G23  SE 9-13 G20 SE 10-14 G19
+Precip Amount                    0.00         0.21         0.35
+Mixing Hgt(ft-agl/msl)           7260                      2190
+Transport Wnd (mph)              S 24                     SE 23
+Smoke Dispersal                     5                         5
+LAL                                 1            2            2
+Haines Index                        4            3            3
+
+Remarks...None.
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+.WEDNESDAY...Cloudy with a chance of showers. Lows in the lower
+40s. Highs in the upper 50s. East winds 10 to 15 mph. 
+.THURSDAY...Mostly cloudy. A chance of showers. Lows in the mid
+40s. Highs in the mid 60s. North winds 10 to 15 mph. 
+.FRIDAY...Mostly cloudy. A chance of rain. Lows in the mid 40s.
+Highs around 60. Northwest winds 10 to 15 mph. 
+.SATURDAY...Partly cloudy. A chance of rain. Lows in the upper
+30s. Highs around 60. Northwest winds 10 to 15 mph. 
+.SUNDAY...Mostly clear. Lows in the upper 30s. Highs in the upper
+60s. Northwest winds 10 to 15 mph. 
+
+$$
+
+KSZ051-242200-
+McPherson-
+Including the city of McPherson
+1138 AM CDT Mon Apr 24 2023
+
+                                Today      Tonight          Tue
+
+Cloud Cover                     Mcldy        Mcldy        Mcldy
+Precip Type                      None      Showers      Showers
+Chance Precip (%)                   0           60           60
+Max/Min Temp                       63           44           54
+Min/Max RH %                       34           93           70
+20FtWnd (mph)             S 13-17 G24  SE 9-13 G18  SE 9-13 G19
+Precip Amount                    0.00         0.15         0.26
+Mixing Hgt(ft-agl/msl)           7080                      2540
+Transport Wnd (mph)              S 24                     SE 23
+Smoke Dispersal                     5                         5
+LAL                                 1            2            2
+Haines Index                        5            3            3
+
+Remarks...None.
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+.WEDNESDAY...Cloudy with a chance of showers. Lows in the lower
+40s. Highs in the upper 50s. East winds 10 to 15 mph. 
+.THURSDAY...Mostly cloudy. A chance of showers. Lows in the lower
+40s. Highs in the mid 60s. Northwest winds 10 to 15 mph. 
+.FRIDAY...Mostly cloudy. A chance of rain. Lows in the mid 40s.
+Highs in the upper 50s. Northwest winds 10 to 15 mph. 
+.SATURDAY...Partly cloudy. A chance of rain. Lows in the upper
+30s. Highs around 60. Northwest winds 10 to 15 mph. 
+.SUNDAY...Mostly clear. Lows in the upper 30s. Highs in the upper
+60s. Northwest winds 10 to 15 mph. 
+
+$$
+
+KSZ047-242200-
+Barton-
+Including the city of Great Bend
+1138 AM CDT Mon Apr 24 2023
+
+                                Today      Tonight          Tue
+
+Cloud Cover                     Mcldy        Mcldy        Mcldy
+Precip Type                   Showers      Showers        Tstms
+Chance Precip (%)                  30           60           80
+Max/Min Temp                       61           41           52
+Min/Max RH %                       34           99           78
+20FtWnd (mph)             S 13-17 G23      SE 9-13 SE 10-14 G20
+Precip Amount                    0.03         0.06         0.32
+Mixing Hgt(ft-agl/msl)           6490                      1900
+Transport Wnd (mph)              S 24                      E 20
+Smoke Dispersal                     5                         5
+LAL                                 2            2            3
+Haines Index                        4            3            3
+
+Remarks...None.
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+.WEDNESDAY...Cloudy with showers likely. Lows around 40. Highs in
+the upper 50s. East winds 10 to 15 mph. 
+.THURSDAY...Mostly cloudy. A chance of showers. Lows in the upper
+30s. Highs in the mid 60s. West winds 5 to 10 mph. 
+.FRIDAY...Mostly cloudy. A chance of rain. Lows in the lower 40s.
+Highs in the upper 50s. North winds 10 to 15 mph. 
+.SATURDAY...Partly cloudy. Lows in the mid 30s. Highs around 60.
+Northwest winds around 15 mph. 
+.SUNDAY...Mostly clear. Lows in the mid 30s. Highs in the upper
+60s. Northwest winds 10 to 15 mph. 
+
+$$
+
+KSZ092-242200-
+Sumner-
+Including the city of Wellington
+1138 AM CDT Mon Apr 24 2023
+
+                                Today      Tonight          Tue
+
+Cloud Cover                     Pcldy       Cloudy        Mcldy
+Precip Type                      None      Showers        Tstms
+Chance Precip (%)                   0           60           80
+Max/Min Temp                       66           45           52
+Min/Max RH %                       29           95           78
+20FtWnd (mph)             S 11-15 G21  SE 9-13 G20 SE 10-14 G21
+Precip Amount                    0.00         0.17         0.76
+Mixing Hgt(ft-agl/msl)           7680                      1700
+Transport Wnd (mph)              S 24                     SE 23
+Smoke Dispersal                     5                         5
+LAL                                 2            2            4
+Haines Index                        4            3            3
+
+Remarks...None.
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+.WEDNESDAY...Cloudy with showers likely. Lows in the mid 40s.
+Highs in the mid 50s. East winds 10 to 15 mph. 
+.THURSDAY...Mostly cloudy. Showers likely. Lows in the mid 40s.
+Highs in the mid 60s. North winds 10 to 15 mph. 
+.FRIDAY...Mostly cloudy. A chance of rain. Lows in the lower 40s.
+Highs in the lower 60s. Northwest winds 10 to 15 mph. 
+.SATURDAY...Partly cloudy. A chance of rain. Lows in the upper
+30s. Highs in the lower 60s. Northwest winds 10 to 15 mph. 
+.SUNDAY...Mostly clear. Lows in the upper 30s. Highs in the upper
+60s. Northwest winds 10 to 15 mph. 
+
+$$
+
+KSZ100-242200-
+Labette-
+Including the city of Parsons
+1138 AM CDT Mon Apr 24 2023
+
+                                Today      Tonight          Tue
+
+Cloud Cover                    Mclear        Mcldy        Mcldy
+Precip Type                      None      Showers      Showers
+Chance Precip (%)                   0           50           60
+Max/Min Temp                       66           46           54
+Min/Max RH %                       26           76           62
+20FtWnd (mph)                  S 7-11  SE 7-11 G16  SE 7-11 G16
+Precip Amount                    0.00         0.07         0.40
+Mixing Hgt(ft-agl/msl)           8570                      2660
+Transport Wnd (mph)              S 17                     SE 18
+Smoke Dispersal                     5                         5
+LAL                                 1            1            1
+Haines Index                        5            3            3
+
+Remarks...None.
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+.WEDNESDAY...Mostly cloudy with a chance of showers. Lows in the
+mid 40s. Highs in the lower 60s. East winds 10 to 15 mph. 
+.THURSDAY...Mostly cloudy with showers likely. Lows in the upper
+40s. Highs in the lower 60s. Northeast winds 10 to 15 mph. 
+.FRIDAY...Mostly cloudy. A chance of rain. Lows in the mid 40s.
+Highs in the mid 60s. West winds 5 to 10 mph. 
+.SATURDAY...Mostly cloudy. A chance of rain. Lows in the lower
+40s. Highs around 60. Northwest winds 10 to 15 mph. 
+.SUNDAY...Mostly clear. Lows around 40. Highs in the mid 60s.
+Northwest winds 10 to 15 mph. 
+
+$$
+
+KSZ096-242200-
+Neosho-
+Including the city of Chanute
+1138 AM CDT Mon Apr 24 2023
+
+                                Today      Tonight          Tue
+
+Cloud Cover                     Pcldy        Mcldy        Mcldy
+Precip Type                      None      Showers      Showers
+Chance Precip (%)                   0           50           50
+Max/Min Temp                       66           45           55
+Min/Max RH %                       27           79           60
+20FtWnd (mph)              S 8-12 G18  SE 7-11 G16      SE 7-11
+Precip Amount                    0.00         0.09         0.28
+Mixing Hgt(ft-agl/msl)           8440                      2800
+Transport Wnd (mph)              S 18                     SE 16
+Smoke Dispersal                     5                         5
+LAL                                 1            1            1
+Haines Index                        5            4            3
+
+Remarks...None.
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+.WEDNESDAY...Mostly cloudy with a chance of showers. Lows in the
+mid 40s. Highs in the lower 60s. East winds 10 to 15 mph. 
+.THURSDAY...Mostly cloudy with a chance of rain. Lows in the
+upper 40s. Highs in the lower 60s. Northeast winds 10 to 15 mph. 
+.FRIDAY...Mostly cloudy. A chance of rain. Lows in the mid 40s.
+Highs in the mid 60s. West winds 10 to 15 mph. 
+.SATURDAY...Mostly cloudy. A chance of rain. Lows in the lower
+40s. Highs in the upper 50s. Northwest winds 10 to 15 mph. 
+.SUNDAY...Partly cloudy. Lows in the upper 30s. Highs in the mid
+60s. Northwest winds 10 to 15 mph. 
+
+$$
+
+KSZ072-242200-
+Allen-
+Including the cities of Iola and Humboldt
+1138 AM CDT Mon Apr 24 2023
+
+                                Today      Tonight          Tue
+
+Cloud Cover                     Pcldy        Mcldy        Mcldy
+Precip Type                      None      Showers      Showers
+Chance Precip (%)                   0           50           50
+Max/Min Temp                       66           44           56
+Min/Max RH %                       28           82           57
+20FtWnd (mph)                  S 7-11   S 7-11 G16      SE 7-11
+Precip Amount                    0.00         0.10         0.16
+Mixing Hgt(ft-agl/msl)           8280                      3160
+Transport Wnd (mph)              S 18                     SE 15
+Smoke Dispersal                     5                         5
+LAL                                 1            1            1
+Haines Index                        5            4            3
+
+Remarks...None.
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+.WEDNESDAY...Mostly cloudy with a chance of showers. Lows in the
+lower 40s. Highs in the lower 60s. East winds 10 to 15 mph. 
+.THURSDAY...Mostly cloudy. A chance of showers. Lows in the mid
+40s. Highs in the lower 60s. Northeast winds 10 to 15 mph. 
+.FRIDAY...Mostly cloudy. A chance of rain. Lows in the mid 40s.
+Highs in the mid 60s. West winds 10 to 15 mph. 
+.SATURDAY...Mostly cloudy. A chance of rain. Lows in the lower
+40s. Highs in the upper 50s. Northwest winds 10 to 15 mph. 
+.SUNDAY...Mostly clear. Lows in the upper 30s. Highs in the mid
+60s. Northwest winds 10 to 15 mph. 
+
+$$
+
+KSZ052-242200-
+Marion-
+Including the cities of Hillsboro, Marion, and Peabody
+1138 AM CDT Mon Apr 24 2023
+
+                                Today      Tonight          Tue
+
+Cloud Cover                     Mcldy        Mcldy        Mcldy
+Precip Type                      None      Showers      Showers
+Chance Precip (%)                   0           60           60
+Max/Min Temp                       64           44           55
+Min/Max RH %                       27           89           60
+20FtWnd (mph)             S 11-15 G23  SE 8-12 G18      SE 9-13
+Precip Amount                    0.00         0.16         0.21
+Mixing Hgt(ft-agl/msl)           7580                      2670
+Transport Wnd (mph)              S 23                     SE 23
+Smoke Dispersal                     5                         5
+LAL                                 1            1            2
+Haines Index                        5            3            3
+
+Remarks...None.
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+.WEDNESDAY...Mostly cloudy with a chance of showers. Lows in the
+lower 40s. Highs around 60. East winds 10 to 15 mph. 
+.THURSDAY...Mostly cloudy. A chance of showers. Lows in the lower
+40s. Highs in the mid 60s. Northeast winds 10 to 15 mph. 
+.FRIDAY...Mostly cloudy. A chance of rain. Lows in the mid 40s.
+Highs in the upper 50s. Northwest winds 10 to 15 mph. 
+.SATURDAY...Partly cloudy. A chance of rain. Lows in the upper
+30s. Highs in the upper 50s. Northwest winds 10 to 15 mph. 
+.SUNDAY...Mostly clear. Lows in the upper 30s. Highs in the mid
+60s. Northwest winds 10 to 15 mph. 
+
+$$
+
+KSZ050-242200-
+Rice-
+Including the cities of Lyons and Sterling
+1138 AM CDT Mon Apr 24 2023
+
+                                Today      Tonight          Tue
+
+Cloud Cover                     Mcldy        Mcldy        Mcldy
+Precip Type                   Showers      Showers      Showers
+Chance Precip (%)                  20           60           70
+Max/Min Temp                       62           42           53
+Min/Max RH %                       34           98           79
+20FtWnd (mph)             S 13-17 G23  SE 9-13 G19 SE 10-14 G20
+Precip Amount                    0.05         0.13         0.33
+Mixing Hgt(ft-agl/msl)           6660                      2140
+Transport Wnd (mph)              S 25                     SE 22
+Smoke Dispersal                     5                         5
+LAL                                 2            2            3
+Haines Index                        4            3            3
+
+Remarks...None.
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+.WEDNESDAY...Cloudy with a chance of showers. Lows in the lower
+40s. Highs in the upper 50s. East winds 10 to 15 mph. 
+.THURSDAY...Mostly cloudy. A chance of showers. Lows around 40.
+Highs in the mid 60s. Northwest winds 10 to 15 mph. 
+.FRIDAY...Mostly cloudy. A chance of rain. Lows in the lower 40s.
+Highs in the upper 50s. Northwest winds 10 to 15 mph. 
+.SATURDAY...Partly cloudy. Lows in the mid 30s. Highs around 60.
+Northwest winds 10 to 15 mph. 
+.SUNDAY...Mostly clear. Lows in the upper 30s. Highs in the upper
+60s. Northwest winds 10 to 15 mph. 
+
+$$
+
+KSZ095-242200-
+Wilson-
+Including the cities of Neodesha and Fredonia
+1138 AM CDT Mon Apr 24 2023
+
+                                Today      Tonight          Tue
+
+Cloud Cover                     Pcldy        Mcldy        Mcldy
+Precip Type                      None      Showers      Showers
+Chance Precip (%)                   0           50           60
+Max/Min Temp                       67           46           56
+Min/Max RH %                       26           81           61
+20FtWnd (mph)              S 9-13 G19  SE 7-11 G18      SE 8-12
+Precip Amount                    0.00         0.14         0.36
+Mixing Hgt(ft-agl/msl)           8580                      2750
+Transport Wnd (mph)              S 20                     SE 18
+Smoke Dispersal                     5                         5
+LAL                                 1            1            1
+Haines Index                        5            4            3
+
+Remarks...None.
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+.WEDNESDAY...Mostly cloudy with a chance of showers. Lows in the
+mid 40s. Highs in the lower 60s. East winds 10 to 15 mph. 
+.THURSDAY...Mostly cloudy with a chance of showers. Lows in the
+upper 40s. Highs in the lower 60s. Northeast winds 10 to 15 mph. 
+.FRIDAY...Mostly cloudy. A chance of rain. Lows in the mid 40s.
+Highs in the mid 60s. West winds 10 to 15 mph. 
+.SATURDAY...Mostly cloudy. A chance of rain. Lows in the lower
+40s. Highs around 60. Northwest winds 10 to 15 mph. 
+.SUNDAY...Mostly clear. Lows in the upper 30s. Highs in the upper
+60s. Northwest winds 10 to 15 mph. 
+
+$$
+
+KSZ082-242200-
+Kingman-
+Including the city of Kingman
+1138 AM CDT Mon Apr 24 2023
+
+                                Today      Tonight          Tue
+
+Cloud Cover                     Mcldy       Cloudy        Mcldy
+Precip Type                   Showers      Showers        Tstms
+Chance Precip (%)                  30           60           80
+Max/Min Temp                       63           43           51
+Min/Max RH %                       34           99           77
+20FtWnd (mph)                 S 13-17  SE 9-13 G19 SE 11-15 G20
+Precip Amount                    0.05         0.13         0.74
+Mixing Hgt(ft-agl/msl)           6820                      1700
+Transport Wnd (mph)              S 25                     SE 23
+Smoke Dispersal                     5                         5
+LAL                                 2            2            4
+Haines Index                        4            3            3
+
+Remarks...None.
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+.WEDNESDAY...Cloudy with showers likely. Lows in the lower 40s.
+Highs in the mid 50s. East winds 10 to 15 mph. 
+.THURSDAY...Mostly cloudy. Showers likely. Lows in the lower 40s.
+Highs in the mid 60s. North winds 10 to 15 mph. 
+.FRIDAY...Mostly cloudy. A chance of rain. Lows in the mid 40s.
+Highs around 60. Northwest winds 10 to 15 mph. 
+.SATURDAY...Partly cloudy. A chance of rain. Lows in the upper
+30s. Highs in the lower 60s. Northwest winds 10 to 15 mph. 
+.SUNDAY...Mostly clear. Lows in the upper 30s. Highs in the upper
+60s. Northwest winds 10 to 15 mph. 
+
+$$
+
+KSZ070-242200-
+Greenwood-
+Including the cities of Eureka and Madison
+1138 AM CDT Mon Apr 24 2023
+
+                                Today      Tonight          Tue
+
+Cloud Cover                     Pcldy        Mcldy        Mcldy
+Precip Type                      None      Showers      Showers
+Chance Precip (%)                   0           60           60
+Max/Min Temp                       66           44           56
+Min/Max RH %                       27           86           62
+20FtWnd (mph)             S 10-14 G21  SE 8-12 G20  SE 9-13 G19
+Precip Amount                    0.00         0.17         0.30
+Mixing Hgt(ft-agl/msl)           8450                      2720
+Transport Wnd (mph)              S 21                     SE 21
+Smoke Dispersal                     5                         5
+LAL                                 1            1            1
+Haines Index                        5            3            3
+
+Remarks...None.
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+.WEDNESDAY...Mostly cloudy with a chance of showers. Lows in the
+lower 40s. Highs in the lower 60s. East winds 10 to 15 mph. 
+.THURSDAY...Mostly cloudy. A chance of showers. Lows in the mid
+40s. Highs in the mid 60s. Northeast winds 10 to 15 mph. 
+.FRIDAY...Mostly cloudy. A chance of rain. Lows in the mid 40s.
+Highs in the lower 60s. West winds 10 to 15 mph. 
+.SATURDAY...Mostly cloudy. A chance of rain. Lows around 40.
+Highs in the upper 50s. Northwest winds 15 to 20 mph. 
+.SUNDAY...Mostly clear. Lows in the upper 30s. Highs in the upper
+60s. Northwest winds 10 to 15 mph. 
+
+$$
+
+KSZ032-242200-
+Russell-
+Including the city of Russell
+1138 AM CDT Mon Apr 24 2023
+
+                                Today      Tonight          Tue
+
+Cloud Cover                     Mcldy        Mcldy        Mcldy
+Precip Type                   Showers      Showers      Showers
+Chance Precip (%)                  30           50           70
+Max/Min Temp                       62           41           54
+Min/Max RH %                       28           94           74
+20FtWnd (mph)             S 13-17 G25  SE 8-12 G18     SE 10-14
+Precip Amount                    0.03         0.03         0.14
+Mixing Hgt(ft-agl/msl)           6780                      2410
+Transport Wnd (mph)              S 24                     SE 21
+Smoke Dispersal                     5                         5
+LAL                                 2            2            2
+Haines Index                        5            3            3
+
+Remarks...None.
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+.WEDNESDAY...Mostly cloudy with a chance of showers. Lows around
+40. Highs around 60. East winds 10 to 15 mph. 
+.THURSDAY...Mostly cloudy. Lows in the upper 30s. Highs in the
+upper 60s. West winds 5 to 10 mph. 
+.FRIDAY...Mostly cloudy. A chance of rain. Lows in the lower 40s.
+Highs around 60. North winds 10 to 15 mph. 
+.SATURDAY...Partly cloudy. Lows in the mid 30s. Highs in the
+lower 60s. Northwest winds around 15 mph. 
+.SUNDAY...Mostly clear. Lows in the mid 30s. Highs in the upper
+60s. Northwest winds 10 to 15 mph. 
+
+$$
+
+KSZ048-242200-
+Ellsworth-
+Including the cities of Ellsworth and Wilson
+1138 AM CDT Mon Apr 24 2023
+
+                                Today      Tonight          Tue
+
+Cloud Cover                     Mcldy        Mcldy        Mcldy
+Precip Type                   Showers      Showers      Showers
+Chance Precip (%)                  30           60           70
+Max/Min Temp                       64           43           54
+Min/Max RH %                       30           94           73
+20FtWnd (mph)             S 13-17 G23  SE 9-13 G18  SE 9-13 G19
+Precip Amount                    0.03         0.08         0.21
+Mixing Hgt(ft-agl/msl)           6580                      2430
+Transport Wnd (mph)              S 24                     SE 22
+Smoke Dispersal                     5                         5
+LAL                                 2            2            2
+Haines Index                        5            3            3
+
+Remarks...None.
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+.WEDNESDAY...Mostly cloudy with a chance of showers. Lows in the
+lower 40s. Highs in the upper 50s. East winds 10 to 15 mph. 
+.THURSDAY...Mostly cloudy. A chance of showers. Lows around 40.
+Highs in the upper 60s. West winds 5 to 10 mph. 
+.FRIDAY...Mostly cloudy with a chance of rain. Lows in the mid
+40s. Highs around 60. Northwest winds 10 to 15 mph. 
+.SATURDAY...Partly cloudy. Lows in the upper 30s. Highs around
+60. Northwest winds around 15 mph. 
+.SUNDAY...Mostly clear. Lows in the upper 30s. Highs in the upper
+60s. Northwest winds 10 to 15 mph. 
+
+$$
+
+KSZ091-242200-
+Harper-
+Including the cities of Anthony, Harper, and Attica
+1138 AM CDT Mon Apr 24 2023
+
+                                Today      Tonight          Tue
+
+Cloud Cover                     Pcldy       Cloudy        Mcldy
+Precip Type                   Showers      Showers        Tstms
+Chance Precip (%)                  30           50           90
+Max/Min Temp                       64           45           51
+Min/Max RH %                       34           99           76
+20FtWnd (mph)             S 11-15 G22      SE 8-12 SE 10-14 G20
+Precip Amount                    0.04         0.19         0.78
+Mixing Hgt(ft-agl/msl)           6970                      1610
+Transport Wnd (mph)              S 24                     SE 22
+Smoke Dispersal                     5                         5
+LAL                                 2            2            4
+Haines Index                        4            3            3
+
+Remarks...None.
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+.WEDNESDAY...Showers and scattered thunderstorms. Lows in the
+lower 40s. Highs in the lower 50s. East winds 10 to 15 mph. 
+.THURSDAY...Mostly cloudy. Showers likely. Warmer. Lows in the
+lower 40s. Highs in the mid 60s. North winds 5 to 10 mph. 
+.FRIDAY...Mostly cloudy. A chance of rain. Lows in the lower 40s.
+Highs in the lower 60s. Northwest winds 10 to 15 mph. 
+.SATURDAY...Partly cloudy. A chance of rain. Lows in the upper
+30s. Highs in the lower 60s. Northwest winds 10 to 15 mph. 
+.SUNDAY...Mostly clear. Lows in the upper 30s. Highs around 70.
+Northwest winds 10 to 15 mph. 
+
+$$
+
+KSZ098-242200-
+Chautauqua-
+Including the cities of Sedan and Cedar Vale
+1138 AM CDT Mon Apr 24 2023
+
+                                Today      Tonight          Tue
+
+Cloud Cover                     Pcldy        Mcldy        Mcldy
+Precip Type                      None      Showers      Showers
+Chance Precip (%)                   0           60           70
+Max/Min Temp                       66           45           53
+Min/Max RH %                       26           85           68
+20FtWnd (mph)                  S 9-13  SE 8-12 G17  SE 9-13 G18
+Precip Amount                    0.00         0.11         0.61
+Mixing Hgt(ft-agl/msl)           8370                      2240
+Transport Wnd (mph)              S 21                     SE 22
+Smoke Dispersal                     5                         5
+LAL                                 1            2            3
+Haines Index                        5            3            3
+
+Remarks...None.
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+.WEDNESDAY...Mostly cloudy with showers likely. Lows in the mid
+40s. Highs in the upper 50s. East winds 10 to 15 mph. 
+.THURSDAY...Mostly cloudy with showers likely. Lows in the upper
+40s. Highs in the lower 60s. Northeast winds 10 to 15 mph. 
+.FRIDAY...Mostly cloudy. A chance of rain. Lows in the mid 40s.
+Highs in the mid 60s. West winds 10 to 15 mph. 
+.SATURDAY...Partly cloudy. A chance of rain. Lows in the lower
+40s. Highs around 60. Northwest winds 10 to 15 mph. 
+.SUNDAY...Mostly clear. Lows in the upper 30s. Highs in the upper
+60s. Northwest winds 10 to 15 mph. 
+
+$$
+
+KSZ071-242200-
+Woodson-
+Including the city of Yates Center
+1138 AM CDT Mon Apr 24 2023
+
+                                Today      Tonight          Tue
+
+Cloud Cover                     Pcldy        Mcldy        Mcldy
+Precip Type                      None      Showers      Showers
+Chance Precip (%)                   0           50           50
+Max/Min Temp                       66           45           56
+Min/Max RH %                       27           83           60
+20FtWnd (mph)              S 9-13 G18  SE 7-11 G18      SE 8-12
+Precip Amount                    0.00         0.15         0.24
+Mixing Hgt(ft-agl/msl)           8670                      2910
+Transport Wnd (mph)              S 20                     SE 18
+Smoke Dispersal                     5                         5
+LAL                                 1            1            1
+Haines Index                        5            4            3
+
+Remarks...None.
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+.WEDNESDAY...Mostly cloudy with a chance of showers. Lows in the
+lower 40s. Highs in the lower 60s. East winds 10 to 15 mph. 
+.THURSDAY...Mostly cloudy with a chance of showers. Lows in the
+mid 40s. Highs in the mid 60s. Northeast winds 10 to 15 mph. 
+.FRIDAY...Mostly cloudy. A chance of rain. Lows in the mid 40s.
+Highs in the mid 60s. West winds 10 to 15 mph. 
+.SATURDAY...Mostly cloudy. A chance of rain. Lows in the lower
+40s. Highs in the upper 50s. Northwest winds 10 to 15 mph. 
+.SUNDAY...Mostly clear. Lows in the upper 30s. Highs in the mid
+60s. Northwest winds 10 to 15 mph. 
+
+$$
+
+KSZ033-242200-
+Lincoln-
+Including the cities of Lincoln and Sylvan Grove
+1138 AM CDT Mon Apr 24 2023
+
+                                Today      Tonight          Tue
+
+Cloud Cover                     Mcldy        Mcldy        Mcldy
+Precip Type                      None      Showers      Showers
+Chance Precip (%)                   0           50           60
+Max/Min Temp                       64           44           55
+Min/Max RH %                       29           91           67
+20FtWnd (mph)             S 13-17 G23      SE 8-12      SE 9-13
+Precip Amount                    0.00         0.04         0.06
+Mixing Hgt(ft-agl/msl)           6660                      2700
+Transport Wnd (mph)              S 24                     SE 22
+Smoke Dispersal                     5                         5
+LAL                                 1            1            2
+Haines Index                        5            3            3
+
+Remarks...None.
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+.WEDNESDAY...Mostly cloudy with a chance of showers. Lows in the
+lower 40s. Highs in the lower 60s. East winds 10 to 15 mph. 
+.THURSDAY...Mostly cloudy. Lows in the lower 40s. Highs in the
+upper 60s. West winds 5 to 10 mph. 
+.FRIDAY...Mostly cloudy with a chance of rain. Lows in the mid
+40s. Highs around 60. Northwest winds 10 to 15 mph. 
+.SATURDAY...Partly cloudy. A chance of rain. Lows in the mid 30s.
+Highs in the lower 60s. Northwest winds around 15 mph. 
+.SUNDAY...Mostly clear. Lows in the upper 30s. Highs in the upper
+60s. Northwest winds 10 to 15 mph. 
+
+$$
+
+KSZ094-242200-
+Elk-
+Including the cities of Howard, Moline, Longton, and Grenola
+1138 AM CDT Mon Apr 24 2023
+
+                                Today      Tonight          Tue
+
+Cloud Cover                     Pcldy        Mcldy        Mcldy
+Precip Type                      None      Showers      Showers
+Chance Precip (%)                   0           60           70
+Max/Min Temp                       66           45           54
+Min/Max RH %                       26           87           65
+20FtWnd (mph)             S 10-14 G20  SE 8-12 G19  SE 9-13 G19
+Precip Amount                    0.00         0.16         0.52
+Mixing Hgt(ft-agl/msl)           8460                      2520
+Transport Wnd (mph)              S 21                     SE 22
+Smoke Dispersal                     5                         5
+LAL                                 1            1            2
+Haines Index                        5            3            3
+
+Remarks...None.
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+.WEDNESDAY...Mostly cloudy with a chance of showers. Lows in the
+mid 40s. Highs in the upper 50s. East winds 10 to 15 mph. 
+.THURSDAY...Mostly cloudy with showers likely. Lows in the mid
+40s. Highs in the lower 60s. Northeast winds 10 to 15 mph. 
+.FRIDAY THROUGH SATURDAY...Mostly cloudy with a chance of rain.
+Lows in the lower 40s. Highs in the lower 60s. Northwest winds
+10 to 15 mph. 
+.SUNDAY...Mostly clear. Lows in the upper 30s. Highs in the upper
+60s. Northwest winds 10 to 15 mph. 
+
+$$
+
+KSZ053-242200-
+Chase-
+Including the cities of Cottonwood Falls and Strong City
+1138 AM CDT Mon Apr 24 2023
+
+                                Today      Tonight          Tue
+
+Cloud Cover                     Pcldy        Mcldy        Mcldy
+Precip Type                      None      Showers      Showers
+Chance Precip (%)                   0           60           50
+Max/Min Temp                       66           44           56
+Min/Max RH %                       26           85           57
+20FtWnd (mph)             S 11-15 G22  SE 8-12 G20  SE 9-13 G19
+Precip Amount                    0.00         0.16         0.16
+Mixing Hgt(ft-agl/msl)           8270                      2750
+Transport Wnd (mph)              S 22                     SE 21
+Smoke Dispersal                     5                         5
+LAL                                 1            1            1
+Haines Index                        5            3            3
+
+Remarks...None.
+
+.FORECAST FOR DAYS 3 THROUGH 7...
+.WEDNESDAY...Mostly cloudy with a chance of showers. Lows in the
+lower 40s. Highs in the lower 60s. East winds 10 to 15 mph. 
+.THURSDAY...Mostly cloudy. A chance of showers. Lows in the mid
+40s. Highs in the mid 60s. East winds 10 to 15 mph. 
+.FRIDAY...Mostly cloudy. A chance of rain. Lows in the mid 40s.
+Highs in the lower 60s. Northwest winds 10 to 15 mph. 
+.SATURDAY...Mostly cloudy. A chance of rain. Lows in the upper
+30s. Highs in the upper 50s. Northwest winds 15 to 20 mph. 
+.SUNDAY...Mostly clear. Lows in the upper 30s. Highs in the upper
+60s. Northwest winds 10 to 15 mph. 
+
+$$
+

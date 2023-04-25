@@ -1,0 +1,222 @@
+SRUS43 KSGF 241501 RRA
+RVASGF
+MOC013-039-043-097-105-119-145-153-161-169-185-203-209-217- 
+KSC011-021-250545-
+
+
+Hydrologic Statement
+National Weather Service Springfield MO
+945 AM CDT Mon Apr 24 2023
+
+
+
+Station - River Data Points     Flood    7 AM   24-Hour change
+                                Stage    Stage
+
+
+** Current River Basin  **
+ Jacks Fork River
+Mountain View                    11     1.50      -0.10
+ Current River
+Akers                             7     1.26      -0.03
+Montauk State Park                7     1.73      -0.01
+
+
+** Elk River Basin **
+ Buffalo Creek
+Tiff City                        10     2.39      -0.02
+ Little Sugar Creek
+Pineville                         9     3.01      -0.01
+ Big Sugar Creek
+Powell                           10     5.73      -0.02
+ Indian Creek
+Lanagan                          12     1.67       0.02
+
+
+** Niangua River Basin **
+ Little Niangua River
+Newburg                          12     2.20      -0.02
+ Niangua River
+Windyville                       12     1.54      -0.04
+Bennett Spring State Park         5     2.09      -0.01
+Tunnel Dam                       11     1.96      -0.02
+Niangua River above Lake Niangua 15     5.01      -0.04
+
+
+** James River Basin **
+  Wilson Creek
+Springfield                      13     2.26      -0.03
+near Springfield                  7     1.04      -0.07
+near Brookline                   10     2.42      -0.02
+  Pearson Creek
+Springfield                       6     2.44      -0.03
+  Flat Creek
+Jenkins                           7     4.29      -0.03
+  Finley River
+Riverdale                        11     1.32      -0.02
+  James River
+Springfield                      12     4.64      -0.07
+
+
+** Sac River Basin **
+ Turnback Creek
+Turnback Creek Above Greenfield  15     5.39      -0.02
+ South Dry Fork Sac River
+Springfield                       6     1.21      -0.03
+ Sac River
+Morrisville                      14     2.28      -0.04
+Dadeville                        14     5.68      -0.04
+Highway J below Stockton  Dam    18     5.72      -0.01
+ Cedar Creek
+Pleasant View                    21     3.36      -0.01
+
+
+** Osage River Basin **
+ Drywood Creek
+Prairie State Park                8     1.58       0.00
+ Marmaton River
+Uniontown                        12    -0.15      -0.01
+Richards                         23     1.86      -0.02
+ Weableau Creek
+Weableau                          8     1.68       0.00
+ Tavern Creek
+St. Elizabeth                    10     1.49      -0.05
+ Osage River
+Warsaw                           34    25.68      -0.47
+Bagnell                          22     3.48       0.01
+Tuscumbia                        20     3.45       0.01
+St. Thomas - Osage River         23     3.61      -0.01
+
+
+** Gasconade / Bourbeuse River Basins **
+ Little Piney River
+Newburg                          12     2.20      -0.02
+ Big Piney
+Big Piney                         8     3.36      -0.07
+ Roubidoux Creek
+Plato                            11     2.59      -0.07
+ Bourbeuse River  
+High Gate                        17     3.90      -0.03
+
+
+** Eleven Point Basin **
+Greer                             3     1.19      -0.01
+ Eleven Point River
+Bardley                          10     3.95      -0.07
+
+
+** Norfork River Basin **
+ Little North Fork 
+Thornfield                        5     2.86      -0.04
+  Bryant Creek
+Tecumseh                         16     4.81      -0.04
+ 
+** Neosho River Basin **
+ Lightning Creek
+McCune                           12     0.86       0.00
+ Neosho River
+near Oswego                      28     8.55      -0.04
+
+
+** Spring River Basin **
+ North Fork Spring
+Purcell                          11     2.84      -0.05
+ Spring River
+La Russell                        8     2.33      -0.03
+
+
+** Pomme de Terre River Basin **
+ Lindley Creek
+Polk                             17     4.06      -0.01
+ Pomme de Terre River
+Bolivar                          17     2.01      -0.08
+
+
+** White River Basin **
+ Roaring River
+Roaring River State Park          3     0.77      -0.01
+ Bull Creek
+Walnunt Shade                    10     1.61      -0.08
+ Beaver Creek
+Bradleyville                     13     3.49      -0.03
+ Turkey Creek
+Hollister                        10     3.17       0.00
+ Roark Creek
+Branson                           8     3.53      -0.03
+ White River
+School of the Ozarks             715    701.72       0.33
+
+
+River Forecast Point Stations   Flood    7 AM   24-Hour change
+                                Stage    Stage  
+
+Spring River
+Carthage                         10     3.67      -0.03
+Waco                             19     2.13      -0.03
+Baxter Springs                   14     3.63      -0.03
+
+Shoal Creek
+Joplin                           12     2.76      -0.04
+
+Elk River
+Tiff City                        15     3.82      -0.05
+
+Jacks Fork River
+Alley Spring                      9     2.73      -0.11
+Eminence                         12     2.73      -0.10
+
+Current River
+Powder Mill                       8     3.42      -0.08
+
+James River
+Boaz                             10     3.23      -0.08
+Galena                           15     4.91      -0.12
+
+North Fork White River
+Tecumseh                         20     3.20      -0.04
+
+Little Osage River
+Fulton                           22     3.19      -0.02
+Horton                           41    28.75      -0.08
+
+Marmaton River
+Fort Scott                       38     6.75      -0.21
+Nevada                           20     2.44      -0.02
+
+Osage River
+Schell City                      30     6.56      -0.01
+Taberville                       23     8.71      -0.21
+
+Sac River
+Caplinger Mills                  16     5.46      -0.03
+
+Big Piney River
+Fort Leonard Wood - East Gate     8     2.87      -0.06
+
+Roubidoux Creek
+Waynesville                       7     1.13       0.00
+
+Gasconade River
+Hazelgreen                       21     2.46      -0.13
+Jerome                           15     3.17       0.00
+
+
+Area Lakes           7 AM Stage   24-Hr Change    Power Pool
+
+
+Bull Shoals Lake          667.09     -0.29          661.00
+Beaver Lake               1128.42     -0.08         1121.43
+Norfork Lake              555.94     -0.65          555.75
+Table Rock Lake           914.56     -0.08          917.00
+Lake Taneycomo            701.06      0.46          700.45
+Lake Taneycomo Tail       667.09     -0.29
+Stockton Lake             868.19      0.03          867.00
+Pomme de Terre Lake       841.37      0.01          839.00
+Truman Lake               705.37     -0.17          706.00
+Lake of the Ozarks        656.70      0.19          660.00
+Grand Lake                743.01      0.00
+
+
+ Note: Lake levels are given in feet above Mean Sea Level (MSL).
+
+$$

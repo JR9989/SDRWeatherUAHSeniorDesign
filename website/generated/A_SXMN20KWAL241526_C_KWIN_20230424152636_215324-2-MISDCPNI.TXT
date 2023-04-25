@@ -1,0 +1,26 @@
+SXMN20 KWAL 241526
+2210C01E 114152620 
+ :?? 0 #0 B1A
+ :PC 0 #0 0
+ :PC 0 #0 0
+ :PC 0 #0 0
+ :PC 0 #0 0
+ :PC 0 #0 NAN
+ :PC 0 #0 NAN
+ :PC 0 #0 NAN
+ :PC 0 #0 NAN
+ :HX 0 #0 
+ :HX 0 #0 
+ :HX 0 #0 
+ :HX 0 #0 
+ :HX 0 #0 1.623
+ :HX 0 #0 1.62
+ :HX 0 #0 1.62
+ :HX 0 #0 1.62
+ :HX 0 #0 NAN
+ :HX 0 #0 NAN
+ :HX 0 #0 NAN
+ :HX 0 #0 NAN
+ :HX 0 #0 13.52
+
+ 41-0NN  57E

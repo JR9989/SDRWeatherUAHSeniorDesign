@@ -1,0 +1,53 @@
+FNUS75 KSLC 241503
+FWSSLC
+
+Spot Forecast for Old Woman South RX...USFS
+National Weather Service Salt Lake City UT
+903 AM MDT Mon Apr 24 2023
+
+If conditions become unrepresentative...contact the National Weather
+Service.
+
+.DISCUSSION...Gusty winds behind a frontal passage are forecast
+ tomorrow with colder air forecast. Warming temperatures are
+expected Wednesday with lighter winds as high pressure builds
+from the southwest. Similar conditions are anticipated throughout
+the week though Friday is looking to be the windier day in the mid 
+range period. 
+
+.TUESDAY...
+
+Sky/weather.........Partly cloudy (35-45 percent cloud cover). 
+CWR.................0 percent. 
+Chance of pcpn......10 percent. 
+LAL.................1. 
+Max temperature.....40-42. 
+Min humidity........47-49 percent. 
+Wind (20 ft)........Breezy. Northwest winds 22-26 mph with gusts to 
+                    around 32 mph. 
+Clearing index......1000+. 
+Haines Index........2. 
+
+.FORECAST DAYS 3 THROUGH 7...
+.WEDNESDAY...
+Warmer. Mostly clear. Lows in the mid 20s. Highs in the lower
+50s. Northwest winds around 12 mph. Clearing index 1000+. 
+.THURSDAY...
+Mostly clear. Lows in the lower 30s. Highs in the upper 50s.
+Northwest winds around 10 mph. Clearing index 970. 
+.FRIDAY...
+Mostly clear. Lows in the mid 30s. Highs in the mid 50s.
+Northwest winds around 13 mph. Clearing index 1000+. 
+.SATURDAY...
+Mostly clear. Lows around 30. Highs around 60. Clearing index 400. 
+.SUNDAY...
+Mostly clear. Lows in the mid 30s. Highs in the mid 60s. Clearing index 1000+. 
+
+$$
+Forecaster...NDeSmet
+Requested by...Ryan McCollin
+Type of request...PRESCRIBED
+.TAG 2310080.1/SLC
+.DELDT 04/24/23
+.FormatterVersion 2.0.0
+.EMAIL ryan.mccollin@usda.gov

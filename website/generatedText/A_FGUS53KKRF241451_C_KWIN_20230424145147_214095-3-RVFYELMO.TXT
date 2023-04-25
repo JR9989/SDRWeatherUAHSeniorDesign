@@ -1,0 +1,61 @@
+FGUS53 KKRF 241451
+RVFYEL
+
+RIVER FORECAST
+NWS MISSOURI BASIN RIVER FORECAST CENTER PLEASANT HILL MO
+1451Z Mon Apr 24 2023
+:
+: THIS PRODUCT HAS PRELIMINARY DATA AND SUBJECT TO REVISION.
+: REFER TO YOUR LOCAL WFO FOR THE LATEST OFFICIAL RIVER FORECAST.
+
+:    FORECAST GROUP IS YELLOW-RES
+
+:  *************************************************************
+:  ***   R E S E R V O I R   I N F L O W   F O R E C A S T   ***
+:  *************************************************************
+
+
+: ==> This forecast includes obsd precip & 120 hours of QPF <==
+
+
+
+
+:TONGUE RIVER RES MT - TONGUE RIVER      HSA - BYZ
+
+
+.ER DKRM8 20230421 Z DC202304241451/DH18/QIIFF/DIH6
+:Flow Fcst /   00Z /   06Z /   12Z /   18Z
+.E1 : 0421 :                         / 0.739 
+.E2 : 0422 : / 0.727 / 0.719 / 0.714 / 0.711 
+.E3 : 0423 : / 0.709 / 0.708 / 0.708 / 0.710 
+.E4 : 0424 : / 0.709 / 0.706 / 0.704 / 0.702 
+.E5 : 0425 : / 0.700 / 0.698 / 0.696 / 0.700 
+.E6 : 0426 : / 0.752 / 0.863 / 0.974 / 0.985 
+.E7 : 0427 : / 0.911 / 0.822 / 0.758 / 0.723 
+.E8 : 0428 : / 0.707 / 0.700 / 0.690 / 0.685 
+.E9 : 0429 : / 0.690 / 0.686 / 0.678 / 0.675 
+.E10: 0430 : / 0.673 / 0.672 / 0.671 / 0.670 
+.E11: 0501 : / 0.669 / 0.668 / 0.666 
+
+:*****************************************************************
+:COMMENT
+:
+:
+:HSA -        Hydrologic Service Area
+:WFO -        Weather Forecast Office
+:RIW -        NWS WFO Riverton, Wyoming
+:BYZ -        NWS WFO Billings, Montana
+:GGW -        NWS WFO Glasgow, Montana
+:OBS -        Observed
+:EST -        Estimated
+:M -          Missing
+:Stage Fcst - River Stage forecast including future precipitation
+:Flow Fcst -  River Flow forecast including future precipitation
+:Precip -     Precipitation
+:QPE -        Observed radar estimated precipitation
+:QPF -        Forecasted mean areal precipitation for local basin
+:
+:
+$$
+: cwh
+:...END of MESSAGE...

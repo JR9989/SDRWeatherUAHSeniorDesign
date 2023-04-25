@@ -1,0 +1,100 @@
+ASUS43 KOAX 241513
+RWRNE 
+
+WEATHER ROUNDUP FOR NEBRASKA
+NATIONAL WEATHER SERVICE OMAHA NE
+1000 AM CDT MON APR 24 2023
+
+NOTES: SATELLITE DATA IS BEING USED TO AUGMENT CLOUD COVER ABOVE
+       12000 FEET.
+       "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+       SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+   
+NEZ001>004-019>022-054>056-241600-
+NEBRASKA PANHANDLE
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+SCOTTSBLUFF    SUNNY     46  25  43 SE8       29.90S                  
+ALLIANCE       SUNNY     48  23  37 S3        29.90S                  
+CHADRON        SUNNY     40  23  50 CALM      29.92F                  
+GORDON         SUNNY     44  20  38 SE10      29.94S                  
+KIMBALL        SUNNY     49  26  39 W7        29.91S                  
+SIDNEY         MOSUNNY   51  29  42 VRB3      29.89F                  
+$$
+ 
+NEZ057>060-069>072-079>082-241600-
+SOUTHWEST NEBRASKA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+NORTH PLATTE   MOSUNNY   50  27  40 CALM      29.95S                  
+GRANT          FAIR      50  28  43 S9        29.92F                  
+IMPERIAL       PTSUNNY   53  33  46 S9        29.93F                  
+LEXINGTON      MOSUNNY   54  30  40 SW12      29.98S                  
+MCCOOK         MOSUNNY   52  32  46 CALM      29.96S                  
+OGALLALA       MOSUNNY   47  25  42 CALM      29.93F                  
+$$
+ 
+NEZ005>010-023>029-035>040-094-241600-
+NORTH CENTRAL NEBRASKA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+VALENTINE      SUNNY     48  21  34 E14       29.99F                  
+AINSWORTH      SUNNY     45  24  42 E12       30.01S                  
+BROKEN BOW     MOSUNNY   46  23  40 E6        29.98R                  
+O'NEILL        MOSUNNY   48  23  36 E15       30.04S                  
+ORD            PTSUNNY   48  26  42 E9        30.00S                  
+THEDFORD       MOSUNNY   46  21  37 E9        29.98S                  
+$$
+ 
+NEZ041-046>049-061>064-073>077-083>087-241600-
+SOUTH CENTRAL NEBRASKA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+GRAND ISLAND   PTSUNNY   50  26  39 SW5       30.02S                  
+AURORA         PTSUNNY   47  28  46 SW7       30.02S                  
+HASTINGS       PTSUNNY   54  30  40 SW12G20   30.01S                  
+HEBRON         MOSUNNY   55  28  35 SW14      30.05S                  
+HOLDREGE       MOSUNNY   52  30  42 SW15      29.98F                  
+KEARNEY        PTSUNNY   53  29  39 SW14      30.00S                  
+YORK           PTSUNNY   46  28  49 SW6       30.03F                  
+$$
+ 
+NEZ011>018-030>034-042>045-241600-
+NORTHEAST NEBRASKA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+NORFOLK        CLOUDY    47  26  44 E12       30.04F                  
+ALBION         PTSUNNY   46  26  46 SE9       30.04S                  
+BLAIR          PTSUNNY   46  30  52 E6        30.07F                  
+COLUMBUS       PTSUNNY   46  28  49 E9        30.06S                  
+FREMONT        MOSUNNY   47  32  56 E5        30.07S                  
+TEKAMAH        MOSUNNY   48  30  49 SE8       30.08F                  
+WAYNE          MOSUNNY   47  28  47 E7        30.07F                  
+$$
+
+NEZ050>053-065>068-078-088>093-241600-
+SOUTHEAST NEBRASKA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+LINCOLN        PTSUNNY   51  29  42 S13       30.06S                  
+OMAHA EPPLEY   PTSUNNY   46  29  51 S5        30.08S                  
+BEATRICE       CLOUDY    51  32  48 S8        30.06F                  
+FALLS CITY     CLOUDY    52  33  48 SW12      30.09S                  
+NEBRASKA CITY  CLOUDY    47  31  52 SW8       30.08S                  
+PLATTSMOUTH    PTSUNNY   49  31  50 S12       30.07F                  
+$$
+
+NEZ044-045-051>053-067-241600-
+OMAHA AREA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+OMAHA EPPLEY   PTSUNNY   46  29  51 S5        30.08S                  
+BLAIR          PTSUNNY   46  30  52 E6        30.07F                  
+FREMONT        MOSUNNY   47  32  56 E5        30.07S                  
+MILLARD        PTSUNNY   48  31  52 SE5       30.08S                  
+OFFUTT AFB     CLOUDY    50  29  44 VRB7      30.10S                  
+PLATTSMOUTH    PTSUNNY   49  31  50 S12       30.07F                  
+WAHOO          PTSUNNY   47  30  52 CALM      30.07R                  
+$$
+  

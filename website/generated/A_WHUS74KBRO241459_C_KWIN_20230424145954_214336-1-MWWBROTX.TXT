@@ -1,0 +1,67 @@
+WHUS74 KBRO 241459
+MWWBRO
+
+URGENT - MARINE WEATHER MESSAGE
+National Weather Service Brownsville TX
+959 AM CDT Mon Apr 24 2023
+
+GMZ130-132-135-242300-
+/O.EXB.KBRO.SC.Y.0041.000000T0000Z-230425T0000Z/
+Laguna Madre from the Port of Brownsville to the Arroyo Colorado-
+Laguna Madre from the Arroyo Colorado To 5 NM north of Port
+Mansfield TX-
+Laguna Madre from 5 nm north of Port Mansfield to Baffin Bay TX-
+959 AM CDT Mon Apr 24 2023
+
+...SMALL CRAFT ADVISORY IN EFFECT UNTIL 7 PM CDT THIS EVENING...
+
+* WHAT...North 15 to 20 kts with gusts up to 25 knots. Moderate
+  chop on the bay.
+
+* WHERE...Laguna Madre between the Port of Brownsville and 
+  Baffin Bay.
+
+* WHEN...Until 7 PM CDT this evening.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&&
+
+$$
+
+GMZ150-155-170-175-242300-
+/O.EXT.KBRO.SC.Y.0041.000000T0000Z-230425T0000Z/
+Gulf waters from Port Mansfield to the Rio Grande out 20 nm-
+Gulf waters from Baffin Bay to Port Mansfield out 20 nm-
+Gulf waters from Port Mansfield to the Rio Grande extending from
+20 to 60 nm-
+Gulf waters from Baffin Bay to Port Mansfield extending from
+20 to 60 nm-
+959 AM CDT Mon Apr 24 2023
+
+...SMALL CRAFT ADVISORY NOW IN EFFECT UNTIL 7 PM CDT THIS
+EVENING...
+
+* WHAT...Seas 5 to 6 ft.
+
+* WHERE...Gulf waters between the mouth of the Rio Grande and 
+  Baffin Bay from 0 to 60 nm.
+
+* WHEN...Until 7 PM CDT this evening.
+
+* IMPACTS...Conditions will be hazardous to small craft.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Inexperienced mariners, especially those operating smaller
+vessels, should avoid navigating in hazardous conditions.
+
+&&
+
+$$

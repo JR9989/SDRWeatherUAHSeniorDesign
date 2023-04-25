@@ -1,0 +1,168 @@
+SRUS44 KLZK 241526
+RVALZK
+ARC001-011-013-019-021-029-039-041-045-047-063-065-067-069-071-075-
+079-083-095-099-103-105-115-117-119-121-125-137-139-145-147-149-
+251526-
+HYDROLOGIC SUMMARY
+NATIONAL WEATHER SERVICE LITTLE ROCK AR
+1026 AM CDT Mon Apr 24 2023
+
+...Daily River and Lake summary...
+
+               Flood      6 AM       24 Hour
+   Location    Stage     Level       Change
+
+...Mississippi River...
+ Caruthersville  32      16.14       -0.33
+ Osceola         28       9.62        0.42
+ Memphis         34      10.85        0.50
+ Helena          44      18.25       -0.05
+ Arkansas City   37      18.83       -0.30
+ Greenville      48      30.39       -0.44
+:
+...Arkansas River Basin...
+Arkansas River...
+ Van Buren       22      19.40       -0.03
+ Ozark L/D TW   357     337.73        0.01
+ Dardanelle      32       4.80       -1.21
+ Morrilton       30       9.50       -0.36
+ Toad Suck TW   275     249.44       -0.05
+ Little Rock     23       7.18       -0.10
+ Pine Bluff      42      31.35        0.10
+ Pendleton       31      26.24       -0.06
+Arkansas Post Canal...
+ Norrel Lock TW  --     143.28       -0.01
+Montgomery Point Dam...
+ Tailwater       --     131.92       -0.27
+Mulberry River...
+ Mulberry        18       1.93       -0.09
+Petit Jean River...
+ Danville        20      15.06       -0.09
+Fourche LaFave River...
+ Gravelly        24       2.89       -0.25
+ Houston         25      18.98       -2.09
+Illinois Bayou...
+ Scottsville     --       6.18       -0.12
+Bayou Meto...
+ Lonoke          --      16.17        0.01
+ Stuttgart       --      18.73       -0.11
+Wabbaseka Bayou...
+ Wabbaseka       --      16.17        1.26
+:
+...White River Basin...
+White River...
+ Norfork         --      10.00       -0.34
+ Calico Rock     19       9.68       -0.32
+ Batesville Brg  15      10.47       -0.22
+ Newport         26      20.48       -0.18
+ Augusta         26      31.29       -0.18
+ Georgetown      21      21.51       -0.23
+ Des Arc         24      25.90       -0.28
+ DeValls Bluff   --      23.53       -0.26
+ Clarendon       26      28.59       -0.07
+ St. Charles     --      25.76        0.02
+South Fork Little Red River...
+ Scotland        --          M           M
+ Clinton         --       4.95       -0.11
+Middle Fork Little Red River...
+ Shirley         --       6.84       -0.24
+Little Red River...
+ Dewey           --      12.17        0.18
+ Judsonia        30      24.50        0.29
+Big Creek...
+ Vendor          --          M           M
+Buffalo River...
+ Boxley          --       2.23       -0.08
+ Ponca           --       2.28       -0.07
+ Pruitt          --       4.04       -0.09
+ Hasty           --       6.97       -0.18
+ St. Joe         27       5.29       -0.39
+ Hwy 14          --       4.90       -0.37
+Little River...
+ Peach Orchard   --     270.40        0.44
+Black River...
+ Corning         15      11.60       -0.38
+ Pocahontas      17      14.01       -0.29
+ Black Rock      14      15.26       -0.53
+ Elgin Ferry     --      20.19        0.13
+Spring River...
+ Saddle          --       2.93       -0.09
+ Hardy           10       3.78       -0.10
+ Imboden         18       5.76       -0.48
+Eleven Point River...
+ Ravenden Sprgs  15       4.62       -0.19
+Strawberry River...
+ Poughkeepsie    --       2.59       -0.31
+Cache River...
+ Egypt           --       9.55       -4.93
+ Patterson        9       8.58       -0.05
+ Cotton Plant    --      12.09       -0.25
+ Little Dixie    --      15.09       -0.28
+ Brasfield       --      25.19       -0.10
+Bayou DeView..
+ Morton          --      17.06        0.01
+Crooked Creek...
+ Harrison        --          M           M
+ Yellville       --      11.25       -0.07
+:
+...Ouachita River Basin...
+Ouachita River...
+ Arkadelphia     17       6.49        1.91
+ Camden          26      13.68       -3.60
+ Thatcher L/D HW 79      77.45       -0.11
+ Thatcher L/D TW 79      77.37       -0.07
+ Moro Bay St Pk  --          M           M
+ Felsenthal HW   70      73.21       -0.27
+ Felsenthal TW   70      73.09       -0.31
+Saline River...
+ Benton          18       6.00       -0.97
+ Sheridan        --      14.65        2.50
+ Rye             26      14.80       -0.63
+ Warren          --      16.76        0.32
+Little Missouri River...
+ Boughton        20       2.48       -0.70
+Bayou Bartholomew...
+ Star City       --      14.95        0.46
+ Garrett Bridge  --      13.28        0.19
+ McGehee         --      13.12       -0.17
+ Portland        --      28.70       -0.54
+:
+...St. Francis River Basin...
+St. Francis River...
+ St. Francis     18      14.25       -0.48
+ Oak Donnic      --      14.48        0.53
+ Madison         32      15.73       -0.49
+L'Anguille River...
+ Colt            --      13.10        0.10
+ Palestine       25      22.91        0.15
+:
+...Corps of Engineers Reservoirs...
+Little River Basin Lakes...
+ Lake De Queen               M           M
+ Gillham Lake                M           M
+ Dierks Lake                 M           M
+ Millwood Lake          259.00        0.03
+Arkansas River Basin Lakes...
+ Blue Mtn Lake               M           M
+ Nimrod Lake            347.23       -0.78
+White River Basin Lakes...
+ Beaver Lake           1128.43       -0.11
+ Table Rock Lake        914.62       -0.07
+ Bull Shoals Lake       667.12       -0.29
+ Norfork Lake           556.00       -0.65
+ Greers Ferry Lake      469.89       -0.26
+Ouachita River Basin Lakes...
+ Lake Ouachita          576.69        0.09
+ DeGray Lake            404.87        0.02
+ Lake Greeson           543.94        0.04
+:
+...Data provided by the U.S. Geological Survey...U.S. Army Corps of
+Engineers...various state agencies...and the National Weather Service
+...All products issued by NWS Little Rock can be found on our web
+page at www.weather.gov/lzk
+...Send comments or questions to sr-lzk.river@noaa.gov
+...View graphs of observed and forecasted river levels on our
+Advanced Hydrologic Prediction Service (AHPS) web page by going to
+the home page listed above and selecting Rivers and Lakes AHPS link.
+$$
+

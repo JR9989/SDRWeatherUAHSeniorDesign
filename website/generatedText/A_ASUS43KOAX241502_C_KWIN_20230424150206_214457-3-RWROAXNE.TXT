@@ -1,0 +1,76 @@
+ASUS43 KOAX 241502
+RWRNE 
+
+WEATHER ROUNDUP FOR NEBRASKA
+NATIONAL WEATHER SERVICE OMAHA NE
+1000 AM CDT MON APR 24 2023
+
+NOTES: SATELLITE DATA IS BEING USED TO AUGMENT CLOUD COVER ABOVE
+       12000 FEET.
+       "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+       SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+   
+NEZ001>004-019>022-054>056-241600-
+NEBRASKA PANHANDLE
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+SCOTTSBLUFF    MOSUNNY   46  25  43 SE8       29.90S                  
+ALLIANCE       MOSUNNY   48  23  37 S3        29.90S                  
+CHADRON        SUNNY     40  23  50 CALM      29.92F                  
+SIDNEY         PTSUNNY   51  29  42 VRB3      29.89F                  
+$$
+ 
+NEZ057>060-069>072-079>082-241600-
+SOUTHWEST NEBRASKA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+NORTH PLATTE   MOSUNNY   50  27  40 CALM      29.95S                  
+IMPERIAL       PTSUNNY   53  33  46 S9        29.93F                  
+MCCOOK         MOSUNNY   52  32  46 CALM      29.96S                  
+$$
+ 
+NEZ005>010-023>029-035>040-094-241600-
+NORTH CENTRAL NEBRASKA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+VALENTINE      SUNNY     48  21  34 E14       29.99F                  
+BROKEN BOW     PTSUNNY   46  23  40 E6        29.98R                  
+ORD            PTSUNNY   48  26  42 E9        30.00S                  
+$$
+ 
+NEZ041-046>049-061>064-073>077-083>087-241600-
+SOUTH CENTRAL NEBRASKA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+GRAND ISLAND   PTSUNNY   50  26  39 SW5       30.02S                  
+AURORA         PTSUNNY   47  28  46 SW7       30.02S                  
+HASTINGS       PTSUNNY   54  30  40 SW12G20   30.01S                  
+KEARNEY        PTSUNNY   53  29  39 SW14      30.00S                  
+$$
+ 
+NEZ011>018-030>034-042>045-241600-
+NORTHEAST NEBRASKA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+COLUMBUS       PTSUNNY   46  28  49 E9        30.06S                  
+TEKAMAH        PTSUNNY   48  30  49 SE8       30.08F                  
+$$
+
+NEZ050>053-065>068-078-088>093-241600-
+SOUTHEAST NEBRASKA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+LINCOLN        PTSUNNY   51  29  42 S13       30.06S                  
+OMAHA EPPLEY   PTSUNNY   46  29  51 S5        30.08S                  
+BEATRICE       CLOUDY    51  32  48 S8        30.06F                  
+FALLS CITY     CLOUDY    52  33  48 SW12      30.09S                  
+$$
+
+NEZ044-045-051>053-067-241600-
+OMAHA AREA
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+OMAHA EPPLEY   PTSUNNY   46  29  51 S5        30.08S                  
+$$
+  

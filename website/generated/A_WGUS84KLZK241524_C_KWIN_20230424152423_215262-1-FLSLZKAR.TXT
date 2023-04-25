@@ -1,0 +1,76 @@
+WGUS84 KLZK 241524
+FLSLZK
+
+Flood Statement
+National Weather Service Little Rock AR
+1024 AM CDT Mon Apr 24 2023
+
+...The Flood Warning continues for the following rivers in 
+Arkansas...
+
+  White River At Clarendon affecting Arkansas and Monroe Counties.
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+Motorists should not attempt to drive around barricades or drive 
+cars through flooded areas.
+
+Turn around, don't drown when encountering flooded roads. Most flood 
+deaths occur in vehicles.
+
+River forecasts are based on current conditions and rainfall 
+forecasted to occur over the next 24 hours. During periods of 
+flooding...Evening forecasts are reissued with updated rainfall 
+forecasts.
+
+Observed and forecasted stage data plots are available on our 
+Advanced Hydrologic Prediction Service web page at...
+ www.weather.gov/lzk
+
+Under the Current Conditions section...Select River and Lakes AHPS.
+
+&&
+
+
+ARC001-095-251530-
+/O.CON.KLZK.FL.W.0010.000000T0000Z-000000T0000Z/
+/CLDA4.1.ER.000000T0000Z.230404T0000Z.000000T0000Z.NO/
+1024 AM CDT Mon Apr 24 2023
+
+...FLOOD WARNING REMAINS IN EFFECT UNTIL FURTHER NOTICE...
+
+* WHAT...Minor flooding is occurring and minor flooding is forecast.
+
+* WHERE...White River At Clarendon.
+
+* WHEN...Until further notice.
+
+* IMPACTS...At 28.0 feet, Flooding of cropland and timber is 
+  occurring. Roads to homes and cabins in lower Maddox Bay area off 
+  Highway 146 south of Clarendon impassible.
+
+* ADDITIONAL DETAILS...
+  - At 9:00 AM CDT Monday the stage was 28.6 feet.
+  - Forecast...The river is expected to rise to a crest of 28.6
+    feet this afternoon.
+  - Flood stage is 26.0 feet.
+
+
+&&
+
+           Fld   Observed        Forecast 1 PM      Crest           
+Location   Stg   Stg Day/Time   Tue   Wed   Thu  Crest  Time  Date  
+
+White River
+Clarendon  26.0  28.6 Mon 9 AM  28.4 28.3 28.1   28.6 1 PM 4/24     
+
+
+&&
+
+LAT...LON 3435 9119 3449 9132 3466 9139 3472 9129
+      3455 9120 3442 9108
+
+
+$$
+
+53

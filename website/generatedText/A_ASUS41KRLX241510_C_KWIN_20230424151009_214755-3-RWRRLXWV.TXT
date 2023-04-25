@@ -1,0 +1,83 @@
+ASUS41 KRLX 241510
+RWRRLX
+Regional Weather Roundup
+National Weather Service Charleston WV
+1100 AM EDT MON APR 24 2023
+
+Note: "fair" indicates few or no clouds below 12,000 feet with no
+significant weather and/or obstructions to visibility.
+
+WVZ003-241600-
+Northern Panhandle of West Virginia
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+WHEELING       CLOUDY    43  26  51 W16G22    30.13S                  
+$$
+
+WVZ009-241600-
+Northwest West Virginia
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PARKERSBURG    PTSUNNY   48  26  42 W13G18    30.17S                  
+$$
+
+WVZ006-241600-
+Western West Virginia
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+HUNTINGTON     MOSUNNY   50  26  39 SW9       30.18R                  
+POINT PLEASANT NOT AVBL                                               
+$$
+
+WVZ015-241600-
+West Central West Virginia
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CHARLESTON     MOSUNNY   48  22  35 VRB6G16   30.18S                  
+$$
+
+WVZ509-031-039-241600-
+North Central West Virginia
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MORGANTOWN     CLOUDY    45  22  40 SW8       30.15R                  
+CLARKSBURG     CLOUDY    46  21  37 NW7       30.15S                  
+BUCKHANNON       N/A     48  19  32 VRB7G14   30.15R                  
+$$
+
+WVZ515-516-025-034-042-507-241600-
+Southern West Virginia
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+BECKLEY        PTSUNNY   43  25  49 CALM      30.14S                  
+LOGAN          FAIR      46  23  39 VRB7      30.17S                  
+PINEVILLE      PTSUNNY   49  27  43 MISG      30.21S                  
+BLUEFIELD      SUNNY     41  24  51 W7G20     30.13S                  
+LEWISBURG      MOSUNNY   45  25  45 NW9G16    30.13S                  
+$$
+
+WVZ525-526-241600-
+Northern Mountains of West Virginia
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ELKINS         SUNNY     45  23  42 W15       30.13S                  
+$$
+
+WVZ502-504-052-241600-
+Eastern Panhandle of West Virginia
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PETERSBURG     NOT AVBL                                               
+CUMBERLAND     CLOUDY    47  31  54 N3        30.17S                  
+MARTINSBURG    MOSUNNY   50  28  42 W13       30.11F                  
+$$
+
+OHZ075-083-KYZ101-241600-
+Southeast Ohio/Northeast Kentucky
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+ATHENS         PTSUNNY   48  26  42 W9        30.18R HAZE             
+JACKSON        NOT AVBL                                               
+ASHLAND        MOSUNNY   50  29  44 VRB7      30.20R                  
+$$
+  

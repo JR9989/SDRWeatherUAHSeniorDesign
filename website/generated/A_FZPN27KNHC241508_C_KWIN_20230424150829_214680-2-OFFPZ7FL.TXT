@@ -1,0 +1,401 @@
+FZPN27 KNHC 241508
+OFFPZ7
+
+Offshore Waters Forecast
+NWS National Hurricane Center Miami, FL
+808 AM PDT Mon Apr 24 2023
+
+Offshore Waters Forecast for the E Pacific within 250 nm of
+Mexico
+
+Seas given as significant wave height, which is the average
+height of the highest 1/3 of the waves. Individual waves may be
+more than twice the significant wave height.
+
+PMZ001-250315-
+Synopsis for the E Pacific within 250 nm of Mexico
+808 AM PDT Mon Apr 24 2023
+
+.SYNOPSIS...Fresh NW winds beyond 60 nm offshore Baja California
+Norte will diminish today as low pressure over the Colorado
+River Valley weakens and moves east. Fresh SW gap winds over the
+northern Gulf of California will also lessen today. Large NW 
+swell will impact waters beyond 60 nm offshore Baja California 
+Norte through tonight, before subsiding Tue night. Gentle to 
+moderate breezes and slight to moderate combined seas will 
+persist elsewhere through late week. 
+
+$$
+
+PMZ009-250315-
+Mexico Border S to 29N within 60 nm of shore-
+808 AM PDT Mon Apr 24 2023
+
+.TODAY...W to NW winds 10 kt. Seas 6 to 8 ft in NW swell. Period
+16 seconds. 
+.TONIGHT...W to NW winds 10 kt. Seas 6 to 8 ft in W to NW swell.
+Period 16 seconds. 
+.TUE...W winds 10 kt. Seas 6 to 8 ft in NW swell. Period
+16 seconds. 
+.TUE NIGHT...NW winds 10 to 15 kt. Seas 6 to 8 ft in W to NW
+swell. Period 15 seconds. 
+.WED...W to NW winds 10 kt. Seas 5 to 7 ft in W to NW swell.
+Period 15 seconds. 
+.WED NIGHT...NW winds 10 to 15 kt. Seas 5 to 7 ft in W to NW
+swell. Period 15 seconds. 
+.THU...NW winds 10 kt. Seas 4 to 6 ft in W to NW swell. Period
+19 seconds. 
+.THU NIGHT...NW winds 10 kt. Seas 4 to 6 ft in SW swell. Period
+19 seconds. 
+.FRI...NW winds 10 kt. Seas 3 to 5 ft. Period 18 seconds. 
+.FRI NIGHT...NW winds 10 kt. Seas 3 to 5 ft. Period 17 seconds. 
+
+$$
+
+PMZ011-250315-
+Mexico S of 29N to Punta Eugenia-
+808 AM PDT Mon Apr 24 2023
+
+.TODAY...NW winds 10 to 15 kt. Seas 7 to 10 ft in NW to N swell.
+Period 15 seconds. 
+.TONIGHT...NW winds 10 to 15 kt. Seas 6 to 9 ft in NW to N
+swell. Period 15 seconds. 
+.TUE...NW winds 10 to 15 kt. Seas 6 to 9 ft in NW swell. Period
+15 seconds. 
+.TUE NIGHT...NW winds 10 to 15 kt. Seas 6 to 9 ft in NW swell.
+Period 14 seconds. 
+.WED...NW winds 10 kt. Seas 6 to 8 ft in NW swell. Period
+14 seconds. 
+.WED NIGHT...NW winds 10 to 15 kt. Seas 5 to 7 ft in NW swell.
+Period 14 seconds. 
+.THU...NW winds 10 kt. Seas 5 to 7 ft in NW swell. Period
+19 seconds. 
+.THU NIGHT...NW winds 10 kt. Seas 4 to 6 ft in SW to W swell.
+Period 18 seconds. 
+.FRI...NW winds 10 kt. Seas 4 to 6 ft in S to SW swell. Period
+17 seconds. 
+.FRI NIGHT...NW winds 10 kt. Seas 3 to 5 ft. Period 16 seconds. 
+
+$$
+
+PMZ013-250315-
+Punta Eugenia to Cabo San Lazaro within 250 nm offshore-
+808 AM PDT Mon Apr 24 2023
+
+.TODAY...NW winds 10 to 15 kt. Seas 6 to 9 ft in NW swell.
+Period 17 seconds. 
+.TONIGHT...NW winds 10 to 15 kt. Seas 6 to 8 ft in NW swell.
+Period 16 seconds. 
+.TUE...NW winds 10 kt. Seas 6 to 8 ft in NW swell. Period
+15 seconds. 
+.TUE NIGHT...NW winds 10 kt. Seas 6 to 8 ft in NW swell. Period
+14 seconds. 
+.WED...NW to N winds 10 kt. Seas 6 to 8 ft in NW swell. Period
+14 seconds. 
+.WED NIGHT...NW winds 10 to 15 kt. Seas 5 to 7 ft in NW swell.
+Period 16 seconds. 
+.THU...NW to N winds 10 kt. Seas 5 to 7 ft in NW swell. Period
+19 seconds. 
+.THU NIGHT...NW winds 10 to 15 kt. Seas 5 to 7 ft in SW swell.
+Period 18 seconds. 
+.FRI...NW winds 10 kt. Seas 4 to 6 ft in S to SW swell. Period
+17 seconds. 
+.FRI NIGHT...NW winds 10 to 15 kt. Seas 4 to 6 ft. Period
+16 seconds. 
+
+$$
+
+PMZ014-250315-
+Cabo San Lazaro to Cabo San Lucas within 350 nm offshore N of
+20N-
+808 AM PDT Mon Apr 24 2023
+
+.TODAY...NW to N winds 10 to 15 kt. Seas 5 to 7 ft in NW swell.
+Period 16 seconds. 
+.TONIGHT...NW to N winds 10 to 15 kt. Seas 5 to 7 ft in NW
+swell. Period 16 seconds. 
+.TUE...NW to N winds 10 kt. Seas 5 to 7 ft in NW swell. Period
+15 seconds. 
+.TUE NIGHT...NW winds 10 to 15 kt. Seas 5 to 7 ft in NW swell.
+Period 14 seconds. 
+.WED...NW to N winds 10 kt. Seas 5 to 7 ft in NW swell. Period
+14 seconds. 
+.WED NIGHT...NW winds 10 to 15 kt. Seas 5 to 7 ft in NW swell.
+Period 19 seconds. 
+.THU...NW to N winds 10 to 15 kt. Seas 5 to 7 ft in NW swell.
+Period 19 seconds. 
+.THU NIGHT...NW winds 10 kt. Seas 5 to 7 ft in W to NW swell.
+Period 18 seconds. 
+.FRI...NW to N winds 10 kt. Seas 5 to 7 ft in SW swell. Period
+17 seconds. 
+.FRI NIGHT...NW winds 10 to 15 kt. Seas 4 to 6 ft. Period
+16 seconds. 
+
+$$
+
+PMZ016-250315-
+From 17N to 20N Between 110W and 115W including the
+Revillagigedo Islands-
+808 AM PDT Mon Apr 24 2023
+
+.TODAY...N winds 10 kt. Seas 5 to 7 ft in NW swell. Period
+15 seconds. 
+.TONIGHT...N winds 10 kt. Seas 5 to 7 ft in NW swell. Period
+15 seconds. 
+.TUE...N winds 10 kt in the morning, becoming variable less than
+5 kt. Seas 5 to 7 ft in NW swell. Period 14 seconds. 
+.TUE NIGHT...NW to N winds 10 kt. Seas 5 to 7 ft in NW swell.
+Period 14 seconds. 
+.WED...N winds 10 kt. Seas 5 to 7 ft in NW swell. Period
+14 seconds. 
+.WED NIGHT...NW to N winds 10 kt. Seas 5 to 7 ft in W to NW
+swell. Period 15 seconds. 
+.THU...N winds 10 kt. Seas 5 to 7 ft in W to NW swell. Period
+17 seconds. 
+.THU NIGHT...NW to N winds 10 kt. Seas 5 to 7 ft in W swell.
+Period 16 seconds. 
+.FRI...N winds 10 kt. Seas 5 to 7 ft in SW swell. Period
+15 seconds. 
+.FRI NIGHT...NW to N winds 10 kt. Seas 4 to 6 ft in S to SW
+swell. Period 14 seconds. 
+
+$$
+
+PMZ017-250315-
+Northern Gulf of California-
+808 AM PDT Mon Apr 24 2023
+
+.TODAY...S winds 10 to 15 kt. Seas 2 to 4 ft. Period 5 seconds. 
+.TONIGHT...S winds 10 to 15 kt. Seas 3 ft or less. Period
+4 seconds, becoming 10 seconds late. 
+.TUE...SE to S winds 10 to 15 kt. Seas 2 to 4 ft. Period
+11 seconds. 
+.TUE NIGHT...S winds 10 kt. Seas 3 ft or less. Period
+11 seconds. 
+.WED...S winds 10 kt N of 30N, and variable less than 5 kt
+Elsewhere. Seas 3 ft or less. Period 11 seconds. 
+.WED NIGHT...Variable winds less than 5 kt. Seas 3 ft or less.
+Period 10 seconds. 
+.THU...Variable winds less than 5 kt. Seas 3 ft or less. Period
+10 seconds. 
+.THU NIGHT...S to SW winds 10 kt N of 30N, and variable less
+than 5 kt Elsewhere. Seas 3 ft or less. Period 10 seconds. 
+.FRI...SE to S winds 10 kt. Seas 3 ft or less. Period
+10 seconds. 
+.FRI NIGHT...S winds 10 kt. Seas 3 ft or less. Period
+14 seconds. 
+
+$$
+
+PMZ019-250315-
+Central Gulf of California-
+808 AM PDT Mon Apr 24 2023
+
+.TODAY...SE to S winds 10 kt. Seas 2 to 4 ft. Period 12 seconds.
+.TONIGHT...S to SW winds 10 kt. Seas 3 ft or less. Period
+12 seconds. 
+.TUE...S winds 10 kt. Seas 3 ft or less. Period 11 seconds. 
+.TUE NIGHT...S winds 10 kt. Seas 3 ft or less. Period
+11 seconds. 
+.WED...SW to W winds 10 kt. Seas 3 ft or less. Period
+12 seconds. 
+.WED NIGHT...Variable winds less than 5 kt. Seas 3 ft or less.
+Period 14 seconds. 
+.THU...Variable winds less than 5 kt. Seas 3 ft or less. Period
+19 seconds. 
+.THU NIGHT...Variable winds less than 5 kt. Seas 3 ft or less.
+Period 18 seconds. 
+.FRI...Variable winds less than 5 kt. Seas 3 ft or less. Period
+17 seconds. 
+.FRI NIGHT...S to SW winds 10 kt. Seas 3 ft or less. Period
+17 seconds. 
+
+$$
+
+PMZ021-250315-
+Southern Gulf of California-
+808 AM PDT Mon Apr 24 2023
+
+.TODAY...SE to S winds 10 kt. Seas 2 to 4 ft. Period 17 seconds.
+.TONIGHT...S to SW winds 10 kt. Seas 2 to 4 ft. Period
+16 seconds. 
+.TUE...S winds 10 kt. Seas 2 to 4 ft. Period 15 seconds. 
+.TUE NIGHT...SW winds 10 kt. Seas 2 to 4 ft. Period 15 seconds. 
+.WED...W winds 10 kt. Seas 2 to 4 ft. Period 14 seconds. 
+.WED NIGHT...SW to W winds 10 kt. Seas 2 to 4 ft. Period
+18 seconds. 
+.THU...Variable winds less than 5 kt. Seas 2 to 4 ft in S swell.
+Period 19 seconds. 
+.THU NIGHT...SW to W winds 10 kt. Seas 2 to 4 ft. Period
+18 seconds. 
+.FRI...S winds 10 kt. Seas 2 to 4 ft. Period 17 seconds. 
+.FRI NIGHT...S to SW winds 10 kt. Seas 2 to 4 ft. Period
+17 seconds. 
+
+$$
+
+PMZ022-250315-
+N of 20N E of 110W to the Entrance of the Gulf of California-
+808 AM PDT Mon Apr 24 2023
+
+.TODAY...W winds 10 kt. Seas 4 to 6 ft in SW swell. Period
+17 seconds. 
+.TONIGHT...W winds 10 to 15 kt. Seas 5 to 7 ft in S to SW swell.
+Period 16 seconds. 
+.TUE...W winds 10 kt. Seas 5 to 7 ft in SW swell. Period
+15 seconds. 
+.TUE NIGHT...W to NW winds 10 to 15 kt. Seas 5 to 7 ft in S to
+SW swell. Period 15 seconds. 
+.WED...W to NW winds 10 to 15 kt. Seas 5 to 7 ft in S to SW
+swell. Period 14 seconds. 
+.WED NIGHT...W to NW winds 10 to 15 kt. Seas 5 to 7 ft in S to
+SW swell. Period 19 seconds. 
+.THU...NW winds 10 kt. Seas 5 to 7 ft in S to SW swell. Period
+19 seconds. 
+.THU NIGHT...W to NW winds 10 to 15 kt. Seas 5 to 7 ft in S to
+SW swell. Period 18 seconds. 
+.FRI...NW winds 10 kt. Seas 5 to 7 ft in S to SW swell. Period
+17 seconds. 
+.FRI NIGHT...W to NW winds 10 to 15 kt. Seas 4 to 6 ft. Period
+16 seconds. 
+
+$$
+
+PMZ024-250315-
+Colima and Jalisco within 300 nm offshore S of 20N and E of
+110W-
+808 AM PDT Mon Apr 24 2023
+
+.TODAY...N of 18N, variable winds less than 5 kt, becoming W to
+NW 10 kt in the afternoon. S of 18N, variable winds less than
+5 kt. Seas 4 to 6 ft. Period 16 seconds. 
+.TONIGHT...NW winds 10 kt. Seas 4 to 6 ft in S to SW swell.
+Period 15 seconds. 
+.TUE...NW to N winds 10 kt. Seas 5 to 7 ft in S to SW swell.
+Period 15 seconds. 
+.TUE NIGHT...NW winds 10 to 15 kt. Seas 5 to 7 ft in S to SW
+swell. Period 14 seconds. 
+.WED...NW winds 10 kt. Seas 5 to 7 ft in S to SW swell. Period
+14 seconds. 
+.WED NIGHT...NW winds 10 to 15 kt. Seas 5 to 7 ft in S to SW
+swell. Period 19 seconds. 
+.THU...NW winds 10 kt. Seas 5 to 7 ft in S to SW swell. Period
+18 seconds. 
+.THU NIGHT...NW winds 10 kt. Seas 5 to 7 ft in S to SW swell.
+Period 17 seconds. 
+.FRI...NW winds 10 kt. Seas 5 to 7 ft in S to SW swell. Period
+16 seconds. 
+.FRI NIGHT...NW winds 10 kt. Seas 4 to 6 ft in S to SW swell.
+Period 15 seconds. 
+
+$$
+
+PMZ025-250315-
+Michoacan and Guerrero within 250 nm offshore-
+808 AM PDT Mon Apr 24 2023
+
+.TODAY...Variable winds less than 5 kt, becoming W 10 kt in the
+afternoon. Seas 4 to 6 ft in S to SW swell. Period 16 seconds. 
+.TONIGHT...W to NW winds 10 kt. Seas 4 to 6 ft in S to SW swell.
+Period 16 seconds. 
+.TUE...Variable winds less than 5 kt, becoming W to NW 10 kt in
+the afternoon. Seas 4 to 6 ft in S to SW swell. Period
+15 seconds. 
+.TUE NIGHT...W to NW winds 10 kt. Seas 4 to 6 ft in S to SW
+swell. Period 14 seconds. 
+.WED...W to NW winds 10 kt. Seas 4 to 6 ft in S to SW swell.
+Period 14 seconds. 
+.WED NIGHT...W to NW winds 10 to 15 kt. Seas 4 to 6 ft. Period
+19 seconds. 
+.THU...W to NW winds 10 kt. Seas 5 to 7 ft in S to SW swell.
+Period 18 seconds. 
+.THU NIGHT...W to NW winds 10 kt. Seas 5 to 7 ft in S to SW
+swell. Period 17 seconds. 
+.FRI...W to NW winds 10 kt. Seas 4 to 6 ft in S to SW swell.
+Period 16 seconds. 
+.FRI NIGHT...W to NW winds 10 kt. Seas 4 to 6 ft in S to SW
+swell. Period 15 seconds. 
+
+$$
+
+PMZ026-250315-
+Oaxaca W of Puerto Angel within 250 nm offshore-
+808 AM PDT Mon Apr 24 2023
+
+.TODAY...W winds 10 kt. Seas 4 to 6 ft in S to SW swell. Period
+16 seconds. 
+.TONIGHT...W to NW winds 10 kt. Seas 4 to 6 ft in S to SW swell.
+Period 15 seconds. 
+.TUE...W to NW winds 10 kt. Seas 4 to 6 ft in S to SW swell.
+Period 15 seconds. 
+.TUE NIGHT...W to NW winds 10 kt. Seas 4 to 6 ft in S to SW
+swell. Period 14 seconds. 
+.WED...W to NW winds 10 kt. Seas 4 to 6 ft in S to SW swell.
+Period 15 seconds. 
+.WED NIGHT...W winds 10 kt. Seas 4 to 6 ft in S to SW swell.
+Period 19 seconds. 
+.THU...W to NW winds 10 kt. Seas 4 to 6 ft in S to SW swell.
+Period 18 seconds. 
+.THU NIGHT...W winds 10 kt. Seas 4 to 6 ft in S to SW swell.
+Period 17 seconds. 
+.FRI...W to NW winds 10 kt. Seas 4 to 6 ft in S to SW swell.
+Period 16 seconds. 
+.FRI NIGHT...W winds 10 kt. Seas 4 to 6 ft in S to SW swell.
+Period 15 seconds. 
+
+$$
+
+PMZ028-250315-
+Oaxaca E of Puerto Angel within 300 nm offshore including the
+Gulf of Tehuantepec-
+808 AM PDT Mon Apr 24 2023
+
+.TODAY...N of 14N, SW to W winds 10 kt. S of 14N, W winds 10 kt
+in the morning, becoming variable less than 5 kt. Seas 4 to 6 ft
+in S to SW swell. Period 17 seconds. 
+.TONIGHT...N of 14N, W winds 10 kt. S of 14N, variable winds
+less than 5 kt, becoming W to NW 10 kt late. Seas 4 to
+6 ft in SW swell. Period 16 seconds. 
+.TUE...W winds 10 kt. Seas 3 to 5 ft. Period 15 seconds. 
+.TUE NIGHT...W winds 10 kt. Seas 4 to 6 ft in S to SW swell.
+Period 15 seconds. 
+.WED...W winds 10 kt. Seas 4 to 6 ft in S to SW swell. Period
+16 seconds. 
+.WED NIGHT...W winds 10 kt. Seas 4 to 6 ft in S to SW swell.
+Period 19 seconds. 
+.THU...SW to W winds 10 to 15 kt N of 14N, and variable less
+than 5 kt S of 14N. Seas 4 to 6 ft in S to SW swell. Period
+18 seconds. 
+.THU NIGHT...SW to W winds 10 kt. Seas 4 to 6 ft in S to SW
+swell. Period 17 seconds. 
+.FRI...W to NW winds 10 kt. Seas 4 to 6 ft in S to SW swell.
+Period 16 seconds. 
+.FRI NIGHT...W winds 10 kt. Seas 4 to 6 ft in S to SW swell.
+Period 15 seconds. 
+
+$$
+
+PMZ029-250315-
+Offshore Chiapas E of 94W-
+808 AM PDT Mon Apr 24 2023
+
+.TODAY...Variable winds less than 5 kt, becoming W 10 kt in the
+afternoon. Seas 3 to 5 ft. Period 17 seconds. 
+.TONIGHT...Variable winds less than 5 kt, becoming W to NW 10 kt
+late. Seas 3 to 5 ft. Period 16 seconds. 
+.TUE...W winds 10 kt. Seas 3 to 5 ft. Period 15 seconds. 
+.TUE NIGHT...Variable winds less than 5 kt, becoming W to NW
+10 kt late. Seas 3 to 5 ft. Period 15 seconds. 
+.WED...W winds 10 kt. Seas 3 to 5 ft. Period 15 seconds. 
+.WED NIGHT...Variable winds less than 5 kt. Seas 3 to 5 ft in SW
+swell. Period 19 seconds. 
+.THU...W to NW winds 10 kt E of 93W, and variable less than 5 kt
+W of 93W. Seas 3 to 5 ft in SW swell. Period 18 seconds. 
+.THU NIGHT...Variable winds less than 5 kt. Seas 3 to 5 ft in SW
+swell. Period 17 seconds. 
+.FRI...W to NW winds 10 kt. Seas 3 to 5 ft. Period 16 seconds. 
+.FRI NIGHT...W winds 10 kt. Seas 3 to 5 ft. Period 15 seconds. 
+
+$$
+
+Forecaster Stripling

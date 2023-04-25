@@ -1,0 +1,90 @@
+ASUS42 KMHX 241510
+RWRMHX
+WEATHER ROUNDUP FOR EASTERN NORTH CAROLINA
+NATIONAL WEATHER SERVICE NEWPORT/MOREHEAD CITY NC
+1100 AM EDT MON APR 24 2023
+
+NOTE: "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET
+WITH NO SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY
+
+NCZ015>017-031-032-045>047-102-103-241600-
+NORTH COAST
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+EDENTON        CLOUDY    58  49  73 N8        30.12R                  
+ELIZABETH CITY CLOUDY    54  40  59 N14       30.11R                  
+KITTY HAWK     CLOUDY    56  45  67 N8G17     30.07S                  
+MANTEO         PTSUNNY   57  46  66 NE17G23   30.08S                  
+
+$$
+
+NCZ045>047-081-094-103-104-241600-
+CENTRAL COAST
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+FRISCO         CLOUDY    62  59  90 N8        30.05R                  
+
+$$
+
+NCZ095-097-098-100-101-241600-
+SOUTHERN COAST
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+PINEY ISLAND   CLOUDY    69  57  65 N12       30.05R                  
+BEAUFORT       CLOUDY    63  56  78 N9        30.06R                  
+CAPE CARTERET  CLOUDY    65  52  62 N10       30.07R                  
+JACKSONVILLE   CLOUDY    56  48  74 N10       30.09R                  
+WILMINGTON     CLOUDY    62  53  72 N9        30.09R                  
+
+
+$$
+
+NCZ011>013-027>030-043-044-078>080-089-090>093-098-241600-
+COASTAL PLAIN
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+AHOSKIE        CLOUDY    50  36  58 N6        30.13S                  
+ROCKY MOUNT    CLOUDY    55  33  43 N12       30.14R                  
+GREENVILLE     CLOUDY    55  37  50 N14       30.12S                  
+WASHINGTON     PTSUNNY   56  41  56 N10G16    30.11R                  
+GOLDSBORO      CLOUDY    54  35  49 N15       30.10R                  
+KINSTON        MOSUNNY   54  39  58 N13       30.12R                  
+NEW BERN       CLOUDY    57  48  72 N13       30.10R                  
+HAVELOCK       CLOUDY    60  55  83 N10       30.08R                  
+KENANSVILLE    CLOUDY    52  37  58 N15       30.12R                  
+RICHLANDS      CLOUDY    53  43  68 N7        30.11R                  
+CLINTON        CLOUDY    52  38  57 N8        30.14R                  
+ELIZABETHTOWN  CLOUDY    53  40  62 N9        30.13R                  
+WHITEVILLE     PTSUNNY   56  45  67 N8        30.11S                  
+
+$$
+
+AMZ130-135-150-152-154-156-158-170-250-252-270-ANZ085-086-088-633-658-670-241600-
+MARINE OBSERVATIONS
+  
+STATION/POSITION TIME  TEMP    WIND        PRES    WAVE   SWELL
+                       AIR SEA DIR/SP/G            HT/PER HT/PER
+                 (UTC) (F)     (DEG/KT/KT) (MB)    (FT/S) (FT/S)
+64 E VA BEACH    NOT AVBL
+64 E VA BEACH    1430   54 56                N/A     5/ 6   2/11
+DUCK PIER        1424   53 56   10/ 17/ 21 1018.2
+2 E DUCK         1426      58                N/A     6/ 6   2/11
+10 NE DUCK       1426      60                N/A     5/ 6   2/11
+OREGON INLET     1424   56 62   20/ 15/ 20 1017.8
+13E OREGON INLT  1456      59                N/A     6/ 5   3/ 5
+13E CAPE HATTERA 1430      70                N/A     3/ 8   2/11
+HATTERAS CG      1424   62 69   20/ 13/ 18 1017.6
+DIAMOND BUOY     1450      72  350/ 10/ 14 1017.0
+CAPE LOOKOUT     1400   63     330/ 10/ 13 1017.8
+BEAUFORT LAB     1424   62 69  360/  8/ 10 1017.2
+30 SE NEW RVR IN 1408   65 74  340/ 10/ 14 1018.1
+30 SE NEW RVR IN 1426      74                N/A     3/ 8
+27 SE WRIGHTSVLE 1408   64 68  320/ 12/ 16 1017.0
+5 SE WRIGHTSVLE  1408   60 66   20/  8/ 12   N/A
+27 SE WRIGHTSVL  1408   64 68  320/ 12/ 16 1017.0
+FRYING PAN BUOY  1450   66 71  340/  8/ 10 1017.9    3/ 8   3/ 8
+225 S CAPE HAT   1450   72 75   30/  8/ 12 1015.7    4/ 8   3/ 8
+41 SE CHARLESTON 1450   68 72  360/ 10/ 12 1018.9    3/ 8   2/ 8
+
+$$
+  

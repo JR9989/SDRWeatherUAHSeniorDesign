@@ -1,0 +1,53 @@
+ASUS43 KTOP 241459
+RWRKS 
+
+WEATHER ROUNDUP FOR KANSAS
+NATIONAL WEATHER SERVICE GOODLAND KS
+1000 AM CDT MON APR 24 2023
+
+NOTE:  "FAIR" INDICATES FEW OR NO CLOUDS BELOW 12,000 FEET WITH NO
+SIGNIFICANT WEATHER AND/OR OBSTRUCTIONS TO VISIBILITY.
+
+KSZ001>006-013>018-027>032-041>047-241600-
+NORTHWEST KANSAS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+GOODLAND       PTSUNNY   50  34  54 S15       29.93F                  
+HILL CITY      MOSUNNY   56  32  40 SW14G22   30.01S                  
+RUSSELL        MOSUNNY   57  26  30 SW25G37   30.04S                  
+$$
+
+KSZ061>065-074>080-084>089-241600-
+SOUTHWEST KANSAS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+DODGE CITY     PTSUNNY   52  25  35 S25G36    30.05S                  
+$$
+
+KSZ066>073-081>083-090>101-241600-
+SOUTHEAST KANSAS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CHANUTE        SUNNY     56  30  37 SW15G23   30.18R                  
+COFFEYVILLE    SUNNY     55  32  41 SW13      30.17S                  
+HUTCHINSON     PTSUNNY   55  30  38 SW13      30.10S                  
+MEDICINE LODGE   N/A     56  31  38 S17G28    30.10F                  
+PARSONS        SUNNY     55  32  41 SW13      30.19S                  
+WICHITA INTL   PTSUNNY   56  32  40 SW14G23   30.12S                  
+WICHITA MCCONL MOSUNNY   54  32  43 SW13      30.10R                  
+$$
+
+KSZ007>012-019>026-033>040-048>060-102>105-241600-
+NORTHEAST KANSAS
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+EMPORIA        MOSUNNY   57  34  41 S12G21    30.12S                  
+LAWRENCE       PTSUNNY   53  31  42 MISG      30.15F                  
+MANHATTAN      PTSUNNY   57  31  37 SW14      30.10R                  
+OLATHE IND     PTSUNNY   52  31  44 S15G23    30.16F                  
+OLATHE EXE     PTSUNNY   51  29  42 SW12      30.16S                  
+SALINA         MOSUNNY   54  32  43 SW14      30.09S                  
+TOPEKA BILLARD PTSUNNY   54  32  43 S7        30.13S                  
+TOPEKA FORBES  PTSUNNY   54  33  45 S15       30.12S                  
+$$
+  

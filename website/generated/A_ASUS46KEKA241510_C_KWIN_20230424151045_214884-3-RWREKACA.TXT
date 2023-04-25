@@ -1,0 +1,51 @@
+ASUS46 KEKA 241510
+RWREKA
+Eureka Area Weather Roundup
+National Weather Service Eureka CA
+800 AM PDT MON APR 24 2023
+
+Note: "fair" indicates few or no clouds below 12,000 feet with no
+significant weather and/or obstructions to visibility.
+
+Southwest Oregon...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+MEDFORD        CLOUDY    47  37  68 CALM      30.13R                  
+KLAMATH FALLS  SUNNY     38  29  70 VRB3      30.05R                  
+NORTH BEND     CLOUDY    48  47  96 SE5       30.19R                  
+ROSEBURG       PTSUNNY   48  42  80 N3        30.16R                  
+SEXTON SUMMIT  CLOUDY    35  34  96 CALM      30.08R FOG              
+BROOKINGS      CLOUDY    48  46  93 CALM      30.17R                  
+
+Northwest California...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+CRESCENT CITY  CLOUDY    50  46  86 NE7       30.16R FOG              
+MCKINLEYVILLE  SUNNY     47  44  90 NE3       30.14R                  
+EUREKA           N/A     48  32  53 NE2       30.14R                  
+FORTUNA        NOT AVBL                                               
+WEAVERVILLE    NOT AVBL                                               
+TRINITY CENTER   N/A     39  32  75 CALM      30.04R                  
+UKIAH          SUNNY     49  41  74 N5        30.05R                  
+
+North & Central California...
+  
+CITY           SKY/WX    TMP DP  RH WIND       PRES   REMARKS
+YREKA          SUNNY     44  33  65 N10       30.10R                  
+MOUNT SHASTA   SUNNY     39  30  70 NW10G24   30.03R                  
+REDDING        SUNNY     55  41  59 N6        29.95R                  
+RED BLUFF      SUNNY     56  34  43 NW7       29.97R                  
+CHICO            N/A     55  36  47 NW3       29.96R                  
+YUBA CITY      SUNNY     59  50  72 CALM      29.94R                  
+SACRAMENTO     SUNNY     54  44  69 SW3       29.93R                  
+SANTA ROSA     SUNNY     48  44  86 S3        29.98R                  
+NAPA           NOT AVBL                                               
+TRAVIS AFB     NOT AVBL                                               
+SAN FRANCISCO  MOSUNNY   53  45  74 W15       30.00R                  
+OAKLAND        MOSUNNY   52  48  86 SW8       30.01R                  
+STOCKTON       NOT AVBL                                               
+SALINAS        MOSUNNY   52  46  80 W6        30.01R                  
+MONTEREY       MOSUNNY   50  46  86 SW7       30.02R                  
+
+$$
+  

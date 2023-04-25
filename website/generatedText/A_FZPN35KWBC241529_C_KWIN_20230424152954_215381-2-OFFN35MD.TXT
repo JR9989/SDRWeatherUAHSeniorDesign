@@ -1,0 +1,52 @@
+FZPN35 KWBC 241529
+OFFN35
+
+Marine Weather HF Voice Broadcast
+NWS Ocean Prediction Center Washington DC
+829 AM PDT Mon Apr 24 2023
+
+Washington and Oregon waters-
+Inner waters from  60 nm to 150 nm offshore.
+Outer waters from 150 nm to 250 nm offshore.
+
+Conditions given represent the highest within that period.
+
+Seas given as significant wave height, which is the average
+height of the highest 1/3 of the waves. Individual waves may be
+more than twice the significant wave height.
+
+.SYNOPSIS FOR WASHINGTON AND OREGON WATERS...High pressure will
+build NE across the area today into tonight and will persist over
+the waters Tue through Wed night. The high pressure ridge will
+then weaken just W of the waters Thu into Fri. A low pressure
+trough will develop along the coast Thu and persist into Fri.
+Another low pressure trough will move NE over the northern waters
+Fri night.  
+
+Cape Flattery to Cape Lookout
+
+.TODAY...NW winds 5 to 15 kt. Seas 7 to 9 ft. 
+.TONIGHT...W to NW winds less than 10 kt. Seas 5 to 8 ft. 
+.TUE...S winds 10 to 20 kt. Seas 4 to 6 ft. 
+.TUE NIGHT...SW winds 10 to 20 kt. Seas 4 to 7 ft. 
+.WED...W to SW winds 10 to 20 kt. Seas 4 to 7 ft. 
+.WED NIGHT...N to NW winds 5 to 15 kt. Seas 4 to 6 ft. 
+.THU...N winds 5 to 15 kt. Seas 4 to 6 ft. 
+.THU NIGHT...N winds 10 to 20 kt. Seas 4 to 6 ft. 
+.FRI...N winds 5 to 15 kt. Seas 4 to 6 ft. 
+.FRI NIGHT...N winds 5 to 15 kt. Seas 4 to 5 ft. 
+
+Cape Lookout to Point St. George
+
+.TODAY...N to NW winds 5 to 15 kt. Seas 7 to 9 ft. 
+.TONIGHT...N winds 15 to 25 kt. Seas 6 to 8 ft. 
+.TUE...N winds 15 to 25 kt. Seas 5 to 9 ft. 
+.TUE NIGHT...N winds 20 to 30 kt. Seas 5 to 9 ft. 
+.WED...N winds 20 to 30 kt. Seas 5 to 9 ft. 
+.WED NIGHT...N winds 20 to 30 kt. Seas 6 to 10 ft. 
+.THU...N winds 20 to 30 kt. Seas 6 to 10 ft. 
+.THU NIGHT...N winds 15 to 25 kt. Seas 4 to 8 ft. 
+.FRI...N winds 5 to 15 kt. Seas 5 to 6 ft. 
+.FRI NIGHT...W winds less than 10 kt. Seas 4 to 5 ft. 
+
+.Forecaster Bancroft. Ocean Prediction Center.

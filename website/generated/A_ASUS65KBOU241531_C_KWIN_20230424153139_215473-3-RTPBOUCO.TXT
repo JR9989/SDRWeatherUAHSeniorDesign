@@ -1,0 +1,95 @@
+ASUS65 KBOU 241531
+RTPBOU
+
+MAX/MIN TEMPERATURE AND PRECIPITATION TABLE FOR
+NORTHEAST AND NORTH CENTRAL COLORADO
+NATIONAL WEATHER SERVICE DENVER CO
+931 AM MDT MON APR 24 2023
+
+AIRPORT LOCATIONS...VALUES ARE HIGHS YESTERDAY...
+LOWS FOR THE LAST 12 HOURS AND PRECIPITATION FOR THE LAST 24 HOURS.
+
+.BR BOU 0424 M DH01/TAIRZX/DH05/TAIRZP/PPDRZZ/SFDRZZ/SDIRZZ
+
+:      STATION                  ELEV  DAY/                   SNOW SNOW
+:      NAME                     FEET  HOUR  HIGH  LOW  PCPN  FALL DEPTH
+
+APA  : CENTENNIAL AIRPORT ::          2406:  55 / 34 /    0 /   M /  M
+DEN  : DENVER INTL AIRPORT::          2406:  57 / 34 /    0 /   M /  M
+LIC  : LIMON AIRPORT      ::          2406:  56 / 25 /    0 /   M /  M
+AKO  : AKRON              ::          2406:   M / 35 /    M /   M /  M
+.END
+
+DATA FROM COOPERATIVE AND AMATEUR RADIO OBSERVERS.
+REPORTS ARE FOR THE 24 HOURS ENDING AT OBSERVATION TIME.
+
+.BR BOU 0424 M DH07/TAIRZX/TAIRZN/PPDRZZ/SFDRZZ/SDDRZZ
+
+:      STATION                  ELEV  DAY/                   SNOW SNOW
+:      NAME                     FEET  HOUR  HIGH  LOW  PCPN  FALL DEPTH
+
+...NORTHERN COLORADO FRONT RANGE...
+
+EAGC2: AURORA/EAGLECREST  ::        :DD2407/  57 / 27 /    0 /   0 /  0
+WUDC2: ENGLEWOOD 2SSE     ::        :DD2407/  60 / 24 /    0 /   0 /  0
+ENLC2: ENGLEWOOD 1SSE     ::        :DD2407/  60 / 22 /    0 /   0 /  0
+NRTC2: NORTHGLENN         ::        :DD2408/  59 / 31 /    0 /   0 /  0
+WSMC2: WESTMINSTER 5NE    ::        :DD2407/  62 / 24 /    0 /   0 /  0
+ELZC2: ELIZABETH 2E       ::   6617 :DD2407/  66 / 25 /    0 /   0 /  0
+BOUC2: BOULDER            ::        :DD2317/  56 /  M /    0 /   0 /  0
+BDU  : BOULDER AIRPORT    ::        :DD2409/  55 / 36 /    M /   M /  M
+LAFC2: LAFAYETTE          ::        :DD2407/  58 / 36 /    0 /   0 /  0
+LONC2: LONGMONT 2ESE      ::        :DD2407/  60 / 33 /    0 /   0 /  0
+THUC2: LYONS 7S           ::        :DD2407/  55 / 28 /    0 /   0 /  0
+LTLC2: MARSTON RESERVOIR  ::        :DD2407/  55 / 27 / 0.31 /   0 /  0
+BJC  : ROCKY MTN METRO AP ::        :DD2409/  55 / 36 /    M /   M /  M
+FORC2: FORT COLLINS CSU   ::        :DD2319/  57 /  M /    T /   0 /  0
+FNL  : FT COLLINS/LOVELAND::        :DD2406/  58 / 30 /    0 /   M /  M
+WTRC2: LOVELAND 7WNW      ::        :DD2408/  54 / 22 /    0 /   M /  M
+LVDC2: LOVELAND 2N        ::        :DD2406/  59 / 22 /    0 /   0 /  0
+
+...NORTHEAST COLORADO...
+
+EIK  : ERIE               ::        :DD2409/  57 / 32 /    M /   M /  M
+FSNC2: FIRESTONE          ::        :DD2407/  59 / 28 /    0 /   0 /  0
+GXY  : GREELEY AIRPORT    ::        :DD2406/  60 / 28 /    0 /   M /  M
+GRLC2: GREELEY UNC        ::        :DD2316/  61 /  M /    0 /   0 /  0
+FMM  : FORT MORGAN AIRPORT::        :DD2409/  57 / 32 /    M /   M /  M
+BYEC2: BYERS 2WSW         ::        :DD2407/  57 / 36 /    0 /   0 /  0
+GEAC2: GENOA HAMNET       ::        :DD2407/  55 / 26 /    0 /   0 /  0
+KRVC2: KARVAL             ::        :DD2406/  56 / 27 /    0 /   M /  M
+STK  : STERLING AIRPORT   ::        :DD2409/  57 / 32 /    M /   M /  M
+HEQ  : HOLYOKE AIRPORT    ::        :DD2409/  61 / 30 /    M /   M /  M
+
+...NORTH CENTRAL COLORADO...
+
+ 33V : WALDEN AIRPORT     ::   8100 :DD2409/  43 / 23 /    M /   M /  M
+FRZC2: FRASER             ::   8600 :DD2316/  46 /  M /    0 /   0 /  0
+GRNBY: GRANBY             ::   8207 :DD2409/  46 / 21 /    M /   M /  M
+GLKC2: GRAND LAKE 1NW     ::   8700 :DD2316/  43 /  M /    0 /   0 / 12
+ 20V : KREMMLING AIRPORT  ::   7400 :DD2409/  52 / 23 /    M /   M /  M
+CSFC2: GOULD 4SE          ::   9200 :DD2409/  41 / 18 /    0 /   0 / 14
+GCRC2: CABIN CREEK        ::  10000 :DD2406/  41 / 17 /    0 /   0 /  0
+C99  : DAKOTA HILL        ::  10938 :DD2409/  32 / 23 /    M /   M /  M
+WTPC2: WINTER PARK        ::   9100 :DD2408/   M /  M /    0 /   0 / 27
+RUTC2: RUSTIC 9WSW        ::   7750 :DD2407/  50 / 20 /    0 /   0 /  0
+VDAC2: VIRGINIA DALE 7ENE ::   7000 :DD2407/  48 / 25 /    0 /   0 /  0
+ASIC2: ASPEN SPRINGS      ::   9000 :DD2407/  46 / 20 /    0 /   0 /  4
+GRTC2: GRANT              ::   8700 :DD2407/  45 / 18 /    0 /   0 /  0
+ANTC2: ANTERO RESERVOIR   ::   8900 :DD2407/  51 / 12 /    0 /   0 /  0
+TCPC2: HARTSEL 12SW       ::   9500 :DD2407/  54 / 16 /    0 /   0 /  0
+LGEC2: LAKE GEORGE        ::   8000 :DD2407/  49 / 12 /    T /   T /  T
+LGRC2: LAKE GEORGE 8SW    ::   8500 :DD2407/  48 / 21 /    0 /   0 /  0
+
+:EXTREMES FOR NORTHEAST AND NORTH CENTRAL COLORADO
+
+:HIGH...   ELIZABETH 2E           66  LOW...    ANTERO RESERVOIR       12
+
+:PRECIP... MARSTON RESERVOIR      0.31
+
+.END
+
+THESE DATA ARE PRELIMINARY AND HAVE NOT UNDERGONE FINAL QUALITY
+CONTROL BY THE NATIONAL CLIMATIC DATA CENTER /NCDC/.  THEREFORE...
+THESE DATA ARE SUBJECT TO REVISION.  FINAL AND CERTIFIED CLIMATE DATA
+CAN BE ACCESSED AT WWW.NCDC.NOAA.GOV.
